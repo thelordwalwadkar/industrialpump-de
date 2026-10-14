@@ -1,0 +1,12 @@
+---
+import type { SbAsset } from '../lib/types';
+import { sbImage } from '../lib/images';
+interface Props { asset?: SbAsset; alt: string; width?: number; height?: number; eager?: boolean; emptyLabel?: string }
+const { asset, alt, width = 400, height = 300, eager = false, emptyLabel = 'Bild folgt' } = Astro.props;
+const img = sbImage(asset, width, height);
+---
+{img
+  ? <img src={img.src} srcset={img.srcset} width={img.width} height={img.height} alt={asset?.alt || alt} loading={eager ? 'eager' : 'lazy'} decoding="async" />
+  : <span class="muted" role="img" aria-label={emptyLabel}>
+      <svg width="40" height="40" viewBox="0 0 32 32" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="15" cy="17" r="8" /><circle cx="15" cy="17" r="2.4" /><path d="M15 9V4h6M23 17h6" /></svg>
+    </span>}

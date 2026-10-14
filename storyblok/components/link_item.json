@@ -1,0 +1,28 @@
+{
+  "component": {
+    "name": "link_item",
+    "display_name": "Link",
+    "is_root": false,
+    "is_nestable": true,
+    "schema": {
+      "label": {
+        "type": "text",
+        "description": "Sprechender Linktext (kein „hier klicken“).",
+        "required": true,
+        "pos": 0
+      },
+      "link": {
+        "type": "multilink",
+        "description": "Ziel.",
+        "email_link_type": true,
+        "asset_link_type": true,
+        "pos": 1
+      },
+      "description": {
+        "type": "text",
+        "description": "Kurzbeschreibung.",
+        "pos": 2
+      }
+    }
+  }
+}

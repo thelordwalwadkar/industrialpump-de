@@ -1,0 +1,81 @@
+{
+  "id": 2740231879,
+  "uuid": "a3549ec7-7200-b09c-92a4-1b8ec5bf2caa",
+  "name": "Ebara",
+  "slug": "ebara",
+  "full_slug": "pumpen/marken/ebara",
+  "position": 3,
+  "content": {
+    "component": "page_brand",
+    "brand_name": "Ebara",
+    "h1": "Ebara Pumpen – Serien, Einsatzbereiche und Revision",
+    "nav_title": "Ebara",
+    "seo_title": "Ebara Pumpen: Serien, Einsatzbereiche und Revision",
+    "seo_description": "Ebara-Pumpen im Überblick: Tauchmotorpumpen Optima, Best One und DW sowie Kreiselpumpen, Einsatzbereiche und Revision. Angebot anfordern.",
+    "intro": "Ebara ist ein japanischer Pumpenhersteller mit einem breiten Programm für Wasserversorgung, Gebäudetechnik und Entwässerung. Diese Seite zeigt die Ebara-Serien aus unserem Katalog, ihre Einsatzbereiche und die Möglichkeiten zur Revision.",
+    "body_text": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Im Katalog sind von Ebara zwei Gruppen geführt: Tauchmotorpumpen für Entwässerung und Schmutzwasser (Optima, Best One, DW) und Kreiselpumpen für Wasserversorgung, Gebäudetechnik und gewerbliche Anwendungen (CDX, DWO, JEX/JESX, AGA/AGC)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Die Tauchmotorpumpen der Best-One-Serie bestehen laut Katalog aus Edelstahl 304; die DW-Serie ist für Wasser mit höherem Schmutzanteil ausgelegt, die Ausführung DW VOX mit Vortex-Laufrad für Feststoffe. Bei den Kreiselpumpen unterscheiden sich die Serien in Förderhöhe, Werkstoff und Ansaugverhalten."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Zur Auswahl benötigen wir Förderstrom, Förderhöhe und Fördermedium. Bei einem Ersatz genügt in der Regel das Typenschild der vorhandenen Pumpe."
+            }
+          ]
+        }
+      ]
+    },
+    "logo": {
+      "filename": "/img/brands/ebara.webp",
+      "alt": "Ebara"
+    },
+    "revision_text": "Eine Revision kann je nach Zustand der Pumpe den Austausch von Verschleißteilen wie Gleitringdichtungen und Lagern umfassen. Den genauen Umfang legen wir nach Prüfung der Pumpe mit Ihnen fest. Welche Teile im Einzelfall verfügbar sind, hängt von Serie, Baujahr und Ausführung ab.",
+    "faq": [
+      {
+        "_uid": "020c5fb62ad3",
+        "component": "faq",
+        "heading": "Häufige Fragen zu Ebara-Pumpen",
+        "items": [
+          {
+            "_uid": "073351011dd2",
+            "component": "faq_item",
+            "question": "Sind Ersatzteile für Ebara-Pumpen verfügbar?",
+            "answer": "Das hängt von Serie, Baujahr und Ausführung ab. Senden Sie uns Typenschild oder ein Foto der Pumpe, dann prüfen wir die Verfügbarkeit."
+          },
+          {
+            "_uid": "dd7c1b6486cf",
+            "component": "faq_item",
+            "question": "Kann ich eine ältere Ebara-Serie durch ein aktuelles Modell ersetzen?",
+            "answer": "Das ist je nach Serie möglich. Entscheidend sind Förderstrom, Förderhöhe, Anschlussmaße und Motordaten der vorhandenen Pumpe. Anhand des Typenschilds prüfen wir, welches Modell passt."
+          },
+          {
+            "_uid": "eebc0a8a6af2",
+            "component": "faq_item",
+            "question": "Wie lang ist die Lieferzeit für Ebara-Pumpen?",
+            "answer": "[[PLATZHALTER: Lieferzeit Ebara]]"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "id": 681655159,
+  "uuid": "28a13b77-c693-dff2-cfde-2ecd72c97cdc",
+  "name": "Datenschutz",
+  "slug": "datenschutz",
+  "full_slug": "datenschutz",
+  "content": {
+    "component": "page_legal",
+    "legal_kind": "datenschutz",
+    "h1": "Datenschutz",
+    "nav_title": "Datenschutz",
+    "seo_title": "Datenschutzerklärung | Industrial Pump Group",
+    "seo_description": "Datenschutzerklärung nach Art. 13 DSGVO: Verantwortlicher, Zwecke, Rechtsgrundlagen, Speicherdauer und Ihre Rechte.",
+    "intro": "Hier erfahren Sie, welche personenbezogenen Daten beim Besuch dieser Website und bei Anfragen verarbeitet werden.",
+    "review_note": "Entwurf: Dieser Text muss vor der Veröffentlichung rechtlich geprüft und mit den Angaben des Unternehmens vervollständigt werden.",
+    "text": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "heading",
+          "attrs": {
+            "level": 2
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Verantwortlicher"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "[[PLATZHALTER: Name, Anschrift und Kontaktdaten des Verantwortlichen]]"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "attrs": {
+            "level": 2
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Datenschutzbeauftragter"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "[[PLATZHALTER: Kontakt des Datenschutzbeauftragten, falls benannt]]"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "attrs": {
+            "level": 2
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Besuch der Website"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Beim Aufruf der Website verarbeitet der Hosting-Anbieter technische Daten (Server-Logfiles). [[PLATZHALTER: Hosting-Anbieter, Art der Logfiles, Rechtsgrundlage und Speicherdauer]]"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "attrs": {
+            "level": 2
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Kontakt- und Angebotsformular"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Wir verarbeiten die Angaben aus dem Kontakt- und Angebotsformular, um Ihre Anfrage zu bearbeiten. Die Einwilligung geben Sie mit dem Absenden des Formulars."
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Rechtsgrundlage: [[PLATZHALTER: Art. 6 Abs. 1 DSGVO – bitte rechtlich festlegen]]"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Empfänger und Auftragsverarbeiter: [[PLATZHALTER: z. B. E-Mail-Dienst, CRM]]"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Speicherdauer: [[PLATZHALTER: Speicherdauer]]"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "attrs": {
+            "level": 2
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Cookies und ähnliche Technologien"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Diese Website verwendet nur technisch notwendige Speicherungen. Ihre Auswahl im Cookie-Hinweis speichern wir lokal in Ihrem Browser. Externe Inhalte wie Karten laden wir erst nach Ihrer Einwilligung (§ 25 TDDDG)."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "attrs": {
+            "level": 2
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Ihre Rechte"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Sie haben das Recht auf Auskunft (Art. 15 DSGVO), Berichtigung (Art. 16), Löschung (Art. 17), Einschränkung der Verarbeitung (Art. 18), Datenübertragbarkeit (Art. 20) und Widerspruch (Art. 21). Eine erteilte Einwilligung können Sie jederzeit widerrufen (Art. 7 Abs. 3)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Beschwerderecht bei der Aufsichtsbehörde (Art. 77 DSGVO): [[PLATZHALTER: zuständige Aufsichtsbehörde]]"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "attrs": {
+            "level": 2
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Übermittlung in Drittländer"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "[[PLATZHALTER: Angaben zu Drittlandübermittlungen]]"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

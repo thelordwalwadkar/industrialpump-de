@@ -1,0 +1,179 @@
+{
+  "id": 3934838214,
+  "uuid": "ea88ddc6-2883-67f3-6526-428f60044b17",
+  "name": "ESH-Serie",
+  "slug": "esh-serie",
+  "full_slug": "pumpen/marken/lowara/esh-serie",
+  "position": 3,
+  "content": {
+    "component": "page_series",
+    "series_name": "ESH",
+    "h1": "Lowara ESH-Serie – Kreiselpumpen für Druckerhöhung und Wasserversorgung",
+    "nav_title": "ESH-Serie",
+    "seo_title": "Lowara ESH-Serie: Kreiselpumpen für Wasserversorgung",
+    "seo_description": "Lowara ESH (ESHE, ESHS, ESHF): Kreiselpumpen für Druckerhöhung und Wasserversorgung in Industrie und Gewerbe. Kennbereiche, Angebot anfordern.",
+    "intro": "Die Lowara ESH-Serie umfasst Kreiselpumpen in den Ausführungen ESHE, ESHS und ESHF für Druckerhöhung und Wasserversorgung in Industrie und Gewerbe. Die Pumpen sind laut Katalog aus Edelstahl AISI 316 gefertigt.",
+    "pump_type": "kreiselpumpen",
+    "segments": [
+      "gebaeudetechnik-hvac",
+      "wasseraufbereitung",
+      "wassertransport"
+    ],
+    "applications": [],
+    "use_case_line": "Kreiselpumpen für Druckerhöhung und Wasserversorgung in Industrie und Gewerbe",
+    "body_text": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Die ESH-Serie von Lowara ist in mehreren Ausführungen und Leistungsgrößen erhältlich (ESHE, ESHS, ESHF), sodass sich für unterschiedliche Förderströme und Förderhöhen eine passende Pumpe finden lässt. Typische Einsatzgebiete sind Druckerhöhung und Wasserversorgung in industriellen und gewerblichen Anlagen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Als Werkstoff nennt der Katalog Edelstahl AISI 316, der die Pumpen widerstandsfähig gegen Korrosion macht. Zusätzlich sind laut Katalog eine Drehzahlregelung und eine Zulassung für Trinkwasser vorgesehen; welche Ausführung diese Merkmale bietet, klären wir vor der Bestellung anhand des Datenblatts."
+            }
+          ]
+        }
+      ]
+    },
+    "highlights": "Edelstahl AISI 316 (Katalogangabe)\nDrehzahlregelung bei entsprechender Ausführung\nZulassung für Trinkwasser bei entsprechender Ausführung (bitte prüfen)\nDruckerhöhung und Wasserversorgung",
+    "image_source": "/Images/ipg_ecom/Lowara/Lowara-ESHE.jpg",
+    "image": {
+      "filename": "/img/products/lowara-eshe.webp",
+      "alt": "Lowara ESH-Serie"
+    },
+    "flow_max_m3h": 210,
+    "head_max_m": 84,
+    "power_min_kw": 0.75,
+    "power_max_kw": 18.5,
+    "catalogue_count": 168,
+    "body": [
+      {
+        "_uid": "f1371d24b740",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Auswahlhinweise für Kreiselpumpen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Für die Auswahl einer Kreiselpumpe sind Förderstrom, Förderhöhe und Fördermedium die Grundlage. Danach werden Werkstoff, Dichtung und Motorleistung festgelegt."
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Betriebspunkt: Er ergibt sich aus dem Schnittpunkt von Pumpen- und Anlagenkennlinie und sollte in der Nähe des Bestpunkts liegen."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "NPSH: Der NPSH-Wert der Anlage muss den NPSH-Bedarf der Pumpe mit Sicherheitszuschlag übersteigen, sonst droht Kavitation."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Medium: Temperatur, Feststoffanteil und chemische Zusammensetzung bestimmen Werkstoff und Wellendichtung."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ersatz: Beim Austausch einer vorhandenen Pumpe sind Anschlussmaße, Drehzahl und Motordaten des Typenschilds maßgeblich."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "faq": [
+      {
+        "_uid": "da669979cd2f",
+        "component": "faq",
+        "heading": "Häufige Fragen zur ESH-Serie",
+        "items": [
+          {
+            "_uid": "058e45038698",
+            "component": "faq_item",
+            "question": "Wie finde ich den passenden Artikel der ESH-Serie?",
+            "answer": "Senden Sie uns das Typenschild Ihrer vorhandenen Pumpe oder Ihre Betriebsdaten: Förderstrom, Förderhöhe, Medium und Temperatur. Daraus ordnen wir den passenden Artikel der ESH-Serie zu."
+          },
+          {
+            "_uid": "b2c09abeec11",
+            "component": "faq_item",
+            "question": "Sind Ersatzteile und eine Revision für die ESH-Serie möglich?",
+            "answer": "Ersatzteile und die Revision von Lowara-Pumpen können Sie über das Angebotsformular anfragen. Welche Teile im Einzelfall verfügbar sind, hängt von Baujahr und Ausführung ab."
+          },
+          {
+            "_uid": "24eba8733d0a",
+            "component": "faq_item",
+            "question": "Wie lang ist die Lieferzeit für Artikel der ESH-Serie?",
+            "answer": "[[PLATZHALTER: Lieferzeit Lowara ESH]]"
+          }
+        ]
+      }
+    ]
+  }
+}

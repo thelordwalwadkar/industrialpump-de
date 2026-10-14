@@ -1,0 +1,182 @@
+{
+  "id": 1202016461,
+  "uuid": "47a550cd-5bd8-9242-4355-39ca86177917",
+  "name": "JEX/JESX-Serie",
+  "slug": "jex-jesx-serie",
+  "full_slug": "pumpen/marken/ebara/jex-jesx-serie",
+  "position": 20,
+  "content": {
+    "component": "page_series",
+    "series_name": "JEX/JESX",
+    "h1": "Ebara JEX/JESX-Serie – Selbstansaugende Kreiselpumpen",
+    "nav_title": "JEX/JESX-Serie",
+    "seo_title": "Ebara JEX/JESX-Serie: Selbstansaugende Kreiselpumpen",
+    "seo_description": "Ebara JEX und JESX: einstufige Kreiselpumpen (Jetpumpen) für sauberes oder leicht verschmutztes Wasser. Kennbereiche, Artikel, Angebot anfordern.",
+    "intro": "Die Ebara JEX/JESX-Serie umfasst einstufige Kreiselpumpen, teilweise als Jetpumpen ausgeführt, für sauberes oder leicht verschmutztes Wasser. Die Serie ist für industrielle und gewerbliche Anwendungen vorgesehen.",
+    "pump_type": "kreiselpumpen",
+    "segments": [
+      "landwirtschaft",
+      "gebaeudetechnik-hvac",
+      "wasseraufbereitung",
+      "wassertransport"
+    ],
+    "applications": [],
+    "use_case_line": "Einstufige Kreiselpumpen (Jetpumpen) für sauberes Wasser",
+    "body_text": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Die Baureihen JEX und JESX von Ebara sind einstufige Kreiselpumpen für die Förderung sauberer oder leicht verschmutzter Flüssigkeiten. Sie sind auf Zuverlässigkeit, Effizienz und einfache Handhabung ausgelegt."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Beide Baureihen haben einen Motor mit geringem Energieverbrauch und lassen sich dank kompakter Bauweise und gutem Zugang zu den Innenteilen einfach installieren und warten. In den Katalogdaten sind mehrere Artikel als Jetpumpen geführt."
+            }
+          ]
+        }
+      ]
+    },
+    "highlights": "Einstufige Kreiselpumpen, teilweise als Jetpumpen\nSauberes oder leicht verschmutztes Wasser\nKompakte Bauweise",
+    "image_source": "/Images/ipg_ecom/Ebara/Ebara-JESX-series.png",
+    "image": {
+      "filename": "/img/products/ebara-jesx-series.webp",
+      "alt": "Ebara JEX/JESX-Serie"
+    },
+    "flow_max_m3h": 18,
+    "head_max_m": 49,
+    "power_min_kw": 0.37,
+    "power_max_kw": 1.1,
+    "temp_max_c": 20,
+    "materials": "Edelstahl",
+    "catalogue_count": 14,
+    "body": [
+      {
+        "_uid": "028ec1f0b4d0",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Auswahlhinweise für Kreiselpumpen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Für die Auswahl einer Kreiselpumpe sind Förderstrom, Förderhöhe und Fördermedium die Grundlage. Danach werden Werkstoff, Dichtung und Motorleistung festgelegt."
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Betriebspunkt: Er ergibt sich aus dem Schnittpunkt von Pumpen- und Anlagenkennlinie und sollte in der Nähe des Bestpunkts liegen."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "NPSH: Der NPSH-Wert der Anlage muss den NPSH-Bedarf der Pumpe mit Sicherheitszuschlag übersteigen, sonst droht Kavitation."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Medium: Temperatur, Feststoffanteil und chemische Zusammensetzung bestimmen Werkstoff und Wellendichtung."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ersatz: Beim Austausch einer vorhandenen Pumpe sind Anschlussmaße, Drehzahl und Motordaten des Typenschilds maßgeblich."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "faq": [
+      {
+        "_uid": "0e66b3e3a815",
+        "component": "faq",
+        "heading": "Häufige Fragen zur JEX/JESX-Serie",
+        "items": [
+          {
+            "_uid": "1486964262ac",
+            "component": "faq_item",
+            "question": "Wie finde ich den passenden Artikel der JEX/JESX-Serie?",
+            "answer": "Senden Sie uns das Typenschild Ihrer vorhandenen Pumpe oder Ihre Betriebsdaten: Förderstrom, Förderhöhe, Medium und Temperatur. Daraus ordnen wir den passenden Artikel der JEX/JESX-Serie zu."
+          },
+          {
+            "_uid": "49962cad174f",
+            "component": "faq_item",
+            "question": "Sind Ersatzteile und eine Revision für die JEX/JESX-Serie möglich?",
+            "answer": "Ersatzteile und die Revision von Ebara-Pumpen können Sie über das Angebotsformular anfragen. Welche Teile im Einzelfall verfügbar sind, hängt von Baujahr und Ausführung ab."
+          },
+          {
+            "_uid": "4a5dfbe5f04b",
+            "component": "faq_item",
+            "question": "Wie lang ist die Lieferzeit für Artikel der JEX/JESX-Serie?",
+            "answer": "[[PLATZHALTER: Lieferzeit Ebara JEX/JESX]]"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "id": 605001452,
+  "uuid": "240f96ec-e318-06fb-b086-e736abfe2d04",
+  "name": "1HM02P03T5RVBE",
+  "slug": "1hm02p03t5rvbe",
+  "full_slug": "pumpen/marken/lowara/hm-serie/1hm02p03t5rvbe",
+  "position": 0,
+  "content": {
+    "component": "page_product",
+    "article_number": "1HM02P03T5RVBE",
+    "name": "1HM02P03T5RVBE",
+    "nav_title": "1HM02P03T5RVBE",
+    "h1": "Lowara 1HM02P03T5RVBE – Mehrstufige Kreiselpumpe für Druckerhöhung und Gebäudetechnik",
+    "seo_title": "Lowara 1HM02P03T5RVBE – Mehrstufige Kreiselpumpe",
+    "seo_description": "Lowara 1HM02P03T5RVBE: Mehrstufige Kreiselpumpe der HM-Serie. Motorleistung 0,3 kW, Förderstrom bis 2,4 m³/h, Förderhöhe bis 20,2 m. Angebot anfordern.",
+    "intro": "Die Lowara 1HM02P03T5RVBE ist eine Mehrstufige Kreiselpumpe der HM-Serie für Druckerhöhung und Gebäudetechnik.",
+    "short_description": "Die Lowara 1HM02P03T5RVBE ist eine Mehrstufige Kreiselpumpe der HM-Serie für Druckerhöhung und Gebäudetechnik. Laut Katalogdaten hat dieser Artikel eine Motorleistung von 0,3 kW, einen Förderstrom bis 2,4 m³/h und eine Förderhöhe bis 20,2 m. Für die Auslegung im Bestand senden Sie uns Typenschild oder Betriebsdaten; wir prüfen, ob die 1HM02P03T5RVBE Ihre Fördermenge und Förderhöhe abdeckt. Maßgeblich sind die Angaben im Datenblatt des Herstellers.",
+    "image_source": "/Images/ipg_ecom/Lowara/Lowara-HM.jpg",
+    "image": {
+      "filename": "/img/products/lowara-hm.webp",
+      "alt": "Lowara 1HM02P03T5RVBE"
+    },
+    "internal_item_number": "26-104600010",
+    "key_facts": [
+      {
+        "_uid": "a52ce6792899",
+        "component": "key_fact",
+        "label": "Förderstrom max.",
+        "value": "2,4",
+        "unit": "m³/h"
+      },
+      {
+        "_uid": "6b16fe60b7ff",
+        "component": "key_fact",
+        "label": "Förderhöhe max.",
+        "value": "20,2",
+        "unit": "m"
+      },
+      {
+        "_uid": "5e0f69f803fd",
+        "component": "key_fact",
+        "label": "Motorleistung",
+        "value": "0,3",
+        "unit": "kW"
+      },
+      {
+        "_uid": "d848f664a063",
+        "component": "key_fact",
+        "label": "Spannung",
+        "value": "220–240",
+        "unit": "V"
+      }
+    ],
+    "specs": [
+      {
+        "_uid": "62e2d542f242",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderstrom min.",
+        "value": "0,7",
+        "unit": "m³/h",
+        "value_num": 0.7
+      },
+      {
+        "_uid": "4f3cfbdc8196",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderstrom max.",
+        "value": "2,4",
+        "unit": "m³/h",
+        "value_num": 2.4
+      },
+      {
+        "_uid": "7c3e7a35268d",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderhöhe max.",
+        "value": "20,2",
+        "unit": "m",
+        "value_num": 20.2
+      },
+      {
+        "_uid": "37f162bc580b",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderhöhe min.",
+        "value": "10,6",
+        "unit": "m",
+        "value_num": 10.6
+      },
+      {
+        "_uid": "ed6effc887f4",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Motorleistung",
+        "value": "0,3",
+        "unit": "kW",
+        "value_num": 0.3
+      },
+      {
+        "_uid": "86b34bf14f25",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Nennspannung (Variante 1)",
+        "value": "220–240",
+        "unit": "V"
+      },
+      {
+        "_uid": "ebbad7f411ed",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Nennspannung (Variante 2)",
+        "value": "380–415",
+        "unit": "V"
+      },
+      {
+        "_uid": "b72f842de5c5",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Frequenz",
+        "value": "50",
+        "unit": "Hz",
+        "value_num": 50
+      },
+      {
+        "_uid": "625fd418a00e",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Phasen",
+        "value": "3",
+        "value_num": 3
+      },
+      {
+        "_uid": "0bc603db58a4",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Nennstrom (Variante 1)",
+        "value": "1,66",
+        "unit": "A",
+        "value_num": 1.66
+      },
+      {
+        "_uid": "a9c5bf649c41",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Nennstrom (Variante 2)",
+        "value": "0,96",
+        "unit": "A",
+        "value_num": 0.96
+      },
+      {
+        "_uid": "0813fe87e833",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Drehzahl",
+        "value": "2.900",
+        "unit": "min⁻¹",
+        "value_num": 2900
+      },
+      {
+        "_uid": "11a2d6b4b1f4",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Motortyp",
+        "value": "SM63HMHA/303"
+      },
+      {
+        "_uid": "300eb85110b0",
+        "component": "spec_row",
+        "group": "Anschlüsse & Abmessungen",
+        "label": "Gewicht",
+        "value": "6,29",
+        "unit": "kg",
+        "value_num": 6.29
+      }
+    ],
+    "flow_max_m3h": 2.4,
+    "head_max_m": 20.2,
+    "power_kw": 0.3,
+    "voltage": "230/400 V"
+  }
+}

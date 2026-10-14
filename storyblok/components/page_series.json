@@ -1,0 +1,244 @@
+{
+  "component": {
+    "name": "page_series",
+    "display_name": "T5 · Serie",
+    "is_root": true,
+    "is_nestable": false,
+    "schema": {
+      "h1": {
+        "type": "text",
+        "description": "Haupt-Überschrift (genau ein H1 pro Seite). Enthält das Hauptthema.",
+        "required": true,
+        "pos": 0
+      },
+      "intro": {
+        "type": "textarea",
+        "description": "Einleitung in höchstens zwei Sätzen: Was ist das und für wen? Wird als Zitat-Antwort gelesen.",
+        "required": true,
+        "max_length": 320,
+        "pos": 1
+      },
+      "nav_title": {
+        "type": "text",
+        "description": "Kurzname für Brotkrumen, Navigation und Karten (z. B. „DIWA-Serie“).",
+        "pos": 2
+      },
+      "seo_title": {
+        "type": "text",
+        "description": "Seitentitel für Google, höchstens 60 Zeichen.",
+        "max_length": 60,
+        "required": true,
+        "pos": 3
+      },
+      "seo_description": {
+        "type": "textarea",
+        "description": "Meta-Beschreibung, höchstens 155 Zeichen.",
+        "max_length": 155,
+        "required": true,
+        "pos": 4
+      },
+      "noindex": {
+        "type": "boolean",
+        "description": "Nur für Sonderfälle: Seite von der Suche ausschließen. Rechtstexte bleiben indexierbar.",
+        "default_value": false,
+        "pos": 5
+      },
+      "series_name": {
+        "type": "text",
+        "description": "Serienname ohne „-Serie“ (z. B. „DIWA“). Der URL-Slug lautet „diwa-serie“.",
+        "required": true,
+        "pos": 6
+      },
+      "pump_type": {
+        "type": "option",
+        "source": "self",
+        "options": [
+          {
+            "name": "Kreiselpumpen",
+            "value": "kreiselpumpen"
+          },
+          {
+            "name": "Mehrstufige Pumpen",
+            "value": "mehrstufige-pumpen"
+          },
+          {
+            "name": "Blockpumpen",
+            "value": "blockpumpen"
+          },
+          {
+            "name": "Tauchmotorpumpen",
+            "value": "tauchmotorpumpen"
+          },
+          {
+            "name": "Druckerhöhungsanlagen",
+            "value": "druckerhoehungsanlagen"
+          }
+        ],
+        "description": "Pumpentyp (verbindet Serien markenübergreifend).",
+        "required": true,
+        "pos": 7
+      },
+      "segments": {
+        "type": "options",
+        "source": "self",
+        "options": [
+          {
+            "name": "Gebäudetechnik / HVAC",
+            "value": "gebaeudetechnik-hvac"
+          },
+          {
+            "name": "Wasseraufbereitung",
+            "value": "wasseraufbereitung"
+          },
+          {
+            "name": "Wassertransport",
+            "value": "wassertransport"
+          },
+          {
+            "name": "Landwirtschaft",
+            "value": "landwirtschaft"
+          }
+        ],
+        "description": "Branchen (aus den Produktdaten).",
+        "pos": 8
+      },
+      "applications": {
+        "type": "options",
+        "source": "self",
+        "options": [
+          {
+            "name": "Entwässerung",
+            "value": "entwaesserung"
+          },
+          {
+            "name": "Abwasser",
+            "value": "abwasser"
+          }
+        ],
+        "description": "Anwendungen.",
+        "pos": 9
+      },
+      "use_case_line": {
+        "type": "text",
+        "description": "Eine Zeile zum Einsatz, erscheint in den Karten der Marken-Seite.",
+        "required": true,
+        "pos": 10
+      },
+      "body_text": {
+        "type": "richtext",
+        "description": "Beschreibung der Serie.",
+        "rich_markdown": false,
+        "pos": 11
+      },
+      "highlights": {
+        "type": "textarea",
+        "description": "Merkmale, eine Zeile pro Punkt.",
+        "pos": 12
+      },
+      "image": {
+        "type": "asset",
+        "filetypes": [
+          "images"
+        ],
+        "description": "Serienbild.",
+        "pos": 13
+      },
+      "image_source": {
+        "type": "text",
+        "description": "Quellpfad des Bildes im Altsystem (für die Asset-Migration).",
+        "pos": 14
+      },
+      "flow_max_m3h": {
+        "type": "number",
+        "description": "Förderstrom max. in m³/h (aus den Produktdaten).",
+        "pos": 15
+      },
+      "head_max_m": {
+        "type": "number",
+        "description": "Förderhöhe max. in m.",
+        "pos": 16
+      },
+      "power_min_kw": {
+        "type": "number",
+        "description": "Kleinste Motorleistung in kW.",
+        "pos": 17
+      },
+      "power_max_kw": {
+        "type": "number",
+        "description": "Größte Motorleistung in kW.",
+        "pos": 18
+      },
+      "temp_max_c": {
+        "type": "number",
+        "description": "Max. Medientemperatur in °C.",
+        "pos": 19
+      },
+      "materials": {
+        "type": "text",
+        "description": "Werkstoffe der Serie.",
+        "pos": 20
+      },
+      "catalogue_count": {
+        "type": "number",
+        "description": "Anzahl Artikel im Katalog.",
+        "pos": 21
+      },
+      "downloads": {
+        "type": "bloks",
+        "restrict_components": true,
+        "component_whitelist": [
+          "download_list"
+        ],
+        "description": "Datenblatt / Kennlinie der Serie.",
+        "maximum": 1,
+        "pos": 22
+      },
+      "faq": {
+        "type": "bloks",
+        "restrict_components": true,
+        "component_whitelist": [
+          "faq"
+        ],
+        "description": "FAQ-Block (3–5 Fragen). Erzeugt auch FAQPage-Daten.",
+        "maximum": 1,
+        "pos": 23
+      },
+      "body": {
+        "type": "bloks",
+        "restrict_components": true,
+        "component_whitelist": [
+          "rich_text",
+          "card_grid",
+          "cta_band",
+          "faq",
+          "spec_table",
+          "download_list",
+          "steps",
+          "related_links",
+          "image_text"
+        ],
+        "description": "Optionale Zusatz-Bausteine. Die Pflicht-Abschnitte sind im Template fest eingebaut.",
+        "pos": 24
+      },
+      "cta": {
+        "type": "bloks",
+        "restrict_components": true,
+        "component_whitelist": [
+          "cta_band"
+        ],
+        "description": "Optionales Abschluss-Banner. Ohne Eintrag erscheint der Standard-CTA des Templates.",
+        "maximum": 1,
+        "pos": 25
+      },
+      "tab-seo": {
+        "type": "tab",
+        "display_name": "SEO",
+        "keys": [
+          "seo_title",
+          "seo_description",
+          "noindex"
+        ]
+      }
+    }
+  }
+}

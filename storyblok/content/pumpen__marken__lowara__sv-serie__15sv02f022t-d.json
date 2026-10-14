@@ -1,0 +1,191 @@
+{
+  "id": 2604229443,
+  "uuid": "9b396343-0e6a-58c8-6a39-0b5a5d225824",
+  "name": "15SV02F022T/D",
+  "slug": "15sv02f022t-d",
+  "full_slug": "pumpen/marken/lowara/sv-serie/15sv02f022t-d",
+  "position": 0,
+  "content": {
+    "component": "page_product",
+    "article_number": "15SV02F022T/D",
+    "name": "15SV02F022T/D",
+    "nav_title": "15SV02F022T/D",
+    "h1": "Lowara 15SV02F022T/D – Mehrstufige Kreiselpumpe für Druckerhöhung und Wasserversorgung",
+    "seo_title": "Lowara 15SV02F022T/D – Mehrstufige Kreiselpumpe",
+    "seo_description": "Lowara 15SV02F022T/D: Mehrstufige Kreiselpumpe der SV-Serie. Motorleistung 2,2 kW, Förderstrom bis 24 m³/h, Förderhöhe bis 26,7 m. Angebot anfordern.",
+    "intro": "Die Lowara 15SV02F022T/D ist eine Mehrstufige Kreiselpumpe der SV-Serie für Druckerhöhung und Wasserversorgung.",
+    "short_description": "Die Lowara 15SV02F022T/D ist eine Mehrstufige Kreiselpumpe der SV-Serie für Druckerhöhung und Wasserversorgung. Laut Katalogdaten hat dieser Artikel eine Motorleistung von 2,2 kW, einen Förderstrom bis 24 m³/h und eine Förderhöhe bis 26,7 m. Die Artikelbezeichnung enthält Baugröße, Stufenzahl sowie Werkstoff- und Motorausführung. Für die Auslegung im Bestand senden Sie uns Typenschild oder Betriebsdaten; wir prüfen, ob die 15SV02F022T/D Ihre Fördermenge und Förderhöhe abdeckt. Maßgeblich sind die Angaben im Datenblatt des Herstellers.",
+    "image_source": "/Images/ipg_ecom/Lowara/Lowara-SV.jpg",
+    "image": {
+      "filename": "/img/products/lowara-sv.webp",
+      "alt": "Lowara 15SV02F022T/D"
+    },
+    "internal_item_number": "26-1016LD411",
+    "key_facts": [
+      {
+        "_uid": "96e7a3555520",
+        "component": "key_fact",
+        "label": "Förderstrom max.",
+        "value": "24",
+        "unit": "m³/h"
+      },
+      {
+        "_uid": "62adc82cd681",
+        "component": "key_fact",
+        "label": "Förderhöhe max.",
+        "value": "26,7",
+        "unit": "m"
+      },
+      {
+        "_uid": "72ffd8bad5d7",
+        "component": "key_fact",
+        "label": "Motorleistung",
+        "value": "2,2",
+        "unit": "kW"
+      },
+      {
+        "_uid": "6634fa1d08fc",
+        "component": "key_fact",
+        "label": "Spannung",
+        "value": "230",
+        "unit": "V"
+      }
+    ],
+    "specs": [
+      {
+        "_uid": "2a8eab4199ad",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderstrom min.",
+        "value": "8",
+        "unit": "m³/h",
+        "value_num": 8
+      },
+      {
+        "_uid": "9f96fd4a4466",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderstrom max.",
+        "value": "24",
+        "unit": "m³/h",
+        "value_num": 24
+      },
+      {
+        "_uid": "03b063f7e2fd",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderhöhe max.",
+        "value": "26,7",
+        "unit": "m",
+        "value_num": 26.7
+      },
+      {
+        "_uid": "2fe8061f69a1",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderhöhe min.",
+        "value": "13",
+        "unit": "m",
+        "value_num": 13
+      },
+      {
+        "_uid": "b9e7be1dc95f",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Motorleistung",
+        "value": "2,2",
+        "unit": "kW",
+        "value_num": 2.2
+      },
+      {
+        "_uid": "5092debccf59",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Spannung",
+        "value": "230",
+        "unit": "V",
+        "value_num": 230
+      },
+      {
+        "_uid": "387dfe3c1f1b",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Nennspannung (Variante 1)",
+        "value": "220–240",
+        "unit": "V"
+      },
+      {
+        "_uid": "5546e5a4738f",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Nennspannung (Variante 2)",
+        "value": "380–415",
+        "unit": "V"
+      },
+      {
+        "_uid": "aa84d09fa91e",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Frequenz",
+        "value": "50",
+        "unit": "Hz",
+        "value_num": 50
+      },
+      {
+        "_uid": "75cb70066a54",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Phasen",
+        "value": "3",
+        "value_num": 3
+      },
+      {
+        "_uid": "44049c994ebd",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Nennstrom (Variante 1)",
+        "value": "7,9",
+        "unit": "A",
+        "value_num": 7.9
+      },
+      {
+        "_uid": "08f4c0204bc6",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Nennstrom (Variante 2)",
+        "value": "4,56",
+        "unit": "A",
+        "value_num": 4.56
+      },
+      {
+        "_uid": "88eb11e11532",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Drehzahl",
+        "value": "2.900",
+        "unit": "min⁻¹",
+        "value_num": 2900
+      },
+      {
+        "_uid": "ef18b83a85fd",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Motortyp",
+        "value": "PLM90B14/322"
+      },
+      {
+        "_uid": "9f1f360c0a2d",
+        "component": "spec_row",
+        "group": "Anschlüsse & Abmessungen",
+        "label": "Gewicht",
+        "value": "34,6",
+        "unit": "kg",
+        "value_num": 34.6
+      }
+    ],
+    "flow_max_m3h": 24,
+    "head_max_m": 26.7,
+    "power_kw": 2.2,
+    "voltage": "230/400 V"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "id": 369031522,
+  "uuid": "15fef962-55bb-41a1-6b8f-9d316ce42d69",
+  "name": "Tauchmotorpumpen",
+  "slug": "topic-pumpentyp",
+  "full_slug": "__fixtures__/topic-pumpentyp",
+  "content": {
+    "component": "page_topic",
+    "topic_kind": "pumpentyp",
+    "tag": "tauchmotorpumpen",
+    "h1": "Tauchmotorpumpen",
+    "nav_title": "Tauchmotorpumpen",
+    "seo_title": "Tauchmotorpumpen: Auswahl und Einsatz",
+    "seo_description": "Fixture für das Themen-Template: Tauchmotorpumpen, Herausforderungen, passende Serien, technische Hinweise und FAQ.",
+    "intro": "Tauchmotorpumpen arbeiten im Medium und fördern Wasser aus Schächten, Gruben und Behältern. Diese Seite prüft das Themen-Template.",
+    "challenges": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Typische Herausforderungen sind Feststoffe, schwankende Wasserstände und der Schutz vor Trockenlauf."
+            }
+          ]
+        }
+      ]
+    },
+    "related": [
+      {
+        "_uid": "topic-rel",
+        "component": "related_links",
+        "heading": "Passende Anwendungen und Marken",
+        "links": [
+          {
+            "_uid": "topic-l0",
+            "component": "link_item",
+            "label": "Lowara Pumpen",
+            "link": {
+              "fieldtype": "multilink",
+              "linktype": "story",
+              "id": "85d4a1d8-71af-23ed-0865-30735bb17790",
+              "cached_url": "pumpen/marken/lowara",
+              "url": ""
+            },
+            "description": "Serien für Entwässerung"
+          },
+          {
+            "_uid": "topic-l1",
+            "component": "link_item",
+            "label": "Nicht vorhandene Seite",
+            "link": {
+              "fieldtype": "multilink",
+              "linktype": "story",
+              "id": "41e73f8a-7e5e-f16c-91cd-a003f114772f",
+              "cached_url": "pumpen/anwendungen/gibt-es-nicht",
+              "url": ""
+            }
+          }
+        ]
+      }
+    ],
+    "technical_notes": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "heading",
+          "attrs": {
+            "level": 3
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Freier Durchgang"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Der freie Durchgang nennt die größte Feststoffgröße, die die Pumpe passieren kann."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": [
+      {
+        "_uid": "topic-faq",
+        "component": "faq",
+        "heading": "Häufige Fragen",
+        "items": [
+          {
+            "_uid": "topic-q1",
+            "component": "faq_item",
+            "question": "Wie wähle ich die richtige Größe?",
+            "answer": "Anhand von Förderstrom, Förderhöhe und Medium. Das Typenschild der vorhandenen Pumpe genügt für eine erste Einschätzung."
+          },
+          {
+            "_uid": "topic-q2",
+            "component": "faq_item",
+            "question": "Ist eine Revision möglich?",
+            "answer": "Das hängt von Serie, Baujahr und Zustand ab. Wir prüfen es nach Eingang der Typenschilddaten."
+          },
+          {
+            "_uid": "topic-q3",
+            "component": "faq_item",
+            "question": "Welche Unterlagen benötigen Sie?",
+            "answer": "Typenschild oder Foto, Betriebsdaten und das Fördermedium."
+          }
+        ]
+      }
+    ]
+  }
+}

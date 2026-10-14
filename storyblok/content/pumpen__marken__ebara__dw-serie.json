@@ -1,0 +1,184 @@
+{
+  "id": 281423655,
+  "uuid": "10c62f27-4d5a-30ae-de87-01c4e27f0ca4",
+  "name": "DW-Serie",
+  "slug": "dw-serie",
+  "full_slug": "pumpen/marken/ebara/dw-serie",
+  "position": 17,
+  "content": {
+    "component": "page_series",
+    "series_name": "DW",
+    "h1": "Ebara DW-Serie – Tauchmotorpumpen für Wasser mit höherem Schmutzanteil",
+    "nav_title": "DW-Serie",
+    "seo_title": "Ebara DW-Serie: Tauchmotorpumpen für Schmutzwasser",
+    "seo_description": "Ebara DW und DW VOX: Tauchmotorpumpen für Wasser mit höherem Schmutzanteil, Baugruben und Grundwasserabsenkung. Kennbereiche, Angebot anfordern.",
+    "intro": "Die Ebara DW-Serie (DW und DW VOX) umfasst Tauchmotorpumpen für Wasser mit relativ hohem Schmutzanteil, etwa für Abwasser, Baugruben, Kellerentwässerung und Grundwasserabsenkung. Die Pumpen sind vollständig tauchfähig.",
+    "pump_type": "tauchmotorpumpen",
+    "segments": [
+      "landwirtschaft",
+      "wasseraufbereitung",
+      "wassertransport"
+    ],
+    "applications": [
+      "abwasser",
+      "entwaesserung"
+    ],
+    "use_case_line": "Tauchmotorpumpen für Wasser mit höherem Schmutzanteil",
+    "body_text": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Die DW-Serie von Ebara ist für Wasser mit relativ hohem Schmutzanteil ausgelegt. Die Pumpen haben ein Laufrad aus Edelstahl und sind in unterschiedlichen Leistungen und Förderströmen erhältlich; sie eignen sich für kleine und große Anwendungen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Die Ausführung DW VOX hat ein Vortex-Laufrad und kann Abwasser mit Feststoffen bis zu einem Durchmesser von 50 mm fördern. Bei beiden Ausführungen ist der Freie Durchgang des gewählten Artikels in den technischen Daten angegeben."
+            }
+          ]
+        }
+      ]
+    },
+    "highlights": "Wasser mit höherem Schmutzanteil\nLaufrad aus Edelstahl (Katalogangabe)\nDW VOX: Vortex-Laufrad, Feststoffe bis 50 mm\nBaugruben, Kellerentwässerung, Grundwasserabsenkung",
+    "image_source": "/Images/ipg_ecom/Ebara/Ebara-DW-series.png",
+    "image": {
+      "filename": "/img/products/ebara-dw-series.webp",
+      "alt": "Ebara DW-Serie"
+    },
+    "flow_max_m3h": 54,
+    "head_max_m": 19.9,
+    "power_min_kw": 0.55,
+    "power_max_kw": 2.2,
+    "temp_max_c": 20,
+    "materials": "Edelstahl",
+    "catalogue_count": 22,
+    "body": [
+      {
+        "_uid": "0a86696776b6",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Auswahlhinweise für Tauchmotorpumpen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Tauchmotorpumpen arbeiten im Medium und fördern es direkt aus Schacht, Grube oder Behälter. Entscheidend sind Förderstrom, Förderhöhe und die Beschaffenheit des Mediums."
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Freier Durchgang: Er gibt die größte Feststoffgröße an, die die Pumpe passieren kann."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Niveausteuerung: Schwimmerschalter oder Niveaugeber schalten die Pumpe selbsttätig und schützen vor Trockenlauf."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Einbau: Eintauchtiefe, Kühlung des Motors und Aufstellart (tragbar oder fest installiert) beachten."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Explosionsgefährdete Bereiche: Hier ist eine Ausführung nach ATEX (2014/34/EU) erforderlich; bitte vor der Auswahl prüfen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "faq": [
+      {
+        "_uid": "7004ca3c2cab",
+        "component": "faq",
+        "heading": "Häufige Fragen zur DW-Serie",
+        "items": [
+          {
+            "_uid": "7b70bf0d1384",
+            "component": "faq_item",
+            "question": "Wie finde ich den passenden Artikel der DW-Serie?",
+            "answer": "Senden Sie uns das Typenschild Ihrer vorhandenen Pumpe oder Ihre Betriebsdaten: Förderstrom, Förderhöhe, Medium und Temperatur. Daraus ordnen wir den passenden Artikel der DW-Serie zu."
+          },
+          {
+            "_uid": "6347b93aa8e0",
+            "component": "faq_item",
+            "question": "Sind Ersatzteile und eine Revision für die DW-Serie möglich?",
+            "answer": "Ersatzteile und die Revision von Ebara-Pumpen können Sie über das Angebotsformular anfragen. Welche Teile im Einzelfall verfügbar sind, hängt von Baujahr und Ausführung ab."
+          },
+          {
+            "_uid": "4f2f3293a8e1",
+            "component": "faq_item",
+            "question": "Wie lang ist die Lieferzeit für Artikel der DW-Serie?",
+            "answer": "[[PLATZHALTER: Lieferzeit Ebara DW]]"
+          }
+        ]
+      }
+    ]
+  }
+}

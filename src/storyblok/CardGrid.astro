@@ -1,0 +1,37 @@
+---
+import type { CardGrid } from '../lib/types';
+import type { Site } from '../lib/storyblok';
+import { resolveLink } from '../lib/links';
+import type { LinkCard } from '../lib/linking';
+import { sbImage } from '../lib/images';
+import LinkCards from '../components/LinkCards.astro';
+interface Props { blok: CardGrid; site: Site }
+const { blok, site } = Astro.props;
+// A card whose internal target does not exist yet is not rendered (it appears automatically once the page is published).
+const cards: LinkCard[] = (blok.cards ?? []).flatMap((c) => {
+  const r = resolveLink(site, c.link);
+  return r && r.exists ? [{ title: c.title, href: r.href, text: c.text, meta: c.meta, image: c.image }] : [];
+});
+const withPhotos = cards.length > 0 && cards.every((c) => c.image?.filename);
+---
+{cards.length > 0 && (
+  <section class="section section--grey">
+    <div class="wrap">
+      {blok.heading && <h2>{blok.heading}</h2>}
+      {blok.intro && <p>{blok.intro}</p>}
+      {withPhotos
+        ? <div class="service-tiles">
+            {cards.map((c) => {
+              const img = sbImage(c.image, 450, 253)!;
+              return (
+                <a class="service-tile" href={c.href}>
+                  <img src={img.src} width={img.width} height={img.height} alt="" loading="lazy" decoding="async" />
+                  <div><h3>{c.title}</h3>{c.text && <p>{c.text}</p>}<span class="card"><span class="go" style="border:0">Ansehen</span></span></div>
+                </a>
+              );
+            })}
+          </div>
+        : <LinkCards cards={cards} variant="tiles" />}
+    </div>
+  </section>
+)}

@@ -1,0 +1,183 @@
+{
+  "id": 82626092,
+  "uuid": "04ecc62c-5641-ecc8-e766-2952d22c26ba",
+  "name": "DOMO-Serie",
+  "slug": "domo-serie",
+  "full_slug": "pumpen/marken/lowara/domo-serie",
+  "position": 7,
+  "content": {
+    "component": "page_series",
+    "series_name": "DOMO",
+    "h1": "Lowara DOMO-Serie – Tauchmotorpumpen für Schmutz- und Abwasser",
+    "nav_title": "DOMO-Serie",
+    "seo_title": "Lowara DOMO-Serie: Tauchmotorpumpen für Schmutzwasser",
+    "seo_description": "Lowara DOMO: Tauchmotorpumpen für Schmutz- und Abwasser mit doppelter Gleitringdichtung, 0,3 bis 7,5 kW. Kennbereiche, Angebot anfordern.",
+    "intro": "Die Lowara DOMO-Serie umfasst Tauchmotorpumpen für die Förderung von Schmutz- und Abwasser in gewerblichen Anwendungen. Der Leistungsbereich reicht nach Herstellerangabe von 0,3 bis 7,5 kW.",
+    "pump_type": "tauchmotorpumpen",
+    "segments": [
+      "landwirtschaft",
+      "wasseraufbereitung",
+      "wassertransport"
+    ],
+    "applications": [
+      "abwasser",
+      "entwaesserung"
+    ],
+    "use_case_line": "Tauchmotorpumpen für Schmutz- und Abwasser",
+    "body_text": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Die DOMO-Serie von Lowara ist für die Entsorgung von Schmutz- und Abwasser ausgelegt. Sie bietet eine große Auswahl an Modellen im Leistungsbereich von 0,3 bis 7,5 kW und eignet sich für gewerbliche Anwendungen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Die Pumpen sind laut Hersteller mit einer doppelten Gleitringdichtung ausgestattet, die vor Leckage schützt und die Lebensdauer verlängert. Die Angaben zum Werkstoff weichen zwischen Beschreibung und Katalogdaten ab; Gehäuse- und Laufradwerkstoff des gewählten Artikels finden Sie in den technischen Daten."
+            }
+          ]
+        }
+      ]
+    },
+    "highlights": "Schmutz- und Abwasser\n0,3 bis 7,5 kW (Herstellerangabe)\nDoppelte Gleitringdichtung (Herstellerangabe)\nGewerbliche Anwendungen",
+    "image_source": "/Images/ipg_ecom/Lowara/Lowara-DOMO.jpg",
+    "image": {
+      "filename": "/img/products/lowara-domo.webp",
+      "alt": "Lowara DOMO-Serie"
+    },
+    "flow_max_m3h": 40.2,
+    "head_max_m": 11.7,
+    "power_min_kw": 0.55,
+    "power_max_kw": 1.5,
+    "materials": "Gusseisen",
+    "catalogue_count": 20,
+    "body": [
+      {
+        "_uid": "b7ee5e0e5e58",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Auswahlhinweise für Tauchmotorpumpen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Tauchmotorpumpen arbeiten im Medium und fördern es direkt aus Schacht, Grube oder Behälter. Entscheidend sind Förderstrom, Förderhöhe und die Beschaffenheit des Mediums."
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Freier Durchgang: Er gibt die größte Feststoffgröße an, die die Pumpe passieren kann."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Niveausteuerung: Schwimmerschalter oder Niveaugeber schalten die Pumpe selbsttätig und schützen vor Trockenlauf."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Einbau: Eintauchtiefe, Kühlung des Motors und Aufstellart (tragbar oder fest installiert) beachten."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Explosionsgefährdete Bereiche: Hier ist eine Ausführung nach ATEX (2014/34/EU) erforderlich; bitte vor der Auswahl prüfen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "faq": [
+      {
+        "_uid": "fdf78d17ac47",
+        "component": "faq",
+        "heading": "Häufige Fragen zur DOMO-Serie",
+        "items": [
+          {
+            "_uid": "8b1409ce70a6",
+            "component": "faq_item",
+            "question": "Wie finde ich den passenden Artikel der DOMO-Serie?",
+            "answer": "Senden Sie uns das Typenschild Ihrer vorhandenen Pumpe oder Ihre Betriebsdaten: Förderstrom, Förderhöhe, Medium und Temperatur. Daraus ordnen wir den passenden Artikel der DOMO-Serie zu."
+          },
+          {
+            "_uid": "7aa0a732fd91",
+            "component": "faq_item",
+            "question": "Sind Ersatzteile und eine Revision für die DOMO-Serie möglich?",
+            "answer": "Ersatzteile und die Revision von Lowara-Pumpen können Sie über das Angebotsformular anfragen. Welche Teile im Einzelfall verfügbar sind, hängt von Baujahr und Ausführung ab."
+          },
+          {
+            "_uid": "7d22f0c655ff",
+            "component": "faq_item",
+            "question": "Wie lang ist die Lieferzeit für Artikel der DOMO-Serie?",
+            "answer": "[[PLATZHALTER: Lieferzeit Lowara DOMO]]"
+          }
+        ]
+      }
+    ]
+  }
+}

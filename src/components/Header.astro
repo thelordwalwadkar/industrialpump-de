@@ -1,0 +1,27 @@
+---
+import type { Site } from '../lib/storyblok';
+import { resolveLink } from '../lib/links';
+
+interface Props { site: Site; currentPath?: string; minimal?: boolean }
+const { site, currentPath, minimal = false } = Astro.props;
+// Only links whose target page exists are rendered: navigation can never 404.
+const items = (site.config.header_nav ?? []).flatMap((n) => {
+  const r = resolveLink(site, n.link);
+  return r && r.exists ? [{ label: n.label, href: r.href }] : [];
+});
+const quote = site.has('/angebot');
+---
+<header class="site-header">
+  <div class="wrap">
+    <a class="logo" href="/" aria-label={`${site.config.site_name} – Startseite`}><img src="/img/logo-navy.webp" width="480" height="271" alt={site.config.site_name} /></a>
+    {!minimal && (
+      <>
+        <details class="nav-menu"><summary>Menü</summary></details>
+        <nav class="nav" aria-label="Hauptnavigation">
+          {items.map((i) => <a href={i.href} aria-current={currentPath === i.href ? 'page' : undefined}>{i.label}</a>)}
+          {quote && <a class="btn" href="/angebot">Angebot anfordern</a>}
+        </nav>
+      </>
+    )}
+  </div>
+</header>

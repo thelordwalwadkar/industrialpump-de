@@ -1,0 +1,98 @@
+{
+  "id": 3834176621,
+  "uuid": "e488e46d-7c77-6c10-0759-aa6ec6c99af6",
+  "name": "Testserie-Serie",
+  "slug": "testserie-serie",
+  "full_slug": "__fixtures__/pumpen/marken/testmarke/testserie-serie",
+  "content": {
+    "component": "page_series",
+    "series_name": "Testserie",
+    "h1": "Testmarke Testserie – Tauchmotorpumpen für Test",
+    "nav_title": "Testserie-Serie",
+    "seo_title": "Testmarke Testserie: Tauchmotorpumpen",
+    "seo_description": "Fixture für das Serien-Template mit drei Produkten, Filtern, Downloads und Kennbereichen.",
+    "intro": "Die Testserie besteht aus drei Test-Artikeln. Sie prüft Produktliste, Filter und Kennbereiche.",
+    "pump_type": "tauchmotorpumpen",
+    "segments": [
+      "landwirtschaft"
+    ],
+    "applications": [
+      "entwaesserung"
+    ],
+    "use_case_line": "Tauchmotorpumpen für Template-Tests",
+    "body_text": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Beschreibung der Testserie."
+            }
+          ]
+        }
+      ]
+    },
+    "highlights": "Erstes Merkmal\nZweites Merkmal",
+    "flow_max_m3h": 30,
+    "head_max_m": 18,
+    "power_min_kw": 0.55,
+    "power_max_kw": 2.2,
+    "temp_max_c": 40,
+    "materials": "Gusseisen, Edelstahl",
+    "catalogue_count": 3,
+    "downloads": [
+      {
+        "_uid": "dl1",
+        "component": "download_list",
+        "heading": "Downloads",
+        "items": [
+          {
+            "_uid": "dl1a",
+            "component": "download_item",
+            "label": "Datenblatt herunterladen (PDF)",
+            "file": {
+              "filename": "https://a.storyblok.com/f/000000/fixture/datenblatt.pdf",
+              "alt": "datenblatt.pdf"
+            },
+            "kind": "datenblatt"
+          },
+          {
+            "_uid": "dl1b",
+            "component": "download_item",
+            "label": "Kennlinie ohne Datei",
+            "kind": "kennlinie"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "_uid": "series-faq",
+        "component": "faq",
+        "heading": "Häufige Fragen",
+        "items": [
+          {
+            "_uid": "series-q1",
+            "component": "faq_item",
+            "question": "Wie wähle ich die richtige Größe?",
+            "answer": "Anhand von Förderstrom, Förderhöhe und Medium. Das Typenschild der vorhandenen Pumpe genügt für eine erste Einschätzung."
+          },
+          {
+            "_uid": "series-q2",
+            "component": "faq_item",
+            "question": "Ist eine Revision möglich?",
+            "answer": "Das hängt von Serie, Baujahr und Zustand ab. Wir prüfen es nach Eingang der Typenschilddaten."
+          },
+          {
+            "_uid": "series-q3",
+            "component": "faq_item",
+            "question": "Welche Unterlagen benötigen Sie?",
+            "answer": "Typenschild oder Foto, Betriebsdaten und das Fördermedium."
+          }
+        ]
+      }
+    ]
+  }
+}

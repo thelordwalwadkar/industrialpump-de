@@ -1,0 +1,149 @@
+{
+  "id": 360543093,
+  "uuid": "157d7375-5ef3-42e8-abcb-3fc08b9262bf",
+  "name": "TR 5",
+  "slug": "tr-5",
+  "full_slug": "pumpen/marken/saer/tr-serie/tr-5",
+  "position": 0,
+  "content": {
+    "component": "page_product",
+    "article_number": "TR 5",
+    "name": "TR 5",
+    "nav_title": "TR 5",
+    "h1": "SAER TR 5 – Druckerhöhungsanlage für konstanten Wasserdruck in Gebäuden",
+    "seo_title": "SAER TR 5 – Druckerhöhungsanlage",
+    "seo_description": "SAER TR 5: Druckerhöhungsanlage der TR-Serie. Motorleistung 5,5 kW, Förderstrom bis 40 m³/h, Förderhöhe bis 13,5 m. Angebot anfordern.",
+    "intro": "Die SAER TR 5 ist eine Druckerhöhungsanlage der TR-Serie für konstanten Wasserdruck in Gebäuden.",
+    "short_description": "Die SAER TR 5 ist eine Druckerhöhungsanlage der TR-Serie für konstanten Wasserdruck in Gebäuden. Laut Katalogdaten hat dieser Artikel eine Motorleistung von 5,5 kW, einen Förderstrom bis 40 m³/h und eine Förderhöhe bis 13,5 m. Für die Auslegung im Bestand senden Sie uns Typenschild oder Betriebsdaten; wir prüfen, ob die TR 5 Ihre Fördermenge und Förderhöhe abdeckt. Maßgeblich sind die Angaben im Datenblatt des Herstellers.",
+    "image_source": "/Images/ipg_ecom/SAER/SAER-TR.jpg",
+    "image": {
+      "filename": "/img/products/saer-tr.webp",
+      "alt": "SAER TR 5"
+    },
+    "internal_item_number": "00010204",
+    "key_facts": [
+      {
+        "_uid": "ba2989318fdf",
+        "component": "key_fact",
+        "label": "Förderstrom max.",
+        "value": "40",
+        "unit": "m³/h"
+      },
+      {
+        "_uid": "474dd31a9fc3",
+        "component": "key_fact",
+        "label": "Förderhöhe max.",
+        "value": "13,5",
+        "unit": "m"
+      },
+      {
+        "_uid": "ac5e5c94f3be",
+        "component": "key_fact",
+        "label": "Motorleistung",
+        "value": "5,5",
+        "unit": "kW"
+      },
+      {
+        "_uid": "5156949a6fb1",
+        "component": "key_fact",
+        "label": "Spannung",
+        "value": "230",
+        "unit": "V"
+      }
+    ],
+    "specs": [
+      {
+        "_uid": "68a2e3b16984",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderstrom min.",
+        "value": "12",
+        "unit": "m³/h",
+        "value_num": 12
+      },
+      {
+        "_uid": "d2ee4d3856d7",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderstrom max.",
+        "value": "40",
+        "unit": "m³/h",
+        "value_num": 40
+      },
+      {
+        "_uid": "ec7ae53c3c8c",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderhöhe max.",
+        "value": "13,5",
+        "unit": "m",
+        "value_num": 13.5
+      },
+      {
+        "_uid": "c0bce1b7812c",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderhöhe min.",
+        "value": "10",
+        "unit": "m",
+        "value_num": 10
+      },
+      {
+        "_uid": "af10190c541f",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Medientemperatur max.",
+        "value": "20",
+        "unit": "°C",
+        "value_num": 20
+      },
+      {
+        "_uid": "7287c1f1c734",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Motorleistung",
+        "value": "5,5",
+        "unit": "kW",
+        "value_num": 5.5
+      },
+      {
+        "_uid": "0a9b04807cd1",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Spannung",
+        "value": "230",
+        "unit": "V",
+        "value_num": 230
+      },
+      {
+        "_uid": "a0e7f650eef9",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Frequenz",
+        "value": "50",
+        "unit": "Hz",
+        "value_num": 50
+      },
+      {
+        "_uid": "79c603b092dd",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Nennstrom",
+        "value": "11,8",
+        "unit": "A",
+        "value_num": 11.8
+      },
+      {
+        "_uid": "6829ec03cf6f",
+        "component": "spec_row",
+        "group": "Anschlüsse & Abmessungen",
+        "label": "Druckanschluss",
+        "value": "DN 50"
+      }
+    ],
+    "flow_max_m3h": 40,
+    "head_max_m": 13.5,
+    "power_kw": 5.5,
+    "voltage": "230 V"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "component": {
+    "name": "cta_band",
+    "display_name": "CTA-Banner",
+    "is_root": false,
+    "is_nestable": true,
+    "schema": {
+      "heading": {
+        "type": "text",
+        "description": "Überschrift.",
+        "required": true,
+        "pos": 0
+      },
+      "text": {
+        "type": "textarea",
+        "description": "Text.",
+        "pos": 1
+      },
+      "button_label": {
+        "type": "text",
+        "description": "Beschriftung sagt, was passiert (z. B. „Angebot anfordern“).",
+        "required": true,
+        "pos": 2
+      },
+      "button_link": {
+        "type": "multilink",
+        "description": "Ziel.",
+        "email_link_type": true,
+        "asset_link_type": true,
+        "pos": 3
+      },
+      "variant": {
+        "type": "option",
+        "source": "self",
+        "options": [
+          {
+            "name": "Primär",
+            "value": "primary"
+          },
+          {
+            "name": "Overhaul (Revision)",
+            "value": "overhaul"
+          }
+        ],
+        "description": "Farbe: Revision-Banner nutzen „overhaul“.",
+        "pos": 4
+      }
+    }
+  }
+}

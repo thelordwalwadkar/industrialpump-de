@@ -1,0 +1,220 @@
+{
+  "id": 2807917356,
+  "uuid": "a75d6b2c-e617-108e-2b33-63bb8f7ea723",
+  "name": "Optima MS",
+  "slug": "optima-ms",
+  "full_slug": "pumpen/marken/ebara/optima-serie/optima-ms",
+  "position": 0,
+  "content": {
+    "component": "page_product",
+    "article_number": "Optima MS",
+    "name": "Optima MS",
+    "nav_title": "Optima MS",
+    "h1": "Ebara Optima MS – Tauchmotorpumpe für Entwässerung",
+    "seo_title": "Ebara Optima MS – Tauchmotorpumpe für Entwässerung",
+    "seo_description": "Ebara Optima MS: Tauchmotorpumpe der Optima-Serie. Motorleistung 0,25 kW, Förderstrom bis 9 m³/h, Förderhöhe bis 7,1 m. Angebot anfordern.",
+    "intro": "Die Ebara Optima MS ist eine Tauchmotorpumpe der Optima-Serie für Entwässerung.",
+    "short_description": "Die Ebara Optima MS ist eine Tauchmotorpumpe der Optima-Serie für Entwässerung. Laut Katalogdaten hat dieser Artikel eine Motorleistung von 0,25 kW, einen Förderstrom bis 9 m³/h und eine Förderhöhe bis 7,1 m. Für die Auslegung im Bestand senden Sie uns Typenschild oder Betriebsdaten; wir prüfen, ob die Optima MS Ihre Fördermenge und Förderhöhe abdeckt. Maßgeblich sind die Angaben im Datenblatt des Herstellers.",
+    "image_source": "/Images/ipg_ecom/Ebara/Ebara-Optima-MS.png",
+    "image": {
+      "filename": "/img/products/ebara-optima-ms.webp",
+      "alt": "Ebara Optima MS"
+    },
+    "internal_item_number": "PDB2105M",
+    "key_facts": [
+      {
+        "_uid": "f67829fa9d09",
+        "component": "key_fact",
+        "label": "Förderstrom max.",
+        "value": "9",
+        "unit": "m³/h"
+      },
+      {
+        "_uid": "2f05384c4aba",
+        "component": "key_fact",
+        "label": "Förderhöhe max.",
+        "value": "7,1",
+        "unit": "m"
+      },
+      {
+        "_uid": "75f6f47b34fe",
+        "component": "key_fact",
+        "label": "Motorleistung",
+        "value": "0,25",
+        "unit": "kW"
+      },
+      {
+        "_uid": "4991ac61816d",
+        "component": "key_fact",
+        "label": "Spannung",
+        "value": "230",
+        "unit": "V"
+      }
+    ],
+    "specs": [
+      {
+        "_uid": "cd0c784a434b",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderstrom min.",
+        "value": "1,2",
+        "unit": "m³/h",
+        "value_num": 1.2
+      },
+      {
+        "_uid": "43b732fa4a7b",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderstrom max.",
+        "value": "9",
+        "unit": "m³/h",
+        "value_num": 9
+      },
+      {
+        "_uid": "0dd8ecc5b1bb",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderhöhe max.",
+        "value": "7,1",
+        "unit": "m",
+        "value_num": 7.1
+      },
+      {
+        "_uid": "85ab49539244",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderhöhe min.",
+        "value": "1,5",
+        "unit": "m",
+        "value_num": 1.5
+      },
+      {
+        "_uid": "03450f06cd90",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Medientemperatur max.",
+        "value": "20",
+        "unit": "°C",
+        "value_num": 20
+      },
+      {
+        "_uid": "41d01f3b5283",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Stufenzahl",
+        "value": "1",
+        "value_num": 1
+      },
+      {
+        "_uid": "1364d938400d",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Freier Durchgang",
+        "value": "80",
+        "unit": "mm",
+        "value_num": 80
+      },
+      {
+        "_uid": "a8f091c50c61",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Prüfnorm",
+        "value": "ISO 9906:2012, Klasse 3B"
+      },
+      {
+        "_uid": "f488e9921e5e",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Motorleistung",
+        "value": "0,25",
+        "unit": "kW",
+        "value_num": 0.25
+      },
+      {
+        "_uid": "e64ce646e6f7",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Spannung",
+        "value": "230",
+        "unit": "V",
+        "value_num": 230
+      },
+      {
+        "_uid": "c47a9a83f24b",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Frequenz",
+        "value": "50",
+        "unit": "Hz",
+        "value_num": 50
+      },
+      {
+        "_uid": "a3a68f2f410f",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Nennstrom",
+        "value": "1,9",
+        "unit": "A",
+        "value_num": 1.9
+      },
+      {
+        "_uid": "28bf7bb0af46",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Drehzahl",
+        "value": "2.800",
+        "unit": "min⁻¹",
+        "value_num": 2800
+      },
+      {
+        "_uid": "b74b7ed490a2",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Schutzart",
+        "value": "IP68"
+      },
+      {
+        "_uid": "7581d9eb6e48",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Isolationsklasse",
+        "value": "F"
+      },
+      {
+        "_uid": "27c5fc02a3c1",
+        "component": "spec_row",
+        "group": "Werkstoffe",
+        "label": "Pumpengehäuse",
+        "value": "Edelstahl AISI 304"
+      },
+      {
+        "_uid": "874a188b6416",
+        "component": "spec_row",
+        "group": "Werkstoffe",
+        "label": "Laufrad",
+        "value": "PPE+PS, glasfaserverstärkt"
+      },
+      {
+        "_uid": "bfcf6003e9b5",
+        "component": "spec_row",
+        "group": "Anschlüsse & Abmessungen",
+        "label": "Gewicht",
+        "value": "4,2",
+        "unit": "kg",
+        "value_num": 4.2
+      },
+      {
+        "_uid": "c717245255f2",
+        "component": "spec_row",
+        "group": "Anschlüsse & Abmessungen",
+        "label": "Abmessungen",
+        "value": "273 × 231 × 167 mm"
+      }
+    ],
+    "flow_max_m3h": 9,
+    "head_max_m": 7.1,
+    "power_kw": 0.25,
+    "voltage": "230 V",
+    "material": "Edelstahl"
+  }
+}

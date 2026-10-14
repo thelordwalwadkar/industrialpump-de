@@ -1,0 +1,241 @@
+{
+  "id": 2244882686,
+  "uuid": "85ce30fe-bef8-5a0b-99bc-cf01cad6a7c9",
+  "name": "Best One Vox",
+  "slug": "best-one-vox",
+  "full_slug": "pumpen/marken/ebara/best-one-serie/best-one-vox",
+  "position": 0,
+  "content": {
+    "component": "page_product",
+    "article_number": "Best One Vox",
+    "name": "Best One Vox",
+    "nav_title": "Best One Vox",
+    "h1": "Ebara Best One Vox – Tauchmotorpumpe für Entwässerung von Schächten und Kellern",
+    "seo_title": "Ebara Best One Vox – Tauchmotorpumpe",
+    "seo_description": "Ebara Best One Vox: Tauchmotorpumpe der Best One-Serie. Motorleistung 0,25 kW, Förderstrom bis 10,2 m³/h, Förderhöhe bis 6 m. Angebot anfordern.",
+    "intro": "Die Ebara Best One Vox ist eine Tauchmotorpumpe der Best One-Serie für Entwässerung von Schächten und Kellern.",
+    "short_description": "Die Ebara Best One Vox ist eine Tauchmotorpumpe der Best One-Serie für Entwässerung von Schächten und Kellern. Laut Katalogdaten hat dieser Artikel eine Motorleistung von 0,25 kW, einen Förderstrom bis 10,2 m³/h und eine Förderhöhe bis 6 m. Für die Auslegung im Bestand senden Sie uns Typenschild oder Betriebsdaten; wir prüfen, ob die Best One Vox Ihre Fördermenge und Förderhöhe abdeckt. Maßgeblich sind die Angaben im Datenblatt des Herstellers.",
+    "image_source": "/Images/ipg_ecom/Ebara/Ebara-Best-One.png",
+    "image": {
+      "filename": "/img/products/ebara-best-one.webp",
+      "alt": "Ebara Best One Vox"
+    },
+    "internal_item_number": "PDB2207M",
+    "key_facts": [
+      {
+        "_uid": "83692da4e47c",
+        "component": "key_fact",
+        "label": "Förderstrom max.",
+        "value": "10,2",
+        "unit": "m³/h"
+      },
+      {
+        "_uid": "edb4a0723140",
+        "component": "key_fact",
+        "label": "Förderhöhe max.",
+        "value": "6",
+        "unit": "m"
+      },
+      {
+        "_uid": "5d5a713b4800",
+        "component": "key_fact",
+        "label": "Motorleistung",
+        "value": "0,25",
+        "unit": "kW"
+      },
+      {
+        "_uid": "89165d125ce9",
+        "component": "key_fact",
+        "label": "Spannung",
+        "value": "230",
+        "unit": "V"
+      }
+    ],
+    "specs": [
+      {
+        "_uid": "3da2c6617d0a",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderstrom min.",
+        "value": "1,2",
+        "unit": "m³/h",
+        "value_num": 1.2
+      },
+      {
+        "_uid": "422727a9e240",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderstrom max.",
+        "value": "10,2",
+        "unit": "m³/h",
+        "value_num": 10.2
+      },
+      {
+        "_uid": "f498a8be5ae9",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderhöhe max.",
+        "value": "6",
+        "unit": "m",
+        "value_num": 6
+      },
+      {
+        "_uid": "f58516c0b5a3",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderhöhe min.",
+        "value": "1,5",
+        "unit": "m",
+        "value_num": 1.5
+      },
+      {
+        "_uid": "4a003a432dfd",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Medientemperatur max.",
+        "value": "20",
+        "unit": "°C",
+        "value_num": 20
+      },
+      {
+        "_uid": "58949f6fbd2d",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Stufenzahl",
+        "value": "1",
+        "value_num": 1
+      },
+      {
+        "_uid": "0ebe2eaf180b",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Laufradform",
+        "value": "Vortex-Laufrad"
+      },
+      {
+        "_uid": "10436ea2ebf8",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Freier Durchgang",
+        "value": "20",
+        "unit": "mm",
+        "value_num": 20
+      },
+      {
+        "_uid": "835f6734abce",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Prüfnorm",
+        "value": "ISO 9906:2012, Klasse 3B"
+      },
+      {
+        "_uid": "fb5efeb7f8b0",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Motorleistung",
+        "value": "0,25",
+        "unit": "kW",
+        "value_num": 0.25
+      },
+      {
+        "_uid": "9ef30f627d44",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Spannung",
+        "value": "230",
+        "unit": "V",
+        "value_num": 230
+      },
+      {
+        "_uid": "5878793fe111",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Frequenz",
+        "value": "50",
+        "unit": "Hz",
+        "value_num": 50
+      },
+      {
+        "_uid": "53c7b0fcd790",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Nennstrom",
+        "value": "0,8",
+        "unit": "A",
+        "value_num": 0.8
+      },
+      {
+        "_uid": "4676af284d1b",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Drehzahl",
+        "value": "2.800",
+        "unit": "min⁻¹",
+        "value_num": 2800
+      },
+      {
+        "_uid": "0f4423371fc9",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Schutzart",
+        "value": "IP68"
+      },
+      {
+        "_uid": "c34a8319920d",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Isolationsklasse",
+        "value": "F"
+      },
+      {
+        "_uid": "adbc6c5f4b04",
+        "component": "spec_row",
+        "group": "Werkstoffe",
+        "label": "Pumpengehäuse",
+        "value": "Edelstahl AISI 304"
+      },
+      {
+        "_uid": "907bce8f4f89",
+        "component": "spec_row",
+        "group": "Werkstoffe",
+        "label": "Laufrad",
+        "value": "Edelstahl AISI 304"
+      },
+      {
+        "_uid": "c47c010addb5",
+        "component": "spec_row",
+        "group": "Werkstoffe",
+        "label": "Gleitringdichtung",
+        "value": "Kohlegraphit und Keramik"
+      },
+      {
+        "_uid": "e67424aaa622",
+        "component": "spec_row",
+        "group": "Anschlüsse & Abmessungen",
+        "label": "Druckanschluss",
+        "value": "DN 50, BSP-Gewinde"
+      },
+      {
+        "_uid": "4c3419b2a492",
+        "component": "spec_row",
+        "group": "Anschlüsse & Abmessungen",
+        "label": "Gewicht",
+        "value": "4,4",
+        "unit": "kg",
+        "value_num": 4.4
+      },
+      {
+        "_uid": "aa494574cd42",
+        "component": "spec_row",
+        "group": "Anschlüsse & Abmessungen",
+        "label": "Abmessungen",
+        "value": "H: 304 mm, H1: 262 mm, S: 20 mm"
+      }
+    ],
+    "flow_max_m3h": 10.2,
+    "head_max_m": 6,
+    "power_kw": 0.25,
+    "voltage": "230 V",
+    "material": "Edelstahl"
+  }
+}

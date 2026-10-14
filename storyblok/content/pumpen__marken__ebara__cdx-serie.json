@@ -1,0 +1,182 @@
+{
+  "id": 980607235,
+  "uuid": "3a72e103-8135-71fe-06ea-edad13f2a7e3",
+  "name": "CDX-Serie",
+  "slug": "cdx-serie",
+  "full_slug": "pumpen/marken/ebara/cdx-serie",
+  "position": 18,
+  "content": {
+    "component": "page_series",
+    "series_name": "CDX",
+    "h1": "Ebara CDX-Serie – Kreiselpumpen aus Edelstahl",
+    "nav_title": "CDX-Serie",
+    "seo_title": "Ebara CDX-Serie: Kreiselpumpen aus Edelstahl",
+    "seo_description": "Ebara CDX und CDXM: Kreiselpumpen aus Edelstahl für Industrie, Landwirtschaft und Gebäudetechnik. Kennbereiche, Artikel, Angebot anfordern.",
+    "intro": "Die Ebara CDX-Serie (CDX und CDXM) umfasst Kreiselpumpen aus Edelstahl für saubere und leicht verschmutzte Flüssigkeiten in Industrie, Landwirtschaft und Gebäudetechnik. Pumpengehäuse, Laufrad und Welle bestehen aus Edelstahl.",
+    "pump_type": "kreiselpumpen",
+    "segments": [
+      "landwirtschaft",
+      "gebaeudetechnik-hvac",
+      "wasseraufbereitung",
+      "wassertransport"
+    ],
+    "applications": [],
+    "use_case_line": "Kreiselpumpen aus Edelstahl für Industrie und Gebäudetechnik",
+    "body_text": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Die CDX-Serie von Ebara besteht aus kompakten, robust gebauten Kreiselpumpen. Pumpengehäuse, Laufrad und Motorwelle sind laut Katalog aus korrosionsbeständigem Edelstahl, was den Einsatz auch bei anspruchsvollen Medien erleichtert."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Eine mechanische Wellendichtung dichtet gegen Leckage ab. Die Pumpen fördern sauberes und leicht verschmutztes Wasser; für aggressive Medien muss die Werkstoffbeständigkeit im Einzelfall geprüft werden."
+            }
+          ]
+        }
+      ]
+    },
+    "highlights": "Gehäuse, Laufrad und Welle aus Edelstahl (Katalogangabe)\nMechanische Wellendichtung\nIndustrie, Landwirtschaft, Gebäudetechnik",
+    "image_source": "/Images/ipg_ecom/Ebara/Ebara-CDX.png",
+    "image": {
+      "filename": "/img/products/ebara-cdx.webp",
+      "alt": "Ebara CDX-Serie"
+    },
+    "flow_max_m3h": 60,
+    "head_max_m": 44.5,
+    "power_min_kw": 0.9,
+    "power_max_kw": 2.2,
+    "temp_max_c": 20,
+    "materials": "Gusseisen, Edelstahl",
+    "catalogue_count": 12,
+    "body": [
+      {
+        "_uid": "562f08a3420c",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Auswahlhinweise für Kreiselpumpen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Für die Auswahl einer Kreiselpumpe sind Förderstrom, Förderhöhe und Fördermedium die Grundlage. Danach werden Werkstoff, Dichtung und Motorleistung festgelegt."
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Betriebspunkt: Er ergibt sich aus dem Schnittpunkt von Pumpen- und Anlagenkennlinie und sollte in der Nähe des Bestpunkts liegen."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "NPSH: Der NPSH-Wert der Anlage muss den NPSH-Bedarf der Pumpe mit Sicherheitszuschlag übersteigen, sonst droht Kavitation."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Medium: Temperatur, Feststoffanteil und chemische Zusammensetzung bestimmen Werkstoff und Wellendichtung."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ersatz: Beim Austausch einer vorhandenen Pumpe sind Anschlussmaße, Drehzahl und Motordaten des Typenschilds maßgeblich."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "faq": [
+      {
+        "_uid": "24a60fbfee4b",
+        "component": "faq",
+        "heading": "Häufige Fragen zur CDX-Serie",
+        "items": [
+          {
+            "_uid": "e3fc9bc03a4e",
+            "component": "faq_item",
+            "question": "Wie finde ich den passenden Artikel der CDX-Serie?",
+            "answer": "Senden Sie uns das Typenschild Ihrer vorhandenen Pumpe oder Ihre Betriebsdaten: Förderstrom, Förderhöhe, Medium und Temperatur. Daraus ordnen wir den passenden Artikel der CDX-Serie zu."
+          },
+          {
+            "_uid": "84998aaa54ab",
+            "component": "faq_item",
+            "question": "Sind Ersatzteile und eine Revision für die CDX-Serie möglich?",
+            "answer": "Ersatzteile und die Revision von Ebara-Pumpen können Sie über das Angebotsformular anfragen. Welche Teile im Einzelfall verfügbar sind, hängt von Baujahr und Ausführung ab."
+          },
+          {
+            "_uid": "f5a0573098b9",
+            "component": "faq_item",
+            "question": "Wie lang ist die Lieferzeit für Artikel der CDX-Serie?",
+            "answer": "[[PLATZHALTER: Lieferzeit Ebara CDX]]"
+          }
+        ]
+      }
+    ]
+  }
+}

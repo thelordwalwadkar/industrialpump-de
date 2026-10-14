@@ -1,0 +1,127 @@
+{
+  "id": 2768662022,
+  "uuid": "a5066e06-a220-7f1e-02ab-35d1a3f5d3e5",
+  "name": "NPSH erklärt",
+  "slug": "wissen-npsh",
+  "full_slug": "__fixtures__/wissen-npsh",
+  "content": {
+    "component": "page_knowledge",
+    "tech": true,
+    "author": "Redaktion",
+    "h1": "NPSH einfach erklärt",
+    "nav_title": "NPSH erklärt",
+    "seo_title": "NPSH einfach erklärt: Kavitation vermeiden",
+    "seo_description": "Fixture für das Wissens-Template: Artikel mit Inhaltsverzeichnis, Download und verwandten Themen.",
+    "intro": "Der NPSH-Wert beschreibt, wie viel Druckreserve am Pumpeneintritt vorhanden sein muss. Diese Seite prüft das Wissens-Template.",
+    "article": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "heading",
+          "attrs": {
+            "level": 2
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Was NPSH bedeutet"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Der NPSH-Wert der Anlage muss den NPSH-Bedarf der Pumpe übersteigen."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "attrs": {
+            "level": 2
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Kavitation vermeiden"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Zu geringe Druckreserve führt zu Dampfblasen und Schäden am Laufrad."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "attrs": {
+            "level": 2
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Praxis"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Prüfen Sie Zulaufhöhe, Leitungsverluste und Medientemperatur."
+            }
+          ]
+        }
+      ]
+    },
+    "downloads": [
+      {
+        "_uid": "kn-dl",
+        "component": "download_list",
+        "heading": "Datenblätter",
+        "items": [
+          {
+            "_uid": "kn-dli",
+            "component": "download_item",
+            "label": "Beispiel-Datenblatt (PDF)",
+            "file": {
+              "filename": "https://a.storyblok.com/f/000000/fixture/npsh.pdf",
+              "alt": "npsh.pdf"
+            }
+          }
+        ]
+      }
+    ],
+    "related": [
+      {
+        "_uid": "kn-rel",
+        "component": "related_links",
+        "heading": "Verwandte Themen",
+        "links": [
+          {
+            "_uid": "kn-l0",
+            "component": "link_item",
+            "label": "Tauchmotorpumpen",
+            "link": {
+              "fieldtype": "multilink",
+              "linktype": "story",
+              "id": "15fef962-55bb-41a1-6b8f-9d316ce42d69",
+              "cached_url": "__fixtures__/topic-pumpentyp",
+              "url": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "created_at": "2026-02-02T08:00:00.000Z",
+  "first_published_at": "2026-02-02T08:00:00.000Z",
+  "published_at": "2026-02-02T08:00:00.000Z"
+}

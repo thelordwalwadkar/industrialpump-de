@@ -1,0 +1,182 @@
+{
+  "id": 1187374395,
+  "uuid": "46c5e53b-13c8-5711-0d3a-5cb3ed2ca38c",
+  "name": "DWO-Serie",
+  "slug": "dwo-serie",
+  "full_slug": "pumpen/marken/ebara/dwo-serie",
+  "position": 19,
+  "content": {
+    "component": "page_series",
+    "series_name": "DWO",
+    "h1": "Ebara DWO-Serie – Kreiselpumpen für hohe Förderhöhen",
+    "nav_title": "DWO-Serie",
+    "seo_title": "Ebara DWO-Serie: Kreiselpumpen für hohe Förderhöhen",
+    "seo_description": "Ebara DWO: Kreiselpumpen aus Edelstahl für industrielle Anwendungen mit hohen Förderhöhen und Drücken. Kennbereiche, Angebot anfordern.",
+    "intro": "Die Ebara DWO-Serie umfasst Kreiselpumpen aus Edelstahl für industrielle Anwendungen mit höheren Förderhöhen und Drücken. Sie fördern sauberes und leicht verschmutztes Wasser mit Feststoffen bis 2,5 mm.",
+    "pump_type": "kreiselpumpen",
+    "segments": [
+      "landwirtschaft",
+      "gebaeudetechnik-hvac",
+      "wasseraufbereitung",
+      "wassertransport"
+    ],
+    "applications": [],
+    "use_case_line": "Kreiselpumpen aus Edelstahl für hohe Förderhöhen und Drücke",
+    "body_text": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Die DWO-Serie von Ebara ist für industrielle Anwendungen ausgelegt, bei denen höhere Förderhöhen und Drücke gefordert sind. Die Pumpen haben eine robuste Konstruktion mit einem Laufrad mit rückwärtsgekrümmten Schaufeln."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Laut Katalog sind Pumpengehäuse, Laufrad und Welle aus korrosionsbeständigem Edelstahl. Die Pumpen eignen sich für sauberes Wasser und leicht verschmutztes Wasser mit Feststoffen bis 2,5 mm. Maximaler Betriebsdruck und weitere Daten finden Sie in den technischen Daten des Artikels."
+            }
+          ]
+        }
+      ]
+    },
+    "highlights": "Hohe Förderhöhen und Drücke\nFeststoffe bis 2,5 mm (Katalogangabe)\nEdelstahl (Katalogangabe)",
+    "image_source": "/Images/ipg_ecom/Ebara/Ebara-DWO.png",
+    "image": {
+      "filename": "/img/products/ebara-dwo.webp",
+      "alt": "Ebara DWO-Serie"
+    },
+    "flow_max_m3h": 66,
+    "head_max_m": 17.5,
+    "power_min_kw": 1.5,
+    "power_max_kw": 3,
+    "temp_max_c": 20,
+    "materials": "Edelstahl",
+    "catalogue_count": 6,
+    "body": [
+      {
+        "_uid": "a0b10ac48134",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Auswahlhinweise für Kreiselpumpen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Für die Auswahl einer Kreiselpumpe sind Förderstrom, Förderhöhe und Fördermedium die Grundlage. Danach werden Werkstoff, Dichtung und Motorleistung festgelegt."
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Betriebspunkt: Er ergibt sich aus dem Schnittpunkt von Pumpen- und Anlagenkennlinie und sollte in der Nähe des Bestpunkts liegen."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "NPSH: Der NPSH-Wert der Anlage muss den NPSH-Bedarf der Pumpe mit Sicherheitszuschlag übersteigen, sonst droht Kavitation."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Medium: Temperatur, Feststoffanteil und chemische Zusammensetzung bestimmen Werkstoff und Wellendichtung."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ersatz: Beim Austausch einer vorhandenen Pumpe sind Anschlussmaße, Drehzahl und Motordaten des Typenschilds maßgeblich."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "faq": [
+      {
+        "_uid": "bad71fb77c7b",
+        "component": "faq",
+        "heading": "Häufige Fragen zur DWO-Serie",
+        "items": [
+          {
+            "_uid": "2aef835abe33",
+            "component": "faq_item",
+            "question": "Wie finde ich den passenden Artikel der DWO-Serie?",
+            "answer": "Senden Sie uns das Typenschild Ihrer vorhandenen Pumpe oder Ihre Betriebsdaten: Förderstrom, Förderhöhe, Medium und Temperatur. Daraus ordnen wir den passenden Artikel der DWO-Serie zu."
+          },
+          {
+            "_uid": "0db2217ac4dc",
+            "component": "faq_item",
+            "question": "Sind Ersatzteile und eine Revision für die DWO-Serie möglich?",
+            "answer": "Ersatzteile und die Revision von Ebara-Pumpen können Sie über das Angebotsformular anfragen. Welche Teile im Einzelfall verfügbar sind, hängt von Baujahr und Ausführung ab."
+          },
+          {
+            "_uid": "156161e111eb",
+            "component": "faq_item",
+            "question": "Wie lang ist die Lieferzeit für Artikel der DWO-Serie?",
+            "answer": "[[PLATZHALTER: Lieferzeit Ebara DWO]]"
+          }
+        ]
+      }
+    ]
+  }
+}

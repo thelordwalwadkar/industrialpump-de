@@ -1,0 +1,66 @@
+{
+  "id": 3970865118,
+  "uuid": "ecae97de-a02e-76da-c5b2-473ca3e2b912",
+  "name": "Pumpe richtig auslegen",
+  "slug": "beitrag-1",
+  "full_slug": "__fixtures__/blog/beitrag-1",
+  "content": {
+    "component": "page_blog_post",
+    "h1": "Pumpe richtig auslegen",
+    "nav_title": "Pumpe richtig auslegen",
+    "author": "Redaktion",
+    "seo_title": "Pumpe richtig auslegen: Hinweise aus der Praxis",
+    "seo_description": "Fixture-Beitrag 1 für das Blog-Template mit Autor, Datum und verwandten Beiträgen.",
+    "intro": "Kurze Antwort auf die Kernfrage von Beitrag 1. Diese Seite prüft das Blog-Template.",
+    "article": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "heading",
+          "attrs": {
+            "level": 2
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Ausgangslage"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Fließtext des Beitrags."
+            }
+          ]
+        }
+      ]
+    },
+    "related": [
+      {
+        "_uid": "bp0-rel",
+        "component": "related_links",
+        "heading": "Weiterlesen",
+        "links": [
+          {
+            "_uid": "bp0-l0",
+            "component": "link_item",
+            "label": "Pumpenrevision",
+            "link": {
+              "fieldtype": "multilink",
+              "linktype": "story",
+              "id": "17bb890b-552f-4f44-567f-f89f204a86d9",
+              "cached_url": "__fixtures__/service-revision",
+              "url": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "created_at": "2026-01-10T08:00:00.000Z",
+  "first_published_at": "2026-01-10T08:00:00.000Z",
+  "published_at": "2026-01-10T08:00:00.000Z"
+}

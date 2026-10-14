@@ -1,0 +1,25 @@
+{
+  "component": {
+    "name": "faq",
+    "display_name": "FAQ",
+    "is_root": false,
+    "is_nestable": true,
+    "schema": {
+      "heading": {
+        "type": "text",
+        "description": "Überschrift.",
+        "pos": 0
+      },
+      "items": {
+        "type": "bloks",
+        "restrict_components": true,
+        "component_whitelist": [
+          "faq_item"
+        ],
+        "description": "3–5 Fragen.",
+        "maximum": 8,
+        "pos": 1
+      }
+    }
+  }
+}

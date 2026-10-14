@@ -1,0 +1,183 @@
+{
+  "id": 2642065294,
+  "uuid": "9d7ab78e-d06a-f4a9-dcae-3922c75fe752",
+  "name": "Optima-Serie",
+  "slug": "optima-serie",
+  "full_slug": "pumpen/marken/ebara/optima-serie",
+  "position": 15,
+  "content": {
+    "component": "page_series",
+    "series_name": "Optima",
+    "h1": "Ebara Optima-Serie – Kompakte Tauchmotorpumpen für die Entwässerung",
+    "nav_title": "Optima-Serie",
+    "seo_title": "Ebara Optima-Serie: Kompakte Tauchmotorpumpen",
+    "seo_description": "Ebara Optima: kompakte Tauchmotorpumpen für Entwässerung und Wasserversorgung. Ausführungen Optima, Optima A und Optima MS. Angebot anfordern.",
+    "intro": "Die Ebara Optima-Serie umfasst kompakte Tauchmotorpumpen für Entwässerung und Wasserversorgung. Der Katalog führt die Ausführungen Optima, Optima A und Optima MS.",
+    "pump_type": "tauchmotorpumpen",
+    "segments": [
+      "landwirtschaft",
+      "wasseraufbereitung",
+      "wassertransport"
+    ],
+    "applications": [
+      "entwaesserung"
+    ],
+    "use_case_line": "Kompakte Tauchmotorpumpen für Entwässerung und Wasserversorgung",
+    "body_text": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Die Optima-Serie von Ebara besteht aus Tauchmotorpumpen zur Förderung von Wasser in Entwässerung und Wasserversorgung. Sie ist in mehreren Modellen mit unterschiedlichen Förderströmen und Leistungen erhältlich."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Als Werkstoffe nennt der Katalog unter anderem Edelstahl und Bronze, die Pumpen gegen Korrosion und Verschleiß beständig machen. Die technischen Daten des gewählten Artikels, etwa Schutzart, Freier Durchgang und Gewicht, finden Sie in der Tabelle."
+            }
+          ]
+        }
+      ]
+    },
+    "highlights": "Kompakte Bauweise\nEntwässerung und Wasserversorgung\nEdelstahl und Bronze (Katalogangabe)",
+    "image_source": "/Images/ipg_ecom/Ebara/Ebara-Optima.png",
+    "image": {
+      "filename": "/img/products/ebara-optima.webp",
+      "alt": "Ebara Optima-Serie"
+    },
+    "flow_max_m3h": 9,
+    "head_max_m": 7.1,
+    "power_min_kw": 0.25,
+    "power_max_kw": 0.25,
+    "temp_max_c": 20,
+    "materials": "Edelstahl",
+    "catalogue_count": 3,
+    "body": [
+      {
+        "_uid": "089a918a5b8d",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Auswahlhinweise für Tauchmotorpumpen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Tauchmotorpumpen arbeiten im Medium und fördern es direkt aus Schacht, Grube oder Behälter. Entscheidend sind Förderstrom, Förderhöhe und die Beschaffenheit des Mediums."
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Freier Durchgang: Er gibt die größte Feststoffgröße an, die die Pumpe passieren kann."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Niveausteuerung: Schwimmerschalter oder Niveaugeber schalten die Pumpe selbsttätig und schützen vor Trockenlauf."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Einbau: Eintauchtiefe, Kühlung des Motors und Aufstellart (tragbar oder fest installiert) beachten."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Explosionsgefährdete Bereiche: Hier ist eine Ausführung nach ATEX (2014/34/EU) erforderlich; bitte vor der Auswahl prüfen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "faq": [
+      {
+        "_uid": "df69bde65869",
+        "component": "faq",
+        "heading": "Häufige Fragen zur Optima-Serie",
+        "items": [
+          {
+            "_uid": "954a03550d5c",
+            "component": "faq_item",
+            "question": "Wie finde ich den passenden Artikel der Optima-Serie?",
+            "answer": "Senden Sie uns das Typenschild Ihrer vorhandenen Pumpe oder Ihre Betriebsdaten: Förderstrom, Förderhöhe, Medium und Temperatur. Daraus ordnen wir den passenden Artikel der Optima-Serie zu."
+          },
+          {
+            "_uid": "792b4529c40b",
+            "component": "faq_item",
+            "question": "Sind Ersatzteile und eine Revision für die Optima-Serie möglich?",
+            "answer": "Ersatzteile und die Revision von Ebara-Pumpen können Sie über das Angebotsformular anfragen. Welche Teile im Einzelfall verfügbar sind, hängt von Baujahr und Ausführung ab."
+          },
+          {
+            "_uid": "055552fa5093",
+            "component": "faq_item",
+            "question": "Wie lang ist die Lieferzeit für Artikel der Optima-Serie?",
+            "answer": "[[PLATZHALTER: Lieferzeit Ebara Optima]]"
+          }
+        ]
+      }
+    ]
+  }
+}

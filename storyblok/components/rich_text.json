@@ -1,0 +1,16 @@
+{
+  "component": {
+    "name": "rich_text",
+    "display_name": "Text",
+    "is_root": false,
+    "is_nestable": true,
+    "schema": {
+      "content": {
+        "type": "richtext",
+        "description": "Fließtext.",
+        "rich_markdown": false,
+        "pos": 0
+      }
+    }
+  }
+}

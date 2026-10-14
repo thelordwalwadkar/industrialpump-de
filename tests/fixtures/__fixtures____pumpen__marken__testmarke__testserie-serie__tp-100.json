@@ -1,0 +1,99 @@
+{
+  "id": 26576302,
+  "uuid": "019585ae-f535-301e-a8ea-ecfd566194aa",
+  "name": "TP 100",
+  "slug": "tp-100",
+  "full_slug": "__fixtures__/pumpen/marken/testmarke/testserie-serie/tp-100",
+  "content": {
+    "component": "page_product",
+    "article_number": "TP 100",
+    "name": "TP 100",
+    "nav_title": "TP 100",
+    "h1": "Testmarke TP 100 – Tauchmotorpumpe für Test",
+    "seo_title": "Testmarke TP 100 – Tauchmotorpumpe",
+    "seo_description": "Fixture-Produkt TP 100 mit Leistung, Förderstrom und Förderhöhe.",
+    "intro": "Die Testmarke TP 100 ist ein Fixture-Produkt.",
+    "short_description": "Die Testmarke TP 100 ist eine Tauchmotorpumpe der Testserie für Template-Tests. Sie hat eine Motorleistung von 0.55 kW. Dieser Text prüft die Kurzbeschreibung, die Kennwert-Leiste, die gruppierte Datentabelle und die Verknüpfung zu Serie und Marke. Für die Auslegung im Bestand senden Sie uns Typenschild oder Betriebsdaten.",
+    "key_facts": [
+      {
+        "_uid": "tp-100-k1",
+        "component": "key_fact",
+        "label": "Förderstrom max.",
+        "value": "10",
+        "unit": "m³/h"
+      },
+      {
+        "_uid": "tp-100-k2",
+        "component": "key_fact",
+        "label": "Motorleistung",
+        "value": "0,55",
+        "unit": "kW"
+      }
+    ],
+    "specs": [
+      {
+        "_uid": "s-Förderstrom max.-1",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderstrom max.",
+        "value": "10",
+        "unit": "m³/h",
+        "value_num": 10
+      },
+      {
+        "_uid": "s-Förderhöhe max.-2",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderhöhe max.",
+        "value": "8",
+        "unit": "m",
+        "value_num": 8
+      },
+      {
+        "_uid": "s-Motorleistung-3",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Motorleistung",
+        "value": "0,55",
+        "unit": "kW",
+        "value_num": 0.55
+      },
+      {
+        "_uid": "s-Pumpengehäuse-4",
+        "component": "spec_row",
+        "group": "Werkstoffe",
+        "label": "Pumpengehäuse",
+        "value": "Gusseisen"
+      },
+      {
+        "_uid": "s-Druckanschluss-5",
+        "component": "spec_row",
+        "group": "Anschlüsse & Abmessungen",
+        "label": "Druckanschluss",
+        "value": "DN 50"
+      }
+    ],
+    "flow_max_m3h": 10,
+    "head_max_m": 8,
+    "power_kw": 0.55,
+    "voltage": "230/400 V",
+    "material": "Gusseisen",
+    "downloads": [
+      {
+        "_uid": "tp-100-dl",
+        "component": "download_list",
+        "items": [
+          {
+            "_uid": "tp-100-dli",
+            "component": "download_item",
+            "label": "Datenblatt herunterladen (PDF)",
+            "file": {
+              "filename": "https://a.storyblok.com/f/000000/fixture/tp-100.pdf",
+              "alt": "tp-100.pdf"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

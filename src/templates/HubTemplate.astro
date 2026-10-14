@@ -1,0 +1,26 @@
+---
+/** T2 · page_hub — Intro · Kinder-Raster (automatisch aus den Unterseiten) · optionaler Text · CTA */
+import type { PageHub, PageStory } from '../lib/types';
+import type { Site } from '../lib/storyblok';
+import { childCards } from '../lib/linking';
+import PageHead from '../components/PageHead.astro';
+import LinkCards from '../components/LinkCards.astro';
+import RichTextHtml from '../components/RichTextHtml.astro';
+import Bloks from '../components/Bloks.astro';
+interface Props { story: PageStory<PageHub>; site: Site }
+const { story, site } = Astro.props;
+const c = story.content;
+const cards = childCards(site, story);
+const kids = site.children(story);
+const tiles = kids.length > 0 && kids.every((k) => k.content.component === 'page_brand');
+---
+<PageHead story={story} site={site} h1={c.h1 || story.name} intro={c.intro} />
+<section class="section">
+  <div class="wrap">
+    {cards.length > 0 && <h2>{c.child_heading ?? 'Übersicht'}</h2>}
+    <LinkCards cards={cards} variant={tiles ? 'cards' : 'index'} showImage={false} />
+    <RichTextHtml doc={c.body_text} />
+  </div>
+</section>
+<Bloks bloks={c.body} site={site} />
+<Bloks bloks={c.cta} site={site} />

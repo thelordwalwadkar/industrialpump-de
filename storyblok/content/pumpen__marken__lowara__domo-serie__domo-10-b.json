@@ -1,0 +1,194 @@
+{
+  "id": 1688094577,
+  "uuid": "649e4771-6301-da26-b3ae-47aa21e67f0c",
+  "name": "DOMO 10/B",
+  "slug": "domo-10-b",
+  "full_slug": "pumpen/marken/lowara/domo-serie/domo-10-b",
+  "position": 0,
+  "content": {
+    "component": "page_product",
+    "article_number": "DOMO 10/B",
+    "name": "DOMO 10/B",
+    "nav_title": "DOMO 10/B",
+    "h1": "Lowara DOMO 10/B – Tauchmotorpumpe für Schmutz- und Abwasser",
+    "seo_title": "Lowara DOMO 10/B – Tauchmotorpumpe für Schmutz- und Abwasser",
+    "seo_description": "Lowara DOMO 10/B: Tauchmotorpumpe der DOMO-Serie. Motorleistung 0,75 kW, Förderstrom bis 30 m³/h, Förderhöhe bis 8,5 m. Angebot anfordern.",
+    "intro": "Die Lowara DOMO 10/B ist eine Tauchmotorpumpe der DOMO-Serie für Schmutz- und Abwasser.",
+    "short_description": "Die Lowara DOMO 10/B ist eine Tauchmotorpumpe der DOMO-Serie für Schmutz- und Abwasser. Laut Katalogdaten hat dieser Artikel eine Motorleistung von 0,75 kW, einen Förderstrom bis 30 m³/h und eine Förderhöhe bis 8,5 m. Für die Auslegung im Bestand senden Sie uns Typenschild oder Betriebsdaten; wir prüfen, ob die DOMO 10/B Ihre Fördermenge und Förderhöhe abdeckt. Maßgeblich sind die Angaben im Datenblatt des Herstellers.",
+    "image_source": "/Images/ipg_ecom/Lowara/Lowara-DOMO.jpg",
+    "image": {
+      "filename": "/img/products/lowara-domo.webp",
+      "alt": "Lowara DOMO 10/B"
+    },
+    "internal_item_number": "26-107670020",
+    "key_facts": [
+      {
+        "_uid": "5538a8f90206",
+        "component": "key_fact",
+        "label": "Förderstrom max.",
+        "value": "30",
+        "unit": "m³/h"
+      },
+      {
+        "_uid": "cc4c0fe79cda",
+        "component": "key_fact",
+        "label": "Förderhöhe max.",
+        "value": "8,5",
+        "unit": "m"
+      },
+      {
+        "_uid": "99386c596eb7",
+        "component": "key_fact",
+        "label": "Motorleistung",
+        "value": "0,75",
+        "unit": "kW"
+      },
+      {
+        "_uid": "0a404b39bf7d",
+        "component": "key_fact",
+        "label": "Spannung",
+        "value": "230",
+        "unit": "V"
+      }
+    ],
+    "specs": [
+      {
+        "_uid": "d92124bbeba3",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderstrom min.",
+        "value": "6",
+        "unit": "m³/h",
+        "value_num": 6
+      },
+      {
+        "_uid": "5ffaa05518d0",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderstrom max.",
+        "value": "30",
+        "unit": "m³/h",
+        "value_num": 30
+      },
+      {
+        "_uid": "afa7d0869fc9",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderhöhe max.",
+        "value": "8,5",
+        "unit": "m",
+        "value_num": 8.5
+      },
+      {
+        "_uid": "f987f0d22dec",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Laufradform",
+        "value": "Geschlossenes Kanalrad"
+      },
+      {
+        "_uid": "8aac8267edf9",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Motorleistung",
+        "value": "0,75",
+        "unit": "kW",
+        "value_num": 0.75
+      },
+      {
+        "_uid": "6ea5c65de1cd",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Spannung",
+        "value": "230",
+        "unit": "V",
+        "value_num": 230
+      },
+      {
+        "_uid": "f3cf955b513a",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Nennspannung (Variante 1)",
+        "value": "220–240",
+        "unit": "V"
+      },
+      {
+        "_uid": "6585c6dfbcb4",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Frequenz",
+        "value": "50",
+        "unit": "Hz",
+        "value_num": 50
+      },
+      {
+        "_uid": "cea6bc64f254",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Phasen",
+        "value": "1",
+        "value_num": 1
+      },
+      {
+        "_uid": "0fb0e1728579",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Nennstrom",
+        "value": "5,84",
+        "unit": "A",
+        "value_num": 5.84
+      },
+      {
+        "_uid": "50465067bde4",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Drehzahl",
+        "value": "2.850",
+        "unit": "min⁻¹",
+        "value_num": 2850
+      },
+      {
+        "_uid": "cb1a2e39e6f9",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Motortyp",
+        "value": "75M712"
+      },
+      {
+        "_uid": "b44b5f16d346",
+        "component": "spec_row",
+        "group": "Werkstoffe",
+        "label": "Pumpengehäuse",
+        "value": "Gusseisen"
+      },
+      {
+        "_uid": "f7d5da6356fa",
+        "component": "spec_row",
+        "group": "Werkstoffe",
+        "label": "Gehäuse, Werkstoffangabe",
+        "value": "Gusseisen EN-GJL-250"
+      },
+      {
+        "_uid": "28f106720574",
+        "component": "spec_row",
+        "group": "Werkstoffe",
+        "label": "Laufrad",
+        "value": "Gusseisen"
+      },
+      {
+        "_uid": "db4de10c3740",
+        "component": "spec_row",
+        "group": "Anschlüsse & Abmessungen",
+        "label": "Gewicht",
+        "value": "13,2",
+        "unit": "kg",
+        "value_num": 13.2
+      }
+    ],
+    "flow_max_m3h": 30,
+    "head_max_m": 8.5,
+    "power_kw": 0.75,
+    "voltage": "230 V",
+    "material": "Gusseisen"
+  }
+}

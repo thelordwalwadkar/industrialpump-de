@@ -1,0 +1,266 @@
+{
+  "id": 3228692348,
+  "uuid": "c071ef7c-ed85-8c0c-df48-9a1e5fbeb16c",
+  "name": "IRX40-200B",
+  "slug": "irx40-200b",
+  "full_slug": "pumpen/marken/saer/irx-serie/irx40-200b",
+  "position": 0,
+  "content": {
+    "component": "page_product",
+    "article_number": "IRX40-200B",
+    "name": "IRX40-200B",
+    "nav_title": "IRX40-200B",
+    "h1": "SAER IRX40-200B – Blockpumpe für Wasseraufbereitung und Wassertransport",
+    "seo_title": "SAER IRX40-200B – Blockpumpe",
+    "seo_description": "SAER IRX40-200B: Blockpumpe der IRX-Serie. Motorleistung 9,2 kW, Förderstrom bis 40 m³/h, Förderhöhe bis 31,4 m. Angebot anfordern.",
+    "intro": "Die SAER IRX40-200B ist eine Blockpumpe der IRX-Serie für Wasseraufbereitung und Wassertransport.",
+    "short_description": "Die SAER IRX40-200B ist eine Blockpumpe der IRX-Serie für Wasseraufbereitung und Wassertransport. Laut Katalogdaten hat dieser Artikel eine Motorleistung von 9,2 kW, einen Förderstrom bis 40 m³/h und eine Förderhöhe bis 31,4 m. Für die Auslegung im Bestand senden Sie uns Typenschild oder Betriebsdaten; wir prüfen, ob die IRX40-200B Ihre Fördermenge und Förderhöhe abdeckt. Maßgeblich sind die Angaben im Datenblatt des Herstellers.",
+    "image_source": "/Images/ipg_ecom/SAER/SAER-IRX.jpg",
+    "image": {
+      "filename": "/img/products/saer-irx.webp",
+      "alt": "SAER IRX40-200B"
+    },
+    "internal_item_number": "11060750",
+    "key_facts": [
+      {
+        "_uid": "8dc9557bfc3a",
+        "component": "key_fact",
+        "label": "Förderstrom max.",
+        "value": "40",
+        "unit": "m³/h"
+      },
+      {
+        "_uid": "523917ae4b0a",
+        "component": "key_fact",
+        "label": "Förderhöhe max.",
+        "value": "31,4",
+        "unit": "m"
+      },
+      {
+        "_uid": "4f92bcbad69b",
+        "component": "key_fact",
+        "label": "Motorleistung",
+        "value": "9,2",
+        "unit": "kW"
+      },
+      {
+        "_uid": "e85989ad3e1f",
+        "component": "key_fact",
+        "label": "Spannung",
+        "value": "400",
+        "unit": "V"
+      }
+    ],
+    "specs": [
+      {
+        "_uid": "5dca82ac7d12",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderstrom min.",
+        "value": "12",
+        "unit": "m³/h",
+        "value_num": 12
+      },
+      {
+        "_uid": "79b015a3b5d3",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderstrom max.",
+        "value": "40",
+        "unit": "m³/h",
+        "value_num": 40
+      },
+      {
+        "_uid": "0c2ad2da4427",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderhöhe max.",
+        "value": "31,4",
+        "unit": "m",
+        "value_num": 31.4
+      },
+      {
+        "_uid": "180c30ae692e",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Medientemperatur max.",
+        "value": "40",
+        "unit": "°C",
+        "value_num": 40
+      },
+      {
+        "_uid": "5d0f6d457ce2",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Wirkungsgrad",
+        "value": "91",
+        "unit": "%",
+        "value_num": 91
+      },
+      {
+        "_uid": "e28fd60d8380",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Laufradform",
+        "value": "Geschlossenes Kanalrad"
+      },
+      {
+        "_uid": "ae3af79dd25e",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Motorleistung",
+        "value": "9,2",
+        "unit": "kW",
+        "value_num": 9.2
+      },
+      {
+        "_uid": "9c079e49c880",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Spannung",
+        "value": "400",
+        "unit": "V",
+        "value_num": 400
+      },
+      {
+        "_uid": "2b231ebe9e6f",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Nennspannung (Variante 1)",
+        "value": "400/690",
+        "unit": "V"
+      },
+      {
+        "_uid": "37b076e02373",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Frequenz",
+        "value": "50",
+        "unit": "Hz",
+        "value_num": 50
+      },
+      {
+        "_uid": "24d869a3fa99",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Nennstrom",
+        "value": "19,4",
+        "unit": "A",
+        "value_num": 19.4
+      },
+      {
+        "_uid": "8e07bdf0c1a7",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Drehzahl",
+        "value": "1.460",
+        "unit": "min⁻¹",
+        "value_num": 1460
+      },
+      {
+        "_uid": "af1f4f166735",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Isolationsklasse",
+        "value": "F"
+      },
+      {
+        "_uid": "19bdf63528b3",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Wirkungsgradklasse",
+        "value": "IE3"
+      },
+      {
+        "_uid": "4e4df72792f9",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Betriebsart",
+        "value": "S1"
+      },
+      {
+        "_uid": "367238f4cafa",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Anzugsstrom-Verhältnis Ia/In",
+        "value": "7,7",
+        "value_num": 7.7
+      },
+      {
+        "_uid": "0ccd91294d07",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Anzugsmoment-Verhältnis Ma/Mn",
+        "value": "1,8",
+        "value_num": 1.8
+      },
+      {
+        "_uid": "5de5d1fd920a",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Kippmoment-Verhältnis Mk/Mn",
+        "value": "3,4",
+        "value_num": 3.4
+      },
+      {
+        "_uid": "b6018d6ec030",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Nennmoment",
+        "value": "60",
+        "unit": "Nm",
+        "value_num": 59.968
+      },
+      {
+        "_uid": "90f9299c3055",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Betriebsfaktor",
+        "value": "1",
+        "value_num": 1
+      },
+      {
+        "_uid": "cdc2b024d67f",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Schalldruckpegel",
+        "value": "69",
+        "unit": "dB(A)",
+        "value_num": 69
+      },
+      {
+        "_uid": "a3bf722559ba",
+        "component": "spec_row",
+        "group": "Werkstoffe",
+        "label": "Pumpengehäuse",
+        "value": "Edelstahl 316"
+      },
+      {
+        "_uid": "8b45f40a4764",
+        "component": "spec_row",
+        "group": "Werkstoffe",
+        "label": "Gehäuse, Werkstoffangabe",
+        "value": "Edelstahl 316, Gusseisen"
+      },
+      {
+        "_uid": "bda0efa2070a",
+        "component": "spec_row",
+        "group": "Werkstoffe",
+        "label": "Laufrad",
+        "value": "Edelstahl 316"
+      },
+      {
+        "_uid": "de38ec82edcb",
+        "component": "spec_row",
+        "group": "Anschlüsse & Abmessungen",
+        "label": "Druckanschluss",
+        "value": "DN 40"
+      }
+    ],
+    "flow_max_m3h": 40,
+    "head_max_m": 31.4,
+    "power_kw": 9.2,
+    "voltage": "400 V",
+    "material": "Edelstahl"
+  }
+}

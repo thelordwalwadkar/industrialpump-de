@@ -1,0 +1,19 @@
+---
+import type { LogoStrip, PageBrand, PageStory } from '../lib/types';
+import type { Site } from '../lib/storyblok';
+import { cardFor } from '../lib/linking';
+import LinkCards from '../components/LinkCards.astro';
+interface Props { blok: LogoStrip; site: Site }
+const { blok, site } = Astro.props;
+// The brand strip is built from the brand stories themselves - never maintained by hand.
+const brands = site.pages.filter((p): p is PageStory<PageBrand> => p.content.component === 'page_brand' && !p.full_slug.startsWith('__fixtures__'));
+const cards = brands.map((b) => ({ ...cardFor(b, site), text: undefined }));
+---
+{cards.length > 0 && (
+  <section class="section">
+    <div class="wrap">
+      <h2>{blok.heading ?? 'Marken'}</h2>
+      <LinkCards cards={cards} variant="cards" />
+    </div>
+  </section>
+)}

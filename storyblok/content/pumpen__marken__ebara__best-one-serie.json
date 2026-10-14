@@ -1,0 +1,183 @@
+{
+  "id": 927830978,
+  "uuid": "374d93c2-f339-94ac-88a2-d0160cf066af",
+  "name": "Best One-Serie",
+  "slug": "best-one-serie",
+  "full_slug": "pumpen/marken/ebara/best-one-serie",
+  "position": 16,
+  "content": {
+    "component": "page_series",
+    "series_name": "Best One",
+    "h1": "Ebara Best One-Serie – Tragbare Tauchmotorpumpen aus Edelstahl",
+    "nav_title": "Best One-Serie",
+    "seo_title": "Ebara Best One-Serie: Tauchmotorpumpen aus Edelstahl",
+    "seo_description": "Ebara Best One: tragbare Tauchmotorpumpen aus Edelstahl 304 für sauberes und leicht verschmutztes Wasser. Ausführungen MS, A und Vox. Angebot anfordern.",
+    "intro": "Die Ebara Best One-Serie umfasst tragbare Tauchmotorpumpen aus Edelstahl 304 für sauberes und leicht verschmutztes Wasser. Der Katalog führt die Ausführungen MS, A, Vox und Vox A.",
+    "pump_type": "tauchmotorpumpen",
+    "segments": [
+      "landwirtschaft",
+      "wasseraufbereitung",
+      "wassertransport"
+    ],
+    "applications": [
+      "entwaesserung"
+    ],
+    "use_case_line": "Tragbare Tauchmotorpumpen aus Edelstahl 304",
+    "body_text": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Die Best-One-Serie von Ebara besteht aus tragbaren Tauchmotorpumpen, die laut Katalog vollständig aus Edelstahl 304 gefertigt sind. Sie fördern sauberes und leicht verschmutztes Wasser, zum Beispiel bei der Entwässerung von Kellern und Schächten oder bei der Ableitung von Regenwasser."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Die Ausführungen unterscheiden sich in Förderstrom und Förderhöhe. Die Vox-Ausführungen haben ein Vortex-Laufrad; der Freie Durchgang des gewählten Artikels steht in den technischen Daten."
+            }
+          ]
+        }
+      ]
+    },
+    "highlights": "Tragbar, vollständig Edelstahl 304 (Katalogangabe)\nSauberes und leicht verschmutztes Wasser\nKeller- und Schachtentwässerung, Regenwasser",
+    "image_source": "/Images/ipg_ecom/Ebara/Ebara-Best-One-MS.png",
+    "image": {
+      "filename": "/img/products/ebara-best-one-ms.webp",
+      "alt": "Ebara Best One-Serie"
+    },
+    "flow_max_m3h": 19.8,
+    "head_max_m": 17.3,
+    "power_min_kw": 0.25,
+    "power_max_kw": 1.1,
+    "temp_max_c": 20,
+    "materials": "Edelstahl",
+    "catalogue_count": 5,
+    "body": [
+      {
+        "_uid": "7e3976e7a8d7",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Auswahlhinweise für Tauchmotorpumpen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Tauchmotorpumpen arbeiten im Medium und fördern es direkt aus Schacht, Grube oder Behälter. Entscheidend sind Förderstrom, Förderhöhe und die Beschaffenheit des Mediums."
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Freier Durchgang: Er gibt die größte Feststoffgröße an, die die Pumpe passieren kann."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Niveausteuerung: Schwimmerschalter oder Niveaugeber schalten die Pumpe selbsttätig und schützen vor Trockenlauf."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Einbau: Eintauchtiefe, Kühlung des Motors und Aufstellart (tragbar oder fest installiert) beachten."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Explosionsgefährdete Bereiche: Hier ist eine Ausführung nach ATEX (2014/34/EU) erforderlich; bitte vor der Auswahl prüfen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "faq": [
+      {
+        "_uid": "d9bc49c205b8",
+        "component": "faq",
+        "heading": "Häufige Fragen zur Best One-Serie",
+        "items": [
+          {
+            "_uid": "0d76caf8993d",
+            "component": "faq_item",
+            "question": "Wie finde ich den passenden Artikel der Best One-Serie?",
+            "answer": "Senden Sie uns das Typenschild Ihrer vorhandenen Pumpe oder Ihre Betriebsdaten: Förderstrom, Förderhöhe, Medium und Temperatur. Daraus ordnen wir den passenden Artikel der Best One-Serie zu."
+          },
+          {
+            "_uid": "c01333794aaa",
+            "component": "faq_item",
+            "question": "Sind Ersatzteile und eine Revision für die Best One-Serie möglich?",
+            "answer": "Ersatzteile und die Revision von Ebara-Pumpen können Sie über das Angebotsformular anfragen. Welche Teile im Einzelfall verfügbar sind, hängt von Baujahr und Ausführung ab."
+          },
+          {
+            "_uid": "dc060f8eb814",
+            "component": "faq_item",
+            "question": "Wie lang ist die Lieferzeit für Artikel der Best One-Serie?",
+            "answer": "[[PLATZHALTER: Lieferzeit Ebara Best One]]"
+          }
+        ]
+      }
+    ]
+  }
+}

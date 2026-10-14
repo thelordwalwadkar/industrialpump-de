@@ -1,0 +1,182 @@
+{
+  "id": 1523885896,
+  "uuid": "5ad4a748-bc7f-8ae5-87bf-e3caf9476091",
+  "name": "DIWA-Serie",
+  "slug": "diwa-serie",
+  "full_slug": "pumpen/marken/lowara/diwa-serie",
+  "position": 8,
+  "content": {
+    "component": "page_series",
+    "series_name": "DIWA",
+    "h1": "Lowara DIWA-Serie – Tauchmotorpumpen für leicht verschmutztes Wasser",
+    "nav_title": "DIWA-Serie",
+    "seo_title": "Lowara DIWA-Serie: Tauchmotorpumpen für Entwässerung",
+    "seo_description": "Lowara DIWA: Tauchmotorpumpen für sauberes und leicht verschmutztes Wasser, Entwässerung und Hochwasserschutz. Kennbereiche, Angebot anfordern.",
+    "intro": "Die Lowara DIWA-Serie umfasst Tauchmotorpumpen für sauberes und leicht verschmutztes Wasser, etwa für die Entwässerung von Schächten und Baugruben und für den Hochwasserschutz. Ausführungen mit Schwimmerschalter schalten selbsttätig.",
+    "pump_type": "tauchmotorpumpen",
+    "segments": [
+      "landwirtschaft",
+      "wasseraufbereitung",
+      "wassertransport"
+    ],
+    "applications": [
+      "entwaesserung"
+    ],
+    "use_case_line": "Tauchmotorpumpen für leicht verschmutztes Wasser und Entwässerung",
+    "body_text": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Die DIWA-Serie von Lowara ist für professionelle Anwender in vielen Einsatzfeldern ausgelegt: Entwässerung, Förderung von sauberem und leicht verschmutztem Wasser sowie Hochwasserschutz. Die Serie umfasst Modelle mit unterschiedlichem Förderstrom, unterschiedlicher Förderhöhe und unterschiedlichem Durchgang."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Der Katalog nennt eine robuste Ausführung, überwiegend in Edelstahl AISI 304, sowie thermoplastische Bauteile. Welche Werkstoffe ein einzelner Artikel verwendet, steht in dessen technischen Daten; bei DIWA 07/B bestehen Pumpengehäuse und Laufrad aus Gusseisen."
+            }
+          ]
+        }
+      ]
+    },
+    "highlights": "Sauberes und leicht verschmutztes Wasser\nMit Schwimmerschalter selbsttätig schaltend\nRobuste Ausführung, überwiegend Edelstahl AISI 304 (Katalogangabe)\nEntwässerung und Hochwasserschutz",
+    "image_source": "/Images/ipg_ecom/Lowara/Lowara-DIWA.jpg",
+    "image": {
+      "filename": "/img/products/lowara-diwa.webp",
+      "alt": "Lowara DIWA-Serie"
+    },
+    "flow_max_m3h": 25.2,
+    "head_max_m": 15.6,
+    "power_min_kw": 0.55,
+    "power_max_kw": 1.5,
+    "materials": "Gusseisen",
+    "catalogue_count": 13,
+    "body": [
+      {
+        "_uid": "2788877e2924",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Auswahlhinweise für Tauchmotorpumpen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Tauchmotorpumpen arbeiten im Medium und fördern es direkt aus Schacht, Grube oder Behälter. Entscheidend sind Förderstrom, Förderhöhe und die Beschaffenheit des Mediums."
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Freier Durchgang: Er gibt die größte Feststoffgröße an, die die Pumpe passieren kann."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Niveausteuerung: Schwimmerschalter oder Niveaugeber schalten die Pumpe selbsttätig und schützen vor Trockenlauf."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Einbau: Eintauchtiefe, Kühlung des Motors und Aufstellart (tragbar oder fest installiert) beachten."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Explosionsgefährdete Bereiche: Hier ist eine Ausführung nach ATEX (2014/34/EU) erforderlich; bitte vor der Auswahl prüfen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "faq": [
+      {
+        "_uid": "6a47b7ffa36d",
+        "component": "faq",
+        "heading": "Häufige Fragen zur DIWA-Serie",
+        "items": [
+          {
+            "_uid": "53f483cd409f",
+            "component": "faq_item",
+            "question": "Wie finde ich den passenden Artikel der DIWA-Serie?",
+            "answer": "Senden Sie uns das Typenschild Ihrer vorhandenen Pumpe oder Ihre Betriebsdaten: Förderstrom, Förderhöhe, Medium und Temperatur. Daraus ordnen wir den passenden Artikel der DIWA-Serie zu."
+          },
+          {
+            "_uid": "87c1dd3e1cc8",
+            "component": "faq_item",
+            "question": "Sind Ersatzteile und eine Revision für die DIWA-Serie möglich?",
+            "answer": "Ersatzteile und die Revision von Lowara-Pumpen können Sie über das Angebotsformular anfragen. Welche Teile im Einzelfall verfügbar sind, hängt von Baujahr und Ausführung ab."
+          },
+          {
+            "_uid": "600c7c83ac54",
+            "component": "faq_item",
+            "question": "Wie lang ist die Lieferzeit für Artikel der DIWA-Serie?",
+            "answer": "[[PLATZHALTER: Lieferzeit Lowara DIWA]]"
+          }
+        ]
+      }
+    ]
+  }
+}

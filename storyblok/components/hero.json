@@ -1,0 +1,53 @@
+{
+  "component": {
+    "name": "hero",
+    "display_name": "Hero",
+    "is_root": false,
+    "is_nestable": true,
+    "schema": {
+      "headline": {
+        "type": "text",
+        "description": "Eine klare Kernaussage (H1).",
+        "required": true,
+        "pos": 0
+      },
+      "subline": {
+        "type": "textarea",
+        "description": "Unterzeile.",
+        "pos": 1
+      },
+      "primary_label": {
+        "type": "text",
+        "description": "Button 1, z. B. „Pumpe finden“.",
+        "pos": 2
+      },
+      "primary_link": {
+        "type": "multilink",
+        "description": "Ziel Button 1.",
+        "email_link_type": true,
+        "asset_link_type": true,
+        "pos": 3
+      },
+      "secondary_label": {
+        "type": "text",
+        "description": "Button 2, z. B. „Angebot anfordern“.",
+        "pos": 4
+      },
+      "secondary_link": {
+        "type": "multilink",
+        "description": "Ziel Button 2.",
+        "email_link_type": true,
+        "asset_link_type": true,
+        "pos": 5
+      },
+      "image": {
+        "type": "asset",
+        "filetypes": [
+          "images"
+        ],
+        "description": "Bild.",
+        "pos": 6
+      }
+    }
+  }
+}

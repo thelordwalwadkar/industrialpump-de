@@ -1,0 +1,22 @@
+---
+/** T11 · page_case_study — Kunde (nur wenn freigegeben) · Ausgangslage · Lösung · Ergebnis (nur belegte Zahlen) · eingesetzte Produkte */
+import type { PageCaseStudy, PageStory } from '../lib/types';
+import type { Site } from '../lib/storyblok';
+import { hasPlaceholder } from '../lib/format';
+import PageHead from '../components/PageHead.astro';
+import RichTextHtml from '../components/RichTextHtml.astro';
+import RelatedLinks from '../storyblok/RelatedLinks.astro';
+import QuoteCta from '../components/QuoteCta.astro';
+import Bloks from '../components/Bloks.astro';
+interface Props { story: PageStory<PageCaseStudy>; site: Site }
+const { story, site } = Astro.props;
+const c = story.content;
+---
+<PageHead story={story} site={site} h1={c.h1 || story.name} intro={c.intro} />
+{c.customer && !hasPlaceholder(c.customer) && <section class="section"><div class="wrap"><h2>Kunde</h2><p>{c.customer}</p></div></section>}
+{c.situation && <section class="section"><div class="wrap"><h2>Ausgangslage</h2><RichTextHtml doc={c.situation} /></div></section>}
+{c.solution && <section class="section"><div class="wrap"><h2>Lösung</h2><RichTextHtml doc={c.solution} /></div></section>}
+{c.result && <section class="section"><div class="wrap"><h2>Ergebnis</h2><RichTextHtml doc={c.result} /></div></section>}
+{c.products?.map((b) => <RelatedLinks blok={{ ...b, heading: b.heading ?? 'Eingesetzte Produkte' }} site={site} />)}
+<Bloks bloks={c.body} site={site} />
+<div class="wrap"><QuoteCta heading="Ähnliche Aufgabe?" text="Beschreiben Sie uns Ihre Anlage und Ihre Betriebsdaten." label="Angebot anfordern" href="/angebot" /></div>

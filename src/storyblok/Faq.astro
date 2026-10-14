@@ -1,0 +1,7 @@
+---
+import type { Faq } from '../lib/types';
+import FaqList from '../components/FaqList.astro';
+interface Props { blok: Faq }
+const { blok } = Astro.props;
+---
+<div class="wrap"><FaqList faqs={[blok]} /></div>

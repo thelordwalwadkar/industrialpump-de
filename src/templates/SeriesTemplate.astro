@@ -1,0 +1,99 @@
+---
+/** T5 · page_series — Intro · Kennbereiche · Produktliste mit Filtern · Downloads · Einsatzbereiche · verwandte Serien · FAQ · CTA. Ein Template für jede Serie. */
+import type { PageSeries, PageStory } from '../lib/types';
+import type { Site } from '../lib/storyblok';
+import { brandOf, productChildren, quoteHref, relatedSeries, topicLinksFor } from '../lib/linking';
+import { fmtNumber, toNumber } from '../lib/format';
+import { pathOf } from '../lib/storyblok';
+import PageHead from '../components/PageHead.astro';
+import RichTextHtml from '../components/RichTextHtml.astro';
+import ProductList from '../components/ProductList.astro';
+import LinkCards from '../components/LinkCards.astro';
+import FaqList from '../components/FaqList.astro';
+import QuoteCta from '../components/QuoteCta.astro';
+import Figure from '../components/Figure.astro';
+import DownloadList from '../storyblok/DownloadList.astro';
+import Bloks from '../components/Bloks.astro';
+interface Props { story: PageStory<PageSeries>; site: Site }
+const { story, site } = Astro.props;
+const c = story.content;
+const brand = brandOf(site, story);
+const products = productChildren(site, story);
+const sameBrand = relatedSeries(site, story, { scope: 'same-brand', max: 4 });
+const crossBrand = relatedSeries(site, story, { scope: 'cross-brand', max: 4 });
+const topics = topicLinksFor(site, c);
+const highlights = (c.highlights ?? '').split(/\r?\n/).map((l) => l.trim()).filter(Boolean);
+const range = (min?: number | string, max?: number | string, unit = '') => {
+  const a = toNumber(min), b = toNumber(max);
+  if (a === undefined && b === undefined) return undefined;
+  if (a !== undefined && b !== undefined && a !== b) return `${fmtNumber(a, 2)} – ${fmtNumber(b, 2)} ${unit}`.trim();
+  return `${fmtNumber(b ?? a, 2)} ${unit}`.trim();
+};
+const ranges: [string, string | undefined][] = [
+  ['Förderstrom Q max.', fmtNumber(c.flow_max_m3h) && `${fmtNumber(c.flow_max_m3h)} m³/h`],
+  ['Förderhöhe H max.', fmtNumber(c.head_max_m) && `${fmtNumber(c.head_max_m)} m`],
+  ['Motorleistung', range(c.power_min_kw, c.power_max_kw, 'kW')],
+  ['Medientemperatur max.', fmtNumber(c.temp_max_c) && `${fmtNumber(c.temp_max_c)} °C`],
+  ['Werkstoffe', c.materials],
+];
+const shown = ranges.filter(([, v]) => v);
+const quote = quoteHref(site, story);
+const name = `${c.series_name}-Serie`;
+---
+<PageHead story={story} site={site} h1={c.h1 || story.name} intro={c.intro}>
+  <ul class="meta-line">
+    {brand && <li>Marke: <strong><a href={pathOf(brand)}>{brand.content.brand_name}</a></strong></li>}
+    {c.catalogue_count && <li>Im Katalog: <strong class="num">{c.catalogue_count} Artikel</strong></li>}
+  </ul>
+</PageHead>
+
+<section class="section">
+  <div class="wrap product-head">
+    <div>
+      <RichTextHtml doc={c.body_text} />
+      {highlights.length > 0 && <ul class="ticks">{highlights.map((h) => <li>{h}</li>)}</ul>}
+    </div>
+    <div class="figure"><Figure asset={c.image} alt={`${brand?.content.brand_name ?? ''} ${name}`} width={320} height={240} eager /></div>
+  </div>
+</section>
+
+{shown.length > 0 && (
+  <section class="section" aria-labelledby="kennbereiche">
+    <div class="wrap">
+      <h2 id="kennbereiche">Kennbereiche der {name}</h2>
+      <div class="spec-wrap" tabindex="0" role="region" aria-label="Kennbereiche">
+        <table class="spec ranges"><tbody>{shown.map(([k, v]) => <tr><th scope="row">{k}</th><td>{v}</td></tr>)}</tbody></table>
+      </div>
+      <p class="muted" style="margin-top:.6rem">Bereiche über alle Katalogartikel der Serie. Maßgeblich ist das Datenblatt des jeweiligen Artikels.</p>
+    </div>
+  </section>
+)}
+
+<section class="section" aria-labelledby="produkte">
+  <div class="wrap">
+    <h2 id="produkte">Produkte der {name}</h2>
+    {products.length > 0
+      ? <ProductList products={products} />
+      : <div class="empty"><p>Produkte werden in Kürze ergänzt – fordern Sie bis dahin ein Angebot an.</p><a class="btn" href={quote}>Angebot anfordern</a></div>}
+  </div>
+</section>
+
+{c.downloads?.map((b) => <DownloadList blok={b} />)}
+
+{topics.length > 0 && (
+  <section class="section" aria-labelledby="einsatz">
+    <div class="wrap">
+      <h2 id="einsatz">Einsatzbereiche</h2>
+      <ul class="ticks">{topics.map((t) => <li>{t.exists ? <a href={t.term.path}>{t.term.label}</a> : t.term.label} <span class="muted">({t.kind})</span></li>)}</ul>
+    </div>
+  </section>
+)}
+
+<Bloks bloks={c.body} site={site} />
+
+{sameBrand.length > 0 && <section class="section" aria-labelledby="weitere"><div class="wrap"><h2 id="weitere">Weitere Serien von {brand?.content.brand_name}</h2><LinkCards cards={sameBrand} variant="cards" /></div></section>}
+{crossBrand.length > 0 && <section class="section" aria-labelledby="vergleich"><div class="wrap"><h2 id="vergleich">Vergleichbare Serien anderer Marken</h2><LinkCards cards={crossBrand} variant="cards" /></div></section>}
+
+<div class="wrap"><FaqList faqs={c.faq} /></div>
+<div class="wrap"><QuoteCta heading={`Angebot für die ${name} anfordern`} text="Senden Sie uns Typenschild oder Betriebsdaten. Wir prüfen, ob die Serie Ihre Anforderungen abdeckt." label="Angebot anfordern" href={quote} /></div>
+<Bloks bloks={c.cta} site={site} />

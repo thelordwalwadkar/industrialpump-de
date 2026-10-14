@@ -1,0 +1,13 @@
+---
+import type { Faq } from '../lib/types';
+interface Props { faqs?: Faq[]; heading?: string }
+const { faqs, heading = 'Häufige Fragen' } = Astro.props;
+const items = (faqs ?? []).flatMap((f) => f.items ?? []).filter((i) => i.question && i.answer);
+const title = faqs?.find((f) => f.heading)?.heading ?? heading;
+---
+{items.length > 0 && (
+  <section class="section" aria-labelledby="faq-h">
+    <h2 id="faq-h">{title}</h2>
+    {items.map((i) => <details class="faq"><summary>{i.question}</summary><p>{i.answer}</p></details>)}
+  </section>
+)}

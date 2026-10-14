@@ -1,0 +1,24 @@
+{
+  "component": {
+    "name": "steps",
+    "display_name": "Ablauf",
+    "is_root": false,
+    "is_nestable": true,
+    "schema": {
+      "heading": {
+        "type": "text",
+        "description": "Überschrift.",
+        "pos": 0
+      },
+      "items": {
+        "type": "bloks",
+        "restrict_components": true,
+        "component_whitelist": [
+          "step"
+        ],
+        "description": "Nur echte Reihenfolgen (z. B. Revisionsablauf).",
+        "pos": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "id": 2532630182,
+  "uuid": "96f4dea6-0ccf-92b8-237d-4d678e858cdd",
+  "name": "HM-Serie",
+  "slug": "hm-serie",
+  "full_slug": "pumpen/marken/lowara/hm-serie",
+  "position": 2,
+  "content": {
+    "component": "page_series",
+    "series_name": "HM",
+    "h1": "Lowara HM-Serie – Mehrstufige horizontale Kreiselpumpen",
+    "nav_title": "HM-Serie",
+    "seo_title": "Lowara HM-Serie: Mehrstufige horizontale Kreiselpumpen",
+    "seo_description": "Lowara HM: mehrstufige horizontale Kreiselpumpen für Druckerhöhung, Wasseraufbereitung und Gebäudetechnik. Kennbereiche, Artikel, Angebot anfordern.",
+    "intro": "Die Lowara HM-Serie umfasst mehrstufige Kreiselpumpen in horizontaler Bauweise für Druckerhöhung, Wasseraufbereitung, Wassertransport und Anwendungen der Gebäudetechnik. Die kompakten Pumpen eignen sich für beengte Aufstellorte.",
+    "pump_type": "mehrstufige-pumpen",
+    "segments": [
+      "gebaeudetechnik-hvac",
+      "wasseraufbereitung",
+      "wassertransport"
+    ],
+    "applications": [],
+    "use_case_line": "Mehrstufige horizontale Kreiselpumpen für Druckerhöhung und Gebäudetechnik",
+    "body_text": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Die HM-Serie von Lowara besteht aus horizontal aufgestellten, mehrstufigen Kreiselpumpen. Die Mehrstufigkeit liefert hohe Drücke bei überschaubarem Förderstrom; typische Anwendungen sind Druckerhöhung sowie Anlagen der Wasseraufbereitung, des Wassertransports und der Gebäudetechnik."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Die Pumpen haben kompakte Abmessungen und lassen sich dadurch auch an engen oder schwer zugänglichen Stellen installieren. Nach Herstellerangaben sind sie auf einfache Installation und Wartung ausgelegt."
+            }
+          ]
+        }
+      ]
+    },
+    "highlights": "Horizontale, kompakte Bauweise\nHohe Drücke durch mehrere Stufen\nDruckerhöhung, Wasseraufbereitung, Gebäudetechnik\nFür enge Aufstellorte geeignet",
+    "image_source": "/Images/ipg_ecom/Lowara/Lowara-HM.jpg",
+    "image": {
+      "filename": "/img/products/lowara-hm.webp",
+      "alt": "Lowara HM-Serie"
+    },
+    "flow_max_m3h": 24,
+    "head_max_m": 131,
+    "power_min_kw": 0.3,
+    "power_max_kw": 1.5,
+    "catalogue_count": 208,
+    "body": [
+      {
+        "_uid": "74a0853706e0",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Auswahlhinweise für mehrstufige Pumpen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bei mehrstufigen Pumpen addieren sich die Förderhöhen der einzelnen Stufen. Die Auslegung beginnt deshalb mit dem geforderten Förderstrom und dem benötigten Enddruck."
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Betriebspunkt: Er ergibt sich aus dem Schnittpunkt von Pumpen- und Anlagenkennlinie und sollte in der Nähe des Bestpunkts liegen."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "NPSH: Der NPSH-Wert der Anlage muss den NPSH-Bedarf der Pumpe mit Sicherheitszuschlag übersteigen, sonst droht Kavitation."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Werkstoff: Er richtet sich nach Fördermedium, Temperatur und Zusammensetzung."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Drehzahlregelung: Ein Frequenzumrichter passt Förderstrom und Druck an wechselnden Bedarf an."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "faq": [
+      {
+        "_uid": "bf3af53681ad",
+        "component": "faq",
+        "heading": "Häufige Fragen zur HM-Serie",
+        "items": [
+          {
+            "_uid": "0c9057e6eea6",
+            "component": "faq_item",
+            "question": "Wie finde ich den passenden Artikel der HM-Serie?",
+            "answer": "Senden Sie uns das Typenschild Ihrer vorhandenen Pumpe oder Ihre Betriebsdaten: Förderstrom, Förderhöhe, Medium und Temperatur. Daraus ordnen wir den passenden Artikel der HM-Serie zu."
+          },
+          {
+            "_uid": "fcdf89bf5d94",
+            "component": "faq_item",
+            "question": "Sind Ersatzteile und eine Revision für die HM-Serie möglich?",
+            "answer": "Ersatzteile und die Revision von Lowara-Pumpen können Sie über das Angebotsformular anfragen. Welche Teile im Einzelfall verfügbar sind, hängt von Baujahr und Ausführung ab."
+          },
+          {
+            "_uid": "2bbe03cf4e92",
+            "component": "faq_item",
+            "question": "Wie lang ist die Lieferzeit für Artikel der HM-Serie?",
+            "answer": "[[PLATZHALTER: Lieferzeit Lowara HM]]"
+          }
+        ]
+      }
+    ]
+  }
+}

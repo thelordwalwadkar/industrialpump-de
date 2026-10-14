@@ -1,0 +1,182 @@
+{
+  "id": 485003622,
+  "uuid": "1ce89166-83f6-1ca9-f261-35e873da75d6",
+  "name": "IRX-Serie",
+  "slug": "irx-serie",
+  "full_slug": "pumpen/marken/saer/irx-serie",
+  "position": 11,
+  "content": {
+    "component": "page_series",
+    "series_name": "IRX",
+    "h1": "SAER IRX-Serie – Blockpumpen aus Edelstahl 316",
+    "nav_title": "IRX-Serie",
+    "seo_title": "SAER IRX-Serie: Blockpumpen aus Edelstahl 316",
+    "seo_description": "SAER IRX: Blockpumpen aus Edelstahl 316 für Wasseraufbereitung, Wassertransport und Gebäudetechnik. Kennbereiche, Artikel, Angebot anfordern.",
+    "intro": "Die SAER IRX-Serie umfasst Blockpumpen aus Edelstahl 316 für Wasseraufbereitung, Wassertransport, Gebäudetechnik und Bewässerung. Der Motor ist direkt an die Pumpe angeflanscht.",
+    "pump_type": "blockpumpen",
+    "segments": [
+      "landwirtschaft",
+      "gebaeudetechnik-hvac",
+      "wasseraufbereitung",
+      "wassertransport"
+    ],
+    "applications": [],
+    "use_case_line": "Blockpumpen aus Edelstahl 316 für Wasseraufbereitung und Wassertransport",
+    "body_text": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Die IRX-Serie ist die Edelstahlausführung der SAER IR-Serie. Pumpengehäuse und Laufrad bestehen aus Edelstahl 316, was die Pumpen besonders widerstandsfähig gegen Korrosion macht. Die Bauform ist ein Block: Motor und Pumpe bilden eine Einheit."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Die Pumpen sind für Wasseraufbereitung, Bewässerung und industrielle Anwendungen vorgesehen. Ob Edelstahl 316 für Ihr Medium geeignet ist, hängt von dessen Zusammensetzung und Temperatur ab; senden Sie uns dazu Ihre Betriebsdaten."
+            }
+          ]
+        }
+      ]
+    },
+    "highlights": "Blockbauweise, Motor direkt angeflanscht\nGehäuse und Laufrad aus Edelstahl 316\nWasseraufbereitung, Bewässerung, industrielle Anwendungen",
+    "image_source": "/Images/ipg_ecom/SAER/SAER-IRX.jpg",
+    "image": {
+      "filename": "/img/products/saer-irx.webp",
+      "alt": "SAER IRX-Serie"
+    },
+    "flow_max_m3h": 200,
+    "head_max_m": 96,
+    "power_min_kw": 1.5,
+    "power_max_kw": 22,
+    "temp_max_c": 40,
+    "materials": "Edelstahl",
+    "catalogue_count": 62,
+    "body": [
+      {
+        "_uid": "dd4548bdc48f",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Auswahlhinweise für Blockpumpen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bei Blockpumpen ist der Motor direkt an die Pumpe angeflanscht. Das spart Platz und vereinfacht die Aufstellung; Motor und Hydraulik werden als Einheit ausgewählt."
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Betriebspunkt: Er ergibt sich aus dem Schnittpunkt von Pumpen- und Anlagenkennlinie und sollte in der Nähe des Bestpunkts liegen."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "NPSH: Der NPSH-Wert der Anlage muss den NPSH-Bedarf der Pumpe mit Sicherheitszuschlag übersteigen, sonst droht Kavitation."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Medium: Werkstoff und Wellendichtung müssen zu Temperatur und Zusammensetzung des Mediums passen."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ersatz: Beim Austausch sind Anschlussmaße, Drehzahl und elektrische Daten des Typenschilds maßgeblich."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "faq": [
+      {
+        "_uid": "3dbad47ab346",
+        "component": "faq",
+        "heading": "Häufige Fragen zur IRX-Serie",
+        "items": [
+          {
+            "_uid": "12bf8b843828",
+            "component": "faq_item",
+            "question": "Wie finde ich den passenden Artikel der IRX-Serie?",
+            "answer": "Senden Sie uns das Typenschild Ihrer vorhandenen Pumpe oder Ihre Betriebsdaten: Förderstrom, Förderhöhe, Medium und Temperatur. Daraus ordnen wir den passenden Artikel der IRX-Serie zu."
+          },
+          {
+            "_uid": "3e732bb1f168",
+            "component": "faq_item",
+            "question": "Sind Ersatzteile und eine Revision für die IRX-Serie möglich?",
+            "answer": "Ersatzteile und die Revision von SAER-Pumpen können Sie über das Angebotsformular anfragen. Welche Teile im Einzelfall verfügbar sind, hängt von Baujahr und Ausführung ab."
+          },
+          {
+            "_uid": "123061328500",
+            "component": "faq_item",
+            "question": "Wie lang ist die Lieferzeit für Artikel der IRX-Serie?",
+            "answer": "[[PLATZHALTER: Lieferzeit SAER IRX]]"
+          }
+        ]
+      }
+    ]
+  }
+}

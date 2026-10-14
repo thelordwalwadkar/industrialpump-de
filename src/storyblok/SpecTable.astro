@@ -1,0 +1,7 @@
+---
+import type { SpecTable } from '../lib/types';
+import SpecGroups from '../components/SpecGroups.astro';
+interface Props { blok: SpecTable }
+const { blok } = Astro.props;
+---
+<section class="section"><div class="wrap">{blok.heading && <h2>{blok.heading}</h2>}<SpecGroups rows={blok.rows ?? []} caption={blok.heading} /></div></section>

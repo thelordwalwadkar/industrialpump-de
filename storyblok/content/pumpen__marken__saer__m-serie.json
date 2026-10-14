@@ -1,0 +1,179 @@
+{
+  "id": 1538766016,
+  "uuid": "5bb7b4c0-9d01-cbc6-8d9e-08f81c66e7e0",
+  "name": "M-Serie",
+  "slug": "m-serie",
+  "full_slug": "pumpen/marken/saer/m-serie",
+  "position": 12,
+  "content": {
+    "component": "page_series",
+    "series_name": "M",
+    "h1": "SAER M-Serie – Kreiselpumpen für sauberes Wasser",
+    "nav_title": "M-Serie",
+    "seo_title": "SAER M-Serie: Kreiselpumpen für sauberes Wasser",
+    "seo_description": "SAER M (M50 bis M200): Kreiselpumpen für sauberes oder leicht verschmutztes Wasser in Landwirtschaft, Bauwesen und Industrie. Angebot anfordern.",
+    "intro": "Die SAER M-Serie umfasst Kreiselpumpen für sauberes oder leicht verschmutztes Wasser in Landwirtschaft, Bauwesen und Industrie. Die Baureihe reicht im Katalog von M50 bis M200.",
+    "pump_type": "kreiselpumpen",
+    "segments": [
+      "landwirtschaft"
+    ],
+    "applications": [],
+    "use_case_line": "Kreiselpumpen für sauberes oder leicht verschmutztes Wasser",
+    "body_text": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Die M-Serie von SAER besteht aus Kreiselpumpen, die nach Herstellerangaben aus Gusseisen und Edelstahl gefertigt sind. Sie eignen sich für die Förderung von sauberem Wasser und Flüssigkeiten mit geringem Feststoffanteil, etwa aus Brunnen und Behältern, für Bewässerung und Entwässerung."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Größere Baugrößen (M150, M200) sind für den gewerblichen und industriellen Einsatz ausgelegt, unter anderem für Wasseraufbereitung, Wassertransport, Kälte- und Klimatechnik. Die Pumpen haben einen einfachen Aufbau mit zuverlässiger Wellendichtung und lassen sich leicht installieren und warten."
+            }
+          ]
+        }
+      ]
+    },
+    "highlights": "Sauberes oder leicht verschmutztes Wasser\nGusseisen und Edelstahl (Herstellerangabe)\nBewässerung, Entwässerung, Wassertransport\nEinfache Installation und Wartung",
+    "image_source": "/Images/ipg_ecom/SAER/SAER-M-50-60-70-80.jpg",
+    "image": {
+      "filename": "/img/products/saer-m-50-60-70-80.webp",
+      "alt": "SAER M-Serie"
+    },
+    "flow_max_m3h": 5,
+    "head_max_m": 66,
+    "power_min_kw": 0.37,
+    "power_max_kw": 1.5,
+    "temp_max_c": 20,
+    "materials": "Gusseisen",
+    "catalogue_count": 7,
+    "body": [
+      {
+        "_uid": "c56be398a88c",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Auswahlhinweise für Kreiselpumpen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Für die Auswahl einer Kreiselpumpe sind Förderstrom, Förderhöhe und Fördermedium die Grundlage. Danach werden Werkstoff, Dichtung und Motorleistung festgelegt."
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Betriebspunkt: Er ergibt sich aus dem Schnittpunkt von Pumpen- und Anlagenkennlinie und sollte in der Nähe des Bestpunkts liegen."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "NPSH: Der NPSH-Wert der Anlage muss den NPSH-Bedarf der Pumpe mit Sicherheitszuschlag übersteigen, sonst droht Kavitation."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Medium: Temperatur, Feststoffanteil und chemische Zusammensetzung bestimmen Werkstoff und Wellendichtung."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ersatz: Beim Austausch einer vorhandenen Pumpe sind Anschlussmaße, Drehzahl und Motordaten des Typenschilds maßgeblich."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "faq": [
+      {
+        "_uid": "2f34bf8d4a67",
+        "component": "faq",
+        "heading": "Häufige Fragen zur M-Serie",
+        "items": [
+          {
+            "_uid": "ae56a8144124",
+            "component": "faq_item",
+            "question": "Wie finde ich den passenden Artikel der M-Serie?",
+            "answer": "Senden Sie uns das Typenschild Ihrer vorhandenen Pumpe oder Ihre Betriebsdaten: Förderstrom, Förderhöhe, Medium und Temperatur. Daraus ordnen wir den passenden Artikel der M-Serie zu."
+          },
+          {
+            "_uid": "82aa8f996966",
+            "component": "faq_item",
+            "question": "Sind Ersatzteile und eine Revision für die M-Serie möglich?",
+            "answer": "Ersatzteile und die Revision von SAER-Pumpen können Sie über das Angebotsformular anfragen. Welche Teile im Einzelfall verfügbar sind, hängt von Baujahr und Ausführung ab."
+          },
+          {
+            "_uid": "e573cf5c2f18",
+            "component": "faq_item",
+            "question": "Wie lang ist die Lieferzeit für Artikel der M-Serie?",
+            "answer": "[[PLATZHALTER: Lieferzeit SAER M]]"
+          }
+        ]
+      }
+    ]
+  }
+}

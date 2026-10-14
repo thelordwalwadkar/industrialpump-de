@@ -1,0 +1,10 @@
+---
+import type { CtaBand } from '../lib/types';
+import type { Site } from '../lib/storyblok';
+import { resolveLink } from '../lib/links';
+import QuoteCta from '../components/QuoteCta.astro';
+interface Props { blok: CtaBand; site: Site }
+const { blok, site } = Astro.props;
+const link = resolveLink(site, blok.button_link);
+---
+{link?.exists && <div class="wrap"><QuoteCta heading={blok.heading} text={blok.text} label={blok.button_label} href={link.href} variant={blok.variant} /></div>}

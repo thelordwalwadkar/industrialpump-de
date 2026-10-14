@@ -1,0 +1,13 @@
+node_modules
+dist
+dist-fixtures
+.astro
+.git
+.github
+.reports
+.claude
+assets-src
+inputs
+*.log
+.env
+.env.*

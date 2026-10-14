@@ -1,0 +1,50 @@
+{
+  "name": "industrialpump-de",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.12"
+  },
+  "dependencies": {
+    "@astrojs/node": "11.1.7",
+    "@astrojs/sitemap": "3.7.4",
+    "@fontsource/barlow": "5.2.8",
+    "@fontsource/ibm-plex-sans": "5.3.0",
+    "@storyblok/astro": "10.3.2",
+    "astro": "7.3.8",
+    "sharp": "0.34.3"
+  },
+  "devDependencies": {
+    "@astrojs/check": "0.9.10",
+    "@types/node": "22.20.5",
+    "cross-env": "7.0.3",
+    "exceljs": "4.4.0",
+    "linkedom": "0.18.13",
+    "schema-dts": "2.1.0",
+    "tsx": "4.23.15",
+    "typescript": "5.9.3"
+  },
+  "scripts": {
+    "tokens": "tsx scripts/build-tokens.ts",
+    "dev": "npm run tokens && astro dev",
+    "build": "npm run tokens && astro build",
+    "build:fixtures": "npm run tokens && cross-env INCLUDE_FIXTURES=1 astro build",
+    "build:preview": "npm run tokens && cross-env PREVIEW=1 astro build",
+    "check": "astro check",
+    "sb:components": "tsx storyblok/build-components.ts",
+    "sb:push": "tsx scripts/push-components.ts",
+    "sb:seed": "tsx scripts/seed-content.ts",
+    "content:generate": "tsx scripts/generate-seed.ts",
+    "import:dry": "tsx scripts/import-products.ts",
+    "import:apply": "tsx scripts/import-products.ts --apply",
+    "validate": "tsx scripts/validate-schema.ts dist",
+    "validate:fixtures": "tsx scripts/validate-schema.ts dist-fixtures",
+    "check:site": "tsx scripts/check-site.ts dist",
+    "fixtures": "tsx tests/fixtures/build.ts",
+    "postbuild": "tsx scripts/validate-schema.ts dist && tsx scripts/check-site.ts dist && tsx scripts/rebase.ts",
+    "test:fixtures": "npm run fixtures && npm run build:fixtures && npm run validate:fixtures && tsx scripts/check-site.ts dist-fixtures",
+    "verify:model": "tsx scripts/verify-model.ts",
+    "images": "tsx scripts/build-images.ts"
+  }
+}

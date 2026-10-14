@@ -1,0 +1,27 @@
+{
+  "component": {
+    "name": "key_fact",
+    "display_name": "Kennwert",
+    "is_root": false,
+    "is_nestable": true,
+    "schema": {
+      "label": {
+        "type": "text",
+        "description": "Bezeichnung.",
+        "required": true,
+        "pos": 0
+      },
+      "value": {
+        "type": "text",
+        "description": "Wert.",
+        "required": true,
+        "pos": 1
+      },
+      "unit": {
+        "type": "text",
+        "description": "Einheit.",
+        "pos": 2
+      }
+    }
+  }
+}

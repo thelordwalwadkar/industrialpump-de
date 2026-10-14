@@ -1,0 +1,70 @@
+---
+/** T6 · page_product — Kopf · Kurzbeschreibung · Key Facts · Technische Daten (gruppiert) · Downloads · Angebot · verwandte Produkte. Ein Template für jeden Artikel. */
+import type { PageProduct, PageStory } from '../lib/types';
+import type { Site } from '../lib/storyblok';
+import { brandOf, productChildren, quoteHref, relatedProducts, relatedSeries, seriesOf } from '../lib/linking';
+import { pathOf } from '../lib/storyblok';
+import PageHead from '../components/PageHead.astro';
+import SpecGroups from '../components/SpecGroups.astro';
+import Figure from '../components/Figure.astro';
+import LinkCards from '../components/LinkCards.astro';
+import QuoteCta from '../components/QuoteCta.astro';
+import DownloadList from '../storyblok/DownloadList.astro';
+import Bloks from '../components/Bloks.astro';
+interface Props { story: PageStory<PageProduct>; site: Site }
+const { story, site } = Astro.props;
+const c = story.content;
+const brand = brandOf(site, story);
+const series = seriesOf(site, story);
+const siblings = relatedProducts(site, story, 3);
+const otherSeries = series ? relatedSeries(site, series, { scope: 'same-brand', max: 2 }).concat(relatedSeries(site, series, { scope: 'cross-brand', max: 3 })) : [];
+const seriesCount = series ? productChildren(site, series).length : 0;
+const facts = (c.key_facts ?? []).slice(0, 4);
+const highlights = (c.highlights ?? '').split(/\r?\n/).map((l) => l.trim()).filter(Boolean);
+const quote = quoteHref(site, story);
+---
+<PageHead story={story} site={site} h1={c.h1 || story.name} />
+<section class="section">
+  <div class="wrap product-head">
+    <div>
+      <ul class="product-id">
+        <li>Artikel: <strong class="num">{c.article_number}</strong></li>
+        {brand && <li>Marke: <strong><a href={pathOf(brand)}>{brand.content.brand_name}</a></strong></li>}
+        {series && <li>Serie: <strong><a href={pathOf(series)}>{series.content.series_name}-Serie</a></strong></li>}
+      </ul>
+      {c.short_description && <p class="lead" style="font-size:1.1rem">{c.short_description}</p>}
+      {highlights.length > 0 && <ul class="ticks">{highlights.map((h) => <li>{h}</li>)}</ul>}
+      <div class="btn-row"><a class="btn" href={quote}>Angebot für {c.name} anfordern</a></div>
+    </div>
+    <div class="figure"><Figure asset={c.image} alt={`${brand?.content.brand_name ?? ''} ${c.name}`} width={320} height={240} eager emptyLabel="Produktbild folgt" /></div>
+  </div>
+</section>
+
+{facts.length > 0 && (
+  <div class="wrap"><dl class="facts">{facts.map((f) => <div><dt>{f.label}</dt><dd>{f.value}{f.unit ? ` ${f.unit}` : ''}</dd></div>)}</dl></div>
+)}
+
+<section class="section" aria-labelledby="technische-daten">
+  <div class="wrap">
+    <h2 id="technische-daten">Technische Daten</h2>
+    <SpecGroups rows={c.specs ?? []} caption={`Technische Daten ${c.name}`} />
+    <p class="muted" style="margin-top:.6rem">Angaben aus dem Katalogdatensatz. Maßgeblich ist das Datenblatt des Herstellers.</p>
+  </div>
+</section>
+
+{c.downloads?.map((b) => <DownloadList blok={b} />)}
+<Bloks bloks={c.body} site={site} />
+<div class="wrap"><QuoteCta heading={`Angebot für ${c.name} anfordern`} text="Für die Auslegung im Bestand senden Sie uns Typenschild oder Betriebsdaten. Das Formular übernimmt Marke, Serie und Artikelnummer." label="Angebot anfordern" href={quote} /></div>
+
+{siblings.length > 0 && <section class="section" aria-labelledby="verwandt"><div class="wrap"><h2 id="verwandt">Verwandte Produkte</h2><LinkCards cards={siblings} /></div></section>}
+{series && seriesCount <= 1 && (
+  <section class="section" aria-labelledby="serie">
+    <div class="wrap">
+      <h2 id="serie">Weitere Artikel dieser Serie</h2>
+      <p>Die {series.content.series_name}-Serie umfasst {series.content.catalogue_count ?? 'weitere'} Artikel im Katalog. Auf der Serienseite finden Sie Kennbereiche und Auswahlhilfe.</p>
+      <p><a href={pathOf(series)}>Zur {series.content.series_name}-Serie</a></p>
+    </div>
+  </section>
+)}
+{otherSeries.length > 0 && <section class="section" aria-labelledby="andere"><div class="wrap"><h2 id="andere">Vergleichbare Serien</h2><LinkCards cards={otherSeries} variant="cards" /></div></section>}
+<Bloks bloks={c.cta} site={site} />

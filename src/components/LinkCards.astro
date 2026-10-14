@@ -1,0 +1,46 @@
+---
+import type { LinkCard } from '../lib/linking';
+import Figure from './Figure.astro';
+/**
+ * variant "cards": photo cards (series, brands, related series) · "tiles": text tiles · "index": plain ruled list.
+ * `index` with showImage renders photo cards, so every series list on the site looks the same.
+ */
+interface Props { cards: LinkCard[]; variant?: 'index' | 'tiles' | 'cards'; showImage?: boolean; headingLevel?: 2 | 3 | 4 }
+const { cards, variant = 'index', showImage = true, headingLevel = 3 } = Astro.props;
+const H = `h${headingLevel}` as 'h2' | 'h3' | 'h4';
+const asCards = variant === 'cards' || (variant === 'index' && showImage);
+---
+{cards.length > 0 && (asCards
+  ? <ul class="cards">
+      {cards.map((c) => (
+        <li>
+          <a class={`card${c.kind === 'logo' ? ' card--logo' : ''}`} href={c.href}>
+            <div class="pic"><Figure asset={c.image} alt={c.kind === 'logo' ? c.title : `${c.kicker ?? ''} ${c.title}`.trim()} width={c.kind === 'logo' ? 240 : 400} height={c.kind === 'logo' ? 96 : 300} emptyLabel="Bild folgt" /></div>
+            <div class="body">
+              {c.kicker && <span class="kicker">{c.kicker}</span>}
+              <H>{c.title}</H>
+              {c.text && c.kind !== 'logo' && <p>{c.text}</p>}
+              {c.meta && <span class="meta">{c.meta}</span>}
+              {c.reason && <span class="reason">{c.reason}</span>}
+              <span class="go">{c.kind === 'logo' ? 'Serien ansehen' : 'Ansehen'}</span>
+            </div>
+          </a>
+        </li>
+      ))}
+    </ul>
+  : variant === 'tiles'
+    ? <ul class="tiles">
+        {cards.map((c) => (
+          <li><a href={c.href}><strong>{c.title}</strong>{c.text && <span>{c.text}</span>}{c.meta && <span class="num">{c.meta}</span>}</a></li>
+        ))}
+      </ul>
+    : <ul class="index">
+        {cards.map((c) => (
+          <li>
+            <H><a href={c.href}>{c.title}</a></H>
+            {c.text && <p>{c.text}</p>}
+            {c.meta && <p class="meta">{c.meta}</p>}
+            {c.reason && <p class="reason">{c.reason}</p>}
+          </li>
+        ))}
+      </ul>)}

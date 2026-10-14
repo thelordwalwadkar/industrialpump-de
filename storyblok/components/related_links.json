@@ -1,0 +1,24 @@
+{
+  "component": {
+    "name": "related_links",
+    "display_name": "Verwandte Links",
+    "is_root": false,
+    "is_nestable": true,
+    "schema": {
+      "heading": {
+        "type": "text",
+        "description": "Überschrift.",
+        "pos": 0
+      },
+      "links": {
+        "type": "bloks",
+        "restrict_components": true,
+        "component_whitelist": [
+          "link_item"
+        ],
+        "description": "Links. Links auf noch nicht vorhandene Seiten werden automatisch ausgeblendet.",
+        "pos": 1
+      }
+    }
+  }
+}

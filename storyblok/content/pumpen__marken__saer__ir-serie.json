@@ -1,0 +1,182 @@
+{
+  "id": 1250371519,
+  "uuid": "4a8727bf-2d25-d16d-fe08-1e3b502849e7",
+  "name": "IR-Serie",
+  "slug": "ir-serie",
+  "full_slug": "pumpen/marken/saer/ir-serie",
+  "position": 9,
+  "content": {
+    "component": "page_series",
+    "series_name": "IR",
+    "h1": "SAER IR-Serie – Kreiselpumpen aus Gusseisen",
+    "nav_title": "IR-Serie",
+    "seo_title": "SAER IR-Serie: Kreiselpumpen aus Gusseisen",
+    "seo_description": "SAER IR: Kreiselpumpen aus Gusseisen für Wasseraufbereitung, Wassertransport, Gebäudetechnik und Bewässerung. Kennbereiche, Angebot anfordern.",
+    "intro": "Die SAER IR-Serie umfasst Kreiselpumpen aus Gusseisen für Wasseraufbereitung, Wassertransport, Gebäudetechnik und Bewässerung. Nach Herstellerangabe sind die Pumpen vollständig neu konstruiert und wartungsfreundlich aufgebaut.",
+    "pump_type": "kreiselpumpen",
+    "segments": [
+      "landwirtschaft",
+      "gebaeudetechnik-hvac",
+      "wasseraufbereitung",
+      "wassertransport"
+    ],
+    "applications": [],
+    "use_case_line": "Kreiselpumpen aus Gusseisen für Wasserversorgung und Bewässerung",
+    "body_text": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Die IR-Serie von SAER besteht aus Kreiselpumpen für unterschiedliche Aufgaben: Wasseraufbereitung, Bewässerung landwirtschaftlicher Flächen und industrielle Anwendungen. Die Pumpen sind nach Herstellerangaben vollständig neu konstruiert und auf hohe Leistung und Effizienz ausgelegt."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Der kompakte Aufbau eignet sich für beengte Aufstellorte. Die Pumpen sind laut Hersteller wartungsfreundlich, sodass sich Wartung und Instandsetzung ohne Spezialwerkzeug durchführen lassen. Nach Herstellerangabe erreicht die größte Baugröße der gesamten IR-Baureihe bis zu 1.600 m³/h und 100 m Förderhöhe; im Katalog sind kleinere Baugrößen geführt."
+            }
+          ]
+        }
+      ]
+    },
+    "highlights": "Gusseisen-Ausführung\nKompakter Aufbau\nWasseraufbereitung, Bewässerung, industrielle Anwendungen\nWartungsfreundlich (Herstellerangabe)",
+    "image_source": "/Images/ipg_ecom/SAER/SAER-IR.jpg",
+    "image": {
+      "filename": "/img/products/saer-ir.webp",
+      "alt": "SAER IR-Serie"
+    },
+    "flow_max_m3h": 200,
+    "head_max_m": 96,
+    "power_min_kw": 2.2,
+    "power_max_kw": 22,
+    "temp_max_c": 40,
+    "materials": "Gusseisen",
+    "catalogue_count": 60,
+    "body": [
+      {
+        "_uid": "af66060e74dc",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Auswahlhinweise für Kreiselpumpen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Für die Auswahl einer Kreiselpumpe sind Förderstrom, Förderhöhe und Fördermedium die Grundlage. Danach werden Werkstoff, Dichtung und Motorleistung festgelegt."
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Betriebspunkt: Er ergibt sich aus dem Schnittpunkt von Pumpen- und Anlagenkennlinie und sollte in der Nähe des Bestpunkts liegen."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "NPSH: Der NPSH-Wert der Anlage muss den NPSH-Bedarf der Pumpe mit Sicherheitszuschlag übersteigen, sonst droht Kavitation."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Medium: Temperatur, Feststoffanteil und chemische Zusammensetzung bestimmen Werkstoff und Wellendichtung."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ersatz: Beim Austausch einer vorhandenen Pumpe sind Anschlussmaße, Drehzahl und Motordaten des Typenschilds maßgeblich."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "faq": [
+      {
+        "_uid": "09463ad02516",
+        "component": "faq",
+        "heading": "Häufige Fragen zur IR-Serie",
+        "items": [
+          {
+            "_uid": "7bd6184acdaa",
+            "component": "faq_item",
+            "question": "Wie finde ich den passenden Artikel der IR-Serie?",
+            "answer": "Senden Sie uns das Typenschild Ihrer vorhandenen Pumpe oder Ihre Betriebsdaten: Förderstrom, Förderhöhe, Medium und Temperatur. Daraus ordnen wir den passenden Artikel der IR-Serie zu."
+          },
+          {
+            "_uid": "7238aae36309",
+            "component": "faq_item",
+            "question": "Sind Ersatzteile und eine Revision für die IR-Serie möglich?",
+            "answer": "Ersatzteile und die Revision von SAER-Pumpen können Sie über das Angebotsformular anfragen. Welche Teile im Einzelfall verfügbar sind, hängt von Baujahr und Ausführung ab."
+          },
+          {
+            "_uid": "d567b9b31e13",
+            "component": "faq_item",
+            "question": "Wie lang ist die Lieferzeit für Artikel der IR-Serie?",
+            "answer": "[[PLATZHALTER: Lieferzeit SAER IR]]"
+          }
+        ]
+      }
+    ]
+  }
+}

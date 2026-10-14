@@ -1,0 +1,106 @@
+{
+  "component": {
+    "name": "page_listing",
+    "display_name": "T12 · Liste (Blog / Referenzen)",
+    "is_root": true,
+    "is_nestable": false,
+    "schema": {
+      "h1": {
+        "type": "text",
+        "description": "Haupt-Überschrift (genau ein H1 pro Seite). Enthält das Hauptthema.",
+        "required": true,
+        "pos": 0
+      },
+      "intro": {
+        "type": "textarea",
+        "description": "Einleitung in höchstens zwei Sätzen: Was ist das und für wen? Wird als Zitat-Antwort gelesen.",
+        "required": true,
+        "max_length": 320,
+        "pos": 1
+      },
+      "nav_title": {
+        "type": "text",
+        "description": "Kurzname für Brotkrumen, Navigation und Karten (z. B. „DIWA-Serie“).",
+        "pos": 2
+      },
+      "seo_title": {
+        "type": "text",
+        "description": "Seitentitel für Google, höchstens 60 Zeichen.",
+        "max_length": 60,
+        "required": true,
+        "pos": 3
+      },
+      "seo_description": {
+        "type": "textarea",
+        "description": "Meta-Beschreibung, höchstens 155 Zeichen.",
+        "max_length": 155,
+        "required": true,
+        "pos": 4
+      },
+      "noindex": {
+        "type": "boolean",
+        "description": "Nur für Sonderfälle: Seite von der Suche ausschließen. Rechtstexte bleiben indexierbar.",
+        "default_value": false,
+        "pos": 5
+      },
+      "listing_kind": {
+        "type": "option",
+        "source": "self",
+        "options": [
+          {
+            "name": "Blog",
+            "value": "blog"
+          },
+          {
+            "name": "Referenzen",
+            "value": "referenzen"
+          }
+        ],
+        "description": "Art der Liste.",
+        "pos": 6
+      },
+      "per_page": {
+        "type": "number",
+        "description": "Einträge pro Seite.",
+        "default_value": "10",
+        "pos": 7
+      },
+      "body": {
+        "type": "bloks",
+        "restrict_components": true,
+        "component_whitelist": [
+          "rich_text",
+          "card_grid",
+          "cta_band",
+          "faq",
+          "spec_table",
+          "download_list",
+          "steps",
+          "related_links",
+          "image_text"
+        ],
+        "description": "Optionale Zusatz-Bausteine. Die Pflicht-Abschnitte sind im Template fest eingebaut.",
+        "pos": 8
+      },
+      "cta": {
+        "type": "bloks",
+        "restrict_components": true,
+        "component_whitelist": [
+          "cta_band"
+        ],
+        "description": "Optionales Abschluss-Banner. Ohne Eintrag erscheint der Standard-CTA des Templates.",
+        "maximum": 1,
+        "pos": 9
+      },
+      "tab-seo": {
+        "type": "tab",
+        "display_name": "SEO",
+        "keys": [
+          "seo_title",
+          "seo_description",
+          "noindex"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,49 @@
+---
+/**
+ * The one route. Storyblok full_slug → content type → template. No page-specific code lives anywhere.
+ * Static build: every story becomes a file. Preview build (PREVIEW=1, SSR): the same file resolves the story per request.
+ */
+import { getSite } from '../lib/storyblok';
+import { TEMPLATES, listingPageCount, sectionOf, slugParam } from '../lib/routing';
+import { buildSeo } from '../lib/seo';
+import { buildGraph } from '../lib/schema';
+import { pathOf } from '../lib/storyblok';
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+export async function getStaticPaths() {
+  const site = await getSite();
+  return site.pages.flatMap((story) => {
+    const base = { params: { slug: slugParam(story) }, props: { fullSlug: story.full_slug, page: 1 } };
+    const extra = Array.from({ length: listingPageCount(site, story) - 1 }, (_, i) => ({
+      params: { slug: `${story.full_slug}/seite/${i + 2}` },
+      props: { fullSlug: story.full_slug, page: i + 2 },
+    }));
+    return [base, ...extra];
+  });
+}
+
+const site = await getSite();
+const requested = Astro.params.slug ?? 'home';
+let fullSlug: string = Astro.props.fullSlug ?? requested;
+let page: number = Astro.props.page ?? 1;
+const pageMatch = /^(.*)\/seite\/(\d+)$/.exec(fullSlug);
+if (!Astro.props.fullSlug && pageMatch) { fullSlug = pageMatch[1]!; page = Number(pageMatch[2]); }
+
+const story = site.byFull.get(fullSlug);
+if (!story) return new Response(null, { status: 404 });
+
+const Template = TEMPLATES[story.content.component] as any;
+const seo = buildSeo(site, story);
+if (page > 1) {
+  // Pagination pages need their own title and description (duplicates dilute the listing).
+  const tail = ` Seite ${page}.`;
+  seo.title = `${seo.title} – Seite ${page}`.slice(0, 60);
+  seo.description = (seo.description.length + tail.length <= 155 ? seo.description : seo.description.slice(0, 155 - tail.length).replace(/\s+\S*$/, '')) + tail;
+  seo.canonical = `${seo.canonical}/seite/${page}`;
+}
+const graph = buildGraph(site, story);
+const isLegal = story.content.component === 'page_legal';
+---
+<BaseLayout seo={seo} graph={graph} site={site} section={sectionOf(story)} minimal={isLegal} currentPath={pathOf(story)}>
+  <Template story={story} site={site} page={page} />
+</BaseLayout>

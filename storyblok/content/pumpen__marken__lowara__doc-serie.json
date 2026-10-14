@@ -1,0 +1,182 @@
+{
+  "id": 328043438,
+  "uuid": "138d8bae-d24e-76e0-3d2a-98c7cfc9e16f",
+  "name": "DOC-Serie",
+  "slug": "doc-serie",
+  "full_slug": "pumpen/marken/lowara/doc-serie",
+  "position": 6,
+  "content": {
+    "component": "page_series",
+    "series_name": "DOC",
+    "h1": "Lowara DOC-Serie – Tauchmotorpumpen für die Entwässerung",
+    "nav_title": "DOC-Serie",
+    "seo_title": "Lowara DOC-Serie: Tauchmotorpumpen für Entwässerung",
+    "seo_description": "Lowara DOC: kompakte Tauchmotorpumpen für Wasser in Kellern, Schächten und kleinen Entwässerungsaufgaben. Kennbereiche, Angebot anfordern.",
+    "intro": "Die Lowara DOC-Serie umfasst kompakte Tauchmotorpumpen zur Entwässerung, etwa in Kellern, Schächten und bei kleinen Entwässerungsaufgaben. Die Pumpen schalten selbsttätig und können mit integriertem Niveauschalter geliefert werden.",
+    "pump_type": "tauchmotorpumpen",
+    "segments": [
+      "landwirtschaft",
+      "wasseraufbereitung",
+      "wassertransport"
+    ],
+    "applications": [
+      "entwaesserung"
+    ],
+    "use_case_line": "Kompakte Tauchmotorpumpen für Schächte, Keller und kleine Entwässerungen",
+    "body_text": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Die DOC-Serie von Lowara besteht aus kompakten Tauchmotorpumpen für die Förderung von Wasser, zum Beispiel aus Kellern, Schächten und kleinen Entwässerungsstellen. Die robuste Bauweise erleichtert die Installation in unterschiedlichen Umgebungen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Der Katalog nennt überwiegend Edelstahl AISI 304 sowie Technopolymer als Werkstoffe, einen Betrieb mit automatischer Niveausteuerung und Pumpen für niedrige Wasserstände. Die Förderstrom- und Förderhöhenangaben der alten Website weichen voneinander ab; maßgeblich sind die Kennbereiche in der Tabelle und das Datenblatt des einzelnen Artikels."
+            }
+          ]
+        }
+      ]
+    },
+    "highlights": "Kompakte, robuste Bauweise\nAutomatischer Betrieb, mit Niveauschalter lieferbar\nEdelstahl AISI 304 und Technopolymer (Katalogangabe)\nPumpen für niedrige Wasserstände",
+    "image_source": "/Images/ipg_ecom/Lowara/Lowara-DOC.jpg",
+    "image": {
+      "filename": "/img/products/lowara-doc.webp",
+      "alt": "Lowara DOC-Serie"
+    },
+    "flow_max_m3h": 13.5,
+    "head_max_m": 10.4,
+    "power_min_kw": 0.25,
+    "power_max_kw": 0.55,
+    "materials": "Gusseisen",
+    "catalogue_count": 4,
+    "body": [
+      {
+        "_uid": "a1c5998ce484",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Auswahlhinweise für Tauchmotorpumpen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Tauchmotorpumpen arbeiten im Medium und fördern es direkt aus Schacht, Grube oder Behälter. Entscheidend sind Förderstrom, Förderhöhe und die Beschaffenheit des Mediums."
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Freier Durchgang: Er gibt die größte Feststoffgröße an, die die Pumpe passieren kann."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Niveausteuerung: Schwimmerschalter oder Niveaugeber schalten die Pumpe selbsttätig und schützen vor Trockenlauf."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Einbau: Eintauchtiefe, Kühlung des Motors und Aufstellart (tragbar oder fest installiert) beachten."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Explosionsgefährdete Bereiche: Hier ist eine Ausführung nach ATEX (2014/34/EU) erforderlich; bitte vor der Auswahl prüfen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "faq": [
+      {
+        "_uid": "45834ada93bf",
+        "component": "faq",
+        "heading": "Häufige Fragen zur DOC-Serie",
+        "items": [
+          {
+            "_uid": "1f562e1e3815",
+            "component": "faq_item",
+            "question": "Wie finde ich den passenden Artikel der DOC-Serie?",
+            "answer": "Senden Sie uns das Typenschild Ihrer vorhandenen Pumpe oder Ihre Betriebsdaten: Förderstrom, Förderhöhe, Medium und Temperatur. Daraus ordnen wir den passenden Artikel der DOC-Serie zu."
+          },
+          {
+            "_uid": "041817f75009",
+            "component": "faq_item",
+            "question": "Sind Ersatzteile und eine Revision für die DOC-Serie möglich?",
+            "answer": "Ersatzteile und die Revision von Lowara-Pumpen können Sie über das Angebotsformular anfragen. Welche Teile im Einzelfall verfügbar sind, hängt von Baujahr und Ausführung ab."
+          },
+          {
+            "_uid": "f8a9af81ddf2",
+            "component": "faq_item",
+            "question": "Wie lang ist die Lieferzeit für Artikel der DOC-Serie?",
+            "answer": "[[PLATZHALTER: Lieferzeit Lowara DOC]]"
+          }
+        ]
+      }
+    ]
+  }
+}

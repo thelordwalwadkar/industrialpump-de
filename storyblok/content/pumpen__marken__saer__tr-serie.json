@@ -1,0 +1,178 @@
+{
+  "id": 3586576827,
+  "uuid": "d5c6d1bb-7318-7a11-4b93-177440b5b4d6",
+  "name": "TR-Serie",
+  "slug": "tr-serie",
+  "full_slug": "pumpen/marken/saer/tr-serie",
+  "position": 13,
+  "content": {
+    "component": "page_series",
+    "series_name": "TR",
+    "h1": "SAER TR-Serie – Druckerhöhungsanlagen für Gebäude und Anlagen",
+    "nav_title": "TR-Serie",
+    "seo_title": "SAER TR-Serie: Druckerhöhungsanlagen",
+    "seo_description": "SAER TR: Druckerhöhungsanlagen mit Edelstahlbehälter und Steuerung für Gebäude, Krankenhäuser und Industrieanlagen. Kennbereiche, Angebot anfordern.",
+    "intro": "Die SAER TR-Serie umfasst Druckerhöhungsanlagen für den Wasserbedarf von Gebäuden und Anlagen, zum Beispiel Büros, Krankenhäuser und Industriebetriebe. Jede Anlage besteht aus Pumpen, Edelstahlbehälter und Steuerung.",
+    "pump_type": "druckerhoehungsanlagen",
+    "segments": [
+      "gebaeudetechnik-hvac"
+    ],
+    "applications": [],
+    "use_case_line": "Druckerhöhungsanlagen mit Pumpen, Edelstahlbehälter und Steuerung",
+    "body_text": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Die Druckerhöhungsanlagen der TR-Serie sind für den Wasserbedarf von Gebäuden und Anlagen vorgesehen, etwa Büros, Krankenhäusern und Industriebetrieben. Mit Pumpen und Drucksensoren halten sie den Wasserdruck konstant."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Die Anlagen sind in mehreren Ausführungen erhältlich und lassen sich an den Bedarf des Betreibers anpassen. Der Edelstahlbehälter gleicht den Druck aus und stellt auch in Spitzenzeiten ausreichend Wasser bereit. Nach Herstellerangabe sind die Anlagen einfach zu installieren und zu warten."
+            }
+          ]
+        }
+      ]
+    },
+    "highlights": "Pumpen, Edelstahlbehälter und Steuerung in einer Einheit\nKonstanter Wasserdruck\nFür Büros, Krankenhäuser und Industrieanlagen",
+    "image_source": "/Images/ipg_ecom/SAER/SAER-TR.jpg",
+    "image": {
+      "filename": "/img/products/saer-tr.webp",
+      "alt": "SAER TR-Serie"
+    },
+    "flow_max_m3h": 40,
+    "head_max_m": 13.5,
+    "power_min_kw": 4,
+    "power_max_kw": 5.5,
+    "temp_max_c": 20,
+    "catalogue_count": 3,
+    "body": [
+      {
+        "_uid": "52e6e271fc1d",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Auswahlhinweise für Druckerhöhungsanlagen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Eine Druckerhöhungsanlage wird nach dem Spitzenbedarf und dem erforderlichen Netzdruck ausgelegt. Für Trinkwasser-Installationen gilt DIN 1988-500 für Druckerhöhungsanlagen mit drehzahlgeregelten Pumpen."
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Förderstrom: Der Spitzenvolumenstrom des Gebäudes oder der Anlage bestimmt die Pumpengröße."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Druck: Vordruck, geodätische Höhe und Leitungsverluste ergeben den benötigten Enddruck."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Behälter: Das Behältervolumen beeinflusst die Schalthäufigkeit der Pumpen."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Betrieb: Anzahl der Pumpen und Reserve richten sich nach der geforderten Ausfallsicherheit."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "faq": [
+      {
+        "_uid": "e467bd1918a3",
+        "component": "faq",
+        "heading": "Häufige Fragen zur TR-Serie",
+        "items": [
+          {
+            "_uid": "1b79459e0650",
+            "component": "faq_item",
+            "question": "Wie finde ich den passenden Artikel der TR-Serie?",
+            "answer": "Senden Sie uns das Typenschild Ihrer vorhandenen Pumpe oder Ihre Betriebsdaten: Förderstrom, Förderhöhe, Medium und Temperatur. Daraus ordnen wir den passenden Artikel der TR-Serie zu."
+          },
+          {
+            "_uid": "2e53f6b7472d",
+            "component": "faq_item",
+            "question": "Sind Ersatzteile und eine Revision für die TR-Serie möglich?",
+            "answer": "Ersatzteile und die Revision von SAER-Pumpen können Sie über das Angebotsformular anfragen. Welche Teile im Einzelfall verfügbar sind, hängt von Baujahr und Ausführung ab."
+          },
+          {
+            "_uid": "2f652ea15ab4",
+            "component": "faq_item",
+            "question": "Wie lang ist die Lieferzeit für Artikel der TR-Serie?",
+            "answer": "[[PLATZHALTER: Lieferzeit SAER TR]]"
+          }
+        ]
+      }
+    ]
+  }
+}

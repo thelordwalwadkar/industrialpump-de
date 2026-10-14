@@ -1,0 +1,62 @@
+{
+  "id": 2434960502,
+  "uuid": "91228c76-6d62-36cc-0eeb-e53468c22ded",
+  "name": "Testmarke",
+  "slug": "testmarke",
+  "full_slug": "__fixtures__/pumpen/marken/testmarke",
+  "content": {
+    "component": "page_brand",
+    "brand_name": "Testmarke",
+    "h1": "Testmarke Pumpen – Serien, Einsatzbereiche und Revision",
+    "nav_title": "Testmarke",
+    "seo_title": "Testmarke Pumpen: Serien und Revision",
+    "seo_description": "Fixture für das Marken-Template mit Muttergesellschaft, Hersteller-URL und Serien-Raster.",
+    "intro": "Testmarke ist eine erfundene Marke für Template-Tests. Diese Seite prüft Hersteller-Schema, Serien-Raster und FAQ.",
+    "manufacturer_url": "https://example.com/testmarke",
+    "same_as": "https://example.com/profil-a\nhttps://example.com/profil-b",
+    "parent_company": "Xylem",
+    "parent_company_url": "https://example.com/xylem",
+    "body_text": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Fließtext der Marken-Seite."
+            }
+          ]
+        }
+      ]
+    },
+    "revision_text": "Eine Revision kann je nach Zustand der Pumpe den Austausch von Verschleißteilen umfassen.",
+    "faq": [
+      {
+        "_uid": "brand-faq",
+        "component": "faq",
+        "heading": "Häufige Fragen",
+        "items": [
+          {
+            "_uid": "brand-q1",
+            "component": "faq_item",
+            "question": "Wie wähle ich die richtige Größe?",
+            "answer": "Anhand von Förderstrom, Förderhöhe und Medium. Das Typenschild der vorhandenen Pumpe genügt für eine erste Einschätzung."
+          },
+          {
+            "_uid": "brand-q2",
+            "component": "faq_item",
+            "question": "Ist eine Revision möglich?",
+            "answer": "Das hängt von Serie, Baujahr und Zustand ab. Wir prüfen es nach Eingang der Typenschilddaten."
+          },
+          {
+            "_uid": "brand-q3",
+            "component": "faq_item",
+            "question": "Welche Unterlagen benötigen Sie?",
+            "answer": "Typenschild oder Foto, Betriebsdaten und das Fördermedium."
+          }
+        ]
+      }
+    ]
+  }
+}

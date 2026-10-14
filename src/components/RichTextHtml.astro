@@ -1,0 +1,8 @@
+---
+import { renderRichText } from '@storyblok/richtext';
+import type { RichTextDoc } from '../lib/types';
+interface Props { doc?: RichTextDoc; class?: string }
+const { doc, class: cls = 'prose' } = Astro.props;
+const html = doc && doc.content && doc.content.length ? renderRichText(doc as never) : '';
+---
+{html && <div class={cls} set:html={html} />}

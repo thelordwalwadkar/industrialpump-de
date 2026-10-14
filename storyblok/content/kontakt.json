@@ -1,0 +1,70 @@
+{
+  "id": 4203016315,
+  "uuid": "fa84f07b-0766-3634-f3a7-a260447a24c3",
+  "name": "Kontakt",
+  "slug": "kontakt",
+  "full_slug": "kontakt",
+  "content": {
+    "component": "page_contact",
+    "form_kind": "kontakt",
+    "h1": "Kontakt",
+    "nav_title": "Kontakt",
+    "seo_title": "Kontakt zu Industrial Pump Group",
+    "seo_description": "Kontakt für Fragen zu Pumpen, Ersatzteilen und Revision. Für ein konkretes Angebot nutzen Sie das Angebotsformular.",
+    "intro": "Schreiben Sie uns, wenn Sie Fragen zu Pumpen, Ersatzteilen oder einer Revision haben. Für ein konkretes Angebot nutzen Sie bitte das Angebotsformular.",
+    "body": [
+      {
+        "_uid": "e377f1da33b3",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Sie suchen eine bestimmte Pumpe? Starten Sie im "
+                },
+                {
+                  "type": "text",
+                  "text": "Pumpenkatalog",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " oder fordern Sie direkt ein "
+                },
+                {
+                  "type": "text",
+                  "text": "Angebot",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/angebot",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " an."
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

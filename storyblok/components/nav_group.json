@@ -1,0 +1,25 @@
+{
+  "component": {
+    "name": "nav_group",
+    "display_name": "Navigationsgruppe",
+    "is_root": false,
+    "is_nestable": true,
+    "schema": {
+      "label": {
+        "type": "text",
+        "description": "Gruppenname.",
+        "required": true,
+        "pos": 0
+      },
+      "items": {
+        "type": "bloks",
+        "restrict_components": true,
+        "component_whitelist": [
+          "nav_item"
+        ],
+        "description": "Punkte.",
+        "pos": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,108 @@
+---
+/**
+ * Kontakt- und Angebotsformular. Versand: ein einziger Endpunkt (PUBLIC_FORM_ENDPOINT).
+ * TODO: serverseitigen Handler anbinden (E-Mail/CRM). Ohne Endpunkt zeigt das Formular ehrlich an, dass noch nichts gesendet wird.
+ * Vorbelegung aus dem URL-Query: nur marke, serie, artikel, anliegen (keine personenbezogenen Daten in der URL).
+ */
+interface Props { kind: 'kontakt' | 'angebot' }
+const { kind } = Astro.props;
+const endpoint = (import.meta.env.PUBLIC_FORM_ENDPOINT as string | undefined) ?? '';
+const quote = kind === 'angebot';
+---
+<form class="form" method="post" novalidate data-form={kind} data-endpoint={endpoint}>
+  <input type="hidden" name="form" value={kind} />
+  <label class="visually-hidden" aria-hidden="true">Bitte leer lassen<input type="text" name="website" tabindex="-1" autocomplete="off" /></label>
+
+  {quote ? (
+    <>
+      <fieldset>
+        <legend>Ihre Angaben</legend>
+        <div class="row">
+          <label>Firma *<input name="firma" required autocomplete="organization" /></label>
+          <label>Ansprechpartner *<input name="ansprechpartner" required autocomplete="name" /></label>
+        </div>
+        <div class="row">
+          <label>E-Mail *<input type="email" name="email" required autocomplete="email" /></label>
+          <label>Telefon<input type="tel" name="telefon" autocomplete="tel" /></label>
+        </div>
+        <label>PLZ / Ort<input name="plz_ort" autocomplete="postal-code" /></label>
+      </fieldset>
+      <fieldset>
+        <legend>Ihre Anfrage</legend>
+        <label>Anliegen *
+          <select name="anliegen" required>
+            <option value="">Bitte wählen</option>
+            <option value="neue-pumpe">Neue Pumpe</option>
+            <option value="ersatzpumpe">Ersatzpumpe</option>
+            <option value="revision">Revision</option>
+            <option value="ersatzteile">Ersatzteile</option>
+          </select>
+        </label>
+        <div class="row">
+          <label>Marke<input name="marke" /></label>
+          <label>Serie<input name="serie" /></label>
+          <label>Artikelnummer<input name="artikel" /></label>
+        </div>
+        <label>Fördermedium<input name="medium" /></label>
+        <div class="row">
+          <label>Förderstrom Q (m³/h)<input name="q_m3h" inputmode="decimal" /></label>
+          <label>Förderhöhe H (m)<input name="h_m" inputmode="decimal" /></label>
+          <label>Medientemperatur (°C)<input name="temperatur_c" inputmode="decimal" /></label>
+        </div>
+        <label>Typenschild oder Foto (max. 10 MB)<input type="file" name="datei" accept="image/*,application/pdf" data-max-mb="10" /></label>
+        <label>Nachricht<textarea name="nachricht"></textarea></label>
+      </fieldset>
+    </>
+  ) : (
+    <>
+      <div class="row">
+        <label>Name *<input name="name" required autocomplete="name" /></label>
+        <label>Firma<input name="firma" autocomplete="organization" /></label>
+      </div>
+      <div class="row">
+        <label>E-Mail *<input type="email" name="email" required autocomplete="email" /></label>
+        <label>Telefon (optional)<input type="tel" name="telefon" autocomplete="tel" /></label>
+      </div>
+      <label>Nachricht *<textarea name="nachricht" required></textarea></label>
+    </>
+  )}
+
+  <label class="check"><input type="checkbox" name="einwilligung" required /> <span>Ich willige in die Verarbeitung meiner Angaben zur Bearbeitung dieser Anfrage ein. Hinweise finden Sie in der <a href="/datenschutz">Datenschutzerklärung</a>. *</span></label>
+  <div><button class="btn" type="submit">{quote ? 'Angebot anfordern' : 'Nachricht senden'}</button></div>
+  <p class="form-status" role="status" aria-live="polite" hidden></p>
+</form>
+
+<script>
+  const form = document.querySelector<HTMLFormElement>('form[data-form]');
+  if (form) {
+    const status = form.querySelector<HTMLElement>('.form-status')!;
+    const show = (msg: string) => { status.textContent = msg; status.hidden = false; status.scrollIntoView({ block: 'nearest' }); };
+
+    // Prefill from the query string (marke, serie, artikel, anliegen only).
+    const q = new URLSearchParams(location.search);
+    for (const key of ['marke', 'serie', 'artikel', 'anliegen']) {
+      const el = form.elements.namedItem(key) as HTMLInputElement | HTMLSelectElement | null;
+      const v = q.get(key);
+      if (el && v) el.value = v;
+    }
+
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      status.hidden = true;
+      if ((form.elements.namedItem('website') as HTMLInputElement).value) return; // honeypot
+      if (!form.checkValidity()) { form.reportValidity(); return; }
+      const file = form.elements.namedItem('datei') as HTMLInputElement | null;
+      if (file?.files?.[0] && file.files[0].size > 10 * 1024 * 1024) { show('Die Datei ist größer als 10 MB. Bitte wählen Sie eine kleinere Datei.'); return; }
+      const endpoint = form.dataset.endpoint;
+      if (!endpoint) { show('Dieses Formular ist noch nicht mit einem Empfänger verbunden. Es wurde nichts gesendet.'); return; }
+      try {
+        const res = await fetch(endpoint, { method: 'POST', body: new FormData(form) });
+        if (!res.ok) throw new Error(String(res.status));
+        form.reset();
+        show('Vielen Dank. Ihre Anfrage ist bei uns eingegangen.');
+      } catch {
+        show('Die Anfrage konnte nicht gesendet werden. Bitte versuchen Sie es erneut oder kontaktieren Sie uns direkt.');
+      }
+    });
+  }
+</script>

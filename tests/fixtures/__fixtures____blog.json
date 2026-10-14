@@ -1,0 +1,17 @@
+{
+  "id": 80139267,
+  "uuid": "04c6d403-bac8-bc54-6306-73cc0ad7f991",
+  "name": "Blog",
+  "slug": "blog",
+  "full_slug": "__fixtures__/blog",
+  "content": {
+    "component": "page_listing",
+    "listing_kind": "blog",
+    "per_page": 2,
+    "h1": "Blog",
+    "nav_title": "Blog",
+    "seo_title": "Blog: Pumpen in der Praxis",
+    "seo_description": "Fixture für das Listen-Template: drei Beiträge, zwei pro Seite, Seitennavigation.",
+    "intro": "Beiträge rund um Auswahl, Betrieb und Revision von Pumpen. Diese Seite prüft das Listen-Template mit Paginierung."
+  }
+}

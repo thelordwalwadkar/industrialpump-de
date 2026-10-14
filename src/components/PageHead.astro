@@ -1,0 +1,18 @@
+---
+/** Sky-blue page band: breadcrumb, yellow rule, white uppercase H1, intro. The header floats on top of it. */
+import type { PageStory } from '../lib/types';
+import type { Site } from '../lib/storyblok';
+import { crumbsFor } from '../lib/breadcrumbs';
+import Breadcrumbs from './Breadcrumbs.astro';
+interface Props { h1: string; intro?: string; story?: PageStory; site?: Site; accent?: boolean }
+const { h1, intro, story, site } = Astro.props;
+const crumbs = story && site ? crumbsFor(site, story) : undefined;
+---
+<header class="band page-head">
+  <div class="wrap">
+    {crumbs && crumbs.length > 1 && <Breadcrumbs crumbs={crumbs} />}
+    <h1>{h1}</h1>
+    {intro && <p class="lead">{intro}</p>}
+    <slot />
+  </div>
+</header>

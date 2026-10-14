@@ -1,0 +1,182 @@
+{
+  "id": 1899880767,
+  "uuid": "713de13f-986d-bdca-e72f-7b2228f5391c",
+  "name": "CEA80/5/D",
+  "slug": "cea80-5-d",
+  "full_slug": "pumpen/marken/lowara/cea-serie/cea80-5-d",
+  "position": 0,
+  "content": {
+    "component": "page_product",
+    "article_number": "CEA80/5/D",
+    "name": "CEA80/5/D",
+    "nav_title": "CEA80/5/D",
+    "h1": "Lowara CEA80/5/D – Blockpumpe für Wasserverteilung und Gebäudeversorgung",
+    "seo_title": "Lowara CEA80/5/D – Blockpumpe",
+    "seo_description": "Lowara CEA80/5/D: Blockpumpe der CEA-Serie. Motorleistung 0,75 kW, Förderstrom bis 6 m³/h, Förderhöhe bis 30 m. Angebot anfordern.",
+    "intro": "Die Lowara CEA80/5/D ist eine Blockpumpe der CEA-Serie für Wasserverteilung und Gebäudeversorgung.",
+    "short_description": "Die Lowara CEA80/5/D ist eine Blockpumpe der CEA-Serie für Wasserverteilung und Gebäudeversorgung. Laut Katalogdaten hat dieser Artikel eine Motorleistung von 0,75 kW, einen Förderstrom bis 6 m³/h und eine Förderhöhe bis 30 m. Für die Auslegung im Bestand senden Sie uns Typenschild oder Betriebsdaten; wir prüfen, ob die CEA80/5/D Ihre Fördermenge und Förderhöhe abdeckt. Maßgeblich sind die Angaben im Datenblatt des Herstellers.",
+    "image_source": "/Images/ipg_ecom/Lowara/Lowara-CEA.jpg",
+    "image": {
+      "filename": "/img/products/lowara-cea.webp",
+      "alt": "Lowara CEA80/5/D"
+    },
+    "internal_item_number": "26-104480020",
+    "key_facts": [
+      {
+        "_uid": "7c77d10b00af",
+        "component": "key_fact",
+        "label": "Förderstrom max.",
+        "value": "6",
+        "unit": "m³/h"
+      },
+      {
+        "_uid": "abe87fc62f49",
+        "component": "key_fact",
+        "label": "Förderhöhe max.",
+        "value": "30",
+        "unit": "m"
+      },
+      {
+        "_uid": "6968c7a1e313",
+        "component": "key_fact",
+        "label": "Motorleistung",
+        "value": "0,75",
+        "unit": "kW"
+      },
+      {
+        "_uid": "161ee552c8a0",
+        "component": "key_fact",
+        "label": "Spannung",
+        "value": "220–240",
+        "unit": "V"
+      }
+    ],
+    "specs": [
+      {
+        "_uid": "1bbe0be55a2c",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderstrom min.",
+        "value": "1,8",
+        "unit": "m³/h",
+        "value_num": 1.8
+      },
+      {
+        "_uid": "47a206d0af0b",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderstrom max.",
+        "value": "6",
+        "unit": "m³/h",
+        "value_num": 6
+      },
+      {
+        "_uid": "93878d079e6a",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderhöhe max.",
+        "value": "30",
+        "unit": "m",
+        "value_num": 30
+      },
+      {
+        "_uid": "bd013f647bcf",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderhöhe min.",
+        "value": "21",
+        "unit": "m",
+        "value_num": 21
+      },
+      {
+        "_uid": "63260a2141de",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Motorleistung",
+        "value": "0,75",
+        "unit": "kW",
+        "value_num": 0.75
+      },
+      {
+        "_uid": "d36d7d62c2aa",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Nennspannung (Variante 1)",
+        "value": "220–240",
+        "unit": "V"
+      },
+      {
+        "_uid": "72085c260674",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Nennspannung (Variante 2)",
+        "value": "380–415",
+        "unit": "V"
+      },
+      {
+        "_uid": "f29dc1d39af8",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Frequenz",
+        "value": "50",
+        "unit": "Hz",
+        "value_num": 50
+      },
+      {
+        "_uid": "1935e8ebb5f3",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Phasen",
+        "value": "3",
+        "value_num": 3
+      },
+      {
+        "_uid": "42c81af97381",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Nennstrom (Variante 1)",
+        "value": "3,17",
+        "unit": "A",
+        "value_num": 3.17
+      },
+      {
+        "_uid": "64f4a048788f",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Nennstrom (Variante 2)",
+        "value": "1,83",
+        "unit": "A",
+        "value_num": 1.83
+      },
+      {
+        "_uid": "ee1aea396861",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Drehzahl",
+        "value": "2.900",
+        "unit": "min⁻¹",
+        "value_num": 2900
+      },
+      {
+        "_uid": "2e613ce55a4a",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Motortyp",
+        "value": "SM80BG/307 PE"
+      },
+      {
+        "_uid": "4ed3893ab5d3",
+        "component": "spec_row",
+        "group": "Anschlüsse & Abmessungen",
+        "label": "Gewicht",
+        "value": "11,8",
+        "unit": "kg",
+        "value_num": 11.8
+      }
+    ],
+    "flow_max_m3h": 6,
+    "head_max_m": 30,
+    "power_kw": 0.75,
+    "voltage": "230/400 V"
+  }
+}

@@ -1,0 +1,24 @@
+---
+/** T3 · page_topic — Intro · Herausforderungen · passende Pumpentypen/Anwendungen · passende Marken & Serien · Technische Hinweise · FAQ · CTA */
+import type { PageStory, PageTopic } from '../lib/types';
+import type { Site } from '../lib/storyblok';
+import { seriesWithTag } from '../lib/linking';
+import PageHead from '../components/PageHead.astro';
+import RichTextHtml from '../components/RichTextHtml.astro';
+import LinkCards from '../components/LinkCards.astro';
+import FaqList from '../components/FaqList.astro';
+import RelatedLinks from '../storyblok/RelatedLinks.astro';
+import Bloks from '../components/Bloks.astro';
+interface Props { story: PageStory<PageTopic>; site: Site }
+const { story, site } = Astro.props;
+const c = story.content;
+const series = c.tag ? seriesWithTag(site, c.tag) : [];
+---
+<PageHead story={story} site={site} h1={c.h1 || story.name} intro={c.intro} />
+{c.challenges && <section class="section"><div class="wrap"><h2>Typische Herausforderungen</h2><RichTextHtml doc={c.challenges} /></div></section>}
+{c.related?.map((b) => <RelatedLinks blok={b} site={site} />)}
+{series.length > 0 && <section class="section"><div class="wrap"><h2>Passende Marken und Serien</h2><LinkCards cards={series} /></div></section>}
+{c.technical_notes && <section class="section"><div class="wrap"><h2>Technische Hinweise</h2><RichTextHtml doc={c.technical_notes} /></div></section>}
+<Bloks bloks={c.body} site={site} />
+<div class="wrap"><FaqList faqs={c.faq} /></div>
+<Bloks bloks={c.cta} site={site} />

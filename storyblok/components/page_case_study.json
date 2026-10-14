@@ -1,0 +1,107 @@
+{
+  "component": {
+    "name": "page_case_study",
+    "display_name": "T11 · Referenz / Fallstudie",
+    "is_root": true,
+    "is_nestable": false,
+    "schema": {
+      "h1": {
+        "type": "text",
+        "description": "Haupt-Überschrift (genau ein H1 pro Seite). Enthält das Hauptthema.",
+        "required": true,
+        "pos": 0
+      },
+      "intro": {
+        "type": "textarea",
+        "description": "Einleitung in höchstens zwei Sätzen: Was ist das und für wen? Wird als Zitat-Antwort gelesen.",
+        "required": true,
+        "max_length": 320,
+        "pos": 1
+      },
+      "nav_title": {
+        "type": "text",
+        "description": "Kurzname für Brotkrumen, Navigation und Karten (z. B. „DIWA-Serie“).",
+        "pos": 2
+      },
+      "seo_title": {
+        "type": "text",
+        "description": "Seitentitel für Google, höchstens 60 Zeichen.",
+        "max_length": 60,
+        "required": true,
+        "pos": 3
+      },
+      "seo_description": {
+        "type": "textarea",
+        "description": "Meta-Beschreibung, höchstens 155 Zeichen.",
+        "max_length": 155,
+        "required": true,
+        "pos": 4
+      },
+      "noindex": {
+        "type": "boolean",
+        "description": "Nur für Sonderfälle: Seite von der Suche ausschließen. Rechtstexte bleiben indexierbar.",
+        "default_value": false,
+        "pos": 5
+      },
+      "customer": {
+        "type": "text",
+        "description": "Kunde – nur mit Freigabe.",
+        "pos": 6
+      },
+      "situation": {
+        "type": "richtext",
+        "description": "Ausgangslage.",
+        "rich_markdown": false,
+        "pos": 7
+      },
+      "solution": {
+        "type": "richtext",
+        "description": "Lösung.",
+        "rich_markdown": false,
+        "pos": 8
+      },
+      "result": {
+        "type": "richtext",
+        "description": "Ergebnis – nur belegte Zahlen.",
+        "rich_markdown": false,
+        "pos": 9
+      },
+      "products": {
+        "type": "bloks",
+        "restrict_components": true,
+        "component_whitelist": [
+          "related_links"
+        ],
+        "description": "Eingesetzte Produkte (Links).",
+        "maximum": 1,
+        "pos": 10
+      },
+      "body": {
+        "type": "bloks",
+        "restrict_components": true,
+        "component_whitelist": [
+          "rich_text",
+          "card_grid",
+          "cta_band",
+          "faq",
+          "spec_table",
+          "download_list",
+          "steps",
+          "related_links",
+          "image_text"
+        ],
+        "description": "Optionale Zusatz-Bausteine. Die Pflicht-Abschnitte sind im Template fest eingebaut.",
+        "pos": 11
+      },
+      "tab-seo": {
+        "type": "tab",
+        "display_name": "SEO",
+        "keys": [
+          "seo_title",
+          "seo_description",
+          "noindex"
+        ]
+      }
+    }
+  }
+}

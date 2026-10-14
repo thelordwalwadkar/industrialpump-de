@@ -1,0 +1,242 @@
+{
+  "id": 3567682779,
+  "uuid": "d4a684db-7302-4ca9-b70c-7cf70fcca2b1",
+  "name": "JEX 120",
+  "slug": "jex-120",
+  "full_slug": "pumpen/marken/ebara/jex-jesx-serie/jex-120",
+  "position": 0,
+  "content": {
+    "component": "page_product",
+    "article_number": "JEX 120",
+    "name": "JEX 120",
+    "nav_title": "JEX 120",
+    "h1": "Ebara JEX 120 – Kreiselpumpe für sauberes oder leicht verschmutztes Wasser",
+    "seo_title": "Ebara JEX 120 – Kreiselpumpe",
+    "seo_description": "Ebara JEX 120: Kreiselpumpe der JEX/JESX-Serie. Motorleistung 0,88 kW, Förderstrom bis 4,2 m³/h, Förderhöhe bis 40,9 m. Angebot anfordern.",
+    "intro": "Die Ebara JEX 120 ist eine Kreiselpumpe der JEX/JESX-Serie für sauberes oder leicht verschmutztes Wasser.",
+    "short_description": "Die Ebara JEX 120 ist eine Kreiselpumpe der JEX/JESX-Serie für sauberes oder leicht verschmutztes Wasser. Laut Katalogdaten hat dieser Artikel eine Motorleistung von 0,88 kW, einen Förderstrom bis 4,2 m³/h und eine Förderhöhe bis 40,9 m. Für die Auslegung im Bestand senden Sie uns Typenschild oder Betriebsdaten; wir prüfen, ob die JEX 120 Ihre Fördermenge und Förderhöhe abdeckt. Maßgeblich sind die Angaben im Datenblatt des Herstellers.",
+    "image_source": "/Images/ipg_ecom/Ebara/Ebara-JESX-series.png",
+    "image": {
+      "filename": "/img/products/ebara-jesx-series.webp",
+      "alt": "Ebara JEX 120"
+    },
+    "internal_item_number": "PZE2232TE",
+    "key_facts": [
+      {
+        "_uid": "86dab7ff9f61",
+        "component": "key_fact",
+        "label": "Förderstrom max.",
+        "value": "4,2",
+        "unit": "m³/h"
+      },
+      {
+        "_uid": "6b83a8fad5e6",
+        "component": "key_fact",
+        "label": "Förderhöhe max.",
+        "value": "40,9",
+        "unit": "m"
+      },
+      {
+        "_uid": "9f71bcdac58b",
+        "component": "key_fact",
+        "label": "Motorleistung",
+        "value": "0,88",
+        "unit": "kW"
+      },
+      {
+        "_uid": "a7c4b462be5b",
+        "component": "key_fact",
+        "label": "Spannung",
+        "value": "230",
+        "unit": "V"
+      }
+    ],
+    "specs": [
+      {
+        "_uid": "f49f881fc64d",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderstrom min.",
+        "value": "1,2",
+        "unit": "m³/h",
+        "value_num": 1.2
+      },
+      {
+        "_uid": "0e6d4af3f0d0",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderstrom max.",
+        "value": "4,2",
+        "unit": "m³/h",
+        "value_num": 4.2
+      },
+      {
+        "_uid": "4109d658f097",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderhöhe max.",
+        "value": "40,9",
+        "unit": "m",
+        "value_num": 40.9
+      },
+      {
+        "_uid": "9f3588ba9c37",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderhöhe min.",
+        "value": "24,5",
+        "unit": "m",
+        "value_num": 24.5
+      },
+      {
+        "_uid": "d7f0d143a5cf",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Medientemperatur max.",
+        "value": "20",
+        "unit": "°C",
+        "value_num": 20
+      },
+      {
+        "_uid": "cb2e0522b087",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Max. Betriebsdruck",
+        "value": "6",
+        "unit": "bar",
+        "value_num": 6
+      },
+      {
+        "_uid": "188910aa464b",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Stufenzahl",
+        "value": "1",
+        "value_num": 1
+      },
+      {
+        "_uid": "94a3430045e3",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Laufraddurchmesser",
+        "value": "141",
+        "unit": "mm",
+        "value_num": 141
+      },
+      {
+        "_uid": "e65603eac657",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Prüfnorm",
+        "value": "ISO 9906:2012, Klasse 3B"
+      },
+      {
+        "_uid": "071654d9c3d3",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Motorleistung",
+        "value": "0,88",
+        "unit": "kW",
+        "value_num": 0.88
+      },
+      {
+        "_uid": "e167062ddf66",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Spannung",
+        "value": "230",
+        "unit": "V",
+        "value_num": 230
+      },
+      {
+        "_uid": "65900d18ffa1",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Nennspannung (Variante 1)",
+        "value": "230/400",
+        "unit": "V"
+      },
+      {
+        "_uid": "71caa3d4d7b5",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Frequenz",
+        "value": "50",
+        "unit": "Hz",
+        "value_num": 50
+      },
+      {
+        "_uid": "e08795d6904c",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Nennstrom",
+        "value": "3",
+        "unit": "A",
+        "value_num": 3
+      },
+      {
+        "_uid": "1d406de5b060",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Drehzahl",
+        "value": "2.800",
+        "unit": "min⁻¹",
+        "value_num": 2800
+      },
+      {
+        "_uid": "ac4ec8796df7",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Schutzart",
+        "value": "IP54"
+      },
+      {
+        "_uid": "9e7cb6429e4b",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Isolationsklasse",
+        "value": "F"
+      },
+      {
+        "_uid": "a61c0420390a",
+        "component": "spec_row",
+        "group": "Werkstoffe",
+        "label": "Pumpengehäuse",
+        "value": "Edelstahl AISI 304"
+      },
+      {
+        "_uid": "37f04bb56300",
+        "component": "spec_row",
+        "group": "Werkstoffe",
+        "label": "Laufrad",
+        "value": "Edelstahl AISI 304"
+      },
+      {
+        "_uid": "e4f745d8caed",
+        "component": "spec_row",
+        "group": "Werkstoffe",
+        "label": "Welle",
+        "value": "Edelstahl AISI 303"
+      },
+      {
+        "_uid": "441a9ca91535",
+        "component": "spec_row",
+        "group": "Anschlüsse & Abmessungen",
+        "label": "Druckanschluss",
+        "value": "DN 25, BSP-Gewinde"
+      },
+      {
+        "_uid": "f3fc8184f13e",
+        "component": "spec_row",
+        "group": "Anschlüsse & Abmessungen",
+        "label": "Abmessungen",
+        "value": "418 mm x 106 mm"
+      }
+    ],
+    "flow_max_m3h": 4.2,
+    "head_max_m": 40.9,
+    "power_kw": 0.88,
+    "voltage": "230/400 V",
+    "material": "Edelstahl"
+  }
+}

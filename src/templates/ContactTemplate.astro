@@ -1,0 +1,51 @@
+---
+/** T13 · page_contact — Formular · Adresse/Telefon/Öffnungszeiten aus den globalen Einstellungen · Karte erst nach Einwilligung */
+import type { PageContact, PageStory } from '../lib/types';
+import type { Site } from '../lib/storyblok';
+import PageHead from '../components/PageHead.astro';
+import ContactForm from '../components/ContactForm.astro';
+import Bloks from '../components/Bloks.astro';
+interface Props { story: PageStory<PageContact>; site: Site }
+const { story, site } = Astro.props;
+const c = story.content;
+const g = site.config;
+const mapUrl = g.map_embed_url && !g.map_embed_url.includes('[[PLATZHALTER') ? g.map_embed_url : undefined;
+---
+<PageHead story={story} site={site} h1={c.h1 || story.name} intro={c.intro} />
+<section class="section">
+  <div class="wrap two-col">
+    <div>
+      {c.form_intro && <p>{c.form_intro}</p>}
+      <ContactForm kind={c.form_kind} />
+    </div>
+    <aside aria-labelledby="kontaktdaten">
+      <h2 id="kontaktdaten">Kontaktdaten</h2>
+      <dl class="kv">
+        <dt>Unternehmen</dt><dd>{g.legal_name}{g.legal_form ? ` ${g.legal_form}` : ''}</dd>
+        <dt>Adresse</dt><dd>{g.street}<br />{[g.postal_code, g.city].filter(Boolean).join(' ')}</dd>
+        <dt>Telefon</dt><dd>{g.phone}</dd>
+        <dt>E-Mail</dt><dd>{g.email}</dd>
+        <dt>Öffnungszeiten</dt><dd>{g.opening_hours}</dd>
+      </dl>
+      {mapUrl && (
+        <div data-map-gate data-src={mapUrl} style="margin-top:1.5rem">
+          <p class="muted">Die Karte wird erst nach Ihrer Einwilligung geladen.</p>
+          <button type="button" class="btn btn--ghost" data-consent-open>Cookie-Einstellungen öffnen</button>
+        </div>
+      )}
+    </aside>
+  </div>
+</section>
+<Bloks bloks={c.body} site={site} />
+<script>
+  // External map only after opt-in (TDDDG §25).
+  const gate = document.querySelector<HTMLElement>('[data-map-gate]');
+  const load = () => {
+    if (!gate || document.documentElement.dataset.consent !== 'all' || gate.querySelector('iframe')) return;
+    const f = document.createElement('iframe');
+    f.src = gate.dataset.src!; f.title = 'Karte'; f.loading = 'lazy'; f.width = '100%'; f.height = '320'; f.style.border = '0';
+    gate.replaceChildren(f);
+  };
+  document.addEventListener('consent-changed', load);
+  load();
+</script>

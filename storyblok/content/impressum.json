@@ -1,0 +1,187 @@
+{
+  "id": 3284028747,
+  "uuid": "c3be4d4b-41c1-1a55-dd69-ae16a96b51c6",
+  "name": "Impressum",
+  "slug": "impressum",
+  "full_slug": "impressum",
+  "content": {
+    "component": "page_legal",
+    "legal_kind": "impressum",
+    "h1": "Impressum",
+    "nav_title": "Impressum",
+    "seo_title": "Impressum | Industrial Pump Group",
+    "seo_description": "Anbieterkennzeichnung nach § 5 DDG: Unternehmen, Anschrift, Vertretung, Kontakt und Registerangaben.",
+    "intro": "Angaben zum Anbieter dieser Website nach § 5 DDG.",
+    "review_note": "Entwurf: Dieser Text muss vor der Veröffentlichung rechtlich geprüft und mit den Angaben des Unternehmens vervollständigt werden.",
+    "text": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "heading",
+          "attrs": {
+            "level": 2
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Angaben nach § 5 DDG"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "[[PLATZHALTER: Firmenname und Rechtsform]]"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "[[PLATZHALTER: Straße und Hausnummer]], [[PLATZHALTER: PLZ und Ort]]"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "attrs": {
+            "level": 2
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Vertreten durch"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "[[PLATZHALTER: Geschäftsführer]]"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "attrs": {
+            "level": 2
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Kontakt"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Telefon: [[PLATZHALTER: Telefon]]"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "E-Mail: [[PLATZHALTER: E-Mail]]"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "attrs": {
+            "level": 2
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Registereintrag"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "[[PLATZHALTER: Registergericht und Handelsregisternummer]]"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "attrs": {
+            "level": 2
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Umsatzsteuer-ID"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Umsatzsteuer-Identifikationsnummer nach § 27a UStG: [[PLATZHALTER: USt-IdNr.]]"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "attrs": {
+            "level": 2
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Verantwortlich für den Inhalt"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Verantwortlich nach § 18 Abs. 2 MStV: [[PLATZHALTER: Name und Anschrift]]"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "attrs": {
+            "level": 2
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Streitbeilegung"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "[[PLATZHALTER: Angabe zur Teilnahme an Verbraucherstreitbeilegungsverfahren nach VSBG]]"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

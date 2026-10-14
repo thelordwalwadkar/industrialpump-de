@@ -1,0 +1,21 @@
+{
+  "component": {
+    "name": "step",
+    "display_name": "Schritt",
+    "is_root": false,
+    "is_nestable": true,
+    "schema": {
+      "title": {
+        "type": "text",
+        "description": "Schritt.",
+        "required": true,
+        "pos": 0
+      },
+      "text": {
+        "type": "textarea",
+        "description": "Beschreibung.",
+        "pos": 1
+      }
+    }
+  }
+}

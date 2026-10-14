@@ -1,0 +1,220 @@
+{
+  "id": 482695834,
+  "uuid": "1cc55a9a-093b-e928-4853-d252ce7aca1d",
+  "name": "CDX 70/07 IE3",
+  "slug": "cdx-70-07-ie3",
+  "full_slug": "pumpen/marken/ebara/cdx-serie/cdx-70-07-ie3",
+  "position": 0,
+  "content": {
+    "component": "page_product",
+    "article_number": "CDX 70/07 IE3",
+    "name": "CDX 70/07 IE3",
+    "nav_title": "CDX 70/07 IE3",
+    "h1": "Ebara CDX 70/07 IE3 – Kreiselpumpe für Industrie und Gebäudetechnik",
+    "seo_title": "Ebara CDX 70/07 IE3 – Kreiselpumpe",
+    "seo_description": "Ebara CDX 70/07 IE3: Kreiselpumpe der CDX-Serie. Motorleistung 0,9 kW, Förderstrom bis 4,8 m³/h, Förderhöhe bis 38,5 m. Angebot anfordern.",
+    "intro": "Die Ebara CDX 70/07 IE3 ist eine Kreiselpumpe der CDX-Serie für Industrie und Gebäudetechnik.",
+    "short_description": "Die Ebara CDX 70/07 IE3 ist eine Kreiselpumpe der CDX-Serie für Industrie und Gebäudetechnik. Laut Katalogdaten hat dieser Artikel eine Motorleistung von 0,9 kW, einen Förderstrom bis 4,8 m³/h und eine Förderhöhe bis 38,5 m. Für die Auslegung im Bestand senden Sie uns Typenschild oder Betriebsdaten; wir prüfen, ob die CDX 70/07 IE3 Ihre Fördermenge und Förderhöhe abdeckt. Maßgeblich sind die Angaben im Datenblatt des Herstellers.",
+    "image_source": "/Images/ipg_ecom/Ebara/Ebara-CDX.png",
+    "image": {
+      "filename": "/img/products/ebara-cdx.webp",
+      "alt": "Ebara CDX 70/07 IE3"
+    },
+    "internal_item_number": "PND2408TE",
+    "key_facts": [
+      {
+        "_uid": "9cb56d137a7e",
+        "component": "key_fact",
+        "label": "Förderstrom max.",
+        "value": "4,8",
+        "unit": "m³/h"
+      },
+      {
+        "_uid": "8681e473070d",
+        "component": "key_fact",
+        "label": "Förderhöhe max.",
+        "value": "38,5",
+        "unit": "m"
+      },
+      {
+        "_uid": "2c5749294f63",
+        "component": "key_fact",
+        "label": "Motorleistung",
+        "value": "0,9",
+        "unit": "kW"
+      },
+      {
+        "_uid": "c3b2ce0c2998",
+        "component": "key_fact",
+        "label": "Spannung",
+        "value": "230",
+        "unit": "V"
+      }
+    ],
+    "specs": [
+      {
+        "_uid": "0530ee384443",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderstrom min.",
+        "value": "1,2",
+        "unit": "m³/h",
+        "value_num": 1.2
+      },
+      {
+        "_uid": "774b25875f8f",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderstrom max.",
+        "value": "4,8",
+        "unit": "m³/h",
+        "value_num": 4.8
+      },
+      {
+        "_uid": "5f803f58f4ca",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderhöhe max.",
+        "value": "38,5",
+        "unit": "m",
+        "value_num": 38.5
+      },
+      {
+        "_uid": "aabfcfddbf40",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderhöhe min.",
+        "value": "27",
+        "unit": "m",
+        "value_num": 27
+      },
+      {
+        "_uid": "be14598834f5",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Max. Betriebsdruck",
+        "value": "8",
+        "unit": "bar",
+        "value_num": 8
+      },
+      {
+        "_uid": "619f5204e465",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Nullförderdruck",
+        "value": "4,02",
+        "unit": "bar",
+        "value_num": 4.02
+      },
+      {
+        "_uid": "f4a457b2f22e",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Stufenzahl",
+        "value": "2",
+        "value_num": 2
+      },
+      {
+        "_uid": "f257d8b706c9",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Motorleistung",
+        "value": "0,9",
+        "unit": "kW",
+        "value_num": 0.9
+      },
+      {
+        "_uid": "6c2bf9110223",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Spannung",
+        "value": "230",
+        "unit": "V",
+        "value_num": 230
+      },
+      {
+        "_uid": "9d0e703fd22e",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Nennspannung (Variante 1)",
+        "value": "230/400",
+        "unit": "V"
+      },
+      {
+        "_uid": "e354e2969ff2",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Frequenz",
+        "value": "50",
+        "unit": "Hz",
+        "value_num": 50
+      },
+      {
+        "_uid": "cea4d205bfe7",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Nennstrom",
+        "value": "5,4",
+        "unit": "A",
+        "value_num": 5.4
+      },
+      {
+        "_uid": "992376a92b3b",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Drehzahl",
+        "value": "2.800",
+        "unit": "min⁻¹",
+        "value_num": 2800
+      },
+      {
+        "_uid": "d81b17a8a205",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Polzahl",
+        "value": "2",
+        "value_num": 2
+      },
+      {
+        "_uid": "9295e137fb30",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Isolationsklasse",
+        "value": "F"
+      },
+      {
+        "_uid": "5a12a17a8b44",
+        "component": "spec_row",
+        "group": "Werkstoffe",
+        "label": "Pumpengehäuse",
+        "value": "Edelstahl AISI 304"
+      },
+      {
+        "_uid": "38273b060805",
+        "component": "spec_row",
+        "group": "Werkstoffe",
+        "label": "Laufrad",
+        "value": "Edelstahl AISI 304"
+      },
+      {
+        "_uid": "ea76abd365b8",
+        "component": "spec_row",
+        "group": "Werkstoffe",
+        "label": "Welle",
+        "value": "Edelstahl AISI 304"
+      },
+      {
+        "_uid": "eb778fc792ee",
+        "component": "spec_row",
+        "group": "Anschlüsse & Abmessungen",
+        "label": "Druckanschluss",
+        "value": "DN 50, BSP-Gewinde"
+      }
+    ],
+    "flow_max_m3h": 4.8,
+    "head_max_m": 38.5,
+    "power_kw": 0.9,
+    "voltage": "230/400 V",
+    "material": "Edelstahl"
+  }
+}

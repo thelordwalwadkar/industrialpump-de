@@ -1,0 +1,271 @@
+{
+  "component": {
+    "name": "page_product",
+    "display_name": "T6 · Produkt (L3)",
+    "is_root": true,
+    "is_nestable": false,
+    "schema": {
+      "h1": {
+        "type": "text",
+        "description": "Haupt-Überschrift (genau ein H1 pro Seite). Enthält das Hauptthema.",
+        "required": true,
+        "pos": 0
+      },
+      "intro": {
+        "type": "textarea",
+        "description": "Einleitung in höchstens zwei Sätzen: Was ist das und für wen? Wird als Zitat-Antwort gelesen.",
+        "required": true,
+        "max_length": 320,
+        "pos": 1
+      },
+      "nav_title": {
+        "type": "text",
+        "description": "Kurzname für Brotkrumen, Navigation und Karten (z. B. „DIWA-Serie“).",
+        "pos": 2
+      },
+      "seo_title": {
+        "type": "text",
+        "description": "Seitentitel für Google, höchstens 60 Zeichen.",
+        "max_length": 60,
+        "required": true,
+        "pos": 3
+      },
+      "seo_description": {
+        "type": "textarea",
+        "description": "Meta-Beschreibung, höchstens 155 Zeichen.",
+        "max_length": 155,
+        "required": true,
+        "pos": 4
+      },
+      "noindex": {
+        "type": "boolean",
+        "description": "Nur für Sonderfälle: Seite von der Suche ausschließen. Rechtstexte bleiben indexierbar.",
+        "default_value": false,
+        "pos": 5
+      },
+      "article_number": {
+        "type": "text",
+        "description": "Artikel-/Modellbezeichnung des Herstellers (wird zu SKU, MPN und URL).",
+        "required": true,
+        "pos": 6
+      },
+      "name": {
+        "type": "text",
+        "description": "Produktname (z. B. „DIWA 07/B“).",
+        "required": true,
+        "pos": 7
+      },
+      "short_description": {
+        "type": "textarea",
+        "description": "Kurzbeschreibung, 60–120 Wörter.",
+        "required": true,
+        "pos": 8
+      },
+      "image": {
+        "type": "asset",
+        "filetypes": [
+          "images"
+        ],
+        "description": "Produktbild.",
+        "pos": 9
+      },
+      "image_source": {
+        "type": "text",
+        "description": "Quellpfad des Bildes im Altsystem.",
+        "pos": 10
+      },
+      "gallery": {
+        "type": "multiasset",
+        "filetypes": [
+          "images"
+        ],
+        "description": "Weitere Bilder.",
+        "pos": 11
+      },
+      "highlights": {
+        "type": "textarea",
+        "description": "Merkmale, eine Zeile pro Punkt.",
+        "pos": 12
+      },
+      "key_facts": {
+        "type": "bloks",
+        "restrict_components": true,
+        "component_whitelist": [
+          "key_fact"
+        ],
+        "description": "Genau bis zu 4 Kennwerte für die Kennwert-Leiste.",
+        "maximum": 4,
+        "pos": 13
+      },
+      "specs": {
+        "type": "bloks",
+        "restrict_components": true,
+        "component_whitelist": [
+          "spec_row"
+        ],
+        "description": "Technische Daten, gruppiert (Hydraulik, Motor/Elektrik, Werkstoffe, Anschlüsse & Abmessungen). Leere Werte weglassen.",
+        "pos": 14
+      },
+      "flow_max_m3h": {
+        "type": "number",
+        "description": "Förderstrom max. in m³/h (Zahl, für Filter und Schema).",
+        "pos": 15
+      },
+      "head_max_m": {
+        "type": "number",
+        "description": "Förderhöhe max. in m (Zahl).",
+        "pos": 16
+      },
+      "power_kw": {
+        "type": "number",
+        "description": "Motorleistung in kW (Zahl).",
+        "pos": 17
+      },
+      "voltage": {
+        "type": "option",
+        "source": "self",
+        "options": [
+          {
+            "name": "230 V",
+            "value": "230 V"
+          },
+          {
+            "name": "400 V",
+            "value": "400 V"
+          },
+          {
+            "name": "230/400 V",
+            "value": "230/400 V"
+          },
+          {
+            "name": "400/690 V",
+            "value": "400/690 V"
+          }
+        ],
+        "description": "Spannung (Filter).",
+        "pos": 18
+      },
+      "material": {
+        "type": "option",
+        "source": "self",
+        "options": [
+          {
+            "name": "Gusseisen",
+            "value": "Gusseisen"
+          },
+          {
+            "name": "Edelstahl",
+            "value": "Edelstahl"
+          },
+          {
+            "name": "Bronze",
+            "value": "Bronze"
+          },
+          {
+            "name": "Thermoplast",
+            "value": "Thermoplast"
+          },
+          {
+            "name": "Messing",
+            "value": "Messing"
+          },
+          {
+            "name": "Stahlguss",
+            "value": "Stahlguss"
+          }
+        ],
+        "description": "Werkstoff Gehäuse (Filter).",
+        "pos": 19
+      },
+      "downloads": {
+        "type": "bloks",
+        "restrict_components": true,
+        "component_whitelist": [
+          "download_list"
+        ],
+        "description": "Datenblatt, Kennlinie, Handbuch.",
+        "maximum": 1,
+        "pos": 20
+      },
+      "gtin": {
+        "type": "text",
+        "description": "GTIN/EAN (optional).",
+        "pos": 21
+      },
+      "price": {
+        "type": "number",
+        "description": "Preis in EUR – nur ausfüllen, wenn ein verbindlicher Preis vorliegt. Erzeugt sonst kein Angebots-Schema.",
+        "pos": 22
+      },
+      "availability": {
+        "type": "option",
+        "source": "self",
+        "options": [
+          {
+            "name": "InStock",
+            "value": "InStock"
+          },
+          {
+            "name": "OutOfStock",
+            "value": "OutOfStock"
+          },
+          {
+            "name": "PreOrder",
+            "value": "PreOrder"
+          },
+          {
+            "name": "BackOrder",
+            "value": "BackOrder"
+          },
+          {
+            "name": "LimitedAvailability",
+            "value": "LimitedAvailability"
+          }
+        ],
+        "description": "Verfügbarkeit (nur mit Preis).",
+        "pos": 23
+      },
+      "internal_item_number": {
+        "type": "text",
+        "description": "Interne Artikelnummer (nicht öffentlich ausgespielt).",
+        "pos": 24
+      },
+      "body": {
+        "type": "bloks",
+        "restrict_components": true,
+        "component_whitelist": [
+          "rich_text",
+          "card_grid",
+          "cta_band",
+          "faq",
+          "spec_table",
+          "download_list",
+          "steps",
+          "related_links",
+          "image_text"
+        ],
+        "description": "Optionale Zusatz-Bausteine. Die Pflicht-Abschnitte sind im Template fest eingebaut.",
+        "pos": 25
+      },
+      "cta": {
+        "type": "bloks",
+        "restrict_components": true,
+        "component_whitelist": [
+          "cta_band"
+        ],
+        "description": "Optionales Abschluss-Banner. Ohne Eintrag erscheint der Standard-CTA des Templates.",
+        "maximum": 1,
+        "pos": 26
+      },
+      "tab-seo": {
+        "type": "tab",
+        "display_name": "SEO",
+        "keys": [
+          "seo_title",
+          "seo_description",
+          "noindex"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+node_modules/
+dist/
+dist-fixtures/
+.astro/
+.env
+.env.*
+!.env.example
+*.log
+.reports/
+
+# not published: original downloaded images (rights), source product feeds (proprietary), local servers
+assets-src/
+inputs/
+.claude/

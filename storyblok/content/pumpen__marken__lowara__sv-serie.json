@@ -1,0 +1,179 @@
+{
+  "id": 2369723369,
+  "uuid": "8d3f1be9-56c1-d535-7260-a569ae88d060",
+  "name": "SV-Serie",
+  "slug": "sv-serie",
+  "full_slug": "pumpen/marken/lowara/sv-serie",
+  "position": 1,
+  "content": {
+    "component": "page_series",
+    "series_name": "SV",
+    "h1": "Lowara SV-Serie – Mehrstufige vertikale Kreiselpumpen",
+    "nav_title": "SV-Serie",
+    "seo_title": "Lowara SV-Serie: Mehrstufige vertikale Kreiselpumpen",
+    "seo_description": "Lowara SV: mehrstufige vertikale Kreiselpumpen für Druckerhöhung, Wasserversorgung und Gebäudetechnik. Kennbereiche, Artikel, Angebot anfordern.",
+    "intro": "Die Lowara SV-Serie umfasst mehrstufige Kreiselpumpen in vertikaler Bauweise für Druckerhöhung, Wasserversorgung und Anwendungen der Gebäudetechnik. Sie arbeiten platzsparend und lassen sich je nach Werkstoffausführung auch für aggressive Medien auslegen.",
+    "pump_type": "mehrstufige-pumpen",
+    "segments": [
+      "gebaeudetechnik-hvac",
+      "wasseraufbereitung",
+      "wassertransport"
+    ],
+    "applications": [],
+    "use_case_line": "Mehrstufige vertikale Kreiselpumpen für Druckerhöhung und Wasserversorgung",
+    "body_text": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Die SV-Serie steht für vertikal aufgebaute, mehrstufige Kreiselpumpen von Lowara. Mehrere Laufräder in Reihe erzeugen hohe Förderhöhen bei geringer Aufstellfläche. Typische Aufgaben sind Druckerhöhung, Wasserversorgung und Anwendungen der Gebäudetechnik."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Nach Herstellerangaben sind die Pumpen für einfache Installation und Wartung ausgelegt: Der Pumpenteil ist gut zugänglich, und der Motor lässt sich einfach demontieren."
+            }
+          ]
+        }
+      ]
+    },
+    "highlights": "Vertikale, platzsparende Bauweise\nHohe Förderhöhen durch mehrere Stufen\nDruckerhöhung, Wasserversorgung, Gebäudetechnik\nGut zugänglicher Pumpenteil, einfache Motormontage (Herstellerangabe)",
+    "image_source": "/Images/ipg_ecom/Lowara/Lowara-SV.jpg",
+    "image": {
+      "filename": "/img/products/lowara-sv.webp",
+      "alt": "Lowara SV-Serie"
+    },
+    "flow_max_m3h": 29,
+    "head_max_m": 245.3,
+    "power_min_kw": 0.37,
+    "power_max_kw": 7.5,
+    "catalogue_count": 239,
+    "body": [
+      {
+        "_uid": "350900df1513",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Auswahlhinweise für mehrstufige Pumpen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bei mehrstufigen Pumpen addieren sich die Förderhöhen der einzelnen Stufen. Die Auslegung beginnt deshalb mit dem geforderten Förderstrom und dem benötigten Enddruck."
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Betriebspunkt: Er ergibt sich aus dem Schnittpunkt von Pumpen- und Anlagenkennlinie und sollte in der Nähe des Bestpunkts liegen."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "NPSH: Der NPSH-Wert der Anlage muss den NPSH-Bedarf der Pumpe mit Sicherheitszuschlag übersteigen, sonst droht Kavitation."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Werkstoff: Er richtet sich nach Fördermedium, Temperatur und Zusammensetzung."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Drehzahlregelung: Ein Frequenzumrichter passt Förderstrom und Druck an wechselnden Bedarf an."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "faq": [
+      {
+        "_uid": "e4f24fd93a18",
+        "component": "faq",
+        "heading": "Häufige Fragen zur SV-Serie",
+        "items": [
+          {
+            "_uid": "29e8e37dd55d",
+            "component": "faq_item",
+            "question": "Wie finde ich den passenden Artikel der SV-Serie?",
+            "answer": "Senden Sie uns das Typenschild Ihrer vorhandenen Pumpe oder Ihre Betriebsdaten: Förderstrom, Förderhöhe, Medium und Temperatur. Daraus ordnen wir den passenden Artikel der SV-Serie zu."
+          },
+          {
+            "_uid": "dc7fca035f74",
+            "component": "faq_item",
+            "question": "Sind Ersatzteile und eine Revision für die SV-Serie möglich?",
+            "answer": "Ersatzteile und die Revision von Lowara-Pumpen können Sie über das Angebotsformular anfragen. Welche Teile im Einzelfall verfügbar sind, hängt von Baujahr und Ausführung ab."
+          },
+          {
+            "_uid": "f010c902cc73",
+            "component": "faq_item",
+            "question": "Wie lang ist die Lieferzeit für Artikel der SV-Serie?",
+            "answer": "[[PLATZHALTER: Lieferzeit Lowara SV]]"
+          }
+        ]
+      }
+    ]
+  }
+}

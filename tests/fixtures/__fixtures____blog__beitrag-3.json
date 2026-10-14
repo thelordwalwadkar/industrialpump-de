@@ -1,0 +1,65 @@
+{
+  "id": 3948207991,
+  "uuid": "eb54df77-f693-766b-f118-ae9c635a19fd",
+  "name": "Revision oder Ersatz",
+  "slug": "beitrag-3",
+  "full_slug": "__fixtures__/blog/beitrag-3",
+  "content": {
+    "component": "page_blog_post",
+    "h1": "Revision oder Ersatz",
+    "nav_title": "Revision oder Ersatz",
+    "seo_title": "Revision oder Ersatz: Hinweise aus der Praxis",
+    "seo_description": "Fixture-Beitrag 3 für das Blog-Template mit Autor, Datum und verwandten Beiträgen.",
+    "intro": "Kurze Antwort auf die Kernfrage von Beitrag 3. Diese Seite prüft das Blog-Template.",
+    "article": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "heading",
+          "attrs": {
+            "level": 2
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Ausgangslage"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Fließtext des Beitrags."
+            }
+          ]
+        }
+      ]
+    },
+    "related": [
+      {
+        "_uid": "bp2-rel",
+        "component": "related_links",
+        "heading": "Weiterlesen",
+        "links": [
+          {
+            "_uid": "bp2-l0",
+            "component": "link_item",
+            "label": "Pumpenrevision",
+            "link": {
+              "fieldtype": "multilink",
+              "linktype": "story",
+              "id": "17bb890b-552f-4f44-567f-f89f204a86d9",
+              "cached_url": "__fixtures__/service-revision",
+              "url": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "created_at": "2026-03-12T08:00:00.000Z",
+  "first_published_at": "2026-03-12T08:00:00.000Z",
+  "published_at": "2026-03-12T08:00:00.000Z"
+}

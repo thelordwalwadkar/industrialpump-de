@@ -1,0 +1,13 @@
+---
+import type { Steps } from '../lib/types';
+interface Props { blok: Steps }
+const { blok } = Astro.props;
+---
+{(blok.items?.length ?? 0) > 0 && (
+  <section class="section">
+    <div class="wrap">
+      <h2>{blok.heading ?? 'Ablauf'}</h2>
+      <ol class="steps">{blok.items!.map((s) => <li><div><h3>{s.title}</h3>{s.text && <p>{s.text}</p>}</div></li>)}</ol>
+    </div>
+  </section>
+)}

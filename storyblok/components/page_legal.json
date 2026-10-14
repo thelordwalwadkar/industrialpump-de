@@ -1,0 +1,88 @@
+{
+  "component": {
+    "name": "page_legal",
+    "display_name": "T14 · Rechtstext",
+    "is_root": true,
+    "is_nestable": false,
+    "schema": {
+      "h1": {
+        "type": "text",
+        "description": "Haupt-Überschrift (genau ein H1 pro Seite). Enthält das Hauptthema.",
+        "required": true,
+        "pos": 0
+      },
+      "intro": {
+        "type": "textarea",
+        "description": "Einleitung in höchstens zwei Sätzen: Was ist das und für wen? Wird als Zitat-Antwort gelesen.",
+        "required": true,
+        "max_length": 320,
+        "pos": 1
+      },
+      "nav_title": {
+        "type": "text",
+        "description": "Kurzname für Brotkrumen, Navigation und Karten (z. B. „DIWA-Serie“).",
+        "pos": 2
+      },
+      "seo_title": {
+        "type": "text",
+        "description": "Seitentitel für Google, höchstens 60 Zeichen.",
+        "max_length": 60,
+        "required": true,
+        "pos": 3
+      },
+      "seo_description": {
+        "type": "textarea",
+        "description": "Meta-Beschreibung, höchstens 155 Zeichen.",
+        "max_length": 155,
+        "required": true,
+        "pos": 4
+      },
+      "noindex": {
+        "type": "boolean",
+        "description": "Nur für Sonderfälle: Seite von der Suche ausschließen. Rechtstexte bleiben indexierbar.",
+        "default_value": false,
+        "pos": 5
+      },
+      "legal_kind": {
+        "type": "option",
+        "source": "self",
+        "options": [
+          {
+            "name": "Impressum",
+            "value": "impressum"
+          },
+          {
+            "name": "Datenschutz",
+            "value": "datenschutz"
+          },
+          {
+            "name": "AGB",
+            "value": "agb"
+          }
+        ],
+        "description": "Art des Rechtstextes.",
+        "pos": 6
+      },
+      "text": {
+        "type": "richtext",
+        "description": "Volltext.",
+        "rich_markdown": false,
+        "pos": 7
+      },
+      "review_note": {
+        "type": "textarea",
+        "description": "Interner Hinweis (wird sichtbar angezeigt, bis er geleert wird), z. B. „Rechtlich prüfen lassen“.",
+        "pos": 8
+      },
+      "tab-seo": {
+        "type": "tab",
+        "display_name": "SEO",
+        "keys": [
+          "seo_title",
+          "seo_description",
+          "noindex"
+        ]
+      }
+    }
+  }
+}

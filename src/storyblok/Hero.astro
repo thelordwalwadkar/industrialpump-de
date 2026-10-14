@@ -1,0 +1,23 @@
+---
+import type { Hero } from '../lib/types';
+import type { Site } from '../lib/storyblok';
+import { resolveLink } from '../lib/links';
+interface Props { blok: Hero; site: Site; links?: { title: string; href: string }[] }
+const { blok, site, links = [] } = Astro.props;
+const primary = resolveLink(site, blok.primary_link);
+const secondary = resolveLink(site, blok.secondary_link);
+---
+<section class="band hero">
+  <div class="wrap">
+    <div>
+      <h1>{blok.headline}</h1>
+      {blok.subline && <p>{blok.subline}</p>}
+      <div class="btn-row">
+        {primary?.exists && blok.primary_label && <a class="btn" href={primary.href}>{blok.primary_label}</a>}
+        {secondary?.exists && blok.secondary_label && <a class="btn btn--ghost" href={secondary.href}>{blok.secondary_label}</a>}
+      </div>
+    </div>
+    <div class="rule" aria-hidden="true"></div>
+    {links.length > 0 && <ul class="hero-links">{links.map((l) => <li><a href={l.href}>{l.title}</a></li>)}</ul>}
+  </div>
+</section>

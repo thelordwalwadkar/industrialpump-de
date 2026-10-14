@@ -1,0 +1,40 @@
+{
+  "component": {
+    "name": "image_text",
+    "display_name": "Bild + Text",
+    "is_root": false,
+    "is_nestable": true,
+    "schema": {
+      "image": {
+        "type": "asset",
+        "filetypes": [
+          "images"
+        ],
+        "description": "Bild.",
+        "pos": 0
+      },
+      "text": {
+        "type": "richtext",
+        "description": "Text.",
+        "rich_markdown": false,
+        "pos": 1
+      },
+      "side": {
+        "type": "option",
+        "source": "self",
+        "options": [
+          {
+            "name": "Rechts",
+            "value": "right"
+          },
+          {
+            "name": "Links",
+            "value": "left"
+          }
+        ],
+        "description": "Bildseite.",
+        "pos": 2
+      }
+    }
+  }
+}

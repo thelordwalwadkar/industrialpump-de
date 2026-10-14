@@ -1,0 +1,270 @@
+{
+  "id": 275409956,
+  "uuid": "106a6c24-1b87-97f5-2e1e-77317b96a201",
+  "name": "Startseite",
+  "slug": "home",
+  "full_slug": "home",
+  "content": {
+    "component": "page_home",
+    "h1": "Industriepumpen",
+    "intro": "Für Gebäudetechnik, Wasserversorgung und Entwässerung: Pumpen von Lowara, SAER, Ebara und Flygt nach Serie und Pumpentyp. Senden Sie uns Typenschild oder Betriebsdaten, wir prüfen, welche Pumpe passt.",
+    "nav_title": "Startseite",
+    "seo_title": "Industriepumpen: Auswahl, Angebot und Revision",
+    "seo_description": "Industriepumpen von Lowara, SAER, Ebara und Flygt nach Serie und Pumpentyp. Typenschild senden, Angebot oder Revision direkt anfragen.",
+    "hero": [
+      {
+        "_uid": "f04af61b3f33",
+        "component": "hero",
+        "headline": "Industriepumpen",
+        "subline": "Für Gebäudetechnik, Wasserversorgung und Entwässerung: Pumpen von Lowara, SAER, Ebara und Flygt nach Serie und Pumpentyp. Senden Sie uns Typenschild oder Betriebsdaten, wir prüfen, welche Pumpe passt.",
+        "primary_label": "Pumpe finden",
+        "primary_link": {
+          "fieldtype": "multilink",
+          "linktype": "story",
+          "id": "0f9d9acd-986f-98c8-3c55-d88ad082a88d",
+          "cached_url": "pumpen",
+          "url": ""
+        },
+        "secondary_label": "Angebot anfordern",
+        "secondary_link": {
+          "fieldtype": "multilink",
+          "linktype": "story",
+          "id": "ea6247cb-c6b8-c02a-58ad-686c0db919d5",
+          "cached_url": "angebot",
+          "url": ""
+        }
+      }
+    ],
+    "tiles": [
+      {
+        "_uid": "9db5f8c9ab0e",
+        "component": "card_grid",
+        "heading": "Pumpen entdecken",
+        "cards": [
+          {
+            "_uid": "5e398410f0fd",
+            "component": "card",
+            "title": "Marken",
+            "text": "Lowara, SAER, Ebara und Flygt",
+            "link": {
+              "fieldtype": "multilink",
+              "linktype": "story",
+              "id": "2317dd2a-0249-2908-4b7b-4c5438214652",
+              "cached_url": "pumpen/marken",
+              "url": ""
+            }
+          },
+          {
+            "_uid": "8a968e71b564",
+            "component": "card",
+            "title": "Pumpentypen",
+            "text": "Kreiselpumpen, mehrstufige Pumpen, Tauchmotorpumpen und mehr",
+            "link": {
+              "fieldtype": "multilink",
+              "linktype": "story",
+              "id": "9977c917-b85e-816f-ee39-fd3ca75aaddf",
+              "cached_url": "pumpen/pumpentypen",
+              "url": ""
+            }
+          },
+          {
+            "_uid": "8c7c647a5583",
+            "component": "card",
+            "title": "Branchen",
+            "text": "Pumpen nach Einsatzbereich",
+            "link": {
+              "fieldtype": "multilink",
+              "linktype": "story",
+              "id": "7c6982e0-d202-2a15-6566-40009592466a",
+              "cached_url": "pumpen/branchen",
+              "url": ""
+            }
+          },
+          {
+            "_uid": "f42fbb74ee5d",
+            "component": "card",
+            "title": "Anwendungen",
+            "text": "Pumpen nach Aufgabe",
+            "link": {
+              "fieldtype": "multilink",
+              "linktype": "story",
+              "id": "d8369178-d2d8-fdce-28c1-4ef1b5e27cbc",
+              "cached_url": "pumpen/anwendungen",
+              "url": ""
+            }
+          },
+          {
+            "_uid": "cbf868f52506",
+            "component": "card",
+            "title": "Revision",
+            "text": "Instandsetzung statt Neukauf",
+            "link": {
+              "fieldtype": "multilink",
+              "linktype": "url",
+              "url": "/angebot?anliegen=revision",
+              "cached_url": "/angebot?anliegen=revision"
+            }
+          },
+          {
+            "_uid": "ca487c9c9fdf",
+            "component": "card",
+            "title": "Pumpenschule",
+            "text": "Grundlagen und Kurse",
+            "link": {
+              "fieldtype": "multilink",
+              "linktype": "story",
+              "id": "ec804118-96ee-6bf2-2013-e62a7ba7d944",
+              "cached_url": "ueber-uns/pumpenschule",
+              "url": ""
+            }
+          },
+          {
+            "_uid": "bdba21643d61",
+            "component": "card",
+            "title": "Angebot",
+            "text": "Angebot für Pumpe oder Ersatzteil anfordern",
+            "link": {
+              "fieldtype": "multilink",
+              "linktype": "story",
+              "id": "ea6247cb-c6b8-c02a-58ad-686c0db919d5",
+              "cached_url": "angebot",
+              "url": ""
+            }
+          }
+        ]
+      }
+    ],
+    "body": [
+      {
+        "_uid": "fc2ad3cff734",
+        "component": "card_grid",
+        "heading": "Wobei wir helfen",
+        "cards": [
+          {
+            "_uid": "959319542794",
+            "component": "card",
+            "title": "Pumpen",
+            "text": "Pumpen nach Marke, Serie und Pumpentyp. Senden Sie uns das Typenschild, wir prüfen die passende Pumpe.",
+            "link": {
+              "fieldtype": "multilink",
+              "linktype": "story",
+              "id": "0f9d9acd-986f-98c8-3c55-d88ad082a88d",
+              "cached_url": "pumpen",
+              "url": ""
+            },
+            "image": {
+              "filename": "/img/services/verkauf.webp",
+              "alt": ""
+            }
+          },
+          {
+            "_uid": "df9c60f45c60",
+            "component": "card",
+            "title": "Revision",
+            "text": "Je nach Zustand umfasst eine Revision den Austausch von Verschleißteilen wie Gleitringdichtungen und Lagern.",
+            "link": {
+              "fieldtype": "multilink",
+              "linktype": "url",
+              "url": "/angebot?anliegen=revision",
+              "cached_url": "/angebot?anliegen=revision"
+            },
+            "image": {
+              "filename": "/img/services/revision.webp",
+              "alt": ""
+            }
+          },
+          {
+            "_uid": "44be0a0203f6",
+            "component": "card",
+            "title": "Ersatzteile",
+            "text": "Ersatzteile für Pumpen der Marken im Katalog. Die Verfügbarkeit hängt von Serie, Baujahr und Ausführung ab.",
+            "link": {
+              "fieldtype": "multilink",
+              "linktype": "url",
+              "url": "/angebot?anliegen=ersatzteile",
+              "cached_url": "/angebot?anliegen=ersatzteile"
+            },
+            "image": {
+              "filename": "/img/services/ersatzteile.webp",
+              "alt": ""
+            }
+          }
+        ]
+      }
+    ],
+    "revision": [
+      {
+        "_uid": "aa8258e9c2c2",
+        "component": "cta_band",
+        "heading": "Revision statt Neukauf prüfen",
+        "text": "Eine Revision kann je nach Zustand der Pumpe den Austausch von Verschleißteilen wie Gleitringdichtungen und Lagern umfassen. Senden Sie uns das Typenschild, wir prüfen den Umfang mit Ihnen.",
+        "button_label": "Revision anfragen",
+        "button_link": {
+          "fieldtype": "multilink",
+          "linktype": "url",
+          "url": "/angebot?anliegen=revision",
+          "cached_url": "/angebot?anliegen=revision"
+        },
+        "variant": "overhaul"
+      }
+    ],
+    "brands": [
+      {
+        "_uid": "633fb5d52c05",
+        "component": "logo_strip",
+        "heading": "Marken im Katalog"
+      }
+    ],
+    "references": [
+      {
+        "_uid": "444e2602a5bc",
+        "component": "cta_band",
+        "heading": "Referenzen",
+        "text": "Eingesetzte Pumpen und Revisionen aus der Praxis.",
+        "button_label": "Referenzen ansehen",
+        "button_link": {
+          "fieldtype": "multilink",
+          "linktype": "story",
+          "id": "ba0ff2db-a6aa-e8dc-f6c2-35fc3c68b583",
+          "cached_url": "referenzen",
+          "url": ""
+        },
+        "variant": "primary"
+      }
+    ],
+    "school": [
+      {
+        "_uid": "7a2856ee1c91",
+        "component": "cta_band",
+        "heading": "Pumpenschule",
+        "text": "Grundlagen, Kurse und Datenblätter rund um Pumpen.",
+        "button_label": "Zur Pumpenschule",
+        "button_link": {
+          "fieldtype": "multilink",
+          "linktype": "story",
+          "id": "ec804118-96ee-6bf2-2013-e62a7ba7d944",
+          "cached_url": "ueber-uns/pumpenschule",
+          "url": ""
+        },
+        "variant": "primary"
+      }
+    ],
+    "contact": [
+      {
+        "_uid": "394480b9e548",
+        "component": "cta_band",
+        "heading": "Fragen zu Auswahl oder Ersatz?",
+        "text": "Schreiben Sie uns. Für ein konkretes Angebot nutzen Sie das Angebotsformular.",
+        "button_label": "Kontakt aufnehmen",
+        "button_link": {
+          "fieldtype": "multilink",
+          "linktype": "story",
+          "id": "fa84f07b-0766-3634-f3a7-a260447a24c3",
+          "cached_url": "kontakt",
+          "url": ""
+        },
+        "variant": "primary"
+      }
+    ]
+  }
+}

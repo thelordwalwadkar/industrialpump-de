@@ -1,0 +1,41 @@
+{
+  "component": {
+    "name": "card",
+    "display_name": "Karte",
+    "is_root": false,
+    "is_nestable": true,
+    "schema": {
+      "title": {
+        "type": "text",
+        "description": "Titel.",
+        "required": true,
+        "pos": 0
+      },
+      "text": {
+        "type": "textarea",
+        "description": "Kurztext.",
+        "pos": 1
+      },
+      "link": {
+        "type": "multilink",
+        "description": "Ziel.",
+        "email_link_type": true,
+        "asset_link_type": true,
+        "pos": 2
+      },
+      "meta": {
+        "type": "text",
+        "description": "Zusatzzeile, z. B. Kennwerte.",
+        "pos": 3
+      },
+      "image": {
+        "type": "asset",
+        "filetypes": [
+          "images"
+        ],
+        "description": "Bild.",
+        "pos": 4
+      }
+    }
+  }
+}

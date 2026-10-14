@@ -1,0 +1,32 @@
+{
+  "id": 2338526059,
+  "uuid": "8b63136b-96c1-bc3f-d059-6a97ab62495b",
+  "name": "Leere-Serie",
+  "slug": "leere-serie",
+  "full_slug": "__fixtures__/pumpen/marken/testmarke/leere-serie",
+  "content": {
+    "component": "page_series",
+    "series_name": "Leere",
+    "h1": "Testmarke Leere Serie – noch ohne Produkte",
+    "nav_title": "Leere-Serie",
+    "seo_title": "Testmarke Leere Serie: Kreiselpumpen",
+    "seo_description": "Fixture für eine Serie ohne Produkte: Leerzustand, ProductGroup ohne hasVariant, keine leere ItemList.",
+    "intro": "Diese Serie hat noch keine Produktseiten. Sie prüft den Leerzustand.",
+    "pump_type": "kreiselpumpen",
+    "use_case_line": "Kreiselpumpen ohne Produkte",
+    "body_text": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Beschreibung."
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

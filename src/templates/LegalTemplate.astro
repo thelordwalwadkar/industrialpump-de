@@ -1,0 +1,17 @@
+---
+/** T14 · page_legal — reiner Fließtext, minimales Chrome, nicht noindex */
+import type { PageLegal, PageStory } from '../lib/types';
+import type { Site } from '../lib/storyblok';
+import PageHead from '../components/PageHead.astro';
+import RichTextHtml from '../components/RichTextHtml.astro';
+interface Props { story: PageStory<PageLegal>; site: Site }
+const { story, site } = Astro.props;
+const c = story.content;
+---
+<PageHead story={story} site={site} h1={c.h1 || story.name} intro={c.intro} />
+<section class="section">
+  <div class="wrap">
+    {c.review_note && <p class="form-status" role="note">{c.review_note}</p>}
+    <RichTextHtml doc={c.text} />
+  </div>
+</section>

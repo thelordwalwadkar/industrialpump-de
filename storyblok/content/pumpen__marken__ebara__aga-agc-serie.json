@@ -1,0 +1,182 @@
+{
+  "id": 1246471760,
+  "uuid": "4a4ba650-52fc-7e2b-9f84-b2b675630e54",
+  "name": "AGA/AGC-Serie",
+  "slug": "aga-agc-serie",
+  "full_slug": "pumpen/marken/ebara/aga-agc-serie",
+  "position": 21,
+  "content": {
+    "component": "page_series",
+    "series_name": "AGA/AGC",
+    "h1": "Ebara AGA/AGC-Serie – Selbstansaugende Kreiselpumpen",
+    "nav_title": "AGA/AGC-Serie",
+    "seo_title": "Ebara AGA/AGC-Serie: Selbstansaugende Kreiselpumpen",
+    "seo_description": "Ebara AGA und AGC: selbstansaugende Kreiselpumpen für Industrie, Gewerbe und Gebäudetechnik. Kennbereiche, Artikel, Angebot anfordern.",
+    "intro": "Die Ebara AGA/AGC-Serie umfasst selbstansaugende Kreiselpumpen für industrielle und gewerbliche Anwendungen, unter anderem in der Gebäudetechnik und im Wassertransport. Sie sind als Einphasen- und Dreiphasenausführung erhältlich.",
+    "pump_type": "kreiselpumpen",
+    "segments": [
+      "landwirtschaft",
+      "gebaeudetechnik-hvac",
+      "wasseraufbereitung",
+      "wassertransport"
+    ],
+    "applications": [],
+    "use_case_line": "Selbstansaugende Kreiselpumpen für Industrie und Gebäudetechnik",
+    "body_text": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Die AGA/AGC-Serie von Ebara besteht aus selbstansaugenden Kreiselpumpen in mehreren Größen und Leistungen. Der Hersteller nennt Anwendungen in der Gebäudetechnik, im Wasser- und Abwasserbereich, in der Lebensmittelverarbeitung und in der chemischen Verfahrenstechnik."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Die Pumpen sind als Einphasen- und Dreiphasenausführung erhältlich und nach Herstellerangaben einfach zu installieren und zu warten. Welche Werkstoffe ein einzelner Artikel verwendet, steht in dessen technischen Daten."
+            }
+          ]
+        }
+      ]
+    },
+    "highlights": "Selbstansaugend\nEinphasen- und Dreiphasenausführung\nGebäudetechnik, Wassertransport, industrielle Anwendungen",
+    "image_source": "/Images/ipg_ecom/Ebara/Ebara-AGA-AGC-series.png",
+    "image": {
+      "filename": "/img/products/ebara-aga-agc-series.webp",
+      "alt": "Ebara AGA/AGC-Serie"
+    },
+    "flow_max_m3h": 9.6,
+    "head_max_m": 58,
+    "power_min_kw": 0.45,
+    "power_max_kw": 2.2,
+    "temp_max_c": 20,
+    "materials": "Gusseisen",
+    "catalogue_count": 9,
+    "body": [
+      {
+        "_uid": "6ec534f07501",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Auswahlhinweise für Kreiselpumpen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Für die Auswahl einer Kreiselpumpe sind Förderstrom, Förderhöhe und Fördermedium die Grundlage. Danach werden Werkstoff, Dichtung und Motorleistung festgelegt."
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Betriebspunkt: Er ergibt sich aus dem Schnittpunkt von Pumpen- und Anlagenkennlinie und sollte in der Nähe des Bestpunkts liegen."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "NPSH: Der NPSH-Wert der Anlage muss den NPSH-Bedarf der Pumpe mit Sicherheitszuschlag übersteigen, sonst droht Kavitation."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Medium: Temperatur, Feststoffanteil und chemische Zusammensetzung bestimmen Werkstoff und Wellendichtung."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ersatz: Beim Austausch einer vorhandenen Pumpe sind Anschlussmaße, Drehzahl und Motordaten des Typenschilds maßgeblich."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "faq": [
+      {
+        "_uid": "3f3b5ba348f3",
+        "component": "faq",
+        "heading": "Häufige Fragen zur AGA/AGC-Serie",
+        "items": [
+          {
+            "_uid": "624a38ae1fb1",
+            "component": "faq_item",
+            "question": "Wie finde ich den passenden Artikel der AGA/AGC-Serie?",
+            "answer": "Senden Sie uns das Typenschild Ihrer vorhandenen Pumpe oder Ihre Betriebsdaten: Förderstrom, Förderhöhe, Medium und Temperatur. Daraus ordnen wir den passenden Artikel der AGA/AGC-Serie zu."
+          },
+          {
+            "_uid": "6e2253bf4f8f",
+            "component": "faq_item",
+            "question": "Sind Ersatzteile und eine Revision für die AGA/AGC-Serie möglich?",
+            "answer": "Ersatzteile und die Revision von Ebara-Pumpen können Sie über das Angebotsformular anfragen. Welche Teile im Einzelfall verfügbar sind, hängt von Baujahr und Ausführung ab."
+          },
+          {
+            "_uid": "b4db795d1b36",
+            "component": "faq_item",
+            "question": "Wie lang ist die Lieferzeit für Artikel der AGA/AGC-Serie?",
+            "answer": "[[PLATZHALTER: Lieferzeit Ebara AGA/AGC]]"
+          }
+        ]
+      }
+    ]
+  }
+}

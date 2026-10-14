@@ -1,0 +1,9 @@
+---
+interface Props { heading: string; text?: string; label: string; href: string; variant?: 'primary' | 'overhaul' }
+const { heading, text, label, href, variant = 'primary' } = Astro.props;
+---
+<aside class="cta" data-accent={variant === 'overhaul' ? 'overhaul' : undefined}>
+  <h2>{heading}</h2>
+  {text && <p>{text}</p>}
+  <div class="btn-row"><a class="btn" href={href}>{label}</a></div>
+</aside>

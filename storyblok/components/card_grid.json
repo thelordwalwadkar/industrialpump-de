@@ -1,0 +1,29 @@
+{
+  "component": {
+    "name": "card_grid",
+    "display_name": "Karten-Raster",
+    "is_root": false,
+    "is_nestable": true,
+    "schema": {
+      "heading": {
+        "type": "text",
+        "description": "Überschrift.",
+        "pos": 0
+      },
+      "intro": {
+        "type": "textarea",
+        "description": "Einleitung.",
+        "pos": 1
+      },
+      "cards": {
+        "type": "bloks",
+        "restrict_components": true,
+        "component_whitelist": [
+          "card"
+        ],
+        "description": "Karten. Karten mit noch nicht vorhandenem Ziel werden automatisch ausgeblendet.",
+        "pos": 2
+      }
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": 2245304792,
+  "uuid": "85d4a1d8-71af-23ed-0865-30735bb17790",
+  "name": "Lowara",
+  "slug": "lowara",
+  "full_slug": "pumpen/marken/lowara",
+  "position": 1,
+  "content": {
+    "component": "page_brand",
+    "brand_name": "Lowara",
+    "h1": "Lowara Pumpen – Serien, Einsatzbereiche und Revision",
+    "nav_title": "Lowara",
+    "seo_title": "Lowara Pumpen: Serien, Einsatzbereiche und Revision",
+    "seo_description": "Lowara-Pumpen im Überblick: Serien für Druckerhöhung, Gebäudetechnik und Entwässerung, Einsatzbereiche und Revision. Angebot anfordern.",
+    "intro": "Lowara ist eine Pumpenmarke von Xylem mit italienischer Herkunft und vor allem für Edelstahl-Kreiselpumpen, mehrstufige Pumpen und Tauchmotorpumpen bekannt. Diese Seite zeigt die Serien aus unserem Katalog, ihre Einsatzbereiche und die Möglichkeiten zur Revision.",
+    "parent_company": "Xylem",
+    "body_text": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Lowara gehört zur Xylem-Gruppe. Das Programm reicht von mehrstufigen Kreiselpumpen für Druckerhöhung und Wasserversorgung über Blockpumpen bis zu Tauchmotorpumpen für Entwässerung und Schmutzwasser. In den Katalogdaten ist als Herkunftsland Italien angegeben."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Die Serien unterscheiden sich vor allem in Pumpentyp, Werkstoff und Leistungsbereich. Die mehrstufigen Serien SV und HM decken Druckerhöhung und Anwendungen der Gebäudetechnik ab. Die Blockpumpen CEA und BG fördern sauberes Wasser bei mäßigen Förderhöhen, die Kreiselpumpen der ESH-Serie bedienen Druckerhöhung und Wasserversorgung in Industrie und Gewerbe. Für Entwässerung und Schmutzwasser stehen die Tauchmotorpumpen DOC, DOMO und DIWA zur Verfügung."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Wenn Sie eine vorhandene Lowara-Pumpe ersetzen möchten, hilft das Typenschild: Aus Typ, Förderstrom und Förderhöhe lässt sich die passende Serie zuordnen."
+            }
+          ]
+        }
+      ]
+    },
+    "logo": {
+      "filename": "/img/brands/lowara.webp",
+      "alt": "Lowara"
+    },
+    "revision_text": "Eine Revision kann je nach Zustand der Pumpe den Austausch von Verschleißteilen wie Gleitringdichtungen und Lagern umfassen. Den genauen Umfang legen wir nach Prüfung der Pumpe mit Ihnen fest. Welche Teile im Einzelfall verfügbar sind, hängt von Serie, Baujahr und Ausführung ab.",
+    "faq": [
+      {
+        "_uid": "7d2abcd8da8f",
+        "component": "faq",
+        "heading": "Häufige Fragen zu Lowara-Pumpen",
+        "items": [
+          {
+            "_uid": "2b88d7ee0f25",
+            "component": "faq_item",
+            "question": "Sind Ersatzteile für Lowara-Pumpen verfügbar?",
+            "answer": "Das hängt von Serie, Baujahr und Ausführung ab. Senden Sie uns Typenschild oder ein Foto der Pumpe, dann prüfen wir die Verfügbarkeit."
+          },
+          {
+            "_uid": "529a64546aba",
+            "component": "faq_item",
+            "question": "Kann ich eine ältere Lowara-Serie durch ein aktuelles Modell ersetzen?",
+            "answer": "Das ist je nach Serie möglich. Entscheidend sind Förderstrom, Förderhöhe, Anschlussmaße und Motordaten der vorhandenen Pumpe. Anhand des Typenschilds prüfen wir, welches Modell passt."
+          },
+          {
+            "_uid": "962e89ec2aa8",
+            "component": "faq_item",
+            "question": "Wie lang ist die Lieferzeit für Lowara-Pumpen?",
+            "answer": "[[PLATZHALTER: Lieferzeit Lowara]]"
+          }
+        ]
+      }
+    ]
+  }
+}

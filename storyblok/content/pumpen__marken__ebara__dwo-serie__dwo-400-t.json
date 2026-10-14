@@ -1,0 +1,241 @@
+{
+  "id": 54241569,
+  "uuid": "033ba921-5e83-791f-62bc-aa7637480274",
+  "name": "DWO 400 T",
+  "slug": "dwo-400-t",
+  "full_slug": "pumpen/marken/ebara/dwo-serie/dwo-400-t",
+  "position": 0,
+  "content": {
+    "component": "page_product",
+    "article_number": "DWO 400 T",
+    "name": "DWO 400 T",
+    "nav_title": "DWO 400 T",
+    "h1": "Ebara DWO 400 T – Kreiselpumpe für hohe Förderhöhen",
+    "seo_title": "Ebara DWO 400 T – Kreiselpumpe für hohe Förderhöhen",
+    "seo_description": "Ebara DWO 400 T: Kreiselpumpe der DWO-Serie. Motorleistung 3 kW, Förderstrom bis 66 m³/h, Förderhöhe bis 17,5 m. Angebot anfordern.",
+    "intro": "Die Ebara DWO 400 T ist eine Kreiselpumpe der DWO-Serie für hohe Förderhöhen.",
+    "short_description": "Die Ebara DWO 400 T ist eine Kreiselpumpe der DWO-Serie für hohe Förderhöhen. Laut Katalogdaten hat dieser Artikel eine Motorleistung von 3 kW, einen Förderstrom bis 66 m³/h und eine Förderhöhe bis 17,5 m. Für die Auslegung im Bestand senden Sie uns Typenschild oder Betriebsdaten; wir prüfen, ob die DWO 400 T Ihre Fördermenge und Förderhöhe abdeckt. Maßgeblich sind die Angaben im Datenblatt des Herstellers.",
+    "image_source": "/Images/ipg_ecom/Ebara/Ebara-DWO.png",
+    "image": {
+      "filename": "/img/products/ebara-dwo.webp",
+      "alt": "Ebara DWO 400 T"
+    },
+    "internal_item_number": "PNG2195TE",
+    "key_facts": [
+      {
+        "_uid": "d01e93d92efc",
+        "component": "key_fact",
+        "label": "Förderstrom max.",
+        "value": "66",
+        "unit": "m³/h"
+      },
+      {
+        "_uid": "dbc2d091edb4",
+        "component": "key_fact",
+        "label": "Förderhöhe max.",
+        "value": "17,5",
+        "unit": "m"
+      },
+      {
+        "_uid": "5ea32fd6da62",
+        "component": "key_fact",
+        "label": "Motorleistung",
+        "value": "3",
+        "unit": "kW"
+      },
+      {
+        "_uid": "9776ea9f98f4",
+        "component": "key_fact",
+        "label": "Spannung",
+        "value": "230",
+        "unit": "V"
+      }
+    ],
+    "specs": [
+      {
+        "_uid": "832b9b53f4d9",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderstrom min.",
+        "value": "6",
+        "unit": "m³/h",
+        "value_num": 6
+      },
+      {
+        "_uid": "105d3696a0bc",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderstrom max.",
+        "value": "66",
+        "unit": "m³/h",
+        "value_num": 66
+      },
+      {
+        "_uid": "6783f0bf5cfc",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderhöhe max.",
+        "value": "17,5",
+        "unit": "m",
+        "value_num": 17.5
+      },
+      {
+        "_uid": "494f5fbbdf29",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderhöhe min.",
+        "value": "7,6",
+        "unit": "m",
+        "value_num": 7.6
+      },
+      {
+        "_uid": "b4278c9afa60",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Medientemperatur max.",
+        "value": "20",
+        "unit": "°C",
+        "value_num": 20
+      },
+      {
+        "_uid": "43cfd68423b4",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Max. Betriebsdruck",
+        "value": "8",
+        "unit": "bar",
+        "value_num": 8
+      },
+      {
+        "_uid": "05a85b440944",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Nullförderdruck",
+        "value": "1,76",
+        "unit": "bar",
+        "value_num": 1.76
+      },
+      {
+        "_uid": "410bdff1d674",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "NPSH",
+        "value": "5",
+        "unit": "m",
+        "value_num": 5
+      },
+      {
+        "_uid": "0fd60dbe930c",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Wirkungsgrad",
+        "value": "56,3",
+        "unit": "%",
+        "value_num": 56.3
+      },
+      {
+        "_uid": "25d7fd32b676",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Laufraddurchmesser",
+        "value": "118",
+        "unit": "mm",
+        "value_num": 118
+      },
+      {
+        "_uid": "1487b1876d87",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Motorleistung",
+        "value": "3",
+        "unit": "kW",
+        "value_num": 3
+      },
+      {
+        "_uid": "e4048cb3660f",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Spannung",
+        "value": "230",
+        "unit": "V",
+        "value_num": 230
+      },
+      {
+        "_uid": "565ec11b8503",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Nennspannung (Variante 1)",
+        "value": "230/400",
+        "unit": "V"
+      },
+      {
+        "_uid": "c472c4a8c16c",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Frequenz",
+        "value": "50",
+        "unit": "Hz",
+        "value_num": 50
+      },
+      {
+        "_uid": "246394bf7b52",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Nennstrom",
+        "value": "11,1",
+        "unit": "A",
+        "value_num": 11.1
+      },
+      {
+        "_uid": "a0454d7319a9",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Drehzahl",
+        "value": "2.800",
+        "unit": "min⁻¹",
+        "value_num": 2800
+      },
+      {
+        "_uid": "e92d6b54af01",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Polzahl",
+        "value": "2",
+        "value_num": 2
+      },
+      {
+        "_uid": "dc962bf88de6",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Isolationsklasse",
+        "value": "F"
+      },
+      {
+        "_uid": "7420bc8900aa",
+        "component": "spec_row",
+        "group": "Werkstoffe",
+        "label": "Pumpengehäuse",
+        "value": "Edelstahl AISI 304"
+      },
+      {
+        "_uid": "9bb180ff20b0",
+        "component": "spec_row",
+        "group": "Werkstoffe",
+        "label": "Laufrad",
+        "value": "Edelstahl AISI 304"
+      },
+      {
+        "_uid": "a628057baa34",
+        "component": "spec_row",
+        "group": "Anschlüsse & Abmessungen",
+        "label": "Druckanschluss",
+        "value": "DN 50"
+      }
+    ],
+    "flow_max_m3h": 66,
+    "head_max_m": 17.5,
+    "power_kw": 3,
+    "voltage": "230/400 V",
+    "material": "Edelstahl"
+  }
+}

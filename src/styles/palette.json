@@ -1,0 +1,7 @@
+{
+  "_comment": "Client palette. Edit ONLY these values, then run `npm run tokens`. Sampled from industrialpumps.nl (14 Oct 2026): navy #21234E (logo, headlines), yellow #FCC137 (buttons, rules), sky blue #0984C2 (hero), white page background. Confirm with the client.",
+  "bg":       { "hex": "#FFFFFF", "status": "client", "note": "Page and header background." },
+  "primary":  { "hex": "#21234E", "status": "client", "note": "Navy: text, headlines, logo, dark sections." },
+  "overhaul": { "hex": "#FCC137", "status": "client", "note": "Yellow highlight: buttons, rules, bullets, accents (also the Revision accent)." },
+  "sky":      { "hex": "#0984C2", "status": "client", "note": "Sky blue of the hero photo; white text sits on it." }
+}

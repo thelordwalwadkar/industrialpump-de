@@ -1,0 +1,194 @@
+{
+  "id": 574947890,
+  "uuid": "22450232-65ae-4cf8-7d02-c8b6ba991139",
+  "name": "config",
+  "slug": "config",
+  "full_slug": "config",
+  "content": {
+    "component": "config",
+    "site_name": "Industrial Pump Group",
+    "legal_name": "[[PLATZHALTER: Firmenname (juristisch)]]",
+    "legal_form": "[[PLATZHALTER: Rechtsform]]",
+    "street": "[[PLATZHALTER: Straße und Hausnummer]]",
+    "postal_code": "[[PLATZHALTER: PLZ]]",
+    "city": "[[PLATZHALTER: Ort]]",
+    "country_code": "DE",
+    "phone": "[[PLATZHALTER: Telefon]]",
+    "email": "[[PLATZHALTER: E-Mail]]",
+    "opening_hours": "[[PLATZHALTER: Öffnungszeiten]]",
+    "vat_id": "[[PLATZHALTER: USt-IdNr.]]",
+    "social": "",
+    "map_embed_url": "",
+    "authorised_dealer_brands": "",
+    "default_description": "Industriepumpen für Gebäudetechnik, Wasserversorgung und Entwässerung: Auswahl, Angebot und Revision.",
+    "header_nav": [
+      {
+        "_uid": "d44f39f6f15e",
+        "component": "nav_item",
+        "label": "Pumpen",
+        "link": {
+          "fieldtype": "multilink",
+          "linktype": "story",
+          "id": "0f9d9acd-986f-98c8-3c55-d88ad082a88d",
+          "cached_url": "pumpen",
+          "url": ""
+        }
+      },
+      {
+        "_uid": "c9b8c5864774",
+        "component": "nav_item",
+        "label": "Marken",
+        "link": {
+          "fieldtype": "multilink",
+          "linktype": "story",
+          "id": "2317dd2a-0249-2908-4b7b-4c5438214652",
+          "cached_url": "pumpen/marken",
+          "url": ""
+        }
+      }
+    ],
+    "footer_groups": [
+      {
+        "_uid": "78d2b52db9c6",
+        "component": "nav_group",
+        "label": "Pumpen",
+        "items": [
+          {
+            "_uid": "7e21902de266",
+            "component": "nav_item",
+            "label": "Alle Pumpen",
+            "link": {
+              "fieldtype": "multilink",
+              "linktype": "story",
+              "id": "0f9d9acd-986f-98c8-3c55-d88ad082a88d",
+              "cached_url": "pumpen",
+              "url": ""
+            }
+          },
+          {
+            "_uid": "7cc9971d6162",
+            "component": "nav_item",
+            "label": "Lowara",
+            "link": {
+              "fieldtype": "multilink",
+              "linktype": "story",
+              "id": "85d4a1d8-71af-23ed-0865-30735bb17790",
+              "cached_url": "pumpen/marken/lowara",
+              "url": ""
+            }
+          },
+          {
+            "_uid": "e8f6123f940a",
+            "component": "nav_item",
+            "label": "SAER",
+            "link": {
+              "fieldtype": "multilink",
+              "linktype": "story",
+              "id": "b4486ef9-a88d-67a2-e767-a81f032b5332",
+              "cached_url": "pumpen/marken/saer",
+              "url": ""
+            }
+          },
+          {
+            "_uid": "553b79a5cbd2",
+            "component": "nav_item",
+            "label": "Ebara",
+            "link": {
+              "fieldtype": "multilink",
+              "linktype": "story",
+              "id": "a3549ec7-7200-b09c-92a4-1b8ec5bf2caa",
+              "cached_url": "pumpen/marken/ebara",
+              "url": ""
+            }
+          },
+          {
+            "_uid": "f0dfbcb9c5cf",
+            "component": "nav_item",
+            "label": "Flygt",
+            "link": {
+              "fieldtype": "multilink",
+              "linktype": "story",
+              "id": "f33fbd63-c1cf-b36a-6aa5-8a837dea5efb",
+              "cached_url": "pumpen/marken/flygt",
+              "url": ""
+            }
+          }
+        ]
+      },
+      {
+        "_uid": "3dd2bed2df2b",
+        "component": "nav_group",
+        "label": "Unternehmen",
+        "items": [
+          {
+            "_uid": "466e216f6f02",
+            "component": "nav_item",
+            "label": "Angebot anfordern",
+            "link": {
+              "fieldtype": "multilink",
+              "linktype": "story",
+              "id": "ea6247cb-c6b8-c02a-58ad-686c0db919d5",
+              "cached_url": "angebot",
+              "url": ""
+            }
+          },
+          {
+            "_uid": "4386accca0fa",
+            "component": "nav_item",
+            "label": "Kontakt",
+            "link": {
+              "fieldtype": "multilink",
+              "linktype": "story",
+              "id": "fa84f07b-0766-3634-f3a7-a260447a24c3",
+              "cached_url": "kontakt",
+              "url": ""
+            }
+          }
+        ]
+      },
+      {
+        "_uid": "7c8d91a34ccf",
+        "component": "nav_group",
+        "label": "Rechtliches",
+        "items": [
+          {
+            "_uid": "712ab9e6d74a",
+            "component": "nav_item",
+            "label": "Impressum",
+            "link": {
+              "fieldtype": "multilink",
+              "linktype": "story",
+              "id": "c3be4d4b-41c1-1a55-dd69-ae16a96b51c6",
+              "cached_url": "impressum",
+              "url": ""
+            }
+          },
+          {
+            "_uid": "0e3b9cb5a99d",
+            "component": "nav_item",
+            "label": "Datenschutz",
+            "link": {
+              "fieldtype": "multilink",
+              "linktype": "story",
+              "id": "28a13b77-c693-dff2-cfde-2ecd72c97cdc",
+              "cached_url": "datenschutz",
+              "url": ""
+            }
+          },
+          {
+            "_uid": "921617366d21",
+            "component": "nav_item",
+            "label": "AGB",
+            "link": {
+              "fieldtype": "multilink",
+              "linktype": "story",
+              "id": "81dbb291-2521-f7be-92dd-1c59acbaabe8",
+              "cached_url": "agb",
+              "url": ""
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

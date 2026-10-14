@@ -1,0 +1,23 @@
+---
+/** TDDDG §25: nothing non-essential (analytics, maps, embeds) loads before an explicit opt-in. "Ablehnen" and "Akzeptieren" are equally prominent. */
+---
+<div class="consent" id="consent" role="dialog" aria-labelledby="consent-title" aria-modal="false" hidden>
+  <div class="inner">
+    <p id="consent-title"><strong>Cookies und externe Inhalte.</strong> Diese Website setzt nur technisch notwendige Speicherungen ein. Externe Inhalte wie Karten laden wir erst nach Ihrer Einwilligung. Details finden Sie in der <a href="/datenschutz">Datenschutzerklärung</a>.</p>
+    <div class="btn-row">
+      <button type="button" class="btn btn--ghost" data-consent="essential">Ablehnen</button>
+      <button type="button" class="btn btn--ghost" data-consent="all">Akzeptieren</button>
+    </div>
+  </div>
+</div>
+<script>
+  const KEY = 'ipd-consent';
+  const banner = document.getElementById('consent');
+  const read = (): string | null => { try { return localStorage.getItem(KEY); } catch { return null; } };
+  const write = (v: string) => { try { localStorage.setItem(KEY, v); } catch { /* storage blocked: choice is kept for this page view only */ } };
+  const apply = (v: string) => { document.documentElement.dataset.consent = v; document.dispatchEvent(new CustomEvent('consent-changed', { detail: v })); };
+  const stored = read();
+  if (stored) apply(stored); else if (banner) banner.hidden = false;
+  banner?.querySelectorAll<HTMLButtonElement>('[data-consent]').forEach((b) => b.addEventListener('click', () => { const v = b.dataset.consent!; write(v); apply(v); banner.hidden = true; }));
+  document.querySelectorAll('[data-consent-open]').forEach((b) => b.addEventListener('click', () => { if (banner) { banner.hidden = false; (banner.querySelector('button') as HTMLButtonElement | null)?.focus(); } }));
+</script>

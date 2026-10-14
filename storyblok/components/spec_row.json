@@ -1,0 +1,56 @@
+{
+  "component": {
+    "name": "spec_row",
+    "display_name": "Datenzeile",
+    "is_root": false,
+    "is_nestable": true,
+    "schema": {
+      "group": {
+        "type": "option",
+        "source": "self",
+        "options": [
+          {
+            "name": "Hydraulik",
+            "value": "Hydraulik"
+          },
+          {
+            "name": "Motor/Elektrik",
+            "value": "Motor/Elektrik"
+          },
+          {
+            "name": "Werkstoffe",
+            "value": "Werkstoffe"
+          },
+          {
+            "name": "Anschlüsse & Abmessungen",
+            "value": "Anschlüsse & Abmessungen"
+          }
+        ],
+        "description": "Gruppe.",
+        "pos": 0
+      },
+      "label": {
+        "type": "text",
+        "description": "Merkmal.",
+        "required": true,
+        "pos": 1
+      },
+      "value": {
+        "type": "text",
+        "description": "Angezeigter Wert (deutsches Zahlenformat, z. B. „7,5“).",
+        "required": true,
+        "pos": 2
+      },
+      "unit": {
+        "type": "text",
+        "description": "Einheit, z. B. „kW“.",
+        "pos": 3
+      },
+      "value_num": {
+        "type": "number",
+        "description": "Maschinenlesbarer Wert (Punkt als Dezimaltrenner) für das Schema. Leer lassen bei Text.",
+        "pos": 4
+      }
+    }
+  }
+}

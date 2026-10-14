@@ -1,0 +1,156 @@
+{
+  "id": 398166283,
+  "uuid": "17bb890b-552f-4f44-567f-f89f204a86d9",
+  "name": "Pumpenrevision",
+  "slug": "service-revision",
+  "full_slug": "__fixtures__/service-revision",
+  "content": {
+    "component": "page_service",
+    "service_kind": "revision",
+    "service_type": "Pumpenrevision",
+    "h1": "Pumpenrevision",
+    "nav_title": "Pumpenrevision",
+    "seo_title": "Pumpenrevision: Ablauf und Leistungsumfang",
+    "seo_description": "Fixture für das Leistungs-Template (Revision): Ablauf als nummerierte Schrittfolge, Leistungsumfang, abgedeckte Marken und FAQ.",
+    "intro": "Eine Revision stellt eine gebrauchte Pumpe instand, statt sie zu ersetzen. Diese Seite prüft das Leistungs-Template in der Overhaul-Farbe.",
+    "steps": [
+      {
+        "_uid": "rev-steps",
+        "component": "steps",
+        "heading": "Ablauf der Revision",
+        "items": [
+          {
+            "_uid": "rev-s1",
+            "component": "step",
+            "title": "Typenschild und Zustand erfassen",
+            "text": "Sie senden uns Typenschild und Fotos der Pumpe."
+          },
+          {
+            "_uid": "rev-s2",
+            "component": "step",
+            "title": "Prüfung",
+            "text": "Wir prüfen den Zustand und legen den Umfang fest."
+          },
+          {
+            "_uid": "rev-s3",
+            "component": "step",
+            "title": "Angebot",
+            "text": "Sie erhalten ein Angebot für die Instandsetzung."
+          }
+        ]
+      }
+    ],
+    "included": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Prüfung der Pumpe"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Austausch von Verschleißteilen"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Funktionsprüfung"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "covered": [
+      {
+        "_uid": "cov-rel",
+        "component": "related_links",
+        "heading": "Abgedeckte Marken",
+        "links": [
+          {
+            "_uid": "cov-l0",
+            "component": "link_item",
+            "label": "Lowara Pumpen",
+            "link": {
+              "fieldtype": "multilink",
+              "linktype": "story",
+              "id": "85d4a1d8-71af-23ed-0865-30735bb17790",
+              "cached_url": "pumpen/marken/lowara",
+              "url": ""
+            }
+          },
+          {
+            "_uid": "cov-l1",
+            "component": "link_item",
+            "label": "Ebara Pumpen",
+            "link": {
+              "fieldtype": "multilink",
+              "linktype": "story",
+              "id": "a3549ec7-7200-b09c-92a4-1b8ec5bf2caa",
+              "cached_url": "pumpen/marken/ebara",
+              "url": ""
+            }
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "_uid": "rev-faq",
+        "component": "faq",
+        "heading": "Häufige Fragen",
+        "items": [
+          {
+            "_uid": "rev-q1",
+            "component": "faq_item",
+            "question": "Wie wähle ich die richtige Größe?",
+            "answer": "Anhand von Förderstrom, Förderhöhe und Medium. Das Typenschild der vorhandenen Pumpe genügt für eine erste Einschätzung."
+          },
+          {
+            "_uid": "rev-q2",
+            "component": "faq_item",
+            "question": "Ist eine Revision möglich?",
+            "answer": "Das hängt von Serie, Baujahr und Zustand ab. Wir prüfen es nach Eingang der Typenschilddaten."
+          },
+          {
+            "_uid": "rev-q3",
+            "component": "faq_item",
+            "question": "Welche Unterlagen benötigen Sie?",
+            "answer": "Typenschild oder Foto, Betriebsdaten und das Fördermedium."
+          }
+        ]
+      }
+    ]
+  }
+}

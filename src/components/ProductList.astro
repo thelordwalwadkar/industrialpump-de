@@ -1,0 +1,69 @@
+---
+/** Produktliste der Serie. Filter werden aus den Feldern der Produkt-Stories gebaut; ohne JavaScript bleibt die volle Liste sichtbar. */
+import type { PageProduct, PageStory } from '../lib/types';
+import { fmtNumber } from '../lib/format';
+import { pathOf } from '../lib/storyblok';
+interface Props { products: PageStory<PageProduct>[] }
+const { products } = Astro.props;
+const rows = products.map((p) => ({
+  href: pathOf(p), name: p.content.name, article: p.content.article_number,
+  power: Number(p.content.power_kw ?? NaN), flow: Number(p.content.flow_max_m3h ?? NaN), head: Number(p.content.head_max_m ?? NaN),
+  voltage: p.content.voltage ?? '', material: p.content.material ?? '',
+}));
+const uniq = (key: 'voltage' | 'material') => [...new Set(rows.map((r) => r[key]).filter(Boolean))].sort();
+const showFilters = rows.length >= 2;
+const num = (n: number) => (Number.isNaN(n) ? '' : String(n));
+---
+{showFilters && (
+  <form class="filters" data-filters aria-label="Produkte filtern" onsubmit="return false">
+    <label>Leistung bis (kW)<input type="number" step="0.01" min="0" name="power" inputmode="decimal" /></label>
+    <label>Förderstrom ab (m³/h)<input type="number" step="0.1" min="0" name="flow" inputmode="decimal" /></label>
+    <label>Förderhöhe ab (m)<input type="number" step="0.1" min="0" name="head" inputmode="decimal" /></label>
+    {uniq('voltage').length > 0 && <label>Spannung<select name="voltage"><option value="">Alle</option>{uniq('voltage').map((v) => <option value={v}>{v}</option>)}</select></label>}
+    {uniq('material').length > 0 && <label>Werkstoff<select name="material"><option value="">Alle</option>{uniq('material').map((v) => <option value={v}>{v}</option>)}</select></label>}
+    <p class="muted" data-filter-count aria-live="polite" style="align-self:end;margin:0"></p>
+  </form>
+)}
+<div class="spec-wrap" tabindex="0" role="region" aria-label="Produktliste">
+  <table class="spec" data-product-table>
+    <thead>
+      <tr><th scope="col">Artikel</th><th scope="col">Leistung</th><th scope="col">Förderstrom max.</th><th scope="col">Förderhöhe max.</th><th scope="col">Spannung</th><th scope="col">Werkstoff</th></tr>
+    </thead>
+    <tbody>
+      {rows.map((r) => (
+        <tr data-power={num(r.power)} data-flow={num(r.flow)} data-head={num(r.head)} data-voltage={r.voltage} data-material={r.material}>
+          <th scope="row"><a href={r.href}>{r.name}</a></th>
+          <td>{fmtNumber(r.power, 2) ? `${fmtNumber(r.power, 2)} kW` : '–'}</td>
+          <td>{fmtNumber(r.flow) ? `${fmtNumber(r.flow)} m³/h` : '–'}</td>
+          <td>{fmtNumber(r.head) ? `${fmtNumber(r.head)} m` : '–'}</td>
+          <td>{r.voltage || '–'}</td>
+          <td>{r.material || '–'}</td>
+        </tr>
+      ))}
+    </tbody>
+  </table>
+</div>
+<script>
+  const form = document.querySelector<HTMLFormElement>('[data-filters]');
+  const table = document.querySelector<HTMLTableElement>('[data-product-table]');
+  if (form && table) {
+    const rows = [...table.tBodies[0]!.rows];
+    const count = form.querySelector<HTMLElement>('[data-filter-count]');
+    const val = (n: string) => (form.elements.namedItem(n) as HTMLInputElement | null)?.value ?? '';
+    const apply = () => {
+      const power = parseFloat(val('power')), flow = parseFloat(val('flow')), head = parseFloat(val('head')), voltage = val('voltage'), material = val('material');
+      let shown = 0;
+      for (const r of rows) {
+        const d = r.dataset;
+        const ok = (Number.isNaN(power) || (d.power !== '' && parseFloat(d.power!) <= power))
+          && (Number.isNaN(flow) || (d.flow !== '' && parseFloat(d.flow!) >= flow))
+          && (Number.isNaN(head) || (d.head !== '' && parseFloat(d.head!) >= head))
+          && (!voltage || d.voltage === voltage) && (!material || d.material === material);
+        r.hidden = !ok;
+        if (ok) shown++;
+      }
+      if (count) count.textContent = `${shown} von ${rows.length} Artikeln`;
+    };
+    form.addEventListener('input', apply);
+  }
+</script>

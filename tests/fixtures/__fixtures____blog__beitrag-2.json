@@ -1,0 +1,65 @@
+{
+  "id": 3257317554,
+  "uuid": "c226b8b2-9a7d-e1ea-2e26-0f948c9d5173",
+  "name": "Gleitringdichtung prüfen",
+  "slug": "beitrag-2",
+  "full_slug": "__fixtures__/blog/beitrag-2",
+  "content": {
+    "component": "page_blog_post",
+    "h1": "Gleitringdichtung prüfen",
+    "nav_title": "Gleitringdichtung prüfen",
+    "seo_title": "Gleitringdichtung prüfen: Hinweise aus der Praxis",
+    "seo_description": "Fixture-Beitrag 2 für das Blog-Template mit Autor, Datum und verwandten Beiträgen.",
+    "intro": "Kurze Antwort auf die Kernfrage von Beitrag 2. Diese Seite prüft das Blog-Template.",
+    "article": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "heading",
+          "attrs": {
+            "level": 2
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Ausgangslage"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Fließtext des Beitrags."
+            }
+          ]
+        }
+      ]
+    },
+    "related": [
+      {
+        "_uid": "bp1-rel",
+        "component": "related_links",
+        "heading": "Weiterlesen",
+        "links": [
+          {
+            "_uid": "bp1-l0",
+            "component": "link_item",
+            "label": "Pumpenrevision",
+            "link": {
+              "fieldtype": "multilink",
+              "linktype": "story",
+              "id": "17bb890b-552f-4f44-567f-f89f204a86d9",
+              "cached_url": "__fixtures__/service-revision",
+              "url": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "created_at": "2026-02-11T08:00:00.000Z",
+  "first_published_at": "2026-02-11T08:00:00.000Z",
+  "published_at": "2026-02-11T08:00:00.000Z"
+}

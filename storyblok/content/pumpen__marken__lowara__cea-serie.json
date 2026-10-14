@@ -1,0 +1,179 @@
+{
+  "id": 1468623213,
+  "uuid": "5789696d-116b-3602-898d-476747655377",
+  "name": "CEA-Serie",
+  "slug": "cea-serie",
+  "full_slug": "pumpen/marken/lowara/cea-serie",
+  "position": 4,
+  "content": {
+    "component": "page_series",
+    "series_name": "CEA",
+    "h1": "Lowara CEA-Serie – Edelstahl-Blockpumpen für Wasserversorgung",
+    "nav_title": "CEA-Serie",
+    "seo_title": "Lowara CEA-Serie: Edelstahl-Blockpumpen",
+    "seo_description": "Lowara CEA und CEAM: Blockpumpen aus Edelstahl AISI 304 oder 316 für Wasserversorgung und Gebäudetechnik. Kennbereiche, Angebot anfordern.",
+    "intro": "Die Lowara CEA-Serie umfasst Blockpumpen mit Hydraulik aus Edelstahl AISI 304 oder AISI 316 für Wasserverteilung, Gebäudetechnik und gewerbliche Anwendungen. Die Pumpen fördern bei mäßigen Förderhöhen und laufen leise.",
+    "pump_type": "blockpumpen",
+    "segments": [
+      "gebaeudetechnik-hvac",
+      "wasseraufbereitung",
+      "wassertransport"
+    ],
+    "applications": [],
+    "use_case_line": "Blockpumpen aus Edelstahl für Wasserversorgung und Gebäudetechnik",
+    "body_text": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Die CEA-Serie (mit der Variante CEAM) besteht aus Kreiselpumpen in Blockbauweise, bei denen der Motor direkt an die Pumpe angeflanscht ist. Der Katalog nennt Edelstahl AISI 304 oder AISI 316 als Werkstoff, der die Pumpen korrosionsbeständig und langlebig macht."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Typische Aufgaben sind die Wasserverteilung, die Wasserversorgung von Gebäuden und gewerbliche Anwendungen mit konstantem Druck. Die Pumpen sind laut Hersteller auf laufruhigen, schwingungsarmen Betrieb ausgelegt. Es gibt Ausführungen mit unterschiedlichen Förderströmen und Förderhöhen."
+            }
+          ]
+        }
+      ]
+    },
+    "highlights": "Blockbauweise, Motor direkt angeflanscht\nEdelstahl AISI 304 oder AISI 316 (Katalogangabe)\nFörderhöhe bis 30 m (Katalogangabe)\nWasserverteilung und Gebäudeversorgung",
+    "image_source": "/Images/ipg_ecom/Lowara/Lowara-CEA.jpg",
+    "image": {
+      "filename": "/img/products/lowara-cea.webp",
+      "alt": "Lowara CEA-Serie"
+    },
+    "flow_max_m3h": 31.2,
+    "head_max_m": 36.3,
+    "power_min_kw": 0.37,
+    "power_max_kw": 3,
+    "catalogue_count": 45,
+    "body": [
+      {
+        "_uid": "87bb54161fcc",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Auswahlhinweise für Blockpumpen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bei Blockpumpen ist der Motor direkt an die Pumpe angeflanscht. Das spart Platz und vereinfacht die Aufstellung; Motor und Hydraulik werden als Einheit ausgewählt."
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Betriebspunkt: Er ergibt sich aus dem Schnittpunkt von Pumpen- und Anlagenkennlinie und sollte in der Nähe des Bestpunkts liegen."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "NPSH: Der NPSH-Wert der Anlage muss den NPSH-Bedarf der Pumpe mit Sicherheitszuschlag übersteigen, sonst droht Kavitation."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Medium: Werkstoff und Wellendichtung müssen zu Temperatur und Zusammensetzung des Mediums passen."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ersatz: Beim Austausch sind Anschlussmaße, Drehzahl und elektrische Daten des Typenschilds maßgeblich."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "faq": [
+      {
+        "_uid": "fd820ad87021",
+        "component": "faq",
+        "heading": "Häufige Fragen zur CEA-Serie",
+        "items": [
+          {
+            "_uid": "17dc1406c976",
+            "component": "faq_item",
+            "question": "Wie finde ich den passenden Artikel der CEA-Serie?",
+            "answer": "Senden Sie uns das Typenschild Ihrer vorhandenen Pumpe oder Ihre Betriebsdaten: Förderstrom, Förderhöhe, Medium und Temperatur. Daraus ordnen wir den passenden Artikel der CEA-Serie zu."
+          },
+          {
+            "_uid": "e099efd550d9",
+            "component": "faq_item",
+            "question": "Sind Ersatzteile und eine Revision für die CEA-Serie möglich?",
+            "answer": "Ersatzteile und die Revision von Lowara-Pumpen können Sie über das Angebotsformular anfragen. Welche Teile im Einzelfall verfügbar sind, hängt von Baujahr und Ausführung ab."
+          },
+          {
+            "_uid": "adc2ed86a5e9",
+            "component": "faq_item",
+            "question": "Wie lang ist die Lieferzeit für Artikel der CEA-Serie?",
+            "answer": "[[PLATZHALTER: Lieferzeit Lowara CEA]]"
+          }
+        ]
+      }
+    ]
+  }
+}

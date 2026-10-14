@@ -1,0 +1,15 @@
+{
+  "component": {
+    "name": "logo_strip",
+    "display_name": "Marken-Leiste",
+    "is_root": false,
+    "is_nestable": true,
+    "schema": {
+      "heading": {
+        "type": "text",
+        "description": "Überschrift. Die Marken kommen automatisch aus den Marken-Seiten.",
+        "pos": 0
+      }
+    }
+  }
+}

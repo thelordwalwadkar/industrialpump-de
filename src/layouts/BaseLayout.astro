@@ -1,0 +1,46 @@
+---
+import '@fontsource/barlow/latin-400.css';
+import '@fontsource/barlow/latin-600.css';
+import '@fontsource/barlow/latin-700.css';
+import '@fontsource/barlow/latin-800.css';
+import '../styles/tokens.css';
+import '../styles/global.css';
+import type { Graph } from 'schema-dts';
+import type { SeoMeta } from '../lib/types';
+import type { Site } from '../lib/storyblok';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import CookieBanner from '../components/CookieBanner.astro';
+
+interface Props { seo: SeoMeta; graph?: Graph; site: Site; section?: 'revision'; minimal?: boolean; currentPath?: string }
+const { seo, graph, site, section, minimal = false, currentPath } = Astro.props;
+// "<" is escaped so a stray "</script>" in content can never break out of the JSON-LD block.
+const jsonLd = graph ? JSON.stringify(graph).replace(/</g, '\\u003c') : undefined;
+---
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{seo.title}</title>
+    <meta name="description" content={seo.description} />
+    <link rel="canonical" href={seo.canonical} />
+    {seo.noindex && <meta name="robots" content="noindex, nofollow" />}
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <meta property="og:locale" content="de_DE" />
+    <meta property="og:site_name" content={site.config.site_name} />
+    <meta property="og:type" content={seo.ogType} />
+    <meta property="og:title" content={seo.title} />
+    <meta property="og:description" content={seo.description} />
+    <meta property="og:url" content={seo.canonical} />
+    <meta name="twitter:card" content="summary" />
+    {jsonLd && <script type="application/ld+json" set:html={jsonLd} />}
+  </head>
+  <body data-section={section}>
+    <a class="skip" href="#main">Zum Inhalt springen</a>
+    <Header site={site} currentPath={currentPath} minimal={minimal} />
+    <main id="main"><slot /></main>
+    <Footer site={site} minimal={minimal} />
+    <CookieBanner />
+  </body>
+</html>

@@ -1,0 +1,61 @@
+---
+/** T4 · page_brand — Intro · Serien-Raster · Einsatzbereiche · Revision (Overhaul-Farbe) · FAQ · CTA. Ein Template für jede Marke. */
+import type { PageBrand, PageStory } from '../lib/types';
+import type { Site } from '../lib/storyblok';
+import { brandTopics, quoteHref, seriesChildren, cardFor, siblingBrands } from '../lib/linking';
+import PageHead from '../components/PageHead.astro';
+import RichTextHtml from '../components/RichTextHtml.astro';
+import LinkCards from '../components/LinkCards.astro';
+import FaqList from '../components/FaqList.astro';
+import QuoteCta from '../components/QuoteCta.astro';
+import Bloks from '../components/Bloks.astro';
+interface Props { story: PageStory<PageBrand>; site: Site }
+const { story, site } = Astro.props;
+const c = story.content;
+const series = seriesChildren(site, story).map((s) => cardFor(s, site));
+const topics = brandTopics(site, story);
+const siblings = siblingBrands(site, story);
+const revisionHref = quoteHref(site, story, 'revision');
+const quote = quoteHref(site, story);
+---
+<PageHead story={story} site={site} h1={c.h1 || story.name} intro={c.intro}>
+  {c.logo?.filename && <div class="brand-chip"><img src={c.logo.filename} width="240" height="108" alt={c.brand_name} /></div>}
+</PageHead>
+<section class="section"><div class="wrap"><RichTextHtml doc={c.body_text} /></div></section>
+
+<section class="section" aria-labelledby="serien">
+  <div class="wrap">
+    <h2 id="serien">Serien von {c.brand_name}</h2>
+    <LinkCards cards={series} />
+  </div>
+</section>
+
+{topics.length > 0 && (
+  <section class="section" aria-labelledby="einsatz">
+    <div class="wrap">
+      <h2 id="einsatz">Typische Einsatzbereiche</h2>
+      <ul class="ticks">
+        {topics.map((t) => <li>{t.exists ? <a href={t.term.path}>{t.term.label}</a> : t.term.label} <span class="muted">({t.kind})</span></li>)}
+      </ul>
+    </div>
+  </section>
+)}
+
+<section class="section section--band" data-accent="overhaul" aria-labelledby="revision">
+  <div class="wrap">
+    <h2 id="revision">Revision von {c.brand_name}-Pumpen</h2>
+    <p>{c.revision_text}</p>
+    <div class="btn-row"><a class="btn" href={revisionHref}>Revision anfragen</a></div>
+  </div>
+</section>
+
+<Bloks bloks={c.body} site={site} />
+<div class="wrap"><FaqList faqs={c.faq} /></div>
+
+{siblings.length > 0 && (
+  <section class="section" aria-labelledby="weitere-marken">
+    <div class="wrap"><h2 id="weitere-marken">Weitere Marken</h2><LinkCards cards={siblings} variant="cards" /></div>
+  </section>
+)}
+<div class="wrap"><QuoteCta heading={`Angebot für ${c.brand_name}-Pumpen anfordern`} text="Senden Sie uns Typenschild oder Betriebsdaten. Wir prüfen, welche Serie Ihren Förderstrom und Ihre Förderhöhe abdeckt." label="Angebot anfordern" href={quote} /></div>
+<Bloks bloks={c.cta} site={site} />

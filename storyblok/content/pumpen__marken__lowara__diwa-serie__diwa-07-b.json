@@ -1,0 +1,203 @@
+{
+  "id": 2735601491,
+  "uuid": "a30df753-8012-a94b-3eda-975ee09c0a2f",
+  "name": "DIWA 07/B",
+  "slug": "diwa-07-b",
+  "full_slug": "pumpen/marken/lowara/diwa-serie/diwa-07-b",
+  "position": 0,
+  "content": {
+    "component": "page_product",
+    "article_number": "DIWA 07/B",
+    "name": "DIWA 07/B",
+    "nav_title": "DIWA 07/B",
+    "h1": "Lowara DIWA 07/B – Tauchmotorpumpe für leicht verschmutztes Wasser",
+    "seo_title": "Lowara DIWA 07/B – Tauchmotorpumpe",
+    "seo_description": "Lowara DIWA 07/B: Tauchmotorpumpe der DIWA-Serie. Motorleistung 0,75 kW, Förderstrom bis 19,5 m³/h, Förderhöhe bis 11,2 m. Angebot anfordern.",
+    "intro": "Die Lowara DIWA 07/B ist eine Tauchmotorpumpe der DIWA-Serie für leicht verschmutztes Wasser.",
+    "short_description": "Die Lowara DIWA 07/B ist eine Tauchmotorpumpe der DIWA-Serie für leicht verschmutztes Wasser. Laut Katalogdaten hat dieser Artikel eine Motorleistung von 0,75 kW, einen Förderstrom bis 19,5 m³/h und eine Förderhöhe bis 11,2 m. Sie arbeitet tragbar oder fest installiert und schaltet bei Ausführungen mit Schwimmerschalter selbsttätig. Für die Auslegung im Bestand senden Sie uns Typenschild oder Betriebsdaten; wir prüfen, ob die DIWA 07/B Ihre Fördermenge und Förderhöhe abdeckt. Maßgeblich sind die Angaben im Datenblatt des Herstellers.",
+    "image_source": "/Images/ipg_ecom/Lowara/Lowara-DIWA.jpg",
+    "image": {
+      "filename": "/img/products/lowara-diwa.webp",
+      "alt": "Lowara DIWA 07/B"
+    },
+    "internal_item_number": "26-107680020",
+    "key_facts": [
+      {
+        "_uid": "6f0e5f2a0d96",
+        "component": "key_fact",
+        "label": "Förderstrom max.",
+        "value": "19,5",
+        "unit": "m³/h"
+      },
+      {
+        "_uid": "4004c95e6d0f",
+        "component": "key_fact",
+        "label": "Förderhöhe max.",
+        "value": "11,2",
+        "unit": "m"
+      },
+      {
+        "_uid": "33c3669696ba",
+        "component": "key_fact",
+        "label": "Motorleistung",
+        "value": "0,75",
+        "unit": "kW"
+      },
+      {
+        "_uid": "b1d91ffce19b",
+        "component": "key_fact",
+        "label": "Spannung",
+        "value": "230",
+        "unit": "V"
+      }
+    ],
+    "specs": [
+      {
+        "_uid": "caf704188d00",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderstrom min.",
+        "value": "6",
+        "unit": "m³/h",
+        "value_num": 6
+      },
+      {
+        "_uid": "fdbe8082df18",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderstrom max.",
+        "value": "19,5",
+        "unit": "m³/h",
+        "value_num": 19.5
+      },
+      {
+        "_uid": "b1993b5e1893",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderhöhe max.",
+        "value": "11,2",
+        "unit": "m",
+        "value_num": 11.2
+      },
+      {
+        "_uid": "54b1f972caa1",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderhöhe min.",
+        "value": "3,9",
+        "unit": "m",
+        "value_num": 3.9
+      },
+      {
+        "_uid": "3985d7ff88e4",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Laufradform",
+        "value": "Geschlossenes Kanalrad"
+      },
+      {
+        "_uid": "3cbfa7c27340",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Motorleistung",
+        "value": "0,75",
+        "unit": "kW",
+        "value_num": 0.75
+      },
+      {
+        "_uid": "70981d8b933b",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Spannung",
+        "value": "230",
+        "unit": "V",
+        "value_num": 230
+      },
+      {
+        "_uid": "efc5053028fd",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Nennspannung (Variante 1)",
+        "value": "220–240",
+        "unit": "V"
+      },
+      {
+        "_uid": "eb382cb14b53",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Frequenz",
+        "value": "50",
+        "unit": "Hz",
+        "value_num": 50
+      },
+      {
+        "_uid": "f56e3c319fa4",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Phasen",
+        "value": "1",
+        "value_num": 1
+      },
+      {
+        "_uid": "5e31eebffe0c",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Nennstrom",
+        "value": "6,2",
+        "unit": "A",
+        "value_num": 6.2
+      },
+      {
+        "_uid": "c2312cd607c9",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Drehzahl",
+        "value": "2.850",
+        "unit": "min⁻¹",
+        "value_num": 2850
+      },
+      {
+        "_uid": "42bd999ea729",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Motortyp",
+        "value": "75M712"
+      },
+      {
+        "_uid": "b9e05693df61",
+        "component": "spec_row",
+        "group": "Werkstoffe",
+        "label": "Pumpengehäuse",
+        "value": "Gusseisen"
+      },
+      {
+        "_uid": "8c48cbda88ab",
+        "component": "spec_row",
+        "group": "Werkstoffe",
+        "label": "Gehäuse, Werkstoffangabe",
+        "value": "Gusseisen EN-GJL-250"
+      },
+      {
+        "_uid": "11f95ebc4f75",
+        "component": "spec_row",
+        "group": "Werkstoffe",
+        "label": "Laufrad",
+        "value": "Gusseisen"
+      },
+      {
+        "_uid": "5d9043b82260",
+        "component": "spec_row",
+        "group": "Anschlüsse & Abmessungen",
+        "label": "Gewicht",
+        "value": "14,2",
+        "unit": "kg",
+        "value_num": 14.2
+      }
+    ],
+    "flow_max_m3h": 19.5,
+    "head_max_m": 11.2,
+    "power_kw": 0.75,
+    "voltage": "230 V",
+    "material": "Gusseisen"
+  }
+}

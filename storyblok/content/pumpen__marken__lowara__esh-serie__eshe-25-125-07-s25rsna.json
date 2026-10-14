@@ -1,0 +1,182 @@
+{
+  "id": 1520702862,
+  "uuid": "5aa4158e-edbb-d798-c7b6-6afc876bf9c6",
+  "name": "ESHE 25-125/07/S25RSNA",
+  "slug": "eshe-25-125-07-s25rsna",
+  "full_slug": "pumpen/marken/lowara/esh-serie/eshe-25-125-07-s25rsna",
+  "position": 0,
+  "content": {
+    "component": "page_product",
+    "article_number": "ESHE 25-125/07/S25RSNA",
+    "name": "ESHE 25-125/07/S25RSNA",
+    "nav_title": "ESHE 25-125/07/S25RSNA",
+    "h1": "Lowara ESHE 25-125/07/S25RSNA – Kreiselpumpe für Druckerhöhung und Wasserversorgung",
+    "seo_title": "Lowara ESHE 25-125/07/S25RSNA – Kreiselpumpe",
+    "seo_description": "Lowara ESHE 25-125/07/S25RSNA: Kreiselpumpe der ESH-Serie. Motorleistung 0,75 kW, Förderstrom bis 21 m³/h, Förderhöhe bis 14,6 m. Angebot anfordern.",
+    "intro": "Die Lowara ESHE 25-125/07/S25RSNA ist eine Kreiselpumpe der ESH-Serie für Druckerhöhung und Wasserversorgung.",
+    "short_description": "Die Lowara ESHE 25-125/07/S25RSNA ist eine Kreiselpumpe der ESH-Serie für Druckerhöhung und Wasserversorgung. Laut Katalogdaten hat dieser Artikel eine Motorleistung von 0,75 kW, einen Förderstrom bis 21 m³/h und eine Förderhöhe bis 14,6 m. Für die Auslegung im Bestand senden Sie uns Typenschild oder Betriebsdaten; wir prüfen, ob die ESHE 25-125/07/S25RSNA Ihre Fördermenge und Förderhöhe abdeckt. Maßgeblich sind die Angaben im Datenblatt des Herstellers.",
+    "image_source": "/Images/ipg_ecom/Lowara/Lowara-ESHE.jpg",
+    "image": {
+      "filename": "/img/products/lowara-eshe.webp",
+      "alt": "Lowara ESHE 25-125/07/S25RSNA"
+    },
+    "internal_item_number": "26-101860000",
+    "key_facts": [
+      {
+        "_uid": "cb6fe8b0624c",
+        "component": "key_fact",
+        "label": "Förderstrom max.",
+        "value": "21",
+        "unit": "m³/h"
+      },
+      {
+        "_uid": "b2ab5d09c53d",
+        "component": "key_fact",
+        "label": "Förderhöhe max.",
+        "value": "14,6",
+        "unit": "m"
+      },
+      {
+        "_uid": "5ee3c4e5d548",
+        "component": "key_fact",
+        "label": "Motorleistung",
+        "value": "0,75",
+        "unit": "kW"
+      },
+      {
+        "_uid": "f6092cb506d8",
+        "component": "key_fact",
+        "label": "Spannung",
+        "value": "220–240",
+        "unit": "V"
+      }
+    ],
+    "specs": [
+      {
+        "_uid": "a77e3dd1c25a",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderstrom min.",
+        "value": "8",
+        "unit": "m³/h",
+        "value_num": 8
+      },
+      {
+        "_uid": "6ac29c90d1a4",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderstrom max.",
+        "value": "21",
+        "unit": "m³/h",
+        "value_num": 21
+      },
+      {
+        "_uid": "840dcd9eeae2",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderhöhe max.",
+        "value": "14,6",
+        "unit": "m",
+        "value_num": 14.6
+      },
+      {
+        "_uid": "f0265577f2a8",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderhöhe min.",
+        "value": "5,9",
+        "unit": "m",
+        "value_num": 5.9
+      },
+      {
+        "_uid": "d93161fe74c3",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Motorleistung",
+        "value": "0,75",
+        "unit": "kW",
+        "value_num": 0.75
+      },
+      {
+        "_uid": "8614fb51dfcf",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Nennspannung (Variante 1)",
+        "value": "220–240",
+        "unit": "V"
+      },
+      {
+        "_uid": "82852e647526",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Nennspannung (Variante 2)",
+        "value": "380–415",
+        "unit": "V"
+      },
+      {
+        "_uid": "cea314955ba4",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Frequenz",
+        "value": "50",
+        "unit": "Hz",
+        "value_num": 50
+      },
+      {
+        "_uid": "ac9be18b9e57",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Phasen",
+        "value": "3",
+        "value_num": 3
+      },
+      {
+        "_uid": "822c6bceec71",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Nennstrom (Variante 1)",
+        "value": "2,96",
+        "unit": "A",
+        "value_num": 2.96
+      },
+      {
+        "_uid": "d807e9728437",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Nennstrom (Variante 2)",
+        "value": "1,71",
+        "unit": "A",
+        "value_num": 1.71
+      },
+      {
+        "_uid": "d84a58454644",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Drehzahl",
+        "value": "2.900",
+        "unit": "min⁻¹",
+        "value_num": 2900
+      },
+      {
+        "_uid": "d73ac06b5065",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Motortyp",
+        "value": "SM80.../307 E3"
+      },
+      {
+        "_uid": "9a1d64e6df94",
+        "component": "spec_row",
+        "group": "Anschlüsse & Abmessungen",
+        "label": "Gewicht",
+        "value": "17,3",
+        "unit": "kg",
+        "value_num": 17.3
+      }
+    ],
+    "flow_max_m3h": 21,
+    "head_max_m": 14.6,
+    "power_kw": 0.75,
+    "voltage": "230/400 V"
+  }
+}

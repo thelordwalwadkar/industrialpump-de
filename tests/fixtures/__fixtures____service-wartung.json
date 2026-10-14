@@ -1,0 +1,31 @@
+{
+  "id": 1716202302,
+  "uuid": "664b2b3e-9505-1d9b-a31a-63e40affc498",
+  "name": "Vorbeugende Wartung",
+  "slug": "service-wartung",
+  "full_slug": "__fixtures__/service-wartung",
+  "content": {
+    "component": "page_service",
+    "service_kind": "wartung",
+    "service_type": "Vorbeugende Wartung",
+    "h1": "Vorbeugende Wartung",
+    "nav_title": "Vorbeugende Wartung",
+    "seo_title": "Vorbeugende Wartung für Pumpen",
+    "seo_description": "Fixture für das Leistungs-Template (Wartung) in der Primärfarbe: Intro, Leistungsumfang und CTA.",
+    "intro": "Vorbeugende Wartung erkennt Verschleiß, bevor die Pumpe ausfällt. Diese Seite prüft das Leistungs-Template in der Primärfarbe.",
+    "included": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Regelmäßige Inspektion und Austausch von Verschleißteilen."
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 2425913289,
+  "uuid": "90987fc9-d179-4e1a-d982-e510a2d2dcaf",
+  "name": "TP 300",
+  "slug": "tp-300",
+  "full_slug": "__fixtures__/pumpen/marken/testmarke/testserie-serie/tp-300",
+  "content": {
+    "component": "page_product",
+    "article_number": "TP 300",
+    "name": "TP 300",
+    "nav_title": "TP 300",
+    "h1": "Testmarke TP 300 – Tauchmotorpumpe für Test",
+    "seo_title": "Testmarke TP 300 – Tauchmotorpumpe",
+    "seo_description": "Fixture-Produkt TP 300 mit Leistung, Förderstrom und Förderhöhe.",
+    "intro": "Die Testmarke TP 300 ist ein Fixture-Produkt.",
+    "short_description": "Die Testmarke TP 300 ist eine Tauchmotorpumpe der Testserie für Template-Tests. Sie hat eine Motorleistung von 2.2 kW. Dieser Text prüft die Kurzbeschreibung, die Kennwert-Leiste, die gruppierte Datentabelle und die Verknüpfung zu Serie und Marke. Für die Auslegung im Bestand senden Sie uns Typenschild oder Betriebsdaten.",
+    "key_facts": [
+      {
+        "_uid": "tp-300-k1",
+        "component": "key_fact",
+        "label": "Förderstrom max.",
+        "value": "30",
+        "unit": "m³/h"
+      },
+      {
+        "_uid": "tp-300-k2",
+        "component": "key_fact",
+        "label": "Motorleistung",
+        "value": "2,2",
+        "unit": "kW"
+      }
+    ],
+    "specs": [
+      {
+        "_uid": "s-Förderstrom max.-1",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderstrom max.",
+        "value": "30",
+        "unit": "m³/h",
+        "value_num": 30
+      },
+      {
+        "_uid": "s-Förderhöhe max.-2",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderhöhe max.",
+        "value": "18",
+        "unit": "m",
+        "value_num": 18
+      },
+      {
+        "_uid": "s-Motorleistung-3",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Motorleistung",
+        "value": "2,2",
+        "unit": "kW",
+        "value_num": 2.2
+      },
+      {
+        "_uid": "s-Pumpengehäuse-4",
+        "component": "spec_row",
+        "group": "Werkstoffe",
+        "label": "Pumpengehäuse",
+        "value": "Gusseisen"
+      },
+      {
+        "_uid": "s-Druckanschluss-5",
+        "component": "spec_row",
+        "group": "Anschlüsse & Abmessungen",
+        "label": "Druckanschluss",
+        "value": "DN 50"
+      }
+    ],
+    "flow_max_m3h": 30,
+    "head_max_m": 18,
+    "power_kw": 2.2,
+    "voltage": "400 V",
+    "material": "Edelstahl",
+    "downloads": [
+      {
+        "_uid": "tp-300-dl",
+        "component": "download_list",
+        "items": [
+          {
+            "_uid": "tp-300-dli",
+            "component": "download_item",
+            "label": "Datenblatt herunterladen (PDF)",
+            "file": {
+              "filename": "https://a.storyblok.com/f/000000/fixture/tp-300.pdf",
+              "alt": "tp-300.pdf"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

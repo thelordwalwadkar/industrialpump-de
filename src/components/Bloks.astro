@@ -1,0 +1,32 @@
+---
+/** Renders the optional editor-added bloks of a slot. Templates decide WHERE a slot sits; editors only choose WHAT goes in it. */
+import { storyblokEditable } from '@storyblok/astro';
+import type { Blok } from '../lib/types';
+import type { Site } from '../lib/storyblok';
+import Hero from '../storyblok/Hero.astro';
+import RichText from '../storyblok/RichText.astro';
+import CardGrid from '../storyblok/CardGrid.astro';
+import CtaBand from '../storyblok/CtaBand.astro';
+import Faq from '../storyblok/Faq.astro';
+import SpecTable from '../storyblok/SpecTable.astro';
+import DownloadList from '../storyblok/DownloadList.astro';
+import Steps from '../storyblok/Steps.astro';
+import LogoStrip from '../storyblok/LogoStrip.astro';
+import RelatedLinks from '../storyblok/RelatedLinks.astro';
+import ImageText from '../storyblok/ImageText.astro';
+
+interface Props { bloks?: Blok[]; site: Site }
+const { bloks = [], site } = Astro.props;
+const MAP: Record<string, any> = {
+  hero: Hero, rich_text: RichText, card_grid: CardGrid, cta_band: CtaBand, faq: Faq, spec_table: SpecTable,
+  download_list: DownloadList, steps: Steps, logo_strip: LogoStrip, related_links: RelatedLinks, image_text: ImageText,
+};
+const preview = process.env.PREVIEW === '1';
+---
+{bloks.map((b) => {
+  const C = MAP[b.component];
+  if (!C) return null;
+  return preview
+    ? <div {...storyblokEditable(b as never)} style="display:contents"><C blok={b} site={site} /></div>
+    : <C blok={b} site={site} />;
+})}

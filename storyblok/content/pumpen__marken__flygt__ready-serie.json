@@ -1,0 +1,180 @@
+{
+  "id": 3987081379,
+  "uuid": "eda608a3-1d33-f0a7-cbf8-b814ff8f5039",
+  "name": "Ready-Serie",
+  "slug": "ready-serie",
+  "full_slug": "pumpen/marken/flygt/ready-serie",
+  "position": 14,
+  "content": {
+    "component": "page_series",
+    "series_name": "Ready",
+    "h1": "Flygt Ready-Serie – Tauchmotorpumpen für Entwässerung und Wasserhaltung",
+    "nav_title": "Ready-Serie",
+    "seo_title": "Flygt Ready-Serie: Tauchmotorpumpen für Entwässerung",
+    "seo_description": "Flygt Ready: Tauchmotorpumpen für Entwässerung, Wasserhaltung und Wassertransport. Kennbereiche, Artikel, Angebot anfordern.",
+    "intro": "Die Flygt Ready-Serie umfasst Tauchmotorpumpen für Entwässerung, Grundwasserabsenkung und Anwendungen des Wassertransports. Der Katalog führt die Ausführungen Ready 4, Ready 8 und Ready 8S, teils mit Schwimmerschalter.",
+    "pump_type": "tauchmotorpumpen",
+    "segments": [
+      "landwirtschaft",
+      "wasseraufbereitung",
+      "wassertransport"
+    ],
+    "applications": [
+      "entwaesserung",
+      "abwasser"
+    ],
+    "use_case_line": "Tauchmotorpumpen für Entwässerung und Wasserhaltung",
+    "body_text": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Die Ready-Serie von Flygt besteht aus Tauchmotorpumpen, die für anspruchsvolle Aufgaben im Wassermanagement ausgelegt sind, zum Beispiel Entwässerung und Grundwasserabsenkung. Nach Herstellerangaben sind die Pumpen leicht zu installieren und zu warten und lassen sich an die Anforderungen der Anwendung anpassen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Für die Ready-Serie liegen im Katalog bisher nur wenige technische Werte vor (Spannung, Leistung, Frequenz). Kennlinien und weitere Daten nennen wir Ihnen auf Anfrage aus dem Datenblatt des Herstellers."
+            }
+          ]
+        }
+      ]
+    },
+    "highlights": "Entwässerung und Grundwasserabsenkung\nReady 4, Ready 8 und Ready 8S, teils mit Schwimmerschalter\nLeicht zu installieren (Herstellerangabe)",
+    "image_source": "/Images/ipg_ecom/Flygt/Flygt-Ready-series.png",
+    "image": {
+      "filename": "/img/products/flygt-ready-series.webp",
+      "alt": "Flygt Ready-Serie"
+    },
+    "power_min_kw": 0.42,
+    "power_max_kw": 0.9,
+    "catalogue_count": 6,
+    "body": [
+      {
+        "_uid": "bcc65ea3944b",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Auswahlhinweise für Tauchmotorpumpen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Tauchmotorpumpen arbeiten im Medium und fördern es direkt aus Schacht, Grube oder Behälter. Entscheidend sind Förderstrom, Förderhöhe und die Beschaffenheit des Mediums."
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Freier Durchgang: Er gibt die größte Feststoffgröße an, die die Pumpe passieren kann."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Niveausteuerung: Schwimmerschalter oder Niveaugeber schalten die Pumpe selbsttätig und schützen vor Trockenlauf."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Einbau: Eintauchtiefe, Kühlung des Motors und Aufstellart (tragbar oder fest installiert) beachten."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Explosionsgefährdete Bereiche: Hier ist eine Ausführung nach ATEX (2014/34/EU) erforderlich; bitte vor der Auswahl prüfen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "faq": [
+      {
+        "_uid": "17385662e368",
+        "component": "faq",
+        "heading": "Häufige Fragen zur Ready-Serie",
+        "items": [
+          {
+            "_uid": "3f133c78912c",
+            "component": "faq_item",
+            "question": "Wie finde ich den passenden Artikel der Ready-Serie?",
+            "answer": "Senden Sie uns das Typenschild Ihrer vorhandenen Pumpe oder Ihre Betriebsdaten: Förderstrom, Förderhöhe, Medium und Temperatur. Daraus ordnen wir den passenden Artikel der Ready-Serie zu."
+          },
+          {
+            "_uid": "1f950044841f",
+            "component": "faq_item",
+            "question": "Sind Ersatzteile und eine Revision für die Ready-Serie möglich?",
+            "answer": "Ersatzteile und die Revision von Flygt-Pumpen können Sie über das Angebotsformular anfragen. Welche Teile im Einzelfall verfügbar sind, hängt von Baujahr und Ausführung ab."
+          },
+          {
+            "_uid": "ab6f8ab2aed4",
+            "component": "faq_item",
+            "question": "Wie lang ist die Lieferzeit für Artikel der Ready-Serie?",
+            "answer": "[[PLATZHALTER: Lieferzeit Flygt Ready]]"
+          }
+        ]
+      }
+    ]
+  }
+}

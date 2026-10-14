@@ -1,0 +1,247 @@
+{
+  "id": 2005712577,
+  "uuid": "778cbec1-5d3e-75aa-bc69-40cd67d4e0de",
+  "name": "AGC 300 T",
+  "slug": "agc-300-t",
+  "full_slug": "pumpen/marken/ebara/aga-agc-serie/agc-300-t",
+  "position": 0,
+  "content": {
+    "component": "page_product",
+    "article_number": "AGC 300 T",
+    "name": "AGC 300 T",
+    "nav_title": "AGC 300 T",
+    "h1": "Ebara AGC 300 T – Selbstansaugende Kreiselpumpe für Industrie und Gebäudetechnik",
+    "seo_title": "Ebara AGC 300 T – Selbstansaugende Kreiselpumpe",
+    "seo_description": "Ebara AGC 300 T: Selbstansaugende Kreiselpumpe der AGA/AGC-Serie. Motorleistung 2,2 kW, Förderstrom bis 9,6 m³/h, Förderhöhe bis 58 m. Angebot anfordern.",
+    "intro": "Die Ebara AGC 300 T ist eine Selbstansaugende Kreiselpumpe der AGA/AGC-Serie für Industrie und Gebäudetechnik.",
+    "short_description": "Die Ebara AGC 300 T ist eine Selbstansaugende Kreiselpumpe der AGA/AGC-Serie für Industrie und Gebäudetechnik. Laut Katalogdaten hat dieser Artikel eine Motorleistung von 2,2 kW, einen Förderstrom bis 9,6 m³/h und eine Förderhöhe bis 58 m. Für die Auslegung im Bestand senden Sie uns Typenschild oder Betriebsdaten; wir prüfen, ob die AGC 300 T Ihre Fördermenge und Förderhöhe abdeckt. Maßgeblich sind die Angaben im Datenblatt des Herstellers.",
+    "image_source": "/Images/ipg_ecom/Ebara/Ebara-AGA-AGC-series.png",
+    "image": {
+      "filename": "/img/products/ebara-aga-agc-series.webp",
+      "alt": "Ebara AGC 300 T"
+    },
+    "internal_item_number": "PZM2113TE",
+    "key_facts": [
+      {
+        "_uid": "e61b89f30cba",
+        "component": "key_fact",
+        "label": "Förderstrom max.",
+        "value": "9,6",
+        "unit": "m³/h"
+      },
+      {
+        "_uid": "9feac659d52c",
+        "component": "key_fact",
+        "label": "Förderhöhe max.",
+        "value": "58",
+        "unit": "m"
+      },
+      {
+        "_uid": "940868f9c6a4",
+        "component": "key_fact",
+        "label": "Motorleistung",
+        "value": "2,2",
+        "unit": "kW"
+      },
+      {
+        "_uid": "fefc9d1e4191",
+        "component": "key_fact",
+        "label": "Spannung",
+        "value": "230",
+        "unit": "V"
+      }
+    ],
+    "specs": [
+      {
+        "_uid": "7dc093ec4187",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderstrom min.",
+        "value": "0,6",
+        "unit": "m³/h",
+        "value_num": 0.6
+      },
+      {
+        "_uid": "bd0a622c0a76",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderstrom max.",
+        "value": "9,6",
+        "unit": "m³/h",
+        "value_num": 9.6
+      },
+      {
+        "_uid": "1cf926ca43d5",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderhöhe max.",
+        "value": "58",
+        "unit": "m",
+        "value_num": 58
+      },
+      {
+        "_uid": "e748850fa44d",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderhöhe min.",
+        "value": "32,5",
+        "unit": "m",
+        "value_num": 32.5
+      },
+      {
+        "_uid": "0656b8b924fa",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Medientemperatur max.",
+        "value": "20",
+        "unit": "°C",
+        "value_num": 20
+      },
+      {
+        "_uid": "2ab1d61a318e",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Max. Betriebsdruck",
+        "value": "10",
+        "unit": "bar",
+        "value_num": 10
+      },
+      {
+        "_uid": "13bcb74d2420",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Nullförderdruck",
+        "value": "5,93",
+        "unit": "bar",
+        "value_num": 5.93
+      },
+      {
+        "_uid": "e5c3f48b00ce",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Stufenzahl",
+        "value": "1",
+        "value_num": 1
+      },
+      {
+        "_uid": "3b8006358cf0",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Laufraddurchmesser",
+        "value": "164",
+        "unit": "mm",
+        "value_num": 164
+      },
+      {
+        "_uid": "957b2963cea0",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Dichte des Mediums",
+        "value": "998,3",
+        "unit": "kg/m³",
+        "value_num": 998.3
+      },
+      {
+        "_uid": "61507593fef3",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Motorleistung",
+        "value": "2,2",
+        "unit": "kW",
+        "value_num": 2.2
+      },
+      {
+        "_uid": "40e159aadf11",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Spannung",
+        "value": "230",
+        "unit": "V",
+        "value_num": 230
+      },
+      {
+        "_uid": "c32145239956",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Nennspannung (Variante 1)",
+        "value": "230/400",
+        "unit": "V"
+      },
+      {
+        "_uid": "3c97bb4e8e21",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Frequenz",
+        "value": "50",
+        "unit": "Hz",
+        "value_num": 50
+      },
+      {
+        "_uid": "260c52c8ac5d",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Nennstrom",
+        "value": "8,2",
+        "unit": "A",
+        "value_num": 8.2
+      },
+      {
+        "_uid": "6f442c34146d",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Drehzahl",
+        "value": "2.800",
+        "unit": "min⁻¹",
+        "value_num": 2800
+      },
+      {
+        "_uid": "ce1973a3d07b",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Polzahl",
+        "value": "2",
+        "value_num": 2
+      },
+      {
+        "_uid": "d4377196950e",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Schutzart",
+        "value": "IP44"
+      },
+      {
+        "_uid": "0f6f4e9aff3b",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Isolationsklasse",
+        "value": "F"
+      },
+      {
+        "_uid": "e892ddac752b",
+        "component": "spec_row",
+        "group": "Werkstoffe",
+        "label": "Pumpengehäuse",
+        "value": "Gusseisen EN-GJL-250"
+      },
+      {
+        "_uid": "8f075ca8d88b",
+        "component": "spec_row",
+        "group": "Werkstoffe",
+        "label": "Laufrad",
+        "value": "Messing"
+      },
+      {
+        "_uid": "18a50ddc122c",
+        "component": "spec_row",
+        "group": "Anschlüsse & Abmessungen",
+        "label": "Anschlussart",
+        "value": "Gewinde nach UNI ISO 228"
+      }
+    ],
+    "flow_max_m3h": 9.6,
+    "head_max_m": 58,
+    "power_kw": 2.2,
+    "voltage": "230/400 V",
+    "material": "Gusseisen"
+  }
+}

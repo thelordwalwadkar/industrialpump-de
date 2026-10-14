@@ -1,0 +1,23 @@
+{
+  "component": {
+    "name": "nav_item",
+    "display_name": "Navigationspunkt",
+    "is_root": false,
+    "is_nestable": true,
+    "schema": {
+      "label": {
+        "type": "text",
+        "description": "Beschriftung.",
+        "required": true,
+        "pos": 0
+      },
+      "link": {
+        "type": "multilink",
+        "description": "Ziel.",
+        "email_link_type": true,
+        "asset_link_type": true,
+        "pos": 1
+      }
+    }
+  }
+}

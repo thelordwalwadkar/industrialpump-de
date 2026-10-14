@@ -1,0 +1,26 @@
+---
+/** T7 · page_service — Intro · Ablauf · Was enthalten ist · abgedeckte Pumpentypen/Marken · FAQ · CTA. Revision-Seiten nutzen die Overhaul-Farbe. */
+import type { PageService, PageStory } from '../lib/types';
+import type { Site } from '../lib/storyblok';
+import { quoteHref } from '../lib/linking';
+import PageHead from '../components/PageHead.astro';
+import RichTextHtml from '../components/RichTextHtml.astro';
+import FaqList from '../components/FaqList.astro';
+import QuoteCta from '../components/QuoteCta.astro';
+import Steps from '../storyblok/Steps.astro';
+import RelatedLinks from '../storyblok/RelatedLinks.astro';
+import Bloks from '../components/Bloks.astro';
+interface Props { story: PageStory<PageService>; site: Site }
+const { story, site } = Astro.props;
+const c = story.content;
+const isRevision = c.service_kind === 'revision' || c.service_kind === 'revision-typ';
+const cta = isRevision ? { heading: 'Revision anfragen', label: 'Revision anfragen', href: quoteHref(site, story, 'revision') } : { heading: 'Anfrage senden', label: 'Angebot anfordern', href: quoteHref(site, story) };
+---
+<PageHead story={story} site={site} h1={c.h1 || story.name} intro={c.intro} accent={isRevision} />
+{c.steps?.map((b) => <Steps blok={b} />)}
+{c.included && <section class="section"><div class="wrap"><h2>Was enthalten ist</h2><RichTextHtml doc={c.included} /></div></section>}
+{c.covered?.map((b) => <RelatedLinks blok={b} site={site} />)}
+<Bloks bloks={c.body} site={site} />
+<div class="wrap"><FaqList faqs={c.faq} /></div>
+<div class="wrap"><QuoteCta heading={cta.heading} label={cta.label} href={cta.href} variant={isRevision ? 'overhaul' : 'primary'} text="Senden Sie uns Typenschild oder Betriebsdaten der Pumpe." /></div>
+<Bloks bloks={c.cta} site={site} />

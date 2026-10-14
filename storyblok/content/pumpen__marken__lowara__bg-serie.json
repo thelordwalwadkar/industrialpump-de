@@ -1,0 +1,180 @@
+{
+  "id": 1488528121,
+  "uuid": "58b922f9-84cc-42df-67f7-c2391c2d84e0",
+  "name": "BG-Serie",
+  "slug": "bg-serie",
+  "full_slug": "pumpen/marken/lowara/bg-serie",
+  "position": 5,
+  "content": {
+    "component": "page_series",
+    "series_name": "BG",
+    "h1": "Lowara BG-Serie – Selbstansaugende Blockpumpen",
+    "nav_title": "BG-Serie",
+    "seo_title": "Lowara BG-Serie: Selbstansaugende Blockpumpen",
+    "seo_description": "Lowara BG und BGM: selbstansaugende Blockpumpen für sauberes Wasser und nicht aggressive Medien. Kennbereiche, Artikel, Angebot anfordern.",
+    "intro": "Die Lowara BG-Serie (BG und BGM) umfasst selbstansaugende Blockpumpen für sauberes Wasser und nicht aggressive Flüssigkeiten. Sie kommen in Wasserversorgung, Gebäudetechnik, Landwirtschaft und industriellen Prozessen zum Einsatz.",
+    "pump_type": "blockpumpen",
+    "segments": [
+      "landwirtschaft",
+      "gebaeudetechnik-hvac",
+      "wasseraufbereitung",
+      "wassertransport"
+    ],
+    "applications": [],
+    "use_case_line": "Selbstansaugende Blockpumpen für sauberes Wasser",
+    "body_text": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Die BG-Serie von Lowara besteht aus selbstansaugenden Kreiselpumpen in Blockbauweise für die Förderung von sauberem Wasser und nicht aggressiven Medien. Sie ist in mehreren Ausführungen verfügbar und deckt damit unterschiedliche Aufgaben in Wasseraufbereitung, Wassertransport, Gebäudetechnik und industriellen Prozessen ab."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Der Hersteller nennt einen effizienten Motor, kompakte Abmessungen und eine einfache Installation und Wartung. In den Katalogdaten ist als Herkunftsland Italien angegeben."
+            }
+          ]
+        }
+      ]
+    },
+    "highlights": "Selbstansaugend\nSauberes Wasser und nicht aggressive Medien\nKompakte Abmessungen\nWasserversorgung, Gebäudetechnik, Landwirtschaft",
+    "image_source": "/Images/ipg_ecom/Lowara/Lowara-BG.jpg",
+    "image": {
+      "filename": "/img/products/lowara-bg.webp",
+      "alt": "Lowara BG-Serie"
+    },
+    "flow_max_m3h": 3.6,
+    "head_max_m": 35.7,
+    "power_min_kw": 0.4,
+    "power_max_kw": 0.55,
+    "catalogue_count": 7,
+    "body": [
+      {
+        "_uid": "f69a4430074c",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Auswahlhinweise für Blockpumpen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bei Blockpumpen ist der Motor direkt an die Pumpe angeflanscht. Das spart Platz und vereinfacht die Aufstellung; Motor und Hydraulik werden als Einheit ausgewählt."
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Betriebspunkt: Er ergibt sich aus dem Schnittpunkt von Pumpen- und Anlagenkennlinie und sollte in der Nähe des Bestpunkts liegen."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "NPSH: Der NPSH-Wert der Anlage muss den NPSH-Bedarf der Pumpe mit Sicherheitszuschlag übersteigen, sonst droht Kavitation."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Medium: Werkstoff und Wellendichtung müssen zu Temperatur und Zusammensetzung des Mediums passen."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ersatz: Beim Austausch sind Anschlussmaße, Drehzahl und elektrische Daten des Typenschilds maßgeblich."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "faq": [
+      {
+        "_uid": "455d1696f23f",
+        "component": "faq",
+        "heading": "Häufige Fragen zur BG-Serie",
+        "items": [
+          {
+            "_uid": "1a93209f9247",
+            "component": "faq_item",
+            "question": "Wie finde ich den passenden Artikel der BG-Serie?",
+            "answer": "Senden Sie uns das Typenschild Ihrer vorhandenen Pumpe oder Ihre Betriebsdaten: Förderstrom, Förderhöhe, Medium und Temperatur. Daraus ordnen wir den passenden Artikel der BG-Serie zu."
+          },
+          {
+            "_uid": "b2919ca326dc",
+            "component": "faq_item",
+            "question": "Sind Ersatzteile und eine Revision für die BG-Serie möglich?",
+            "answer": "Ersatzteile und die Revision von Lowara-Pumpen können Sie über das Angebotsformular anfragen. Welche Teile im Einzelfall verfügbar sind, hängt von Baujahr und Ausführung ab."
+          },
+          {
+            "_uid": "74415cb133c1",
+            "component": "faq_item",
+            "question": "Wie lang ist die Lieferzeit für Artikel der BG-Serie?",
+            "answer": "[[PLATZHALTER: Lieferzeit Lowara BG]]"
+          }
+        ]
+      }
+    ]
+  }
+}

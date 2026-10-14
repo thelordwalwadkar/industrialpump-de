@@ -1,0 +1,15 @@
+---
+import type { DownloadList } from '../lib/types';
+interface Props { blok: DownloadList }
+const { blok } = Astro.props;
+// Entries without an uploaded file are skipped - the page never shows a dead download.
+const items = (blok.items ?? []).filter((i) => i.file?.filename);
+---
+{items.length > 0 && (
+  <section class="section">
+    <div class="wrap">
+      <h2>{blok.heading ?? 'Downloads'}</h2>
+      <ul class="ticks">{items.map((i) => <li><a href={i.file!.filename} download>{i.label}</a></li>)}</ul>
+    </div>
+  </section>
+)}

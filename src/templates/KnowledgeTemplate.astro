@@ -1,0 +1,35 @@
+---
+/** T9 · page_knowledge — Artikel mit Inhaltsverzeichnis · Abbildungen · Downloads · verwandte Themen */
+import { renderRichText } from '@storyblok/richtext';
+import type { PageKnowledge, PageStory } from '../lib/types';
+import type { Site } from '../lib/storyblok';
+import { slugify } from '../lib/slug';
+import PageHead from '../components/PageHead.astro';
+import RelatedLinks from '../storyblok/RelatedLinks.astro';
+import DownloadList from '../storyblok/DownloadList.astro';
+import QuoteCta from '../components/QuoteCta.astro';
+import Bloks from '../components/Bloks.astro';
+interface Props { story: PageStory<PageKnowledge>; site: Site }
+const { story, site } = Astro.props;
+const c = story.content;
+const raw = c.article?.content?.length ? renderRichText(c.article as never) : '';
+const toc: { id: string; text: string }[] = [];
+// Give every h2 an anchor id and collect the table of contents from the same pass.
+const html = raw.replace(/<h2>(.*?)<\/h2>/g, (_m, inner: string) => {
+  const text = inner.replace(/<[^>]+>/g, '');
+  const id = slugify(text);
+  toc.push({ id, text });
+  return `<h2 id="${id}">${inner}</h2>`;
+});
+---
+<PageHead story={story} site={site} h1={c.h1 || story.name} intro={c.intro} />
+<section class="section">
+  <div class="wrap">
+    {toc.length > 1 && <nav class="toc" aria-label="Inhaltsverzeichnis"><strong>Inhalt</strong><ol>{toc.map((t) => <li><a href={`#${t.id}`}>{t.text}</a></li>)}</ol></nav>}
+    {html && <div class="prose" set:html={html} />}
+  </div>
+</section>
+{c.downloads?.map((b) => <DownloadList blok={b} />)}
+<Bloks bloks={c.body} site={site} />
+{c.related?.map((b) => <RelatedLinks blok={b} site={site} />)}
+<div class="wrap"><QuoteCta heading="Fragen zur Auslegung?" text="Senden Sie uns Ihre Betriebsdaten, wir prüfen die passende Pumpe." label="Angebot anfordern" href="/angebot" /></div>

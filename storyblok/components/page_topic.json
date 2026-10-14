@@ -1,0 +1,141 @@
+{
+  "component": {
+    "name": "page_topic",
+    "display_name": "T3 · Thema (Branche / Anwendung / Pumpentyp)",
+    "is_root": true,
+    "is_nestable": false,
+    "schema": {
+      "h1": {
+        "type": "text",
+        "description": "Haupt-Überschrift (genau ein H1 pro Seite). Enthält das Hauptthema.",
+        "required": true,
+        "pos": 0
+      },
+      "intro": {
+        "type": "textarea",
+        "description": "Einleitung in höchstens zwei Sätzen: Was ist das und für wen? Wird als Zitat-Antwort gelesen.",
+        "required": true,
+        "max_length": 320,
+        "pos": 1
+      },
+      "nav_title": {
+        "type": "text",
+        "description": "Kurzname für Brotkrumen, Navigation und Karten (z. B. „DIWA-Serie“).",
+        "pos": 2
+      },
+      "seo_title": {
+        "type": "text",
+        "description": "Seitentitel für Google, höchstens 60 Zeichen.",
+        "max_length": 60,
+        "required": true,
+        "pos": 3
+      },
+      "seo_description": {
+        "type": "textarea",
+        "description": "Meta-Beschreibung, höchstens 155 Zeichen.",
+        "max_length": 155,
+        "required": true,
+        "pos": 4
+      },
+      "noindex": {
+        "type": "boolean",
+        "description": "Nur für Sonderfälle: Seite von der Suche ausschließen. Rechtstexte bleiben indexierbar.",
+        "default_value": false,
+        "pos": 5
+      },
+      "topic_kind": {
+        "type": "option",
+        "source": "self",
+        "options": [
+          {
+            "name": "Branche",
+            "value": "branche"
+          },
+          {
+            "name": "Anwendung",
+            "value": "anwendung"
+          },
+          {
+            "name": "Pumpentyp",
+            "value": "pumpentyp"
+          }
+        ],
+        "description": "Art des Themas.",
+        "required": true,
+        "pos": 6
+      },
+      "tag": {
+        "type": "text",
+        "description": "Taxonomie-Schlüssel (z. B. „tauchmotorpumpen“). Passende Serien werden automatisch verlinkt.",
+        "pos": 7
+      },
+      "challenges": {
+        "type": "richtext",
+        "description": "Typische Herausforderungen.",
+        "rich_markdown": false,
+        "pos": 8
+      },
+      "related": {
+        "type": "bloks",
+        "restrict_components": true,
+        "component_whitelist": [
+          "related_links"
+        ],
+        "description": "Passende Pumpentypen / Anwendungen (Querverweise).",
+        "pos": 9
+      },
+      "technical_notes": {
+        "type": "richtext",
+        "description": "Technische Hinweise.",
+        "rich_markdown": false,
+        "pos": 10
+      },
+      "faq": {
+        "type": "bloks",
+        "restrict_components": true,
+        "component_whitelist": [
+          "faq"
+        ],
+        "description": "FAQ-Block (3–5 Fragen). Erzeugt auch FAQPage-Daten.",
+        "maximum": 1,
+        "pos": 11
+      },
+      "body": {
+        "type": "bloks",
+        "restrict_components": true,
+        "component_whitelist": [
+          "rich_text",
+          "card_grid",
+          "cta_band",
+          "faq",
+          "spec_table",
+          "download_list",
+          "steps",
+          "related_links",
+          "image_text"
+        ],
+        "description": "Optionale Zusatz-Bausteine. Die Pflicht-Abschnitte sind im Template fest eingebaut.",
+        "pos": 12
+      },
+      "cta": {
+        "type": "bloks",
+        "restrict_components": true,
+        "component_whitelist": [
+          "cta_band"
+        ],
+        "description": "Optionales Abschluss-Banner. Ohne Eintrag erscheint der Standard-CTA des Templates.",
+        "maximum": 1,
+        "pos": 13
+      },
+      "tab-seo": {
+        "type": "tab",
+        "display_name": "SEO",
+        "keys": [
+          "seo_title",
+          "seo_description",
+          "noindex"
+        ]
+      }
+    }
+  }
+}

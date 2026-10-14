@@ -1,0 +1,81 @@
+{
+  "id": 3024645881,
+  "uuid": "b4486ef9-a88d-67a2-e767-a81f032b5332",
+  "name": "SAER",
+  "slug": "saer",
+  "full_slug": "pumpen/marken/saer",
+  "position": 2,
+  "content": {
+    "component": "page_brand",
+    "brand_name": "SAER",
+    "h1": "SAER Pumpen – Serien, Einsatzbereiche und Revision",
+    "nav_title": "SAER",
+    "seo_title": "SAER Pumpen: Serien, Einsatzbereiche und Revision",
+    "seo_description": "SAER-Pumpen im Überblick: Kreiselpumpen der Serien IR, IRX und M sowie Druckerhöhungsanlagen TR, Einsatzbereiche und Revision. Angebot anfordern.",
+    "intro": "SAER ist ein italienischer Hersteller von Kreiselpumpen für Wasserversorgung, Gebäudetechnik und Landwirtschaft. Diese Seite zeigt die SAER-Serien aus unserem Katalog, ihre Einsatzbereiche und die Möglichkeiten zur Revision.",
+    "body_text": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Im Katalog sind SAER-Kreiselpumpen mit stirnseitigem Sauganschluss (IR-, IR-M- und IRX-Serie) sowie die Kreiselpumpen der M-Serie geführt. Dazu kommen die Druckerhöhungsanlagen der TR-Serie, die Pumpen, Druckbehälter und Steuerung zu einer Einheit zusammenfassen."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Die IR-Serien unterscheiden sich vor allem im Werkstoff: Die IR-Serie nutzt Gusseisen, die IR-M-Serie Bronze und die IRX-Serie Edelstahl 316. Typische Einsatzbereiche laut Katalogdaten sind Wasseraufbereitung, Wassertransport, Gebäudetechnik und Landwirtschaft."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Zur Auswahl benötigen wir Förderstrom, Förderhöhe und Fördermedium. Bei einem Ersatz genügt in der Regel das Typenschild der vorhandenen Pumpe."
+            }
+          ]
+        }
+      ]
+    },
+    "logo": {
+      "filename": "/img/brands/saer.webp",
+      "alt": "SAER"
+    },
+    "revision_text": "Eine Revision kann je nach Zustand der Pumpe den Austausch von Verschleißteilen wie Gleitringdichtungen und Lagern umfassen. Den genauen Umfang legen wir nach Prüfung der Pumpe mit Ihnen fest. Welche Teile im Einzelfall verfügbar sind, hängt von Serie, Baujahr und Ausführung ab.",
+    "faq": [
+      {
+        "_uid": "dc0ea84db144",
+        "component": "faq",
+        "heading": "Häufige Fragen zu SAER-Pumpen",
+        "items": [
+          {
+            "_uid": "9dfdd3843c2a",
+            "component": "faq_item",
+            "question": "Sind Ersatzteile für SAER-Pumpen verfügbar?",
+            "answer": "Das hängt von Serie, Baujahr und Ausführung ab. Senden Sie uns Typenschild oder ein Foto der Pumpe, dann prüfen wir die Verfügbarkeit."
+          },
+          {
+            "_uid": "921046f3fdfc",
+            "component": "faq_item",
+            "question": "Kann ich eine ältere SAER-Serie durch ein aktuelles Modell ersetzen?",
+            "answer": "Das ist je nach Serie möglich. Entscheidend sind Förderstrom, Förderhöhe, Anschlussmaße und Motordaten der vorhandenen Pumpe. Anhand des Typenschilds prüfen wir, welches Modell passt."
+          },
+          {
+            "_uid": "927c76e232ae",
+            "component": "faq_item",
+            "question": "Wie lang ist die Lieferzeit für SAER-Pumpen?",
+            "answer": "[[PLATZHALTER: Lieferzeit SAER]]"
+          }
+        ]
+      }
+    ]
+  }
+}

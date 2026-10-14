@@ -1,0 +1,82 @@
+{
+  "id": 943443487,
+  "uuid": "383bce1f-b2da-08d8-3b4d-3adea6b2623e",
+  "name": "Referenz Test",
+  "slug": "referenz-test",
+  "full_slug": "__fixtures__/referenz-test",
+  "content": {
+    "component": "page_case_study",
+    "customer": "[[PLATZHALTER: Kundenname (nur mit Freigabe)]]",
+    "h1": "Referenz: Revision einer Kreiselpumpe",
+    "nav_title": "Referenz Test",
+    "seo_title": "Referenz: Revision einer Kreiselpumpe",
+    "seo_description": "Fixture für das Referenz-Template: Ausgangslage, Lösung, Ergebnis ohne erfundene Zahlen und eingesetzte Produkte.",
+    "intro": "Eine Kreiselpumpe wurde instand gesetzt statt ersetzt. Diese Seite prüft das Referenz-Template.",
+    "situation": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Ausgangslage der Anlage."
+            }
+          ]
+        }
+      ]
+    },
+    "solution": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Instandsetzung der Pumpe."
+            }
+          ]
+        }
+      ]
+    },
+    "result": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Die Pumpe läuft wieder im Betrieb."
+            }
+          ]
+        }
+      ]
+    },
+    "products": [
+      {
+        "_uid": "cs-rel",
+        "component": "related_links",
+        "heading": "Eingesetzte Produkte",
+        "links": [
+          {
+            "_uid": "cs-l0",
+            "component": "link_item",
+            "label": "DIWA-Serie",
+            "link": {
+              "fieldtype": "multilink",
+              "linktype": "story",
+              "id": "5ad4a748-bc7f-8ae5-87bf-e3caf9476091",
+              "cached_url": "pumpen/marken/lowara/diwa-serie",
+              "url": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "created_at": "2026-03-05T08:00:00.000Z",
+  "first_published_at": "2026-03-05T08:00:00.000Z",
+  "published_at": "2026-03-05T08:00:00.000Z"
+}

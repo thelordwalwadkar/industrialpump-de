@@ -1,0 +1,21 @@
+---
+import type { RelatedLinks } from '../lib/types';
+import type { Site } from '../lib/storyblok';
+import { resolveLink } from '../lib/links';
+import type { LinkCard } from '../lib/linking';
+import LinkCards from '../components/LinkCards.astro';
+interface Props { blok: RelatedLinks; site: Site }
+const { blok, site } = Astro.props;
+const cards: LinkCard[] = (blok.links ?? []).flatMap((l) => {
+  const r = resolveLink(site, l.link);
+  return r && r.exists ? [{ title: l.label, href: r.href, text: l.description }] : [];
+});
+---
+{cards.length > 0 && (
+  <section class="section">
+    <div class="wrap">
+      {blok.heading && <h2>{blok.heading}</h2>}
+      <LinkCards cards={cards} showImage={false} />
+    </div>
+  </section>
+)}

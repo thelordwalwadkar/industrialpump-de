@@ -1,0 +1,22 @@
+{
+  "component": {
+    "name": "faq_item",
+    "display_name": "FAQ-Frage",
+    "is_root": false,
+    "is_nestable": true,
+    "schema": {
+      "question": {
+        "type": "text",
+        "description": "Frage.",
+        "required": true,
+        "pos": 0
+      },
+      "answer": {
+        "type": "textarea",
+        "description": "Antwort (Klartext).",
+        "required": true,
+        "pos": 1
+      }
+    }
+  }
+}

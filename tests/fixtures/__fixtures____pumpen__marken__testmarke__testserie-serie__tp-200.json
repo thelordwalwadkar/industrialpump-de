@@ -1,0 +1,102 @@
+{
+  "id": 2966154066,
+  "uuid": "b0cbeb52-7aa3-b763-0b85-a17eea5dfa51",
+  "name": "TP 200",
+  "slug": "tp-200",
+  "full_slug": "__fixtures__/pumpen/marken/testmarke/testserie-serie/tp-200",
+  "content": {
+    "component": "page_product",
+    "article_number": "TP 200",
+    "name": "TP 200",
+    "nav_title": "TP 200",
+    "h1": "Testmarke TP 200 – Tauchmotorpumpe für Test",
+    "seo_title": "Testmarke TP 200 – Tauchmotorpumpe",
+    "seo_description": "Fixture-Produkt TP 200 mit Leistung, Förderstrom und Förderhöhe.",
+    "intro": "Die Testmarke TP 200 ist ein Fixture-Produkt.",
+    "short_description": "Die Testmarke TP 200 ist eine Tauchmotorpumpe der Testserie für Template-Tests. Sie hat eine Motorleistung von 1.1 kW. Dieser Text prüft die Kurzbeschreibung, die Kennwert-Leiste, die gruppierte Datentabelle und die Verknüpfung zu Serie und Marke. Für die Auslegung im Bestand senden Sie uns Typenschild oder Betriebsdaten.",
+    "key_facts": [
+      {
+        "_uid": "tp-200-k1",
+        "component": "key_fact",
+        "label": "Förderstrom max.",
+        "value": "20",
+        "unit": "m³/h"
+      },
+      {
+        "_uid": "tp-200-k2",
+        "component": "key_fact",
+        "label": "Motorleistung",
+        "value": "1,1",
+        "unit": "kW"
+      }
+    ],
+    "specs": [
+      {
+        "_uid": "s-Förderstrom max.-1",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderstrom max.",
+        "value": "20",
+        "unit": "m³/h",
+        "value_num": 20
+      },
+      {
+        "_uid": "s-Förderhöhe max.-2",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderhöhe max.",
+        "value": "12",
+        "unit": "m",
+        "value_num": 12
+      },
+      {
+        "_uid": "s-Motorleistung-3",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Motorleistung",
+        "value": "1,1",
+        "unit": "kW",
+        "value_num": 1.1
+      },
+      {
+        "_uid": "s-Pumpengehäuse-4",
+        "component": "spec_row",
+        "group": "Werkstoffe",
+        "label": "Pumpengehäuse",
+        "value": "Gusseisen"
+      },
+      {
+        "_uid": "s-Druckanschluss-5",
+        "component": "spec_row",
+        "group": "Anschlüsse & Abmessungen",
+        "label": "Druckanschluss",
+        "value": "DN 50"
+      }
+    ],
+    "flow_max_m3h": 20,
+    "head_max_m": 12,
+    "power_kw": 1.1,
+    "voltage": "230/400 V",
+    "material": "Gusseisen",
+    "downloads": [
+      {
+        "_uid": "tp-200-dl",
+        "component": "download_list",
+        "items": [
+          {
+            "_uid": "tp-200-dli",
+            "component": "download_item",
+            "label": "Datenblatt herunterladen (PDF)",
+            "file": {
+              "filename": "https://a.storyblok.com/f/000000/fixture/tp-200.pdf",
+              "alt": "tp-200.pdf"
+            }
+          }
+        ]
+      }
+    ],
+    "price": 1499,
+    "availability": "InStock",
+    "gtin": "04012345678901"
+  }
+}

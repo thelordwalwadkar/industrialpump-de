@@ -1,0 +1,182 @@
+{
+  "id": 626687763,
+  "uuid": "255a7f13-4d02-5e9c-605d-5732d6c7f31c",
+  "name": "BG3/A",
+  "slug": "bg3-a",
+  "full_slug": "pumpen/marken/lowara/bg-serie/bg3-a",
+  "position": 0,
+  "content": {
+    "component": "page_product",
+    "article_number": "BG3/A",
+    "name": "BG3/A",
+    "nav_title": "BG3/A",
+    "h1": "Lowara BG3/A – Selbstansaugende Blockpumpe für sauberes Wasser",
+    "seo_title": "Lowara BG3/A – Selbstansaugende Blockpumpe",
+    "seo_description": "Lowara BG3/A: Selbstansaugende Blockpumpe der BG-Serie. Motorleistung 0,4 kW, Förderstrom bis 3 m³/h, Förderhöhe bis 30,6 m. Angebot anfordern.",
+    "intro": "Die Lowara BG3/A ist eine Selbstansaugende Blockpumpe der BG-Serie für sauberes Wasser.",
+    "short_description": "Die Lowara BG3/A ist eine Selbstansaugende Blockpumpe der BG-Serie für sauberes Wasser. Laut Katalogdaten hat dieser Artikel eine Motorleistung von 0,4 kW, einen Förderstrom bis 3 m³/h und eine Förderhöhe bis 30,6 m. Für die Auslegung im Bestand senden Sie uns Typenschild oder Betriebsdaten; wir prüfen, ob die BG3/A Ihre Fördermenge und Förderhöhe abdeckt. Maßgeblich sind die Angaben im Datenblatt des Herstellers.",
+    "image_source": "/Images/ipg_ecom/Lowara/Lowara-BG.jpg",
+    "image": {
+      "filename": "/img/products/lowara-bg.webp",
+      "alt": "Lowara BG3/A"
+    },
+    "internal_item_number": "26-107320060",
+    "key_facts": [
+      {
+        "_uid": "4ab32f1adf76",
+        "component": "key_fact",
+        "label": "Förderstrom max.",
+        "value": "3",
+        "unit": "m³/h"
+      },
+      {
+        "_uid": "8562516a1aee",
+        "component": "key_fact",
+        "label": "Förderhöhe max.",
+        "value": "30,6",
+        "unit": "m"
+      },
+      {
+        "_uid": "bd78e95cc495",
+        "component": "key_fact",
+        "label": "Motorleistung",
+        "value": "0,4",
+        "unit": "kW"
+      },
+      {
+        "_uid": "6450ffb30a26",
+        "component": "key_fact",
+        "label": "Spannung",
+        "value": "220–240",
+        "unit": "V"
+      }
+    ],
+    "specs": [
+      {
+        "_uid": "d6e1268c5c72",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderstrom min.",
+        "value": "0,6",
+        "unit": "m³/h",
+        "value_num": 0.6
+      },
+      {
+        "_uid": "9bfa5413b024",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderstrom max.",
+        "value": "3",
+        "unit": "m³/h",
+        "value_num": 3
+      },
+      {
+        "_uid": "bba4444f67bc",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderhöhe max.",
+        "value": "30,6",
+        "unit": "m",
+        "value_num": 30.6
+      },
+      {
+        "_uid": "3df07c388d17",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderhöhe min.",
+        "value": "13,8",
+        "unit": "m",
+        "value_num": 13.8
+      },
+      {
+        "_uid": "f38aa7d81d15",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Motorleistung",
+        "value": "0,4",
+        "unit": "kW",
+        "value_num": 0.4
+      },
+      {
+        "_uid": "bdf2d338cafe",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Nennspannung (Variante 1)",
+        "value": "220–240",
+        "unit": "V"
+      },
+      {
+        "_uid": "aa1ad82cbf8b",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Nennspannung (Variante 2)",
+        "value": "380–415",
+        "unit": "V"
+      },
+      {
+        "_uid": "7f5eaabc31a2",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Frequenz",
+        "value": "50",
+        "unit": "Hz",
+        "value_num": 50
+      },
+      {
+        "_uid": "52b25bf88b05",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Phasen",
+        "value": "3",
+        "value_num": 3
+      },
+      {
+        "_uid": "a9e9e3acb3fb",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Nennstrom (Variante 1)",
+        "value": "2,03",
+        "unit": "A",
+        "value_num": 2.03
+      },
+      {
+        "_uid": "3e15d1191f44",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Nennstrom (Variante 2)",
+        "value": "1,17",
+        "unit": "A",
+        "value_num": 1.17
+      },
+      {
+        "_uid": "a5a18f8d41b4",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Drehzahl",
+        "value": "2.900",
+        "unit": "min⁻¹",
+        "value_num": 2900
+      },
+      {
+        "_uid": "d2bc71725fa5",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Motortyp",
+        "value": "SM63BG/304"
+      },
+      {
+        "_uid": "eeccc97e8e8a",
+        "component": "spec_row",
+        "group": "Anschlüsse & Abmessungen",
+        "label": "Gewicht",
+        "value": "7,82",
+        "unit": "kg",
+        "value_num": 7.82
+      }
+    ],
+    "flow_max_m3h": 3,
+    "head_max_m": 30.6,
+    "power_kw": 0.4,
+    "voltage": "230/400 V"
+  }
+}

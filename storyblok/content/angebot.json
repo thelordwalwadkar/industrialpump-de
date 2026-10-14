@@ -1,0 +1,71 @@
+{
+  "id": 3932309451,
+  "uuid": "ea6247cb-c6b8-c02a-58ad-686c0db919d5",
+  "name": "Angebot anfordern",
+  "slug": "angebot",
+  "full_slug": "angebot",
+  "content": {
+    "component": "page_contact",
+    "form_kind": "angebot",
+    "h1": "Angebot für Pumpen, Ersatzteile und Revision anfordern",
+    "nav_title": "Angebot anfordern",
+    "seo_title": "Angebot für Pumpen, Ersatzteile und Revision anfordern",
+    "seo_description": "Angebot anfordern: Typenschild oder Betriebsdaten senden, wir prüfen die passende Pumpe, das Ersatzteil oder die Revision.",
+    "intro": "Senden Sie uns Typenschild oder Betriebsdaten Ihrer Pumpe. Wir prüfen, welche Pumpe oder welche Revision passt, und melden uns mit einem Angebot.",
+    "form_intro": "Pflichtfelder sind mit * gekennzeichnet. Wenn Sie von einer Produktseite kommen, sind Marke, Serie und Artikelnummer bereits eingetragen.",
+    "body": [
+      {
+        "_uid": "a3a92c943076",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Allgemeine Fragen? Nutzen Sie das "
+                },
+                {
+                  "type": "text",
+                  "text": "Kontaktformular",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/kontakt",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ". Eine Übersicht der Pumpen finden Sie im "
+                },
+                {
+                  "type": "text",
+                  "text": "Pumpenkatalog",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

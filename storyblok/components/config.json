@@ -1,0 +1,113 @@
+{
+  "component": {
+    "name": "config",
+    "display_name": "Globale Einstellungen",
+    "is_root": true,
+    "is_nestable": false,
+    "schema": {
+      "site_name": {
+        "type": "text",
+        "description": "Marken-/Seitenname, z. B. für Titel und Schema.",
+        "required": true,
+        "pos": 0
+      },
+      "legal_name": {
+        "type": "text",
+        "description": "Juristischer Firmenname.",
+        "pos": 1
+      },
+      "legal_form": {
+        "type": "text",
+        "description": "Rechtsform.",
+        "pos": 2
+      },
+      "street": {
+        "type": "text",
+        "description": "Straße und Hausnummer.",
+        "pos": 3
+      },
+      "postal_code": {
+        "type": "text",
+        "description": "PLZ.",
+        "pos": 4
+      },
+      "city": {
+        "type": "text",
+        "description": "Ort.",
+        "pos": 5
+      },
+      "country_code": {
+        "type": "text",
+        "description": "Ländercode, z. B. DE.",
+        "default_value": "DE",
+        "pos": 6
+      },
+      "phone": {
+        "type": "text",
+        "description": "Telefon.",
+        "pos": 7
+      },
+      "email": {
+        "type": "text",
+        "description": "E-Mail.",
+        "pos": 8
+      },
+      "opening_hours": {
+        "type": "text",
+        "description": "Öffnungszeiten.",
+        "pos": 9
+      },
+      "vat_id": {
+        "type": "text",
+        "description": "USt-IdNr.",
+        "pos": 10
+      },
+      "logo": {
+        "type": "asset",
+        "filetypes": [
+          "images"
+        ],
+        "description": "Logo.",
+        "pos": 11
+      },
+      "social": {
+        "type": "textarea",
+        "description": "Social-Profile, eine URL pro Zeile (sameAs).",
+        "pos": 12
+      },
+      "map_embed_url": {
+        "type": "text",
+        "description": "Karten-Embed-URL (lädt erst nach Einwilligung).",
+        "pos": 13
+      },
+      "authorised_dealer_brands": {
+        "type": "textarea",
+        "description": "Marken, für die offizieller Händlerstatus belegt ist, eine pro Zeile. Ohne Eintrag wird nie ein Händlerstatus behauptet.",
+        "pos": 14
+      },
+      "default_description": {
+        "type": "textarea",
+        "description": "Standard-Meta-Beschreibung.",
+        "pos": 15
+      },
+      "header_nav": {
+        "type": "bloks",
+        "restrict_components": true,
+        "component_whitelist": [
+          "nav_item"
+        ],
+        "description": "Hauptnavigation.",
+        "pos": 16
+      },
+      "footer_groups": {
+        "type": "bloks",
+        "restrict_components": true,
+        "component_whitelist": [
+          "nav_group"
+        ],
+        "description": "Footer-Spalten.",
+        "pos": 17
+      }
+    }
+  }
+}

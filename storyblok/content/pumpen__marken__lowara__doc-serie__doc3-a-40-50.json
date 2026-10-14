@@ -1,0 +1,203 @@
+{
+  "id": 1723433622,
+  "uuid": "66b98296-eda0-a535-add7-543e07ebc5c7",
+  "name": "DOC3/A 40 50",
+  "slug": "doc3-a-40-50",
+  "full_slug": "pumpen/marken/lowara/doc-serie/doc3-a-40-50",
+  "position": 0,
+  "content": {
+    "component": "page_product",
+    "article_number": "DOC3/A 40 50",
+    "name": "DOC3/A 40 50",
+    "nav_title": "DOC3/A 40 50",
+    "h1": "Lowara DOC3/A 40 50 – Tauchmotorpumpe für Entwässerung von Schächten und Kellern",
+    "seo_title": "Lowara DOC3/A 40 50 – Tauchmotorpumpe",
+    "seo_description": "Lowara DOC3/A 40 50: Tauchmotorpumpe der DOC-Serie. Motorleistung 0,25 kW, Förderstrom bis 8,1 m³/h, Förderhöhe bis 6,3 m. Angebot anfordern.",
+    "intro": "Die Lowara DOC3/A 40 50 ist eine Tauchmotorpumpe der DOC-Serie für Entwässerung von Schächten und Kellern.",
+    "short_description": "Die Lowara DOC3/A 40 50 ist eine Tauchmotorpumpe der DOC-Serie für Entwässerung von Schächten und Kellern. Laut Katalogdaten hat dieser Artikel eine Motorleistung von 0,25 kW, einen Förderstrom bis 8,1 m³/h und eine Förderhöhe bis 6,3 m. Ausführungen mit Niveauschalter schalten selbsttätig. Für die Auslegung im Bestand senden Sie uns Typenschild oder Betriebsdaten; wir prüfen, ob die DOC3/A 40 50 Ihre Fördermenge und Förderhöhe abdeckt. Maßgeblich sind die Angaben im Datenblatt des Herstellers.",
+    "image_source": "/Images/ipg_ecom/Lowara/Lowara-DOC.jpg",
+    "image": {
+      "filename": "/img/products/lowara-doc.webp",
+      "alt": "Lowara DOC3/A 40 50"
+    },
+    "internal_item_number": "26-107540000",
+    "key_facts": [
+      {
+        "_uid": "1473fca01097",
+        "component": "key_fact",
+        "label": "Förderstrom max.",
+        "value": "8,1",
+        "unit": "m³/h"
+      },
+      {
+        "_uid": "31bcd141861d",
+        "component": "key_fact",
+        "label": "Förderhöhe max.",
+        "value": "6,3",
+        "unit": "m"
+      },
+      {
+        "_uid": "9dbdb7d3d88e",
+        "component": "key_fact",
+        "label": "Motorleistung",
+        "value": "0,25",
+        "unit": "kW"
+      },
+      {
+        "_uid": "d3055763c074",
+        "component": "key_fact",
+        "label": "Spannung",
+        "value": "230",
+        "unit": "V"
+      }
+    ],
+    "specs": [
+      {
+        "_uid": "76a650959e7f",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderstrom min.",
+        "value": "1,5",
+        "unit": "m³/h",
+        "value_num": 1.5
+      },
+      {
+        "_uid": "7642a7c0bb53",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderstrom max.",
+        "value": "8,1",
+        "unit": "m³/h",
+        "value_num": 8.1
+      },
+      {
+        "_uid": "f90a23508a06",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderhöhe max.",
+        "value": "6,3",
+        "unit": "m",
+        "value_num": 6.3
+      },
+      {
+        "_uid": "5adcf459f88a",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderhöhe min.",
+        "value": "2",
+        "unit": "m",
+        "value_num": 2
+      },
+      {
+        "_uid": "e04423ac3790",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Laufradform",
+        "value": "Geschlossenes Kanalrad"
+      },
+      {
+        "_uid": "9f74b2a89a03",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Motorleistung",
+        "value": "0,25",
+        "unit": "kW",
+        "value_num": 0.25
+      },
+      {
+        "_uid": "0ce7bbd05b0d",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Spannung",
+        "value": "230",
+        "unit": "V",
+        "value_num": 230
+      },
+      {
+        "_uid": "207f692d027e",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Nennspannung (Variante 1)",
+        "value": "220–240",
+        "unit": "V"
+      },
+      {
+        "_uid": "ec5380464fd6",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Frequenz",
+        "value": "50",
+        "unit": "Hz",
+        "value_num": 50
+      },
+      {
+        "_uid": "2905d4234c57",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Phasen",
+        "value": "1",
+        "value_num": 1
+      },
+      {
+        "_uid": "b1e3286d9579",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Nennstrom",
+        "value": "1,43",
+        "unit": "A",
+        "value_num": 1.43
+      },
+      {
+        "_uid": "c2324d357575",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Drehzahl",
+        "value": "2.850",
+        "unit": "min⁻¹",
+        "value_num": 2850
+      },
+      {
+        "_uid": "ccfd7e925dc2",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Motortyp",
+        "value": "18M632"
+      },
+      {
+        "_uid": "bed99d55acc2",
+        "component": "spec_row",
+        "group": "Werkstoffe",
+        "label": "Pumpengehäuse",
+        "value": "Gusseisen"
+      },
+      {
+        "_uid": "5099de5b5349",
+        "component": "spec_row",
+        "group": "Werkstoffe",
+        "label": "Gehäuse, Werkstoffangabe",
+        "value": "Gusseisen EN-GJL-250"
+      },
+      {
+        "_uid": "3fe96eb9ecc4",
+        "component": "spec_row",
+        "group": "Werkstoffe",
+        "label": "Laufrad",
+        "value": "Gusseisen"
+      },
+      {
+        "_uid": "1a8c1325776f",
+        "component": "spec_row",
+        "group": "Anschlüsse & Abmessungen",
+        "label": "Gewicht",
+        "value": "4,5",
+        "unit": "kg",
+        "value_num": 4.5
+      }
+    ],
+    "flow_max_m3h": 8.1,
+    "head_max_m": 6.3,
+    "power_kw": 0.25,
+    "voltage": "230 V",
+    "material": "Gusseisen"
+  }
+}

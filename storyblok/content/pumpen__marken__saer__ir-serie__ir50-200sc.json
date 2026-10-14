@@ -1,0 +1,362 @@
+{
+  "id": 1648708196,
+  "uuid": "62454a64-291c-61c0-09c4-cecacafc8ca5",
+  "name": "IR50-200SC",
+  "slug": "ir50-200sc",
+  "full_slug": "pumpen/marken/saer/ir-serie/ir50-200sc",
+  "position": 0,
+  "content": {
+    "component": "page_product",
+    "article_number": "IR50-200SC",
+    "name": "IR50-200SC",
+    "nav_title": "IR50-200SC",
+    "h1": "SAER IR50-200SC – Kreiselpumpe für Wasserversorgung und Bewässerung",
+    "seo_title": "SAER IR50-200SC – Kreiselpumpe",
+    "seo_description": "SAER IR50-200SC: Kreiselpumpe der IR-Serie. Motorleistung 15 kW, Förderstrom bis 75 m³/h, Förderhöhe bis 59 m. Angebot anfordern.",
+    "intro": "Die SAER IR50-200SC ist eine Kreiselpumpe der IR-Serie für Wasserversorgung und Bewässerung.",
+    "short_description": "Die SAER IR50-200SC ist eine Kreiselpumpe der IR-Serie für Wasserversorgung und Bewässerung. Laut Katalogdaten hat dieser Artikel eine Motorleistung von 15 kW, einen Förderstrom bis 75 m³/h und eine Förderhöhe bis 59 m. Für die Auslegung im Bestand senden Sie uns Typenschild oder Betriebsdaten; wir prüfen, ob die IR50-200SC Ihre Fördermenge und Förderhöhe abdeckt. Maßgeblich sind die Angaben im Datenblatt des Herstellers.",
+    "image_source": "/Images/ipg_ecom/SAER/SAER-IR.jpg",
+    "image": {
+      "filename": "/img/products/saer-ir.webp",
+      "alt": "SAER IR50-200SC"
+    },
+    "internal_item_number": "11030870",
+    "key_facts": [
+      {
+        "_uid": "4a402c65b240",
+        "component": "key_fact",
+        "label": "Förderstrom max.",
+        "value": "75",
+        "unit": "m³/h"
+      },
+      {
+        "_uid": "ae414a549c23",
+        "component": "key_fact",
+        "label": "Förderhöhe max.",
+        "value": "59",
+        "unit": "m"
+      },
+      {
+        "_uid": "53b0a4028aeb",
+        "component": "key_fact",
+        "label": "Motorleistung",
+        "value": "15",
+        "unit": "kW"
+      },
+      {
+        "_uid": "574d9a47ec2d",
+        "component": "key_fact",
+        "label": "Spannung",
+        "value": "400",
+        "unit": "V"
+      }
+    ],
+    "specs": [
+      {
+        "_uid": "9b78833afbf8",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderstrom max.",
+        "value": "75",
+        "unit": "m³/h",
+        "value_num": 75
+      },
+      {
+        "_uid": "f44f3471c1b8",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderhöhe max.",
+        "value": "59",
+        "unit": "m",
+        "value_num": 59
+      },
+      {
+        "_uid": "a706725cc4fc",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderhöhe min.",
+        "value": "36",
+        "unit": "m",
+        "value_num": 36
+      },
+      {
+        "_uid": "cee7dd7ebf57",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Medientemperatur max.",
+        "value": "40",
+        "unit": "°C",
+        "value_num": 40
+      },
+      {
+        "_uid": "8fd96f792473",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Max. Betriebsdruck",
+        "value": "PN 10"
+      },
+      {
+        "_uid": "f84f38ec82ed",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Bestpunkt (BEP)",
+        "value": "Q = 50 m³/h, η = 65,4 %"
+      },
+      {
+        "_uid": "8ec5428afd7a",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Laufraddurchmesser",
+        "value": "214",
+        "unit": "mm",
+        "value_num": 214
+      },
+      {
+        "_uid": "8ec7fcc9aafb",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Laufradform",
+        "value": "Geschlossenes Kanalrad"
+      },
+      {
+        "_uid": "c4d5980233c2",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Auslegungsmedium",
+        "value": "Wasser bei 20 °C, Dichte 998,3 kg/m³"
+      },
+      {
+        "_uid": "1e28cd259e3d",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Max. Aufstellhöhe",
+        "value": "1.000",
+        "unit": "m",
+        "value_num": 1000
+      },
+      {
+        "_uid": "b43262733ac0",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Motorleistung",
+        "value": "15",
+        "unit": "kW",
+        "value_num": 15
+      },
+      {
+        "_uid": "1ff6bc82c534",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Spannung",
+        "value": "400",
+        "unit": "V",
+        "value_num": 400
+      },
+      {
+        "_uid": "bd58b149f51b",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Nennspannung (Variante 1)",
+        "value": "400/690",
+        "unit": "V"
+      },
+      {
+        "_uid": "e56134c3c388",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Frequenz",
+        "value": "50",
+        "unit": "Hz",
+        "value_num": 50
+      },
+      {
+        "_uid": "f7f7b9b9834d",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Nennstrom",
+        "value": "27,4",
+        "unit": "A",
+        "value_num": 27.4
+      },
+      {
+        "_uid": "fc6f4e807ffc",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Drehzahl",
+        "value": "2.950",
+        "unit": "min⁻¹",
+        "value_num": 2950
+      },
+      {
+        "_uid": "cbdcbe80bae6",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Schutzart",
+        "value": "IP55"
+      },
+      {
+        "_uid": "7c53e274668e",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Isolationsklasse",
+        "value": "F / B"
+      },
+      {
+        "_uid": "db12f163f759",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Wirkungsgradklasse",
+        "value": "IE3"
+      },
+      {
+        "_uid": "cd5953884ce5",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Motorwirkungsgrad bei Volllast",
+        "value": "92,1",
+        "unit": "%",
+        "value_num": 92.1
+      },
+      {
+        "_uid": "4cda748aba3f",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Betriebsart",
+        "value": "S1"
+      },
+      {
+        "_uid": "3c206e87a1c0",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Leistungsfaktor cos φ",
+        "value": "0,86",
+        "value_num": 0.86
+      },
+      {
+        "_uid": "722f93f61293",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Anzugsstrom-Verhältnis Ia/In",
+        "value": "9,2",
+        "value_num": 9.2
+      },
+      {
+        "_uid": "e0f03052a889",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Anzugsmoment-Verhältnis Ma/Mn",
+        "value": "2",
+        "value_num": 2
+      },
+      {
+        "_uid": "b8ea917f6d99",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Kippmoment-Verhältnis Mk/Mn",
+        "value": "4,2",
+        "value_num": 4.2
+      },
+      {
+        "_uid": "968757ccb14d",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Nennmoment",
+        "value": "48,6",
+        "unit": "Nm",
+        "value_num": 48.622
+      },
+      {
+        "_uid": "829f2c6dc9fd",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Betriebsfaktor",
+        "value": "1",
+        "value_num": 1
+      },
+      {
+        "_uid": "edc0674d4fd0",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Kühlart",
+        "value": "IC411"
+      },
+      {
+        "_uid": "b62e2a99b509",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Klemmenkasten",
+        "value": "oben"
+      },
+      {
+        "_uid": "a9871785ec6f",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Drehrichtung",
+        "value": "rechts / links"
+      },
+      {
+        "_uid": "e20386f53f2b",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Schalldruckpegel",
+        "value": "75",
+        "unit": "dB(A)",
+        "value_num": 75
+      },
+      {
+        "_uid": "946601c4eaa5",
+        "component": "spec_row",
+        "group": "Werkstoffe",
+        "label": "Pumpengehäuse",
+        "value": "Gusseisen"
+      },
+      {
+        "_uid": "e60befcb7be3",
+        "component": "spec_row",
+        "group": "Werkstoffe",
+        "label": "Gehäuse, Werkstoffangabe",
+        "value": "Gusseisen EN-GJL-250"
+      },
+      {
+        "_uid": "2d19ecb648ec",
+        "component": "spec_row",
+        "group": "Werkstoffe",
+        "label": "Laufrad",
+        "value": "Gusseisen EN-GJL-250"
+      },
+      {
+        "_uid": "97e93a4d4fce",
+        "component": "spec_row",
+        "group": "Werkstoffe",
+        "label": "Lagerung",
+        "value": "Radialkugellager mit Dauerschmierung"
+      },
+      {
+        "_uid": "bbef693a48fd",
+        "component": "spec_row",
+        "group": "Werkstoffe",
+        "label": "Lagertyp",
+        "value": "Antriebsseite: 6208-2Z / Gegenseite: 6208-2Z"
+      },
+      {
+        "_uid": "3be44394d3a5",
+        "component": "spec_row",
+        "group": "Anschlüsse & Abmessungen",
+        "label": "Druckanschluss",
+        "value": "DN 50"
+      },
+      {
+        "_uid": "6c0fe605bf40",
+        "component": "spec_row",
+        "group": "Anschlüsse & Abmessungen",
+        "label": "Kabeleinführung",
+        "value": "2 × M32x1.5"
+      }
+    ],
+    "flow_max_m3h": 75,
+    "head_max_m": 59,
+    "power_kw": 15,
+    "voltage": "400 V",
+    "material": "Gusseisen"
+  }
+}

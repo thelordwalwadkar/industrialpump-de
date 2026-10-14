@@ -1,0 +1,14 @@
+---
+import type { ImageText } from '../lib/types';
+import Figure from '../components/Figure.astro';
+import RichTextHtml from '../components/RichTextHtml.astro';
+interface Props { blok: ImageText }
+const { blok } = Astro.props;
+---
+<section class="section">
+  <div class="wrap two-col">
+    {blok.side === 'left' && <div><Figure asset={blok.image} alt="" width={560} height={420} /></div>}
+    <RichTextHtml doc={blok.text} />
+    {blok.side !== 'left' && <div><Figure asset={blok.image} alt="" width={560} height={420} /></div>}
+  </div>
+</section>

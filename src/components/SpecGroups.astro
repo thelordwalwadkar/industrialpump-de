@@ -1,0 +1,23 @@
+---
+import type { SpecRow } from '../lib/types';
+interface Props { rows: SpecRow[]; caption?: string }
+const { rows, caption = 'Technische Daten' } = Astro.props;
+const ORDER = ['Hydraulik', 'Motor/Elektrik', 'Werkstoffe', 'Anschlüsse & Abmessungen'];
+const groups = new Map<string, SpecRow[]>();
+for (const r of rows) { if (!r.label || !r.value) continue; const g = r.group || 'Weitere Angaben'; groups.set(g, [...(groups.get(g) ?? []), r]); }
+const ordered = [...groups.entries()].sort(([a], [b]) => (ORDER.indexOf(a) === -1 ? 99 : ORDER.indexOf(a)) - (ORDER.indexOf(b) === -1 ? 99 : ORDER.indexOf(b)));
+---
+{ordered.length > 0 && (
+  <div class="spec-wrap" tabindex="0" role="region" aria-label={caption}>
+    <table class="spec">
+      <caption class="visually-hidden">{caption}</caption>
+      <thead class="visually-hidden"><tr><th scope="col">Merkmal</th><th scope="col">Wert</th></tr></thead>
+      {ordered.map(([group, items]) => (
+        <tbody>
+          <tr><th scope="rowgroup" colspan="2">{group}</th></tr>
+          {items.map((r) => <tr><th scope="row">{r.label}</th><td>{r.value}{r.unit ? ` ${r.unit}` : ''}</td></tr>)}
+        </tbody>
+      ))}
+    </table>
+  </div>
+)}

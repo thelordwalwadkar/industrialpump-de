@@ -1,0 +1,73 @@
+{
+  "id": 4081040739,
+  "uuid": "f33fbd63-c1cf-b36a-6aa5-8a837dea5efb",
+  "name": "Flygt",
+  "slug": "flygt",
+  "full_slug": "pumpen/marken/flygt",
+  "position": 4,
+  "content": {
+    "component": "page_brand",
+    "brand_name": "Flygt",
+    "h1": "Flygt Pumpen – Serien, Einsatzbereiche und Revision",
+    "nav_title": "Flygt",
+    "seo_title": "Flygt Pumpen: Serien, Einsatzbereiche und Revision",
+    "seo_description": "Flygt-Pumpen im Überblick: Tauchmotorpumpen der Ready-Serie für Entwässerung und Wasserhaltung, Einsatzbereiche und Revision. Angebot anfordern.",
+    "intro": "Flygt ist eine Marke von Xylem und vor allem für Tauchmotorpumpen und Rührwerke bekannt. Diese Seite zeigt die Flygt-Serie aus unserem Katalog, ihre Einsatzbereiche und die Möglichkeiten zur Revision.",
+    "parent_company": "Xylem",
+    "body_text": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Flygt gehört zur Xylem-Gruppe und steht für Tauchmotorpumpen, die in Abwasser- und Entwässerungsanwendungen zum Einsatz kommen. In unserem Katalog ist die Ready-Serie geführt: Tauchmotorpumpen für Entwässerung und Wasserhaltung."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Die Katalogdaten der Ready-Serie enthalten bisher nur wenige technische Werte. Technische Daten, Kennlinien und Ausführungen nennen wir Ihnen auf Anfrage nach Datenblatt des Herstellers."
+            }
+          ]
+        }
+      ]
+    },
+    "logo": {
+      "filename": "/img/brands/flygt.webp",
+      "alt": "Flygt"
+    },
+    "revision_text": "Eine Revision kann je nach Zustand der Pumpe den Austausch von Verschleißteilen wie Gleitringdichtungen und Lagern umfassen. Den genauen Umfang legen wir nach Prüfung der Pumpe mit Ihnen fest. Welche Teile im Einzelfall verfügbar sind, hängt von Serie, Baujahr und Ausführung ab.",
+    "faq": [
+      {
+        "_uid": "40c1f7645f20",
+        "component": "faq",
+        "heading": "Häufige Fragen zu Flygt-Pumpen",
+        "items": [
+          {
+            "_uid": "edfcbd219fd8",
+            "component": "faq_item",
+            "question": "Sind Ersatzteile für Flygt-Pumpen verfügbar?",
+            "answer": "Das hängt von Serie, Baujahr und Ausführung ab. Senden Sie uns Typenschild oder ein Foto der Pumpe, dann prüfen wir die Verfügbarkeit."
+          },
+          {
+            "_uid": "f40dbba837f7",
+            "component": "faq_item",
+            "question": "Kann ich eine ältere Flygt-Serie durch ein aktuelles Modell ersetzen?",
+            "answer": "Das ist je nach Serie möglich. Entscheidend sind Förderstrom, Förderhöhe, Anschlussmaße und Motordaten der vorhandenen Pumpe. Anhand des Typenschilds prüfen wir, welches Modell passt."
+          },
+          {
+            "_uid": "6a71209a15e6",
+            "component": "faq_item",
+            "question": "Wie lang ist die Lieferzeit für Flygt-Pumpen?",
+            "answer": "[[PLATZHALTER: Lieferzeit Flygt]]"
+          }
+        ]
+      }
+    ]
+  }
+}

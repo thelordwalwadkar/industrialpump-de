@@ -1,0 +1,49 @@
+{
+  "component": {
+    "name": "download_item",
+    "display_name": "Download",
+    "is_root": false,
+    "is_nestable": true,
+    "schema": {
+      "label": {
+        "type": "text",
+        "description": "Beschriftung, z. B. „Datenblatt herunterladen (PDF)“.",
+        "required": true,
+        "pos": 0
+      },
+      "file": {
+        "type": "asset",
+        "filetypes": [
+          "pdfs",
+          "images"
+        ],
+        "description": "Datei. Ohne Datei wird der Eintrag nicht angezeigt.",
+        "pos": 1
+      },
+      "kind": {
+        "type": "option",
+        "source": "self",
+        "options": [
+          {
+            "name": "Datenblatt",
+            "value": "datenblatt"
+          },
+          {
+            "name": "Kennlinie",
+            "value": "kennlinie"
+          },
+          {
+            "name": "Handbuch",
+            "value": "handbuch"
+          },
+          {
+            "name": "Sonstiges",
+            "value": "sonstiges"
+          }
+        ],
+        "description": "Art.",
+        "pos": 2
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": 3690188710,
+  "uuid": "dbf3cfa6-5d2d-8e87-ffd9-77fc8f23e66d",
+  "name": "Pumpengrundlagen",
+  "slug": "kurs",
+  "full_slug": "__fixtures__/kurs",
+  "content": {
+    "component": "page_course",
+    "h1": "Kurs Pumpengrundlagen",
+    "nav_title": "Pumpengrundlagen",
+    "seo_title": "Kurs Pumpengrundlagen für Instandhalter",
+    "seo_description": "Fixture für das Kurs-Template: Lernziele, Zielgruppe, Dauer, Format und Anmeldung.",
+    "intro": "Der Kurs vermittelt die Grundlagen von Kreiselpumpen. Diese Seite prüft das Kurs-Template.",
+    "goals": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Aufbau einer Kreiselpumpe"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Kennlinie lesen"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "audience": "Instandhaltung und Betrieb",
+    "duration": "1 Tag",
+    "mode": "onsite",
+    "level": "Einsteiger",
+    "dates": "Termine nach Vereinbarung"
+  }
+}

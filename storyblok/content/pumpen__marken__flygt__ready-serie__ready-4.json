@@ -1,0 +1,72 @@
+{
+  "id": 2059186436,
+  "uuid": "7abcb104-f32a-eb16-d692-68711dbde7a7",
+  "name": "Ready 4",
+  "slug": "ready-4",
+  "full_slug": "pumpen/marken/flygt/ready-serie/ready-4",
+  "position": 0,
+  "content": {
+    "component": "page_product",
+    "article_number": "Ready 4",
+    "name": "Ready 4",
+    "nav_title": "Ready 4",
+    "h1": "Flygt Ready 4 – Tauchmotorpumpe für Entwässerung und Wasserhaltung",
+    "seo_title": "Flygt Ready 4 – Tauchmotorpumpe",
+    "seo_description": "Flygt Ready 4: Tauchmotorpumpe der Ready-Serie. Motorleistung 0,42 kW. Angebot anfordern.",
+    "intro": "Die Flygt Ready 4 ist eine Tauchmotorpumpe der Ready-Serie für Entwässerung und Wasserhaltung.",
+    "short_description": "Die Flygt Ready 4 ist eine Tauchmotorpumpe der Ready-Serie für Entwässerung und Wasserhaltung. Laut Katalogdaten hat dieser Artikel eine Motorleistung von 0,42 kW. Für die Auslegung im Bestand senden Sie uns Typenschild oder Betriebsdaten; wir prüfen, ob die Ready 4 Ihre Fördermenge und Förderhöhe abdeckt. Weitere Artikel und die Kennbereiche der Ready-Serie finden Sie auf der Serienseite. Maßgeblich sind die Angaben im Datenblatt des Herstellers.",
+    "image_source": "/Images/ipg_ecom/Flygt/Flygt-Ready-series.png",
+    "image": {
+      "filename": "/img/products/flygt-ready-series.webp",
+      "alt": "Flygt Ready 4"
+    },
+    "internal_item_number": "2004.212-0001",
+    "key_facts": [
+      {
+        "_uid": "ed4245d745d5",
+        "component": "key_fact",
+        "label": "Motorleistung",
+        "value": "0,42",
+        "unit": "kW"
+      },
+      {
+        "_uid": "070e0d61bb42",
+        "component": "key_fact",
+        "label": "Spannung",
+        "value": "230",
+        "unit": "V"
+      }
+    ],
+    "specs": [
+      {
+        "_uid": "ae9808dda862",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Motorleistung",
+        "value": "0,42",
+        "unit": "kW",
+        "value_num": 0.42
+      },
+      {
+        "_uid": "00c72349e6a3",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Spannung",
+        "value": "230",
+        "unit": "V",
+        "value_num": 230
+      },
+      {
+        "_uid": "843ee66d88ea",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Frequenz",
+        "value": "50",
+        "unit": "Hz",
+        "value_num": 50
+      }
+    ],
+    "power_kw": 0.42,
+    "voltage": "230 V"
+  }
+}

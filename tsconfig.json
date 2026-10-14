@@ -1,0 +1,13 @@
+{
+  "extends": "astro/tsconfigs/strictest",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": { "@/*": ["src/*"] },
+    "verbatimModuleSyntax": true,
+    "exactOptionalPropertyTypes": false,
+    "noUncheckedIndexedAccess": true,
+    "types": ["node"]
+  },
+  "include": [".astro/types.d.ts", "src/**/*", "scripts/**/*", "tests/**/*", "storyblok/**/*.ts"],
+  "exclude": ["dist", "dist-fixtures", "node_modules"]
+}

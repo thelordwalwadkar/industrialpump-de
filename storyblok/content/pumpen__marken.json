@@ -1,0 +1,99 @@
+{
+  "id": 588766506,
+  "uuid": "2317dd2a-0249-2908-4b7b-4c5438214652",
+  "name": "Marken",
+  "slug": "marken",
+  "full_slug": "pumpen/marken",
+  "position": 1,
+  "content": {
+    "component": "page_hub",
+    "h1": "Pumpen nach Hersteller",
+    "nav_title": "Marken",
+    "seo_title": "Pumpen nach Hersteller: Lowara, SAER, Ebara, Flygt",
+    "seo_description": "Pumpenmarken im Katalog: Lowara, SAER, Ebara und Flygt mit Serien, Einsatzbereichen und Hinweisen zur Revision.",
+    "intro": "Wir führen Pumpen von vier Herstellern: Lowara, SAER, Ebara und Flygt. Jede Marke hat eine eigene Seite mit Serien, Einsatzbereichen und Hinweisen zur Revision.",
+    "child_heading": "Marken",
+    "body_text": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Lowara und Flygt gehören zur Xylem-Gruppe. SAER und Ebara sind eigenständige Hersteller. Innerhalb jeder Marke sind die Pumpen nach Serien geordnet; jede Serie zeigt ihre Kennbereiche und die Artikel des Katalogs."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Wenn Sie nicht wissen, welche Marke zu Ihrer Anlage passt, "
+            },
+            {
+              "type": "text",
+              "text": "senden Sie uns das Typenschild",
+              "marks": [
+                {
+                  "type": "link",
+                  "attrs": {
+                    "href": "/angebot",
+                    "linktype": "url"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Wir prüfen, welche Serie infrage kommt."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "attrs": {
+            "level": 2
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "So ist der Katalog aufgebaut"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Der Weg führt von der Marke über die Serie zum einzelnen Artikel. Auf der Markenseite sehen Sie alle Serien mit Einsatzbereichen, auf der Serienseite die Kennbereiche, die Artikel und vergleichbare Serien anderer Marken. Die Artikelseite nennt die technischen Daten und übernimmt Marke, Serie und Artikelnummer in die Angebotsanfrage."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "attrs": {
+            "level": 2
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Ersatzteile und Revision"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Für jede Marke können Sie Ersatzteile und eine Revision anfragen. Ob und in welchem Umfang das möglich ist, hängt von Serie, Baujahr und Ausführung der Pumpe ab; das Typenschild genügt für eine erste Einschätzung."
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

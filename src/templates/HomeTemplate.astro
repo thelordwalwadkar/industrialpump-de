@@ -1,0 +1,47 @@
+---
+/** T1 · page_home — Hero (Himmelblau, Link-Liste) · Pumpe finden nach Typ · Leistungs-Kacheln · Revision · Marken · Referenzen · Pumpenschule · Kontakt */
+import type { PageHome, PageStory } from '../lib/types';
+import type { Site } from '../lib/storyblok';
+import { seriesByPumpType } from '../lib/linking';
+import { resolveLink } from '../lib/links';
+import { TYPE_BLURB } from '../lib/taxonomy';
+import Hero from '../storyblok/Hero.astro';
+import CtaBand from '../storyblok/CtaBand.astro';
+import LogoStrip from '../storyblok/LogoStrip.astro';
+import LinkCards from '../components/LinkCards.astro';
+import Bloks from '../components/Bloks.astro';
+interface Props { story: PageStory<PageHome>; site: Site }
+const { story, site } = Astro.props;
+const c = story.content;
+const byType = seriesByPumpType(site);
+// Right-hand link list of the hero: the entry cards whose target page exists.
+const heroLinks = (c.tiles ?? []).flatMap((g) => g.cards ?? []).flatMap((card) => {
+  const r = resolveLink(site, card.link);
+  return r && r.exists ? [{ title: card.title, href: r.href }] : [];
+});
+---
+{c.hero?.map((b) => <Hero blok={b} site={site} links={heroLinks} />)}
+
+{byType.length > 0 && (
+  <section class="section" aria-labelledby="finden">
+    <div class="wrap">
+      <h2 id="finden">Pumpe finden</h2>
+      {byType.map((g) => (
+        <div class="type-block">
+          <div class="type-head">
+            {g.term.image && <img src={g.term.image} width="320" height="240" alt="" loading="lazy" decoding="async" />}
+            <div><h3>{g.term.label}</h3><p>{TYPE_BLURB[g.term.slug]}</p></div>
+          </div>
+          <LinkCards cards={g.series} variant="cards" headingLevel={4} />
+        </div>
+      ))}
+    </div>
+  </section>
+)}
+
+<Bloks bloks={c.body} site={site} />
+{c.revision?.map((b) => <CtaBand blok={{ ...b, variant: 'overhaul' }} site={site} />)}
+{c.brands?.map((b) => <LogoStrip blok={b} site={site} />)}
+{c.references?.map((b) => <CtaBand blok={b} site={site} />)}
+{c.school?.map((b) => <CtaBand blok={b} site={site} />)}
+{c.contact?.map((b) => <CtaBand blok={b} site={site} />)}

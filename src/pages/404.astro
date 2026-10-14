@@ -1,0 +1,20 @@
+---
+import { getSite, absoluteUrl } from '../lib/storyblok';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PageHead from '../components/PageHead.astro';
+import LinkCards from '../components/LinkCards.astro';
+import { cardFor } from '../lib/linking';
+
+const site = await getSite();
+const brands = site.pages.filter((p) => p.content.component === 'page_brand' && !p.full_slug.startsWith('__fixtures__')).map((b) => cardFor(b, site));
+const seo = { title: 'Seite nicht gefunden', description: 'Diese Seite gibt es nicht (mehr). Über die Marken- und Pumpenübersicht finden Sie das passende Produkt.', canonical: absoluteUrl('/404'), noindex: true, ogType: 'website' };
+---
+<BaseLayout seo={seo} site={site}>
+  <PageHead h1="Seite nicht gefunden" intro="Diese Adresse gibt es nicht (mehr). Starten Sie bei den Pumpen oder fordern Sie direkt ein Angebot an." />
+  <section class="section">
+    <div class="wrap">
+      <div class="btn-row" style="margin-top:0"><a class="btn" href="/pumpen">Zu den Pumpen</a><a class="btn btn--ghost" href="/angebot">Angebot anfordern</a></div>
+      {brands.length > 0 && <><h2 style="margin-top:2rem">Marken</h2><LinkCards cards={brands} variant="cards" /></>}
+    </div>
+  </section>
+</BaseLayout>

@@ -1,0 +1,24 @@
+{
+  "component": {
+    "name": "download_list",
+    "display_name": "Downloads",
+    "is_root": false,
+    "is_nestable": true,
+    "schema": {
+      "heading": {
+        "type": "text",
+        "description": "Überschrift.",
+        "pos": 0
+      },
+      "items": {
+        "type": "bloks",
+        "restrict_components": true,
+        "component_whitelist": [
+          "download_item"
+        ],
+        "description": "Dateien.",
+        "pos": 1
+      }
+    }
+  }
+}

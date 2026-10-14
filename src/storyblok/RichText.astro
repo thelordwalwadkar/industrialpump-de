@@ -1,0 +1,7 @@
+---
+import type { RichTextBlok } from '../lib/types';
+import RichTextHtml from '../components/RichTextHtml.astro';
+interface Props { blok: RichTextBlok }
+const { blok } = Astro.props;
+---
+<section class="section"><div class="wrap"><RichTextHtml doc={blok.content} /></div></section>

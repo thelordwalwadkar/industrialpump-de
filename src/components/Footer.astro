@@ -1,0 +1,38 @@
+---
+import type { Site } from '../lib/storyblok';
+import { resolveLink } from '../lib/links';
+
+interface Props { site: Site; minimal?: boolean }
+const { site, minimal = false } = Astro.props;
+const c = site.config;
+const groups = (c.footer_groups ?? []).map((g) => ({
+  label: g.label,
+  items: (g.items ?? []).flatMap((i) => { const r = resolveLink(site, i.link); return r && r.exists ? [{ label: i.label, href: r.href }] : []; }),
+})).filter((g) => g.items.length);
+const address = [c.street, [c.postal_code, c.city].filter(Boolean).join(' ')].filter(Boolean);
+---
+<footer class="site-footer">
+  <div class="wrap">
+    {!minimal && (
+      <div class="cols">
+        <div>
+          <img class="footer-logo" src="/img/logo-navy.webp" width="480" height="271" alt={c.site_name} loading="lazy" />
+          <p>{c.legal_name}{c.legal_form ? ` ${c.legal_form}` : ''}</p>
+          {address.length > 0 && <p>{address.map((l, i) => <>{i > 0 && <br />}{l}</>)}</p>}
+          {c.phone && <p>Telefon: {c.phone}</p>}
+          {c.email && <p>E-Mail: {c.email}</p>}
+        </div>
+        {groups.map((g) => (
+          <nav aria-label={g.label}>
+            <h2>{g.label}</h2>
+            <ul>{g.items.map((i) => <li><a href={i.href}>{i.label}</a></li>)}</ul>
+          </nav>
+        ))}
+      </div>
+    )}
+    <p class="legal-line">
+      © {new Date().getFullYear()} {c.site_name}. Alle Marken- und Produktnamen gehören den jeweiligen Herstellern.
+      <button type="button" class="btn btn--ghost" data-consent-open>Cookie-Einstellungen</button>
+    </p>
+  </div>
+</footer>

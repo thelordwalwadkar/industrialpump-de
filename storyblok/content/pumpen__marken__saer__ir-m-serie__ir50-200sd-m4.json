@@ -1,0 +1,313 @@
+{
+  "id": 520903567,
+  "uuid": "1f0c5b8f-8a71-5455-cf29-efc66b387b5a",
+  "name": "IR50-200SD-M4",
+  "slug": "ir50-200sd-m4",
+  "full_slug": "pumpen/marken/saer/ir-m-serie/ir50-200sd-m4",
+  "position": 0,
+  "content": {
+    "component": "page_product",
+    "article_number": "IR50-200SD-M4",
+    "name": "IR50-200SD-M4",
+    "nav_title": "IR50-200SD-M4",
+    "h1": "SAER IR50-200SD-M4 – Blockpumpe für Wasseraufbereitung und Wassertransport",
+    "seo_title": "SAER IR50-200SD-M4 – Blockpumpe",
+    "seo_description": "SAER IR50-200SD-M4: Blockpumpe der IR-M-Serie. Motorleistung 15 kW, Förderstrom bis 75 m³/h, Förderhöhe bis 59 m. Angebot anfordern.",
+    "intro": "Die SAER IR50-200SD-M4 ist eine Blockpumpe der IR-M-Serie für Wasseraufbereitung und Wassertransport.",
+    "short_description": "Die SAER IR50-200SD-M4 ist eine Blockpumpe der IR-M-Serie für Wasseraufbereitung und Wassertransport. Laut Katalogdaten hat dieser Artikel eine Motorleistung von 15 kW, einen Förderstrom bis 75 m³/h und eine Förderhöhe bis 59 m. Für die Auslegung im Bestand senden Sie uns Typenschild oder Betriebsdaten; wir prüfen, ob die IR50-200SD-M4 Ihre Fördermenge und Förderhöhe abdeckt. Maßgeblich sind die Angaben im Datenblatt des Herstellers.",
+    "image_source": "/Images/ipg_ecom/SAER/SAER-IR-M.jpg",
+    "image": {
+      "filename": "/img/products/saer-ir-m.webp",
+      "alt": "SAER IR50-200SD-M4"
+    },
+    "internal_item_number": "11130510",
+    "key_facts": [
+      {
+        "_uid": "7fd9bef97de2",
+        "component": "key_fact",
+        "label": "Förderstrom max.",
+        "value": "75",
+        "unit": "m³/h"
+      },
+      {
+        "_uid": "82a5780943f3",
+        "component": "key_fact",
+        "label": "Förderhöhe max.",
+        "value": "59",
+        "unit": "m"
+      },
+      {
+        "_uid": "4c18b94061b2",
+        "component": "key_fact",
+        "label": "Motorleistung",
+        "value": "15",
+        "unit": "kW"
+      },
+      {
+        "_uid": "6ab26ca0e9b3",
+        "component": "key_fact",
+        "label": "Spannung",
+        "value": "400",
+        "unit": "V"
+      }
+    ],
+    "specs": [
+      {
+        "_uid": "83f1b8d327b2",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderstrom max.",
+        "value": "75",
+        "unit": "m³/h",
+        "value_num": 75
+      },
+      {
+        "_uid": "11b633048274",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderhöhe max.",
+        "value": "59",
+        "unit": "m",
+        "value_num": 59
+      },
+      {
+        "_uid": "2a85f41dcbbf",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Förderhöhe min.",
+        "value": "36",
+        "unit": "m",
+        "value_num": 36
+      },
+      {
+        "_uid": "3b53fa51c1ff",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Medientemperatur max.",
+        "value": "40",
+        "unit": "°C",
+        "value_num": 40
+      },
+      {
+        "_uid": "3aaf37447d2b",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Max. Betriebsdruck",
+        "value": "PN 10"
+      },
+      {
+        "_uid": "cbcc624315fb",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Laufraddurchmesser",
+        "value": "214",
+        "unit": "mm",
+        "value_num": 214
+      },
+      {
+        "_uid": "5f00c6ab8ca3",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Laufradform",
+        "value": "Geschlossenes Kanalrad"
+      },
+      {
+        "_uid": "564ad467899a",
+        "component": "spec_row",
+        "group": "Hydraulik",
+        "label": "Max. Aufstellhöhe",
+        "value": "1.000",
+        "unit": "m",
+        "value_num": 1000
+      },
+      {
+        "_uid": "0de12bc22388",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Motorleistung",
+        "value": "15",
+        "unit": "kW",
+        "value_num": 15
+      },
+      {
+        "_uid": "2d10378cd8a4",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Spannung",
+        "value": "400",
+        "unit": "V",
+        "value_num": 400
+      },
+      {
+        "_uid": "8da59126858f",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Nennspannung (Variante 1)",
+        "value": "400/690",
+        "unit": "V"
+      },
+      {
+        "_uid": "bda103d1d506",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Frequenz",
+        "value": "50",
+        "unit": "Hz",
+        "value_num": 50
+      },
+      {
+        "_uid": "4af19cec9443",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Nennstrom",
+        "value": "27,4",
+        "unit": "A",
+        "value_num": 27.4
+      },
+      {
+        "_uid": "322dee22df1b",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Drehzahl",
+        "value": "2.950",
+        "unit": "min⁻¹",
+        "value_num": 2950
+      },
+      {
+        "_uid": "29acbbe2d23e",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Schutzart",
+        "value": "IP55"
+      },
+      {
+        "_uid": "a3c079988b29",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Isolationsklasse",
+        "value": "F"
+      },
+      {
+        "_uid": "c79b41d1cbc3",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Wirkungsgradklasse",
+        "value": "IE3"
+      },
+      {
+        "_uid": "62d725427e51",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Betriebsart",
+        "value": "S1"
+      },
+      {
+        "_uid": "5abad032da02",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Nennmoment",
+        "value": "48,6",
+        "unit": "Nm",
+        "value_num": 48.622
+      },
+      {
+        "_uid": "fce1c3f7eb53",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Motorbaugröße",
+        "value": "132"
+      },
+      {
+        "_uid": "c20fa0c17030",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Kühlart",
+        "value": "IC411"
+      },
+      {
+        "_uid": "08c36ca711a0",
+        "component": "spec_row",
+        "group": "Motor/Elektrik",
+        "label": "Schalldruckpegel",
+        "value": "75",
+        "unit": "dB(A)",
+        "value_num": 75
+      },
+      {
+        "_uid": "18a8c559d65a",
+        "component": "spec_row",
+        "group": "Werkstoffe",
+        "label": "Pumpengehäuse",
+        "value": "Bronze"
+      },
+      {
+        "_uid": "e876306e4701",
+        "component": "spec_row",
+        "group": "Werkstoffe",
+        "label": "Gehäuse, Werkstoffangabe",
+        "value": "Bronze, Gusseisen EN-GJL-250"
+      },
+      {
+        "_uid": "485a817ac005",
+        "component": "spec_row",
+        "group": "Werkstoffe",
+        "label": "Laufrad",
+        "value": "Gusseisen EN-GJL-250, Bronze"
+      },
+      {
+        "_uid": "55f1b8f86e19",
+        "component": "spec_row",
+        "group": "Werkstoffe",
+        "label": "Gleitringdichtung",
+        "value": "Siliziumkarbid"
+      },
+      {
+        "_uid": "b69cbaf127ae",
+        "component": "spec_row",
+        "group": "Werkstoffe",
+        "label": "Gegenring",
+        "value": "Aluminiumoxid"
+      },
+      {
+        "_uid": "e4f356966282",
+        "component": "spec_row",
+        "group": "Werkstoffe",
+        "label": "Elastomere der Dichtung",
+        "value": "EPDM"
+      },
+      {
+        "_uid": "9acf0f6fbe7e",
+        "component": "spec_row",
+        "group": "Werkstoffe",
+        "label": "Feder und Balg",
+        "value": "Edelstahl AISI 316"
+      },
+      {
+        "_uid": "f347edcbcb72",
+        "component": "spec_row",
+        "group": "Werkstoffe",
+        "label": "Lagerung",
+        "value": "Radialkugellager mit Dauerschmierung"
+      },
+      {
+        "_uid": "2d36e72c3352",
+        "component": "spec_row",
+        "group": "Anschlüsse & Abmessungen",
+        "label": "Druckanschluss",
+        "value": "DN 50"
+      },
+      {
+        "_uid": "9688113ea014",
+        "component": "spec_row",
+        "group": "Anschlüsse & Abmessungen",
+        "label": "Abmessungen",
+        "value": "Länge: 564 mm, Breite: 113 mm, Höhe: 200 mm"
+      }
+    ],
+    "flow_max_m3h": 75,
+    "head_max_m": 59,
+    "power_kw": 15,
+    "voltage": "400 V",
+    "material": "Bronze"
+  }
+}

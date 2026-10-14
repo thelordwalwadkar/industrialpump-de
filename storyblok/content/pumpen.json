@@ -1,0 +1,181 @@
+{
+  "id": 261987021,
+  "uuid": "0f9d9acd-986f-98c8-3c55-d88ad082a88d",
+  "name": "Pumpen",
+  "slug": "pumpen",
+  "full_slug": "pumpen",
+  "position": 1,
+  "content": {
+    "component": "page_hub",
+    "h1": "Pumpen",
+    "nav_title": "Pumpen",
+    "seo_title": "Pumpen nach Marke, Serie und Pumpentyp",
+    "seo_description": "Pumpenkatalog nach Marke und Serie: Kennbereiche, Artikel und Angebot für Lowara, SAER, Ebara und Flygt.",
+    "intro": "Der Pumpenkatalog ist nach Marke und Serie geordnet. Zu jeder Serie finden Sie Kennbereiche, Artikel und die Möglichkeit, ein Angebot anzufordern.",
+    "child_heading": "Pumpen nach Marke",
+    "body_text": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "heading",
+          "attrs": {
+            "level": 2
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "So finden Sie die passende Pumpe"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Für die Auswahl brauchen wir vier Angaben: Förderstrom, Förderhöhe, Fördermedium und Medientemperatur. Bei einem Ersatz genügt das Typenschild der vorhandenen Pumpe."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Senden Sie uns diese Daten über das "
+            },
+            {
+              "type": "text",
+              "text": "Angebotsformular",
+              "marks": [
+                {
+                  "type": "link",
+                  "attrs": {
+                    "href": "/angebot",
+                    "linktype": "url"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Wir ordnen Ihnen die passende Serie zu und nennen die infrage kommenden Artikel."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "attrs": {
+            "level": 2
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Welcher Pumpentyp passt zu welcher Aufgabe?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Der Katalog umfasst fünf Pumpentypen. Die folgende Übersicht hilft bei der ersten Einordnung; die konkrete Auswahl richtet sich nach den Betriebsdaten."
+            }
+          ]
+        },
+        {
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Kreiselpumpen fördern Flüssigkeiten über ein Laufrad und sind der Standard für Wasser bei mittleren Förderhöhen."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mehrstufige Pumpen schalten mehrere Laufräder hintereinander und erzeugen hohe Drücke bei überschaubarem Förderstrom."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Blockpumpen haben einen direkt angeflanschten Motor und benötigen wenig Platz."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tauchmotorpumpen arbeiten im Medium selbst und fördern Wasser aus Schächten, Gruben und Behältern."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Druckerhöhungsanlagen fassen Pumpen, Behälter und Steuerung zusammen und halten den Druck konstant."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Förderstrom, Förderhöhe und die Beschaffenheit des Mediums entscheiden danach über Serie und Werkstoff. Bei einer Ersatzbeschaffung ist das Typenschild der vorhandenen Pumpe der schnellste Weg zur passenden Lösung."
+            }
+          ]
+        }
+      ]
+    },
+    "body": [
+      {
+        "_uid": "aa3c18d440aa",
+        "component": "logo_strip",
+        "heading": "Marken im Katalog"
+      }
+    ]
+  }
+}
