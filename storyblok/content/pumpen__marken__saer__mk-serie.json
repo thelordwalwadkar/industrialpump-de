@@ -1,0 +1,630 @@
+{
+  "id": 2194650229,
+  "uuid": "82cfb475-e50c-3d0c-7fb7-11cc4d0c2b73",
+  "name": "SAER MK: kompakte vertikale mehrstufige Pumpen",
+  "slug": "mk-serie",
+  "full_slug": "pumpen/marken/saer/mk-serie",
+  "position": 91,
+  "content": {
+    "component": "page_series",
+    "h1": "SAER MK: kompakte vertikale mehrstufige Pumpen",
+    "seo_title": "SAER MK: kompakte vertikale mehrstufige Pumpen",
+    "seo_description": "SAER MK kompakte vertikale mehrstufige Pumpen: Förderhöhen bis 360 m, 5,5 bis 37 kW, für Bewässerung und Waschanlagen. Jetzt Angebot anfordern.",
+    "intro": "Die SAER MK sind kompakte vertikale mehrstufige Pumpen für Anlagen mit oder ohne Druckbehälter, Bewässerungs- und Waschsysteme und alle Anwendungen mit hohem Druckbedarf. Sie decken Förderhöhen bis 360 m und Leistungen von 5,5 bis 37 kW ab.",
+    "series_name": "MK",
+    "body": [
+      {
+        "_uid": "47e02c56923a",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-saer-saer-mk.webp",
+          "alt": "SAER MK kompakte vertikale mehrstufige Pumpe",
+          "width": 500,
+          "height": 500
+        }
+      },
+      {
+        "_uid": "bd706223549d",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kompakte mehrstufige Pumpe"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die SAER MK sind kompakte, vertikale mehrstufige Pumpen, geeignet unter anderem für Anlagen mit oder ohne Druckbehälter (Autoklav), Bewässerungs- und Waschsysteme und alle anderen Anwendungen, bei denen hoher Druck erforderlich ist. Diese Pumpen sind mit einem Lager konfiguriert, das die Axialkraft der Pumpe aufnimmt und die Kupplung mit jedem anderen genormten Motor ermöglicht. Doppelte Spaltringe und Buchsen sorgen für maximale Zuverlässigkeit."
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "Es gibt auch eine kurzgekuppelte Ausführung: MKM, mit geringeren Gesamtabmessungen und niedrigeren Kosten.",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Vertikale mehrstufige Elektropumpen mit minimalen Gesamtabmessungen, geeignet für Anlagen mit oder ohne Behälter, Bewässerungssysteme und überall dort, wo ein höherer Druck erreicht werden muss."
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "PMK: Pumpe mit freiem Wellenende, MK: komplette Elektropumpe"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Leistungsdaten"
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "29 Modelle in 3 Baureihen, mit Leistungen von 5,5 bis 37 kW."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Leistung bei 2.900 min⁻¹"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Förderleistung: max. 40 m³/h."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Förderhöhe: MK65/R max. 313 m (350 m bei Q = 0) – MK65 max. 360 m (394 m bei Q = 0)."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Leistung bei 3.500 min⁻¹"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Förderleistung: 6MK65 bis 45 m³/h."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Förderhöhe: 6MK65 max. 355 m (385 m bei Q = 0)."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Temperatur der geförderten Flüssigkeit: min. 0 °C, max. +90 °C (auf Anfrage 120 °C)."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Max. Betriebsdruck (maximal zulässiger Druck unter Berücksichtigung der Summe aus maximalem Saugdruck und der Förderhöhe bei Nullförderstrom): 35 bar mit genormtem Flansch."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Aufbau der Pumpe"
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Pumpe mit Axiallager ausgestattet"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kupplungsstück: Gusseisen EN-GJL-250."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kammer: Präzisionsguss aus Kohlenstoffstahl G20Mn5 (Gusseisen EN-GJL-250)."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Standfuß: Präzisionsguss aus Kohlenstoffstahl G20Mn5 (Gusseisen EN-GJL-250)."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mantelrohr: Edelstahl AISI 304 (1.4308)."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Diffusor: Präzisionsguss aus Kohlenstoffstahl G20Mn5 (Präzisionsguss aus Edelstahl AISI 316 (1.4408))."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Laufrad: Präzisionsguss aus Kohlenstoffstahl G20Mn5 (Präzisionsguss aus Edelstahl AISI 316 (1.4408))."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Diffusor mit selbstzentrierendem Spaltring ausgestattet."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Oberteil: Gusseisen EN-GJL-250 • auf Anfrage Edelstahl AISI 316 (1.4408)."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Welle: Edelstahl AISI 431 (1.4057) • auf Anfrage Edelstahl Duplex."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Gleitringdichtung: Graphit/SiC/EPDM"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Dichtung aus EPDM-Gummi auf Anfrage lieferbar"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ausführung mit genormten Flanschen UNI EN 1092-2"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ein- und Auslass „in-line“ mit Gegenflanschen auf Anfrage"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Genormte Motoren in Baugröße V1."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Auf Anfrage Motoren der Effizienzklasse EFF1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 4
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Unverbindlich Kontakt aufnehmen"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Sonderausführungen"
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ausführung MKX (AISI 316)"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Spezielle Gleitringdichtung"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ausführung mit Frequenzumrichter (bis 5,5 kW)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Toleranzen"
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Pumpe: UNI EN ISO 9906"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Motor: IEC 60034-1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "6e14fe67bd6d",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/merken-0025-saer.webp",
+          "alt": "Logo von SAER Elettropompe",
+          "width": 120,
+          "height": 53
+        }
+      },
+      {
+        "_uid": "46d516316601",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Interessiert an allen "
+                },
+                {
+                  "type": "text",
+                  "text": "SAER-Pumpen",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "? Sehen Sie sich unser gesamtes Sortiment an"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

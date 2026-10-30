@@ -1,0 +1,39 @@
+{
+  "id": "meer-ipg__pompschool__cursussen",
+  "seo_title": "Pumpenkurse der IPG Pumpenschule im Überblick",
+  "seo_description": "Pumpenkurse der Industrial Pump Group: Grundlagen, Wartung und Vertiefung für Monteure und Operatoren, auch vor Ort. Jetzt Kursanfrage stellen.",
+  "h1": "Pumpenkurse der IPG Pumpenschule",
+  "intro": "Die Pumpenkurse der Industrial Pump Group (IPG) vermitteln Grundlagen- und Vertiefungswissen zu Pumpen. Sie richten sich an Personen, die Pumpen warten oder Störungen beheben, und an Operatoren mit Verantwortung für die Wartung erster Ebene.",
+  "blocks": [
+    { "t": "img", "src": "/Files/Images/pompschool/pompschool.png", "alt": "Logo der IPG Pumpenschule" },
+    { "t": "h", "l": 4, "text": "IPG Pumpenschule: Kurse" },
+    { "t": "p", "text": "Bei IPG sind wir stolz auf unsere Fachkompetenz und unsere langjährige Erfahrung in der Pumpenbranche. Unser Expertenteam vermittelt Ihnen aktuelles Wissen und Fertigkeiten rund um Pumpen. Ob Einsteiger oder mit Erfahrung: Bei der Industrial Pump Group gibt es einen Kurs, der zu Ihrem Bedarf und Ihren Zielen passt. Unsere Kurse sollen den Teilnehmern helfen, ihr Wissen und ihre Fertigkeiten rund um Pumpen zu erweitern und zu vertiefen." },
+    { "t": "p", "text": "Die Industrial Pump Group (IPG) bietet ein breites Spektrum an Pumpenkursen an, darunter Grundlagen Pumpen und vertiefende Kurse. So kann jeder Teilnehmer auf seinem eigenen Niveau lernen und sein Wissen und seine Fertigkeiten rund um Pumpen verbessern." },
+    { "t": "p", "text": "Mit einem Pumpenkurs können Teilnehmer ihr Wissen und ihr Verständnis von Pumpen und ihren Komponenten verbessern, was zu einem besseren Verständnis des Pumpensystems führt." },
+    { "t": "faq", "q": "Für wen sind die Pumpenkurse gedacht?", "a": "Personen, die Pumpen warten und/oder Störungen an Pumpen beheben müssen.\nOperatoren, die für die Wartung erster Ebene an Pumpen verantwortlich sind." },
+    { "t": "faq", "q": "Wie lange dauern die Pumpenkurse?", "a": "Die Dauer der Kurse variiert und hängt vom gewählten Kurs ab. Einige Kurse dauern nur einen Tag, andere mehrere Tage." },
+    { "t": "faq", "q": "Können die Kurse an die Bedürfnisse des Kunden angepasst werden?", "a": "Ja, wir können unsere Kurse an die besonderen Bedürfnisse des Kunden anpassen. Nehmen Sie Kontakt mit uns auf, um Ihren konkreten Bedarf zu besprechen." },
+    { "t": "h", "l": 3, "text": "Kurs für Ihre Organisation" },
+    { "t": "p", "text": "Bei den Kursen der Industrial Pump Group ist es üblich, dass die Organisation den Kurs für ihre Mitarbeiter ausrichtet. Der Kursleiter von IPG kommt zu Ihnen vor Ort und hält den Kurs an einem oder mehreren Tagen. Andere Formen sind ebenfalls denkbar, etwa ein Einzelkurs mit dem Kursleiter." },
+    { "t": "p", "text": "**Möchten Sie alle Möglichkeiten kennenlernen?**\nDas IPG-Team mit engagierten Pumpenexperten steht für Sie bereit.\nNehmen Sie schnell über das Formular Kontakt auf oder rufen Sie\nwerktags zwischen 08:00 und 17:00 Uhr an.\n**Tel. {{TELEFON}}**" },
+    { "t": "h", "l": 2, "text": "Kurs Grundlagen Pumpen" },
+    { "t": "h", "l": 2, "text": "Kurs Inspektion und Wartung" },
+    { "t": "h", "l": 2, "text": "Kurs Gleitringdichtungen / Mechanical Seals" },
+    { "t": "h", "l": 2, "text": "Kurs Armaturen und Ventile" },
+    { "t": "h", "l": 2, "text": "Kurs Wellen und Lager" },
+    { "t": "form" }
+  ],
+  "notes": {
+    "dropped": [
+      "Die Überschrift 'Inspectie en Onderhoud CURSUS VOOR UW ORGANISATIE' ist in der Quelle ein Vorlagenfehler; sie lautet im Deutschen 'Kurs für Ihre Organisation'.",
+      "'Die meest actuele kennis' wurde zu 'aktuelles Wissen' abgeschwächt (kein Superlativ)."
+    ],
+    "claims": [
+      "Bei IPG sind wir stolz auf unsere Fachkompetenz und unsere langjährige Erfahrung in der Pumpenbranche.",
+      "Einige Kurse dauern nur einen Tag, andere mehrere Tage; Kurse können an die Bedürfnisse des Kunden angepasst werden."
+    ],
+    "nl_specific": [
+      "Rufen Sie werktags zwischen 08:00 und 17:00 Uhr an (niederländische Telefonnummer, als {{TELEFON}} ersetzt; Zeiten aus der niederländischen Quelle)."
+    ]
+  }
+}

@@ -1,0 +1,397 @@
+{
+  "id": 3471888101,
+  "uuid": "cef0cee5-69e8-7209-c05e-eb20c872c849",
+  "name": "Kavitation bei Industriepumpen: Ursachen, Lösungen und Vorbeugung",
+  "slug": "kavitation-bei-industriepumpen",
+  "full_slug": "ueber-uns/blog/kavitation-bei-industriepumpen",
+  "position": 15,
+  "content": {
+    "component": "page_blog_post",
+    "h1": "Kavitation bei Industriepumpen: Ursachen, Lösungen und Vorbeugung",
+    "seo_title": "Kavitation bei Pumpen: Ursachen, Erkennung, Vorbeugung",
+    "seo_description": "Kavitation bei Industriepumpen: Ursachen wie NPSHa unter NPSHr, Erkennung, Maßnahmen und Vorbeugung. Jetzt lesen oder Beratung anfragen.",
+    "intro": "Kavitation entsteht, wenn der Druck in einer Pumpe unter den Dampfdruck der Flüssigkeit fällt und sich Dampfblasen bilden, die später schlagartig zusammenfallen. Der Beitrag erklärt für Betreiber und Instandhalter, wie man Kavitation erkennt, behebt und vermeidet.",
+    "publication_date": "2023-06-12",
+    "article": {
+      "type": "doc",
+      "content": []
+    },
+    "body": [
+      {
+        "_uid": "63646c75d431",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 4
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ursachen, Lösungen und Vorbeugung: Kavitation bei Industriepumpen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kavitation ist ein häufiges Problem bei Industriepumpen und kann sowohl die Pumpe selbst als auch das gesamte Pumpensystem ernsthaft schädigen. Als herstellerunabhängiger Pumpenlieferant und Revisionspartner kennt die Industrial Pump Group die Bedeutung, Kavitation zu verstehen, ihre Ursachen zu erkennen und die richtigen Maßnahmen zu ergreifen, um sie zu vermeiden. In diesem Blogbeitrag geben wir einen fundierten Einblick in Kavitation, in ihre Erkennung, in die Schritte, die bei Kavitation erforderlich sind, und in vorbeugende Maßnahmen, mit denen sich ihre Auswirkungen verringern lassen."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Was ist Kavitation?"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kavitation bezeichnet das Phänomen, bei dem sich in einer Flüssigkeitsströmung innerhalb einer Pumpe Luft- oder Dampfblasen bilden. Dies geschieht, wenn der Druck der Flüssigkeit unter den Sättigungsdruck (Dampfdruck) fällt und dadurch Dampfblasen entstehen. Strömen diese Blasen weiter und gelangen wieder in einen Bereich mit höherem Druck, fallen sie mit großer Kraft in sich zusammen. Das führt zu Schäden an den Pumpenbauteilen und zu Lärmbelastung."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ursachen von Kavitation"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Um Kavitation wirksam zu bekämpfen, ist es wichtig, ihre Ursachen zu verstehen. Einige häufige Ursachen sind:"
+                }
+              ]
+            },
+            {
+              "type": "ordered_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "NPSHa (Net Positive Suction Head available, vorhandene Haltedruckhöhe) kleiner als NPSHr (Net Positive Suction Head required, erforderliche Haltedruckhöhe): Dies tritt auf, wenn der Druck auf der Eintrittsseite der Pumpe zu niedrig ist, um den Dampfdruck der Flüssigkeit zu überschreiten."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Hohe Strömungsgeschwindigkeit oder turbulente Strömung: Eine zu hohe Geschwindigkeit oder Turbulenz kann Luftblasen in die Flüssigkeit eintragen."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Falsche Pumpenauswahl: Eine falsch gewählte Pumpe, die für die konkrete Anwendung nicht geeignet ist, kann zu Kavitationsproblemen führen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Foto eines Laufrads mit Kavitationsschäden mit freundlicher Genehmigung von "
+                },
+                {
+                  "type": "text",
+                  "text": "Oveducon",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "https://oveducon.nl/",
+                        "linktype": "url",
+                        "target": "_blank"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "4505eece43dd",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/nieuws-cavitatie.webp",
+          "alt": "Laufrad einer Pumpe mit Kavitationsschäden",
+          "width": 1280,
+          "height": 960
+        }
+      },
+      {
+        "_uid": "d69773944b12",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/revisie-revisie-10.webp",
+          "alt": "Pumpe bei der Revision in der IPG-Werkstatt",
+          "width": 1102,
+          "height": 735
+        }
+      },
+      {
+        "_uid": "d25851c4348a",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kavitation erkennen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kavitation zu erkennen ist entscheidend, um rechtzeitig zu handeln. Anzeichen sind ungewöhnliche Geräusche wie Vibrationen, Poltern oder Knallen, ein Leistungsabfall der Pumpe, Schäden am Laufrad sowie ein instabiler Druck und Förderstrom."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Was tun bei Kavitation?"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wird Kavitation festgestellt, empfiehlt die Industrial Pump Group verschiedene Schritte:"
+                }
+              ]
+            },
+            {
+              "type": "ordered_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "NPSHa erhöhen: Das gelingt durch einen höheren Eintrittsdruck, größere Rohrleitungen oder eine höher gelegene Zulaufhöhe."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Pumpensystem optimieren: Prüfen Sie die Systemparameter wie Rohrleitungsdurchmesser, Ventileinstellungen und Krümmer, um mögliche Engstellen zu erkennen und anzupassen. Ziel ist eine gleichmäßige und stabile Flüssigkeitszufuhr zur Pumpe."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Pumpe anpassen: In manchen Fällen kann eine Anpassung der Pumpe nötig sein. Dazu kann gehören, das Laufrad gegen eine kavitationsbeständigere Ausführung zu tauschen oder die Pumpengeometrie zu verändern."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Regelmäßig warten: Regelmäßige Wartung ist entscheidend, um den optimalen Betrieb der Pumpe zu erhalten und Kavitation zu vermeiden. Kontrollieren und reinigen Sie die Eintrittsfilter regelmäßig, um Verstopfungen zu verhindern, und prüfen Sie die Pumpenbauteile auf Verschleiß oder Beschädigung."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Vorbeugende Maßnahmen gegen Kavitation"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Es ist immer besser, Kavitation zu vermeiden, als sie nachträglich bekämpfen zu müssen. Die Industrial Pump Group empfiehlt folgende vorbeugende Maßnahmen:"
+                }
+              ]
+            },
+            {
+              "type": "ordered_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Richtige Pumpenauswahl: Stellen Sie sicher, dass die Pumpe anhand der Anforderungen des Systems korrekt ausgewählt wird, einschließlich der gewünschten Förderstrom- und Druckparameter. Die Wahl einer Pumpe mit ausreichender NPSH-Reserve (Net Positive Suction Head margin) kann helfen, Kavitationsprobleme zu vermeiden."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Systemauslegung optimieren: Sorgen Sie für eine gute Auslegung des Pumpensystems mit passenden Rohrleitungsdurchmessern und geraden Strecken vor und nach der Pumpe, und vermeiden Sie scharfe Krümmer oder Verengungen, die die Strömung behindern."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Das System regelmäßig prüfen: Kontrollieren Sie regelmäßig Systemparameter wie NPSHa und Systemdruck, um sicherzustellen, dass sie die Anforderungen der Pumpe erfüllen."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Schulung und Sensibilisierung: Stellen Sie sicher, dass die Bediener der Pumpensysteme ausreichend geschult sind, Kavitation zu erkennen und zu vermeiden. Das Bewusstsein für die Symptome von Kavitation und die Bedeutung vorbeugender Maßnahmen hilft, rechtzeitig einzugreifen und Schäden zu verhindern."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kavitation ist ein ernstes Problem, das Leistung und Lebensdauer von Industriepumpen beeinträchtigen kann. Als herstellerunabhängiger Pumpenlieferant und Revisionsbetrieb kennt die Industrial Pump Group die Komplexität der Kavitation und ihre Folgen. Wer die Ursachen von Kavitation versteht, sie erkennt und passende Maßnahmen ergreift, kann Probleme vermeiden und die Lebensdauer von Pumpensystemen verlängern. Mit richtiger Pumpenauswahl und regelmäßiger Wartung kann die Industrial Pump Group ihre Kunden dabei unterstützen, Kavitation zu vermeiden und die Leistung ihrer Pumpensysteme zu optimieren."
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "image": {
+      "filename": "/img/nl/pomptypes-end-suction-3.webp",
+      "alt": "Normpumpe mit Saugstutzen an der Stirnseite, ein Pumpentyp, der von Kavitation betroffen sein kann",
+      "width": 1280,
+      "height": 853
+    }
+  }
+}

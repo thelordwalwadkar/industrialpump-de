@@ -175,6 +175,698 @@
         "_uid": "aa3c18d440aa",
         "component": "logo_strip",
         "heading": "Marken im Katalog"
+      },
+      {
+        "_uid": "f99a7fab7b2e",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/sfeer-fotos-shutterstock-160393526.webp",
+          "alt": "Industrielle Pumpenanlage | Industrial Pump Group",
+          "width": 1280,
+          "height": 853
+        }
+      },
+      {
+        "_uid": "0af2fffe9bd2",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Industrial Pump Group: Spezialist für Pumpen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Mit mehr als 30 Jahren Erfahrung und guten Verbindungen zu großen Pumpenherstellern ist die Industrial Pump Group Ihr herstellerunabhängiger Partner für Lieferung und/oder Revision Ihrer Pumpe(n) und Pumpenersatzteile. Unsere Website ist so aufgebaut, dass Sie die am besten geeignete Pumpe nach Branche, Anwendung, Marke oder Pumpentyp suchen können."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Branchen"
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Agrar",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/branchen/landwirtschaft",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Chemische Industrie",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/branchen/chemische-industrie",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Öl- und Gasindustrie",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/branchen/oel-und-gasindustrie",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Metallindustrie",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/branchen/stahlindustrie",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Wasseraufbereitung",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/branchen/wasseraufbereitung",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Anwendungen"
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Abwasser",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/anwendungen/abwasser",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kesselspeisung",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/anwendungen/kesselspeisung",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Entwässerung",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/anwendungen/entwaesserung",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Löschwasserversorgung",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/anwendungen/loeschwasser",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kühlwasser",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/anwendungen/kuehlwasser",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Pumpentypen"
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "API-Pumpen",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/pumpentypen/api-pumpen",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Blockpumpen",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/pumpentypen/blockpumpen",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehrstufige Pumpen",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/pumpentypen/mehrstufige-pumpen",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Vertikale Turbinenpumpen",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/pumpentypen/vertikale-turbinenpumpen",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Exzenterschneckenpumpen",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/pumpentypen/exzenterschneckenpumpen",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Marken"
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "SAER",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/marken/saer",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Lowara",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/marken/lowara",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flygt",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/marken/flygt",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ebara",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/marken/ebara",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Homa",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/marken/homa",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Innovation seit 1968: die Geschichte von Lowara"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Lowara wurde 1968 in Montecchio Maggiore, Italien, von den Brüdern Ghiotto gegründet. Aus einer kleinen Werkstatt entwickelte sich rasch ein Spezialist für die Herstellung von Pumpen aus Edelstahl. Lowara war Vorreiter beim Einsatz von lasergeschweißtem "
+                },
+                {
+                  "type": "text",
+                  "text": "AISI-304- und AISI-316",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "-Edelstahl, wodurch Pumpen mit hervorragender Korrosionsbeständigkeit, langer Lebensdauer und hygienischen Eigenschaften für den Wassertransport entstanden."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die Eigentümerstruktur des Unternehmens entwickelte sich mit der internationalen Pumpenindustrie weiter. 1986 wurde Lowara von "
+                },
+                {
+                  "type": "text",
+                  "text": "Goulds Pumps",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " übernommen, 1997 gehörte es zu "
+                },
+                {
+                  "type": "text",
+                  "text": "ITT Industries",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", und seit 2011 gehört es offiziell zu "
+                },
+                {
+                  "type": "text",
+                  "text": "Xylem",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", nach der Abspaltung von Xylem von ITT. Bei allen diesen Veränderungen behielt Lowara seine Identität als hochwertiger europäischer Pumpenhersteller. Montecchio Maggiore ist weiterhin das weltweite Engineering- und Produktionszentrum von Xylem für einen großen Teil des Lowara-Sortiments."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Lowara innerhalb von Xylem"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Seit dem Zusammenschluss mit Xylem hat Lowara seine internationale Stellung weiter gestärkt und sein technisches Know-how erweitert. 2018 feierte das Unternehmen sein 50-jähriges Bestehen. Der Hauptsitz in Italien ist weiterhin ein wichtiges Zentrum für Konstruktion, Produktion und technischen Support. Xylem investiert weiter an diesem Standort und unterstützt außerdem Initiativen wie das Programm Xylem Watermark, das weltweit den Zugang zu sauberem Trinkwasser und sanitären Einrichtungen verbessert. 2025 wurde zudem das europäische Vertriebsnetz von Lowara dank der Zusammenarbeit von Xylem mit der Tricel Group in Irland weiter ausgebaut."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wichtige Meilensteine und bedeutende Projekte"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Mehr als fünfzig Jahre Innovation haben Lowara zu einer der anerkannten Pumpenmarken der Branche gemacht. Die Edelstahl-Pumpentechnik von Lowara wurde in mehreren international bedeutenden Projekten eingesetzt, darunter der Burj Khalifa in Dubai, das San-Siro-Stadion in Mailand und mehrere Stadien der FIFA-Weltmeisterschaft 2022 in Katar. Diese Projekte zeigen, dass Lowara auch unter sehr anspruchsvollen Bedingungen zuverlässige Leistung liefern kann."
+                }
+              ]
+            }
+          ]
+        }
       }
     ]
   }

@@ -9,6 +9,7 @@ import { aggregate, loadCatalogue, type CatalogueProduct } from './lib/catalogue
 import { BRANDS, SERIES } from '../content-src/copy';
 import { DESCRIPTION_MAX, TITLE_MAX } from '../src/lib/text';
 import { configStory, conversionStories, homeStory, hubStories, legalStories } from './lib/pages';
+import { nlStories } from './lib/nl-stories';
 import { brandStory, productStory, seriesStory, wordCount, type SeedStory } from './lib/stories';
 
 const outDir = join(process.cwd(), 'storyblok', 'content');
@@ -40,6 +41,11 @@ SERIES.forEach((def, i) => {
   stories.push(productStory(brand, def, sample));
   sampleLog.push(`${def.key} → ${sample.name} (${sample.mapped.rows.length} Datenzeilen, ${list.length} Artikel in der Serie)`);
 });
+
+/* ---------- pages migrated from industrialpumps.nl (translated) ---------- */
+const nl = nlStories(new Map(stories.map((s) => [s.full_slug, s])));
+stories.push(...nl.stories);
+errors.push(...nl.report.errors);
 
 /* ---------- validation (the seed must satisfy the success criteria before it is written) ---------- */
 const titles = new Map<string, string>();
@@ -94,3 +100,21 @@ console.log(`  brands ${BRANDS.length}, series ${SERIES.length}, template produc
 if (problems.length) console.log('catalogue notes:\n  - ' + problems.join('\n  - '));
 if (notes.length) console.log('sample substitutions:\n  - ' + notes.join('\n  - '));
 console.log('samples:\n  ' + sampleLog.join('\n  '));
+
+/* ---------- migration reports ---------- */
+const r = nl.report;
+const NL = '\n';
+const table = (rows: { page: string; text: string }[]) => ['| Seite | Aussage |', '|---|---|', ...rows.map((x) => `| ${x.page} | ${x.text.split('|').join('/')} |`)];
+const doc = (file: string, lines: string[]) => writeFileSync(join(process.cwd(), 'docs', file), lines.join(NL) + NL);
+doc('NL-CLAIMS-TO-VERIFY.md', ['# Aus industrialpumps.nl übernommene Aussagen: Freigabe nötig', '', 'Automatisch aus den Übersetzungsnotizen erzeugt. Jede Aussage wurde wortgetreu übersetzt; der Kunde muss bestätigen, dass sie für Deutschland gilt (Zertifikate, Händlerstatus, Referenzen, Zahlen).', '', ...table(r.claims)]);
+doc('NL-SPECIFIC.md', ['# Niederlande-spezifische Angaben', '', 'Diese Angaben stehen im niederländischen Original und wurden übernommen, gelten aber ggf. nicht für Deutschland. Seiten, die komplett NL-spezifisch sind, sind auf noindex gesetzt.', '', ...table(r.nlSpecific)]);
+doc('MIGRATION-REPORT.md', [
+  '# Migrationsbericht (automatisch erzeugt)', '',
+  `Übersetzte Seiten als Story: ${nl.stories.length}, an bestehende Seiten angehängt: ${r.appended.length}, bestehende Seiten ohne NL-Text: ${r.skippedExisting.length}, noch nicht übersetzt: ${r.missing.length}.`, '',
+  '## Noch nicht übersetzt', ...r.missing.map((x) => `- ${x}`), '',
+  '## An bestehende Seiten angehängt', ...r.appended.map((x) => `- ${x}`), '',
+  '## Bestehende Seiten, NL-Text nicht übernommen', ...r.skippedExisting.map((x) => `- ${x}`), '',
+  '## Links ohne deutsches Ziel (Link entfernt, Text bleibt)', ...r.unresolvedLinks.map((x) => `- ${x}`),
+]);
+console.log(`NL migration: ${nl.stories.length} new stories, ${r.appended.length} appended, ${r.missing.length} still missing, ${r.unresolvedLinks.length} unresolved links`);
+

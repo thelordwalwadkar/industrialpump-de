@@ -1,0 +1,792 @@
+{
+  "id": 2228061166,
+  "uuid": "84cd83ee-13f0-4ec7-3a14-342d4dfd164e",
+  "name": "Druckerhöhungsanlagen",
+  "slug": "druckerhoehungsanlagen",
+  "full_slug": "pumpen/pumpentypen/druckerhoehungsanlagen",
+  "position": 114,
+  "content": {
+    "component": "page_topic",
+    "h1": "Druckerhöhungsanlagen",
+    "nav_title": "Druckerhöhungsanlagen",
+    "seo_title": "Druckerhöhungsanlagen: Aufbau, Funktion, Einsatz",
+    "seo_description": "Druckerhöhungsanlagen für konstanten Wasserdruck in Gebäuden und HVAC: Aufbau, Funktionsweise und Wartung. Jetzt Beratung oder Angebot anfordern.",
+    "intro": "Druckerhöhungsanlagen sind Pumpensysteme aus Pumpe, Druckbehälter und Steuerung, die den Wasserdruck in Gebäuden regeln und erhöhen. Sie richten sich an Betreiber und Planer von Bürogebäuden, Krankenhäusern, Hotels und Wohnanlagen.",
+    "topic_kind": "pumpentyp",
+    "body": [
+      {
+        "_uid": "cdd0790a2c19",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Druckerhöhungsanlagen sind Pumpensysteme, die den Wasserdruck in Gebäuden regeln und erhöhen. Sie bestehen aus Pumpe, Druckbehälter und einer Steuerung für die automatische Ein-/Aus-Regelung."
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "SAER-Pumpen",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/marken/saer",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Lowara-Pumpen",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/marken/lowara",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Grundfos-Pumpen",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/marken/grundfos",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Trinkwasser",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/anwendungen/trinkwasser",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "HVAC",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/branchen/gebaeudetechnik-hvac",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Was sind Druckerhöhungsanlagen und wie funktionieren sie?"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Eine Druckerhöhungsanlage ist ein Pumpensystem, das den Wasserdruck in Gebäuden regelt und erhöht. Das System besteht aus einer Pumpe, einem Druckbehälter und einer Steuerung, die automatisch ein- und ausschaltet. Fällt der Wasserdruck im System unter einen bestimmten Wert, wird die Pumpe aktiviert und fördert Wasser in den Druckbehälter. Sobald der Druckbehälter gefüllt ist, wird die Pumpe abgeschaltet, und das Wasser kann im Gebäude ohne Druckverlust genutzt werden."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Druckerhöhungsanlagen werden häufig in Gebäuden mit mehreren Etagen eingesetzt, in denen der Wasserdruck niedriger ist als gewünscht. Sie sind auch in Gebieten nützlich, in denen die Wasserversorgung unzuverlässig ist, weil sie einen Wasservorrat für den Fall eines Ausfalls der Wasserversorgung bereithalten. Die Wartung von Druckerhöhungsanlagen ist wichtig, um die optimale Leistung zu erhalten, und besteht aus regelmäßiger Inspektion und Reinigung von Pumpe und Druckbehälter."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Erhöht und regelt den Wasserdruck effizient",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Druckerhöhungsanlagen erhöhen und regeln den Wasserdruck in Gebäuden wirksam, was zu einer komfortablen und effizienten Wassernutzung in Haushalten und Gewerbegebäuden führt."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Automatische Ein-/Aus-Regelung",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Dank der automatischen Steuerung schaltet die Pumpe je nach Wasserdruckbedarf selbstständig ein und aus, was Komfort und Energieeinsparung bringt."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Zuverlässiger Wasservorrat bei Versorgungsstörungen",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Hält bei unzuverlässiger Wasserversorgung, etwa bei Ausfällen, einen Wasservorrat bereit, sodass Wasserdruck und Nutzung kontinuierlich gewährleistet bleiben."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Geeignet für HVAC-Systeme",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Geeignet für HVAC-Systeme in Gebäuden wie Krankenhäusern und Bürogebäuden, in denen ein konstanter Wasserdruck für Heiz- und Kühlanwendungen wesentlich ist."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Vorteile und Funktion von Druckerhöhungsanlagen in der Wasserverteilung"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Druckerhöhungsanlagen sind Pumpensysteme, die den Wasserdruck in Gebäuden mit mehreren Etagen oder in Gebieten mit niedrigem Wasserdruck erhöhen und regeln. Das System besteht aus einer Pumpe, einem Druckbehälter und einer Steuerung für die automatische Ein-/Aus-Regelung."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Einer der wichtigsten Vorteile von Druckerhöhungsanlagen ist, dass sie den Wasserdruck in Gebäuden und Haushalten erhöhen, wodurch die Wassernutzung effizienter und komfortabler wird. Das verlängert auch die Lebensdauer von Geräten, die auf einen konstanten Wasserdruck angewiesen sind, etwa Boiler und Waschmaschinen."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Der Druckbehälter ist ein wichtiges Bauteil der Druckerhöhungsanlage, weil er als Puffer zwischen Pumpe und Leitungsnetz dient. Wird die Pumpe aktiviert, wird Wasser in den Druckbehälter gefördert, wodurch der Druck steigt. Ist der Druckbehälter gefüllt, wird die Pumpe automatisch abgeschaltet, und das Wasser kann im Gebäude ohne Druckverlust genutzt werden."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Druckerhöhungsanlagen sind auch in Gebieten nützlich, in denen die Wasserversorgung unzuverlässig ist, weil sie einen Wasservorrat für den Fall eines Ausfalls der Wasserversorgung bereithalten. Die Wartung von Druckerhöhungsanlagen ist wichtig, um die optimale Leistung zu erhalten, und besteht aus regelmäßiger Inspektion und Reinigung von Pumpe und Druckbehälter. Außerdem ist auf eine gute Belüftung des Druckbehälters zu achten, um Bakterienwachstum zu verhindern."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die Bedeutung von Druckerhöhungsanlagen in Gebäuden mit hohem Wasserverbrauch"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Druckerhöhungsanlagen sind in Gebäuden mit hohem Wasserverbrauch von großer Bedeutung, etwa in Bürogebäuden, Krankenhäusern, Hotels und Wohnanlagen. Diese Gebäude haben häufig mehrere Etagen und einen großen Wasserbedarf, wodurch der Wasserdruck sinken kann. Eine Druckerhöhungsanlage sorgt für einen konstanten Wasserdruck, wodurch die Wassernutzung effizienter und komfortabler wird. Deshalb sollten Druckerhöhungsanlagen regelmäßig inspiziert und gewartet werden, um die optimale Leistung zu erhalten und Beeinträchtigungen zu vermeiden."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "fe734850eef0",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-saer-saer-tr.webp",
+          "alt": "Druckerhöhungsanlage mit grünem Motor und orangefarbenem Druckbehälter zur Regelung und Erhöhung des Wasserdrucks in industriellen Anwendungen",
+          "width": 800,
+          "height": 800
+        }
+      },
+      {
+        "_uid": "dac17361a042",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Zuverlässiger und proaktiver Service von IPG!"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Als Leiter Technischer Dienst schätze ich die Zuverlässigkeit der Herstellerunabhängigkeit von IPG und die proaktive Herangehensweise. Der schnelle Service ist in unserer Branche entscheidend, in der jede Minute Stillstand zählt."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Leiter Technischer Dienst in einem Chemiewerk."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "IPG ist ein verlässlicher Partner bei Beschaffung und Optimierung!"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Als Einkaufsleiter schätze ich IPG als Partner, der unseren Bedarf versteht und schnell liefert. Die Fachkenntnis und Beratung haben unsere Prozesse optimiert."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Einkaufsleiter bei einem Lebensmittelhersteller."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "IPG ist ein unverzichtbarer Partner für effiziente Produktion!"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Als Produktionsleiter schätze ich IPG als unverzichtbaren Partner für Effizienz und Verfügbarkeit. Das fachkundige Team hat uns mit den passenden Pumpen und mit Service für eine gleichbleibende Produktion unterstützt."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Projektleiter in einer Papierfabrik."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Jeroen von IPG ist ein entscheidender Partner für unsere Versorgungsqualität!"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Als Facility Manager schätze ich Jeroen von IPG als wichtige Stütze bei der Wartung unserer Pumpensysteme, was zu funktionsfähigen und effizienten Systemen führt, die unsere Versorgungsqualität stärken."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Facility Manager in einem Krankenhaus."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Zuverlässige Druckerhöhungsanlagen für konstanten Wasserdruck!"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die Druckerhöhungsanlagen von IPG passen gut zu unserem Gebäudemanagement und sorgen für einen stabilen, konstanten Wasserdruck. Die Anlagen sind hochwertig und helfen uns, unsere Wasserinfrastruktur zuverlässig zu halten."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Facility Manager bei einem Immobilienverwalter in den Niederlanden."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 4
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Unverbindlich Kontakt aufnehmen"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Effizienz und Komfort: Druckerhöhungsanlagen in der HVAC-Technik"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Druckerhöhungsanlagen werden häufig in HVAC-Systemen (Heating, Ventilation, Air Conditioning) eingesetzt, um den Wasserdruck zu regeln und zu erhöhen. Das ist vor allem in Gebäuden wichtig, in denen große Wassermengen für Kühlung oder Heizung benötigt werden, etwa in Krankenhäusern, Bürogebäuden und Hotels. Durch den Einsatz einer Druckerhöhungsanlage wird der Wasserdruck konstant gehalten, was eine effizientere und komfortablere Nutzung des HVAC-Systems ermöglicht."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ein gut ausgelegtes Druckerhöhungssystem kann auch helfen, Energieverbrauch und Wartungskosten zu senken. Das lässt sich zum Beispiel durch frequenzgeregelte Pumpen und eine richtige Dimensionierung des Systems erreichen."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Es ist wichtig, eine Druckerhöhungsanlage zu wählen, die zu den spezifischen Anforderungen des HVAC-Systems passt und die erforderlichen Normen und Vorgaben erfüllt. Regelmäßige Wartung und Inspektion der Druckerhöhungsanlage sind ebenfalls wichtig, um optimale Leistung und Sicherheit zu erhalten."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "b0ba0e315838",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-saer-saer-tr.webp",
+          "alt": "SAER-Druckerhöhungsanlage mit grünem Motor und orangefarbenem Druckbehälter zur zuverlässigen Erhöhung und Regelung des Wasserdrucks in industriellen Anwendungen",
+          "width": 800,
+          "height": 800
+        }
+      },
+      {
+        "_uid": "aadeaf97ba8e",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Mehr über SAER-Pumpen lesen"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "1fdc67f2c3dd",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-lowara-lowara-hydrofoor-unit.webp",
+          "alt": "Lowara-Druckerhöhungsanlage mit drei Pumpen und Schaltschrank zur konstanten Druckregelung in Gewerbegebäuden",
+          "width": 219,
+          "height": 219
+        }
+      },
+      {
+        "_uid": "a916e7d03062",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Mehr über Lowara-Pumpen lesen"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "d7522cb0597c",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-hydrofoor-unit.webp",
+          "alt": "Grundfos-Druckerhöhungsanlage mit Steuerungseinstellungen und Edelstahlrohren zur Wasserdruckerhöhung in industriellen Anwendungen",
+          "width": 424,
+          "height": 416
+        }
+      },
+      {
+        "_uid": "824f087e7021",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Mehr über Grundfos-Pumpen lesen"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Beratung und Verkauf: die passende Lösung für Ihre Anwendung"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Es gibt viele verschiedene Pumpentypen und ebenso viele Anwendungen, zum Beispiel Tauchmotorpumpen, Umwälzpumpen oder Brunnenpumpen. Wegen dieser Vielfalt ist es sinnvoll, sich gut zu informieren, welcher Pumpentyp erforderlich ist, bevor Sie eine Pumpe anschaffen oder instand setzen lassen. Das IPG-Team mit mehreren Pumpenexperten berät Sie jederzeit zur passenden Lösung für Ihre Anwendung und unterstützt Sie außerdem bei Beschaffung und Installation der Pumpe."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "IPG pflegt zu mehreren Pumpenherstellern enge Beziehungen und kann Sie daher bei der Beschaffung vieler Pumpentypen und Marken gut beraten. So ist die Industrial Pump Group der niederländische Importeur von SAER und offizieller Händler unter anderem von Lowara, Grundfos und Seepex."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Auf der Suche nach der passenden Druckerhöhungsanlage?"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die Industrial Pump Group liefert hochwertige und zuverlässige Pumpen und berät Kunden in verschiedenen Branchen fachkundig, darunter die Wasseraufbereitung. Unsere Experten haben langjährige Erfahrung in Auslegung und Auswahl passender Pumpen für spezifische Anwendungen und verfügen über umfassende Kenntnisse der neuesten Technologien und Entwicklungen der Branche."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Benötigen Sie Hilfe bei der Auswahl der passenden Pumpe? Die Experten von IPG stehen Ihnen zur Verfügung. Nehmen Sie unverbindlich Kontakt auf unter: [[PLATZHALTER: Telefon]] oder [[PLATZHALTER: E-Mail]]."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "c5f4c3423461",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-hydrofoor-units-2.webp",
+          "alt": "Installation einer Druckerhöhungsanlage mit blauen vertikalen Pumpen und Druckbehälter zur Druckregelung in industriellen Umgebungen",
+          "width": 1000,
+          "height": 665
+        }
+      },
+      {
+        "_uid": "1ed4b176d050",
+        "component": "faq",
+        "heading": "Häufige Fragen",
+        "items": [
+          {
+            "_uid": "e0c5c94b4333",
+            "component": "faq_item",
+            "question": "Was ist eine Druckerhöhungsanlage?",
+            "answer": "Eine Druckerhöhungsanlage ist ein Pumpensystem, das den Wasserdruck in Gebäuden regelt und erhöht. Das System besteht aus einer Pumpe, einem Druckbehälter und einer Steuerung für die automatische Ein-/Aus-Regelung."
+          },
+          {
+            "_uid": "71144e9c696a",
+            "component": "faq_item",
+            "question": "Warum sind Druckerhöhungsanlagen nützlich?",
+            "answer": "Druckerhöhungsanlagen sind nützlich, weil sie den Wasserdruck in Gebäuden und Haushalten erhöhen, wodurch die Wassernutzung effizienter und komfortabler wird. Sie sind auch in Gebieten hilfreich, in denen die Wasserversorgung unzuverlässig ist, weil sie einen Wasservorrat für den Fall eines Ausfalls der Wasserversorgung bereithalten."
+          },
+          {
+            "_uid": "3d7b1f9fc935",
+            "component": "faq_item",
+            "question": "Wie funktioniert eine Druckerhöhungsanlage?",
+            "answer": "Fällt der Wasserdruck im System unter einen bestimmten Wert, wird die Pumpe aktiviert und fördert Wasser in den Druckbehälter. Sobald der Druckbehälter gefüllt ist, wird die Pumpe abgeschaltet, und das Wasser kann im Gebäude ohne Druckverlust genutzt werden. Der Druckbehälter dient als Puffer zwischen Pumpe und Leitungsnetz."
+          },
+          {
+            "_uid": "278740dffa4c",
+            "component": "faq_item",
+            "question": "Wo werden Druckerhöhungsanlagen häufig eingesetzt?",
+            "answer": "Druckerhöhungsanlagen werden häufig in Gebäuden mit mehreren Etagen eingesetzt, in denen der Wasserdruck niedriger ist als gewünscht. Sie sind auch in Gebieten nützlich, in denen die Wasserversorgung unzuverlässig ist."
+          }
+        ]
+      }
+    ]
+  }
+}

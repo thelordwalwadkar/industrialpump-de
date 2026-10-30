@@ -1,0 +1,1063 @@
+{
+  "id": 1599255349,
+  "uuid": "5f52b335-ee3d-d06f-a946-34e87998a029",
+  "name": "Kühlwasserpumpen",
+  "slug": "kuehlwasser",
+  "full_slug": "pumpen/anwendungen/kuehlwasser",
+  "position": 151,
+  "content": {
+    "component": "page_topic",
+    "h1": "Kühlwasserpumpen",
+    "nav_title": "Kühlwasserpumpen",
+    "seo_title": "Kühlwasserpumpen: Typen, Einsatz und Wartung",
+    "seo_description": "Kühlwasserpumpen für Energie, Chemie und Lebensmittelindustrie: Typen, Einsatzbereiche, Wartung und Revision. Jetzt Beratung oder Angebot anfordern.",
+    "intro": "Kühlwasserpumpen sorgen für den Umlauf von Kühlwasser, damit Anlagen und Maschinen vor Überhitzung und Schäden geschützt sind. Sie richten sich an Betreiber in Energieerzeugung, chemischer Industrie, Lebensmittelindustrie und Metallindustrie.",
+    "topic_kind": "pumpentyp",
+    "body": [
+      {
+        "_uid": "32326377e113",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kühlwasserpumpen sorgen für den Umlauf von Kühlwasser, um Anlagen und Maschinen vor Überhitzung und Schäden zu schützen."
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Chemische Industrie",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/branchen/chemische-industrie",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Metallindustrie",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/branchen/stahlindustrie",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Öl- und Gasindustrie",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/branchen/oel-und-gasindustrie",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kreiselpumpen",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/pumpentypen/kreiselpumpen",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehrstufige Pumpen",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/pumpentypen/mehrstufige-pumpen",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Axial geteilte Pumpen",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/pumpentypen/axial-geteilte-pumpen",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Vertikale Turbinenpumpen",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/pumpentypen/vertikale-turbinenpumpen",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kühlwasserpumpen sind wesentlich: Kühlung von Maschinen und Systemen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kühlwasserpumpen sind wesentlich für die Kühlung von Maschinen und Systemen in verschiedenen Industriezweigen, etwa in der Energie-, Chemie-, Lebensmittel- und Automobilindustrie. Diese Pumpen sorgen für den Umlauf des Kühlwassers durch das Kühlsystem, wobei Wärme abgeführt und die Temperatur auf einem sicheren Niveau gehalten wird. Das verhindert Schäden an den Maschinen und erhöht deren Effizienz und Lebensdauer."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Es gibt verschiedene Arten von Kühlwasserpumpen, etwa Kreiselpumpen, Schraubenpumpen und Membranpumpen, jeweils mit eigenen Anwendungen und Vorteilen. Welche Pumpe die richtige ist, hängt von der jeweiligen Anwendung und den Anforderungen des Systems ab."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Neben der Kühlung von Maschinen werden Kühlwasserpumpen auch zur Kühlung von Geräten in Rechenzentren und Serverräumen sowie zur Kühlung von Motoren in Schiffen und Booten eingesetzt."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Optimale Wärmeabfuhr",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kühlwasserpumpen sorgen für eine wirksame Wärmeabfuhr, sodass Maschinen und Anlagen optimal arbeiten."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Vielseitiger Einsatz",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Diese Pumpen werden in verschiedenen Industriezweigen eingesetzt, etwa in Kraftwerken, in der chemischen und petrochemischen Industrie und in der Lebensmittelverarbeitung, um die wesentliche Kühlung bereitzustellen."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Hoher Förderstrom und hohe Effizienz",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Vor allem Kreiselpumpen bieten einen hohen Förderstrom und eine hohe Effizienz, was sie für anspruchsvolle industrielle Anwendungen geeignet macht."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Temperaturregelung",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kühlwasserpumpen helfen, die Temperaturen in verschiedenen Prozessen genau zu regeln, was für die Qualität der Endprodukte und die Sicherheit des Betriebs wesentlich ist."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die Bedeutung von Kühlwasser in industriellen Anwendungen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kühlwasser ist eine Flüssigkeit, mit der Maschinen und Anlagen gekühlt werden, damit sie optimal arbeiten. Das Kühlwasser wird durch ein Kühlsystem gepumpt, um die beim Betrieb der Maschine entstehende Wärme abzuführen."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kühlwasser wird in verschiedenen industriellen Anwendungen eingesetzt, etwa in der Stromerzeugung, in der chemischen und petrochemischen Industrie, in der Lebensmittelverarbeitung und in der pharmazeutischen Industrie. Bei der Stromerzeugung wird Kühlwasser in Kraftwerken verwendet, um die bei der Energieerzeugung entstehende Wärme abzuführen."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "In der chemischen und petrochemischen Industrie wird Kühlwasser verwendet, um die Temperaturen verschiedener Prozesse zu regeln und zu kühlen. In der Lebensmittelverarbeitung dient Kühlwasser dazu, die Temperatur von Produktionsprozessen zu regeln und die Qualität des Endprodukts sicherzustellen."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Typen von Kühlwasserpumpen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Es sind verschiedene Arten von Kühlwasserpumpen erhältlich, darunter Kreiselpumpen und Verdrängerpumpen. Kreiselpumpen sind der am weitesten verbreitete Typ und werden wegen ihres hohen Förderstroms und ihrer hohen Effizienz in vielen industriellen Anwendungen eingesetzt. Verdrängerpumpen eignen sich für Anwendungen mit geringerem Förderstrom und hohem Druck."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die Leistung von Kühlwasserpumpen hängt von verschiedenen Faktoren ab, etwa vom Förderstrom, vom Druck, von der Strömungsgeschwindigkeit und von der Art der verwendeten Flüssigkeit. Bei der Auswahl einer Kühlwasserpumpe sind diese Faktoren zu berücksichtigen, damit die Pumpe für die Anwendung geeignet ist."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "8aafe27806bd",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/segmenten-koelwater-3.webp",
+          "alt": "Industrieanlage mit Kühlanlagen und Rohrleitungen auf dem Dach eines Hochhauses, im Hintergrund die Skyline",
+          "width": 1000,
+          "height": 667
+        }
+      },
+      {
+        "_uid": "0d318d3943cd",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Eine Auswahl unserer Kunden"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "a127cfdb9958",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/homepage-logos-aeb.webp",
+          "alt": "Kundenlogo AEB: Energiezentrale AEB Amsterdam mit Rauchfahnen aus den Schornsteinen am Abend",
+          "width": 387,
+          "height": 241
+        }
+      },
+      {
+        "_uid": "0b1f2ea81886",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/homepage-logos-akzonobel.webp",
+          "alt": "Kundenlogo AkzoNobel: Bürogebäude in städtischer Umgebung mit moderner Fassade und Abendbeleuchtung",
+          "width": 387,
+          "height": 241
+        }
+      },
+      {
+        "_uid": "5ef73ccd684b",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/homepage-logos-hvc.webp",
+          "alt": "Kundenlogo HVC: rotes Kraftwerk der HVC-Gruppe mit industrieller Optik aus der Luft gesehen",
+          "width": 387,
+          "height": 241
+        }
+      },
+      {
+        "_uid": "facbb2d6d62a",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/homepage-logos-petrogas.webp",
+          "alt": "Kundenlogo Petrogas: Offshore-Ölplattform mit gelber Struktur über dem Wasser und grauem Himmel",
+          "width": 387,
+          "height": 241
+        }
+      },
+      {
+        "_uid": "3362bc5bcbe7",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/homepage-logos-tatasteel.webp",
+          "alt": "Kundenlogo Tata Steel: Stahlwerk mit Maschinen zur Stahlproduktion, Mitarbeiter in Schutzkleidung in der Werkhalle",
+          "width": 387,
+          "height": 241
+        }
+      },
+      {
+        "_uid": "a12eac19d1e0",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/homepage-logos-waternet.webp",
+          "alt": "Kundenlogo Waternet: Bürogebäude in Amsterdam mit dem Logo auf dem Dach",
+          "width": 387,
+          "height": 241
+        }
+      },
+      {
+        "_uid": "9fbacae34bcc",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Zuverlässiger und proaktiver Service von IPG!",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Als Leiter Technischer Dienst schätze ich die Zuverlässigkeit, die Herstellerunabhängigkeit und die proaktive Vorgehensweise von IPG. Der schnelle Service ist in unserer Branche entscheidend, in der jede Minute Stillstand zählt."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Leiter Technischer Dienst",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " bei einem Chemiewerk."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "IPG ist ein zuverlässiger Partner bei Einkauf und Optimierung!",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Als Einkaufsleiter schätze ich IPG als Partner, der unseren Bedarf versteht und schnell liefert. Fachwissen und Beratung von IPG haben unsere Prozesse optimiert."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Einkaufsleiter",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " bei einem Lebensmittelhersteller."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 4/5"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "IPG ist ein unverzichtbarer Partner für Produktionseffizienz!",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Als Produktionsleiter schätze ich IPG als unverzichtbaren Partner für Effizienz und Verfügbarkeit. Das fachkundige Team hat uns mit den richtigen Pumpen und dem passenden Service für eine gleichbleibende Produktion unterstützt."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Projektleiter",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " bei einer Papierfabrik."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Jeroen von IPG ist ein wichtiger Partner für unsere Versorgungsqualität!",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Als Facility-Manager schätze ich Jeroen von IPG als wichtige Stütze bei der Instandhaltung unserer Pumpensysteme. Das Ergebnis sind funktionale und effiziente Systeme, die die Qualität unserer Versorgung stärken."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Facility-Manager",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " bei einem Krankenhaus."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Zuverlässige und effiziente Pumpen für Kühlwassersysteme!"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die Kühlwasserpumpen von IPG sind sehr zuverlässig und energiesparend, was unsere Betriebskosten senkt. Das Team bietet schnellen und fachkundigen Service, der für unseren Betrieb wesentlich ist."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Operations Manager bei einem Kraftwerk in den Niederlanden."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Hohe Qualität und lange Lebensdauer!"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "IPG bietet hochwertige Pumpen, die sehr gut in unsere Kühlwasserinfrastruktur passen. Die Produkte sind langlebig und effizient, was hilft, unsere Prozesse optimal zu halten."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Technischer Betriebsleiter bei einem chemischen Produktionsbetrieb."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Langlebige Lösungen und hervorragende Unterstützung!"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die Kühlwasserpumpen von IPG sind langlebig und halten den rauen Bedingungen in unseren Systemen stand. Die technische Unterstützung ist stets schnell und präzise, was uns hilft, reibungslos weiterzuarbeiten."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Maintenance Engineer bei einem Stahlwerk."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Unverbindlich Kontakt aufnehmen"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die Bedeutung regelmäßiger Wartung von Kühlwasserpumpen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Regelmäßige Wartung von Kühlwasserpumpen ist wesentlich, um deren optimalen Betrieb sicherzustellen und ungeplanten Stillstand und Reparaturkosten zu vermeiden. Im Betrieb von Kühlwasserpumpen können sich Schmutz und Ablagerungen ansammeln, die die Funktion der Pumpe beeinträchtigen und die Leistung verringern können. Eine unterlassene regelmäßige Wartung von Kühlwasserpumpen kann zur Überhitzung von Anlagen und zum Ausfall des Kühlsystems führen."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Zur Wartung von Kühlwasserpumpen gehören die regelmäßige Inspektion der Pumpe, die Kontrolle der Abflussleitungen, die Reinigung von Pumpe und Leitungen und der Austausch verschlissener Teile. Durch den regelmäßigen Austausch verschlissener Teile wie Lager und Dichtungen können die Lebensdauer der Pumpe verlängert und ihre Leistung verbessert werden."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die Industrial Pump Group Nederland (IPG) ist ein geeigneter Partner für Revision und Wartung von Kühlwasserpumpen. Mit unserer langjährigen Erfahrung und unserem Fachwissen in der Pumpentechnik sowie unserem umfangreichen Serviceangebot sorgen wir für effiziente und professionelle Wartung von Kühlwasserpumpen, um Lebensdauer und Leistung der Pumpen zu verbessern."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "1f6c20038515",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/homepage-product2-2.webp",
+          "alt": "Blaue Kreiselpumpe mit Motor und Edelstahlrohr am Sockel",
+          "width": 242,
+          "height": 168
+        }
+      },
+      {
+        "_uid": "4eb5d1e8560d",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Mehr über Kreiselpumpen lesen"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "1881950cc647",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/homepage-product4-2.webp",
+          "alt": "Mehrstufige Pumpe mit Metallgehäuse und mehreren Ein- und Auslässen",
+          "width": 219,
+          "height": 152
+        }
+      },
+      {
+        "_uid": "7e6d464369ff",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Mehr über mehrstufige Pumpen lesen"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "03f0ef9b2ca3",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-koelwaterpompen.webp",
+          "alt": "Schwarze axial geteilte Pumpe, ausgelegt für schwere industrielle Anwendungen",
+          "width": 600,
+          "height": 600
+        }
+      },
+      {
+        "_uid": "2df0e88fe620",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Mehr über axial geteilte Pumpen lesen"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "860e336a8ba8",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-sulzer-sulzer-insteekpomp.webp",
+          "alt": "Vertikale Turbinenpumpe mit langer Welle, geeignet für Tiefbrunnen-Anwendungen",
+          "width": 429,
+          "height": 1222
+        }
+      },
+      {
+        "_uid": "f262f86dfc5b",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Mehr über vertikale Turbinenpumpen lesen"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Beratung und Verkauf: die passende Lösung für Ihre Anwendung"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Es gibt viele verschiedene Pumpentypen und ebenso viele Anwendungen, zum Beispiel Tauchmotorpumpen, Umwälzpumpen oder Brunnenpumpen. Wegen dieser Vielfalt ist es sinnvoll, sich gut zu informieren, welcher Pumpentyp erforderlich ist, bevor Sie eine Pumpe anschaffen oder instand setzen lassen. Das IPG-Team mit mehreren Pumpenexperten berät Sie jederzeit zur passenden Lösung für Ihre Anwendung und unterstützt Sie außerdem bei Beschaffung und Installation der Pumpe."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "IPG pflegt zu mehreren Pumpenherstellern enge Beziehungen und kann Sie daher bei der Beschaffung vieler Pumpentypen und Marken gut beraten. So ist die Industrial Pump Group der niederländische Importeur von SAER und offizieller Händler unter anderem von Lowara, Grundfos und Seepex."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Langlebig und effizient: Lassen Sie Ihre Pumpe instand setzen"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "8f2240ca488d",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/segmenten-koelwater-2.webp",
+          "alt": "Blick aus dem Inneren eines Kühlturms mit Dampffahne, die aus dem Schornstein aufsteigt",
+          "width": 1000,
+          "height": 667
+        }
+      },
+      {
+        "_uid": "4a5af8af42b3",
+        "component": "faq",
+        "heading": "Häufige Fragen",
+        "items": [
+          {
+            "_uid": "9caa72a44d44",
+            "component": "faq_item",
+            "question": "Was ist eine Kühlwasserpumpe?",
+            "answer": "Eine Kühlwasserpumpe ist ein Pumpentyp, der Kühlwasser durch ein Kühlsystem zirkulieren lässt und so die beim Betrieb von Maschinen oder Anlagen entstehende Wärme abführt."
+          },
+          {
+            "_uid": "5aa6dea2d503",
+            "component": "faq_item",
+            "question": "Wofür werden Kühlwasserpumpen eingesetzt?",
+            "answer": "Kühlwasserpumpen werden in verschiedenen industriellen Anwendungen eingesetzt, etwa in der Stromerzeugung, in der chemischen und petrochemischen Industrie, in der Lebensmittelverarbeitung und in der pharmazeutischen Industrie."
+          },
+          {
+            "_uid": "96502c0f0e9d",
+            "component": "faq_item",
+            "question": "Warum ist regelmäßige Wartung von Kühlwasserpumpen wichtig?",
+            "answer": "Regelmäßige Wartung von Kühlwasserpumpen ist wichtig, um deren optimalen Betrieb sicherzustellen und ungeplanten Stillstand und Reparaturkosten zu vermeiden. Im Betrieb können sich Schmutz und Ablagerungen ansammeln, die die Funktion der Pumpe beeinträchtigen und die Leistung verringern können."
+          }
+        ]
+      }
+    ]
+  }
+}

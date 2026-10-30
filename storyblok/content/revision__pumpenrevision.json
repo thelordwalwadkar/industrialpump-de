@@ -1,0 +1,473 @@
+{
+  "id": 3540779462,
+  "uuid": "d30c01c6-a902-bab8-947b-c7a7aca2cd11",
+  "name": "Pumpenrevision: alle Revisionsleistungen",
+  "slug": "pumpenrevision",
+  "full_slug": "revision/pumpenrevision",
+  "position": 155,
+  "content": {
+    "component": "page_service",
+    "h1": "Pumpenrevision: alle Revisionsleistungen",
+    "seo_title": "Pumpenrevision: Alle Revisionsleistungen im Überblick",
+    "seo_description": "Pumpenrevision und Instandsetzung für Kreisel-, API-, Kühlwasser- und Chemienormpumpen. Übersicht aller Leistungen. Jetzt Revision anfragen.",
+    "intro": "Eine Pumpenrevision erhält Leistung und Lebensdauer einer Pumpe. Diese Seite richtet sich an Instandhalter und Einkäufer und gibt einen Überblick über alle Pumpentypen, die die Industrial Pump Group (IPG) überholt.",
+    "service_kind": "revision-typ",
+    "body": [
+      {
+        "_uid": "77a9846f346b",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/revisie-revisie-header-5.webp",
+          "alt": "Pumpenrevision bei Industrial Pump Group",
+          "width": 1280,
+          "height": 302
+        }
+      },
+      {
+        "_uid": "29ca9169e5fc",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 4
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Alle Revisionsmöglichkeiten im Überblick"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Pumpenrevisionen sind entscheidend, um Leistung und Lebensdauer von Pumpen zu erhalten. Durch regelmäßige Wartung und Inspektion lassen sich Probleme rechtzeitig erkennen und beheben, was zu weniger Stillstandszeiten und höherer Effizienz führt. Wichtig ist, die Pumpe von einer qualifizierten Fachkraft überholen zu lassen und für die richtige Schmierung, Kühlung und die passenden Betriebsbedingungen zu sorgen."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die Industrial Pump Group (IPG) ist Ihr herstellerunabhängiger Partner für Industriepumpen. Wir verfügen über mehr als 30 Jahre Erfahrung und sind in vielen Arten der Pumpenrevision stark. Einige dieser Revisionen finden Sie auf dieser Seite."
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Pumpenrevision allgemein",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/revision",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Pumpenrevision nachhaltig und zirkulär",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/revision/nachhaltig-und-zirkulaer",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Vorbeugende Wartung",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/revision/vorbeugende-wartung",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Inspektion und Wartung vor Ort",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/revision/inspektion-vor-ort",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Revision von API-Pumpen",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/revision/api-pumpen-revision",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Revision von Kesselspeisepumpen",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/revision/kesselspeisepumpen-revision",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Revision von Chemienormpumpen",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/revision/chemienormpumpen-revision",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Revision von Kühlwasserpumpen",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/revision/kuehlwasserpumpen-revision",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Revision von Kunststoffpumpen",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/revision/kunststoffpumpen-revision",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Revision von Halbaxialpumpen",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/revision/halbaxialpumpen-revision",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Revision von axial geteilten Pumpen",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/revision/axial-geteilte-pumpen-revision",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Revision von Getrieben",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/revision/getriebe-revision",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Revision von vertikalen Turbinenpumpen",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/revision/vertikale-turbinenpumpen-revision",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Revision von Normpumpen nach DIN EN 733",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/revision/normpumpen-revision",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Revision von Exzenterschneckenpumpen",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/revision/exzenterschneckenpumpen-revision",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Revision von Balcke-Dürr-Pumpen",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/revision/balcke-duerr-pumpen-revision",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Pumpe instand setzen lassen: Kontakt aufnehmen und Möglichkeiten besprechen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die Vielfalt der Pumpentypen ist groß. Die genannten Spezialisten des Revisionsteams von IPG verfügen über ausreichend Fachwissen, Ausstattung und enge Beziehungen zu verschiedenen Pumpenmarken, um eine große Zahl unterschiedlicher Pumpentypen zu überholen. IPG überholt unter anderem Kreiselpumpen, mehrstufige Pumpen, axial geteilte Pumpen und Exzenterschneckenpumpen. Vielleicht bald auch Ihre Pumpe?"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 4
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Weitere Informationen: IPG überholt verschiedene Pumpentypen"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

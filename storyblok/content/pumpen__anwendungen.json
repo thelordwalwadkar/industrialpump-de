@@ -1,0 +1,308 @@
+{
+  "id": 3627454840,
+  "uuid": "d8369178-d2d8-fdce-28c1-4ef1b5e27cbc",
+  "name": "Pumpenanwendungen im Überblick",
+  "slug": "anwendungen",
+  "full_slug": "pumpen/anwendungen",
+  "position": 143,
+  "content": {
+    "component": "page_hub",
+    "h1": "Pumpenanwendungen im Überblick",
+    "nav_title": "Pumpenanwendungen im Überblick",
+    "seo_title": "Pumpen-Anwendungen: Abwasser, Kühlwasser, Löschwasser",
+    "seo_description": "Industriepumpen für Abwasser, Trinkwasser, Kühlwasser, Entwässerung und mehr: Anwendungen im Überblick. Jetzt Beratung oder Angebot anfordern.",
+    "intro": "Industriepumpen lassen sich innerhalb ihrer Branche für viele verschiedene Anwendungen einsetzen, etwa für Abwasser, Trinkwasser, Kühlwasser oder Entwässerung. Diese Übersicht richtet sich an Planer, Einkäufer und Instandhalter, die die passende Pumpenlösung für ihre Anwendung suchen.",
+    "body": [
+      {
+        "_uid": "15bf22176b0e",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/sfeer-fotos-shutterstock-160393526.webp",
+          "alt": "Pumpenanwendungen im Überblick",
+          "width": 1280,
+          "height": 853
+        }
+      },
+      {
+        "_uid": "9a4cb8fc68c1",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Alle Anwendungen im Überblick"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Industriepumpen können innerhalb ihrer "
+                },
+                {
+                  "type": "text",
+                  "text": "Branche",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/branchen",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " für verschiedene Anwendungen eingesetzt werden."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die Industrial Pump Group (IPG) ist Ihr herstellerunabhängiger Partner für Industriepumpen. Wir verfügen über mehr als 30 Jahre Erfahrung und sind in vielen Branchen und zahlreichen Anwendungen zu Hause. Einige dieser Anwendungen finden Sie auf dieser Seite."
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Abwasser",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/anwendungen/abwasser",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Nassbaggerei",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/anwendungen/nassbaggerei",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kesselspeisung",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/anwendungen/kesselspeisung",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Löschwasserversorgung",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/anwendungen/loeschwasser",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Meerwasserentsalzung",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/anwendungen/meerwasserentsalzung",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Entwässerung",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/anwendungen/entwaesserung",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Trinkwasser",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/anwendungen/trinkwasser",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kühlwasser",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/anwendungen/kuehlwasser",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Prozesswasser",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/anwendungen/prozesswasser",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 4
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Unverbindlich Kontakt aufnehmen"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

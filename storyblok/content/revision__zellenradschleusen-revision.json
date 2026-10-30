@@ -1,0 +1,275 @@
+{
+  "id": 2572604938,
+  "uuid": "9956d60a-9491-6b51-06b7-87fe90642851",
+  "name": "Revision von Zellenradschleusen",
+  "slug": "zellenradschleusen-revision",
+  "full_slug": "revision/zellenradschleusen-revision",
+  "position": 159,
+  "content": {
+    "component": "page_service",
+    "h1": "Revision von Zellenradschleusen",
+    "nav_title": "Revision von Zellenradschleusen",
+    "seo_title": "Zellenradschleuse Revision: Instandsetzung vom Fachmann",
+    "seo_description": "Revision von Zellenradschleusen aller Marken: Inspektion, Prüfung von Rotor und Spiel, Austausch von Lagern und Dichtungen. Jetzt Revision anfragen.",
+    "intro": "Die Revision einer Zellenradschleuse stellt den zuverlässigen und kontrollierten Transport trockener Schüttgüter wieder her. Sie richtet sich an Betreiber in der Lebensmittel-, Zement- und weiteren Industrien mit Schüttgutförderung.",
+    "service_kind": "revision-typ",
+    "body": [
+      {
+        "_uid": "233f9912ed3e",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/revisie-revisie-header-4.webp",
+          "alt": "Überholte Zellenradschleuse in industrieller Umgebung",
+          "width": 1280,
+          "height": 302
+        }
+      },
+      {
+        "_uid": "a7eeecf2dfd5",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "IPG überholt Zellenradschleusen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Eine einwandfrei funktionierende Zellenradschleuse ist entscheidend für den zuverlässigen und kontrollierten Transport trockener Schüttgüter in zahlreichen industriellen Prozessen. Durch Verschleiß, Verschmutzung oder Beschädigung können Zellenradschleusen jedoch weniger effizient oder sogar störungsanfällig werden."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "IPG sorgt mit einer professionellen Revision von Zellenradschleusen für einen optimalen Betrieb und verlängert die Lebensdauer Ihrer Anlage."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Fachgerechte Revision einer Zellenradschleuse"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "IPG verfügt über langjährige Erfahrung in der Revision von Zellenradschleusen verschiedener Marken und Ausführungen. Ob kompakte Ausführung in einer Lebensmittelanlage oder hoch belastete Schleuse in einem Zementwerk: Unsere Spezialisten führen eine gründliche Inspektion durch und erstellen einen individuellen Revisionsplan."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bei der Revision prüfen und instand setzen wir unter anderem:"
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Rotor und Zellen auf Verschleiß oder Verformung"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Passung zwischen Rotor und Gehäuse (das Spiel ist entscheidend für die Luftdichtheit)"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Lager, Wellendichtringe und Dichtungen"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Antrieb und gegebenenfalls Kupplung"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "gegebenenfalls vorhandene Auskleidungen oder Beschichtungen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bei starkem Verschleiß oder Korrosion können wir Teile erneuern oder vollständig neu anfertigen. Nach der Revision wird die Schleuse umfassend getestet, sodass Sie wieder mit einem zuverlässigen Betrieb rechnen können."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "29fb1b3f4787",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/revisie-revisie-9.webp",
+          "alt": "Monteur führt in der Werkstatt von Industrial Pumps eine Revision an einer Zellenradschleuse aus",
+          "width": 1102,
+          "height": 735
+        }
+      },
+      {
+        "_uid": "c3f6bdd8c1a9",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Pumpe instand setzen lassen: Kontakt aufnehmen und Möglichkeiten besprechen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die Vielfalt der Pumpentypen ist groß. Die genannten Spezialisten des Revisionsteams von IPG verfügen über ausreichend Fachwissen, Ausstattung und enge Beziehungen zu verschiedenen Pumpenmarken, um eine große Zahl unterschiedlicher Pumpentypen zu überholen. IPG überholt unter anderem Kreiselpumpen, mehrstufige Pumpen, axial geteilte Pumpen und Exzenterschneckenpumpen. Vielleicht bald auch Ihre Pumpe?"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Weitere Informationen: IPG überholt verschiedene Pumpentypen"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "bf7e86664197",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/revisie-revisie-11.webp",
+          "alt": "Servicemonteur inspiziert und überholt eine Zellenradschleuse vor Ort in einer Industrieanlage",
+          "width": 1102,
+          "height": 735
+        }
+      },
+      {
+        "_uid": "2612748eab22",
+        "component": "faq",
+        "heading": "Häufige Fragen",
+        "items": [
+          {
+            "_uid": "1dc2eac95312",
+            "component": "faq_item",
+            "question": "Woran erkenne ich, dass meine Zellenradschleuse überholt werden muss?",
+            "answer": "Typische Anzeichen sind nachlassende Luftdichtheit, ungleichmäßiger Durchsatz, Verschleißgeräusche oder Leckage von Produkt oder Luft. Sind Sie unsicher? IPG kann eine Inspektion durchführen und Sie zum Zustand Ihrer Anlage beraten."
+          },
+          {
+            "_uid": "5f0d7c8e5f31",
+            "component": "faq_item",
+            "question": "Überholen Sie Zellenradschleusen aller Marken?",
+            "answer": "Ja, IPG überholt Zellenradschleusen von nahezu allen Marken und Ausführungen. Wir haben Erfahrung unter anderem mit DMN-Westinghouse, WAMGROUP, Gericke, Stanelle und vielen weiteren."
+          },
+          {
+            "_uid": "f9baa0e2c176",
+            "component": "faq_item",
+            "question": "Wie lange dauert eine Revision durchschnittlich?",
+            "answer": "Das hängt vom Umfang der Revision und von der Verfügbarkeit der Ersatzteile ab. Nach einer ersten Inspektion können wir die Durchlaufzeit klar einschätzen. In dringenden Fällen suchen wir selbstverständlich gemeinsam mit Ihnen nach einer Lösung."
+          },
+          {
+            "_uid": "be94e85e52c2",
+            "component": "faq_item",
+            "question": "Können Sie auch zu Modifikationen oder Verbesserungen beraten?",
+            "answer": "Selbstverständlich. Manchmal lohnt es sich, bei der Revision gleich ein Upgrade vorzunehmen, zum Beispiel mit verschleißfesten Auskleidungen, verbesserten Dichtungen oder einem anderen Antrieb. Wir beraten Sie gern zu den Möglichkeiten."
+          }
+        ]
+      }
+    ]
+  }
+}

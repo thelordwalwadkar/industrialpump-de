@@ -1,0 +1,29 @@
+{
+  "id": "pompen__merken__saer__nca-serie",
+  "seo_title": "SAER NCA: trocken aufgestellte Abwasserpumpen",
+  "seo_description": "SAER NCA Kreiselpumpen für Schmutz- und Abwasser: bis 1.600 m³/h, 60 m Förderhöhe und 160 kW. Jetzt Angebot oder Beratung anfordern.",
+  "h1": "SAER NCA: trocken aufgestellte Elektropumpen für Entwässerung und Abwasser",
+  "intro": "Die SAER NCA ist eine trocken aufgestellte Kreiselpumpe für häusliches und industrielles Schmutzwasser, Abwasser und faser- oder feststoffhaltige Medien. Sie erreicht bis zu 1.600 m³/h, 60 m Förderhöhe und 160 kW.",
+  "blocks": [
+    { "t": "h", "l": 1, "text": "SAER NCA: trocken aufgestellte Elektropumpen für Entwässerung und Abwasser" },
+    { "t": "img", "src": "/Files/Images/pomptypes/Merk/SAER/SAER-NCA.png", "alt": "Grüne industrielle Kreiselpumpe der SAER NCA-Baureihe, geeignet zum Fördern von Schmutzwasser" },
+    { "t": "h", "l": 2, "text": "Baureihe für Entwässerung und Abwasser" },
+    { "t": "p", "text": "Die SAER NCA Kreiselpumpe eignet sich zum Fördern von häuslichem und industriellem Schmutzwasser, viskosen und ätzenden Flüssigkeiten, Flüssigkeiten mit faserigen und festen Stoffen, landwirtschaftlicher Gülle sowie allgemein von verschmutztem und schlammigem Wasser." },
+    { "t": "table", "rows": [
+      ["**Maximale Förderleistung**", "", "1600", "m³/h"],
+      ["**Maximale Förderhöhe**", "", "60", "m"],
+      ["**Maximale Leistung**", "", "160", "kW"]
+    ] },
+    { "t": "h", "l": 2, "text": "Unverbindlich Kontakt aufnehmen" },
+    { "t": "img", "src": "/Files/Images/merken/_0025_saer.png", "alt": "Logo von SAER Elettropompe, Hersteller von Kreiselpumpen der NCA-Baureihe" },
+    { "t": "h", "l": 2, "text": "Interessiert an allen **SAER-Pumpen**? Sehen Sie sich unser gesamtes Sortiment an" },
+    { "t": "form" }
+  ],
+  "notes": {
+    "dropped": [],
+    "claims": [
+      "Die Meta-Beschreibung der Quelle nennt '30+ jaar pompervaring'; nicht in die deutschen SEO-Felder übernommen."
+    ],
+    "nl_specific": []
+  }
+}

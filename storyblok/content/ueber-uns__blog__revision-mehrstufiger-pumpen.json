@@ -1,0 +1,607 @@
+{
+  "id": 1817824474,
+  "uuid": "6c59ccda-631a-b1ce-e702-539c222505df",
+  "name": "Vorbeugende Wartung: Komplettrevision einer mehrstufigen Pumpe",
+  "slug": "revision-mehrstufiger-pumpen",
+  "full_slug": "ueber-uns/blog/revision-mehrstufiger-pumpen",
+  "position": 32,
+  "content": {
+    "component": "page_blog_post",
+    "h1": "Vorbeugende Wartung: Komplettrevision einer mehrstufigen Pumpe",
+    "seo_title": "Revision mehrstufige Pumpe: vorbeugende Wartung bei IPG",
+    "seo_description": "Komplettrevision einer mehrstufigen Pumpe: Inspektion, Ersatz von Verschleißteilen und Beschichtung. Jetzt Revision bei IPG anfragen.",
+    "intro": "Bei einer vorbeugenden Revision wird eine mehrstufige Pumpe vollständig zerlegt, inspiziert, mit neuen Verschleißteilen versehen und neu beschichtet. Der Beitrag zeigt am Beispiel einer Sulzer-Pumpe für die Kraftstoffförderung in einer mobilen Anwendung, wie IPG dabei vorgeht.",
+    "publication_date": "2025-11-14",
+    "article": {
+      "type": "doc",
+      "content": []
+    },
+    "body": [
+      {
+        "_uid": "9146d5b31260",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "In unserer Werkstatt erreichte uns kürzlich eine mehrstufige Pumpe, die in einer mobilen Anwendung zur Förderung von Kraftstoff eingesetzt wird. Die Pumpe läuft unter konstanter Last und ist Teil eines fahrzeuggebundenen Systems, wodurch Zuverlässigkeit entscheidend ist. In Absprache mit dem Kunden fiel die Wahl auf eine vorbeugende Revision, bei der die Pumpe vollständig demontiert, geprüft, mit neuen Bauteilen versehen und neu lackiert wurde."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bei IPG sind wir überzeugt, dass vorbeugende Wartung und Revision der Schlüssel zu maximaler Betriebssicherheit und minimalen Stillstandszeiten sind",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ". In diesem Artikel führen wir Sie durch den Revisionsprozess, zeigen unser Vorgehen und erläutern, warum sich dieser Ansatz technisch und wirtschaftlich lohnt."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Warum eine vorbeugende Revision?"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Pumpen in mobilen Anwendungen, insbesondere bei der Kraftstoffförderung, laufen häufig intensiv und unter wechselnden Bedingungen. Dazu zählen Temperaturschwankungen, Vibrationen und Verschmutzung aus der Umgebung. Fällt eine Pumpe in einer solchen Situation aus, hat das unmittelbare Folgen für den Betrieb."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "In diesem Fall gab es noch keine Störungen, doch der Kunde entschied sich bewusst, vorbeugend zu handeln. Dadurch wurden nicht nur Schäden verhindert, sondern auch Planung, Kosten und Sicherheit unter Kontrolle gehalten."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "9bacf7ea7810",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/meertrapspomp-binnenkomst.webp",
+          "alt": "Zerlegte Sulzer-Mehrstufenpumpe auf der Werkbank während der Revision",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      {
+        "_uid": "a93b2b52e64b",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Eingang und Inspektion"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die Pumpe erreichte uns am Standort montiert auf dem Fahrzeug. Nach der Demontage und der Reinigung der Außenseite folgte eine vollständige technische Inspektion. Dabei prüfen wir unter anderem:"
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Verschleiß an Laufrädern, Spaltringen und Welle"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Spiel in Lagern und Dichtungen"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Allgemeinen Zustand des Pumpengehäuses"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Korrosion, Verschmutzung oder Leckagespuren"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die Revisionsschritte im Detail"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Nach der Freigabe durch den Kunden haben wir mit der Revision begonnen, die aus folgenden Schritten besteht:"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "1. Vollständige Demontage"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Alle Bauteile der Pumpe wurden sorgfältig zerlegt. Das gibt uns vollständigen Zugang zu den inneren Teilen, etwa den Laufrädern der einzelnen Stufen und der Pumpenwelle."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2. Reinigung und Strahlen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Alle Metallteile wurden gereinigt und gestrahlt, sodass sich Haarrisse oder Korrosion visuell gut erkennen ließen. Das ist entscheidend, damit später keine verdeckten Schäden übersehen werden."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "3. Austausch von Bauteilen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wir haben folgende Bauteile ersetzt:"
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Spaltringe"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Lagersätze"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Gleitringdichtung (Seal)"
+                        },
+                        {
+                          "type": "hard_break"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Alle verwendeten Teile sind Originalteile und entsprechen den OEM-Spezifikationen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "4. Neubeschichtung der Bauteile"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Nach Reinigung und Montage wurde das Pumpengehäuse in der Originalfarbe neu beschichtet, um Korrosion vorzubeugen und die Pumpe wie neu zu übergeben."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "5. Wiedermontage und Endkontrolle"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die Pumpe wurde vollständig neu aufgebaut. Bei der Endkontrolle messen wir unter anderem:"
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Radiales Spiel"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Dichtheit der Dichtung"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ebenheit der Passflächen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "b27dfdaf3837",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/meertrapspomp-demontage.webp",
+          "alt": "Seitenansicht einer vollständig montierten blauen Mehrstufenpumpe auf der Werkbank",
+          "width": 1280,
+          "height": 1707
+        }
+      },
+      {
+        "_uid": "28cae8c8d6a5",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Was ist eigentlich eine mehrstufige Pumpe?"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Eine mehrstufige Pumpe (auch Multistage-Pumpe) ist eine Pumpe mit mehreren Laufradstufen, die den Druck stufenweise aufbauen. Sie werden häufig zur Förderung von Kraftstoff, vollentsalztem Wasser oder anderen niedrigviskosen Flüssigkeiten bei höheren Drücken eingesetzt. Durch ihre Bauweise ist die Pumpe effizient und kompakt, aber bei intensiver Nutzung auch empfindlich gegenüber Unwucht und Verschleiß."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Mehrstufige Pumpen kommen häufig zum Einsatz in:"
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mobilen Anlagen"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Chemischen Prozessen"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kühl- und Speisesystemen"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Wasseraufbereitung unter Druck"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ergebnis: die Pumpe wieder wie neu"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Nach der Revision ist die Pumpe vollständig einsatzbereit. Durch die Kombination aus vorbeugender Inspektion, Originalteilen und fachgerechter Montage ist diese Pumpe wieder für Tausende Betriebsstunden zuverlässig einsetzbar."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Denken Sie auch über eine vorbeugende Revision nach?"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Hat Ihre Anlage eine Pumpe, die für den Prozess kritisch ist? Lassen Sie sie rechtzeitig inspizieren, nicht erst bei einem Ausfall. Vorbeugende Revision spart Kosten, verhindert Schäden und hält Ihre Produktion oder Ihre Dienstleistung betriebsbereit."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "📞 Rufen Sie uns an unter [[PLATZHALTER: Telefon]]"
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "✉️ Schreiben Sie uns an [[PLATZHALTER: E-Mail]]"
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "🔗 Oder lesen Sie mehr zu unseren Revisionsleistungen"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "6187669dd280",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/meertrapspomp-resultaat.webp",
+          "alt": "Vakuumwagen mit Sulzer-Mehrstufenpumpe an der Werkstatt für Pumpenwartung",
+          "width": 1080,
+          "height": 1247
+        }
+      }
+    ],
+    "image": {
+      "filename": "/img/nl/meertrapspomp-binnenkomst.webp",
+      "alt": "Zerlegte Sulzer-Mehrstufenpumpe auf der Werkbank während der Revision",
+      "width": 1280,
+      "height": 720
+    }
+  }
+}

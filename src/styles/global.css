@@ -196,6 +196,11 @@ ol.steps p { margin: 0; }
 .two-col { display: grid; grid-template-columns: repeat(auto-fit, minmax(19rem, 1fr)); gap: 2.5rem; }
 .brand-chip { display: inline-block; background: #fff; padding: .7rem 1.2rem; margin-top: 1.5rem; border-top: 5px solid var(--color-overhaul); }
 .brand-chip img { height: 2.8rem; width: auto; }
+.section--tight { padding-block: 1rem; }
+.content-figure { margin: 0; padding-block: 1.2rem; }
+.content-figure img { max-height: 28rem; width: auto; max-width: 100%; margin-inline: 0; border-top: 6px solid var(--color-overhaul); }
+.content-figure figcaption { color: var(--color-text-muted); font-size: .98rem; margin-top: .4rem; }
+table.data td, table.data th { white-space: normal; }
 .type-block + .type-block { margin-top: 3.4rem; }
 .type-head { display: grid; grid-template-columns: minmax(0, 14rem) 1fr; gap: 1.6rem; align-items: center; margin-bottom: 1.5rem; }
 .type-head img { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-top: 6px solid var(--color-overhaul); }

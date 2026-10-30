@@ -1,0 +1,977 @@
+{
+  "id": 3856880385,
+  "uuid": "e5e35301-ddaf-b4a1-84e2-1afd4518bfea",
+  "name": "Lowara e-IXP: einstufige Kreiselpumpe nach ISO 2858 und ISO 5199",
+  "slug": "e-ixp-serie",
+  "full_slug": "pumpen/marken/lowara/e-ixp-serie",
+  "position": 80,
+  "content": {
+    "component": "page_series",
+    "h1": "Lowara e-IXP: einstufige Kreiselpumpe nach ISO 2858 und ISO 5199",
+    "seo_title": "Lowara e-IXP: Chemienormpumpe nach ISO 2858 und 5199",
+    "seo_description": "Lowara e-IXP Chemienormpumpe nach ISO 2858 und ISO 5199: DN25 bis DN250, bis 1.270 m³/h, mit Zustandsüberwachung. Jetzt Pumpenberatung anfordern.",
+    "intro": "Die Lowara e-IXP ist eine einstufige Kreiselpumpe für industrielle Anwendungen, ausgelegt nach ISO 2858 und ISO 5199. Sie richtet sich an Betreiber und Planer, die eine Normpumpe mit wählbaren Werkstoffen, Dichtungsvarianten und Zustandsüberwachung suchen.",
+    "series_name": "e-IXP",
+    "body": [
+      {
+        "_uid": "a093f87089a7",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Einstufige Kreiselpumpe Lowara e-IXP"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "44b047787b90",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-lowara-lowara-e-ixp.webp",
+          "alt": "Drei Lowara e-IXP Kreiselpumpen mit PTFE-Auskleidung für industrielle Anwendungen",
+          "width": 500,
+          "height": 500
+        }
+      },
+      {
+        "_uid": "3eee6f90f99c",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Lowara e-IXP Chemienormpumpen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die Baureihe Lowara e-IXP ist die neue, innovative Industriepumpe, ausgelegt nach ISO 2858 und ISO 5199. Diese Pumpe ist die Lösung für industrielle Anwendungen."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die neue e-IXP kann in nahezu allen großen Märkten eingesetzt werden, um den Pumpenbedarf der Kunden zu erfüllen, und ist mit mehreren Konstruktionswerkstoffen und verschiedenen Gleitringdichtungs-Konfigurationen lieferbar. So lässt sich die Pumpe vollständig auf die gewünschte Anwendung optimieren. Auf Grundlage der Rückmeldungen von Endanwendern und der langjährigen Erfahrung von Xylem konnte Lowara diese Pumpenbaureihe so zuverlässig und effizient wie möglich gestalten, und zwar mit niedrigeren Lebenszykluskosten."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Dank der neuen Technologie Xylem optimyze ist der Zustand der Pumpe stets unter Kontrolle."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Spezifikationen"
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Größen: DN25 – DN250"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Leistung: 0,55 kW – 200 kW"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Förderhöhen bis: 160 m"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Förderströme bis: 1.270 m³/h"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wichtige Merkmale"
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flüssigkeitstemperatur: -40 bis 180 °C"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Auslegungsdruck: max. 25 bar"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Standardflansche: EN 1092 / ISO 7005, PN 16 und PN 25"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Optionale Flansche: ASME B16.5, kompatibel mit Class 150 und 300 (gebohrt)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Anwendungen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die Pumpen der Baureihe Lowara e-IXP sind für verschiedene industrielle Anwendungen geeignet, zum Beispiel für:"
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Löschwasserpumpen"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kühlwasserpumpen"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Förderung von (Trink-)Wasser"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die erste ISO-Pumpe mit Fernüberwachung und Zustandskontrolle"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Xylem optimyze",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " ist eine modulare Lösung zur Zustandsüberwachung, die bei Wartung und Überwachung der Pumpe unterstützen kann. So könnte dieses Modul vorhersagen und empfehlen, wann Wartung an Pumpe, Bauteilen und/oder Motor erforderlich ist."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Unverbindlich Kontakt aufnehmen"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ausführungen innerhalb der Baureihe e-IXP"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Innerhalb der Baureihe Lowara e-IXP sind verschiedene Pumpenausführungen erhältlich. Das hängt unter anderem mit dem Einbau der Pumpe zusammen."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Interessant ist die Ausführung e-IXP innerhalb dieser Baureihe dadurch, dass sie sich eins zu eins gegen eine bereits vorhandene ISO-2858-Pumpe austauschen lässt."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "4f71de10ba5a",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/ipg-ecom-lowara-lowara-ixps.webp",
+          "alt": "Korrosionsbeständige Lowara e-IXPS Kreiselpumpe mit leistungsstarkem Elektromotor",
+          "width": 400,
+          "height": 252
+        }
+      },
+      {
+        "_uid": "5fd4840e84ec",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "e-IXPS"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Einstufiges horizontales Spiralgehäuse, starr an einen Standardmotor gekuppelt."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wenn Sie eine kompaktere und wirtschaftliche Lösung wünschen.",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "2193a68a5a80",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/ipg-ecom-lowara-lowara-ixpc.webp",
+          "alt": "Lowara e-IXPC Pumpe mit Elektromotor und chemisch beständigem Gehäuse auf Grundrahmen",
+          "width": 400,
+          "height": 252
+        }
+      },
+      {
+        "_uid": "e098a1ac3890",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "e-IXPC"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Auf einem Grundrahmen montiertes, endsaugendes einstufiges Pumpengehäuse. Die Pumpe wird über eine Zwischenstückkupplung mit dem Motor verbunden."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wenn Sie mehr benötigen, ist dies eine robuste und vielseitige Ausführung.",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "a78ea668a6e8",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/ipg-ecom-lowara-lowara-ixp.webp",
+          "alt": "PTFE-ausgekleidete Lowara e-IXP Pumpe mit blauem Industriegehäuse und Flansch",
+          "width": 400,
+          "height": 252
+        }
+      },
+      {
+        "_uid": "d32602c3d19b",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "e-IXP"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Einstufige horizontale Lowara e-IXP Pumpe mit freiem Wellenende, kuppelbar an jeden Standard-IEC-Motor."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Eine Lösung, wenn Sie bereits eine ISO-2858-Pumpe haben.",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Beratung und Verkauf: die bestmögliche Lösung für Ihre Anwendung"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Es gibt viele verschiedene Pumpentypen und ebenso viele Anwendungen, zum Beispiel Tauchmotorpumpen, Umwälzpumpen oder Brunnenpumpen. Wegen dieser Vielfalt ist es sinnvoll, sich gut zu informieren, welcher Pumpentyp erforderlich ist, bevor Sie eine Pumpe anschaffen oder instand setzen lassen. Das IPG-Team mit mehreren Pumpenexperten berät Sie jederzeit zur bestmöglichen Lösung für Ihre Anwendung und unterstützt Sie außerdem bei Beschaffung und Installation der Pumpe."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "IPG pflegt zu mehreren Pumpenherstellern enge Beziehungen und kann Sie daher bei der Beschaffung vieler Pumpentypen und Marken gut beraten. So ist die Industrial Pump Group der niederländische Importeur von SAER und offizieller Händler unter anderem von Lowara, Grundfos und Seepex."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Zubehör"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Für diese Pumpenbaureihe ist verschiedenes Zubehör erhältlich, darunter:"
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ankerbolzen"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Auffangwanne aus Edelstahl"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "API-Pläne"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Inducer *"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Verschiedene Sensoren"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "* nicht für alle Größen"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Produktzertifikate"
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Standard-Prüfbericht nach ISO 9906"
+                        },
+                        {
+                          "type": "hard_break"
+                        },
+                        {
+                          "type": "text",
+                          "text": "– Klasse 2B standardmäßig"
+                        },
+                        {
+                          "type": "hard_break"
+                        },
+                        {
+                          "type": "text",
+                          "text": "– Klasse 1B, 1U auf Kundenwunsch"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Schwingungsprüfbericht"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Lagertemperaturanstieg"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Werkstoffzeugnis nach EN 10204 – 2.2 und 3.1 (für alle medienberührten und druckbeaufschlagten Bauteile)"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Rückverfolgbarkeit der Bauteile"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Merkmale"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Gehäuse:",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "Ausgelegt für 25 bar in Sphäroguss und Duplex, 16 bar in AISI 316; Super-Duplex und super-austenitisch auf Anfrage."
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "Das Gehäuse hat einen Druckstutzen auf der Mittellinie, der die Rohrleitungsspannungen minimiert."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Flanschbohrung:",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "Die Flansche sind gebohrt nach EN 1092 / ISO 7005, PN 16. Lieferbar sind auch andere Flansche, etwa gebohrte Flansche PN 25 und nach ASME B16.5 kompatibel gebohrte Flansche, Class 150 und 300."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Laufrad:",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "Optimierte Hydraulik für hohen Wirkungsgrad und einen breiten hydraulischen Einsatzbereich."
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "Laufräder sind in AISI 316 und Duplex lieferbar; Super-Duplex und super-austenitisch auf Anfrage."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Welle:",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "Trockene Welle aus AISI 431 mit Wellenschutzhülse aus Duplex."
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "Duplexwelle sowie Welle aus Super-Duplex oder super-austenitischem Werkstoff auf Anfrage lieferbar."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Dichtung und Dichtungskammer:",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "Zyklon-Dichtungskammer zum Abscheiden von Partikeln."
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "Standardmäßig nicht entlastete Gleitringdichtung."
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "Optional mit entlasteter Gleitringdichtung, einfacher Cartridge-Dichtung oder doppelter Cartridge-Dichtung."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "ab34c5265d75",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/merken-lowara-ipg.webp",
+          "alt": "Lowara-Logo",
+          "width": 120,
+          "height": 54
+        }
+      },
+      {
+        "_uid": "1413566d4734",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Interessiert an allen "
+                },
+                {
+                  "type": "text",
+                  "text": "Lowara-Pumpen",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "? Sehen Sie sich unser gesamtes Sortiment an"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -190,6 +190,715 @@
             }
           }
         ]
+      },
+      {
+        "_uid": "0e6df1718668",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wir liefern industrielle Pumpenlösungen an zahlreiche Unternehmen und Organisationen in den gesamten Niederlanden, darunter die chemische Industrie, die Lebensmittelindustrie, die Stahlindustrie, öffentliche Auftraggeber und weitere."
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Marken",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/marken",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Pumpentypen",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/pumpentypen",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Revision",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/revision",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Pumpenschule",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/ueber-uns/pumpenschule",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 4
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Mehr als 30 Jahre Erfahrung: Möchten Sie Kosten senken?"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kosten senken bei Service, Wartung und Beschaffung Ihrer Pumpen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wir bieten hochwertige Pumpen führender Marken und verfügen über ein Team erfahrener Techniker, die Reparaturen und Wartung effizient und wirksam ausführen. Mit unseren professionellen Service- und Wartungsleistungen verlängern Sie die Lebensdauer Ihrer Pumpen und verringern ungeplante Stillstandszeiten. Nehmen Sie Kontakt mit uns auf, um die Kosten für Ihre Pumpen und die damit verbundenen Ausgaben zu senken."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "2777743ef509",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/homepage-product2.webp",
+          "alt": "Kreiselpumpe | Industrial Pump Group",
+          "width": 242,
+          "height": 168
+        }
+      },
+      {
+        "_uid": "2bdfd9fef700",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Mehr über Kreiselpumpen lesen"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "84f38f62a139",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-dompelpomp2.webp",
+          "alt": "Tauchmotorpumpe | Industrial Pump Group",
+          "width": 318,
+          "height": 500
+        }
+      },
+      {
+        "_uid": "ca567fc20a09",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Mehr über Tauchmotorpumpen lesen"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "a2e567a1ed5c",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/homepage-product4.webp",
+          "alt": "Mehrstufige Pumpe | Industrial Pump Group",
+          "width": 219,
+          "height": 152
+        }
+      },
+      {
+        "_uid": "63dfd0f9f6b9",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Mehr über mehrstufige Pumpen lesen"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "75cf58148e97",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-wormpompen.webp",
+          "alt": "Exzenterschneckenpumpe | Industrial Pump Group",
+          "width": 243,
+          "height": 141
+        }
+      },
+      {
+        "_uid": "5ac16feb1454",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Mehr über Exzenterschneckenpumpen lesen"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 4
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Offizieller Händler führender Marken, auf die wir spezialisiert sind"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "IPG entlastet Sie rund um das Thema Pumpen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Industrial Pump Group (IPG) ist Ihr Partner für alle Anforderungen rund um Pumpen. Mit mehr als 30 Jahren Erfahrung in Verkauf, Revision und Lieferung von Pumpen und Pumpenersatzteilen bieten wir hochwertige Pumpen führender Marken sowie fachkundige Reparatur- und Wartungsleistungen für alle Pumpentypen. Unser Team erfahrener Techniker arbeitet eng mit den Kunden zusammen, um Lösungen zu finden, die zu deren Anforderungen und Budget passen. Bei IPG stehen wir für Qualität und Zuverlässigkeit."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "0acfdec24bfa",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/homepage-pompen-verkoop.webp",
+          "alt": "Pumpenverkauf bei Industrial Pump Group",
+          "width": 450,
+          "height": 250
+        }
+      },
+      {
+        "_uid": "34081e747299",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Pumpenverkauf"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Für Beratung, Beschaffung oder Installation Ihrer neuen Pumpe sind Sie bei Industrial Pump Group Nederland an der richtigen Adresse. Die Experten von IPG unterstützen Sie bei der Auswahl und/oder Lieferung der passenden Pumpe."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "da3dd6cb0a81",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/homepage-pomprevisie.webp",
+          "alt": "Pumpenrevision bei Industrial Pump Group",
+          "width": 450,
+          "height": 252
+        }
+      },
+      {
+        "_uid": "f258a2d9cc90",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Pumpenrevision"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Mit mehr als 30 Jahren Erfahrung mit Pumpen und einem Team von Spezialisten ist IPG Ihr Partner für die Pumpenrevision. Die Revision kann vor Ort oder in einer der Werkstätten der Industrial Pump Group erfolgen; es gibt verschiedene Möglichkeiten, von großen bis zu kleinen Pumpen."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "bad8203b82ea",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/homepage-pomponderdelen.webp",
+          "alt": "Pumpenersatzteile von Industrial Pump Group",
+          "width": 450,
+          "height": 250
+        }
+      },
+      {
+        "_uid": "3d819426abf0",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Pumpenersatzteile"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Nachhaltigkeit bei IPG: vom Firmengebäude bis zur zirkulären Revision"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bei der Industrial Pump Group steht Nachhaltigkeit im Mittelpunkt aller Geschäftsprozesse. Unser gemeinsam mit Microtechniek genutztes Firmengebäude ist ein sichtbarer Beleg für dieses Umweltbewusstsein. Wir teilen mit Stolz, dass unser Gebäude vollständig CO2-neutral ist; 2350 Solarmodule auf dem Dach erzeugen erneuerbare Energie. Dieser ökologische Ansatz zeigt nicht nur unser Engagement für eine grünere Zukunft, sondern spiegelt auch die Grundwerte der Nachhaltigkeit wider, die tief in der Unternehmenskultur von IPG verankert sind."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bei IPG gehen wir über einen umweltfreundlichen Betrieb hinaus. Unsere nachhaltigen und zirkulären Revisionsmöglichkeiten für Pumpen sind ein wesentlicher Teil unserer Mission, die ökologischen Auswirkungen zu verringern. Ob Kreiselpumpen, mehrstufige Pumpen, axial geteilte Pumpen oder Exzenterschneckenpumpen: Unsere fachkundigen Teams führen Revisionen nach den VCA(**)-Richtlinien aus. Durch die Wiederverwendung vorhandener Werkstoffe und Bauteile verringern wir nicht nur Abfall und CO2-Ausstoß, sondern bieten auch langfristig nachhaltige Lösungen."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "d34b8b0fd9c6",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/homepage-pand-duurzaam-logo.webp",
+          "alt": "Nachhaltiges Firmengebäude von Industrial Pump Group",
+          "width": 1280,
+          "height": 754
+        }
+      },
+      {
+        "_uid": "1e6d337900b6",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/homepage-homepagebanner.webp",
+          "alt": "Industrial Pump Group Banner",
+          "width": 1280,
+          "height": 391
+        }
+      },
+      {
+        "_uid": "0eec186d8772",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/merken-0000-varisco-logo.webp",
+          "alt": "Logo Varisco",
+          "width": 120,
+          "height": 54
+        }
+      },
+      {
+        "_uid": "d07371166c30",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/merken-saer-logo.webp",
+          "alt": "Logo SAER",
+          "width": 120,
+          "height": 54
+        }
+      },
+      {
+        "_uid": "cd5061377199",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/merken-0002-ipg-01-wilo.webp",
+          "alt": "Logo Wilo",
+          "width": 120,
+          "height": 54
+        }
+      },
+      {
+        "_uid": "7dfc58bd65d8",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/merken-0005-ipg-01-netzsch.webp",
+          "alt": "Logo Netzsch",
+          "width": 120,
+          "height": 54
+        }
+      },
+      {
+        "_uid": "19bdb907e43c",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/merken-0006-ipg-01-lowara.webp",
+          "alt": "Logo Lowara",
+          "width": 120,
+          "height": 54
+        }
+      },
+      {
+        "_uid": "8525b97cfa59",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/merken-0007-ipg-01-ksb.webp",
+          "alt": "Logo KSB",
+          "width": 120,
+          "height": 54
+        }
+      },
+      {
+        "_uid": "c49d79a38cb2",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/merken-0010-ipg-01-homa.webp",
+          "alt": "Logo Homa",
+          "width": 110,
+          "height": 54
+        }
+      },
+      {
+        "_uid": "d01ddce90365",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/merken-0013-ipg-01-grunfos.webp",
+          "alt": "Logo Grundfos",
+          "width": 120,
+          "height": 54
+        }
+      },
+      {
+        "_uid": "55ee4181f083",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/merken-0014-ipg-01-grindex.webp",
+          "alt": "Logo Grindex",
+          "width": 120,
+          "height": 42
+        }
+      },
+      {
+        "_uid": "32dcd891b1e7",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/merken-0015-ipg-01-flygt.webp",
+          "alt": "Logo Flygt",
+          "width": 120,
+          "height": 54
+        }
+      },
+      {
+        "_uid": "5bf1545a8242",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/merken-0016-ipg-01-ensival.webp",
+          "alt": "Logo Ensival",
+          "width": 120,
+          "height": 40
+        }
+      },
+      {
+        "_uid": "a1dde8bc6439",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/merken-0017-ipg-01-ebara.webp",
+          "alt": "Logo Ebara",
+          "width": 120,
+          "height": 54
+        }
+      },
+      {
+        "_uid": "415c24fbac61",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/merken-0020-ipg-01-duchting.webp",
+          "alt": "Logo Düchting",
+          "width": 120,
+          "height": 40
+        }
+      },
+      {
+        "_uid": "b3656041bb4d",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/merken-sulzer.webp",
+          "alt": "Logo Sulzer",
+          "width": 120,
+          "height": 54
+        }
+      },
+      {
+        "_uid": "4637143875a2",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/merken-0023-goulds-pumps-logo.webp",
+          "alt": "Logo Goulds Pumps",
+          "width": 120,
+          "height": 39
+        }
+      },
+      {
+        "_uid": "54b454826043",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/merken-0024-vogel.webp",
+          "alt": "Logo Vogel",
+          "width": 120,
+          "height": 32
+        }
+      },
+      {
+        "_uid": "869720db8f9f",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/homepage-robert-de-brouwer.webp",
+          "alt": "Pumpenexperte von Industrial Pump Group",
+          "width": 1280,
+          "height": 854
+        }
+      },
+      {
+        "_uid": "c4ce3b0fb9da",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Engagierte Pumpenexperten: darum IPG"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Der Service von IPG Nederland geht über den Verkauf hinaus: Auch nach dem Verkauf unterstützen wir Sie. Unsere qualifizierten Monteure sind geschult, verfügen über viele Jahre Erfahrung und können für Projekte im In- und Ausland eingesetzt werden."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Spezialist für Industriepumpen: IPG",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "Pumpen gibt es in vielen Arten und Größen, deshalb ist es nicht einfach, die richtige Pumpe zu finden. Als Lieferant von Industriepumpen legt Industrial Pump Group Nederland B.V. großen Wert auf unabhängige Beratung nach Maß. So bauen wir eine langfristige Beziehung auf. Trotz der Zusammenarbeit mit zuverlässigen Markenpartnern bleiben wir gegenüber den Produkten, die wir liefern, stets kritisch. Wir helfen Ihnen gern bei einer fundierten Auswahl."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 4
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Diese Kunden haben sich bereits für IPG entschieden: Darauf sind wir stolz"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "c569496888d6",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/homepage-logo.webp",
+          "alt": "Kundenlogos von Industrial Pump Group",
+          "width": 468,
+          "height": 185
+        }
       }
     ],
     "revision": [

@@ -1,6 +1,8 @@
+import type { Service } from 'schema-dts';
 import type { PageTopic, RelatedLinks } from '../types';
-import { faqNode, itemListNode, type Builder, type Ctx } from './shared';
+import { clean, faqNode, globalIds, itemListNode, type Builder, type Ctx } from './shared';
 import { resolveLink } from '../links';
+import { seriesWithTag } from '../linking';
 
 /** Existing internal links of related_links bloks → {name, path} (dead or external links never enter the schema). */
 export function relatedItems(ctx: Ctx, bloks: RelatedLinks[] | undefined): { name: string; path: string }[] {
@@ -10,14 +12,25 @@ export function relatedItems(ctx: Ctx, bloks: RelatedLinks[] | undefined): { nam
   });
 }
 
-/** T3: WebPage about a Thing (the topic) + ItemList of linked pump types / series + FAQPage. */
+/**
+ * T3 (pump type / Branche / Anwendung): CollectionPage + ItemList of the linked pages and series + Service (the topic as a solution) + FAQPage.
+ */
 export const buildTopic: Builder = (ctx) => {
   const c = ctx.story.content as PageTopic;
-  const list = itemListNode(ctx, 'itemlist', relatedItems(ctx, c.related));
-  const faq = faqNode(ctx, c.faq);
+  const items = [...relatedItems(ctx, c.related), ...(c.tag ? seriesWithTag(ctx.site, c.tag).map((s) => ({ name: s.title, path: s.href })) : [])];
+  const list = itemListNode(ctx, 'itemlist', items);
+  const service: Service = clean({
+    '@type': 'Service',
+    '@id': ctx.id('service'),
+    name: c.nav_title || ctx.h1,
+    serviceType: c.service_type,
+    description: ctx.description,
+    provider: { '@id': globalIds(ctx.site.siteUrl).organization },
+    areaServed: { '@type': 'Country', name: 'Deutschland' },
+  });
   return {
-    pageType: 'WebPage',
-    pageExtra: { about: { '@type': 'Thing', name: c.nav_title || ctx.h1 }, ...(list ? { mainEntity: { '@id': ctx.id('itemlist') } } : {}) },
-    nodes: [list, faq].filter((n) => n !== undefined),
+    pageType: 'CollectionPage',
+    pageExtra: { about: { '@id': ctx.id('service') }, ...(list ? { mainEntity: { '@id': ctx.id('itemlist') } } : {}) },
+    nodes: [list, service, faqNode(ctx, c.faq)].filter((n) => n !== undefined),
   };
 };

@@ -1,0 +1,252 @@
+{
+  "id": 1817564388,
+  "uuid": "6c55d4e4-8d3f-0d7e-7f7b-ae6199f421cb",
+  "name": "Stellenanzeigen bei der Industrial Pump Group",
+  "slug": "karriere",
+  "full_slug": "ueber-uns/karriere",
+  "position": 53,
+  "content": {
+    "component": "page_listing",
+    "h1": "Stellenanzeigen bei der Industrial Pump Group",
+    "seo_title": "Stellenanzeigen: Jobs in der Pumpentechnik bei IPG",
+    "seo_description": "Stellenanzeigen der Industrial Pump Group: Pumpenmonteur, technischer Innendienst und Junior Account Manager. Jetzt Stelle prüfen und bewerben.",
+    "intro": "Die Industrial Pump Group (IPG) sucht Pumpenmonteure sowie Mitarbeitende für Innendienst und Vertrieb. Diese Seite listet alle offenen Stellenanzeigen mit Arbeitszeit und Anforderungen.",
+    "per_page": 12,
+    "body": [
+      {
+        "_uid": "8e4d89f95541",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/revisie-revisie-header-4.webp",
+          "alt": "Arbeiten bei der Industrial Pump Group: Revision von Pumpen in der Werkstatt",
+          "width": 1280,
+          "height": 302
+        }
+      },
+      {
+        "_uid": "78f572f4cac5",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 4
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Arbeiten bei der Industrial Pump Group"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Unternehmensprofil"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die Industrial Pump Group Nederland B.V. ist spezialisiert auf Reparatur, Verkauf und Vertrieb aller Arten von Pumpenaggregaten, Zubehör und Ersatzteilen. Das Angebot reicht von Chemiepumpen, Unterwasserpumpen und Abwasserpumpen bis zu Löschwasser- und Vakuumpumpen. Reparaturen werden vor Ort und in der IPG-Werkstatt in Velsen-Noord ausgeführt. IPG liefert, wartet und repariert Pumpen, die den Normen DIN, ISO, ANSI und API entsprechen."
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "Initiativ- und Akquiseanfragen auf Basis unserer Stellenanzeigen sind nicht erwünscht.",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Unsere Stellenanzeigen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Fragen zu einer Stellenanzeige?",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "Rufen Sie uns an unter [[PLATZHALTER: Telefon]], werktags zwischen 08:00 und 18:00 Uhr."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Stellenanzeige Allround-Pumpenmonteur"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "40 Stunden"
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "Hauptschul- bis Berufsschulabschluss Technik (VMBO bis MBO)"
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "VCA-Zertifikat"
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "Führerschein Klasse B"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Stellenanzeige Pumpenmonteur (Berufseinsteiger)"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "40 Stunden"
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "Hauptschul- bis Berufsschulabschluss Technik (VMBO bis MBO)"
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "Führerschein Klasse B"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Stellenanzeige Mitarbeiter Innendienst"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "40 Stunden"
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "Arbeits- und Denkniveau MBO+ oder HBO (Fachschul- bis Hochschulniveau)"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Stellenanzeige Junior Account Manager"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "40 Stunden"
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "Arbeits- und Denkniveau MBO+ oder HBO (Fachschul- bis Hochschulniveau)"
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "Führerschein Klasse B"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "meer-ipg__nieuws__scam-actie",
+  "seo_title": "Warnung vor Betrug in der Pumpenbranche: Fake-Anfragen",
+  "seo_description": "Betrüger geben sich als Pfizer, Unilever oder Shell aus und fragen Pumpen und Armaturen an. So erkennen Sie die Fake-Anfragen und Fake-Websites.",
+  "h1": "Warnung: Betrugsmasche in der Pumpenbranche",
+  "intro": "In der Pumpenbranche kursieren gefälschte Anfragen, Angebote und Aufträge angeblicher Großunternehmen, die zu Vorkasse-Betrug führen. Die Industrial Pump Group Nederland warnt davor und beschreibt, woran Sie die Masche erkennen.",
+  "blocks": [
+    { "t": "h", "l": 4, "text": "Achtung: Betrugsmasche in der Pumpenbranche" },
+    { "t": "p", "text": "Phishing und Online-Betrug nehmen zu, und auch die Pumpenbranche ist seit einiger Zeit Opfer betrügerischer Praktiken. In unserer Branche kursieren gefälschte Anfragen, Angebote und Aufträge." },
+    { "t": "p", "text": "Die **Industrial Pump Group Nederland** möchte Sie davor warnen." },
+    { "t": "img", "src": "/Files/Images/Nieuws/SCAM-PFIZER-FAKE-PO.png", "alt": "Beispiel einer gefälschten Bestellung im Namen von Pfizer" },
+    { "t": "h", "l": 3, "text": "Wann Sie aufmerksam sein sollten" },
+    { "t": "p", "text": "Es kursieren verschiedene „gefälschte“ Anfragen einer Gruppe, die sich als Pfizer, Unilever oder Shell ausgibt. Die Anfrage betrifft oft eine erhebliche Anzahl von Ventilen, Armaturen oder Pumpen. Das gesuchte Produkt trägt eine nicht existierende Artikelnummer bzw. Typennummer, sodass es nur bei der betrügerischen Partei angefragt werden kann. Beispiele für angefragte Produkte sind die Typennummern UTRYH9874 oder MK7956." },
+    { "t": "p", "text": "**ACHTUNG: Wenn Sie eine Anfrage für ein Produkt mit dieser Typennummer erhalten oder sie einen der oben genannten Artikel betrifft, nehmen Sie sich in Acht, nicht betrogen zu werden.**" },
+    { "t": "p", "text": "Ein Beispiel für einen gefälschten Auftrag sehen Sie nebenstehend (klicken Sie auf das Bild, um es zu vergrößern). Der Auftrag wurde also nicht von Pfizer verschickt, sondern von einer Gruppe von Betrügern, die sich als Pfizer ausgibt!" },
+    { "t": "h", "l": 3, "text": "Wie funktioniert die Betrugsmasche?" },
+    { "t": "list", "ordered": true, "items": [
+      "Es wird eine Anfrage für einen ganz bestimmten Artikel (Pumpe oder Spezialventil) in den Markt gegeben und an verschiedene Unternehmen der Branche verschickt.",
+      "Die Anfrage kommt von einem gefälschten Konto eines renommierten Unternehmens: Pfizer oder in jüngster Vergangenheit Unilever. Zur Klarstellung: Diese Firmen bzw. Anfragen wurden von den Betrügern erstellt.",
+      "Wer im Internet sucht, findet als einziges Unternehmen, das diesen spezifischen Artikel liefern kann, die Imitat-Pumpenfirma unter dem Namen Industrial Pumps Tech (früher Industrial PumpsGroups, Industrial Pumps Valves & Engineering Supplies und verschiedene andere Namen).",
+      "Diese Firma gibt auf ihrer Website an, international tätig zu sein und in den Niederlanden in Velsen Noord zu sitzen – wohlgemerkt: Das ist die aktuelle Adresse der Industrial Pump Group Nederland, samt Handelsregisterdaten (KvK) usw., also unseres Unternehmens, dessen Identität missbraucht wird.",
+      "So funktioniert es: Das Imitat von Pfizer verschickt eine Anfrage für Pumpen bzw. Ventile.",
+      "Das angeschriebene Unternehmen sucht im Internet und fragt bei der falschen Industrial Pumps Group ein Angebot an.",
+      "Man erhält ein Angebot und bietet dem Imitat von Pfizer bzw. Unica an, das seinerseits den Auftrag erteilt.",
+      "Man bestellt das Produkt und erhält von der Imitat-Pumpenfirma (derzeit unter mehreren Namen aktiv) eine Proforma-Rechnung, um (einen Teil) im Voraus zu bezahlen.",
+      "Nach der Zahlung bricht jede Kommunikation ab, und das Geld ist verloren."
+    ] },
+    { "t": "p", "text": "In vielen Fällen nimmt die Partei, die im Voraus zahlen soll, Kontakt mit uns auf, um die Angaben zu überprüfen, und wir können rechtzeitig warnen. Es gibt jedoch Parteien, die bereits Geld überwiesen haben und somit schwer geschädigt sind." },
+    { "t": "h", "l": 2, "text": "Kurz gefasst: Worauf Sie achten sollten" },
+    { "t": "p", "text": "Wenn ein ganz bestimmtes Produkt von großen Unternehmen bei Ihnen angefragt wird und es nur bei einem Unternehmen mit einem Namen wie Industrial Pumps Valves & Engineering Supplies (IPVES) oder Industrial Pumps Tech zu finden ist, sollten bei Ihnen die Alarmglocken schrillen." },
+    { "t": "p", "text": "Selbst eine Überprüfung per Kontaktaufnahme mit Daten von der Fake-Website ist irreführend. Auf dieser Website werden mehrere Adressen angezeigt, teils mit einer niederländischen 020-Nummer. Wenn Sie Kontakt aufnehmen, wird kooperativ reagiert, das ist jedoch Teil der betrügerischen Partei!" },
+    { "t": "p", "text": "Beispiele für die Website, auf der Sie **KEINE** Anfrage stellen sollten, finden Sie unten:" },
+    { "t": "img", "src": "/Files/Images/Nieuws/SCAM-WEBSITE-FAKE-1.png", "alt": "Screenshot einer gefälschten Website: Industrial Pumps Tech" },
+    { "t": "img", "src": "/Files/Images/Nieuws/SCAM-WEBSITE-FAKE-3.png", "alt": "Screenshot einer gefälschten Website mit mehreren Adressen" },
+    { "t": "img", "src": "/Files/Images/Nieuws/SCAM-WEBSITE-FAKE-2.png", "alt": "Screenshot einer gefälschten Website (Beispiel 3)" }
+  ],
+  "notes": {
+    "dropped": [],
+    "claims": [
+      "Die Fake-Website nutzt die Identität der Industrial Pump Group Nederland (Adresse, Handelsregisterdaten) missbräuchlich.",
+      "Betroffene Parteien haben nach Vorkasse Geld verloren (Aussage aus der Quelle)."
+    ],
+    "nl_specific": [
+      "Die Industrial Pump Group Nederland möchte Sie davor warnen.",
+      "Diese Firma gibt auf ihrer Website an, international tätig zu sein und in den Niederlanden in Velsen Noord zu sitzen – wohlgemerkt: Das ist die aktuelle Adresse der Industrial Pump Group Nederland, samt Handelsregisterdaten (KvK) usw.",
+      "Auf dieser Website werden mehrere Adressen angezeigt, teils mit einer niederländischen 020-Nummer.",
+      "Die Warnung bezieht sich auf Betrugsfälle in der niederländischen Pumpenbranche; für den deutschen Markt ist die Relevanz nicht geklärt."
+    ]
+  }
+}

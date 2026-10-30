@@ -127,7 +127,8 @@ export function webPageNode(ctx: Ctx, r: BuilderResult): WebPage {
 }
 
 export function faqNode(ctx: Ctx, faqs: Faq[] | undefined): FAQPage | undefined {
-  const items = (faqs ?? []).flatMap((f) => f.items ?? []).filter((i) => i.question && i.answer && !hasPlaceholder(i.answer));
+  const inBody = ((ctx.story.content as { body?: { component: string }[] }).body ?? []).filter((b): b is Faq => b.component === 'faq');
+  const items = [...(faqs ?? []), ...inBody].flatMap((f) => f.items ?? []).filter((i) => i.question && i.answer && !hasPlaceholder(i.answer));
   if (!items.length) return undefined;
   return {
     '@type': 'FAQPage',
@@ -148,11 +149,14 @@ export function itemListNode(ctx: Ctx, fragment: string, items: { name: string; 
 
 /** Final per-page graph: Organization + WebSite (full nodes on the home page, references elsewhere), page node, breadcrumb, template nodes. */
 export function assembleGraph(ctx: Ctx, r: BuilderResult, includeGlobals: boolean): Graph {
+  const own = r.nodes ?? [];
+  const hasFaq = own.some((n) => [(n as { '@type'?: unknown } | undefined)?.['@type']].flat().includes('FAQPage'));
   const nodes = [
     ...(includeGlobals ? [organizationNode(ctx.site), websiteNode(ctx.site)] : []),
     webPageNode(ctx, r),
     breadcrumbNode(ctx),
-    ...(r.nodes ?? []),
+    ...own,
+    ...(hasFaq ? [] : [faqNode(ctx, undefined)]),
   ].filter((n): n is Thing => Boolean(n));
   return { '@context': 'https://schema.org', '@graph': nodes.map((n) => clean(n)) as Thing[] } as Graph;
 }

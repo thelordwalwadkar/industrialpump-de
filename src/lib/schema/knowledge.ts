@@ -14,8 +14,8 @@ export const buildKnowledge: Builder = (ctx) => {
     inLanguage: 'de-DE',
     author: c.author ? { '@type': 'Person', name: c.author } : org,
     publisher: org,
-    datePublished: ctx.story.first_published_at ?? ctx.story.created_at,
-    dateModified: ctx.story.published_at ?? ctx.story.updated_at,
+    datePublished: c.publication_date ?? ctx.story.first_published_at ?? ctx.story.created_at,
+    dateModified: ctx.story.published_at ?? ctx.story.updated_at ?? c.publication_date,
     mainEntityOfPage: { '@id': ctx.id('webpage') },
   });
   const docs: DigitalDocument[] = (c.downloads ?? []).flatMap((d) => d.items ?? []).filter((i) => i.file?.filename).map((i, n) => clean({

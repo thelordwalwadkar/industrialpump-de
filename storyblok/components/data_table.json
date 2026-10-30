@@ -1,0 +1,20 @@
+{
+  "component": {
+    "name": "data_table",
+    "display_name": "Tabelle",
+    "is_root": false,
+    "is_nestable": true,
+    "schema": {
+      "heading": {
+        "type": "text",
+        "description": "Überschrift (optional).",
+        "pos": 0
+      },
+      "table": {
+        "type": "table",
+        "description": "Tabelle mit Kopfzeile.",
+        "pos": 1
+      }
+    }
+  }
+}

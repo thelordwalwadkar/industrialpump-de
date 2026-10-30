@@ -1,0 +1,43 @@
+{
+  "id": "meer-ipg__pompschool",
+  "seo_title": "Pumpenschule: Pumpenkurse für Monteure und Betreiber",
+  "seo_description": "Die Pumpenschule der Industrial Pump Group vermittelt Wissen zu Industriepumpen, auch als Kurs vor Ort. Jetzt Kurs für Ihr Unternehmen anfragen.",
+  "h1": "Pumpenschule der Industrial Pump Group",
+  "intro": "Die Pumpenschule der Industrial Pump Group (IPG) vermittelt praktisches und technisches Wissen zu Industriepumpen. Sie richtet sich an Unternehmen und Einzelpersonen, etwa Monteure, Operatoren und Einkäufer, und kann als Kurs bei Ihnen vor Ort stattfinden.",
+  "blocks": [
+    { "t": "img", "src": "/Files/Images/pompschool/pompschool.png", "alt": "Logo der Pumpenschule der Industrial Pump Group" },
+    { "t": "h", "l": 4, "text": "Pumpenschule der Industrial Pump Group" },
+    { "t": "p", "text": "Die Pumpenschule der Industrial Pump Group ist eine Schulung, in der Unternehmen und Einzelpersonen das Wissen und die Fertigkeiten erwerben können, die für die Arbeit mit Industriepumpen nötig sind. Sie soll den Teilnehmern praktisches und technisches Wissen vermitteln, damit sie Probleme in der Praxis besser lösen und Herausforderungen besser bewältigen können." },
+    { "t": "img", "src": "/Files/Images/pompschool/klaslokaal.jpg", "alt": "Schulungsraum der Pumpenschule" },
+    { "t": "h", "l": 3, "text": "Wissen über Industriepumpen aufbauen" },
+    { "t": "p", "text": "Die Pumpenschule bietet ein umfassendes Curriculum zu den Grundlagen der industriellen Pumpentechnik, einschließlich Themen wie Pumpenauslegung, Auswahl, Installation, Bedienung und Wartung. Die Schulungen werden von erfahrenen Fachleuten gehalten, die langjährige Erfahrung in der Industrie haben." },
+    { "t": "p", "text": "Die Pumpenschule der Industrial Pump Group zielt nicht nur darauf, Wissen und Fertigkeiten der Teilnehmer zu verbessern, sondern bietet auch die Gelegenheit, sich mit anderen Fachleuten der Branche zu vernetzen und auszutauschen. So entsteht ein lehrreiches und unterstützendes Umfeld, in dem Teilnehmer Ideen teilen und neue Erkenntnisse gewinnen." },
+    { "t": "p", "text": "Kurz gesagt: Die Pumpenschule der Industrial Pump Group richtet sich an Unternehmen und Einzelpersonen, die ihr Wissen und ihre Fertigkeiten rund um Industriepumpen erweitern möchten. Die Schulung ist eine Investition in die Zukunft, die zu mehr Effizienz und Erfolg in der Industrie beitragen soll." },
+    { "t": "h", "l": 3, "text": "Verschiedene Möglichkeiten: Kurs für Ihre Organisation" },
+    { "t": "p", "text": "Bei den Kursen der Industrial Pump Group ist es üblich, dass die Organisation den Kurs für ihre Mitarbeiter ausrichtet. Der Kursleiter von IPG kommt zu Ihnen vor Ort und hält den Kurs an einem oder mehreren Tagen. Andere Formen sind ebenfalls denkbar, etwa ein Einzelkurs mit dem Kursleiter." },
+    { "t": "p", "text": "**Möchten Sie alle Möglichkeiten kennenlernen?**\nDas IPG-Team mit engagierten Pumpenexperten steht für Sie bereit.\nNehmen Sie schnell über das Formular Kontakt auf oder rufen Sie\nwerktags zwischen 08:00 und 17:00 Uhr an.\n**Tel. {{TELEFON}}**" },
+    { "t": "h", "l": 3, "text": "Kurse von IPG" },
+    { "t": "p", "text": "Die Pumpenschule der Industrial Pump Group bietet nicht nur die Grundausbildung zu Industriepumpen an, sondern auch eine Reihe weiterer Kurse zu speziellen Themen und Fertigkeiten. Damit ist die Pumpenschule von IPG eine vollständige und umfangreiche Wissensquelle für Unternehmen und Einzelpersonen in der Industrie." },
+    { "t": "p", "text": "Einer dieser Kurse behandelt zum Beispiel Gleitringdichtungen (Mechanical Seals), die eine wichtige Rolle bei der Vermeidung von Leckagen an Industriepumpen spielen. Die Teilnehmer erhalten einen Überblick über die verschiedenen Arten von Gleitringdichtungen und die Vorgehensweise bei Einbau und Wartung." },
+    { "t": "p", "text": "Außerdem wird ein Grundlagenkurs Pumpen angeboten. Er vermittelt Kenntnisse über die verschiedenen Pumpenarten, ihre Einsatzbereiche und die Grundprinzipien ihrer Funktionsweise. Dieser Kurs bietet eine gute Grundlage für alle, die neu in der Branche sind und die wesentlichen Aspekte von Industriepumpen verstehen möchten." },
+    { "t": "h", "l": 2, "text": "Kurs Grundlagen Pumpen" },
+    { "t": "h", "l": 2, "text": "Kurs Inspektion und Wartung" },
+    { "t": "h", "l": 2, "text": "Kurs Gleitringdichtungen" },
+    { "t": "h", "l": 2, "text": "Kurs Armaturen und Ventile" },
+    { "t": "h", "l": 2, "text": "Kurs Wellen und Lager" },
+    { "t": "form" }
+  ],
+  "notes": {
+    "dropped": [
+      "Wertende Formulierungen der Quelle ('einzigartige und wertvolle Schulung', 'must-have', 'wird sicher zu größerer Effizienz führen') wurden sachlich abgeschwächt, da sie nicht überprüfbar sind.",
+      "Überschrift 'Diverse mogelijkheden CURSUS VOOR UW ORGANISATIE' als 'Verschiedene Möglichkeiten: Kurs für Ihre Organisation' übernommen."
+    ],
+    "claims": [
+      "Die Schulungen werden von erfahrenen Fachleuten gehalten, die langjährige Erfahrung in der Industrie haben.",
+      "Die Pumpenschule bietet ein umfassendes Curriculum zu den Grundlagen der industriellen Pumpentechnik, einschließlich Pumpenauslegung, Auswahl, Installation, Bedienung und Wartung."
+    ],
+    "nl_specific": [
+      "Rufen Sie werktags zwischen 08:00 und 17:00 Uhr an (niederländische Telefonnummer, als {{TELEFON}} ersetzt; Zeiten aus der niederländischen Quelle)."
+    ]
+  }
+}

@@ -77,7 +77,10 @@
           "download_list",
           "steps",
           "related_links",
-          "image_text"
+          "image_text",
+          "image_block",
+          "data_table",
+          "button_row"
         ],
         "description": "Optionale Zusatz-Bausteine. Die Pflicht-Abschnitte sind im Template fest eingebaut.",
         "pos": 8

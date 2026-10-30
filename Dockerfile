@@ -4,7 +4,7 @@ WORKDIR /app
 COPY package.json package-lock.json ./
 RUN npm ci
 COPY . .
-# Public test deployments are noindex by default. For production pass: --build-arg PUBLIC_STAGING=0 --build-arg PUBLIC_SITE_URL=https://www.industrialpump.de
+# Public test deployments are noindex by default. For production pass: --build-arg PUBLIC_STAGING=0 --build-arg PUBLIC_SITE_URL=https://industrialpumpgroup.de
 ARG PUBLIC_SITE_URL=""
 ARG PUBLIC_STAGING="1"
 ENV PUBLIC_SITE_URL=$PUBLIC_SITE_URL PUBLIC_STAGING=$PUBLIC_STAGING

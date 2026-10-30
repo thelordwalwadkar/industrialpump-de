@@ -1,0 +1,206 @@
+{
+  "id": 3439407254,
+  "uuid": "cd013096-74c4-d1d8-3cc4-c1e5f204c58c",
+  "name": "SAER NCA: trocken aufgestellte Elektropumpen für Entwässerung und Abwasser",
+  "slug": "nca-serie",
+  "full_slug": "pumpen/marken/saer/nca-serie",
+  "position": 92,
+  "content": {
+    "component": "page_series",
+    "h1": "SAER NCA: trocken aufgestellte Elektropumpen für Entwässerung und Abwasser",
+    "seo_title": "SAER NCA: trocken aufgestellte Abwasserpumpen",
+    "seo_description": "SAER NCA Kreiselpumpen für Schmutz- und Abwasser: bis 1.600 m³/h, 60 m Förderhöhe und 160 kW. Jetzt Angebot oder Beratung anfordern.",
+    "intro": "Die SAER NCA ist eine trocken aufgestellte Kreiselpumpe für häusliches und industrielles Schmutzwasser, Abwasser und faser- oder feststoffhaltige Medien. Sie erreicht bis zu 1.600 m³/h, 60 m Förderhöhe und 160 kW.",
+    "series_name": "NCA",
+    "body": [
+      {
+        "_uid": "7ffa4708d964",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-saer-saer-nca.webp",
+          "alt": "Grüne industrielle Kreiselpumpe der SAER NCA-Baureihe, geeignet zum Fördern von Schmutzwasser",
+          "width": 500,
+          "height": 500
+        }
+      },
+      {
+        "_uid": "f96b960c4976",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Baureihe für Entwässerung und Abwasser"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die SAER NCA Kreiselpumpe eignet sich zum Fördern von häuslichem und industriellem Schmutzwasser, viskosen und ätzenden Flüssigkeiten, Flüssigkeiten mit faserigen und festen Stoffen, landwirtschaftlicher Gülle sowie allgemein von verschmutztem und schlammigem Wasser."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "ba2da7641584",
+        "component": "data_table",
+        "table": {
+          "fieldtype": "table",
+          "thead": [
+            {
+              "_uid": "4c901cabb62e",
+              "component": "_table_head",
+              "value": "Maximale Förderleistung"
+            },
+            {
+              "_uid": "e49f8af05b9a",
+              "component": "_table_head",
+              "value": ""
+            },
+            {
+              "_uid": "1bde7d92c81c",
+              "component": "_table_head",
+              "value": "1600"
+            },
+            {
+              "_uid": "a55dab7219fb",
+              "component": "_table_head",
+              "value": "m³/h"
+            }
+          ],
+          "tbody": [
+            {
+              "_uid": "d2a7bb03ddd8",
+              "component": "_table_row",
+              "body": [
+                {
+                  "_uid": "25db80eead3f",
+                  "component": "_table_col",
+                  "value": "Maximale Förderhöhe"
+                },
+                {
+                  "_uid": "ac3732a5fdc4",
+                  "component": "_table_col",
+                  "value": ""
+                },
+                {
+                  "_uid": "0ce795897b4b",
+                  "component": "_table_col",
+                  "value": "60"
+                },
+                {
+                  "_uid": "8a28d609f231",
+                  "component": "_table_col",
+                  "value": "m"
+                }
+              ]
+            },
+            {
+              "_uid": "24a873b0b07b",
+              "component": "_table_row",
+              "body": [
+                {
+                  "_uid": "2e86b8e4cdb8",
+                  "component": "_table_col",
+                  "value": "Maximale Leistung"
+                },
+                {
+                  "_uid": "abf780401507",
+                  "component": "_table_col",
+                  "value": ""
+                },
+                {
+                  "_uid": "bc983f63d7ce",
+                  "component": "_table_col",
+                  "value": "160"
+                },
+                {
+                  "_uid": "20a1253a0c7e",
+                  "component": "_table_col",
+                  "value": "kW"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "7958cb3dc713",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Unverbindlich Kontakt aufnehmen"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "2395320734ff",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/merken-0025-saer.webp",
+          "alt": "Logo von SAER Elettropompe, Hersteller von Kreiselpumpen der NCA-Baureihe",
+          "width": 120,
+          "height": 53
+        }
+      },
+      {
+        "_uid": "8696efc33f9c",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Interessiert an allen "
+                },
+                {
+                  "type": "text",
+                  "text": "SAER-Pumpen",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "? Sehen Sie sich unser gesamtes Sortiment an"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

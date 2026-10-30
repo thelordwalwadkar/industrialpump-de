@@ -1,0 +1,71 @@
+{
+ "path": "/revisie/alle-pomprevisies",
+ "title": "Alle Pomprevisie | Industrial Pump Group",
+ "description": "Pomprevisies zijn cruciaal om de prestaties en de levensduur van pompen te behouden. Door regelmatig onderhoud kunnen problemen tijdig worden verholpen.",
+ "h1": "",
+ "ogImage": "",
+ "blocks": [
+  {
+   "t": "img",
+   "src": "/Files/Images/Revisie/revisie-header-5.png",
+   "alt": ""
+  },
+  {
+   "t": "h",
+   "l": 4,
+   "text": "Bekijk al onze Revisie mogelijkheden"
+  },
+  {
+   "t": "p",
+   "text": "Pomprevisies zijn cruciaal om de prestaties en de levensduur van pompen te behouden. Door regelmatig onderhoud en inspectie kunnen problemen tijdig worden opgespoord en verholpen, wat leidt tot minder stilstandtijd en hogere efficiëntie. Het is belangrijk om de pomp te laten reviseren door een gekwalificeerde professional en om te zorgen voor de juiste smering, koeling en bedrijfsomstandigheden."
+  },
+  {
+   "t": "p",
+   "text": "De Industrial Pump Group (IPG) is uw merkonafhankelijke partner op het gebied van industriële pompen. Wij hebben meer dan 30 jaar ervaring en zijn sterk in vele typen pomprevisies. Enkele van deze revisies zijn terug te vinden op deze pagina."
+  },
+  {
+   "t": "list",
+   "ordered": false,
+   "items": [
+    "[Pomprevisie algemeen](/revisie)",
+    "[Pomprevisie duurzaam & circulair](/revisie/duurzaam-en-circulair)",
+    "[Preventief onderhoud](/revisie/preventief-onderhoud)",
+    "[Inspectie / onderhoud op locatie](/revisie/inspectie-op-locatie)",
+    "[Revisie aan API pompen](/revisie/api-pompen-revisie)",
+    "[Revisie aan boilerfeedpompen](/revisie/boilerfeedpompen-revisie)",
+    "[Revisie aan chemienormpompen](/revisie/chemienormpompen-revisie)",
+    "[Revisie aan koelwaterpompen](/revisie/koelwaterpompen-revisie)",
+    "[Revisie aan kunststofpompen](/revisie/kunststofpompen-revisie)",
+    "[Revisie aan mixed flowpompen](/revisie/mixed-flow-pompen-revisie)",
+    "[Revisie aan splitcase pompen](/revisie/splitcase-pompen-revisie)",
+    "[Revisie aan tandwielkasten](/revisie/tandwielkasten-revisie)",
+    "[Revisie aan verticale turbinepompen](/revisie/verticale-turbinepompen-revisie)",
+    "[Revisie aan waternormpompen](/revisie/waternormpompen-revisie)",
+    "[Revisie aan wormpompen](/revisie/wormpompen-revisie)",
+    "[Revisie aan Balcke Dürr pompen](/revisie/balcke-durr-pompen)"
+   ]
+  },
+  {
+   "t": "h",
+   "l": 3,
+   "text": "LAAT UW POMP REVISEREN Neem contact op om de mogelijkheden te bespreken"
+  },
+  {
+   "t": "p",
+   "text": "De diversiteit in de type pompen is enorm. De eerder genoemde specialisten uit het revisie-team van IPG heeft voldoende kennis, middelen en sterke relaties met diverse pompmerken om een groot aantal verschillende type pompen te kunnen reviseren. IPG reviseert o.a. centrifugaal-, meertraps-, splitcase-, wormpompen en wellicht binnenkort uw pomp?"
+  },
+  {
+   "t": "h",
+   "l": 4,
+   "text": "Meer informatie IPG reviseert diverse pompen"
+  },
+  {
+   "t": "form"
+  }
+ ],
+ "words": 224,
+ "kind": "Revision-Leistung / Pumpentyp",
+ "template": "T7 Service",
+ "schema": "Service, FAQPage",
+ "dePath": "/revision/pumpenrevision"
+}

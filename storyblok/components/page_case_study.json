@@ -43,28 +43,33 @@
         "default_value": false,
         "pos": 5
       },
+      "publication_date": {
+        "type": "text",
+        "description": "Veröffentlichungsdatum (JJJJ-MM-TT), falls bekannt.",
+        "pos": 6
+      },
       "customer": {
         "type": "text",
         "description": "Kunde – nur mit Freigabe.",
-        "pos": 6
+        "pos": 7
       },
       "situation": {
         "type": "richtext",
         "description": "Ausgangslage.",
         "rich_markdown": false,
-        "pos": 7
+        "pos": 8
       },
       "solution": {
         "type": "richtext",
         "description": "Lösung.",
         "rich_markdown": false,
-        "pos": 8
+        "pos": 9
       },
       "result": {
         "type": "richtext",
         "description": "Ergebnis – nur belegte Zahlen.",
         "rich_markdown": false,
-        "pos": 9
+        "pos": 10
       },
       "products": {
         "type": "bloks",
@@ -74,7 +79,7 @@
         ],
         "description": "Eingesetzte Produkte (Links).",
         "maximum": 1,
-        "pos": 10
+        "pos": 11
       },
       "body": {
         "type": "bloks",
@@ -88,10 +93,13 @@
           "download_list",
           "steps",
           "related_links",
-          "image_text"
+          "image_text",
+          "image_block",
+          "data_table",
+          "button_row"
         ],
         "description": "Optionale Zusatz-Bausteine. Die Pflicht-Abschnitte sind im Template fest eingebaut.",
-        "pos": 11
+        "pos": 12
       },
       "tab-seo": {
         "type": "tab",

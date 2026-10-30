@@ -1,0 +1,360 @@
+{
+  "id": 2295188592,
+  "uuid": "88cdcc70-0885-3339-d01f-c4c450dd9c00",
+  "name": "Warnung: Betrugsmasche in der Pumpenbranche",
+  "slug": "warnung-vor-betrugsmasche",
+  "full_slug": "ueber-uns/blog/warnung-vor-betrugsmasche",
+  "position": 39,
+  "content": {
+    "component": "page_blog_post",
+    "h1": "Warnung: Betrugsmasche in der Pumpenbranche",
+    "seo_title": "Warnung vor Betrug in der Pumpenbranche: Fake-Anfragen",
+    "seo_description": "Betrüger geben sich als Pfizer, Unilever oder Shell aus und fragen Pumpen und Armaturen an. So erkennen Sie die Fake-Anfragen und Fake-Websites.",
+    "intro": "In der Pumpenbranche kursieren gefälschte Anfragen, Angebote und Aufträge angeblicher Großunternehmen, die zu Vorkasse-Betrug führen. Die Industrial Pump Group Nederland warnt davor und beschreibt, woran Sie die Masche erkennen.",
+    "noindex": true,
+    "publication_date": "2023-04-05",
+    "article": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "heading",
+          "attrs": {
+            "level": 4
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Achtung: Betrugsmasche in der Pumpenbranche"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Phishing und Online-Betrug nehmen zu, und auch die Pumpenbranche ist seit einiger Zeit Opfer betrügerischer Praktiken. In unserer Branche kursieren gefälschte Anfragen, Angebote und Aufträge."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Die "
+            },
+            {
+              "type": "text",
+              "text": "Industrial Pump Group Nederland",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " möchte Sie davor warnen."
+            }
+          ]
+        }
+      ]
+    },
+    "body": [
+      {
+        "_uid": "58da6ceec7b6",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wann Sie aufmerksam sein sollten"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Es kursieren verschiedene „gefälschte“ Anfragen einer Gruppe, die sich als Pfizer, Unilever oder Shell ausgibt. Die Anfrage betrifft oft eine erhebliche Anzahl von Ventilen, Armaturen oder Pumpen. Das gesuchte Produkt trägt eine nicht existierende Artikelnummer bzw. Typennummer, sodass es nur bei der betrügerischen Partei angefragt werden kann. Beispiele für angefragte Produkte sind die Typennummern UTRYH9874 oder MK7956."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "ACHTUNG: Wenn Sie eine Anfrage für ein Produkt mit dieser Typennummer erhalten oder sie einen der oben genannten Artikel betrifft, nehmen Sie sich in Acht, nicht betrogen zu werden.",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ein Beispiel für einen gefälschten Auftrag sehen Sie nebenstehend (klicken Sie auf das Bild, um es zu vergrößern). Der Auftrag wurde also nicht von Pfizer verschickt, sondern von einer Gruppe von Betrügern, die sich als Pfizer ausgibt!"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wie funktioniert die Betrugsmasche?"
+                }
+              ]
+            },
+            {
+              "type": "ordered_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Es wird eine Anfrage für einen ganz bestimmten Artikel (Pumpe oder Spezialventil) in den Markt gegeben und an verschiedene Unternehmen der Branche verschickt."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Anfrage kommt von einem gefälschten Konto eines renommierten Unternehmens: Pfizer oder in jüngster Vergangenheit Unilever. Zur Klarstellung: Diese Firmen bzw. Anfragen wurden von den Betrügern erstellt."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Wer im Internet sucht, findet als einziges Unternehmen, das diesen spezifischen Artikel liefern kann, die Imitat-Pumpenfirma unter dem Namen Industrial Pumps Tech (früher Industrial PumpsGroups, Industrial Pumps Valves & Engineering Supplies und verschiedene andere Namen)."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Diese Firma gibt auf ihrer Website an, international tätig zu sein und in den Niederlanden in Velsen Noord zu sitzen – wohlgemerkt: Das ist die aktuelle Adresse der Industrial Pump Group Nederland, samt Handelsregisterdaten (KvK) usw., also unseres Unternehmens, dessen Identität missbraucht wird."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "So funktioniert es: Das Imitat von Pfizer verschickt eine Anfrage für Pumpen bzw. Ventile."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Das angeschriebene Unternehmen sucht im Internet und fragt bei der falschen Industrial Pumps Group ein Angebot an."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Man erhält ein Angebot und bietet dem Imitat von Pfizer bzw. Unica an, das seinerseits den Auftrag erteilt."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Man bestellt das Produkt und erhält von der Imitat-Pumpenfirma (derzeit unter mehreren Namen aktiv) eine Proforma-Rechnung, um (einen Teil) im Voraus zu bezahlen."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Nach der Zahlung bricht jede Kommunikation ab, und das Geld ist verloren."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "In vielen Fällen nimmt die Partei, die im Voraus zahlen soll, Kontakt mit uns auf, um die Angaben zu überprüfen, und wir können rechtzeitig warnen. Es gibt jedoch Parteien, die bereits Geld überwiesen haben und somit schwer geschädigt sind."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kurz gefasst: Worauf Sie achten sollten"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wenn ein ganz bestimmtes Produkt von großen Unternehmen bei Ihnen angefragt wird und es nur bei einem Unternehmen mit einem Namen wie Industrial Pumps Valves & Engineering Supplies (IPVES) oder Industrial Pumps Tech zu finden ist, sollten bei Ihnen die Alarmglocken schrillen."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Selbst eine Überprüfung per Kontaktaufnahme mit Daten von der Fake-Website ist irreführend. Auf dieser Website werden mehrere Adressen angezeigt, teils mit einer niederländischen 020-Nummer. Wenn Sie Kontakt aufnehmen, wird kooperativ reagiert, das ist jedoch Teil der betrügerischen Partei!"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Beispiele für die Website, auf der Sie "
+                },
+                {
+                  "type": "text",
+                  "text": "KEINE",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " Anfrage stellen sollten, finden Sie unten:"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "38fab8259dd3",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/nieuws-scam-website-fake-1.webp",
+          "alt": "Screenshot einer gefälschten Website: Industrial Pumps Tech",
+          "width": 1280,
+          "height": 964
+        }
+      },
+      {
+        "_uid": "0e609b32c56d",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/nieuws-scam-website-fake-3.webp",
+          "alt": "Screenshot einer gefälschten Website mit mehreren Adressen",
+          "width": 1184,
+          "height": 886
+        }
+      },
+      {
+        "_uid": "1a2be28f84a4",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/nieuws-scam-website-fake-2.webp",
+          "alt": "Screenshot einer gefälschten Website (Beispiel 3)",
+          "width": 1216,
+          "height": 1034
+        }
+      }
+    ],
+    "image": {
+      "filename": "/img/nl/nieuws-scam-pfizer-fake-po.webp",
+      "alt": "Beispiel einer gefälschten Bestellung im Namen von Pfizer",
+      "width": 927,
+      "height": 1185
+    }
+  }
+}

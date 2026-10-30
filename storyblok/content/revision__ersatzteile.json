@@ -1,0 +1,588 @@
+{
+  "id": 2796681835,
+  "uuid": "a6b1fa6b-74ca-99a6-666e-29b271a4ec18",
+  "name": "IPG liefert Pumpenersatzteile",
+  "slug": "ersatzteile",
+  "full_slug": "revision/ersatzteile",
+  "position": 166,
+  "content": {
+    "component": "page_service",
+    "h1": "IPG liefert Pumpenersatzteile",
+    "nav_title": "IPG liefert Pumpenersatzteile",
+    "seo_title": "Pumpenersatzteile: Lieferung und Beratung durch IPG",
+    "seo_description": "Pumpenersatzteile herstellerübergreifend: Gleitringdichtungen, Laufräder, Lager und Dichtungen. Beratung und schnelle Lieferung. Jetzt Teile anfragen.",
+    "intro": "IPG liefert Ersatzteile für Pumpen verschiedener Marken, von der einzelnen O-Ring-Dichtung bis zum kompletten Pumpenteil. Das Angebot richtet sich an Instandhalter und Einkäufer, die für Wartung und Revision die richtigen Teile benötigen.",
+    "service_kind": "revision-typ",
+    "body": [
+      {
+        "_uid": "9d153ee9c4a7",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/revisie-pomponderdelen.webp",
+          "alt": "Verschiedene schwarze Dichtringe und O-Ringe für die Pumpenwartung",
+          "width": 1280,
+          "height": 302
+        }
+      },
+      {
+        "_uid": "7a32d462f290",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Revision und Wartung Ihrer Pumpe sind wichtig. Dafür benötigen Sie mitunter auch neue Ersatzteile. Vielleicht denken Sie nicht immer daran, solange Ihre Pumpe ordnungsgemäß läuft. Fehlen jedoch Kontrolle und Wartung, kann die Pumpe ausfallen, und das hat natürlich Folgen für Ihren Prozess."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Für Wartung und Revision der Pumpe benötigen Sie mitunter Ersatzteile. Ob eine einzelne O-Ring-Dichtung, ein Laufrad oder ein komplettes Pumpenteil: IPG ist der Lieferant für Ihre Pumpenersatzteile. Dank starker Beziehungen zu vielen Herstellern kann die Industrial Pump Group Nederland Sie mit Teilen für verschiedene Marken versorgen."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Verschleißende Pumpenteile"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Verschleiß an Ihren Pumpenteilen lässt sich leider nicht vermeiden. Allerdings verschleißt das eine Teil schneller als das andere. Wie schnell ein Teil verschleißt, ist bei jeder Pumpe unterschiedlich und hängt unter anderem von der geförderten Flüssigkeit ab."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wir haben eine Auswahl der am stärksten verschleißenden Teile für Sie zusammengestellt:"
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Gleitringdichtung (Mechanical Seal):",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Die Gleitringdichtung verhindert, dass das geförderte Medium in die Atmosphäre gelangt und somit im Pumpenteil bleibt. Die Gleitringdichtung besteht aus zwei Teilen: einem rotierenden und einem stationären Teil. Manche Pumpen sind statt mit einer Gleitringdichtung mit einer Stopfbuchspackung ausgestattet."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Laufrad:",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Das Laufrad ist das rotierende Element unter anderem in einer "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Kreiselpumpe",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/pumpentypen/kreiselpumpen",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ", das durch seine Drehbewegung das Medium fördert. Dieses Teil kann unter anderem durch Kavitation oder ein (zu) aggressives Medium verschleißen. Es gibt verschiedene Arten von Laufrädern, zum Beispiel das Freistromrad (Vortex-Laufrad)."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Lager:",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Das mechanische Bauteil der Pumpe, in dem die Welle läuft. Die Lager können einlaufen."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "O-Ringe und Dichtungen:",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Diese Teile gibt es in verschiedenen Größen und Werkstoffen, und sie sorgen für Abdichtung. O-Ring und Dichtung lassen sich meist einfach einbauen. Sie verschleißen nicht, werden aber auf Empfehlung ersetzt, wenn Sie ein anderes Teil austauschen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ersatzteile für Ihre Pumpe"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "So viele Pumpen, so viele Ersatzteile. Aber welches Teil wird benötigt? Die Experten der Industrial Pump Group sehen sich das gern gemeinsam mit Ihnen an. Wenn ein Teil benötigt wird, kann IPG Ihnen stets eine Ersatzteilzeichnung und eine Ersatzteilliste beschaffen. Liefert das kein klares Bild, kann jederzeit Kontakt aufgenommen werden. Anhand der verfügbaren Daten und gegebenenfalls Fotos wird geprüft, welche Teile benötigt werden."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Sie benötigen direkte Beratung oder Pumpenersatzteile? Nehmen Sie dann über das untenstehende Formular Kontakt mit uns auf."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "fc21599b6a56",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/revisie-lagers.webp",
+          "alt": "Verschiedene Kugellager in Reihen von klein bis groß als Pumpenersatzteile",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      {
+        "_uid": "8743a5a18ad7",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Pumpe instand setzen lassen: Kontakt aufnehmen und Möglichkeiten besprechen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die Vielfalt der Pumpentypen ist groß. Die genannten Spezialisten des Revisionsteams von IPG verfügen über ausreichend Fachwissen, Ausstattung und enge Beziehungen zu verschiedenen Pumpenmarken, um eine große Zahl unterschiedlicher Pumpentypen zu überholen. IPG überholt unter anderem Kreiselpumpen, mehrstufige Pumpen, axial geteilte Pumpen und Exzenterschneckenpumpen. Vielleicht bald auch Ihre Pumpe?"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Warum Pumpenersatzteile von IPG?"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bei IPG wissen wir, dass jeder Prozess einzigartig ist und dass die richtigen Teile für Wartung und Betrieb Ihrer Pumpen wesentlich sind. Deshalb bieten wir:"
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Fachwissen und Beratung",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ": Unsere Spezialisten helfen Ihnen gern, die richtigen Teile zu identifizieren. Wir können Ihnen Ersatzteilzeichnungen und Ersatzteillisten zur Verfügung stellen, die Ihnen bei der Auswahl helfen."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Breites Sortiment",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ": Wir haben eine große Auswahl an Teilen für verschiedene Pumpenmarken und -modelle."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Qualität und Zuverlässigkeit",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ": Dank unserer starken Beziehungen zu führenden Herstellern können wir Ihnen Teile von hoher Qualität liefern."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Schnelle Lieferung",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ": Wir wissen, dass Stillstand teuer ist, und bemühen uns daher, Ihre Teile schnell zu liefern."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Vorteile hochwertiger Pumpenersatzteile:"
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Längere Lebensdauer der Pumpe:",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Hochwertige Teile verringern den Verschleiß Ihrer Pumpe und verlängern so die Lebensdauer der gesamten Anlage."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Optimale Leistung:",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Teile von hoher Qualität sorgen dafür, dass Ihre Pumpe optimal arbeitet, was zu besserer Leistung und höherer Effizienz führt."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Geringere Wartungskosten:",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Wenn Sie in langlebige Teile investieren, verringern Sie Häufigkeit und Kosten von Wartung und Reparaturen."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Zuverlässigkeit:",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Zuverlässige Teile minimieren das Risiko von Störungen, sodass Ihr Produktionsprozess ohne Unterbrechung weiterlaufen kann."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Sicherheit:",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Hochwertige Teile tragen zur Sicherheit Ihrer Pumpenanlage bei und verringern die Gefahr von Unfällen und Umweltschäden."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Weitere Informationen: IPG überholt verschiedene Pumpentypen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die Vielfalt der Pumpenarten ist groß. Die Spezialisten des Revisionsteams von IPG verfügen über umfangreiches Fachwissen, die passenden Mittel und starke Beziehungen zu verschiedenen Pumpenmarken und können daher ein breites Spektrum an Pumpentypen überholen. IPG übernimmt unter anderem die Revision von Kreiselpumpen, mehrstufigen Pumpen, axial geteilten Pumpen und Exzenterschneckenpumpen, und vielleicht bald auch Ihrer Pumpe?"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "fbfaa97eb1be",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/shutterstock-1690106254.webp",
+          "alt": "Monteur mit Handschuh setzt bei der Revision einer Industriepumpe ein Lager auf die Welle",
+          "width": 1280,
+          "height": 854
+        }
+      },
+      {
+        "_uid": "cdabc27ed6f9",
+        "component": "faq",
+        "heading": "Häufige Fragen",
+        "items": [
+          {
+            "_uid": "9e60829c97f9",
+            "component": "faq_item",
+            "question": "Welche Arten von Pumpenersatzteilen liefert IPG?",
+            "answer": "IPG liefert ein breites Spektrum an Pumpenersatzteilen, darunter Gleitringdichtungen, Laufräder, Lager, O-Ringe und Dichtungen für verschiedene Pumpenmarken und -modelle."
+          },
+          {
+            "_uid": "ed4622fc37e0",
+            "component": "faq_item",
+            "question": "Woher weiß ich, welche Ersatzteile ich benötige?",
+            "answer": "Unsere Experten helfen Ihnen gern, die richtigen Teile zu identifizieren. Sie können uns Ersatzteilzeichnungen, Ersatzteillisten und gegebenenfalls Fotos zur Verfügung stellen, um zu bestimmen, welche Teile benötigt werden."
+          },
+          {
+            "_uid": "87ce96b8b47f",
+            "component": "faq_item",
+            "question": "Wie schnell kann IPG die Ersatzteile liefern?",
+            "answer": "Wir bemühen uns, Ihre Teile so schnell wie möglich zu liefern, damit Ihr Prozess möglichst wenig Stillstand erlebt."
+          },
+          {
+            "_uid": "be4efe59e3d5",
+            "component": "faq_item",
+            "question": "Was sind die häufigsten Ursachen für Verschleiß an Pumpenteilen?",
+            "answer": "Verschleiß kann durch Faktoren wie Kavitation, aggressive Medien und normalen gebrauchsbedingten Verschleiß entstehen. Regelmäßige Wartung und Kontrolle können helfen, Verschleiß zu minimieren."
+          },
+          {
+            "_uid": "c6cb65ed672c",
+            "component": "faq_item",
+            "question": "Bietet IPG auch Revisionsleistungen an?",
+            "answer": "Ja, neben der Lieferung von Ersatzteilen bietet IPG auch umfassende Revisionsleistungen für verschiedene Pumpentypen an. Nehmen Sie Kontakt mit uns auf, um die Möglichkeiten zu besprechen."
+          }
+        ]
+      }
+    ]
+  }
+}

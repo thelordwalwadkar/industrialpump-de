@@ -6,8 +6,9 @@ Jeder Platzhalter ist auf der Seite sichtbar markiert und wird in den strukturie
 |---|---|
 | Angabe zur Teilnahme an Verbraucherstreitbeilegungsverfahren nach VSBG | /impressum |
 | Angaben zu Drittlandübermittlungen | /datenschutz |
+| Anschrift | /rueckruf, /ueber-uns/blog/neuer-standort, /pumpen/marken/sterling-sihi, /ersatzpumpe |
 | Art. 6 Abs. 1 DSGVO – bitte rechtlich festlegen | /datenschutz |
-| E-Mail | /config, /impressum |
+| E-Mail | 27 Seiten (z. B. /config, /impressum) |
 | Firmenname (juristisch) | /config |
 | Firmenname und Rechtsform | /impressum |
 | Geschäftsführer | /impressum |
@@ -24,7 +25,7 @@ Jeder Platzhalter ist auf der Seite sichtbar markiert und wird in den strukturie
 | Registergericht und Handelsregisternummer | /impressum |
 | Speicherdauer | /datenschutz |
 | Straße und Hausnummer | /config, /impressum |
-| Telefon | /config, /impressum |
+| Telefon | 50 Seiten (z. B. /config, /impressum) |
 | Text zu „Eigentumsvorbehalt“ (rechtlich zu liefern) | /agb |
 | Text zu „Geltungsbereich“ (rechtlich zu liefern) | /agb |
 | Text zu „Haftung“ (rechtlich zu liefern) | /agb |

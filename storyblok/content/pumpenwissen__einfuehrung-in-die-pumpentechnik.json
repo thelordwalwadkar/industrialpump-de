@@ -1,0 +1,1539 @@
+{
+  "id": 1812204558,
+  "uuid": "6c040c0e-8814-3bb4-0124-20f6c48fd2be",
+  "name": "Einführung in die Pumpentechnik",
+  "slug": "einfuehrung-in-die-pumpentechnik",
+  "full_slug": "pumpenwissen/einfuehrung-in-die-pumpentechnik",
+  "position": 64,
+  "content": {
+    "component": "page_knowledge",
+    "h1": "Einführung in die Pumpentechnik",
+    "nav_title": "Einführung in die Pumpentechnik",
+    "seo_title": "Einführung in die Pumpentechnik: Grundlagen und Arten",
+    "seo_description": "Was ist eine Pumpe? Kreiselpumpen und Verdrängerpumpen, Förderstrom, Förderhöhe, Wirkungsgrad, Kavitation und Werkstoffe. Jetzt Grundlagen nachlesen.",
+    "intro": "Eine Pumpe ist ein mechanisches Gerät, das Energie nutzt, um Flüssigkeiten durch Druckunterschiede zu fördern. Der Beitrag erklärt die Grundlagen für Einkäufer, Planer und Techniker: Pumpenarten, Funktionsprinzip und wichtige Auslegungskriterien.",
+    "tech": true,
+    "article": {
+      "type": "doc",
+      "content": []
+    },
+    "body": [
+      {
+        "_uid": "dfee4d705a15",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/sfeer-fotos-pomp-kenniscentrum.webp",
+          "alt": "IPG Pumpenwissen: Einführung in die Pumpentechnik",
+          "width": 1280,
+          "height": 183
+        }
+      },
+      {
+        "_uid": "150c56cc1aac",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 4
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "IPG Pumpenwissen: Einführung in die Pumpentechnik"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Was ist eine Pumpe?"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Eine Pumpe ist ein mechanisches Gerät, das Energie nutzt, um Flüssigkeiten durch Druckunterschiede zu fördern. Die Grundfunktion einer Pumpe besteht darin, den Druck einer Flüssigkeit zu erhöhen, sodass sie durch eine Rohrleitung oder ein anderes Fördersystem strömen kann."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Pumpen lassen sich nach Funktionsprinzip und Anwendung einteilen. Die beiden Hauptkategorien sind:"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "1. **"
+                },
+                {
+                  "type": "text",
+                  "text": "Kreiselpumpen",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/pumpentypen/kreiselpumpen",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ":** Beruhen auf dem Prinzip der Zentrifugalkraft."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2. "
+                },
+                {
+                  "type": "text",
+                  "text": "Verdrängerpumpen:",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " Beruhen auf dem Fördern eines festen Flüssigkeitsvolumens pro Zyklus."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Grundprinzipien der Pumpenfunktion"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Pumpen arbeiten, indem sie Energie von einem Motor auf die Flüssigkeit übertragen. Das kann je nach Pumpentyp auf verschiedene Weise geschehen:"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "1. "
+                },
+                {
+                  "type": "text",
+                  "text": "Kreiselpumpen:",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " Diese Pumpen schleudern die Flüssigkeit mit einem rotierenden Laufrad nach außen, wodurch Geschwindigkeit und Druck der Flüssigkeit zunehmen. Sie eignen sich zum Fördern großer Mengen von Flüssigkeiten mit relativ niedriger Viskosität, etwa Wasser."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2. "
+                },
+                {
+                  "type": "text",
+                  "text": "Verdrängerpumpen:",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " Diese Pumpen fördern pro Zyklus ein festes Flüssigkeitsvolumen mithilfe beweglicher Teile wie Kolben, Zahnräder oder Schnecken. Sie eignen sich zum Fördern hochviskoser Flüssigkeiten und für Anwendungen, bei denen ein konstanter Förderstrom nötig ist."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wichtige Überlegungen zu Auslegung und Betrieb von Pumpen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bei Auslegung und Betrieb von Pumpen müssen mehrere Faktoren berücksichtigt werden, um einen effizienten und zuverlässigen Betrieb sicherzustellen:"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "1. "
+                },
+                {
+                  "type": "text",
+                  "text": "Förderstrom und Förderhöhe:",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "• Der Förderstrom (Q) ist das Flüssigkeitsvolumen, das die Pumpe pro Zeiteinheit fördert, meist angegeben in Litern pro Minute (l/min) oder Kubikmetern pro Stunde (m³/h)."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "• Die Förderhöhe (H) ist die maximale Höhe, auf die die Pumpe die Flüssigkeit fördern kann, gemessen in Metern."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2. "
+                },
+                {
+                  "type": "text",
+                  "text": "Wirkungsgrad:",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "• Der Wirkungsgrad ist ein Maß dafür, wie gut eine Pumpe die zugeführte Energie in nutzbare hydraulische Energie umsetzt. Ein höherer Wirkungsgrad bedeutet geringeren Energieverbrauch und niedrigere Betriebskosten."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "3. "
+                },
+                {
+                  "type": "text",
+                  "text": "Kavitation:",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "• Kavitation tritt auf, wenn der Druck in der Pumpe unter den Dampfdruck der Flüssigkeit fällt und dadurch Dampfblasen entstehen, die implodieren und die Pumpe beschädigen können. Kavitation zu vermeiden ist entscheidend für Lebensdauer und Zuverlässigkeit der Pumpe."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "4. "
+                },
+                {
+                  "type": "text",
+                  "text": "Flüssigkeitseigenschaften:",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "• Viskosität, Dichte und Temperatur der Flüssigkeit beeinflussen die Leistung der Pumpe und müssen bei Auswahl und Auslegung des Pumpensystems berücksichtigt werden."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "5. "
+                },
+                {
+                  "type": "text",
+                  "text": "Werkstoffe und Konstruktion:",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "• Die Wahl der Werkstoffe für die Pumpenbauteile ist wichtig, damit sie Korrosion, Verschleiß und chemischem Angriff standhalten. Je nach Anwendung werden häufig Edelstahl, Gusseisen und Speziallegierungen eingesetzt."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 4
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kontakt mit Industrial Pump Group aufnehmen"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Brauchen Sie Hilfe von unserem Spezialisten?"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Das IPG-Team mit engagierten Pumpenexperten steht für Sie bereit."
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "Rufen Sie uns werktags zwischen 08:00 und 18:00 Uhr an."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Tel.: [[PLATZHALTER: Telefon]]",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Weitere Artikel aus dem IPG-Pumpenwissen:"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "1. Grundlagenwissen Pumpen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "1.1 "
+                },
+                {
+                  "type": "text",
+                  "text": "Einführung in die Pumpentechnik",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpenwissen/einfuehrung-in-die-pumpentechnik",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "1.2 "
+                },
+                {
+                  "type": "text",
+                  "text": "Geschichte der Pumpen",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpenwissen/geschichte-der-pumpen",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "1.3 "
+                },
+                {
+                  "type": "text",
+                  "text": "Wichtigste Bauteile",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpenwissen/wichtigste-pumpenkomponenten",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2. Pumpentypen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2.1 "
+                },
+                {
+                  "type": "text",
+                  "text": "API-Pumpen",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/pumpentypen/api-pumpen",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2.2 "
+                },
+                {
+                  "type": "text",
+                  "text": "Blockpumpen",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/pumpentypen/blockpumpen",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2.3 "
+                },
+                {
+                  "type": "text",
+                  "text": "Brunnenpumpen",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/pumpentypen/brunnenpumpen",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2.4 "
+                },
+                {
+                  "type": "text",
+                  "text": "Spaltrohrmotorpumpen",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/pumpentypen/spaltrohrmotorpumpen",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2.5 "
+                },
+                {
+                  "type": "text",
+                  "text": "Kreiselpumpen",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/pumpentypen/kreiselpumpen",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2.6 "
+                },
+                {
+                  "type": "text",
+                  "text": "Chemienormpumpen",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/pumpentypen/chemienormpumpen-iso-5199",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2.7 "
+                },
+                {
+                  "type": "text",
+                  "text": "Tauchmotorpumpen",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/pumpentypen/tauchmotorpumpen",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2.8 "
+                },
+                {
+                  "type": "text",
+                  "text": "End-Suction-Pumpen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2.9 "
+                },
+                {
+                  "type": "text",
+                  "text": "Druckerhöhungsanlagen",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/pumpentypen/druckerhoehungsanlagen",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2.10 "
+                },
+                {
+                  "type": "text",
+                  "text": "Inlinepumpen",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/pumpentypen/inlinepumpen",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2.11 "
+                },
+                {
+                  "type": "text",
+                  "text": "Eintauchpumpen",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/pumpentypen/eintauchpumpen",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2.12 "
+                },
+                {
+                  "type": "text",
+                  "text": "Drehkolbenpumpen",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/pumpentypen/drehkolbenpumpen",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2.13 "
+                },
+                {
+                  "type": "text",
+                  "text": "Mehrstufige Pumpen",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/pumpentypen/mehrstufige-pumpen",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2.14 "
+                },
+                {
+                  "type": "text",
+                  "text": "Membranpumpen",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/pumpentypen/membranpumpen",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2.15 "
+                },
+                {
+                  "type": "text",
+                  "text": "Rührwerke und Strömungserzeuger",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/pumpentypen/ruehrwerke-und-stroemungserzeuger",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2.16 "
+                },
+                {
+                  "type": "text",
+                  "text": "Halbaxialpumpen",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/pumpentypen/halbaxialpumpen",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2.17 "
+                },
+                {
+                  "type": "text",
+                  "text": "Feststoff- und Schlammpumpen",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/pumpentypen/feststoffpumpen",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2.18 "
+                },
+                {
+                  "type": "text",
+                  "text": "Axial geteilte Pumpen",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/pumpentypen/axial-geteilte-pumpen",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2.19 "
+                },
+                {
+                  "type": "text",
+                  "text": "Kunststoffpumpen",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/pumpentypen/kunststoffpumpen",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2.20 "
+                },
+                {
+                  "type": "text",
+                  "text": "Komplettaggregate",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/pumpentypen/komplettaggregate",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2.21 "
+                },
+                {
+                  "type": "text",
+                  "text": "Vertikale Turbinenpumpen",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/pumpentypen/vertikale-turbinenpumpen",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2.22 "
+                },
+                {
+                  "type": "text",
+                  "text": "Normpumpen nach DIN EN 733",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/pumpentypen/normpumpen-en-733",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2.23 "
+                },
+                {
+                  "type": "text",
+                  "text": "Exzenterschneckenpumpen",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/pumpentypen/exzenterschneckenpumpen",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "3. Pumpenprinzipien und Funktionsweise"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "3.1 "
+                },
+                {
+                  "type": "text",
+                  "text": "Bernoulli-Gleichung",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpenwissen/bernoulli-gleichung",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "3.2 "
+                },
+                {
+                  "type": "text",
+                  "text": "Kavitation",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpenwissen/kavitation",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "3.3 "
+                },
+                {
+                  "type": "text",
+                  "text": "Hydraulischer Wirkungsgrad",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpenwissen/hydraulischer-wirkungsgrad",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "3.4 "
+                },
+                {
+                  "type": "text",
+                  "text": "Pumpenkennlinien",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpenwissen/pumpenkennlinien",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "4. Anwendungen und Branchen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "4.1 "
+                },
+                {
+                  "type": "text",
+                  "text": "Agrar",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/branchen/landwirtschaft",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "4.2 "
+                },
+                {
+                  "type": "text",
+                  "text": "Chemische Industrie",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/branchen/chemische-industrie",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "4.3 "
+                },
+                {
+                  "type": "text",
+                  "text": "Pharmaindustrie",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/branchen/pharmaindustrie",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "4.4 "
+                },
+                {
+                  "type": "text",
+                  "text": "Lebensmittelindustrie",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/branchen/lebensmittelindustrie",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "4.5 "
+                },
+                {
+                  "type": "text",
+                  "text": "Öl- und Gasindustrie",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/branchen/oel-und-gasindustrie",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "4.6 "
+                },
+                {
+                  "type": "text",
+                  "text": "Haushalt",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/branchen/haushalt",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "4.7 "
+                },
+                {
+                  "type": "text",
+                  "text": "HVAC",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/branchen/gebaeudetechnik-hvac",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "4.8 "
+                },
+                {
+                  "type": "text",
+                  "text": "Metallindustrie",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/branchen/stahlindustrie",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "4.9 "
+                },
+                {
+                  "type": "text",
+                  "text": "Papierindustrie",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/branchen/papierindustrie",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "4.10 "
+                },
+                {
+                  "type": "text",
+                  "text": "Energieversorgung",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/branchen/energieversorgung",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "4.11 "
+                },
+                {
+                  "type": "text",
+                  "text": "Wasseraufbereitung",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/branchen/wasseraufbereitung",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "4.12 "
+                },
+                {
+                  "type": "text",
+                  "text": "Wassertransport",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/branchen/wassertransport",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "4.13 "
+                },
+                {
+                  "type": "text",
+                  "text": "Abwasser",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/anwendungen/abwasser",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "4.14 "
+                },
+                {
+                  "type": "text",
+                  "text": "Nassbaggerei",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/anwendungen/nassbaggerei",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "4.15 "
+                },
+                {
+                  "type": "text",
+                  "text": "Kesselspeisung",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/anwendungen/kesselspeisung",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "4.16 "
+                },
+                {
+                  "type": "text",
+                  "text": "Löschwasserversorgung",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/anwendungen/loeschwasser",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "4.17 "
+                },
+                {
+                  "type": "text",
+                  "text": "Meerwasserentsalzung",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/anwendungen/meerwasserentsalzung",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "4.18 "
+                },
+                {
+                  "type": "text",
+                  "text": "Entwässerung",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/anwendungen/entwaesserung",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "4.19 "
+                },
+                {
+                  "type": "text",
+                  "text": "Trinkwasser",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/anwendungen/trinkwasser",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "4.20 "
+                },
+                {
+                  "type": "text",
+                  "text": "Kühlwasser",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/anwendungen/kuehlwasser",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "4.21 "
+                },
+                {
+                  "type": "text",
+                  "text": "Prozesswasser",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/anwendungen/prozesswasser",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

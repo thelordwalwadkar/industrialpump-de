@@ -1,0 +1,592 @@
+{
+  "id": 3455900971,
+  "uuid": "cdfcdd2b-71ad-bfb9-10c3-9a2e80709440",
+  "name": "Lowara Scuba: Brunnenpumpen für sauberes und leicht verschmutztes Wasser",
+  "slug": "scuba-serie",
+  "full_slug": "pumpen/marken/lowara/scuba-serie",
+  "position": 81,
+  "content": {
+    "component": "page_series",
+    "h1": "Lowara Scuba: Brunnenpumpen für sauberes und leicht verschmutztes Wasser",
+    "seo_title": "Lowara Scuba: Brunnenpumpen für sauberes Wasser",
+    "seo_description": "Lowara Scuba Brunnenpumpen mit integriertem Motor: bis 7,5 m³/h und 80 m Förderhöhe für sauberes Wasser. Jetzt kostenlose Beratung anfordern.",
+    "intro": "Die Lowara Scuba ist eine mehrstufige Brunnenpumpe mit integriertem Motor für sauberes und leicht verschmutztes Wasser. Sie dient der Wasserversorgung aus Brunnen und Behältern, der Beregnung und der Druckerhöhung.",
+    "series_name": "Scuba",
+    "body": [
+      {
+        "_uid": "693cdf925667",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-lowara-lowara-scuba.webp",
+          "alt": "Lowara Scuba Tauchpumpe aus Edelstahl mit Schwimmerschalter und Anschlusskabel für sauberes Wasser",
+          "width": 500,
+          "height": 500
+        }
+      },
+      {
+        "_uid": "58dbdcdaed93",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Brunnenpumpen mit integriertem Motor"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Spezifikationen"
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Förderstrom: bis 7,50 m³/h"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Förderhöhe: bis 80 m"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Stromversorgung: einphasig und dreiphasig, 50 und 60 Hz"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Leistung: von 0,55 kW bis 1,10 kW"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flüssigkeitstemperatur: bis 40 °C"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Maximale Eintauchtiefe: 20 m"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Freier Durchgang: bis 2,5 mm"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Technische Spezifikationen"
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Förderleistung bis 7 m³/h."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Förderhöhen bis 80 m."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Maximaler Durchmesser der Elektropumpe: 128 mm."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Maximale Eintauchtiefe 20 m."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Maximal zulässiger Sandgehalt im Wasser: 25 g/m³."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Durchgang für Feststoffe bis 2,5 mm."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Druckanschluss Rp 1 ¼″."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Nennleistung des Motors von 0,55 bis 1,1 kW."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Einphasige Motoren: 220-240 V, 50 Hz, Überlastschutz mit eingebautem automatischem Reset. Schaltkasten mit zweipoligem Schalter und Kondensator auf Anfrage."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Dreiphasige Motoren: 380-415 V, 50 Hz; der Überlastschutz muss vom Anwender im Schaltschrank vorgesehen werden (siehe Abschnitt zu Schaltschränken)."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Maximale Abweichung von der Nennspannung ± 5 %."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Isolationsklasse F."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Horizontaler Betrieb möglich."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Maximale Anzahl gleichmäßig verteilter Starts pro Stunde:"
+                        },
+                        {
+                          "type": "hard_break"
+                        },
+                        {
+                          "type": "text",
+                          "text": "25 für Motoren bis 0,9 kW."
+                        },
+                        {
+                          "type": "hard_break"
+                        },
+                        {
+                          "type": "text",
+                          "text": "20 für Motoren mit 1,1 kW."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Maximale Temperatur des geförderten Wassers: 40 °C (Dauerbetrieb)."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Anwendungen"
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Wasserzufuhr aus Reservoirs, 6″-Brunnen, Becken und Wasserläufen."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Beregnung."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Druckerhöhung mit einer Pumpe, die direkt in das Reservoir oder den Brunnen eingesetzt wird, sodass Probleme mit der Ansaugung und Geräuschbelästigung vermieden werden."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Unverbindlich Kontakt aufnehmen"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Konstruktionsmerkmale"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Monoblock-Tauchpumpe mit mehreren Laufrädern. Der Pumpenteil befindet sich unter dem Elektromotor, der von der geförderten Flüssigkeit gekühlt wird."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Trockener Motor"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Der Elektromotor ist durch eine doppelte Wellendichtung mit dazwischen liegender Ölkammer geschützt."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Dichtungssystem"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die Gleitringdichtung aus Siliziumkarbid, das äußerst beständig gegen Erosion und Verschleiß ist, und eine zweite Wellendichtung mit Lippendichtung, die dank der besonderen Geometrie der Ölkammer stets geschmiert ist, gewährleisten, dass der Motor wasserdicht ist. Bei Trockenlauf wird das Dichtungssystem nicht beschädigt, und der Motor wird nicht durch eindringende Flüssigkeit gefährdet."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Das verwendete Öl erfüllt die Normen für Öle, die mit Lebensmitteln in Berührung kommen, sowie die Reinheitsvorschriften im Supplement der italienischen Gazzetta Ufficiale (G.U.) Nr. 104 vom 20.04.1973. Außerdem entspricht das Öl den FDA-Normen (Food and Drug Administration)."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "e7104161485a",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/merken-lowara-ipg.webp",
+          "alt": "Blaues Lowara-Logo mit Wassertropfen, Marke für Tauch- und Kreiselpumpen",
+          "width": 120,
+          "height": 54
+        }
+      },
+      {
+        "_uid": "ba29d8b03dff",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Interessiert an allen "
+                },
+                {
+                  "type": "text",
+                  "text": "Lowara-Pumpen",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "? Sehen Sie sich unser gesamtes Sortiment an"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -13,12 +13,12 @@ Einmalig im Repo: **Settings → Pages → Source: „GitHub Actions“** wähle
 ```bash
 docker run -p 8080:8080 ghcr.io/<benutzer>/<repo>:latest     # dann http://localhost:8080
 docker build -t industrialpump-de .                            # selbst bauen (Test-Build, noindex)
-docker build -t industrialpump-de --build-arg PUBLIC_STAGING=0 --build-arg PUBLIC_SITE_URL=https://www.industrialpump.de .   # Produktion
+docker build -t industrialpump-de --build-arg PUBLIC_STAGING=0 --build-arg PUBLIC_SITE_URL=https://industrialpumpgroup.de .   # Produktion
 ```
 Das Image ist ein schlanker nginx (Port 8080, ohne Root-Rechte) mit sauberen URLs, deutscher 404-Seite und Caching.
 
 ## Test-Link vs. echte Domain
-Alle öffentlichen Test-Builds setzen `PUBLIC_STAGING=1`: `noindex` auf jeder Seite und `Disallow: /` in der robots.txt. Für die echte Domain: `PUBLIC_STAGING=0`, `PUBLIC_SITE_URL=https://www.industrialpump.de`, kein `PUBLIC_BASE_PATH`.
+Alle öffentlichen Test-Builds setzen `PUBLIC_STAGING=1`: `noindex` auf jeder Seite und `Disallow: /` in der robots.txt. Für die echte Domain: `PUBLIC_STAGING=0`, `PUBLIC_SITE_URL=https://industrialpumpgroup.de`, kein `PUBLIC_BASE_PATH`.
 
 ## Nicht im Repository (bewusst)
 `assets-src/` (Originalbilder von industrialpumps.nl) und `inputs/` (Produkt-Arbeitsmappen mit Preisen). Die fertigen Seiten-Inhalte (`storyblok/content/`) und optimierten Bilder (`public/img/`) sind enthalten. `npm run content:generate` und `npm run images` brauchen die ausgeschlossenen Dateien und laufen daher nur lokal.

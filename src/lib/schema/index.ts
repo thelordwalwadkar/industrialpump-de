@@ -17,6 +17,9 @@ import { buildCaseStudy } from './case-study';
 import { buildListing } from './listing';
 import { buildContact } from './contact';
 import { buildLegal } from './legal';
+import { buildJob } from './job';
+import { buildAbout } from './about';
+import { buildFaqPage } from './faq-page';
 
 export const SCHEMA_BUILDERS: Record<PageComponent, Builder> = {
   page_home: buildHome,
@@ -33,6 +36,9 @@ export const SCHEMA_BUILDERS: Record<PageComponent, Builder> = {
   page_listing: buildListing,
   page_contact: buildContact,
   page_legal: buildLegal,
+  page_job: buildJob,
+  page_about: buildAbout,
+  page_faq: buildFaqPage,
 };
 
 export function buildGraph(site: Site, story: PageStory): Graph {

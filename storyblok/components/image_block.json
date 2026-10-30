@@ -1,0 +1,23 @@
+{
+  "component": {
+    "name": "image_block",
+    "display_name": "Bild",
+    "is_root": false,
+    "is_nestable": true,
+    "schema": {
+      "image": {
+        "type": "asset",
+        "filetypes": [
+          "images"
+        ],
+        "description": "Bild.",
+        "pos": 0
+      },
+      "caption": {
+        "type": "text",
+        "description": "Bildunterschrift (optional). Der Alt-Text steht im Bildfeld.",
+        "pos": 1
+      }
+    }
+  }
+}

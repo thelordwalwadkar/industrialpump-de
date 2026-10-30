@@ -1,0 +1,1765 @@
+{
+  "id": 3369423102,
+  "uuid": "c8d550fe-2c14-9d50-cd1b-c6aa91c3e914",
+  "name": "Pumpenkennlinien: Arten, Nutzung und Interpretation",
+  "slug": "pumpenkennlinien",
+  "full_slug": "pumpenwissen/pumpenkennlinien",
+  "position": 65,
+  "content": {
+    "component": "page_knowledge",
+    "h1": "Pumpenkennlinien: Arten, Nutzung und Interpretation",
+    "seo_title": "Pumpenkennlinien lesen: H-Q, Wirkungsgrad, NPSH",
+    "seo_description": "Pumpenkennlinien verstehen: H-Q-Kennlinie, Wirkungsgrad, Leistung, NPSH und Betriebspunkt. Praxistipps für Auswahl und Betrieb, jetzt nachlesen.",
+    "intro": "Pumpenkennlinien sind Diagramme, die die Leistung einer Pumpe unter verschiedenen Betriebsbedingungen darstellen, zum Beispiel Förderhöhe, Wirkungsgrad, Leistungsaufnahme und NPSH. Der Beitrag richtet sich an Ingenieure und Techniker, die Pumpen auswählen oder betreiben.",
+    "tech": true,
+    "article": {
+      "type": "doc",
+      "content": []
+    },
+    "body": [
+      {
+        "_uid": "7aa0e0c274f4",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/sfeer-fotos-pomp-kenniscentrum.webp",
+          "alt": "IPG Pumpenwissen: Pumpenkennlinien",
+          "width": 1280,
+          "height": 183
+        }
+      },
+      {
+        "_uid": "19292745f637",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 4
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "IPG Pumpenwissen: Pumpenkennlinien"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Was sind Pumpenkennlinien?"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Pumpenkennlinien, auch Leistungskurven genannt, sind Diagramme, die die Leistung einer Pumpe unter verschiedenen Betriebsbedingungen darstellen. Die gebräuchlichsten Pumpenkennlinien sind:"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "1. "
+                },
+                {
+                  "type": "text",
+                  "text": "Förderhöhen-Förderstrom-Kennlinie (H-Q-Kennlinie)",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ":"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Diese Kurve zeigt den Zusammenhang zwischen Förderhöhe (H) und Förderstrom (Q) der Pumpe. Sie zeigt, wie sich die Förderhöhe bei wechselndem Durchfluss ändert."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2. "
+                },
+                {
+                  "type": "text",
+                  "text": "Wirkungsgradkennlinie (η-Q-Kennlinie)",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ":"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Diese Kurve stellt den Wirkungsgrad (η) der Pumpe als Funktion des Förderstroms (Q) dar. Sie hilft, den Betriebspunkt zu finden, an dem die Pumpe am effizientesten arbeitet."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "3. "
+                },
+                {
+                  "type": "text",
+                  "text": "Leistungskennlinie (P-Q-Kennlinie)",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ":"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Diese Kurve zeigt die aufgenommene Leistung (P) der Pumpe als Funktion des Förderstroms (Q). Sie ist nützlich, um den Energiebedarf und die Betriebskosten zu berechnen."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "4. "
+                },
+                {
+                  "type": "text",
+                  "text": "NPSH-Kennlinie (NPSH-Q-Kennlinie)",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ":"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Diese Kurve stellt die erforderliche Haltedruckhöhe (Net Positive Suction Head, NPSH) als Funktion des Förderstroms (Q) dar. Sie ist wesentlich, um Kavitation zu vermeiden."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wie Pumpenkennlinien verwendet werden"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Pumpenkennlinien spielen bei verschiedenen Aspekten des Pumpenmanagements eine entscheidende Rolle, darunter Auslegung, Auswahl und Betriebsoptimierung. Einige Beispiele für ihre Verwendung:"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "1. "
+                },
+                {
+                  "type": "text",
+                  "text": "Pumpenauswahl:",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bei der Auswahl einer Pumpe für eine bestimmte Anwendung ziehen Ingenieure die Pumpenkennlinien heran, um die passende Pumpe zu finden, die die geforderte Förderhöhe und den geforderten Förderstrom erfüllt. Durch den Vergleich der H-Q-Kennlinie mit der Anlagenkennlinie (die den Widerstand des Systems darstellt) lässt sich der optimale Betriebspunkt bestimmen."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2. "
+                },
+                {
+                  "type": "text",
+                  "text": "Betriebsoptimierung:",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Pumpenkennlinien helfen, die optimalen Betriebsbedingungen zu erkennen, bei denen die Pumpe ihren höchsten Wirkungsgrad erreicht. Durch Analyse der η-Q-Kennlinie können Betreiber die Pumpe so einstellen, dass sie im effizientesten Bereich arbeitet, was Energiekosten spart und den Verschleiß verringert."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "3. "
+                },
+                {
+                  "type": "text",
+                  "text": "Fehlersuche:",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wenn eine Pumpe nicht wie erwartet arbeitet, können Pumpenkennlinien bei der Diagnose helfen. Abweichungen von der erwarteten Leistung auf der H-Q-Kennlinie können auf Probleme wie Verstopfungen, Lufteinschlüsse oder mechanische Defekte hinweisen."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "4. "
+                },
+                {
+                  "type": "text",
+                  "text": "Energiemanagement:",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Anhand der Leistungskennlinie (P-Q-Kennlinie) können Ingenieure den Energiebedarf der Pumpe berechnen und Maßnahmen zur Optimierung des Energieverbrauchs ergreifen. Das ist besonders in industriellen Anwendungen wichtig, in denen Energieeffizienz Priorität hat."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Beispiel einer Pumpenkennlinie"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Betrachten wir ein hypothetisches Beispiel einer H-Q-Kennlinie für eine Kreiselpumpe:"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "In dieser Tabelle sehen wir, wie die Förderhöhe (H) mit zunehmendem Förderstrom (Q) abnimmt. Das ist typisch für Kreiselpumpen und hilft, den Betriebspunkt zu bestimmen."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 4
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kontakt mit Industrial Pump Group aufnehmen"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Brauchen Sie Hilfe von unserem Spezialisten?"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Das IPG-Team mit engagierten Pumpenexperten steht für Sie bereit."
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "Rufen Sie uns werktags zwischen 08:00 und 18:00 Uhr an."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Tel.: [[PLATZHALTER: Telefon]]",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Interpretation von Pumpenkennlinien"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die Interpretation von Pumpenkennlinien setzt ein gutes Verständnis des Zusammenhangs zwischen den verschiedenen Parametern voraus:"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "1. "
+                },
+                {
+                  "type": "text",
+                  "text": "Betriebspunkt:",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Der Betriebspunkt einer Pumpe ist der Schnittpunkt der H-Q-Kennlinie der Pumpe mit der Anlagenkennlinie. Dieser Punkt stellt die Betriebsbedingungen dar, unter denen die Pumpe tatsächlich arbeitet."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2. "
+                },
+                {
+                  "type": "text",
+                  "text": "Anlagenkennlinie:",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die Anlagenkennlinie zeigt den Widerstand des Pumpensystems, einschließlich Reibungsverlusten und Höhenunterschieden. Sie muss genau bestimmt werden, um eine geeignete Pumpe auszuwählen."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "3. "
+                },
+                {
+                  "type": "text",
+                  "text": "Wirkungsgrad und Energieeinsparung:",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Durch Analyse der Wirkungsgradkennlinie können Betreiber die Pumpe so einstellen, dass sie im Bereich des maximalen Wirkungsgrads arbeitet. Das hilft, die Energiekosten zu minimieren und die Lebensdauer der Pumpe zu maximieren."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Praxistipps für die Nutzung von Pumpenkennlinien"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Einige praktische Tipps für Ingenieure und Techniker bei der Nutzung von Pumpenkennlinien:"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "1. "
+                },
+                {
+                  "type": "text",
+                  "text": "Regelmäßige Bewertung:",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Es ist wichtig, die Leistung von Pumpen regelmäßig anhand der Pumpenkennlinien zu bewerten. Das hilft, Abweichungen frühzeitig zu erkennen und Korrekturmaßnahmen zu ergreifen."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2. "
+                },
+                {
+                  "type": "text",
+                  "text": "Genaue Systemanalyse:",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Sorgen Sie dafür, dass die Anlagenkennlinie genau bestimmt wird, indem Sie alle Faktoren berücksichtigen, die die Strömung beeinflussen, etwa Rohrlänge, Durchmesser, Armaturen und Krümmer."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "3. "
+                },
+                {
+                  "type": "text",
+                  "text": "Wartung und Abstimmung:",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Führen Sie regelmäßig Wartungen durch, damit die Pumpe weiterhin die Leistung gemäß den Angaben auf der Pumpenkennlinie erbringt. Verschleiß und Verschmutzung können die Leistung negativ beeinflussen."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "4. "
+                },
+                {
+                  "type": "text",
+                  "text": "Einsatz von Frequenzumrichtern:",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Erwägen Sie den Einsatz von Frequenzumrichtern, um die Motordrehzahl an die wechselnden Anforderungen des Systems anzupassen. Das kann helfen, die Pumpe stets im optimalen Bereich der Pumpenkennlinie zu betreiben."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Weitere Artikel aus dem IPG-Pumpenwissen:"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "1. Grundlagenwissen Pumpen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "1.1 "
+                },
+                {
+                  "type": "text",
+                  "text": "Einführung in die Pumpentechnik",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpenwissen/einfuehrung-in-die-pumpentechnik",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "1.2 "
+                },
+                {
+                  "type": "text",
+                  "text": "Geschichte der Pumpen",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpenwissen/geschichte-der-pumpen",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "1.3 "
+                },
+                {
+                  "type": "text",
+                  "text": "Wichtigste Bauteile",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpenwissen/wichtigste-pumpenkomponenten",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2. Pumpentypen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2.1 "
+                },
+                {
+                  "type": "text",
+                  "text": "API-Pumpen",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/pumpentypen/api-pumpen",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2.2 "
+                },
+                {
+                  "type": "text",
+                  "text": "Blockpumpen",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/pumpentypen/blockpumpen",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2.3 "
+                },
+                {
+                  "type": "text",
+                  "text": "Brunnenpumpen",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/pumpentypen/brunnenpumpen",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2.4 "
+                },
+                {
+                  "type": "text",
+                  "text": "Spaltrohrmotorpumpen",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/pumpentypen/spaltrohrmotorpumpen",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2.5 "
+                },
+                {
+                  "type": "text",
+                  "text": "Kreiselpumpen",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/pumpentypen/kreiselpumpen",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2.6 "
+                },
+                {
+                  "type": "text",
+                  "text": "Chemienormpumpen",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/pumpentypen/chemienormpumpen-iso-5199",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2.7 "
+                },
+                {
+                  "type": "text",
+                  "text": "Tauchmotorpumpen",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/pumpentypen/tauchmotorpumpen",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2.8 "
+                },
+                {
+                  "type": "text",
+                  "text": "End-Suction-Pumpen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2.9 "
+                },
+                {
+                  "type": "text",
+                  "text": "Druckerhöhungsanlagen",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/pumpentypen/druckerhoehungsanlagen",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2.10 "
+                },
+                {
+                  "type": "text",
+                  "text": "Inlinepumpen",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/pumpentypen/inlinepumpen",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2.11 "
+                },
+                {
+                  "type": "text",
+                  "text": "Eintauchpumpen",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/pumpentypen/eintauchpumpen",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2.12 "
+                },
+                {
+                  "type": "text",
+                  "text": "Drehkolbenpumpen",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/pumpentypen/drehkolbenpumpen",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2.13 "
+                },
+                {
+                  "type": "text",
+                  "text": "Mehrstufige Pumpen",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/pumpentypen/mehrstufige-pumpen",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2.14 "
+                },
+                {
+                  "type": "text",
+                  "text": "Membranpumpen",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/pumpentypen/membranpumpen",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2.15 "
+                },
+                {
+                  "type": "text",
+                  "text": "Rührwerke und Strömungserzeuger",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/pumpentypen/ruehrwerke-und-stroemungserzeuger",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2.16 "
+                },
+                {
+                  "type": "text",
+                  "text": "Halbaxialpumpen",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/pumpentypen/halbaxialpumpen",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2.17 "
+                },
+                {
+                  "type": "text",
+                  "text": "Feststoff- und Schlammpumpen",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/pumpentypen/feststoffpumpen",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2.18 "
+                },
+                {
+                  "type": "text",
+                  "text": "Axial geteilte Pumpen",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/pumpentypen/axial-geteilte-pumpen",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2.19 "
+                },
+                {
+                  "type": "text",
+                  "text": "Kunststoffpumpen",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/pumpentypen/kunststoffpumpen",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2.20 "
+                },
+                {
+                  "type": "text",
+                  "text": "Komplettaggregate",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/pumpentypen/komplettaggregate",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2.21 "
+                },
+                {
+                  "type": "text",
+                  "text": "Vertikale Turbinenpumpen",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/pumpentypen/vertikale-turbinenpumpen",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2.22 "
+                },
+                {
+                  "type": "text",
+                  "text": "Normpumpen nach DIN EN 733",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/pumpentypen/normpumpen-en-733",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2.23 "
+                },
+                {
+                  "type": "text",
+                  "text": "Exzenterschneckenpumpen",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/pumpentypen/exzenterschneckenpumpen",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "3. Pumpenprinzipien und Funktionsweise"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "3.1 "
+                },
+                {
+                  "type": "text",
+                  "text": "Bernoulli-Gleichung",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpenwissen/bernoulli-gleichung",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "3.2 "
+                },
+                {
+                  "type": "text",
+                  "text": "Kavitation",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpenwissen/kavitation",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "3.3 "
+                },
+                {
+                  "type": "text",
+                  "text": "Hydraulischer Wirkungsgrad",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpenwissen/hydraulischer-wirkungsgrad",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "3.4 "
+                },
+                {
+                  "type": "text",
+                  "text": "Pumpenkennlinien",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpenwissen/pumpenkennlinien",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "4. Anwendungen und Branchen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "4.1 "
+                },
+                {
+                  "type": "text",
+                  "text": "Agrar",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/branchen/landwirtschaft",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "4.2 "
+                },
+                {
+                  "type": "text",
+                  "text": "Chemische Industrie",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/branchen/chemische-industrie",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "4.3 "
+                },
+                {
+                  "type": "text",
+                  "text": "Pharmaindustrie",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/branchen/pharmaindustrie",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "4.4 "
+                },
+                {
+                  "type": "text",
+                  "text": "Lebensmittelindustrie",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/branchen/lebensmittelindustrie",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "4.5 "
+                },
+                {
+                  "type": "text",
+                  "text": "Öl- und Gasindustrie",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/branchen/oel-und-gasindustrie",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "4.6 "
+                },
+                {
+                  "type": "text",
+                  "text": "Haushalt",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/branchen/haushalt",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "4.7 "
+                },
+                {
+                  "type": "text",
+                  "text": "HVAC",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/branchen/gebaeudetechnik-hvac",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "4.8 "
+                },
+                {
+                  "type": "text",
+                  "text": "Metallindustrie",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/branchen/stahlindustrie",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "4.9 "
+                },
+                {
+                  "type": "text",
+                  "text": "Papierindustrie",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/branchen/papierindustrie",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "4.10 "
+                },
+                {
+                  "type": "text",
+                  "text": "Energieversorgung",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/branchen/energieversorgung",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "4.11 "
+                },
+                {
+                  "type": "text",
+                  "text": "Wasseraufbereitung",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/branchen/wasseraufbereitung",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "4.12 "
+                },
+                {
+                  "type": "text",
+                  "text": "Wassertransport",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/branchen/wassertransport",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "4.13 "
+                },
+                {
+                  "type": "text",
+                  "text": "Abwasser",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/anwendungen/abwasser",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "4.14 "
+                },
+                {
+                  "type": "text",
+                  "text": "Nassbaggerei",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/anwendungen/nassbaggerei",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "4.15 "
+                },
+                {
+                  "type": "text",
+                  "text": "Kesselspeisung",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/anwendungen/kesselspeisung",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "4.16 "
+                },
+                {
+                  "type": "text",
+                  "text": "Löschwasserversorgung",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/anwendungen/loeschwasser",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "4.17 "
+                },
+                {
+                  "type": "text",
+                  "text": "Meerwasserentsalzung",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/anwendungen/meerwasserentsalzung",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "4.18 "
+                },
+                {
+                  "type": "text",
+                  "text": "Entwässerung",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/anwendungen/entwaesserung",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "4.19 "
+                },
+                {
+                  "type": "text",
+                  "text": "Trinkwasser",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/anwendungen/trinkwasser",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "4.20 "
+                },
+                {
+                  "type": "text",
+                  "text": "Kühlwasser",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/anwendungen/kuehlwasser",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "4.21 "
+                },
+                {
+                  "type": "text",
+                  "text": "Prozesswasser",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/anwendungen/prozesswasser",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

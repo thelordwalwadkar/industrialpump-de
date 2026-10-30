@@ -1,0 +1,1715 @@
+{
+  "id": 2099589130,
+  "uuid": "7d25300a-dbdb-5624-4a05-152cdf292d9e",
+  "name": "Offizieller Händler von Grundfos",
+  "slug": "grundfos",
+  "full_slug": "pumpen/marken/grundfos",
+  "position": 75,
+  "content": {
+    "component": "page_brand",
+    "h1": "Offizieller Händler von Grundfos",
+    "nav_title": "Offizieller Händler von Grundfos",
+    "seo_title": "Grundfos Pumpen: Baureihen, Ersatzteile, Angebot",
+    "seo_description": "Grundfos Pumpen für HVAC, Abwasser, Trinkwasser und Industrie: Baureihen CR, SP, DP, APG sowie Ersatzteile. Jetzt kostenloses Angebot anfordern.",
+    "intro": "Grundfos ist ein 1945 in Dänemark gegründeter Hersteller von Wasserpumpen für HVAC, Wasserversorgung, Abwasser und Industrie. Die Industrial Pump Group ist offizieller Grundfos-Händler und liefert Pumpen, Ersatzteile und Beratung.",
+    "brand_name": "Grundfos",
+    "body": [
+      {
+        "_uid": "6ad082feabfb",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ihr verlässlicher Partner für Grundfos Pumpen und Ersatzteile"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Als offizieller Händler von Grundfos bietet IPG ein umfangreiches Sortiment hochwertiger Grundfos Pumpen und Ersatzteile. Grundfos, 1945 in Dänemark gegründet, hat sich zu einem weltweit tätigen Hersteller von Wasserpumpen entwickelt. Das innovative Unternehmen bringt jährlich neue Pumpentypen auf den Markt, mit Fokus auf neueste Technologien und Nachhaltigkeit."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Grundfos Baureihen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Unten sehen Sie einige Baureihen von Grundfos Pumpen. Ist die gewünschte Pumpe nicht dabei? Dann nehmen Sie gern unverbindlich "
+                },
+                {
+                  "type": "text",
+                  "text": "Kontakt",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/kontakt",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " mit uns auf."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "fb1fc2a70c7c",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-grundfos-grundfos-dp.webp",
+          "alt": "Zwei Grundfos DP Tauchmotorpumpen mit Schlitzlaufrad für Abwasser und Feststoffe bis 10 mm",
+          "width": 1000,
+          "height": 750
+        }
+      },
+      {
+        "_uid": "498844c7f18f",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Grundfos Baureihe DP"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die Tauchmotor-Entwässerungspumpen (DP) decken einen Motorleistungsbereich von 0,9 bis 2,6 kW ab. Diese Pumpen sind mit einem halboffenen Schlitzlaufrad ausgestattet, das Feststoffe bis 10 mm Größe fördern kann."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "eda2ce2b589a",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-grundfos-grundfos-apg.webp",
+          "alt": "Grundfos APG Tauchmotorpumpe mit Schneidsystem für Abwasser, Schlamm und Kanalanwendungen",
+          "width": 490,
+          "height": 490
+        }
+      },
+      {
+        "_uid": "2c59866e2ea8",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Grundfos Baureihe APG"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "AP(G)-Pumpen sind für das Fördern von Abwasser, schlammhaltigem Wasser, Grundwasser und Schmutzwasser ausgelegt. Diese Pumpen sind mit einem Schneidsystem ausgestattet, das alle zerkleinerbaren Feststoffe in kleine Stücke schneidet."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "8dd0d05c825e",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-grundfos-grundfos-cr.webp",
+          "alt": "Mehrere Grundfos CR vertikale mehrstufige Pumpen aus Gusseisen und Edelstahl",
+          "width": 500,
+          "height": 500
+        }
+      },
+      {
+        "_uid": "9ea47ac7947b",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Grundfos Baureihe CR"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Baureihe vertikaler mehrstufiger Kreiselpumpen."
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "Bei diesen Pumpen liegen Saug- und Druckstutzen auf gleicher Höhe. Pumpenkopf und Gehäuse bestehen aus Gusseisen. Alle übrigen medienberührten Teile bestehen aus Edelstahl."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "db204fe2b08c",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-grundfos-grundfos-sp.webp",
+          "alt": "Verschiedene Grundfos SP Unterwassermotorpumpen aus Edelstahl zum Fördern von Grundwasser",
+          "width": 400,
+          "height": 450
+        }
+      },
+      {
+        "_uid": "36f74795c447",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Grundfos Baureihe SP"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die Baureihe SP umfasst Unterwassermotorpumpen für Bohrbrunnen, die zum Fördern von Grundwasser ausgelegt sind. Alle Pumpen dieser Baureihe bestehen aus Edelstahl und sind in 3 Werkstoffqualitäten erhältlich. Die Pumpen eignen sich für Bohrlöcher mit Durchmessern von 4 Zoll bis 6 Zoll und von 8 Zoll bis 10 Zoll. Die Motorgrößen der Pumpen sind von 0,37 bis 250 kW erhältlich."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Neben den oben gezeigten, häufig nachgefragten Baureihen von Grundfos Pumpen kann IPG Sie bei der Lieferung der folgenden Baureihen unterstützen, die hier in alphabetischer Reihenfolge aufgeführt sind."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "b34d8fd37259",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-grundfos-grundfos-ap.webp",
+          "alt": "Grundfos AP Tauchmotorpumpe für Abwasser und schlammhaltiges Wasser",
+          "width": 500,
+          "height": 500
+        }
+      },
+      {
+        "_uid": "2d026fa908d4",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Grundfos "
+                },
+                {
+                  "type": "text",
+                  "text": "Baureihe AP",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " APG-Pumpen sind unter anderem für das Fördern von Abwasser und schlammhaltigem Wasser ausgelegt"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "a38b04aa39c1",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-grundfos-grundfos-bm.webp",
+          "alt": "Grundfos BM Pumpeneinheit für Druckerhöhungsanlagen in Edelstahlausführung",
+          "width": 500,
+          "height": 500
+        }
+      },
+      {
+        "_uid": "10b8626b5c6e",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Grundfos "
+                },
+                {
+                  "type": "text",
+                  "text": "Baureihe BM",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " Druckerhöhungsanlagen"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "f2a54178c763",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-grundfos-grundfos-bms.webp",
+          "alt": "Langgestrecktes Grundfos BMS Druckerhöhungsmodul für industrielle Anwendungen",
+          "width": 500,
+          "height": 500
+        }
+      },
+      {
+        "_uid": "6a0fbf7d9d2c",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Grundfos "
+                },
+                {
+                  "type": "text",
+                  "text": "Baureihe BMS",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " Druckerhöhungsmodule"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "157faab676c4",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-grundfos-grundfos-cr.webp",
+          "alt": "Vertikale Grundfos CR mehrstufige Pumpen in Inline-Bauweise",
+          "width": 500,
+          "height": 500
+        }
+      },
+      {
+        "_uid": "ff5684bdbf29",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Grundfos "
+                },
+                {
+                  "type": "text",
+                  "text": "Baureihe CR",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " CRE, CRI, CRIE, CRN, CRNE, CRT, CRTE - Vertikale mehrstufige Inline-Kreiselpumpe"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "78d7fabb5c1a",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-grundfos-grundfos-ef.webp",
+          "alt": "Grundfos EF Tauchmotorpumpe mit halboffenem Laufrad für Feststoffe bis 30 mm",
+          "width": 500,
+          "height": 500
+        }
+      },
+      {
+        "_uid": "c069a2edd49b",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Grundfos "
+                },
+                {
+                  "type": "text",
+                  "text": "Baureihe EF",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " Ausgeführt mit einschaufligem, halboffenem Laufrad mit einem freien Durchgang von 30 mm"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "61b385ae8d08",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-grundfos-grundfos-hydro-multi-e.webp",
+          "alt": "Grundfos Hydro Multi-E Anlage für energieeffiziente Druckerhöhung von sauberem Wasser",
+          "width": 500,
+          "height": 500
+        }
+      },
+      {
+        "_uid": "e3ab1311abbf",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Grundfos "
+                },
+                {
+                  "type": "text",
+                  "text": "Baureihe Hydro Multi-E",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " Energieeffiziente, drehzahlgeregelte Druckerhöhungsanlage zum Fördern von sauberem Wasser"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "63a73172c461",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-grundfos-grundfos-solo-e.webp",
+          "alt": "Grundfos Hydro Solo-E Druckerhöhungssystem mit Frequenzumrichter und Ausdehnungsgefäß",
+          "width": 500,
+          "height": 500
+        }
+      },
+      {
+        "_uid": "e4ca6ac5144d",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Grundfos "
+                },
+                {
+                  "type": "text",
+                  "text": "Baureihe Hydro Solo-E",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " Vollständig optimiertes Druckerhöhungssystem für Anlagen, in denen ein konstanter Druck wesentlich ist"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "4bccd29c14cb",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-grundfos-grundfos-mt.webp",
+          "alt": "Vertikale Grundfos MT Eintauchpumpen für den Einbau in Tanks, Kreisel- oder Schraubenpumpe",
+          "width": 500,
+          "height": 500
+        }
+      },
+      {
+        "_uid": "2534beca7b8a",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Grundfos "
+                },
+                {
+                  "type": "text",
+                  "text": "Baureihe MT Eintauchpumpen",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " Vertikale, mehrstufige Kreisel- und Schraubenpumpen für den Einbau in Tanks"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "b9beac873c46",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-grundfos-grundfos-nb.webp",
+          "alt": "Grundfos NB und NBE Blockpumpen nach EN 733 für allgemeine Anwendungen",
+          "width": 500,
+          "height": 500
+        }
+      },
+      {
+        "_uid": "29cf0aabfeed",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Grundfos "
+                },
+                {
+                  "type": "text",
+                  "text": "Baureihe NB, NBE",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " Blockpumpe mit axialem Eintritt (End-suction), nach EN 733"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "5d1c13ad82c6",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-grundfos-grundfos-nbg.webp",
+          "alt": "Grundfos NBG und NBGE Normblockpumpen nach ISO 2858",
+          "width": 500,
+          "height": 500
+        }
+      },
+      {
+        "_uid": "3b604a653220",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Grundfos "
+                },
+                {
+                  "type": "text",
+                  "text": "Baureihe NBG, NBGE",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " Normblockpumpen nach ISO 2858"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "1951776068f7",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-grundfos-grundfos-nk.webp",
+          "alt": "Grundfos NK und NKE Normpumpen mit axialem Eintritt nach EN 733",
+          "width": 500,
+          "height": 500
+        }
+      },
+      {
+        "_uid": "bd8f7cc0c72f",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Grundfos "
+                },
+                {
+                  "type": "text",
+                  "text": "Baureihe NK, NKE",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " Normpumpen mit axialem Eintritt (End-suction) und Wellenkupplung nach EN 733"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "9f8e6b33df85",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-grundfos-grundfos-nkg.webp",
+          "alt": "Grundfos NKG und NKGE Pumpen mit axialem Eintritt nach ISO 2858",
+          "width": 500,
+          "height": 500
+        }
+      },
+      {
+        "_uid": "676b1e0c3468",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Grundfos "
+                },
+                {
+                  "type": "text",
+                  "text": "Baureihe NKG, NKGE",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " Pumpen mit Wellenkupplung und axialem Eintritt nach ISO 2858"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "9807281f63a1",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-grundfos-grundfos-sb.webp",
+          "alt": "Mehrere Grundfos SB und SBA Tauchdruckerhöhungspumpen mit einfacher Installation",
+          "width": 500,
+          "height": 500
+        }
+      },
+      {
+        "_uid": "31218556b4e8",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Grundfos "
+                },
+                {
+                  "type": "text",
+                  "text": "Baureihe SB, SBA",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " Mehrstufige Tauchdruckerhöhungspumpen, einfach und direkt aus der Verpackung installierbar"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "089bd6411b13",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-grundfos-grundfos-seg.webp",
+          "alt": "Grundfos SEG Tauchmotorpumpen mit Schneidwerk für Schmutz- und Abwasser",
+          "width": 500,
+          "height": 500
+        }
+      },
+      {
+        "_uid": "2c49c26a042f",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Grundfos "
+                },
+                {
+                  "type": "text",
+                  "text": "Baureihe SEG",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " Tauchmotor-Schneidwerkpumpen zum Fördern von Abwasser, schlammhaltigem Wasser und Schmutzwasser"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "f7f3ef0be27d",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-grundfos-grundfos-sl.webp",
+          "alt": "Zwei Grundfos SL Tauchmotorpumpen für die Abwasserbehandlung",
+          "width": 500,
+          "height": 500
+        }
+      },
+      {
+        "_uid": "754510ab3b7a",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Grundfos "
+                },
+                {
+                  "type": "text",
+                  "text": "Baureihe SL",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " Tauchmotorpumpen für Abwasser"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "1dd9e6432cdd",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-grundfos-grundfos-tp.webp",
+          "alt": "Grundfos TP und TPE Inlinepumpen mit Gleitringdichtung",
+          "width": 500,
+          "height": 500
+        }
+      },
+      {
+        "_uid": "15f10d72fc8c",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Grundfos "
+                },
+                {
+                  "type": "text",
+                  "text": "Baureihe TP, TPE",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " Einstufige Inlinepumpen mit Gleitringdichtung"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "f35bf1857d34",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-grundfos-grundfos-unilift-cc.webp",
+          "alt": "Grundfos Unilift Tauchmotorpumpen für den Haushalt und leichten industriellen Einsatz",
+          "width": 500,
+          "height": 500
+        }
+      },
+      {
+        "_uid": "c6a7f917919d",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Grundfos "
+                },
+                {
+                  "type": "text",
+                  "text": "Baureihe Unilift AP / CC / KP",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " Tauchmotorpumpen-Baureihen"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "f4530f475d41",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-missende-pomp.webp",
+          "alt": "Platzhalter für nicht aufgeführte Pumpen",
+          "width": 500,
+          "height": 500
+        }
+      },
+      {
+        "_uid": "abf09cf269d3",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ihre "
+                },
+                {
+                  "type": "text",
+                  "text": "Grundfos",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " Pumpe ist nicht dabei? Unsere Pumpenexperten helfen Ihnen gern, die benötigte Pumpe oder Ersatzteile zu finden und zu liefern"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Unverbindlich Kontakt aufnehmen"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "c0834995333f",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/homepage-logos-aeb.webp",
+          "alt": "Kraftwerk AEB Amsterdam mit Rauchfahnen in der Dämmerung",
+          "width": 387,
+          "height": 241
+        }
+      },
+      {
+        "_uid": "20d581ec1c3e",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/homepage-logos-akzonobel.webp",
+          "alt": "Beleuchteter AkzoNobel Hauptsitz im Abendlicht in städtischer Umgebung",
+          "width": 387,
+          "height": 241
+        }
+      },
+      {
+        "_uid": "ebf47b046103",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/homepage-logos-hvc.webp",
+          "alt": "Luftaufnahme der roten HVC Abfallverwertungsanlage mit umliegender Landschaft",
+          "width": 387,
+          "height": 241
+        }
+      },
+      {
+        "_uid": "ea1432249db6",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/homepage-logos-petrogas.webp",
+          "alt": "Bohrplattform von Petrogas E&P auf See mit Kran und Konstruktion",
+          "width": 387,
+          "height": 241
+        }
+      },
+      {
+        "_uid": "c9f189a8c1ec",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/homepage-logos-tatasteel.webp",
+          "alt": "Fabrikhalle von Tata Steel mit Stahlproduktion und gelben Absperrungen",
+          "width": 387,
+          "height": 241
+        }
+      },
+      {
+        "_uid": "5dd4229e7d0c",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/homepage-logos-waternet.webp",
+          "alt": "Bürogebäude von Waternet mit zwei Türmen am Wasser",
+          "width": 387,
+          "height": 241
+        }
+      },
+      {
+        "_uid": "2fada93affd2",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Jährliche Produktion von 16 Millionen Pumpen: vielfältige Anwendungen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die Produktion von Grundfos Pumpen ist enorm: Jährlich werden mehr als 16 Millionen Pumpeneinheiten gefertigt. Das sind Umwälzpumpen für Heizung und Klimatechnik, aber auch Kreiselpumpen für Industrie, Wasserversorgung und Abwasser. Daher ist die Wahrscheinlichkeit groß, dass auch bei Ihnen eine Pumpe dieser Marke im Einsatz ist. Wenn für diese Pumpe Ersatzteile oder eine Revision erforderlich sind, sind Sie bei IPG an der richtigen Adresse."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Grundfos fertigt neben Standardmotoren auch Unterwassermotoren und hat eigene Technologien für die Herstellung von Druck- und Frequenzreglern."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Langjährige Erfahrung in Konstruktion, Entwicklung und Fertigung qualitativ hochwertiger Pumpen ist eine Gemeinsamkeit der Industrial Pump Group und Grundfos. Nicht dass IPG selbst Pumpen herstellt, aber wir streben die bestmögliche Lösung für Kunde und Anwendung an. Haben Sie eine Herausforderung für uns oder brauchen Sie Beratung? Dann nehmen Sie Kontakt mit uns auf."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Grundfos trägt zu einem besseren Klima bei"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Eine Klimakrise steht bevor, und es ist viel nötig, um ihr entgegenzuwirken. Grundfos scheut diese Herausforderung nicht und möchte mit intelligenten Lösungen und konkreten Maßnahmen Einfluss auf die weltweiten Wasser- und Klimaherausforderungen nehmen. In der Strategie nennt das dänische Unternehmen das Ziel, 2025 den CO2-Fußabdruck gegenüber 2008 um 50 % zu verringern. Außerdem hat Grundfos das Ziel, im selben Jahr den eigenen Wasserverbrauch gegenüber 2008 um 50 % zu senken."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bis 2030 wird es ernst, wenn Grundfos 300 Millionen Menschen mit Wasser versorgen möchte, die heute keinen Zugang dazu haben. Hinzu kommt intelligentes Wassermanagement, durch das 50 Milliarden m³ Süßwasser eingespart werden sollen."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Grundfos Ersatzteile"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Für die Revision von Pumpen sind Ersatzteile erforderlich; es empfiehlt sich, für die Wartung Originalersatzteile zu verwenden. Die Ersatzteile des Herstellers Grundfos können durch IPG geliefert werden. Als offizieller Händler können die Pumpenexperten Ihnen ein kostenloses Angebot für Ihre Ersatzteilanfrage erstellen. Auch für Ersatzteilzeichnungen und Pumpenberatung sind Sie bei uns an der richtigen Adresse."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die Ersatzteile können je nach gefördertem Medium in verschiedenen Werkstoffen geliefert werden. Welcher Werkstoff erforderlich ist, hängt vom Medium ab, lässt sich aber oft auch anhand der Seriennummer auf dem Typenschild ermitteln. Das ist häufig der Grund, warum wir nach diesem Typenschild fragen."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Warum Grundfos Pumpen?"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Grundfos Pumpen sind für Zuverlässigkeit, Langlebigkeit und innovative Technik bekannt. Einige Vorteile von Grundfos Pumpen sind:"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "• "
+                },
+                {
+                  "type": "text",
+                  "text": "Innovative Technik:",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " Grundfos investiert fortlaufend in Forschung und Entwicklung, um moderne und effiziente Pumpenlösungen anzubieten."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "• "
+                },
+                {
+                  "type": "text",
+                  "text": "Hohe Qualität:",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " Grundfos Pumpen werden nach hohen Qualitätsstandards ausgelegt und gefertigt, was zu langer Lebensdauer und zuverlässiger Leistung führt."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "• "
+                },
+                {
+                  "type": "text",
+                  "text": "Nachhaltigkeit:",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " Grundfos strebt umweltfreundliche Lösungen an und arbeitet aktiv an der Verringerung des CO2-Fußabdrucks und des Wasserverbrauchs."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "• "
+                },
+                {
+                  "type": "text",
+                  "text": "Breites Einsatzgebiet:",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " Grundfos bietet ein breites Spektrum an Pumpen für verschiedene Anwendungen, darunter HVAC-Systeme, Wassermanagement und Abwasserbehandlung."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kostenloses Angebot und Beratung"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Haben Sie konkrete Fragen zu Grundfos Pumpen oder möchten Sie direkt ein Angebot anfordern? Nehmen Sie unverbindlich Kontakt mit uns auf. Unsere Experten beantworten Ihre Fragen und sorgen dafür, dass Sie die benötigten Pumpen und Ersatzteile schnell und effizient erhalten."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Grundfos Tauchmotorpumpen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bei Tauchmotorpumpen zählt Grundfos zu den etablierten Herstellern. Die von Grundfos gefertigten Tauchmotorpumpen sind sehr effizient und langlebig. Die Unilift Pumpe ist ein beliebtes Modell und hat für verschiedene Anwendungen eine eigene Ausführung. So gibt es eine Unilift zum Leerpumpen Ihres Kellers, aber auch eine zum Fördern von Schmutzwasser. Die Pumpe ist von hoher Qualität und dank der Qualitätsanforderungen des Herstellers leicht zu installieren."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Brunnenpumpen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Diese hochwertigen, geschmeidig laufenden Brunnenpumpen sind auf geringen Energieverbrauch und beste Leistung ausgelegt. Diese Pumpen sind weltweit sehr beliebt, auch dank der umfassenden Fachkenntnis des dänischen Herstellers in der professionellen Wasserversorgung. Die Brunnenpumpen sind aus hochwertigem Werkstoff gefertigt und deshalb ein Produkt hoher Qualität, das viele Jahre halten kann."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Mehrstufige Pumpen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Mehrere Baureihen von Grundfos bestehen aus mehrstufigen Pumpen, zum Beispiel die beliebte Baureihe CR: Diese vertikalen mehrstufigen Pumpen lassen sich leicht zwischen zwei Rohrleitungen einbauen und sind deshalb auch sehr wartungsfreundlich. Diese Pumpen haben einen hohen Wirkungsgrad und liefern, wie alle Pumpen der dänischen Marke, zuverlässige Leistung. Diese Baureihe besteht aus verschiedenen Pumpen mit jeweils eigener Konfiguration, sodass sie für viele Anwendungen verfügbar sind."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Grundfos im Wandel der Jahre"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Um Sie über das große Unternehmen Grundfos zu informieren, führen wir Sie kurz durch die Geschichte des dänischen Unternehmens."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "1944",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ": Das Unternehmen wird in Bjerringbro als Bjerringbro Pressestøberi og Maskinfabrik (Bjerringbro Druckgießerei und Maschinenfabrik) gegründet."
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "1945",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ": Das Unternehmen beginnt mit der Fertigung der ersten Pumpen."
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "1947",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ": Erste Brunnenpumpe gefertigt."
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "1949",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ": Das Unternehmen beginnt mit dem Export seiner Pumpen, in diesem Jahr zunächst nach Norwegen, vier Jahre später folgt Schweden. Heute liefert Grundfos Pumpen weltweit."
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "1952",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ": Eine mehrstufige Pumpe wird unter dem Namen CR eingeführt, die wir noch heute als eine der erfolgreichsten Pumpenbaureihen des Unternehmens kennen."
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "1960",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ": Der Name Grundfoss, damals noch mit doppeltem S am Ende, wird in Gebrauch genommen."
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "1967",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ": Die beliebte Brunnenpumpen-Baureihe SP wird in Edelstahl ausgeführt und gefertigt."
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "1973",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ": Ein großer Schritt für den weltweiten Erfolg von Grundfos: Das Unternehmen geht in die Vereinigten Staaten."
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "1976",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ": Beginn der Fertigung eigener Motoren."
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "1989",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ": Grundfos ist nach eigener Angabe der erste Pumpenhersteller der Welt mit einem ISO-Zertifikat."
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "1990",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ": Ein „Technology Center“ wird eröffnet, wodurch das dänische Unternehmen bis heute zukunftsorientiert bleibt."
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "1991",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ": Die „intelligente Pumpe“ kommt auf den Markt."
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "2000",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ": In den kommenden Jahren wird sich Grundfos vor allem auf die Digitalisierung von Pumpen konzentrieren und seinem Programm verschiedene innovative Pumpen hinzufügen."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Das Engagement von Grundfos für Qualität und Zuverlässigkeit"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Grundfos ist nicht nur für innovative Technologien bekannt, sondern auch für sein Engagement für Qualität und Zuverlässigkeit. Jedes Produkt, das Grundfos verlässt, wird gründlich geprüft, um strenge Normen zu erfüllen. Das Unternehmen setzt hochwertige Werkstoffe und moderne Fertigungsverfahren ein, damit jede Pumpe außergewöhnliche Leistung bietet und eine lange Lebensdauer hat. Das bedeutet, dass Kunden bei Grundfos Pumpen auf gleichbleibende, zuverlässige Leistung vertrauen können, selbst in den anspruchsvollsten Anwendungen. Dieses Engagement für Qualität ist einer der Gründe, warum Grundfos in der Pumpenindustrie weltweit eine bedeutende Rolle spielt."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "666a290638af",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/grundfos-faq.webp",
+          "alt": "Grundfos Pumpen im Einsatz",
+          "width": 1280,
+          "height": 717
+        }
+      },
+      {
+        "_uid": "11729d25e81b",
+        "component": "faq",
+        "heading": "Häufige Fragen",
+        "items": [
+          {
+            "_uid": "2036dcc22e1b",
+            "component": "faq_item",
+            "question": "Was sind Grundfos Pumpen?",
+            "answer": "Grundfos Pumpen sind hochwertige Pumpen dänischen Ursprungs und gehören weltweit zu den am häufigsten eingesetzten Pumpenlösungen. Grundfos ist für seinen starken Fokus auf Innovation, Energieeffizienz und Nachhaltigkeit bekannt. Die Pumpen sind auf zuverlässige Leistung, niedrige Wartungskosten und lange Lebensdauer ausgelegt. Durch intelligente Technologien wie integrierte Frequenzumrichter und intelligente Regelung bieten Grundfos Pumpen optimale Kontrolle und effizientes Wassermanagement."
+          },
+          {
+            "_uid": "e60aea4bf49b",
+            "component": "faq_item",
+            "question": "Welche Arten von Grundfos Pumpen gibt es?",
+            "answer": "Grundfos hat ein sehr breites Sortiment, unter anderem:\n- Kreiselpumpen für industrielle und Prozessanwendungen\n- Mehrstufige Pumpen für Druckerhöhung und Wasserversorgung\n- Tauchmotorpumpen für Abwasser und Entwässerung\n- Umwälzpumpen für Heiz- und Kühlsysteme\n- Inlinepumpen für Gewerbe und Gebäudetechnik\n- Intelligente Pumpen mit integrierter Regeltechnik\nDiese Pumpen sind in verschiedenen Werkstoffen und Konfigurationen erhältlich, abgestimmt auf Förderstrom, Druck und Medium."
+          },
+          {
+            "_uid": "9eb874bf22ea",
+            "component": "faq_item",
+            "question": "Wofür werden Grundfos Pumpen eingesetzt?",
+            "answer": "Grundfos Pumpen werden in Anwendungen eingesetzt, in denen Zuverlässigkeit, Effizienz und Regelbarkeit wesentlich sind, zum Beispiel:\n- Industrie und Prozessanlagen\n- Wasser- und Abwasserbehandlung\n- Gebäudetechnik und HVAC-Systeme\n- Druckerhöhungsanlagen und Wasserversorgung\n- Landwirtschaft und Bewässerung\nDank des breiten Programms und der modernen Technik eignen sich Grundfos Pumpen sowohl für Standardanwendungen als auch für komplexe Anlagen in industriellen und gewerblichen Umgebungen."
+          }
+        ]
+      }
+    ]
+  }
+}

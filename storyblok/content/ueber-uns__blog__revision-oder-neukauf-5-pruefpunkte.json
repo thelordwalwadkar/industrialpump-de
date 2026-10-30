@@ -1,0 +1,458 @@
+{
+  "id": 516898831,
+  "uuid": "1ecf400f-d39f-2fb9-f12a-9d4265c786ad",
+  "name": "Pumpe revidieren oder neu kaufen? Fünf Prüfpunkte für eine fundierte Entscheidung",
+  "slug": "revision-oder-neukauf-5-pruefpunkte",
+  "full_slug": "ueber-uns/blog/revision-oder-neukauf-5-pruefpunkte",
+  "position": 20,
+  "content": {
+    "component": "page_blog_post",
+    "h1": "Pumpe revidieren oder neu kaufen? Fünf Prüfpunkte für eine fundierte Entscheidung",
+    "seo_title": "Pumpe revidieren oder neu kaufen? 5 Prüfpunkte",
+    "seo_description": "Pumpe revidieren oder ersetzen? Fünf Prüfpunkte zu Zustand, Alter, Energieeffizienz, Ersatzteilen und Kosten. Jetzt lesen und Pumpe beurteilen lassen.",
+    "intro": "Ob eine Industriepumpe revidiert oder ersetzt werden sollte, hängt von technischen und wirtschaftlichen Faktoren ab. Der Beitrag nennt Instandhaltern und Einkäufern fünf Prüfpunkte: technischer Zustand, Alter und Betriebsstunden, Energieeffizienz, Ersatzteilverfügbarkeit sowie Kosten und Amortisation.",
+    "publication_date": "2026-04-14",
+    "article": {
+      "type": "doc",
+      "content": []
+    },
+    "body": [
+      {
+        "_uid": "e17d7d941d05",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Fünf Prüfpunkte für eine fundierte Entscheidung: revidieren oder neu kaufen?"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Eine Industriepumpe, die nicht mehr optimal arbeitet, setzt Prozesse unter Druck. Nachlassende Leistung, höherer Energieverbrauch oder wiederkehrende Störungen führen schnell zu der Frage: "
+                },
+                {
+                  "type": "text",
+                  "text": "revidieren lassen oder in eine neue Pumpe investieren",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "?"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bei IPG erhalten wir diese Frage täglich. Die Antwort ist selten schwarz oder weiß. Die richtige Entscheidung hängt von mehreren technischen und wirtschaftlichen Faktoren ab. In diesem Beitrag helfen wir Ihnen mit fünf klaren Prüfpunkten, eine wohlüberlegte Entscheidung zu treffen."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "141ac8380d82",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/revisie-revisie-5.webp",
+          "alt": "Pumpe bei der Revision in der IPG-Werkstatt",
+          "width": 1102,
+          "height": 735
+        }
+      },
+      {
+        "_uid": "1ec8a4ea8ab3",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "1. Der technische Zustand der Pumpe"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die erste und wichtigste Frage ist, in welchem Zustand sich die Pumpe befindet. Handelt es sich um normalen Verschleiß an Lagern, Dichtungen oder Laufrädern, oder liegen strukturelle Probleme vor wie Wellenschäden, Gehäuseverformung oder Korrosion?"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ist die Grundkonstruktion der Pumpe noch gut, kann eine Revision oft eine gute Lösung sein. Bei IPG beurteilen wir Pumpen technisch und sachlich, unabhängig von Marke oder Typ. So erhalten Sie ein ehrliches Bild davon, was technisch vertretbar ist und was nicht."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2. Alter und Betriebsstunden"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Das Alter einer Pumpe sagt nicht alles, gibt aber eine Richtung vor. Eine fünf Jahre alte Pumpe mit extrem vielen Betriebsstunden erfordert ein anderes Vorgehen als eine fünfzehn Jahre alte Pumpe, die nur leicht belastet wurde."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bei älteren Pumpen prüfen wir kritisch:"
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Verfügbarkeit von Ersatzteilen"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Konstruktiven Verschleiß"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Erwartete Restlebensdauer nach der Revision"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Reicht die erwartete Lebensdauer nach der Revision aus, um die Investition zu rechtfertigen, kann die Revision eine logische Wahl sein. Wenn nicht, ist der Austausch oft zukunftssicherer."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "3. Energieeffizienz und Leistung"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Der Energieverbrauch spielt eine immer größere Rolle bei den Gesamtkosten einer Pumpenanlage. Ältere Pumpen sind oft weniger effizient als moderne Ausführungen, besonders wenn sie nicht optimal ausgewählt wurden oder außerhalb ihres günstigen Betriebspunkts laufen."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "In manchen Fällen kann sich eine neue Pumpe durch geringere Energiekosten relativ schnell amortisieren. IPG rechnet dies für Sie nachvollziehbar durch, sodass Sie nicht nur Anschaffungs- oder Revisionskosten betrachten, sondern den Gesamtertrag über die Lebensdauer."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "4. Verfügbarkeit von Ersatzteilen und Lieferzeit"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Nicht alle Pumpen lassen sich gleich einfach revidieren. Bei älteren oder speziellen Modellen kann die Verfügbarkeit von Ersatzteilen ein begrenzender Faktor sein. Lange Lieferzeiten erhöhen das Risiko von Stillstand und Produktionsverlust."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Dank unseres herstellerunabhängigen Vorgehens kann IPG beurteilen, ob eine Revision praktisch machbar ist oder ob ein kurzfristiger Austausch die zuverlässigere Lösung bietet. Dabei betrachten wir nicht nur die Pumpe, sondern auch die Auswirkungen auf Ihren Prozess."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "5. Kosten und Amortisationszeit"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Eine Revision erscheint auf den ersten Blick oft günstiger als ein Austausch, aber das ist nicht immer so. Neben den direkten Kosten spielen auch indirekte Faktoren eine Rolle, zum Beispiel:"
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Erwartete Lebensdauer nach der Revision"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Wahrscheinlichkeit von Folgestörungen"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Energieverbrauch"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Stillstandskosten"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "IPG macht diese Abwägung transparent. Sie erhalten keine Verkaufsempfehlung, sondern einen technisch begründeten Vergleich. So wissen Sie genau, woran Sie sind, bevor Sie eine Entscheidung treffen."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "94e4c192ddbe",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-blokpompen-bg.webp",
+          "alt": "Blockpumpe als Beispiel für eine Pumpe, die revidiert oder ersetzt werden kann",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      {
+        "_uid": "48d6e5c9f69b",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Revidieren und ersetzen: ein Partner, eine Empfehlung"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Der große Vorteil der Zusammenarbeit mit IPG ist, dass wir "
+                },
+                {
+                  "type": "text",
+                  "text": "sowohl die Revision als auch die Lieferung neuer Pumpen übernehmen",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ". Dadurch können wir unabhängig beraten, ohne Präferenz für eine bestimmte Lösung. Unser Ziel ist nicht der Verkauf, sondern eine zuverlässige und wirtschaftliche Pumpenanlage."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ob Inspektion, Revision, Austausch oder Optimierung Ihrer Pumpe: Bei IPG haben Sie einen festen Ansprechpartner, der mitdenkt."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Unsicher? Lassen Sie IPG mitprüfen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Haben Sie eine Pumpe, die nicht mehr einwandfrei arbeitet, und sind unsicher, ob Sie sie revidieren oder ersetzen sollen? Dann nehmen Sie unverbindlich Kontakt mit IPG auf. Wir beurteilen Ihre Situation technisch und finanziell und helfen Ihnen bei einer Entscheidung, die zu Ihrer Anlage, Ihrem Prozess und Ihrem Budget passt."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "So vermeiden Sie unnötige Kosten und entscheiden sich für eine Lösung, die sich langfristig rechnet."
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "image": {
+      "filename": "/img/nl/pomptypes-centrifugaalpompen-bg.webp",
+      "alt": "Industrielle Kreiselpumpe, die revidiert oder ersetzt werden soll",
+      "width": 1280,
+      "height": 720
+    }
+  }
+}

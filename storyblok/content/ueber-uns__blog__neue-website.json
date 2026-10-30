@@ -1,0 +1,191 @@
+{
+  "id": 443694995,
+  "uuid": "1a723f93-4f29-9098-b7fe-d1d0488947ca",
+  "name": "IPG startet neue Website: noch bessere Unterstützung für Sie",
+  "slug": "neue-website",
+  "full_slug": "ueber-uns/blog/neue-website",
+  "position": 34,
+  "content": {
+    "component": "page_blog_post",
+    "h1": "IPG startet neue Website: noch bessere Unterstützung für Sie",
+    "seo_title": "Neue Website der Industrial Pump Group: Pumpen finden",
+    "seo_description": "IPG hat eine neue Website gestartet: Pumpen nach Branche, Anwendung, Pumpentyp und Marke finden, Revision anfragen und Experten kontaktieren.",
+    "intro": "Die Industrial Pump Group hat eine neue Website gestartet, auf der Kunden Informationen zu Pumpen und Anwendungen leichter finden. Sie erleichtert außerdem die Kontaktaufnahme mit den Pumpenspezialisten von IPG.",
+    "noindex": true,
+    "publication_date": "2023-05-02",
+    "article": {
+      "type": "doc",
+      "content": []
+    },
+    "body": [
+      {
+        "_uid": "fa8ec0b06417",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 4
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Noch bessere Unterstützung für Sie: IPG startet neue Website"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die Industrial Pump Group (IPG) hat am 1. Mai ihre neue Website gestartet. Die neue Website wurde so gestaltet, dass Kunden die richtigen Informationen zu Pumpen und ihren Anwendungen besser finden. Außerdem erleichtert sie die Kontaktaufnahme mit den Pumpenspezialisten von IPG."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Einfache Navigation"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Einfache Navigation nach Branchen, Anwendungen, Pumpentypen und Marken: Ein wichtiges Element der neuen IPG-Website ist die einfache Navigation. Die Website ist in verschiedene Branchen, Anwendungen, Pumpentypen und Marken gegliedert. Das erleichtert es Kunden, die richtigen Informationen zu den benötigten Pumpen zu finden. Ob Kunden Informationen zu Kreiselpumpen, Verdrängerpumpen, Drehkolbenpumpen, Zahnradpumpen oder anderen Pumpentypen suchen: IPG bietet für jede Anwendung ein breites Angebot."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "1a8965bd41bf",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-meertraps-bg.webp",
+          "alt": "Mehrstufige Pumpe",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      {
+        "_uid": "a73790204d92",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/revisie-revisie-12.webp",
+          "alt": "Revision einer Pumpe in der Werkstatt von IPG",
+          "width": 1102,
+          "height": 735
+        }
+      },
+      {
+        "_uid": "bbbe0339a547",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Informationen zu Revisionsmöglichkeiten"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "IPG bietet nicht nur ein breites Angebot an neuen Pumpen, sondern auch Revisionsleistungen. Kunden, die ihre Pumpen revidieren lassen möchten, finden Informationen zu den verschiedenen Revisionsmöglichkeiten und dazu, wie sie diese Leistung anfragen können. IPG weiß, dass die Revision von Pumpen für Kunden häufig eine kostengünstige Lösung sein kann, und bietet diese Leistung deshalb an."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Unterstützung durch unsere Pumpenspezialisten"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "IPG weiß, dass Kunden bei der Auswahl von Pumpen manchmal spezifische Anforderungen haben. Deshalb enthält die neue IPG-Website viele Informationen zu den verschiedenen Anwendungen, für die Pumpen benötigt werden. Außerdem ist es einfacher geworden, mit den Pumpenspezialisten von IPG in Kontakt zu kommen. Kunden können das IPG-Team über die Website oder telefonisch kontaktieren, um mehr über Pumpen und ihre Anwendungen zu erfahren. Das IPG-Team unterstützt Kunden dabei, die richtigen Pumpen für ihren spezifischen Bedarf zu finden."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "9004c077fa74",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/homepage-cta-image.webp",
+          "alt": "Pumpenspezialisten von IPG beraten Kunden",
+          "width": 1004,
+          "height": 676
+        }
+      },
+      {
+        "_uid": "310f2ab30b2b",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kontakt aufnehmen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "IPG setzt sich für die Lieferung hochwertiger Pumpen und einen sehr guten Kundenservice ein. Die neue Website ist ein Beleg für dieses Engagement. IPG weiß, dass Kunden manchmal schnell Pumpen benötigen, um ihre Produktionsprozesse am Laufen zu halten. Deshalb bietet IPG eine schnelle Lieferung und ein umfangreiches Lager der gefragtesten Pumpen."
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "image": {
+      "filename": "/img/nl/nieuws-nieuwe-website-header.webp",
+      "alt": "Startseite der neuen Website der Industrial Pump Group",
+      "width": 1280,
+      "height": 853
+    }
+  }
+}

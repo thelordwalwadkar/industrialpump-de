@@ -1,0 +1,529 @@
+{
+  "id": 1387581014,
+  "uuid": "52b4ce56-9ee4-e239-ddf3-c11445f37d6d",
+  "name": "SAER MBSH: vertikale mehrstufige Pumpe aus Edelstahl",
+  "slug": "mbsh-serie",
+  "full_slug": "pumpen/marken/saer/mbsh-serie",
+  "position": 90,
+  "content": {
+    "component": "page_series",
+    "h1": "SAER MBSH: vertikale mehrstufige Pumpe aus Edelstahl",
+    "seo_title": "SAER MBSH: vertikale mehrstufige Pumpe aus Edelstahl",
+    "seo_description": "SAER MBSH und MBS-L vertikale mehrstufige Pumpe aus Edelstahl 304: bis 18 m³/h und 113 m Förderhöhe. Jetzt kostenlose Pumpenberatung anfordern.",
+    "intro": "Die SAER MBSH und MBS-L sind vertikale mehrstufige Pumpen aus Edelstahl AISI 304 mit Laufrädern aus thermoplastischem Kunstharz. Sie fördern Wasser aus Tanks, Becken und 6-Zoll-Brunnen für Haushalt, Bau und Landwirtschaft.",
+    "series_name": "MBSH",
+    "body": [
+      {
+        "_uid": "ed25d39e408b",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-saer-saer-mbsh.webp",
+          "alt": "Vertikale mehrstufige Edelstahlpumpe mit Saugfuß, Modell SAER MBSH",
+          "width": 500,
+          "height": 500
+        }
+      },
+      {
+        "_uid": "c8df7f65816b",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Mehrstufige Pumpen aus Edelstahl 304 mit hoher Förderleistung"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die SAER MBSH und MBS-L ist eine Pumpe für drei verschiedene Lösungen: Ausführung MBSH mit Saugfuß als mehrstufige Pumpe, MBS-L als Boosterpumpe, MBS als Unterwasserpumpe."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Anwendungen: Wasserversorgung aus Tanks oder Becken sowie aus offenen oder 6-Zoll-Brunnen für Haushalt, Bau und Landwirtschaft und überall dort, wo allgemein Wasserdruck benötigt wird. Die Laufräder aus thermoplastischem Kunstharz gewährleisten Langlebigkeit, selbst wenn Sand vorhanden ist."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "711d5f1484dd",
+        "component": "data_table",
+        "table": {
+          "fieldtype": "table",
+          "thead": [
+            {
+              "_uid": "3382e592f7ef",
+              "component": "_table_head",
+              "value": "Maximaler Förderstrom"
+            },
+            {
+              "_uid": "ce112b59b1ad",
+              "component": "_table_head",
+              "value": ""
+            },
+            {
+              "_uid": "da0f5d768a09",
+              "component": "_table_head",
+              "value": "18"
+            },
+            {
+              "_uid": "f0390b70c200",
+              "component": "_table_head",
+              "value": "m³/h"
+            }
+          ],
+          "tbody": [
+            {
+              "_uid": "2d4fb5d29817",
+              "component": "_table_row",
+              "body": [
+                {
+                  "_uid": "f62c0c5dd372",
+                  "component": "_table_col",
+                  "value": "Maximale Förderhöhe"
+                },
+                {
+                  "_uid": "9fd2e860089c",
+                  "component": "_table_col",
+                  "value": ""
+                },
+                {
+                  "_uid": "66282e239240",
+                  "component": "_table_col",
+                  "value": "113"
+                },
+                {
+                  "_uid": "0c2e4d252bf2",
+                  "component": "_table_col",
+                  "value": "m"
+                }
+              ]
+            },
+            {
+              "_uid": "9d3d2ec228c1",
+              "component": "_table_row",
+              "body": [
+                {
+                  "_uid": "cbf805590377",
+                  "component": "_table_col",
+                  "value": "Maximale Leistung"
+                },
+                {
+                  "_uid": "8f8cbbeb1494",
+                  "component": "_table_col",
+                  "value": ""
+                },
+                {
+                  "_uid": "ead020ed020f",
+                  "component": "_table_col",
+                  "value": "4"
+                },
+                {
+                  "_uid": "6f7c7df0387c",
+                  "component": "_table_col",
+                  "value": "kW"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "699b32470a12",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Aufbau der Pumpe"
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Außenmantel: vollständig aus Edelstahl AISI 304, einschließlich Druckgehäuse mit Gewindeausgang 11″ G."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Laufräder und Diffusoren: verschleißfestes, thermoplastisches Kunstharz. Diffusoren mit selbsteinstellenden Spaltringen."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Monoblock-Pumpen- und Motorwelle vollständig aus Edelstahl AISI 431, an drei Punkten gelagert."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Dauergeschmierte Lager."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Dichtungen: zwei Gleitringdichtungen: Graphit/Aluminiumoxid-Dichtung auf der Motorseite; Aluminiumoxid/Siliziumkarbid-Dichtung auf der Pumpenseite. Ölkammer dazwischen angeordnet (FDA-zugelassenes, ungiftiges Öl)."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Motor: Asynchron-Induktionsmotor mit Außenmantel aus Stahl AISI 304, gekühlt durch die geförderte Flüssigkeit."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Schutzart: IP68. Die Einheit aus Pumpe und Motor lässt sich leicht demontieren und reparieren."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Dreiphasige Ausführungen: 380-400-415 V, 50 Hz; Schutzeinrichtungen und elektrischer Schaltschrank auf Anfrage."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Einphasige Ausführungen: 220-230 V / 230-240 V, 50 Hz; kompletter elektrischer Schaltschrank mit Schutzeinrichtung und auf Wunsch mitgeliefertem Schuko-Stecker."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kabel Typ H07-RNF serienmäßig mitgeliefert: Baureihe MBS: L = 20 m / Baureihen MBS-H und MBS-L: L = 2 m."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Spezifikationen"
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Qmax: 18 m³/h – Hmax: 113 m"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Temperatur der zu fördernden Flüssigkeit: min. 0 °C – max. 40 °C."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Maximal zulässige Sandmenge im Wasser: 50 g/m³."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Durchgang für Feststoffe: max. 2,5 mm (Baureihe X: 2 mm)."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Minimaler Flüssigkeitsstand: 100 mm ab der Unterkante des Ansaugsiebs."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Maximale Einsatztiefe: bis 70 m unter dem Wasserspiegel."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Installation"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die Pumpen der Baureihe MBS können in 6-Zoll-Tiefbrunnen als Unterwassermotorpumpen oder als Tauchmotorpumpen in offenen Brunnen, Becken, Bottichen oder Tanks installiert werden. Die Ausführungen MBS-H und MBS-L sind für die Aufstellung an der Oberfläche vorgesehen. Die Elektropumpen der Baureihe MBS eignen sich für den Betrieb mit Frequenzumrichter."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "MBS",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ": elektrische Tauchpumpe; MBS-CG: einphasige Ausführung mit Schwimmer."
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "KMBS",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ": Elektropumpe MBS + 20 m Kabel + Schwimmerschalter + Schaltschrank"
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "MBS-H",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ": Ausführung mit Saugblock mit Einlass 11″ G. MBS-L: Ausführung mit Inline-Ein- und Auslass."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Unverbindlich Kontakt aufnehmen"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "c54485a11ad8",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/merken-0025-saer.webp",
+          "alt": "SAER Elettropompe Logo in Blau und Grau",
+          "width": 120,
+          "height": 53
+        }
+      },
+      {
+        "_uid": "3fe2cc658ce5",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Interessiert an allen "
+                },
+                {
+                  "type": "text",
+                  "text": "SAER-Pumpen",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "? Sehen Sie sich unser gesamtes Sortiment an"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -43,22 +43,27 @@
         "default_value": false,
         "pos": 5
       },
+      "publication_date": {
+        "type": "text",
+        "description": "Veröffentlichungsdatum (JJJJ-MM-TT). Wird für das Artikel-Schema genutzt.",
+        "pos": 6
+      },
       "article": {
         "type": "richtext",
         "description": "Artikeltext. Zwischenüberschriften (H2) erzeugen das Inhaltsverzeichnis.",
         "rich_markdown": false,
-        "pos": 6
+        "pos": 7
       },
       "author": {
         "type": "text",
         "description": "Autor (optional, sonst Organisation).",
-        "pos": 7
+        "pos": 8
       },
       "tech": {
         "type": "boolean",
         "description": "Technischer Artikel (TechArticle).",
         "default_value": false,
-        "pos": 8
+        "pos": 9
       },
       "downloads": {
         "type": "bloks",
@@ -68,7 +73,7 @@
         ],
         "description": "Downloads.",
         "maximum": 1,
-        "pos": 9
+        "pos": 10
       },
       "related": {
         "type": "bloks",
@@ -78,7 +83,7 @@
         ],
         "description": "Verwandte Themen.",
         "maximum": 1,
-        "pos": 10
+        "pos": 11
       },
       "body": {
         "type": "bloks",
@@ -92,10 +97,13 @@
           "download_list",
           "steps",
           "related_links",
-          "image_text"
+          "image_text",
+          "image_block",
+          "data_table",
+          "button_row"
         ],
         "description": "Optionale Zusatz-Bausteine. Die Pflicht-Abschnitte sind im Template fest eingebaut.",
-        "pos": 11
+        "pos": 12
       },
       "tab-seo": {
         "type": "tab",

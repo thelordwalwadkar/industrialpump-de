@@ -1,0 +1,915 @@
+{
+  "id": 816444633,
+  "uuid": "30a9f4d9-a75f-d91a-f4a5-050fb1e12948",
+  "name": "Chemiepumpen",
+  "slug": "chemische-industrie",
+  "full_slug": "pumpen/branchen/chemische-industrie",
+  "position": 131,
+  "content": {
+    "component": "page_topic",
+    "h1": "Chemiepumpen",
+    "nav_title": "Chemiepumpen",
+    "seo_title": "Chemiepumpen: Typen, Auswahlkriterien und Normen",
+    "seo_description": "Chemiepumpen nach ISO 5199 und API für die chemische Industrie: Typen und Auswahlkriterien. Jetzt Beratung oder Angebot anfordern.",
+    "intro": "Chemiepumpen fördern Chemikalien und andere Flüssigkeiten in der chemischen Industrie und sind auf Korrosion, Verschleiß und strenge Sicherheitsvorschriften ausgelegt. Die Seite richtet sich an Betreiber, Planer und Einkäufer, die den passenden Pumpentyp für ihre Anwendung auswählen möchten.",
+    "topic_kind": "pumpentyp",
+    "body": [
+      {
+        "_uid": "116600482b44",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Chemiepumpen sind wichtige Maschinen in der chemischen Industrie zum Fördern von Flüssigkeiten wie Chemikalien und Brennstoffen. Sie sind in verschiedenen Typen erhältlich, etwa als Kreiselpumpen, Kolbenpumpen und Exzenterschneckenpumpen, und speziell auf die Anforderungen der chemischen Produktionsumgebung ausgelegt."
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Chemienormpumpen (ISO 5199)",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/pumpentypen/chemienormpumpen-iso-5199",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "API-Pumpen",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/pumpentypen/api-pumpen",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kreiselpumpen",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/pumpentypen/kreiselpumpen",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Goulds-Pumpen",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/marken/goulds",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Sulzer-Pumpen",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/marken/sulzer",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Lowara-Pumpen",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/marken/lowara",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Pumpen für chemische Anwendungen nach den Chemienormen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die chemische Industrie ist ein bedeutendes und anspruchsvolles Segment der Industrie, in dem der Transport chemischer Stoffe und Produkte von zentraler Bedeutung ist. Chemiepumpen spielen dabei eine wichtige Rolle, damit diese Materialien effizient und sicher gefördert werden."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "In der chemischen Industrie kommen verschiedene Pumpenarten zum Einsatz, jede mit eigenen Eigenschaften und Vorteilen. Zu den gängigsten Typen von Chemiepumpen gehören Kreiselpumpen, Kolbenpumpen, Dosierpumpen und Exzenterschneckenpumpen."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Speziell für unterschiedliche Viskositätsbereiche ausgelegt",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kreiselpumpen eignen sich zum Fördern von Flüssigkeiten mit niedriger Viskosität, Kolbenpumpen dagegen für Stoffe mit hoher Viskosität wie Öle und dickflüssige Chemikalien."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Präzise Dosierung und hoher Druck",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ":"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Dosierpumpen dosieren kleine Mengen chemischer Stoffe genau, während Exzenterschneckenpumpen hochviskose Stoffe unter hohem Druck effizient fördern."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Beständig gegen harte Einsatzbedingungen",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ":"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Diese Pumpen sind auf Beständigkeit gegen Korrosion und Verschleiß ausgelegt und erfüllen die strengen Sicherheitsvorschriften und Normen der chemischen Industrie."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Eine Auswahl der verschiedenen Typen von Chemiepumpen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kreiselpumpen werden häufig zum Fördern flüssiger Stoffe mit niedriger Viskosität eingesetzt, etwa Wasser und Chemikalien mit niedriger Viskosität. Kolbenpumpen eignen sich zum Fördern von Stoffen mit hoher Viskosität, etwa Ölen und dickflüssigen Chemikalien."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Dosierpumpen werden zum genauen Dosieren kleiner Mengen chemischer Stoffe verwendet, während Exzenterschneckenpumpen zum Fördern von Stoffen mit hoher Viskosität und hohem Druck eingesetzt werden."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die passende Chemiepumpe auswählen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bei der Wahl der richtigen Chemiepumpen für die chemische Industrie sind die chemische Zusammensetzung der geförderten Stoffe, die Temperatur und der Druck zu berücksichtigen. Wichtig ist außerdem eine Pumpe, die gegen Korrosion und Verschleiß beständig ist und die Sicherheitsvorschriften und Normen der chemischen Industrie erfüllt."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "In der chemischen Industrie sind Zuverlässigkeit und Langlebigkeit von großer Bedeutung, und die Wahl der richtigen Chemiepumpen ist dafür entscheidend. Mit hochwertigen und geeigneten Pumpen können Unternehmen der chemischen Industrie ihren Produktionsprozess optimieren, die Zuverlässigkeit erhöhen und die Kosten senken."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "59bb517730ef",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/segmenten-chemische-industrie.webp",
+          "alt": "Chemische Industrie | Industrial Pump Group",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      {
+        "_uid": "ac8bd0aadb1c",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Eine Auswahl unserer Kunden"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "86112c3e9256",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/homepage-logos-aeb.webp",
+          "alt": "Kundenlogo AEB",
+          "width": 387,
+          "height": 241
+        }
+      },
+      {
+        "_uid": "11af6b3ce4f4",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/homepage-logos-akzonobel.webp",
+          "alt": "Kundenlogo AkzoNobel",
+          "width": 387,
+          "height": 241
+        }
+      },
+      {
+        "_uid": "e65768949a25",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/homepage-logos-hvc.webp",
+          "alt": "Kundenlogo HVC",
+          "width": 387,
+          "height": 241
+        }
+      },
+      {
+        "_uid": "5586f07c33fd",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/homepage-logos-petrogas.webp",
+          "alt": "Kundenlogo Petrogas",
+          "width": 387,
+          "height": 241
+        }
+      },
+      {
+        "_uid": "49c4b69327bc",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/homepage-logos-tatasteel.webp",
+          "alt": "Kundenlogo Tata Steel",
+          "width": 387,
+          "height": 241
+        }
+      },
+      {
+        "_uid": "3c057c4e77fb",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/homepage-logos-waternet.webp",
+          "alt": "Kundenlogo Waternet",
+          "width": 387,
+          "height": 241
+        }
+      },
+      {
+        "_uid": "72e0c22e8d01",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Unverzichtbarer Partner mit fundiertem Fachwissen und Serviceorientierung!"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "IPG liefert immer wieder hochwertige Lösungen und hat stets die Komplexität unserer Prozesse im Blick. Die Produkte erfüllen die höchsten Sicherheitsanforderungen, was in unserer Branche wesentlich ist."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Verfahrensingenieur bei einem chemischen Produktionsbetrieb."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ausgezeichnete Qualität und stets lösungsorientiert!"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die Zusammenarbeit mit IPG verläuft reibungslos dank des umfassenden Wissens und der proaktiven Arbeitsweise. Das Team ist stets bereit, technische Herausforderungen zu lösen, und stellt die Kundenzufriedenheit an erste Stelle."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Technischer Leiter"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Zuverlässig und fachkundig in jeder Projektphase!"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "IPG liefert uns nicht nur Pumpen höchster Qualität, sondern denkt auch aktiv bei Projektplanung und Umsetzung mit. Die Unterstützung macht für unsere Betriebskontinuität den Unterschied."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Projektleiter Instandhaltung bei einem petrochemischen Unternehmen."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Schneller Service und spezialisierte Lösungen!"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wir schätzen die Fachkompetenz von IPG sehr. Das Team bietet praxisnahe Lösungen, die unsere Prozesse verbessern und strenge Umweltnormen erfüllen, was für uns wesentlich ist."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Umwelttechniker"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 4
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Unverbindlich Kontakt aufnehmen"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ich suche Chemiepumpen: Welche Angaben werden benötigt?"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bei der Wahl der richtigen Pumpe müssen Unternehmen der chemischen Industrie noch einige weitere Faktoren berücksichtigen. Nachfolgend finden Sie einige wichtige Überlegungen:"
+                }
+              ]
+            },
+            {
+              "type": "ordered_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Chemische Beständigkeit: Wichtig sind Chemiepumpen, die gegen die geförderten chemischen Stoffe beständig sind und mit diesen Stoffen nicht reagieren."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Temperatur: Manche Chemikalien lassen sich am besten bei bestimmten Temperaturen fördern. Deshalb ist eine Chemiepumpe zu wählen, die für diese Temperaturen geeignet ist."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Druck: Der Druck, der für den effizienten Transport der chemischen Stoffe erforderlich ist, variiert je nach Stoff und Anwendung. Wichtig ist eine Pumpe, die die jeweiligen Druckanforderungen erfüllt."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Installations- und Wartungsanforderungen: Manche Chemiepumpen erfordern mehr Installations- und Wartungsaufwand als andere. Unternehmen der chemischen Industrie sollten dies bei der Wahl der richtigen Pumpe berücksichtigen."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Sicherheit: Die chemische Industrie unterliegt besonderen Sicherheitsvorschriften und Normen. Wichtig ist eine Pumpe, die diese Normen erfüllt, um den Transport chemischer Stoffe sicherer zu machen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "ba2721bb3056",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-thermoplastic.webp",
+          "alt": "Kunststoffpumpen für die chemische Industrie | IPG",
+          "width": 850,
+          "height": 1000
+        }
+      },
+      {
+        "_uid": "a0c24089c881",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Mehr über Kunststoffpumpen lesen"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "b3ce4c8e7ef7",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-canned-motor-pumps.webp",
+          "alt": "Spaltrohrmotorpumpen für die chemische Industrie | IPG",
+          "width": 500,
+          "height": 500
+        }
+      },
+      {
+        "_uid": "fc3226081a0d",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Mehr über Spaltrohrmotorpumpen lesen"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "42d5297bd26f",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/logos-iso-logo-kleur.webp",
+          "alt": "ISO-Pumpen für die chemische Industrie | IPG",
+          "width": 300,
+          "height": 188
+        }
+      },
+      {
+        "_uid": "adcf57525967",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Mehr über ISO-Pumpen lesen"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "47fe9b888176",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/logos-api-logo-kleur.webp",
+          "alt": "API-Pumpen für die chemische Industrie | IPG",
+          "width": 300,
+          "height": 188
+        }
+      },
+      {
+        "_uid": "cb86391e6071",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Mehr über API-Pumpen lesen"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Beratung und Verkauf: die passende Lösung für Ihre Anwendung"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Es gibt viele verschiedene Pumpentypen und ebenso viele Anwendungen, zum Beispiel Tauchmotorpumpen, Umwälzpumpen oder Brunnenpumpen. Wegen dieser Vielfalt ist es sinnvoll, sich gut zu informieren, welcher Pumpentyp erforderlich ist, bevor Sie eine Pumpe anschaffen oder instand setzen lassen. Das IPG-Team mit mehreren Pumpenexperten berät Sie jederzeit zur passenden Lösung für Ihre Anwendung und unterstützt Sie außerdem bei Beschaffung und Installation der Pumpe."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "IPG pflegt zu mehreren Pumpenherstellern enge Beziehungen und kann Sie daher bei der Beschaffung vieler Pumpentypen und Marken gut beraten. So ist die Industrial Pump Group der niederländische Importeur von SAER und offizieller Händler unter anderem von Lowara, Grundfos und Seepex."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Warum jede Anwendung besondere Anforderungen stellt"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die chemische Industrie ist ein anspruchsvolles Umfeld, in dem die richtige Pumpenwahl von großer Bedeutung ist. Jede Anwendung in der chemischen Industrie hat eigene Anforderungen und Herausforderungen. Deshalb ist für jede Anwendung ein eigener Pumpentyp zu wählen, der die jeweiligen Anforderungen erfüllt."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "9dafbc72c69d",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/homepage-bg-cat-pompen.webp",
+          "alt": "CAT-Pumpen für die chemische Industrie",
+          "width": 1280,
+          "height": 559
+        }
+      },
+      {
+        "_uid": "c5eda829c912",
+        "component": "faq",
+        "heading": "Häufige Fragen",
+        "items": [
+          {
+            "_uid": "01d31c7eb77c",
+            "component": "faq_item",
+            "question": "Was sind die wichtigsten Überlegungen bei der Auswahl einer Pumpe für die chemische Industrie?",
+            "answer": "Chemische Beständigkeit: Wählen Sie eine Pumpe, die gegen die geförderten chemischen Stoffe beständig ist und mit diesen Stoffen nicht reagiert.\nTemperatur: Wählen Sie eine Pumpe, die für die Temperaturen geeignet ist, die für den Transport bestimmter Chemikalien erforderlich sind.\nDruck: Wählen Sie eine Pumpe, die die Druckanforderungen für den effizienten Transport chemischer Stoffe erfüllt.\nInstallations- und Wartungsanforderungen: Berücksichtigen Sie bei der Wahl der richtigen Pumpe den Aufwand für Installation und Wartung.\nSicherheit: Wählen Sie eine Pumpe, die die Normen und Vorschriften der chemischen Industrie erfüllt."
+          },
+          {
+            "_uid": "91965f7ead79",
+            "component": "faq_item",
+            "question": "Gibt es bestimmte Chemiepumpen, die für die chemische Industrie geeignet sind?",
+            "answer": "Ja, für die chemische Industrie gibt es bestimmte Arten von Chemiepumpen, etwa Magnetkupplungspumpen, Kreiselpumpen und Plungerpumpen. Wichtig ist, abzuwägen, welche Art am besten zur jeweiligen Anwendung und zu den Anforderungen passt."
+          },
+          {
+            "_uid": "b438f3733dd5",
+            "component": "faq_item",
+            "question": "Warum ist die chemische Beständigkeit bei der Pumpenauswahl für die chemische Industrie so wichtig?",
+            "answer": "Die chemische Beständigkeit ist wichtig, weil manche Chemikalien aggressiv sein und mit den Pumpen reagieren können. Das kann zu Schäden an den Chemiepumpen, einer fehlerhaften Förderleistung und möglichen Gefahren für Umgebung und Mitarbeiter führen."
+          },
+          {
+            "_uid": "5e1ae84070f8",
+            "component": "faq_item",
+            "question": "Wie bestimme ich die richtige Temperatur für den Transport meiner chemischen Stoffe?",
+            "answer": "Die richtige Temperatur hängt von den jeweiligen chemischen Stoffen und der Anwendung ab. Wichtig ist, die chemischen Eigenschaften der Stoffe zu berücksichtigen und gegebenenfalls Vorschriften und Regelwerke heranzuziehen, bevor über die richtige Temperatur entschieden wird."
+          }
+        ]
+      }
+    ]
+  }
+}

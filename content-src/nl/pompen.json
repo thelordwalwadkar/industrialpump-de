@@ -1,0 +1,123 @@
+{
+ "path": "/pompen",
+ "title": "Specialist in pompen | Industrial Pump Group",
+ "description": "Industrial Pump Group is dé merkonafhankelijke partner voor het leveren en/of reviseren van uw pomp(onderdelen). Bekijk onze webshop.",
+ "h1": "",
+ "ogImage": "",
+ "blocks": [
+  {
+   "t": "img",
+   "src": "/Files/Images/sfeer_fotos/shutterstock_160393526.jpg",
+   "alt": "industrial pump group"
+  },
+  {
+   "t": "h",
+   "l": 2,
+   "text": "Industrial Pump Group Specialist op het gebied van pompen"
+  },
+  {
+   "t": "p",
+   "text": "Met meer dan 30 jaar ervaring en diverse goede connecties met grote pompfabrikanten is de Industrial Pump Group dé merkonafhankelijke partner voor het leveren en/of reviseren van uw pomp(onderdelen). Onze website is zo opgebouwd dat u de meest geschikte pomp kunt opzoeken op basis van de gewenste: segment, toepassing, merk of pomptypen."
+  },
+  {
+   "t": "h",
+   "l": 2,
+   "text": "Segmenten"
+  },
+  {
+   "t": "list",
+   "ordered": false,
+   "items": [
+    "[Agro](/pompen/segmenten/agro)",
+    "[Chemische industrie](/pompen/segmenten/chemische-industrie)",
+    "[Olie- en gasindustrie](/pompen/segmenten/pompen-voor-de-olie-en-gas-industrie)",
+    "[Metaalindustrie](/pompen/segmenten/industriele-pompen)",
+    "[Waterbehandeling](/pompen/segmenten/industriele-pompen-voor-waterbehandeling)"
+   ]
+  },
+  {
+   "t": "h",
+   "l": 2,
+   "text": "Toepassingen"
+  },
+  {
+   "t": "list",
+   "ordered": false,
+   "items": [
+    "[Afvalwater](/pompen/toepassingen/afvalwater)",
+    "[Boiler feed](/pompen/toepassingen/boiler-feed)",
+    "[Drainage](/pompen/toepassingen/drainage)",
+    "[Fire fight](/pompen/toepassingen/brandblus)",
+    "[Koelwater](/pompen/toepassingen/koelwater)"
+   ]
+  },
+  {
+   "t": "h",
+   "l": 2,
+   "text": "Pomptypen"
+  },
+  {
+   "t": "list",
+   "ordered": false,
+   "items": [
+    "[API pompen](/pompen/pomptypen/api-pompen)",
+    "[Blokpompen](/pompen/pomptypen/blokpompen)",
+    "[Meertrapspompen](/pompen/pomptypen/meertrapspompen)",
+    "[Verticale turbinepompen](/pompen/pomptypen/verticale-turbinepompen)",
+    "[Wormpompen](/pompen/pomptypen/wormpompen)"
+   ]
+  },
+  {
+   "t": "h",
+   "l": 2,
+   "text": "Merken"
+  },
+  {
+   "t": "list",
+   "ordered": false,
+   "items": [
+    "[SAER](/pompen/merken/saer)",
+    "[Lowara](/pompen/merken/lowara)",
+    "[Flygt](/pompen/merken/flygt)",
+    "[Ebara](/pompen/merken/ebara)",
+    "[Homa](/pompen/merken/homa)"
+   ]
+  },
+  {
+   "t": "h",
+   "l": 2,
+   "text": "Innovatie sinds 1968 Geschiedenis van Lowara"
+  },
+  {
+   "t": "p",
+   "text": "Lowara werd in 1968 opgericht in Montecchio Maggiore, Italië, door de gebroeders Ghiotto. Wat begon als een kleine werkplaats groeide al snel uit tot een specialist in de productie van roestvaststalen pompen. Lowara liep voorop met het gebruik van lasergelast **AISI 304- en AISI 316**-roestvast staal, waardoor pompen ontstonden met een uitstekende corrosiebestendigheid, een lange levensduur en hygiënische eigenschappen voor watertransport."
+  },
+  {
+   "t": "p",
+   "text": "De eigendomsstructuur van het bedrijf ontwikkelde zich mee met de internationale pompindustrie. In 1986 werd Lowara overgenomen door **Goulds Pumps**, in 1997 maakte het deel uit van**ITT Industries** en sinds 2011 behoort het officieel tot**Xylem,** na de afsplitsing van Xylem van ITT. Gedurende al deze veranderingen behield Lowara zijn identiteit als hoogwaardige Europese pompfabrikant. Montecchio Maggiore is nog altijd het wereldwijde engineering- en productiecentrum van Xylem voor een groot deel van het Lowara-assortiment."
+  },
+  {
+   "t": "h",
+   "l": 2,
+   "text": "Lowara binnen Xylem"
+  },
+  {
+   "t": "p",
+   "text": "Sinds de aansluiting bij Xylem heeft Lowara zijn internationale positie verder versterkt en zijn technische expertise verder uitgebreid. In 2018 vierde het bedrijf zijn 50-jarig jubileum. Het hoofdkantoor in Italië is nog steeds een belangrijk centrum voor ontwerp, productie en technische ondersteuning. Xylem blijft investeren in deze locatie en ondersteunt daarnaast initiatieven zoals het Xylem Watermark-programma, dat wereldwijd de toegang tot schoon drinkwater en sanitaire voorzieningen verbetert. In 2025 werd bovendien het Europese distributienetwerk van Lowara verder uitgebreid dankzij de samenwerking van Xylem met de Tricel Group in Ierland."
+  },
+  {
+   "t": "h",
+   "l": 2,
+   "text": "Belangrijkste prestaties en toonaangevende projecten"
+  },
+  {
+   "t": "p",
+   "text": "Meer dan vijftig jaar innovatie hebben Lowara tot een van de meest erkende pompmerken binnen de industrie gemaakt. De roestvaststalen pomptechnologie van Lowara is toegepast in diverse internationale toonaangevende projecten, waaronder de Burj Khalifa in Dubai, het San Siro-stadion in Milaan en meerdere stadions die werden gebruikt tijdens het FIFA Wereldkampioenschap 2022 in Qatar. Deze projecten onderstrepen het vermogen van Lowara om betrouwbare prestaties te leveren onder de meest veeleisende omstandigheden."
+  }
+ ],
+ "words": 400,
+ "kind": "Pumpen-Hub (L1)",
+ "template": "T2 Hub",
+ "schema": "CollectionPage, ItemList, Service",
+ "dePath": "/pumpen"
+}

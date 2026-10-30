@@ -1,0 +1,45 @@
+{
+  "id": "meer-ipg__nieuws__blog-leidingspanning-vijand-voor-pompsystemen",
+  "seo_title": "Rohrleitungsspannungen in Pumpensystemen vermeiden",
+  "seo_description": "Rohrleitungsspannungen verkürzen die Lebensdauer von Pumpen und Rohren. Ursachen, Folgen und Maßnahmen im Überblick. Jetzt lesen und Anlage prüfen.",
+  "h1": "Rohrleitungsspannungen: Risiko für Pumpensysteme",
+  "intro": "Rohrleitungsspannungen sind mechanische Kräfte, die durch Druck, Temperaturänderungen und äußere Einflüsse auf Rohrleitungen wirken und Pumpen sowie Leitungen schädigen können. Der Beitrag erklärt für Betreiber und Planer, wie sie entstehen, wie sie sich auswirken und wie man sie minimiert.",
+  "blocks": [
+    { "t": "img", "src": "/Files/Images/Revisie/revisie-header-1.png", "alt": "Pumpe und Rohrleitung in der IPG-Werkstatt" },
+    { "t": "h", "l": 4, "text": "Risiko für Pumpensysteme: Rohrleitungsspannungen" },
+    { "t": "h", "l": 3, "text": "Was sind Rohrleitungsspannungen und wie beeinflussen sie Ihr Pumpensystem?" },
+    { "t": "p", "text": "Rohrleitungsspannungen sind ein wichtiger, aber oft unterschätzter Aspekt bei Auslegung und Betrieb von Pumpensystemen. Sie beeinflussen Zuverlässigkeit, Lebensdauer und Effizienz sowohl der Rohrleitungen als auch der Pumpen. In diesem Beitrag erklären wir, was Rohrleitungsspannungen genau sind, wie sie entstehen und was Sie tun können, um ihre negativen Auswirkungen zu minimieren." },
+    { "t": "h", "l": 3, "text": "Was sind Rohrleitungsspannungen?" },
+    { "t": "p", "text": "Rohrleitungsspannungen bezeichnen die mechanischen Kräfte, die durch Druck, Temperaturänderungen, Strömungsgeschwindigkeit und äußere Faktoren wie Abstützung und Bewegung der Rohrleitungen auf die Leitungen wirken. Diese Spannungen können zu Verformungen, Leckagen oder sogar Rohrbrüchen führen, was erhebliche Folgen für das Pumpensystem haben kann." },
+    { "t": "p", "text": "In Rohrleitungssystemen können verschiedene Arten von Spannungen auftreten:" },
+    { "t": "list", "ordered": false, "items": [
+      "**Thermische Spannung**: Sie entsteht durch Temperaturschwankungen der Flüssigkeit, die durch die Rohrleitung strömt. Wärme lässt Werkstoffe sich ausdehnen, Kälte lässt sie schrumpfen. Haben Rohrleitungen nicht genügend Bewegungsspielraum oder sind sie nicht richtig abgestützt, kann dies zu erheblichen Spannungen führen.",
+      "**Innere Druckspannung**: Dies ist die Spannung, die durch den Druck der Flüssigkeit in der Rohrleitung entsteht. Höherer Druck führt zu größeren Kräften auf die Rohrwände, was zu Verformung oder sogar zum Versagen der Leitung führen kann.",
+      "**Äußere Kräfte und Bewegungen**: Nicht richtig abgestützte Rohrleitungen können äußeren Kräften wie Wind, Maschinenschwingungen oder sogar seismischer Aktivität ausgesetzt sein. Das kann zu Biegung, Verdrehung oder anderen Verformungen führen."
+    ] },
+    { "t": "img", "src": "/Files/Images/Nieuws/leidingspanning.png", "alt": "Schema: Kräfte und Spannungen in einer Rohrleitung am Pumpenanschluss" },
+    { "t": "h", "l": 2, "text": "Wie beeinflussen Rohrleitungsspannungen Ihr Pumpensystem?" },
+    { "t": "p", "text": "Rohrleitungsspannungen wirken sich direkt und indirekt auf Betrieb und Lebensdauer Ihres Pumpensystems aus. Einige der wichtigsten Auswirkungen sind:" },
+    { "t": "list", "ordered": true, "items": [
+      "**Verkürzte Lebensdauer von Pumpen und Rohrleitungen**: Übermäßige Spannung kann zu schnellem Verschleiß von Pumpen und Rohrleitungen führen. Das erhöht die Wahrscheinlichkeit von Rissen, Leckagen und anderen mechanischen Problemen und kann die Lebensdauer Ihres Systems erheblich verkürzen.",
+      "**Unerwarteter Stillstand und Wartungskosten**: Rohrleitungsspannungen können unerwartete Störungen verursachen, die zum Stillstand des Systems führen. Das kann teure Reparaturen und Produktionsausfälle sowie höhere Wartungskosten nach sich ziehen.",
+      "**Effizienzverlust**: Stehen Rohrleitungen unter Spannung, können sie sich verformen, was die Strömung der Flüssigkeit beeinflusst. Das kann zu höheren Energieverlusten und einer geringeren Effizienz des Pumpensystems führen, was wiederum die Betriebskosten erhöht.",
+      "**Risiko von Leckagen und Umweltverschmutzung**: Spannungen können auch zu Leckagen führen, die nicht nur ein Sicherheitsrisiko darstellen, sondern auch Umweltverschmutzung verursachen können, besonders bei gefährlichen Flüssigkeiten.",
+      "**Ausrichten der Pumpen**: Neben den Rohrleitungsspannungen ist das korrekte Ausrichten von Pumpen und ihren Antriebsmotoren ein wesentlicher Bestandteil für einen zuverlässigen Betrieb Ihres Pumpensystems. Eine schlechte Ausrichtung kann zu unnötiger Belastung von Pumpe und Motor führen, was übermäßige Vibrationen, erhöhten Verschleiß und vorzeitige Ausfälle verursacht. Durch genaues Ausrichten der Pumpe minimieren Sie die mechanische Beanspruchung und sorgen dafür, dass sich die Kräfte gleichmäßig verteilen, was sowohl die Pumpe als auch das Rohrleitungssystem schützt."
+    ] },
+    { "t": "img", "src": "/Files/Images/Revisie/revisie-7.png", "alt": "Revision einer Pumpe in der Werkstatt" },
+    { "t": "h", "l": 3, "text": "Wie minimieren Sie Rohrleitungsspannungen?" },
+    { "t": "p", "text": "Es gibt verschiedene Maßnahmen, mit denen Sie Rohrleitungsspannungen minimieren und so Zuverlässigkeit und Lebensdauer Ihres Pumpensystems sichern können:" },
+    { "t": "list", "ordered": false, "items": [
+      "**Richtige Abstützung und Verankerung**: Sorgen Sie dafür, dass Rohrleitungen gut abgestützt und verankert sind, um Bewegungen zu minimieren. Flexible Kupplungen können außerdem eingesetzt werden, um thermische Ausdehnung und Schrumpfung aufzunehmen.",
+      "**Einsatz von Kompensatoren**: Kompensatoren können thermische Ausdehnung aufnehmen und so die Spannungen auf die Rohrleitungen verringern.",
+      "**Beurteilung und Berechnung von Spannungen**: Bei der Auslegung eines Pumpensystems sind Spannungsberechnungen wesentlich, um sicherzustellen, dass die Rohrleitungen den zu erwartenden Belastungen standhalten.",
+      "**Regelmäßige Wartung und Inspektion**: Durch regelmäßige Wartung und Inspektion können Sie spannungsbedingte Probleme frühzeitig erkennen und beheben, bevor sie zu größeren Störungen führen."
+    ] }
+  ],
+  "notes": {
+    "dropped": [],
+    "claims": [],
+    "nl_specific": []
+  }
+}

@@ -16,8 +16,8 @@ export const buildCaseStudy: Builder = (ctx) => {
     inLanguage: 'de-DE',
     author: org,
     publisher: org,
-    datePublished: ctx.story.first_published_at ?? ctx.story.created_at,
-    dateModified: ctx.story.published_at ?? ctx.story.updated_at,
+    datePublished: c.publication_date ?? ctx.story.first_published_at ?? ctx.story.created_at,
+    dateModified: ctx.story.published_at ?? ctx.story.updated_at ?? c.publication_date,
     about: relatedItems(ctx, c.products).map((p) => ({ '@type': 'Thing' as const, name: p.name, url: absoluteUrl(p.path) })),
     mainEntityOfPage: { '@id': ctx.id('webpage') },
   });

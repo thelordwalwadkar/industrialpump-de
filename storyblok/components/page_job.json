@@ -1,0 +1,127 @@
+{
+  "component": {
+    "name": "page_job",
+    "display_name": "T15 · Stellenanzeige (JobPosting)",
+    "is_root": true,
+    "is_nestable": false,
+    "schema": {
+      "h1": {
+        "type": "text",
+        "description": "Haupt-Überschrift (genau ein H1 pro Seite). Enthält das Hauptthema.",
+        "required": true,
+        "pos": 0
+      },
+      "intro": {
+        "type": "textarea",
+        "description": "Einleitung in höchstens zwei Sätzen: Was ist das und für wen? Wird als Zitat-Antwort gelesen.",
+        "required": true,
+        "max_length": 320,
+        "pos": 1
+      },
+      "nav_title": {
+        "type": "text",
+        "description": "Kurzname für Brotkrumen, Navigation und Karten (z. B. „DIWA-Serie“).",
+        "pos": 2
+      },
+      "seo_title": {
+        "type": "text",
+        "description": "Seitentitel für Google, höchstens 60 Zeichen.",
+        "max_length": 60,
+        "required": true,
+        "pos": 3
+      },
+      "seo_description": {
+        "type": "textarea",
+        "description": "Meta-Beschreibung, höchstens 155 Zeichen.",
+        "max_length": 155,
+        "required": true,
+        "pos": 4
+      },
+      "noindex": {
+        "type": "boolean",
+        "description": "Nur für Sonderfälle: Seite von der Suche ausschließen. Rechtstexte bleiben indexierbar.",
+        "default_value": false,
+        "pos": 5
+      },
+      "job_title": {
+        "type": "text",
+        "description": "Berufsbezeichnung für das JobPosting-Schema.",
+        "pos": 6
+      },
+      "employment_type": {
+        "type": "option",
+        "source": "self",
+        "options": [
+          {
+            "name": "Vollzeit",
+            "value": "FULL_TIME"
+          },
+          {
+            "name": "Teilzeit",
+            "value": "PART_TIME"
+          },
+          {
+            "name": "Werkstudent/Praktikum",
+            "value": "INTERN"
+          }
+        ],
+        "description": "Anstellungsart.",
+        "pos": 7
+      },
+      "date_posted": {
+        "type": "text",
+        "description": "Veröffentlichungsdatum der Stelle (JJJJ-MM-TT). Ohne Datum wird es nicht ausgegeben.",
+        "pos": 8
+      },
+      "valid_through": {
+        "type": "text",
+        "description": "Bewerbungsschluss (JJJJ-MM-TT), optional.",
+        "pos": 9
+      },
+      "location_note": {
+        "type": "text",
+        "description": "Einsatzort (Ort, Land). Ohne Angabe wird kein Ort ausgegeben.",
+        "pos": 10
+      },
+      "faq": {
+        "type": "bloks",
+        "restrict_components": true,
+        "component_whitelist": [
+          "faq"
+        ],
+        "description": "FAQ-Block (3–5 Fragen). Erzeugt auch FAQPage-Daten.",
+        "maximum": 1,
+        "pos": 11
+      },
+      "body": {
+        "type": "bloks",
+        "restrict_components": true,
+        "component_whitelist": [
+          "rich_text",
+          "card_grid",
+          "cta_band",
+          "faq",
+          "spec_table",
+          "download_list",
+          "steps",
+          "related_links",
+          "image_text",
+          "image_block",
+          "data_table",
+          "button_row"
+        ],
+        "description": "Optionale Zusatz-Bausteine. Die Pflicht-Abschnitte sind im Template fest eingebaut.",
+        "pos": 12
+      },
+      "tab-seo": {
+        "type": "tab",
+        "display_name": "SEO",
+        "keys": [
+          "seo_title",
+          "seo_description",
+          "noindex"
+        ]
+      }
+    }
+  }
+}

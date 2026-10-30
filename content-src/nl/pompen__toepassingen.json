@@ -1,0 +1,55 @@
+{
+ "path": "/pompen/toepassingen",
+ "title": "Toepassingen",
+ "description": "Industriële pompen kunnen binnen hun segment voor diverse toepassingen worden toegepast.",
+ "h1": "",
+ "ogImage": "",
+ "blocks": [
+  {
+   "t": "img",
+   "src": "/Files/Images/sfeer_fotos/shutterstock_160393526.jpg",
+   "alt": ""
+  },
+  {
+   "t": "h",
+   "l": 3,
+   "text": "Bekijk al onze Toepassingen"
+  },
+  {
+   "t": "p",
+   "text": "Industriële pompen kunnen binnen hun [segment](/pompen/segmenten) voor diverse toepassingen worden toegepast."
+  },
+  {
+   "t": "p",
+   "text": "De Industrial Pump Group (IPG) is uw merkonafhankelijke partner op het gebied van industriële pompen. Wij hebben meer dan 30 jaar ervaring en zijn sterk in vele segmenten en heel wat toepassingen. Enkele van deze toepassingen zijn terug te vinden op deze pagina."
+  },
+  {
+   "t": "list",
+   "ordered": false,
+   "items": [
+    "[Afvalwater](/pompen/toepassingen/afvalwater)",
+    "[Bagger](/pompen/toepassingen/bagger)",
+    "[Boiler feed](/pompen/toepassingen/boiler-feed)",
+    "[Brand blussen](/pompen/toepassingen/brandblus)",
+    "[Desalinatie](/pompen/toepassingen/desalinatie)",
+    "[Drainage](/pompen/toepassingen/drainage)",
+    "[Drinkwater](/pompen/toepassingen/drinkwater)",
+    "[Koelwater](/pompen/toepassingen/koelwater)",
+    "[Proceswater](/pompen/toepassingen/proceswater)"
+   ]
+  },
+  {
+   "t": "h",
+   "l": 4,
+   "text": "Vrijblijvend Contact opnemen"
+  },
+  {
+   "t": "form"
+  }
+ ],
+ "words": 72,
+ "kind": "Anwendungen-Hub (L2)",
+ "template": "T2 Hub",
+ "schema": "CollectionPage, ItemList",
+ "dePath": "/pumpen/anwendungen"
+}

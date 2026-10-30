@@ -1,0 +1,38 @@
+{
+ "path": "/meer-ipg/nieuws",
+ "title": "Nieuws",
+ "description": "",
+ "h1": "",
+ "ogImage": "",
+ "blocks": [
+  {
+   "t": "h",
+   "l": 2,
+   "text": "Blijf op de hoogte"
+  },
+  {
+   "t": "p",
+   "text": "Lees hier het laatste IPG nieuws"
+  },
+  {
+   "t": "list",
+   "ordered": false,
+   "items": [
+    "[Nieuws](/meer-ipg/nieuws/ipg-jinc)",
+    "[Blog](/meer-ipg/nieuws/atex-pompen-kiezen-voor-zone-1-en-zone-2)",
+    "[Blog](/meer-ipg/nieuws/blog-de-ultieme-gids-voor-de-boiler-feed-pomp)",
+    "[Blog](/meer-ipg/nieuws/de-ultieme-gids-voor-baggerpompen)",
+    "[Blog](/meer-ipg/nieuws/blog-het-in-bedrijf-stellen-van-een-pomp)",
+    "[Blog](/meer-ipg/nieuws/blog-reviseren-of-nieuw-kopen-5-checkpoints-voor-een-slimme-keuze)",
+    "[Nieuws](/meer-ipg/nieuws/jong-talent-enthousiast-maken-voor-techniek-tijdens-de-doe-dag)",
+    "[Nieuws](/meer-ipg/nieuws/ontzorgen-van-pompbehoeftes-in-nederland)",
+    "[Blog](/meer-ipg/nieuws/blog-verdringerpompen-wormpompen-versus-schroefpompen)"
+   ]
+  }
+ ],
+ "words": 19,
+ "kind": "News-Hub",
+ "template": "T12 Listing",
+ "schema": "CollectionPage, ItemList",
+ "dePath": "/ueber-uns/blog"
+}

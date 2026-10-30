@@ -2,7 +2,8 @@
 /** T7 · page_service — Intro · Ablauf · Was enthalten ist · abgedeckte Pumpentypen/Marken · FAQ · CTA. Revision-Seiten nutzen die Overhaul-Farbe. */
 import type { PageService, PageStory } from '../lib/types';
 import type { Site } from '../lib/storyblok';
-import { quoteHref } from '../lib/linking';
+import { childCards, quoteHref } from '../lib/linking';
+import LinkCards from '../components/LinkCards.astro';
 import PageHead from '../components/PageHead.astro';
 import RichTextHtml from '../components/RichTextHtml.astro';
 import FaqList from '../components/FaqList.astro';
@@ -14,11 +15,13 @@ interface Props { story: PageStory<PageService>; site: Site }
 const { story, site } = Astro.props;
 const c = story.content;
 const isRevision = c.service_kind === 'revision' || c.service_kind === 'revision-typ';
+const cards = childCards(site, story);
 const cta = isRevision ? { heading: 'Revision anfragen', label: 'Revision anfragen', href: quoteHref(site, story, 'revision') } : { heading: 'Anfrage senden', label: 'Angebot anfordern', href: quoteHref(site, story) };
 ---
 <PageHead story={story} site={site} h1={c.h1 || story.name} intro={c.intro} accent={isRevision} />
 {c.steps?.map((b) => <Steps blok={b} />)}
 {c.included && <section class="section"><div class="wrap"><h2>Was enthalten ist</h2><RichTextHtml doc={c.included} /></div></section>}
+{cards.length > 0 && <section class="section"><div class="wrap"><h2>Unsere Leistungen im Überblick</h2><LinkCards cards={cards} variant="index" showImage={false} /></div></section>}
 {c.covered?.map((b) => <RelatedLinks blok={b} site={site} />)}
 <Bloks bloks={c.body} site={site} />
 <div class="wrap"><FaqList faqs={c.faq} /></div>

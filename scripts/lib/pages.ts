@@ -20,7 +20,7 @@ export function configStory(): SeedStory {
     header_nav: [navItem('Pumpen', 'pumpen'), navItem('Marken', 'pumpen/marken')],
     footer_groups: [
       { _uid: uid('fg-pumpen'), component: 'nav_group', label: 'Pumpen', items: [navItem('Alle Pumpen', 'pumpen'), ...BRANDS.map((b) => navItem(b.name, `pumpen/marken/${b.slug}`))] },
-      { _uid: uid('fg-firma'), component: 'nav_group', label: 'Unternehmen', items: [navItem('Angebot anfordern', 'angebot'), navItem('Kontakt', 'kontakt')] },
+      { _uid: uid('fg-firma'), component: 'nav_group', label: 'Unternehmen', items: [navItem('Angebot anfordern', 'angebot'), navItem('Ersatzpumpe', 'ersatzpumpe'), navItem('Rückruf anfordern', 'rueckruf'), navItem('Häufige Fragen', 'haeufige-fragen'), navItem('Kontakt', 'kontakt')] },
       { _uid: uid('fg-recht'), component: 'nav_group', label: 'Rechtliches', items: [navItem('Impressum', 'impressum'), navItem('Datenschutz', 'datenschutz'), navItem('AGB', 'agb')] },
     ],
   });

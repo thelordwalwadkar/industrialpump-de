@@ -37,7 +37,8 @@ const seo = buildSeo(site, story);
 if (page > 1) {
   // Pagination pages need their own title and description (duplicates dilute the listing).
   const tail = ` Seite ${page}.`;
-  seo.title = `${seo.title} – Seite ${page}`.slice(0, 60);
+  const suffix = ` – Seite ${page}`;
+  seo.title = `${seo.title.slice(0, 60 - suffix.length).replace(/\s+\S*$/, '')}${suffix}`;
   seo.description = (seo.description.length + tail.length <= 155 ? seo.description : seo.description.slice(0, 155 - tail.length).replace(/\s+\S*$/, '')) + tail;
   seo.canonical = `${seo.canonical}/seite/${page}`;
 }

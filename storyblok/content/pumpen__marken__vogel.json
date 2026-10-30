@@ -1,0 +1,439 @@
+{
+  "id": 449411072,
+  "uuid": "1ac97800-9cdb-7fec-81f5-a4db1fbe7d1d",
+  "name": "Offizieller Händler von Vogel",
+  "slug": "vogel",
+  "full_slug": "pumpen/marken/vogel",
+  "position": 101,
+  "content": {
+    "component": "page_brand",
+    "h1": "Offizieller Händler von Vogel",
+    "nav_title": "Offizieller Händler von Vogel",
+    "seo_title": "Vogel-Pumpen: Chemienormpumpen, ATEX, Ersatzteile",
+    "seo_description": "Vogel-Pumpen (Xylem/Lowara) für Wasser, Chemie und explosionsgefährdete Bereiche: Ersatzteile, Revision und Ersatz durch Lowara E-IXP. Jetzt anfragen.",
+    "intro": "Vogel ist ein österreichischer Pumpenhersteller, der zu Xylem gehört und heute unter der Marke Lowara geführt wird. Die Industrial Pump Group liefert Ersatzteile, überholt Vogel-Pumpen und bietet als offizieller Lowara-Händler Ersatz für bestehende Vogel-Pumpen.",
+    "brand_name": "Vogel",
+    "body": [
+      {
+        "_uid": "8119442bc7aa",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Offizieller Händler von Vogel"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Der österreichische Pumpenhersteller „Vogel“ gehört heute zur Marke Xylem. Vogel-Pumpen sind auf verschiedene Anwendungen ausgerichtet: von Reinwasser über chemische Stoffe bis hin zu explosionsgefährdeten Stoffen. Die Pumpen stehen für Qualität, Zuverlässigkeit und Effizienz."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Vogel-Baureihen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Nachfolgend finden Sie einige Baureihen von Vogel-Pumpen. Ist die gewünschte Pumpe nicht dabei? Dann nehmen Sie unverbindlich "
+                },
+                {
+                  "type": "text",
+                  "text": "Kontakt",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/kontakt",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " mit uns auf."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "06aafd71ec8e",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-vogel-vogel-lsn.webp",
+          "alt": "Vogel LSN Chemienormpumpe nach ATEX und ISO 2858, bis 450 m³/h",
+          "width": 150,
+          "height": 145
+        }
+      },
+      {
+        "_uid": "f4bdb34fbd09",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Vogel Baureihe LSN"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Chemienormpumpe mit axialem Saugstutzen (ATEX) nach ISO 2858 / DIN 24256."
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "Förderstrom bis 450 m³/h."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "4c38bbcecf72",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-vogel-vogel-lsb.webp",
+          "alt": "Vogel LSB mehrstufige Kreiselpumpe mit B5-Motor, geeignet für -40 bis 180 °C",
+          "width": 150,
+          "height": 120
+        }
+      },
+      {
+        "_uid": "f827387f5619",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Vogel Baureihe LSB"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Horizontale mehrstufige Pumpe nach ISO 2858 mit B5-Motor (ATEX)."
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "Geeignet zum Fördern von Medien mit einer Temperatur von -40 bis 180 °C."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "64b561f21ce9",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-vogel-vogel-ln.webp",
+          "alt": "Vogel LN/L Normpumpe aus Edelstahl nach EN 733 und DIN 24255, bis 600 m³/h",
+          "width": 150,
+          "height": 150
+        }
+      },
+      {
+        "_uid": "0b6f478ef5a5",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Vogel Baureihe LN, L"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Normpumpe aus Edelstahl nach EN 733 / DIN 24255."
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "Förderstrom: bis 600 m³/h."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "813f4bdc6127",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-lowara-lowara-e-ixp-2.webp",
+          "alt": "Lowara E-IXP Chemienormpumpe als Ersatz für verschiedene Vogel-Modelle",
+          "width": 500,
+          "height": 500
+        }
+      },
+      {
+        "_uid": "e4ee0ddd5fa2",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Vogel-Ersatz: Lowara Baureihe E-IXP"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die Chemienormpumpe von Lowara."
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "Ein geeigneter Ersatz für verschiedene Vogel-Pumpen."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Unverbindlich Kontakt aufnehmen"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Eine Marke von Xylem: Vogel ist jetzt Lowara"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wegen des konsequenten Fokus auf den Industriemarkt wird Vogel Pumpen seit einigen Jahren unter der Flaggschiffmarke von Xylem fortgeführt: Lowara."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Künftig wird Vogel Pumpen als Lowara Vogel-Baureihe bezeichnet und Teil des gesamten Lowara-Pumpenportfolios sein. Die neu bezeichnete Lowara Vogel-Baureihe umfasst Pumpen für die Schwerindustrie wie mehrstufige Pumpen und große Brunnenpumpen."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die Lowara Vogel-Baureihe setzt das 105-jährige Erbe von Vogel im Sektor der schweren Industriepumpen fort und ist daher weiterhin bei der Industrial Pump Group Niederlande erhältlich. Das Team verfügt neben langjähriger Erfahrung mit Vogel-Pumpen auch über viel Erfahrung mit dem Lowara-Produkt."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die Pumpen der Lowara Vogel-Baureihe erweitern das Lowara-Angebot deutlich und dehnen das mögliche Einsatzgebiet über den gewerblichen und privaten Bereich hinaus auf neue Industriesektoren aus, etwa Öl und Gas, Bergbau, Energieerzeugung und Stahlwerke; damit wird die Position von Lowara im Markt für Pumpenlösungen gestärkt."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Vogel-Pumpen für industrielle Anwendungen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Diese Pumpen werden im Industriemarkt häufig eingesetzt. Das ist naheliegend, denn verschiedene Typen sind in ATEX-Ausführung erhältlich. Die Pumpen eignen sich auch gut zum Fördern chemischer Stoffe. Die verschiedenen Pumpentypen erreichen einen Förderstrom von ca. 5.000 m³/h und eine Förderhöhe von 850 m Wassersäule."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Vogel Ersatzteile und Revision"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Auch wenn Vogel-Pumpen als Lowara fortgeführt werden, unterstützt Sie die Industrial Pump Group Niederlande bei der Lieferung von Ersatzteilen oder der Revision Ihrer Vogel-Pumpe."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ersatz einer Vogel-Pumpe: offizieller Lowara-Händler"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Als offizieller Lowara-Händler mit mehr als 30 Jahren Erfahrung in der Pumpenbranche ist die Industrial Pump Group Ansprechpartner für Beratung, Revision und Lieferung neuer Pumpen als Ersatz für Ihre bestehende Vogel-Pumpe."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "68e20a040f1c",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/homepage-bg-cat-pompen.webp",
+          "alt": "CAT-Pumpen für die chemische Industrie",
+          "width": 1280,
+          "height": 559
+        }
+      },
+      {
+        "_uid": "c9ee3395b80f",
+        "component": "faq",
+        "heading": "Häufige Fragen",
+        "items": [
+          {
+            "_uid": "0b1bc8727e79",
+            "component": "faq_item",
+            "question": "Was sind Vogel-Pumpen?",
+            "answer": "Vogel-Pumpen sind Industriepumpen der Marke Vogel, die zu Xylem gehört. Sie sind für hohe Zuverlässigkeit, robuste Bauweise und Präzision bekannt. Vogel ist auf Pumpen für anspruchsvolle industrielle Anwendungen spezialisiert, bei denen Dauerbetrieb, exakte Leistung und eine lange Lebensdauer wesentlich sind. Die Pumpen werden häufig als Prozess- und Hilfspumpen in komplexen Anlagen eingesetzt."
+          },
+          {
+            "_uid": "2a2be7662d1f",
+            "component": "faq_item",
+            "question": "Wofür werden Vogel-Pumpen eingesetzt?",
+            "answer": "Vogel-Pumpen werden vor allem in industriellen Umgebungen eingesetzt, in denen ein stabiles und zuverlässiges Fördern erforderlich ist. Typische Anwendungen sind:\n- Kühl- und Schmiersysteme in industriellen Prozessen\n- Maschinenbau und Produktionsanlagen\n- Energieerzeugung und Schwerindustrie\n- Wasser- und Flüssigkeitsumwälzung in Prozessanlagen\nDank ihrer konstanten Leistung eignen sich Vogel-Pumpen für kritische Prozesse, bei denen ein Stillstand große Folgen haben kann."
+          },
+          {
+            "_uid": "dfdc578e1abe",
+            "component": "faq_item",
+            "question": "Welche Arten von Vogel-Pumpen gibt es?",
+            "answer": "Das Sortiment an Vogel-Pumpen umfasst unter anderem:\n- Kreiselpumpen für industrielle Flüssigkeiten\n- Horizontale und vertikale Pumpen für Prozessanwendungen\n- Hochdruckpumpen für besondere industrielle Anforderungen\n- Pumpen in verschiedenen Werkstoffen, abgestimmt auf Medium und Betriebsbedingungen\nJede Baureihe wurde für ein bestimmtes Einsatzgebiet entwickelt, sodass für unterschiedliche industrielle Prozesse eine passende Lösung möglich ist."
+          },
+          {
+            "_uid": "aa334678637c",
+            "component": "faq_item",
+            "question": "Lassen sich Vogel-Pumpen einfach warten?",
+            "answer": "Ja, Vogel-Pumpen wurden mit Blick auf eine einfache Wartung konstruiert. Der modulare Aufbau ermöglicht es, Inspektion, Revision und Austausch von Ersatzteilen effizient durchzuführen. Das begrenzt Stillstandszeiten und trägt zu niedrigen Lebenszykluskosten bei, wodurch sich Vogel-Pumpen besonders für den Dauerbetrieb in der Industrie eignen."
+          }
+        ]
+      }
+    ]
+  }
+}

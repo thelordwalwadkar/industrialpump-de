@@ -19,7 +19,7 @@ const warnings: string[] = [];
 const TEMPLATE: Record<string, string> = {
   page_home: 'T1 HomeTemplate', page_hub: 'T2 HubTemplate', page_topic: 'T3 TopicTemplate', page_brand: 'T4 BrandTemplate', page_series: 'T5 SeriesTemplate',
   page_product: 'T6 ProductTemplate', page_service: 'T7 ServiceTemplate', page_course: 'T8 CourseTemplate', page_knowledge: 'T9 KnowledgeTemplate',
-  page_blog_post: 'T10 BlogPostTemplate', page_case_study: 'T11 CaseStudyTemplate', page_listing: 'T12 ListingTemplate', page_contact: 'T13 ContactTemplate', page_legal: 'T14 LegalTemplate',
+  page_blog_post: 'T10 BlogPostTemplate', page_case_study: 'T11 CaseStudyTemplate', page_listing: 'T12 ListingTemplate', page_contact: 'T13 ContactTemplate', page_legal: 'T14 LegalTemplate', page_job: 'T15 JobTemplate', page_about: 'T16 AboutTemplate', page_faq: 'T17 FaqTemplate',
 };
 /** Word-count targets from the brief, per template (min, max). Product: short description only, see below. */
 const TARGET: Record<string, [number, number]> = {
@@ -44,7 +44,7 @@ const files: string[] = [];
   }
 })(root);
 
-const routeOf = (file: string) => '/' + relative(root, file).replace(/\\/g, '/').replace(/index\.html$/, '').replace(/\.html$/, '');
+const routeOf = (file: string) => '/' + relative(root, file).replace(/\\/g, '/').replace(/(^|\/)index\.html$/, '$1').replace(/\.html$/, '');
 const builtRoutes = new Set(files.map(routeOf));
 const normalise = (r: string) => (r.length > 1 ? r.replace(/\/$/, '') : r);
 
@@ -78,8 +78,11 @@ for (const file of files) {
   const words = (text.match(/[\p{L}\p{N}][\p{L}\p{N}.,/%°³²\-–+]*/gu) ?? []).length;
 
   // English scan: German pages must not contain these function words (spec tables excluded: they hold product codes)
-  const prose = (() => { const c = main?.cloneNode(true) as Element | undefined; c?.querySelectorAll('script,style,table,.facts,.cta').forEach((n) => n.remove()); return (c?.textContent ?? '').replace(/\s+/g, ' '); })();
-  const en = prose.match(/\b(the|and|with|read more|learn more|click here|submit|your|our|please|home page)\b/g);
+  // English proper names that stay English inside German sentences
+  const PROPER = /Heating, Ventilation and Air Conditioning|Food and Drug Administration/g;
+  const prose = (() => { const c = main?.cloneNode(true) as Element | undefined; c?.querySelectorAll('script,style,table,.facts,.cta').forEach((n) => n.remove()); return (c?.textContent ?? '').replace(/\s+/g, ' ').replace(PROPER, ''); })();
+  // hyphenated compounds such as "Plug-and-play" are loanwords, not English sentences
+  const en = prose.match(/(?<![\p{L}-])(the|and|with|read more|learn more|click here|submit|your|our|please|home page)(?![\p{L}-])/gu);
   if (en && !isErrorPage) errors.push(`${route}: English text found: ${[...new Set(en)].join(', ')}`);
 
   const hrefs = [...document.querySelectorAll('a[href]')].map((a) => a.getAttribute('href')!).filter((h) => h.startsWith('/') && !h.startsWith('//'));

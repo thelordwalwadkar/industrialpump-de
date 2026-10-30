@@ -1,0 +1,223 @@
+{
+  "id": 3820743355,
+  "uuid": "e3bbeabb-6c65-8103-08ea-c41eec03d40d",
+  "name": "Kurs Wellen und Lager",
+  "slug": "wellen-und-lager",
+  "full_slug": "ueber-uns/pumpenschule/wellen-und-lager",
+  "position": 48,
+  "content": {
+    "component": "page_course",
+    "h1": "Kurs Wellen und Lager",
+    "nav_title": "Kurs Wellen und Lager",
+    "seo_title": "Kurs Wellen und Lager: Inspektion, Montage, Schmierung",
+    "seo_description": "Kurs Wellen und Lager für Instandhaltung, Maschinenbau und Produktion: Bauformen, Schmierung, Inspektion und Montage. Jetzt Kurs vor Ort anfragen.",
+    "intro": "Der Kurs Wellen und Lager der IPG Pumpenschule behandelt Bauformen, Einsatz, Schmierung, Inspektion und Montage von Wellen und Lagern in Pumpen und Maschinen. Er richtet sich an Fachleute in Industrie, Maschinenbau, Produktion und Instandhaltung.",
+    "body": [
+      {
+        "_uid": "4e4d520dc6f8",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/sfeer-fotos-ipg-onderdelen2.webp",
+          "alt": "Pumpenteile wie Wellen und Lager in der Werkstatt",
+          "width": 1280,
+          "height": 493
+        }
+      },
+      {
+        "_uid": "1eab7d991eb5",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 4
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kurs Wellen und Lager"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wellen und Lager sind Bauteile von Pumpen und Maschinen, die Bewegungen gleichmäßig und reibungsarm ablaufen lassen. Eine Welle ist ein zentrales Bauteil, das Komponenten miteinander verbindet und in Drehung oder Bewegung versetzt. Ein Lager hält eine Welle an ihrer Position und erleichtert den Dreh- oder Bewegungsvorgang. Gemeinsam tragen sie zu Leistung und Zuverlässigkeit von Maschinen und Anlagen bei, indem sie Reibung und Verschleiß verringern."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Der Kurs Wellen und Lager richtet sich an Personen in Industrie, Maschinenbau, Produktion und Instandhaltung. Er behandelt die verschiedenen Arten von Wellen und Lagern und ihre Einsatzbereiche sowie die Verfahren für Inspektion, Austausch und Montage. Außerdem werden die wichtigsten Merkmale jedes Wellen- und Lagertyps sowie Sicherheit und Qualität bei der Auswahl und Verwendung der richtigen Bauteile besprochen. Der Kurs ist nützlich für alle, die wissen möchten, wie sie diese wesentlichen Bauteile richtig einsetzen."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "edffe9173376",
+        "component": "faq",
+        "heading": "Häufige Fragen",
+        "items": [
+          {
+            "_uid": "0015719b55da",
+            "component": "faq_item",
+            "question": "Welche Inhalte vermittelt der Kurs Wellen und Lager?",
+            "answer": "Werkstoffe, Qualitätseinteilung\nAllgemeine Anwendungen mit Begründung und Einteilung in:\nWellen und Kräfte\nWälzlager\nAusführung und Funktion von Gleitlagern\nAusführung und Funktion von Wälzlagern\nAusführung und Funktion von Linearlagern\nNachschmierstellen\nSchmierung\nInspektion, Wartung sowie Aus- und Einbau von Wellen und Lagern"
+          },
+          {
+            "_uid": "501f1e47399a",
+            "component": "faq_item",
+            "question": "Für wen ist der Kurs Wellen und Lager gedacht?",
+            "answer": "Der Kurs richtet sich an Personen, die keine Kenntnisse über Wellen und Lager haben, aber im Arbeitsalltag damit in Berührung kommen. Er eignet sich besonders für Monteure, Operatoren, Verkäufer, Konstrukteure und Einkäufer, die Wissen über Wellen und Lager oder deren Wartung aufbauen möchten."
+          }
+        ]
+      },
+      {
+        "_uid": "cf10b1e6b663",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kurs für Ihre Organisation"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bei den Kursen der Industrial Pump Group ist es üblich, dass die Organisation den Kurs für ihre Mitarbeiter ausrichtet. Der Kursleiter von IPG kommt zu Ihnen vor Ort und hält den Kurs an einem oder mehreren Tagen. Andere Formen sind ebenfalls denkbar, etwa ein Einzelkurs mit dem Kursleiter."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Möchten Sie alle Möglichkeiten kennenlernen?",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "Das IPG-Team mit engagierten Pumpenexperten steht für Sie bereit."
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "Nehmen Sie schnell über das Formular Kontakt auf oder rufen Sie"
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "werktags zwischen 08:00 und 17:00 Uhr an."
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "Tel. [[PLATZHALTER: Telefon]]",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kurs Grundlagen Pumpen"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kurs Inspektion und Wartung"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kurs Gleitringdichtungen / Mechanical Seals"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kurs Armaturen und Ventile"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kurs Wellen und Lager"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

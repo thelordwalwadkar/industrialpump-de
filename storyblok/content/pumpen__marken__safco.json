@@ -1,0 +1,399 @@
+{
+  "id": 3458666307,
+  "uuid": "ce270f43-66f7-7e16-1e35-aa5f2b65848b",
+  "name": "Safco-Pumpen und Ersatzteile",
+  "slug": "safco",
+  "full_slug": "pumpen/marken/safco",
+  "position": 96,
+  "content": {
+    "component": "page_brand",
+    "h1": "Safco-Pumpen und Ersatzteile",
+    "nav_title": "Safco-Pumpen und Ersatzteile",
+    "seo_title": "Safco-Pumpen: API-Pumpen und Ersatzteile von IPG",
+    "seo_description": "Safco-Pumpen nach API 610 für Öl, Gas und Chemie: Baureihen SBB2 bis SBB5, Ersatzteile und Revision. Jetzt Beratung oder Angebot anfordern.",
+    "intro": "Safco ist ein Pumpenhersteller mit europäischer Zentrale in Österreich, dessen API-Pumpen für Öl, Gas, Chemie und weitere Industrien ausgelegt sind. Die Industrial Pump Group liefert Safco-Pumpen und unterstützt bei Installation, Wartung und Reparatur.",
+    "brand_name": "Safco",
+    "body": [
+      {
+        "_uid": "dbaa61327af7",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Lieferant für Safco"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ihr zuverlässiger Partner für Safco-Pumpen und Ersatzteile"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Safco Pumps ist eine Marke, die sich auf die Herstellung hochwertiger Pumpen konzentriert. Die europäische Zentrale befindet sich in Österreich, das Unternehmen verfügt über mehr als 20 Jahre Erfahrung in der Industrie. Mit Fokus auf Innovation, Qualität und Nachhaltigkeit hat sich Safco Pumps zu einem Lieferanten von Pumpen für ein breites Spektrum an Anwendungen entwickelt."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Safco-Baureihen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Nachfolgend finden Sie einige Baureihen von Safco-Pumpen. Ist die gewünschte Pumpe nicht dabei? Dann nehmen Sie unverbindlich "
+                },
+                {
+                  "type": "text",
+                  "text": "Kontakt",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/kontakt",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " mit uns auf."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "1eacd0b51af5",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-handol-handol-rt.webp",
+          "alt": "Safco Baureihe SBB2 | Industrial Pump Group",
+          "width": 1053,
+          "height": 664
+        }
+      },
+      {
+        "_uid": "94cc70ffb286",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Safco Baureihe SBB2"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "API 610 / ISO 13709, Bauart BB2"
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "Radial geteilte zweistufige Pumpe"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "172510154173",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-handol-handol-asm.webp",
+          "alt": "Safco Baureihe SBB3 | Industrial Pump Group",
+          "width": 987,
+          "height": 687
+        }
+      },
+      {
+        "_uid": "7d592ba6a4db",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Safco Baureihe SBB3"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "API 610 / ISO 13709, Bauart BB3"
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "Axial geteilte mehrstufige Pumpe mit Doppelspiralgehäuse"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "eba50aa9a504",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-handol-handol-stn.webp",
+          "alt": "Safco Baureihe SBB4 | Industrial Pump Group",
+          "width": 1172,
+          "height": 625
+        }
+      },
+      {
+        "_uid": "4bc6bf5883cf",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Safco Baureihe SBB4"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Mehrstufige Hochdruckpumpe in Gliederbauweise"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "b45b0bc69db4",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-handol-handol-btn.webp",
+          "alt": "Safco Baureihe SBB5 | Industrial Pump Group",
+          "width": 1239,
+          "height": 694
+        }
+      },
+      {
+        "_uid": "a721652e7798",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Safco Baureihe SBB5"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "API 610 / ISO 13709, Bauart BB5"
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "Mehrstufige Topfgehäusepumpe (Doppelgehäuse), radial geteilt"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 4
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Unverbindlich Kontakt aufnehmen"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 4
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Safco-Pumpen: Einsatz in verschiedenen Industrien"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Safco Pumps ist ein etablierter Hersteller hochwertiger Pumpen für verschiedene Industrien und Anwendungen. Das Unternehmen bietet ein breites Spektrum an Kreiselpumpen, Verdrängerpumpen und Rührwerken, die für die Anforderungen der Kunden ausgelegt sind. Safco-Pumpen gelten als qualitativ hochwertig, zuverlässig und effizient und kommen sowohl bei einfachen als auch bei komplexen Pumpenaufgaben zum Einsatz."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Safco Pumps bietet ein umfangreiches Sortiment an Pumpenlösungen, darunter Tauchmotorpumpen, Umwälzpumpen, Brunnenpumpen, Inlinepumpen und weitere. Das Unternehmen arbeitet kontinuierlich an Innovation und Weiterentwicklung. IPG bietet Unterstützung und Service, darunter Installation, Wartung und Reparatur verschiedener Pumpen, auch von Safco."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "API-Pumpen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Safco fertigt ein breites Spektrum an API-Pumpen, die den Normen des American Petroleum Institute (API) entsprechen. Diese Pumpen sind für die strengen Anforderungen der Öl- und Gasindustrie ausgelegt, in der Zuverlässigkeit, Sicherheit und Langlebigkeit besonders wichtig sind. API-Pumpen von Safco sind auch in anspruchsvollen Umgebungen einsetzbar und eignen sich für Anwendungen wie Raffination, Förderung, Transport und Lagerung von Öl und Gas. Außerdem erfüllen sie die API-Spezifikationen. Sie richten sich an Unternehmen, die zuverlässige und sichere Pumpenlösungen für kritische Anwendungen in der Öl- und Gasindustrie suchen."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Vielfältige Anwendungen und Industrien"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Safco ist ein etablierter Hersteller hochwertiger Pumpen für verschiedene Industrien und Anwendungen. Das Unternehmen bietet ein breites Spektrum an Kreiselpumpen, Verdrängerpumpen und Rührwerken für Kunden in der chemischen, pharmazeutischen, Lebensmittel-, Getränke-, Wasser- und Abwasser-, Öl- und Gasindustrie sowie in weiteren Branchen. Safco-Pumpen sind hochwertig und bieten gute Leistung, Zuverlässigkeit und Effizienz. Das Unternehmen investiert fortlaufend in Forschung und Entwicklung, um seine Produkte zu verbessern und neue Technologien zu integrieren. Safco richtet sich an Unternehmen, die zuverlässige, hochwertige Pumpenlösungen suchen."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "b7a59593bfda",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/safco-faq.webp",
+          "alt": "Safco-Pumpen und Ersatzteile",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      {
+        "_uid": "d1355318ea43",
+        "component": "faq",
+        "heading": "Häufige Fragen",
+        "items": [
+          {
+            "_uid": "13a934c5f39c",
+            "component": "faq_item",
+            "question": "Was ist eine Safco-Pumpe?",
+            "answer": "Eine Safco-Pumpe ist eine Industriepumpe, die für anspruchsvolle Dauerbetriebsanwendungen entwickelt wurde. Safco bietet robuste Pumpenlösungen für Umgebungen, in denen Zuverlässigkeit, Verschleißfestigkeit und eine lange Lebensdauer wesentlich sind. Die Pumpen sind darauf ausgelegt, große Flüssigkeitsmengen zu fördern und intensiven Betriebsbedingungen in industriellen Prozessen standzuhalten."
+          },
+          {
+            "_uid": "d7319b821f9e",
+            "component": "faq_item",
+            "question": "Wofür werden Safco-Pumpen eingesetzt?",
+            "answer": "Safco-Pumpen werden in Branchen eingesetzt, in denen hohe Anforderungen an Betriebssicherheit und Förderleistung bestehen, zum Beispiel:\n- Industrie und Prozessanlagen\n- Wassertransport und Umwälzsysteme\n- Kühl- und Hilfssysteme in Produktionsumgebungen\n- Anspruchsvolle Anwendungen mit Dauerbetrieb\nDank ihrer soliden Konstruktion eignen sich Safco-Pumpen für den langfristigen Einsatz mit minimalen Stillstandszeiten."
+          },
+          {
+            "_uid": "183831b04f9a",
+            "component": "faq_item",
+            "question": "Welche Arten von Safco-Pumpen gibt es?",
+            "answer": "Das Sortiment an Safco-Pumpen umfasst unter anderem:\n- Kreiselpumpen für Wasser und industrielle Flüssigkeiten\n- Horizontale Pumpen für große Förderströme\n- Industrielle Prozesspumpen für den Dauerbetrieb\n- Pumpen in verschiedenen Werkstoffen und Ausführungen, abgestimmt auf Anwendung und Medium\nJe nach Anlage und Prozess steht eine Safco-Pumpe zur Verfügung, die zu Ihren Anforderungen und Betriebsbedingungen passt."
+          }
+        ]
+      }
+    ]
+  }
+}

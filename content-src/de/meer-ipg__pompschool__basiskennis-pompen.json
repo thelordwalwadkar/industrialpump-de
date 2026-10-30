@@ -1,0 +1,37 @@
+{
+  "id": "meer-ipg__pompschool__basiskennis-pompen",
+  "seo_title": "Kurs Grundlagen Pumpen: Funktion, Kennlinie, Wartung",
+  "seo_description": "Kurs Grundlagen Pumpen für Monteure, Operatoren und Einkäufer: Pumpenfunktion, Pumpenkennlinie, Wartung und Reparatur. Jetzt Kurs vor Ort anfragen.",
+  "h1": "Kurs Grundlagen Pumpen",
+  "intro": "Der Kurs Grundlagen Pumpen der IPG Pumpenschule erklärt, wie eine Pumpe funktioniert, wie man eine Pumpenkennlinie liest und was bei Wartung und Reparatur möglich ist. Er richtet sich an Personen ohne Vorkenntnisse, die in der Industrie mit Pumpen arbeiten.",
+  "blocks": [
+    { "t": "img", "src": "/Files/Images/sfeer_fotos/shutterstock_160393526.jpg", "alt": "Teilnehmer im Kurs Grundlagen Pumpen" },
+    { "t": "h", "l": 4, "text": "Kurs Grundlagen Pumpen" },
+    { "t": "p", "text": "Nach dem Kurs „Grundlagen Pumpen“ wissen Sie, wie eine Pumpe funktioniert, wie Sie eine Pumpenkennlinie ablesen und was bei Wartung und Reparatur möglich ist und was nicht. Dieses Wissen ist hilfreich, wenn Sie in der Industrie tätig sind." },
+    { "t": "p", "text": "Dieser überwiegend theoretische Kurs soll die Teilnehmer korrekt über die Grundlagen der Pumpe informieren und beraten. Im Kurs werden viele Pumpentypen behandelt, von Exzenterschneckenpumpen bis zu Kreiselpumpen. Dabei werden verschiedene Tipps und Tricks weitergegeben." },
+    { "t": "p", "text": "Behandelt werden außerdem die Bedeutung von Wartung und der richtigen Werkstoffe sowie die Punkte, auf die zu achten ist." },
+    { "t": "faq", "q": "Welche Inhalte vermittelt der Kurs Grundlagen Pumpen?", "a": "Was ist eine Pumpe und wie funktioniert sie?\nVerschiedene Pumpentypen, unter anderem Kreiselpumpen und Verdrängerpumpen\nAufbau einer Kreiselpumpe\nDie Pumpenkennlinie und Grundbegriffe\nVerschiedene Arten von Wellendichtungen bei Pumpen\nGrundbegriffe zu Wartung und Reparatur" },
+    { "t": "faq", "q": "Für wen ist der Kurs Grundlagen Pumpen gedacht?", "a": "Der Kurs richtet sich an Personen, die keine Kenntnisse über Pumpen haben, aber damit in Berührung kommen. Er eignet sich besonders für Monteure, Operatoren, Verkäufer, Konstrukteure, Einkäufer und ähnliche Funktionen, die Wissen über Pumpen oder Pumpenwartung aufbauen möchten." },
+    { "t": "h", "l": 2, "text": "Kurs Grundlagen Pumpen" },
+    { "t": "h", "l": 2, "text": "Kurs Inspektion und Wartung" },
+    { "t": "h", "l": 2, "text": "Kurs Gleitringdichtungen / Mechanical Seals" },
+    { "t": "h", "l": 2, "text": "Kurs Armaturen und Ventile" },
+    { "t": "h", "l": 2, "text": "Kurs Wellen und Lager" },
+    { "t": "h", "l": 3, "text": "Kurs für Ihre Organisation" },
+    { "t": "p", "text": "Bei den Kursen der Industrial Pump Group ist es üblich, dass die Organisation den Kurs für ihre Mitarbeiter ausrichtet. Der Kursleiter von IPG kommt zu Ihnen vor Ort und hält den Kurs an einem oder mehreren Tagen. Andere Formen sind ebenfalls denkbar, etwa ein Einzelkurs mit dem Kursleiter." },
+    { "t": "p", "text": "**Möchten Sie alle Möglichkeiten kennenlernen?**\nDas IPG-Team mit engagierten Pumpenexperten steht für Sie bereit.\nNehmen Sie schnell über das Formular Kontakt auf oder rufen Sie\nwerktags zwischen 08:00 und 17:00 Uhr an.\n**Tel. {{TELEFON}}**" },
+    { "t": "form" }
+  ],
+  "notes": {
+    "dropped": [
+      "Die Überschrift 'Inspectie en Onderhoud CURSUS VOOR UW ORGANISATIE' ist in der Quelle ein Vorlagenfehler auf dieser Kursseite; sie lautet im Deutschen 'Kurs für Ihre Organisation'.",
+      "Die Quelle spricht den Leser in diesem Kurstext teils mit 'jij' an; im Deutschen durchgehend Sie-Form."
+    ],
+    "claims": [
+      "Der Kurs behandelt Pumpenfunktion, Pumpenkennlinie, Grundbegriffe zu Wartung und Reparatur und verschiedene Pumpentypen von Exzenterschneckenpumpen bis zu Kreiselpumpen."
+    ],
+    "nl_specific": [
+      "Rufen Sie werktags zwischen 08:00 und 17:00 Uhr an (niederländische Telefonnummer, als {{TELEFON}} ersetzt; Zeiten aus der niederländischen Quelle)."
+    ]
+  }
+}

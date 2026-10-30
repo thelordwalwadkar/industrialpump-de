@@ -1,0 +1,34 @@
+{
+  "id": "meer-ipg__pompschool__inspectie-en-onderhoud",
+  "seo_title": "Kurs Inspektion und Wartung von Pumpen: Inhalte",
+  "seo_description": "Kurs Inspektion und Wartung von Pumpen: Inspektionsrunde planen, Verschleiß erkennen, Schäden beurteilen. Jetzt Kurs für Ihr Team vor Ort anfragen.",
+  "h1": "Kurs Inspektion und Wartung von Pumpen",
+  "intro": "Der Kurs Inspektion und Wartung der IPG Pumpenschule zeigt, wie sich Inspektionsrunden planen, Verschleiß erkennen und Pumpen sachgerecht aus- und einbauen lassen. Er richtet sich an Instandhalter, Operatoren und Einkäufer.",
+  "blocks": [
+    { "t": "img", "src": "/Files/Images/sfeer_fotos/_0009_ipg_onderhoud1.jpg", "alt": "Wartung einer Pumpe in der IPG-Werkstatt" },
+    { "t": "h", "l": 4, "text": "Kurs Inspektion und Wartung" },
+    { "t": "p", "text": "Um Stillstand zu vermeiden, sollten die Pumpen einer Anlage regelmäßig inspiziert werden. Dabei können verschiedene Verschleißerscheinungen zutage treten, sodass teure, aufwendige Revisionen vermieden werden können. Durch gute und regelmäßige Wartung verlängert sich die Lebensdauer der Pumpe und das System wird zuverlässiger." },
+    { "t": "p", "text": "Dieser überwiegend theoretische Kurs soll die Teilnehmer korrekt darüber informieren und beraten, wie sich eine Inspektionsrunde richtig planen lässt. Es geht darum, worauf zu achten ist, teilweise aber auch darum, was beim Ein- und Ausbau von Pumpen zu bedenken ist. Im Kurs werden viele Pumpentypen behandelt, von Exzenterschneckenpumpen bis zu Kreiselpumpen." },
+    { "t": "p", "text": "Wichtig ist auch das vermittelte Wissen über Pumpenteile: Wer verschleißende Teile rechtzeitig ersetzt, kann viele Kosten und Stillstand eines Betriebsprozesses vermeiden. Im Kurs wird unter anderem erklärt, wie sich Verschleiß zeigt und an welchen Teilen er vor allem zu erkennen ist." },
+    { "t": "faq", "q": "Welche Inhalte vermittelt der Kurs Inspektion und Wartung?", "a": "Aus- und Einbau von Pumpen: Aufstellung, Inbetriebnahme und Ausrichtung.\nWartung und Instandsetzung von Verschleißteilen: Gleitringdichtung, Lager, Laufrad, Dichtungen usw.\nWorauf ist bei Demontage und Montage zu achten?\nStörungssuche und Störungsdiagnose: Schadensbilder erkennen und beurteilen. Zustandsüberwachung." },
+    { "t": "faq", "q": "Für wen ist der Kurs Inspektion und Wartung gedacht?", "a": "Personen, die Pumpen warten und/oder Störungen an Pumpen beheben müssen.\nOperatoren, die für die Wartung erster Ebene an Pumpen verantwortlich sind.\nEinkäufer, damit sie verstehen, was Wartung genau umfasst, und bei Reparaturen Angebote gut vergleichen können." },
+    { "t": "h", "l": 3, "text": "Inspektion und Wartung: Kurs für Ihre Organisation" },
+    { "t": "p", "text": "Bei den Kursen der Industrial Pump Group ist es üblich, dass die Organisation den Kurs für ihre Mitarbeiter ausrichtet. Der Kursleiter von IPG kommt zu Ihnen vor Ort und hält den Kurs an einem oder mehreren Tagen. Andere Formen sind ebenfalls denkbar, etwa ein Einzelkurs mit dem Kursleiter." },
+    { "t": "p", "text": "**Möchten Sie alle Möglichkeiten kennenlernen?**\nDas IPG-Team mit engagierten Pumpenexperten steht für Sie bereit.\nNehmen Sie schnell über das Formular Kontakt auf oder rufen Sie\nwerktags zwischen 08:00 und 17:00 Uhr an.\n**Tel. {{TELEFON}}**" },
+    { "t": "h", "l": 2, "text": "Kurs Grundlagen Pumpen" },
+    { "t": "h", "l": 2, "text": "Kurs Inspektion und Wartung" },
+    { "t": "h", "l": 2, "text": "Kurs Gleitringdichtungen / Mechanical Seals" },
+    { "t": "h", "l": 2, "text": "Kurs Armaturen und Ventile" },
+    { "t": "h", "l": 2, "text": "Kurs Wellen und Lager" },
+    { "t": "form" }
+  ],
+  "notes": {
+    "dropped": [],
+    "claims": [
+      "Der Kurs behandelt Aus- und Einbau, Wartung und Instandsetzung von Verschleißteilen, Störungsdiagnose und Zustandsüberwachung."
+    ],
+    "nl_specific": [
+      "Rufen Sie werktags zwischen 08:00 und 17:00 Uhr an (niederländische Telefonnummer, als {{TELEFON}} ersetzt; Zeiten aus der niederländischen Quelle)."
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+---
+/** T15 · page_job — Stellenanzeige: Kopf · Beschreibung (Bloks) · Bewerbung. Schema: JobPosting. */
+import type { PageJob, PageStory } from '../lib/types';
+import type { Site } from '../lib/storyblok';
+import PageHead from '../components/PageHead.astro';
+import QuoteCta from '../components/QuoteCta.astro';
+import Bloks from '../components/Bloks.astro';
+interface Props { story: PageStory<PageJob>; site: Site }
+const { story, site } = Astro.props;
+const c = story.content;
+---
+<PageHead story={story} site={site} h1={c.h1 || story.name} intro={c.intro}>
+  {(c.employment_type || (c.location_note && !c.location_note.includes('[[PLATZHALTER'))) && (
+    <ul class="meta-line">
+      {c.location_note && !c.location_note.includes('[[PLATZHALTER') && <li>Einsatzort: <strong>{c.location_note}</strong></li>}
+    </ul>
+  )}
+</PageHead>
+<Bloks bloks={c.body} site={site} />
+<div class="wrap"><QuoteCta heading="Jetzt bewerben" text="Senden Sie uns Ihre Unterlagen über das Kontaktformular." label="Bewerbung senden" href="/kontakt" /></div>
+<Bloks bloks={c.cta} site={site} />

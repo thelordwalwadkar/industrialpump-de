@@ -43,16 +43,21 @@
         "default_value": false,
         "pos": 5
       },
+      "publication_date": {
+        "type": "text",
+        "description": "Veröffentlichungsdatum (JJJJ-MM-TT). Wird für das BlogPosting-Schema genutzt.",
+        "pos": 6
+      },
       "article": {
         "type": "richtext",
         "description": "Beitragstext.",
         "rich_markdown": false,
-        "pos": 6
+        "pos": 7
       },
       "author": {
         "type": "text",
         "description": "Autor (optional, sonst Organisation).",
-        "pos": 7
+        "pos": 8
       },
       "image": {
         "type": "asset",
@@ -60,7 +65,7 @@
           "images"
         ],
         "description": "Titelbild.",
-        "pos": 8
+        "pos": 9
       },
       "related": {
         "type": "bloks",
@@ -70,7 +75,7 @@
         ],
         "description": "Verwandte Beiträge.",
         "maximum": 1,
-        "pos": 9
+        "pos": 10
       },
       "body": {
         "type": "bloks",
@@ -84,10 +89,13 @@
           "download_list",
           "steps",
           "related_links",
-          "image_text"
+          "image_text",
+          "image_block",
+          "data_table",
+          "button_row"
         ],
         "description": "Optionale Zusatz-Bausteine. Die Pflicht-Abschnitte sind im Template fest eingebaut.",
-        "pos": 10
+        "pos": 11
       },
       "tab-seo": {
         "type": "tab",

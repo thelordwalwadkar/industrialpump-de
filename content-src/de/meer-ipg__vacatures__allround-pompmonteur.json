@@ -1,0 +1,40 @@
+{
+  "id": "meer-ipg__vacatures__allround-pompmonteur",
+  "seo_title": "Allround-Pumpenmonteur (m/w/d) in Vollzeit gesucht",
+  "seo_description": "Stellenanzeige Allround-Pumpenmonteur bei IPG: Wartung und Revision von Pumpwerken und Pumpenanlagen, 40 Stunden. Jetzt direkt bewerben.",
+  "h1": "Stellenanzeige Allround-Pumpenmonteur",
+  "intro": "Die Industrial Pump Group sucht einen Allround-Pumpenmonteur in Vollzeit für Wartung und Revision von Pumpwerken und Pumpenanlagen, im Außendienst und in der Werkstatt. Voraussetzung sind eine technische Ausbildung, ein VCA-Zertifikat und der Führerschein Klasse B.",
+  "blocks": [
+    { "t": "h", "l": 4, "text": "Stellenanzeige Allround-Pumpenmonteur" },
+    { "t": "h", "l": 3, "text": "Bereit für den Einstieg?" },
+    { "t": "p", "text": "Rufen Sie Robert de Brouwer unter {{TELEFON}} an oder bewerben Sie sich direkt über das Formular weiter unten. Nutzen Sie diese Chance!\n**Initiativ- und Akquiseanfragen auf Basis unserer Stellenanzeigen sind nicht erwünscht.**" },
+    { "t": "h", "l": 3, "text": "Was sind Ihre Aufgaben?" },
+    { "t": "p", "text": "Sie bringen Pumpwerke und Pumpenanlagen wieder zum Laufen. Wartung und Revision gehören zu Ihren Stärken, und Ihr Werkzeug ist ergänzt durch mechanisches Wissen und Pumpenfachkenntnis. Mal sind Sie im Team unterwegs, mal arbeiten Sie in unserer Werkstatt." },
+    { "t": "h", "l": 3, "text": "Was bringen Sie mit?" },
+    { "t": "p", "text": "Ein Hintergrund in Maschinenbau, Mechanik oder Elektrotechnik ist Ihr Einstieg. Technik liegt Ihnen: Sie erkennen ein Problem und lösen es. Flexibilität, Teamgeist und Kundenorientierung zeichnen Sie aus. Ihr Arbeitstag beginnt um 7:30 Uhr; Überstunden kommen gelegentlich vor, wir achten aber darauf, dass Sie rechtzeitig nach Hause kommen." },
+    { "t": "h", "l": 3, "text": "Warum bei uns?" },
+    { "t": "p", "text": "Warum bei uns?\nDies ist kein gewöhnliches Unternehmen, sondern eher eine Familie. Wir investieren mit Schulungen und Zertifikaten in Ihre Entwicklung. Wenn Sie wachsen, wachsen wir mit. Schon nach kurzer Zeit können Sie in die Rolle eines selbstständigen (Service-)Monteurs hineinwachsen. Ein gutes Betriebsklima und sehr gute Zusatzleistungen sind inbegriffen." },
+    { "t": "p", "text": "Bitte beachten Sie: Eine technische Ausbildung auf VMBO- oder MBO-Niveau (in Deutschland etwa Haupt- bis Berufsschulabschluss), ein VCA-Zertifikat und der Führerschein Klasse B sind Voraussetzung." },
+    { "t": "h", "l": 3, "text": "Sie erreichen uns telefonisch unter {{TELEFON}} oder über das Formular weiter unten" },
+    { "t": "h", "l": 2, "text": "Tauchen Sie in die Technik ein: jetzt bewerben" },
+    { "t": "h", "l": 2, "text": "Unsere Stellenanzeigen" },
+    { "t": "p", "text": "**Fragen zu einer Stellenanzeige?**Rufen Sie uns an unter {{TELEFON}}, werktags zwischen 08:00 und 18:00 Uhr." },
+    { "t": "h", "l": 2, "text": "Stellenanzeige Allround-Pumpenmonteur" },
+    { "t": "p", "text": "40 Stunden\nHauptschul- bis Berufsschulabschluss Technik (VMBO bis MBO)\nVCA-Zertifikat\nFührerschein Klasse B" },
+    { "t": "h", "l": 2, "text": "Stellenanzeige Pumpenmonteur (Berufseinsteiger)" },
+    { "t": "p", "text": "40 Stunden\nHauptschul- bis Berufsschulabschluss Technik (VMBO bis MBO)\nFührerschein Klasse B" },
+    { "t": "form" }
+  ],
+  "notes": {
+    "dropped": [],
+    "claims": [
+      "Wir investieren mit Schulungen und Zertifikaten in Ihre Entwicklung.",
+      "Schon nach kurzer Zeit können Sie in die Rolle eines selbstständigen (Service-)Monteurs hineinwachsen."
+    ],
+    "nl_specific": [
+      "Bitte beachten Sie: Eine technische Ausbildung auf VMBO- oder MBO-Niveau (in Deutschland etwa Haupt- bis Berufsschulabschluss), ein VCA-Zertifikat und der Führerschein Klasse B sind Voraussetzung.",
+      "VCA (Sicherheitscheckliste für Auftragnehmer) ist ein niederländisches Zertifikat; VMBO und MBO sind niederländische Bildungsabschlüsse, die Entsprechung in Klammern ist eine Annäherung.",
+      "Rufen Sie Robert de Brouwer unter {{TELEFON}} an: Ansprechpartner und Rufnummer gehören zum niederländischen Standort."
+    ]
+  }
+}

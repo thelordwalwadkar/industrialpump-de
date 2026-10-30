@@ -1,0 +1,15 @@
+---
+/** T17 · page_faq — FAQ-Seite: alle Fragen aus den FAQ-Bloks. Schema: FAQPage. */
+import type { PageFaq, PageStory } from '../lib/types';
+import type { Site } from '../lib/storyblok';
+import PageHead from '../components/PageHead.astro';
+import QuoteCta from '../components/QuoteCta.astro';
+import Bloks from '../components/Bloks.astro';
+interface Props { story: PageStory<PageFaq>; site: Site }
+const { story, site } = Astro.props;
+const c = story.content;
+---
+<PageHead story={story} site={site} h1={c.h1 || story.name} intro={c.intro} />
+<Bloks bloks={c.body} site={site} />
+<div class="wrap"><QuoteCta heading="Ihre Frage ist nicht dabei?" text="Schreiben Sie uns, wir antworten persönlich." label="Kontakt aufnehmen" href="/kontakt" /></div>
+<Bloks bloks={c.cta} site={site} />

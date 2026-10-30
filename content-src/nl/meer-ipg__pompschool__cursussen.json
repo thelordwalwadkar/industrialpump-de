@@ -1,0 +1,92 @@
+{
+ "path": "/meer-ipg/pompschool/cursussen",
+ "title": "Cursussen",
+ "description": "",
+ "h1": "",
+ "ogImage": "",
+ "blocks": [
+  {
+   "t": "img",
+   "src": "/Files/Images/pompschool/pompschool.png",
+   "alt": ""
+  },
+  {
+   "t": "h",
+   "l": 4,
+   "text": "IPG Pompschool Cursussen"
+  },
+  {
+   "t": "p",
+   "text": "Bij IPG zijn we trots op onze expertise en jarenlange ervaring in de branche van pompen. Ons team van experts staat klaar om u te voorzien van de meest actuele kennis en vaardigheden op het gebied van pompen. Of u nu een beginner bent of al ervaring heeft, bij de Industrial Pump Group hebben we een cursus die aansluit bij uw behoeften en doelen. Onze cursussen zijn ontworpen om de deelnemers te helpen hun kennis en vaardigheden op het gebied van pompen te verbeteren en te optimaliseren."
+  },
+  {
+   "t": "p",
+   "text": "De Industrial Pump Group (IPG) biedt een uitgebreid scala aan pompcursussen aan, waaronder basiskennis pompen en verdiepende cursussen. Hierdoor is er voor iedere deelnemer de mogelijkheid om te leren op zijn eigen niveau en zijn kennis en vaardigheden op het gebied van pompen te verbeteren."
+  },
+  {
+   "t": "p",
+   "text": "Door het volgen van een pompcursus kunnen deelnemers hun kennis en begrip van pompen en hun componenten verbeteren, wat leidt tot een beter begrip van het pompensysteem."
+  },
+  {
+   "t": "faq",
+   "q": "Voor wie zijn de cursussen bestemd?",
+   "a": "Personen die het onderhoud aan pompen en/of storingen aan pompen moeten oplossen.\nOperators die verantwoordelijk zijn voor het eerstelijns onderhoud aan pompen."
+  },
+  {
+   "t": "faq",
+   "q": "Wat is de duur van de cursussen?",
+   "a": "De duur van de cursussen varieert en is afhankelijk van de cursus die u kiest. Sommige cursussen duren slechts een dag, terwijl andere cursussen meerdere dagen duren."
+  },
+  {
+   "t": "faq",
+   "q": "Kunnen de cursussen worden aangepast aan specifieke behoeften van de klant?",
+   "a": "Ja, we kunnen onze cursussen aanpassen aan de specifieke behoeften van de klant. Neem contact met ons op om uw specifieke behoeften te bespreken."
+  },
+  {
+   "t": "h",
+   "l": 3,
+   "text": "Inspectie en Onderhoud CURSUS VOOR UW ORGANISATIE"
+  },
+  {
+   "t": "p",
+   "text": "Bij de cursussen van de Industrial Pump Group is het gebruikelijk dat de organisatie deze cursus organiseert voor haar werknemers. De cursusleider van IPG zal op locatie langkomen om de cursus in een of meerdere dagen te geven. Andere mogelijkheden zijn ook denkbaar, zo ook een cursus 1 op 1 met de cursusleider."
+  },
+  {
+   "t": "p",
+   "text": "**Benieuwd naar alle mogelijkheden?**\nHet IPG team met betrokken pompexperts zit voor u klaar.\nNeem snel contact op via het formulier of bel\nop werkdagen tussen 08:00 en 17:00 uur .\n**Tel. (0251) 222 566**"
+  },
+  {
+   "t": "h",
+   "l": 2,
+   "text": "CURSUS BASISKENNIS POMPEN"
+  },
+  {
+   "t": "h",
+   "l": 2,
+   "text": "cursus inspectie en onderhoud"
+  },
+  {
+   "t": "h",
+   "l": 2,
+   "text": "cursus Asafdichtingen/ Mech.Seals"
+  },
+  {
+   "t": "h",
+   "l": 2,
+   "text": "cursus Kleppen en Afsluiters"
+  },
+  {
+   "t": "h",
+   "l": 2,
+   "text": "cursus Assen en lagers"
+  },
+  {
+   "t": "form"
+  }
+ ],
+ "words": 372,
+ "kind": "Pumpenschule-Kurs",
+ "template": "T8 Course",
+ "schema": "Course, FAQPage",
+ "dePath": "/ueber-uns/pumpenschule/[DE-Slug aus „cursussen“]"
+}

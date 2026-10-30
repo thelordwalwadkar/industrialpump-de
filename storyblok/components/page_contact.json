@@ -54,16 +54,25 @@
           {
             "name": "Angebot anfordern",
             "value": "angebot"
+          },
+          {
+            "name": "Rückruf",
+            "value": "rueckruf"
           }
         ],
         "description": "Welches Formular.",
         "required": true,
         "pos": 6
       },
+      "default_anliegen": {
+        "type": "text",
+        "description": "Vorbelegung „Anliegen“ im Angebotsformular, z. B. ersatzpumpe.",
+        "pos": 7
+      },
       "form_intro": {
         "type": "textarea",
         "description": "Text über dem Formular.",
-        "pos": 7
+        "pos": 8
       },
       "body": {
         "type": "bloks",
@@ -77,10 +86,13 @@
           "download_list",
           "steps",
           "related_links",
-          "image_text"
+          "image_text",
+          "image_block",
+          "data_table",
+          "button_row"
         ],
         "description": "Optionale Zusatz-Bausteine. Die Pflicht-Abschnitte sind im Template fest eingebaut.",
-        "pos": 8
+        "pos": 9
       },
       "tab-seo": {
         "type": "tab",

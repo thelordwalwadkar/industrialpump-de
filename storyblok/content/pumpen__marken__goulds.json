@@ -1,0 +1,595 @@
+{
+  "id": 2695081924,
+  "uuid": "a0a3afc4-bfc0-22e1-ad24-71ee82f5892a",
+  "name": "Goulds Pumpen: Lieferant für Pumpen und Ersatzteile",
+  "slug": "goulds",
+  "full_slug": "pumpen/marken/goulds",
+  "position": 73,
+  "content": {
+    "component": "page_brand",
+    "h1": "Goulds Pumpen: Lieferant für Pumpen und Ersatzteile",
+    "seo_title": "Goulds Pumps: Prozesspumpen und Ersatzteile",
+    "seo_description": "Goulds Pumps für Öl und Gas, Chemie, Papier und Industrie: Baureihen IC, 3175, 3410, 3700 sowie Ersatzteile. Jetzt Beratung oder Angebot anfordern.",
+    "intro": "Goulds Pumps ist eine Marke der ITT Gruppe mit Pumpenlösungen für Öl und Gas, Bergbau, Energie, Chemie, Zellstoff und Papier sowie die allgemeine Industrie. Die Industrial Pump Group liefert Goulds Pumpen und Ersatzteile, ist jedoch kein offizieller Importeur.",
+    "brand_name": "Goulds",
+    "body": [
+      {
+        "_uid": "bd5cf94cc5ee",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 4
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Lieferant von Goulds"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ihr verlässlicher Partner für Goulds Pumpen und Ersatzteile"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "ITT Goulds ist eine sehr bekannte und angesehene Marke der weltweiten Pumpenindustrie, mit Pumpenlösungen für Anwendungen in den Märkten Öl und Gas, Bergbau, Energieerzeugung, Chemie, Zellstoff und Papier sowie in der allgemeinen Industrie."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Auch wenn IPG kein offizieller Importeur ist, liefern wir ein breites Spektrum zuverlässiger Goulds Pumpen und Ersatzteile für Ihre industriellen Anforderungen."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Goulds Baureihen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Unten sehen Sie einige Baureihen von Goulds Pumpen. Ist die gewünschte Pumpe nicht dabei? Dann nehmen Sie gern unverbindlich "
+                },
+                {
+                  "type": "text",
+                  "text": "Kontakt",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/kontakt",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " mit uns auf."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "c4ea7dd7375f",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-goulds-goulds-ic.webp",
+          "alt": "Chemie-Prozesspumpe Goulds IC in Blau, geeignet für industrielle Anwendungen",
+          "width": 250,
+          "height": 166
+        }
+      },
+      {
+        "_uid": "7bc5f2c71734",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Goulds Baureihe IC"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Chemie-Prozesspumpen"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "ebfb2155a482",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-goulds-goulds-3175.webp",
+          "alt": "Goulds 3175 Papierstoff- und Prozesspumpe in Dunkelblau mit orangefarbenem Motorgehäuse",
+          "width": 250,
+          "height": 170
+        }
+      },
+      {
+        "_uid": "f4dd3b3d5397",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Goulds Baureihe 3175"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Papierstoff- und Prozesspumpen"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "e5d7656a7482",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-goulds-goulds-3410.webp",
+          "alt": "Kompakte Goulds 3410 doppelflutige Kreiselpumpe in Blau",
+          "width": 175,
+          "height": 200
+        }
+      },
+      {
+        "_uid": "3430fb7ce06d",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Goulds Baureihe 3410"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Doppelflutige Pumpen für kleine Förderströme"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "875a3945e3d1",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-goulds-goulds-3700.webp",
+          "alt": "Einstufige Goulds 3700 Prozesspumpe auf Grundrahmen mit Antriebsmotor",
+          "width": 200,
+          "height": 156
+        }
+      },
+      {
+        "_uid": "7500a458f1cb",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Goulds Baureihe 3700"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Einstufige Prozesspumpe in fliegender Bauweise"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 4
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Unverbindlich Kontakt aufnehmen"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Eine Auswahl unserer Kunden"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "866b7eb389fd",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/homepage-logos-aeb.webp",
+          "alt": "Müllheizkraftwerk AEB Amsterdam am Abend mit rauchenden Schornsteinen und Logo im Vordergrund",
+          "width": 387,
+          "height": 241
+        }
+      },
+      {
+        "_uid": "45e5a6560755",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/homepage-logos-akzonobel.webp",
+          "alt": "AkzoNobel Hauptsitz in einem modernen Glasturm mit zentralem Logo",
+          "width": 387,
+          "height": 241
+        }
+      },
+      {
+        "_uid": "feeea379e0cc",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/homepage-logos-hvc.webp",
+          "alt": "Müllheizkraftwerk von HVC mit roter Fassade und weißem Logo aus der Vogelperspektive",
+          "width": 387,
+          "height": 241
+        }
+      },
+      {
+        "_uid": "ae31b9141425",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/homepage-logos-petrogas.webp",
+          "alt": "Offshore-Plattform von Petrogas E&P auf See mit Kran und arabisch-englischem Logo",
+          "width": 387,
+          "height": 241
+        }
+      },
+      {
+        "_uid": "1f6d9c47583c",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/homepage-logos-tatasteel.webp",
+          "alt": "Fabrikhalle von Tata Steel mit Metallproduktionslinie und Mitarbeiter in gelber Sicherheitskleidung",
+          "width": 387,
+          "height": 241
+        }
+      },
+      {
+        "_uid": "218a9303e168",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/homepage-logos-waternet.webp",
+          "alt": "Bürogebäude von Waternet am Wasser mit moderner Glasfassade und zentralem Logo",
+          "width": 387,
+          "height": 241
+        }
+      },
+      {
+        "_uid": "b39f74ccdd57",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Vorteile von Goulds Pumpen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Goulds Pumpen bieten dank ihrer robusten Bauweise und moderner Technik zuverlässige und effiziente Leistung für industrielle Anwendungen. Die Marke hat ein breites Spektrum an Pumpen für verschiedene Anwendungen und ist damit für unterschiedliche Industriezweige geeignet."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Mehr als 170 Jahre Firmengeschichte"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Seit mehr als 170 Jahren bietet Goulds Pumps Lösungen zum Fördern unterschiedlicher Medien. Damit gehört das Unternehmen zu den ältesten innerhalb der ITT Gruppe, zu der der Pumpenhersteller nach wie vor gehört. In all diesen Jahren hat das Unternehmen seine Pumpen kontinuierlich weiterentwickelt, damit sie den Anforderungen der jeweiligen Zeit entsprechen."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Technologischer Vorsprung"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Technologisch gehört Goulds zu den führenden Unternehmen der Pumpenindustrie. Dieser innovative Pumpenhersteller rüstet alle seine Prozesspumpen serienmäßig mit einem System zur kontinuierlichen Überwachung der Pumpen aus. Neben der Standardausführung können diese Pumpen auch nach verschiedenen Normen geliefert werden, etwa ANSI und ISO, wodurch sie für ein breites Spektrum an Anwendungen geeignet sind."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Anwendungen von Goulds Pumpen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Das breite Pumpenspektrum sorgt dafür, dass die Kreiselpumpen für nahezu jede industrielle Anwendung geeignet sind. Sie lassen sich zum Beispiel dort einsetzen, wo (Ab-)Wasser, Papier und Karton, Öl, Gas, aber auch chemische Medien gefördert werden müssen."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Warum Goulds Pumpen?"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Goulds Pumpen sind für zuverlässige und effiziente Leistung in einem breiten Spektrum industrieller Anwendungen bekannt. Einige Vorteile von Goulds Pumpen sind:"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "• "
+                },
+                {
+                  "type": "text",
+                  "text": "Robuste Bauweise:",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " Goulds Pumpen sind dafür ausgelegt, den schwersten Bedingungen standzuhalten, und bieten eine lange Lebensdauer."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "• "
+                },
+                {
+                  "type": "text",
+                  "text": "Moderne Technik:",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " Die Pumpen sind mit modernen Systemen zur kontinuierlichen Überwachung und Leistungsoptimierung ausgestattet."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "• "
+                },
+                {
+                  "type": "text",
+                  "text": "Breite Einsatzmöglichkeiten:",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " Geeignet für verschiedene Branchen, darunter Öl und Gas, Bergbau, Energieerzeugung, chemische Industrie, Zellstoff und Papier sowie die allgemeine Industrie."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "• "
+                },
+                {
+                  "type": "text",
+                  "text": "Normen und Zertifizierungen:",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " Goulds Pumpen können nach verschiedenen Normen geliefert werden, etwa ANSI und ISO, was die Vielseitigkeit und Zuverlässigkeit der Pumpen zusätzlich unterstreicht."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Unverbindliche Beratung und Angebot anfordern"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Haben Sie konkrete Fragen zu Goulds Pumpen oder möchten Sie direkt ein Angebot anfordern? Nehmen Sie unverbindlich Kontakt mit uns auf. Unsere Experten beantworten Ihre Fragen und sorgen dafür, dass Sie die benötigten Pumpen und Ersatzteile schnell und effizient erhalten."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ihr Partner für SAER Pumpen und Originalersatzteile in den Niederlanden"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bei IPG gehen wir über die Lieferung von Goulds Pumpen hinaus: Wir sind Ihr One-Stop-Shop für komplette Pumpenlösungen in den Niederlanden. Neben hochwertigen Goulds Pumpen führen wir auch ein umfangreiches Sortiment an Originalersatzteilen, damit Kunden Effizienz und Zuverlässigkeit erhalten. Ob Neuanschaffung, Upgrade oder routinemäßige Wartung: IPG bietet fachkundige Beratung, technische Unterstützung und ein breites Spektrum an Goulds Ersatzteilen, um Ihren besonderen Anforderungen gerecht zu werden."
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

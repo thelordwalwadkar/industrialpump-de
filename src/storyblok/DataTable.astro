@@ -1,0 +1,21 @@
+---
+import type { DataTable } from '../lib/types';
+interface Props { blok: DataTable }
+const { blok } = Astro.props;
+const head = (blok.table?.thead ?? []).map((h) => h.value ?? '');
+const body = (blok.table?.tbody ?? []).map((r) => (r.body ?? []).map((c) => c.value ?? ''));
+const hasHead = head.some(Boolean);
+---
+{body.length > 0 && (
+  <section class="section">
+    <div class="wrap">
+      {blok.heading && <h2>{blok.heading}</h2>}
+      <div class="spec-wrap" tabindex="0" role="region" aria-label={blok.heading ?? 'Tabelle'}>
+        <table class="spec data">
+          {hasHead && <thead><tr>{head.map((h) => <th scope="col">{h}</th>)}</tr></thead>}
+          <tbody>{body.map((r) => <tr>{r.map((c, i) => (i === 0 && !hasHead ? <th scope="row">{c}</th> : <td>{c}</td>))}</tr>)}</tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+)}

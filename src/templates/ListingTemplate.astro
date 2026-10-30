@@ -7,6 +7,7 @@ import { pathOf } from '../lib/storyblok';
 import PageHead from '../components/PageHead.astro';
 import LinkCards from '../components/LinkCards.astro';
 import Bloks from '../components/Bloks.astro';
+import QuoteCta from '../components/QuoteCta.astro';
 interface Props { story: PageStory<PageListing>; site: Site; page?: number }
 const { story, site, page = 1 } = Astro.props;
 const c = story.content;
@@ -31,4 +32,5 @@ const href = (n: number) => (n === 1 ? base : `${base}/seite/${n}`);
   </div>
 </section>
 <Bloks bloks={c.body} site={site} />
+<div class="wrap"><QuoteCta heading="Pumpe oder Revision anfragen" text="Senden Sie uns Typenschild oder Betriebsdaten, wir prüfen die passende Lösung." label="Angebot anfordern" href="/angebot" /></div>
 <Bloks bloks={c.cta} site={site} />

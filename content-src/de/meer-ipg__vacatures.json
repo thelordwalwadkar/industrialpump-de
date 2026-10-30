@@ -1,0 +1,35 @@
+{
+  "id": "meer-ipg__vacatures",
+  "seo_title": "Stellenanzeigen: Jobs in der Pumpentechnik bei IPG",
+  "seo_description": "Stellenanzeigen der Industrial Pump Group: Pumpenmonteur, technischer Innendienst und Junior Account Manager. Jetzt Stelle prüfen und bewerben.",
+  "h1": "Stellenanzeigen bei der Industrial Pump Group",
+  "intro": "Die Industrial Pump Group (IPG) sucht Pumpenmonteure sowie Mitarbeitende für Innendienst und Vertrieb. Diese Seite listet alle offenen Stellenanzeigen mit Arbeitszeit und Anforderungen.",
+  "blocks": [
+    { "t": "img", "src": "/Files/Images/Revisie/revisie-header-4.png", "alt": "Arbeiten bei der Industrial Pump Group: Revision von Pumpen in der Werkstatt" },
+    { "t": "h", "l": 4, "text": "Arbeiten bei der Industrial Pump Group" },
+    { "t": "h", "l": 2, "text": "Unternehmensprofil" },
+    { "t": "p", "text": "Die Industrial Pump Group Nederland B.V. ist spezialisiert auf Reparatur, Verkauf und Vertrieb aller Arten von Pumpenaggregaten, Zubehör und Ersatzteilen. Das Angebot reicht von Chemiepumpen, Unterwasserpumpen und Abwasserpumpen bis zu Löschwasser- und Vakuumpumpen. Reparaturen werden vor Ort und in der IPG-Werkstatt in Velsen-Noord ausgeführt. IPG liefert, wartet und repariert Pumpen, die den Normen DIN, ISO, ANSI und API entsprechen.\n**Initiativ- und Akquiseanfragen auf Basis unserer Stellenanzeigen sind nicht erwünscht.**" },
+    { "t": "h", "l": 2, "text": "Unsere Stellenanzeigen" },
+    { "t": "p", "text": "**Fragen zu einer Stellenanzeige?**Rufen Sie uns an unter {{TELEFON}}, werktags zwischen 08:00 und 18:00 Uhr." },
+    { "t": "h", "l": 2, "text": "Stellenanzeige Allround-Pumpenmonteur" },
+    { "t": "p", "text": "40 Stunden\nHauptschul- bis Berufsschulabschluss Technik (VMBO bis MBO)\nVCA-Zertifikat\nFührerschein Klasse B" },
+    { "t": "h", "l": 2, "text": "Stellenanzeige Pumpenmonteur (Berufseinsteiger)" },
+    { "t": "p", "text": "40 Stunden\nHauptschul- bis Berufsschulabschluss Technik (VMBO bis MBO)\nFührerschein Klasse B" },
+    { "t": "h", "l": 2, "text": "Stellenanzeige Mitarbeiter Innendienst" },
+    { "t": "p", "text": "40 Stunden\nArbeits- und Denkniveau MBO+ oder HBO (Fachschul- bis Hochschulniveau)" },
+    { "t": "h", "l": 2, "text": "Stellenanzeige Junior Account Manager" },
+    { "t": "p", "text": "40 Stunden\nArbeits- und Denkniveau MBO+ oder HBO (Fachschul- bis Hochschulniveau)\nFührerschein Klasse B" }
+  ],
+  "notes": {
+    "dropped": [],
+    "claims": [
+      "IPG liefert, wartet und repariert Pumpen, die den Normen DIN, ISO, ANSI und API entsprechen."
+    ],
+    "nl_specific": [
+      "Die Industrial Pump Group Nederland B.V. ist spezialisiert auf Reparatur, Verkauf und Vertrieb aller Arten von Pumpenaggregaten, Zubehör und Ersatzteilen.",
+      "Reparaturen werden vor Ort und in der IPG-Werkstatt in Velsen-Noord ausgeführt.",
+      "Bildungsabschlüsse VMBO, MBO und HBO sind niederländische Abschlüsse; die Übersetzung in Klammern ist eine sinngemäße Annäherung und muss für den deutschen Markt angepasst werden.",
+      "Die Telefonzeiten (werktags 08:00 bis 18:00 Uhr) gelten für den niederländischen Standort."
+    ]
+  }
+}

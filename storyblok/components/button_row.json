@@ -1,0 +1,19 @@
+{
+  "component": {
+    "name": "button_row",
+    "display_name": "Buttons",
+    "is_root": false,
+    "is_nestable": true,
+    "schema": {
+      "buttons": {
+        "type": "bloks",
+        "restrict_components": true,
+        "component_whitelist": [
+          "link_item"
+        ],
+        "description": "Buttons mit sprechender Beschriftung („Angebot anfordern“, nicht „Hier klicken“).",
+        "pos": 0
+      }
+    }
+  }
+}

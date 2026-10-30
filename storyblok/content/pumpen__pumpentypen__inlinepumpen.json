@@ -1,0 +1,873 @@
+{
+  "id": 2196152536,
+  "uuid": "82e6a0d8-6d42-01c4-0698-e5ed9dca0335",
+  "name": "Inlinepumpen",
+  "slug": "inlinepumpen",
+  "full_slug": "pumpen/pumpentypen/inlinepumpen",
+  "position": 115,
+  "content": {
+    "component": "page_topic",
+    "h1": "Inlinepumpen",
+    "nav_title": "Inlinepumpen",
+    "seo_title": "Inlinepumpen: Aufbau, Vorteile und Einsatz in HVAC",
+    "seo_description": "Inlinepumpen für HVAC, Wasserbehandlung und Chemie: kompakte Bauweise direkt in der Rohrleitung, einfache Wartung. Jetzt Beratung anfordern.",
+    "intro": "Inlinepumpen sind Kreiselpumpen, bei denen Saug- und Druckstutzen auf einer Linie liegen und die direkt in die Rohrleitung eingebaut werden. Sie richten sich an Planer und Betreiber von HVAC-Anlagen, Wasserbehandlung und Prozesstechnik mit wenig Platz.",
+    "topic_kind": "pumpentyp",
+    "body": [
+      {
+        "_uid": "82dd563ace6c",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Inlinepumpen sind Pumpen, die sich in der Rohrleitung befinden und zum Fördern von Flüssigkeiten eingesetzt werden, ohne dass die Leitung geöffnet werden muss."
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "SAER-Pumpen",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/marken/saer",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Lowara-Pumpen",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/marken/lowara",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Grundfos-Pumpen",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/marken/grundfos",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Wilo-Pumpen",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/marken/wilo",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Prozesswasser",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/anwendungen/prozesswasser",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "HVAC",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/branchen/gebaeudetechnik-hvac",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Was sind Inlinepumpen und wie funktionieren sie?"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Inlinepumpen sind Kreiselpumpen, die Flüssigkeiten in gerader Linie fördern, wobei Einlass und Auslass auf derselben Linie liegen. Anders als herkömmliche Pumpen mit abgewinkeltem Saug- und Druckrohr werden Inlinepumpen direkt in die Rohrleitung eingebaut, wodurch sie sich leichter montieren und warten lassen."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die Funktionsweise einer Inlinepumpe entspricht der einer Kreiselpumpe: Ein Rotor dreht sich in einem Gehäuse und erzeugt eine Saugwirkung, die die Flüssigkeit durch den Einlass ansaugt. Die Flüssigkeit wird anschließend durch die Zentrifugalkraft nach außen gedrückt und strömt durch das Auslassrohr."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Inlinepumpen werden vielfach in industriellen Anwendungen wie Wasserbehandlung, chemischer Verarbeitung und HVAC-Systemen eingesetzt. Wegen der einfachen Installation, der hohen Zuverlässigkeit und der Effizienz sind sie eine gängige Wahl zum Fördern großer Flüssigkeitsmengen in verschiedenen Branchen."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kompakte und platzsparende Bauweise",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Inlinepumpen sind kompakt gebaut und werden direkt in die Rohrleitung eingebaut. Dadurch nehmen sie wenig Platz ein und eignen sich für Anwendungen mit beschränktem Raum."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Hoher Wirkungsgrad und Energieeinsparung",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Durch ihren effizienten Betrieb und die häufig vorhandene Drehzahlregelung helfen Inlinepumpen, Energie zu sparen, und optimieren die Leistung von HVAC-Systemen und industriellen Prozessen."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Zuverlässigkeit und niedrige Wartungskosten",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Inlinepumpen bieten hohe Zuverlässigkeit und haben niedrige Wartungskosten, weil sie für Wartungsarbeiten leicht zugänglich sind, ohne dass die Rohrleitung demontiert werden muss."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Vielseitige Anwendungen in verschiedenen Branchen",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Geeignet für ein breites Spektrum von Anwendungen wie Wasserbehandlung, chemische Verarbeitung und HVAC-Systeme, dank ihrer Vielseitigkeit und Zuverlässigkeit."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die Vielseitigkeit (industrieller) Inlinepumpen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Industrielle Inlinepumpen sind ein wichtiger Bestandteil vieler industrieller Prozesse. Diese Pumpen sind dafür ausgelegt, Flüssigkeiten in gerader Linie zu fördern, wobei Einlass und Auslass auf derselben Linie liegen. Sie eignen sich für ein breites Spektrum von Anwendungen, von Wasserbehandlung und Kühlwasserkreisläufen bis zu chemischer Verarbeitung sowie Öl- und Gasförderung."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Einer der wichtigsten Vorteile von Inlinepumpen ist ihre kompakte Größe und einfache Installation. Sie lassen sich direkt in die Rohrleitung einbauen, sodass für die Pumpe kein zusätzlicher Platz benötigt wird. Das macht Inlinepumpen besonders geeignet für Anwendungen mit beschränktem Raum."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Weitere Vorteile sind unter anderem der hohe Wirkungsgrad, die Zuverlässigkeit und die niedrigen Wartungskosten. Inlinepumpen sind außerdem leicht zu warten, weil sie zugänglich sind, ohne dass die Rohrleitung demontiert werden muss."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Insgesamt sind industrielle Inlinepumpen eine vielseitige und zuverlässige Lösung zum Fördern von Flüssigkeiten in verschiedenen industriellen Anwendungen. Ihre kompakte Größe, ihr Wirkungsgrad und ihre niedrigen Wartungskosten machen sie zu einer gängigen Wahl für Unternehmen, die eine kosteneffiziente und zuverlässige Möglichkeit zum Fördern von Flüssigkeiten suchen."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die Bedeutung von Regelventilen in Inline-Pumpensystemen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Regelventile spielen in Inline-Pumpensystemen eine entscheidende Rolle. Diese Ventile dienen dazu, den Durchfluss von Flüssigkeiten zu steuern und zu regeln, was für den ordnungsgemäßen Betrieb des Systems wesentlich ist. Mit Regelventilen lassen sich Druck, Temperatur und Strömungsgeschwindigkeit von Flüssigkeiten regeln, wodurch sich die Leistung des Pumpensystems optimieren lässt."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ein gut ausgelegtes Regelventilsystem kann den Wirkungsgrad eines Inline-Pumpensystems verbessern und die Lebensdauer der Pumpen verlängern. Regelventile helfen, Druck und Temperatur der Flüssigkeit im System zu beherrschen, wodurch die Gefahr von Schäden an Pumpen und anderen Geräten sinkt. Außerdem lässt sich mit Regelventilen die Strömungsgeschwindigkeit der Flüssigkeiten an die spezifischen Anforderungen des Prozesses anpassen, wodurch die Leistung des Systems optimiert wird."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "78cfa74c7497",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-inline-2.webp",
+          "alt": "Industrielles Rohrleitungssystem mit Inlinepumpen und Ventilen zur Flüssigkeitsverteilung",
+          "width": 1000,
+          "height": 659
+        }
+      },
+      {
+        "_uid": "3d9695331116",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Hervorragende und zugängliche Kundenbetreuung bei jedem Kontakt!"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Der Einsatz ist perfekt und sehr serviceorientiert, sowohl telefonisch als auch bei geplanter Umsetzung und bei ungeplanten Störungen."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Projektleiter RGR bei einem Abfallentsorger in den Niederlanden."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Hervorragende Erfahrung mit IPG: Professionalität, Qualität und proaktive Problemlösung!"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Als Arbeitsvorbereiter erlebe ich IPG als sehr professionell. Das Unternehmen strebt nach Qualität, denkt bei Verbesserungen mit und behebt Störungen schnell, um Stillstand zu minimieren."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Arbeitsvorbereiter Störungen bei einem Wasserverband."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ein zuverlässiger Partner mit hervorragendem Service und kundenorientierter Beratung!"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ich erlebe IPG als sehr guten Partner, ein Unternehmen, das Service großschreibt und mit den Kunden mitdenkt und berät."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Arbeitsvorbereiter Technischer Dienst bei einem Abfallverwerter in den Niederlanden."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kompakte und effiziente Inlinepumpen für verschiedene Anwendungen!"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die Inlinepumpen von IPG sind kompakt und lassen sich einfach in unsere Systeme integrieren, ohne viel Platz einzunehmen. Sie liefern zuverlässige Leistung, was für unsere betrieblichen Abläufe wesentlich ist."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Technischer Betriebsleiter bei einem Produktionsbetrieb in den Niederlanden."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kompakte und effiziente Inlinepumpen für verschiedene Anwendungen!"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die Inlinepumpen von IPG sind kompakt und lassen sich einfach in unsere Systeme integrieren, ohne viel Platz einzunehmen. Sie liefern zuverlässige Leistung, was für unsere betrieblichen Abläufe wesentlich ist."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Technischer Betriebsleiter bei einem Produktionsbetrieb in den Niederlanden."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 4
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Unverbindlich Kontakt aufnehmen"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "HVAC-Systeme: die Vorteile von Inlinepumpen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Inlinepumpen werden häufig in HVAC-Systemen zum Fördern von Kühl- und Heizflüssigkeiten eingesetzt. Sie sind eine effiziente und zuverlässige Lösung, um große Flüssigkeitsmengen durch ein Gebäude zu fördern."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Einer der wichtigsten Vorteile von Inlinepumpen in HVAC-Systemen ist ihre kompakte Größe und einfache Installation. Sie lassen sich direkt in die Rohrleitung einbauen, sodass für die Pumpe kein zusätzlicher Platz benötigt wird. Das macht Inlinepumpen besonders geeignet für Anwendungen mit beschränktem Raum."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Weitere Vorteile sind unter anderem der hohe Wirkungsgrad, die Zuverlässigkeit und die niedrigen Wartungskosten. Inlinepumpen sind außerdem leicht zu warten, weil sie zugänglich sind, ohne dass die Rohrleitung demontiert werden muss."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Außerdem sind Inlinepumpen häufig mit Drehzahlregelung ausgestattet, wodurch sich der Energieverbrauch des HVAC-Systems optimieren und Kosten sparen lassen. Das macht sie zu einer gängigen Wahl für Unternehmen, die energiesparende Lösungen suchen."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "4b0386cb865e",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-saer-saer-inline.webp",
+          "alt": "Vertikale SAER-Inlinepumpe mit grünem Motor für energiesparenden Wasserdurchfluss",
+          "width": 460,
+          "height": 460
+        }
+      },
+      {
+        "_uid": "14678f39f47b",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Mehr über SAER-Pumpen lesen"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "7d2976f796f5",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-lowara-lowara-fce.webp",
+          "alt": "Blaue vertikale Lowara-Inlinepumpe für optimierte Flüssigkeitszirkulation",
+          "width": 220,
+          "height": 296
+        }
+      },
+      {
+        "_uid": "34b6b09b56d3",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Mehr über Lowara-Pumpen lesen"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "86a65a67f141",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-grundfos-grundfos-tp200.webp",
+          "alt": "Kompakte Grundfos-Inlinepumpe für effiziente Anwendungen in der Wasserwirtschaft",
+          "width": 170,
+          "height": 255
+        }
+      },
+      {
+        "_uid": "a56114758bdb",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Mehr über Grundfos-Pumpen lesen"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "bc47b9a8f930",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-wilo-wilo-helix.webp",
+          "alt": "Vertikale Wilo-Inlinepumpe für nachhaltige Lösungen in der Flüssigkeitstechnik",
+          "width": 150,
+          "height": 150
+        }
+      },
+      {
+        "_uid": "dcc6655a0618",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Mehr über Wilo-Pumpen lesen"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Beratung und Verkauf: die passende Lösung für Ihre Anwendung"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Es gibt viele verschiedene Pumpentypen und ebenso viele Anwendungen, zum Beispiel Tauchmotorpumpen, Umwälzpumpen oder Brunnenpumpen. Wegen dieser Vielfalt ist es sinnvoll, sich gut zu informieren, welcher Pumpentyp erforderlich ist, bevor Sie eine Pumpe anschaffen oder instand setzen lassen. Das IPG-Team mit mehreren Pumpenexperten berät Sie jederzeit zur passenden Lösung für Ihre Anwendung und unterstützt Sie außerdem bei Beschaffung und Installation der Pumpe."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "IPG pflegt zu mehreren Pumpenherstellern enge Beziehungen und kann Sie daher bei der Beschaffung vieler Pumpentypen und Marken gut beraten. So ist die Industrial Pump Group der niederländische Importeur von SAER und offizieller Händler unter anderem von Lowara, Grundfos und Seepex."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Auf der Suche nach der passenden Inlinepumpe?"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die Industrial Pump Group liefert hochwertige und zuverlässige Pumpen und berät Kunden in verschiedenen Branchen fachkundig, darunter die Wasseraufbereitung. Unsere Experten haben langjährige Erfahrung in Auslegung und Auswahl passender Pumpen für spezifische Anwendungen und verfügen über umfassende Kenntnisse der neuesten Technologien und Entwicklungen der Branche."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Benötigen Sie Hilfe bei der Auswahl der passenden Pumpe? Die Experten von IPG stehen Ihnen zur Verfügung. Nehmen Sie unverbindlich Kontakt auf unter: [[PLATZHALTER: Telefon]] oder [[PLATZHALTER: E-Mail]]."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "4072c7afd46b",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-inline-2-2.webp",
+          "alt": "Grundfos-Inline-Pumpensystem mit hohem Wirkungsgrad in einer Industrieanlage",
+          "width": 1000,
+          "height": 668
+        }
+      },
+      {
+        "_uid": "68e1fc85cca9",
+        "component": "faq",
+        "heading": "Häufige Fragen",
+        "items": [
+          {
+            "_uid": "471b9871de12",
+            "component": "faq_item",
+            "question": "Was ist eine Inlinepumpe?",
+            "answer": "Eine Inlinepumpe ist eine Kreiselpumpe, bei der Einlass und Auslass auf derselben Linie liegen. Sie wird zum Fördern von Flüssigkeiten in gerader Linie eingesetzt und eignet sich besonders für Anwendungen mit beschränktem Raum."
+          },
+          {
+            "_uid": "0a0f1d47de08",
+            "component": "faq_item",
+            "question": "Wo werden Inlinepumpen eingesetzt?",
+            "answer": "Inlinepumpen werden in einem breiten Spektrum von Anwendungen eingesetzt, darunter HVAC-Systeme, Wasserbehandlung, Kühlwasserkreisläufe, chemische Verarbeitung sowie Öl- und Gasförderung."
+          },
+          {
+            "_uid": "4639ec4a0cee",
+            "component": "faq_item",
+            "question": "Welche Vorteile haben Inlinepumpen?",
+            "answer": "Zu den Vorteilen von Inlinepumpen zählen unter anderem ihre kompakte Größe, ihr hoher Wirkungsgrad, ihre Zuverlässigkeit, niedrige Wartungskosten und der leichte Zugang für Wartung und Reparatur."
+          },
+          {
+            "_uid": "0a3d37058124",
+            "component": "faq_item",
+            "question": "Was sind Regelventile und warum sind sie für Inline-Pumpensysteme wichtig?",
+            "answer": "Regelventile sind Ventile, die den Durchfluss von Flüssigkeiten steuern und regeln. Für Inline-Pumpensysteme sind sie wichtig, weil sie helfen, Druck, Temperatur und Strömungsgeschwindigkeit der Flüssigkeiten zu regeln, wodurch sich die Leistung des Pumpensystems optimieren lässt."
+          }
+        ]
+      }
+    ]
+  }
+}

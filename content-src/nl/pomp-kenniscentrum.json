@@ -1,0 +1,259 @@
+{
+ "path": "/pomp-kenniscentrum",
+ "title": "Pomp kenniscentrum",
+ "description": "",
+ "h1": "",
+ "ogImage": "",
+ "blocks": [
+  {
+   "t": "img",
+   "src": "/Files/Images/sfeer_fotos/pomp-kenniscentrum.png",
+   "alt": ""
+  },
+  {
+   "t": "h",
+   "l": 4,
+   "text": "Industrial Pump Group POMP KENNISCENTRUM"
+  },
+  {
+   "t": "p",
+   "text": "Welkom bij het Pomp Kenniscentrum van IPG! Hier vindt u een uitgebreide bron van informatie over alles wat met pompen te maken heeft. Van basisprincipes en productinformatie tot installatie- en onderhoudstips, ons kenniscentrum biedt waardevolle inzichten en praktische kennis. Ontdek de nieuwste innovaties en trends in de pompindustrie, bekijk onze technische handleidingen en lees artikelen van onze experts. Of u nu een professional bent of gewoon meer wilt weten over pompen, het Pomp Kenniscentrum is uw go-to bron voor alles wat met pompen te maken heeft."
+  },
+  {
+   "t": "h",
+   "l": 2,
+   "text": "1. Basiskennis pompen"
+  },
+  {
+   "t": "p",
+   "text": "1.1 [Inleiding tot pomptechnologie](/pomp-kenniscentrum/inleiding-tot-pomptechnologie)\n1.2 [Geschiedenis van pompen](/pomp-kenniscentrum/geschiedenis-van-pompen)\n1.3 [Belangrijkste componenten](/pomp-kenniscentrum/belangrijkste-componenten-van-pompen)"
+  },
+  {
+   "t": "h",
+   "l": 2,
+   "text": "2. Pomptypen"
+  },
+  {
+   "t": "p",
+   "text": "2.1 [API pompen](https://industrialpumps.nl/pompen/pomptypen/api-pompen)"
+  },
+  {
+   "t": "p",
+   "text": "2.2[Blokpompen](https://industrialpumps.nl/pompen/pomptypen/blokpompen)"
+  },
+  {
+   "t": "p",
+   "text": "2.3[Bronpompen](https://industrialpumps.nl/pompen/pomptypen/bronpompen)"
+  },
+  {
+   "t": "p",
+   "text": "2.4[Canned motor pompen](https://industrialpumps.nl/pompen/pomptypen/canned-motor-pompen)"
+  },
+  {
+   "t": "p",
+   "text": "2.5[Centrifugaalpompen](https://industrialpumps.nl/pompen/pomptypen/centrifugaalpompen)"
+  },
+  {
+   "t": "p",
+   "text": "2.6[Chemienormpompen](https://industrialpumps.nl/pompen/pomptypen/chemienorm-pompen-iso-5199)"
+  },
+  {
+   "t": "p",
+   "text": "2.7[Dompelpompen](https://industrialpumps.nl/pompen/pomptypen/dompelpompen)"
+  },
+  {
+   "t": "p",
+   "text": "2.8[End-suctionpompen](https://industrialpumps.nl/pompen/pomptypen/end-suction-pompen)"
+  },
+  {
+   "t": "p",
+   "text": "2.9[Hydrofoor units](https://industrialpumps.nl/pompen/pomptypen/hydrofoor-units)"
+  },
+  {
+   "t": "p",
+   "text": "2.10[Inline pompen](https://industrialpumps.nl/pompen/pomptypen/inline-pompen)"
+  },
+  {
+   "t": "p",
+   "text": "2.11[Insteekpompen](https://industrialpumps.nl/pompen/pomptypen/insteekpompen)"
+  },
+  {
+   "t": "p",
+   "text": "2.12[Lobbenpompen](https://industrialpumps.nl/pompen/pomptypen/lobbenpompen)"
+  },
+  {
+   "t": "p",
+   "text": "2.13[Meertrapspompen](https://industrialpumps.nl/pompen/pomptypen/meertrapspompen)"
+  },
+  {
+   "t": "p",
+   "text": "2.14[Membraanpompen](https://industrialpumps.nl/pompen/pomptypen/membraanpompen)"
+  },
+  {
+   "t": "p",
+   "text": "2.15[Mixers en voortstuwers](https://industrialpumps.nl/pompen/pomptypen/mixers-en-voortstuwers)"
+  },
+  {
+   "t": "p",
+   "text": "2.16[Mixed flow pompen](https://industrialpumps.nl/pompen/pomptypen/mixed-flow-pompen)"
+  },
+  {
+   "t": "p",
+   "text": "2.17[Slurrypompen](https://industrialpumps.nl/pompen/pomptypen/slurrypompen)"
+  },
+  {
+   "t": "p",
+   "text": "2.18[Splitcase pompen](https://industrialpumps.nl/pompen/pomptypen/splitcase-pompen)"
+  },
+  {
+   "t": "p",
+   "text": "2.19[Kunststofpompen](https://industrialpumps.nl/pompen/pomptypen/kunststofpompen)"
+  },
+  {
+   "t": "p",
+   "text": "2.20[Total Pump Units](https://industrialpumps.nl/pompen/pomptypen/total-pump-units)"
+  },
+  {
+   "t": "p",
+   "text": "2.21[Verticale Turbinepompen](https://industrialpumps.nl/pompen/pomptypen/verticale-turbinepompen)"
+  },
+  {
+   "t": "p",
+   "text": "2.22[Waternormpompen](https://industrialpumps.nl/pompen/pomptypen/waternormpompen)"
+  },
+  {
+   "t": "p",
+   "text": "2.23[Wormpompen](https://industrialpumps.nl/pompen/pomptypen/wormpompen)"
+  },
+  {
+   "t": "h",
+   "l": 2,
+   "text": "3. Pompprincipes en werking"
+  },
+  {
+   "t": "p",
+   "text": "3.1 [Wet van Bernoulli](/pomp-kenniscentrum/wet-van-bernoulli)\n3.2 [Cavitatie](/pomp-kenniscentrum/cavitatie)\n3.3 [Hydraulische efficiëntie](/pomp-kenniscentrum/hydraulische-efficientie)\n3.4 [Pompkrommen](/pomp-kenniscentrum/pompkrommen)"
+  },
+  {
+   "t": "h",
+   "l": 2,
+   "text": "4. Toepassingen en industrieën"
+  },
+  {
+   "t": "p",
+   "text": "4.1 [Agro](https://industrialpumps.nl/pompen/segmenten/agro)\n4.2[Chemische industrie](https://industrialpumps.nl/pompen/segmenten/chemische-industrie)\n4.3[Farmaceutische industrie](https://industrialpumps.nl/pompen/segmenten/farmaceutische-industrie)\n4.4[Voedingsindustrie](https://industrialpumps.nl/pompen/segmenten/voedingsindustrie)\n4.5[Olie- en gasindustrie](https://industrialpumps.nl/pompen/segmenten/pompen-voor-de-olie-en-gas-industrie)\n4.6[Huishoudelijk](https://industrialpumps.nl/pompen/segmenten/huishoudelijk)\n4.7[HVAC](https://industrialpumps.nl/pompen/segmenten/hvac)\n4.8[Metaalindustrie](https://industrialpumps.nl/pompen/segmenten/industriele-pompen)\n4.9[Papierindustrie](https://industrialpumps.nl/pompen/segmenten/papierindustrie)\n4.10[Power supply](https://industrialpumps.nl/pompen/segmenten/power-supply)\n4.11[Waterbehandeling](https://industrialpumps.nl/pompen/segmenten/industriele-pompen-voor-waterbehandeling)\n4.12[Water transport](https://industrialpumps.nl/pompen/segmenten/water-transport)\n4.13[Afvalwater](https://industrialpumps.nl/pompen/toepassingen/afvalwater)\n4.14[Bagger](https://industrialpumps.nl/pompen/toepassingen/bagger)\n4.15[Boiler feed](https://industrialpumps.nl/pompen/toepassingen/boiler-feed)\n4.16[Brand blussen](https://industrialpumps.nl/pompen/toepassingen/brandblus)\n4.17[Desalinatie](https://industrialpumps.nl/pompen/toepassingen/desalinatie)\n4.18[Drainage](https://industrialpumps.nl/pompen/toepassingen/drainage)\n4.19[Drinkwater](https://industrialpumps.nl/pompen/toepassingen/drinkwater)\n4.20[Koelwater](https://industrialpumps.nl/pompen/toepassingen/koelwater)\n4.21[Proceswater](https://industrialpumps.nl/pompen/toepassingen/proceswater)"
+  },
+  {
+   "t": "faq",
+   "q": "Pompcapaciteit (Q)",
+   "a": "Pompcapaciteit, aangeduid met Q, is het volume vloeistof dat een pomp in een bepaalde tijdseenheid kan verplaatsen, meestal uitgedrukt in liters per minuut (l/min) of kubieke meters per uur (m³/h)."
+  },
+  {
+   "t": "faq",
+   "q": "Opvoerhoogte (H)",
+   "a": "Opvoerhoogte, aangeduid met H, is de maximale hoogte waartegen een pomp een vloeistof kan verplaatsen, gemeten vanaf de inlaat tot het hoogste punt van de uitlaat, en wordt meestal uitgedrukt in meters."
+  },
+  {
+   "t": "faq",
+   "q": "Aanzuighoogte",
+   "a": "Aanzuighoogte is de verticale afstand tussen het vloeistofniveau in de aanzuigbak en de pomp. Het beïnvloedt de benodigde NPSH en de efficiëntie van de pomp."
+  },
+  {
+   "t": "faq",
+   "q": "Efficiëntie (η)",
+   "a": "Efficiëntie, aangeduid met η, is de verhouding tussen de nuttige energie die door de pomp wordt geleverd en de totale energie die door de pomp wordt verbruikt. Het wordt uitgedrukt als een percentage."
+  },
+  {
+   "t": "faq",
+   "q": "NPSH (Net Positive Suction Head)",
+   "a": "Net Positive Suction Head (NPSH) is de hoeveelheid druk die nodig is aan de zuigzijde van de pomp om cavitatie te voorkomen. Het bestaat uit NPSH-waarde vereist door de pomp (NPSHr) en beschikbaar in het systeem (NPSHa)."
+  },
+  {
+   "t": "faq",
+   "q": "Cavitatie",
+   "a": "Cavitatie is het ontstaan van dampbellen in een vloeistof wanneer de druk onder de dampdruk van de vloeistof daalt, wat kan leiden tot schade aan de pomp en verminderde prestaties."
+  },
+  {
+   "t": "faq",
+   "q": "Pompcurve",
+   "a": "Een pompcurve is een grafische weergave van de prestaties van een pomp, die de relatie toont tussen de opvoerhoogte en de pompcapaciteit."
+  },
+  {
+   "t": "faq",
+   "q": "Pompgrafiek",
+   "a": "Een pompgrafiek is een gedetailleerde grafiek die de prestaties van een pomp onder verschillende omstandigheden laat zien, inclusief capaciteit, opvoerhoogte en efficiëntie."
+  },
+  {
+   "t": "faq",
+   "q": "Viscositeit",
+   "a": "Viscositeit is een maat voor de weerstand van een vloeistof tegen stroming of vervorming. Het beïnvloedt hoe gemakkelijk de vloeistof door de pomp kan stromen."
+  },
+  {
+   "t": "faq",
+   "q": "Dichtheid",
+   "a": "Dichtheid is de massa per volume-eenheid van een stof, meestal uitgedrukt in kilogram per kubieke meter (kg/m³). Het beïnvloedt de opvoerhoogte en de kracht die nodig is om een vloeistof te verplaatsen."
+  },
+  {
+   "t": "faq",
+   "q": "Stroomregime (laminair en turbulent)",
+   "a": "Stroomregime beschrijft de manier waarop vloeistof beweegt door een systeem. Laminaire stroming is glad en ordelijk, terwijl turbulente stroming chaotisch en onregelmatig is."
+  },
+  {
+   "t": "faq",
+   "q": "Impeller / Waaier",
+   "a": "Een impeller, ook wel waaier genoemd, is een roterend onderdeel van een pomp dat de energie van de motor omzet in kinetische energie, waardoor de vloeistof wordt verplaatst."
+  },
+  {
+   "t": "faq",
+   "q": "Druk (statische en dynamische)",
+   "a": "Statische druk is de druk van een stilstaande vloeistof, terwijl dynamische druk de druk is als gevolg van de beweging van de vloeistof. Beide zijn cruciaal voor het ontwerpen en evalueren van pompsystemen."
+  },
+  {
+   "t": "faq",
+   "q": "Werkpunt",
+   "a": "Het werkingspunt is het punt op de pompcurve waar de pomp daadwerkelijk opereert in een systeem, bepaald door de balans tussen de pompkarakteristieken en het systeem."
+  },
+  {
+   "t": "faq",
+   "q": "Specific Speed (Ns)",
+   "a": "Specific Speed (Ns) is een dimensionale parameter die de geometrische proporties van een pomp karakteriseert en helpt bij de selectie van de juiste pomp voor een bepaalde toepassing."
+  },
+  {
+   "t": "faq",
+   "q": "Priming",
+   "a": "Priming is het proces van het vullen van de pomp en de aanzuigleiding met vloeistof om lucht te verwijderen en de pomp voor te bereiden op normaal functioneren."
+  },
+  {
+   "t": "faq",
+   "q": "Seals en afdichtingen",
+   "a": "Seals en afdichtingen worden gebruikt om lekkage van vloeistoffen langs de as van de pomp te voorkomen en zijn essentieel voor het behoud van de efficiëntie en veiligheid van het pompsysteem."
+  },
+  {
+   "t": "faq",
+   "q": "Slijtage en corrosie",
+   "a": "Slijtage en corrosie zijn vormen van schade aan pompcomponenten veroorzaakt door mechanische slijtage of chemische reacties, wat kan leiden tot verminderde prestaties en levensduur."
+  },
+  {
+   "t": "faq",
+   "q": "Vibratieanalyse",
+   "a": "Vibratieanalyse is een techniek om de trillingsniveaus van een pomp te meten en te analyseren, wat helpt bij het identificeren van problemen en het voorkomen van storingen."
+  },
+  {
+   "t": "p",
+   "text": "Bij IPG zijn we trots op onze uitgebreide kennis en expertise op het gebied van pompen. In ons online Pomp Kenniscentrum vindt u een schat aan informatie over basisbegrippen en principes die essentieel zijn voor iedereen die met pompen werkt. Van de werking van verschillende pompsoorten tot aan geavanceerde technische details, wij hebben alles zorgvuldig voor u uitgeschreven."
+  },
+  {
+   "t": "p",
+   "text": "Maar onze service gaat verder dan alleen online informatie. Wij begrijpen dat elke organisatie unieke behoeften en uitdagingen heeft. Daarom bieden wij op maat gemaakte cursussen aan, specifiek ontworpen om uw team te voorzien van de kennis en vaardigheden die nodig zijn om optimaal met onze pompen te werken. Onze cursussen variëren van basistrainingen tot geavanceerde technische workshops en worden gegeven door onze ervaren experts."
+  },
+  {
+   "t": "p",
+   "text": "Onze op maat gemaakte trainingen kunnen plaatsvinden bij u op locatie of in onze moderne trainingsfaciliteiten. We zorgen ervoor dat uw team niet alleen begrijpt hoe onze pompen werken, maar ook hoe ze deze efficiënt kunnen installeren, onderhouden en probleemoplossingen kunnen uitvoeren. Neem contact met ons op om te bespreken hoe wij uw organisatie kunnen ondersteunen met een op maat gemaakt trainingsprogramma."
+  }
+ ],
+ "words": 954,
+ "kind": "Wissenszentrum-Hub",
+ "template": "T2 Hub",
+ "schema": "CollectionPage, ItemList",
+ "dePath": "/pumpenwissen"
+}

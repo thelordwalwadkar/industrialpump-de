@@ -1,0 +1,917 @@
+{
+  "id": 900622292,
+  "uuid": "35ae67d4-0716-e3ba-feee-3e73c394675e",
+  "name": "Kreiselpumpen",
+  "slug": "kreiselpumpen",
+  "full_slug": "pumpen/pumpentypen/kreiselpumpen",
+  "position": 110,
+  "content": {
+    "component": "page_topic",
+    "h1": "Kreiselpumpen",
+    "nav_title": "Kreiselpumpen",
+    "seo_title": "Kreiselpumpen: Funktion, Typen und Einsatzbereiche",
+    "seo_description": "Kreiselpumpen für industrielle Anwendungen: Funktionsweise, Bauarten, Kavitation und Revision. Jetzt Angebot anfordern oder Auslegung prüfen lassen.",
+    "intro": "Kreiselpumpen fördern Flüssigkeiten mithilfe eines rotierenden Laufrads und der Zentrifugalkraft und sind die in der Industrie am häufigsten eingesetzte Pumpenart. Dieser Beitrag richtet sich an Einkäufer, Planer und Instandhalter, die Funktion, Bauarten und Auswahl verstehen wollen.",
+    "topic_kind": "pumpentyp",
+    "body": [
+      {
+        "_uid": "f7678e0a3dd5",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kreiselpumpen sind eine weit verbreitete Pumpenart zum Fördern von Flüssigkeiten mithilfe eines rotierenden Laufrads und der Zentrifugalkraft."
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "SAER-Pumpen",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/marken/saer",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Lowara-Pumpen",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/marken/lowara",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ebara-Pumpen",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/marken/ebara",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Grundfos-Pumpen",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/marken/grundfos",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehrstufige Pumpen",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/pumpentypen/mehrstufige-pumpen",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Blockpumpen",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/pumpentypen/blockpumpen",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Axial geteilte Pumpen",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/pumpentypen/axial-geteilte-pumpen",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Funktionsweise einer Kreiselpumpe",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/pumpentypen/kreiselpumpen/funktionsweise",
+                                "linktype": "url"
+                              }
+                            },
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Funktion, Anwendungen und Vorteile: die in der Industrie am häufigsten eingesetzte Pumpe"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bei der Industrial Pump Group Nederland erhalten Sie viele Pumpentypen, so auch Kreiselpumpen. Diese von Laufrad und Rotor angetriebenen Pumpen sind in verschiedenen Bauarten und Werkstoffen lieferbar und lassen sich dadurch in unterschiedlichen Anwendungen einsetzen."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Beispiele für Kreiselpumpen sind unter anderem Magnetkupplungspumpen, Blockpumpen, Tauchmotorpumpen und axial geteilte Pumpen. Auch Chemienormpumpen können Kreiselpumpen sein."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Vielseitige Anwendungen",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kreiselpumpen sind in verschiedenen Bauarten und Werkstoffen lieferbar und eignen sich dadurch für unterschiedliche Anwendungen, etwa als Magnetkupplungs-, Block-, Tauchmotor- und axial geteilte Pumpen."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Effizienter und kontinuierlicher Betrieb",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die Pumpen nutzen die Zentrifugalkraft für einen effizienten, kontinuierlichen Flüssigkeitsstrom und eignen sich daher für Anwendungen, die einen ununterbrochenen Betrieb erfordern."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Anpassbare Konfigurationen",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kreiselpumpen können als einzelne Pumpe oder als Komplettaggregat einschließlich Grundplatte und weiterem Zubehör geliefert werden, was Flexibilität bei Installation und Einsatz bietet."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Beherrschung der Kavitation",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Durch Beratung zur Vermeidung von Kavitation und zur Wahl der passenden Pumpe für die jeweilige Anwendung wird die Lebensdauer der Kreiselpumpe verlängert und mechanische Stöße sowie Schäden werden vermieden."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Über die Kreiselpumpe"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Eine Kreiselpumpe besteht aus einem Pumpengehäuse, in dem sich ein Laufrad dreht. Bei diesem Prinzip wird die zu fördernde Flüssigkeit vom rotierenden Laufrad gleichsam nach außen geschleudert. Dadurch entsteht innen Raum (auch Unterdruck genannt). In diesen Raum kann neue Flüssigkeit nachströmen, was den kontinuierlichen Betrieb der Pumpe sicherstellt."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kreiselpumpen sind als einzelne Pumpe (mit und ohne Motor) lieferbar, aber auch als Komplettaggregat."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ein Pumpenaggregat besteht neben Pumpe und Motor aus einer Grundplatte und gegebenenfalls weiterem Zubehör."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wie funktioniert eine Kreiselpumpe?"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die Kreiselpumpe, die unter anderem aus Pumpengehäuse, Laufrad und Elektromotor besteht, fördert die Flüssigkeit mithilfe der Zentrifugalkraft, auch Fliehkraft genannt. Diese Kraft wird vom Laufrad der Pumpe erzeugt. Das Laufrad sitzt im Pumpengehäuse, das mit einem Saug- und einem Druckflansch ausgestattet ist."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wenn die Pumpe gestartet wird, dreht sich die Flüssigkeit in der Pumpe mit dem Laufrad mit und unterliegt der Zentrifugalkraft. Sie strömt dadurch am äußeren Umfang des Laufrads in das Pumpengehäuse und anschließend über den Druckstutzen in die Druckleitung. Allerdings dürfen diese Pumpen nicht trockenlaufen (Betrieb ohne Flüssigkeit). Die Vorteile der Kreiselpumpe finden Sie weiter unten auf der Seite."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "eebb09ed7fd6",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/toepassingen-blokpompen-bg.webp",
+          "alt": "Nahaufnahme von Gehäuse und Laufrädern einer Kreiselpumpe zum Fördern von Flüssigkeiten in industriellen Prozessen",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      {
+        "_uid": "21919d8296a6",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Hervorragende und zugängliche Kundenbetreuung bei jedem Kontakt!"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Der Einsatz ist perfekt und sehr serviceorientiert, sowohl telefonisch als auch bei geplanter Umsetzung und bei ungeplanten Störungen."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Projektleiter RGR bei einem Abfallentsorger in den Niederlanden."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Hervorragende Erfahrung mit IPG: Professionalität, Qualität und proaktive Problemlösung!"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Als Arbeitsvorbereiter erlebe ich IPG als sehr professionell. Das Unternehmen strebt nach Qualität, denkt bei Verbesserungen mit und behebt Störungen schnell, um Stillstand zu minimieren."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Arbeitsvorbereiter Störungen bei einem Wasserverband."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ein zuverlässiger Partner mit hervorragendem Service und kundenorientierter Beratung!"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ich erlebe IPG als sehr guten Partner, ein Unternehmen, das Service großschreibt und mit den Kunden mitdenkt und berät."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Arbeitsvorbereiter Technischer Dienst bei einem Abfallverwerter in den Niederlanden."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Vielseitige und effiziente Kreiselpumpen für jede Anwendung!"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "IPG liefert hochwertige Kreiselpumpen, die in verschiedenen Prozessen einsetzbar sind. Die Pumpen sind effizient und erfordern wenig Wartung, was unsere Betriebskosten senkt."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Operations Manager bei einem Produktionsbetrieb in den Niederlanden."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Hervorragende Unterstützung und schnelle Lieferung!",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "IPG hat uns gut beraten, und die Kreiselpumpen erfüllen unsere Spezifikationen genau. Die fachkundige Unterstützung bei der Installation sorgte für einen reibungslosen und effizienten Ablauf."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Projektleiter",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " bei einem chemischen Produktionsbetrieb."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 4
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Unverbindlich Kontakt aufnehmen"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wie entsteht dieses Problem? Kavitation bei Kreiselpumpen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bei Kreiselpumpen besteht die Gefahr der Kavitation, also der Bildung und des Zusammenbruchs von Wasserdampfblasen in flüssigem Wasser. Kavitation entsteht, wenn der Druck in der Pumpe unter den Dampfdruck der Flüssigkeit fällt. Die implodierenden Dampfblasen im Wasser verursachen (starke) Geräusche und Schwingungen und in der Folge mechanische Stöße. Kavitation führt zu Schäden an verschiedenen Bauteilen wie Laufrad und Pumpengehäuse und wirkt sich selbstverständlich negativ auf die Lebensdauer der Pumpe aus."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kavitation lässt sich vermeiden, wenn der Zulaufdruck (NPSHa) der Anlage höher bleibt als der Mindestzulaufdruck (NPSHr) der Pumpe. Der NPSHa-Wert muss mindestens 1 m Wassersäule über dem NPSHr-Wert liegen. Auch hier ist entscheidend, dass die gewählte Pumpe für Ihre Anwendung geeignet ist. Wünschen Sie dazu Beratung? Dann nehmen Sie "
+                },
+                {
+                  "type": "text",
+                  "text": "Kontakt",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/kontakt",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " mit uns auf."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "cb6aa4fe7c3a",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/homepage-product4-2.webp",
+          "alt": "Mehrstufige Kreiselpumpe für hohen Druck und effizientes Fördern von Flüssigkeiten in industriellen Prozessen",
+          "width": 219,
+          "height": 152
+        }
+      },
+      {
+        "_uid": "d926630c251d",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Mehr über mehrstufige Pumpen lesen"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "b4bf966f6240",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-grundfos-grundfos-blokpomp.webp",
+          "alt": "Blockpumpe für zuverlässigen Betrieb in Branchen wie Chemie und Wasserbehandlung",
+          "width": 500,
+          "height": 500
+        }
+      },
+      {
+        "_uid": "20ff3b153cf9",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Mehr über Blockpumpen lesen"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "20c7ec90a129",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-koelwaterpompen.webp",
+          "alt": "Axial geteilte Kreiselpumpe zum Fördern großer Flüssigkeitsmengen bei niedrigem Druck in industriellen Anlagen",
+          "width": 600,
+          "height": 600
+        }
+      },
+      {
+        "_uid": "fe33d9ea0209",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Mehr über axial geteilte Pumpen lesen"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "de0cde1234ce",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/homepage-bronpomp-2.webp",
+          "alt": "Verschiedene Modelle von Brunnenpumpen zur Wasserförderung aus tiefen Brunnen in industriellen und landwirtschaftlichen Anwendungen",
+          "width": 168,
+          "height": 184
+        }
+      },
+      {
+        "_uid": "10a951a72431",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Mehr über Brunnenpumpen lesen"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Beratung und Verkauf: die passende Lösung für Ihre Anwendung"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Es gibt viele verschiedene Pumpentypen und ebenso viele Anwendungen, zum Beispiel Tauchmotorpumpen, Umwälzpumpen oder Brunnenpumpen. Wegen dieser Vielfalt ist es sinnvoll, sich gut zu informieren, welcher Pumpentyp erforderlich ist, bevor Sie eine Pumpe anschaffen oder instand setzen lassen. Das IPG-Team mit mehreren Pumpenexperten berät Sie jederzeit zur passenden Lösung für Ihre Anwendung und unterstützt Sie außerdem bei Beschaffung und Installation der Pumpe."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "IPG pflegt zu mehreren Pumpenherstellern enge Beziehungen und kann Sie daher bei der Beschaffung vieler Pumpentypen und Marken gut beraten. So ist die Industrial Pump Group der niederländische Importeur von SAER und offizieller Händler unter anderem von Lowara, Grundfos und Seepex."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ersatzteile und Instandsetzung von Kreiselpumpen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Eine Kreiselpumpe besteht aus nicht allzu vielen bewegten Teilen, weshalb bei diesem Pumpentyp im Allgemeinen geringere Wartungskosten anfallen. Die am stärksten verschleißenden Bauteile einer Kreiselpumpe sind das Laufrad und die Dichtungen (auch Gleitringdichtung genannt)."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wenn Sie Ihre (Kreisel-)Pumpe warten lassen möchten, ist es wichtig, dass dies fachgerecht geschieht. IPG verfügt mit mehreren Pumpenexperten über ausreichend Fachwissen, um Sie bei der Revision Ihrer Pumpen zu unterstützen."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "89779ece60e2",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/sfeer-fotos-meertraps-ipg.webp",
+          "alt": "Leistungsstarke Kreiselpumpe mit mehreren Laufrädern für Anwendungen in anspruchsvollen industriellen Umgebungen",
+          "width": 1280,
+          "height": 853
+        }
+      },
+      {
+        "_uid": "805622fa2c30",
+        "component": "faq",
+        "heading": "Häufige Fragen",
+        "items": [
+          {
+            "_uid": "4da74d140799",
+            "component": "faq_item",
+            "question": "Was ist eine Kreiselpumpe?",
+            "answer": "Eine Kreiselpumpe ist eine Pumpenart, die Flüssigkeiten mithilfe der Zentrifugalkraft fördert, die vom rotierenden Laufrad der Pumpe erzeugt wird."
+          },
+          {
+            "_uid": "23c63b8b5422",
+            "component": "faq_item",
+            "question": "Wofür werden Kreiselpumpen eingesetzt?",
+            "answer": "Kreiselpumpen werden für ein breites Spektrum von Anwendungen eingesetzt, darunter das Fördern von Wasser, chemischen Flüssigkeiten, Lebensmitteln, Arzneimitteln und mehr."
+          },
+          {
+            "_uid": "02b61b1b15a2",
+            "component": "faq_item",
+            "question": "Welche Vorteile hat eine Kreiselpumpe?",
+            "answer": "Zu den Vorteilen einer Kreiselpumpe zählen ein einfacher Aufbau, ein hoher Wirkungsgrad, geringe Wartungskosten, eine einfache Installation und ein hoher Förderstrom."
+          },
+          {
+            "_uid": "0622f0c2f2e8",
+            "component": "faq_item",
+            "question": "Welche Nachteile hat eine Kreiselpumpe?",
+            "answer": "Ein Nachteil der Kreiselpumpe ist die Empfindlichkeit gegenüber Kavitation, die zu Schäden an der Pumpe führen kann. Außerdem eignet sie sich weniger zum Fördern sehr zähflüssiger Flüssigkeiten und von Feststoffen."
+          }
+        ]
+      }
+    ]
+  }
+}

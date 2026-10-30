@@ -1,4 +1,4 @@
-# industrialpump.de · Astro + Storyblok
+# industrialpumpgroup.de · Astro + Storyblok
 
 Deutsche B2B-Pumpenseite: Marke → Serie → Artikel, ein Template je Seitentyp, JSON-LD auf jeder Seite, interne Links aus Ordnerbaum und Taxonomie abgeleitet.
 

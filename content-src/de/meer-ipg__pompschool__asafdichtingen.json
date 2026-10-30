@@ -1,0 +1,41 @@
+{
+  "id": "meer-ipg__pompschool__asafdichtingen",
+  "seo_title": "Kurs Gleitringdichtungen: Auswahl, Einbau, Wartung",
+  "seo_description": "Kurs Gleitringdichtungen (Mechanical Seals) für Monteure, Operatoren und Einkäufer: Aufbau, Auswahl, Einbau und Wartung. Jetzt Kurs vor Ort anfragen.",
+  "h1": "Kurs Gleitringdichtungen (Mechanical Seals)",
+  "intro": "Im Kurs Gleitringdichtungen der IPG Pumpenschule lernen Teilnehmer, wie Gleitringdichtungen aufgebaut sind, wie man sie auswählt, einbaut und wartet. Er richtet sich an Personen ohne Vorkenntnisse, etwa Monteure, Operatoren, Verkäufer, Konstrukteure und Einkäufer.",
+  "blocks": [
+    { "t": "img", "src": "/Files/Images/sfeer_fotos/Mechanicalseals.jpg", "alt": "Gleitringdichtungen (Mechanical Seals) für Pumpen" },
+    { "t": "h", "l": 4, "text": "Kurs Gleitringdichtungen / Mechanical Seals" },
+    { "t": "p", "text": "Gleitringdichtungen, auch als mechanische Dichtungen bekannt, verhindern Leckagen zwischen rotierenden Teilen in Maschinen und Geräten, zum Beispiel in Pumpen und Rührwerken. Sie sollen eine dauerhaft dichte Abdichtung sicherstellen, wodurch das Leckagerisiko sinkt und Lebensdauer und Effizienz der Maschine steigen." },
+    { "t": "p", "text": "Unser Kurs zu Gleitringdichtungen vermittelt das Wissen und die Fertigkeiten, um effizient und sachgerecht mit Gleitringdichtungen zu arbeiten. Der Kurs behandelt unter anderem folgende Themen:" },
+    { "t": "list", "ordered": true, "items": [
+      "Grundlagen der Gleitringdichtungen: Der Kurs erklärt die Grundprinzipien, einschließlich der verschiedenen Dichtungsarten, Werkstoffe und Techniken.",
+      "Auswahl und Auslegung: Die Teilnehmer lernen, wie sie die passenden Gleitringdichtungen für bestimmte Anwendungen auswählen und auslegen, unter Berücksichtigung von Faktoren wie Druck, Temperatur und Drehzahl.",
+      "Einbau und Wartung: Der Kurs legt den Schwerpunkt auf die richtigen Einbau- und Wartungsverfahren für Gleitringdichtungen, einschließlich Ausbau und Austausch.",
+      "Fehlersuche: Der Kurs hilft den Teilnehmern, Probleme zu erkennen und zu beheben, die beim Umgang mit Gleitringdichtungen auftreten können, etwa Leckagen und Verformungen."
+    ] },
+    { "t": "faq", "q": "Welche Inhalte vermittelt der Kurs Gleitringdichtungen?", "a": "Welche Gleitringdichtungen kommen bei Pumpen zum Einsatz?\nVor- und Nachteile der verschiedenen Arten von Gleitringdichtungen\nWas ist eine Gleitringdichtung (Mechanical Seal)?\nWie funktioniert eine Gleitringdichtung?\nWerkstoffe der einzelnen Bauteile von Gleitringdichtungen\nWelche Bauformen von Gleitringdichtungen gibt es?\nWartung und Reparatur von Gleitringdichtungen" },
+    { "t": "faq", "q": "Für wen ist der Kurs Gleitringdichtungen gedacht?", "a": "Der Kurs richtet sich an Personen, die keine Kenntnisse über Gleitringdichtungen haben, aber damit in Berührung kommen. Er eignet sich besonders für Monteure, Operatoren, Verkäufer, Konstrukteure und Einkäufer, die Wissen über Pumpen oder Pumpenwartung aufbauen möchten." },
+    { "t": "h", "l": 3, "text": "Kurs für Ihre Organisation" },
+    { "t": "p", "text": "Bei den Kursen der Industrial Pump Group ist es üblich, dass die Organisation den Kurs für ihre Mitarbeiter ausrichtet. Der Kursleiter von IPG kommt zu Ihnen vor Ort und hält den Kurs an einem oder mehreren Tagen. Andere Formen sind ebenfalls denkbar, etwa ein Einzelkurs mit dem Kursleiter." },
+    { "t": "p", "text": "**Möchten Sie alle Möglichkeiten kennenlernen?**\nDas IPG-Team mit engagierten Pumpenexperten steht für Sie bereit.\nNehmen Sie schnell über das Formular Kontakt auf oder rufen Sie\nwerktags zwischen 08:00 und 17:00 Uhr an.\n**Tel. {{TELEFON}}**" },
+    { "t": "h", "l": 2, "text": "Kurs Grundlagen Pumpen" },
+    { "t": "h", "l": 2, "text": "Kurs Inspektion und Wartung" },
+    { "t": "h", "l": 2, "text": "Kurs Gleitringdichtungen / Mechanical Seals" },
+    { "t": "h", "l": 2, "text": "Kurs Armaturen und Ventile" },
+    { "t": "h", "l": 2, "text": "Kurs Wellen und Lager" },
+    { "t": "form" }
+  ],
+  "notes": {
+    "dropped": [
+      "Die Überschrift 'Inspectie en Onderhoud CURSUS VOOR UW ORGANISATIE' ist in der Quelle ein Vorlagenfehler auf dieser Kursseite; sie lautet im Deutschen 'Kurs für Ihre Organisation'."
+    ],
+    "claims": [
+      "Der Kurs behandelt Grundlagen, Auswahl und Auslegung, Einbau und Wartung sowie Fehlersuche bei Gleitringdichtungen."
+    ],
+    "nl_specific": [
+      "Rufen Sie werktags zwischen 08:00 und 17:00 Uhr an (niederländische Telefonnummer, als {{TELEFON}} ersetzt; Zeiten aus der niederländischen Quelle)."
+    ]
+  }
+}

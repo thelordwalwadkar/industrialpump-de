@@ -1,0 +1,1060 @@
+{
+  "id": 400766617,
+  "uuid": "17e33699-ea44-c4dd-92d4-c16e01d877e0",
+  "name": "Mehrstufige Pumpen",
+  "slug": "mehrstufige-pumpen",
+  "full_slug": "pumpen/pumpentypen/mehrstufige-pumpen",
+  "position": 119,
+  "content": {
+    "component": "page_topic",
+    "h1": "Mehrstufige Pumpen",
+    "nav_title": "Mehrstufige Pumpen",
+    "seo_title": "Mehrstufige Pumpen: Funktion, Bauarten und Einsatz",
+    "seo_description": "Mehrstufige Kreiselpumpen für hohe Drücke, etwa Kesselspeisung und Kondensat: horizontal oder vertikal. Jetzt Beratung oder Angebot anfordern.",
+    "intro": "Mehrstufige Pumpen sind Kreiselpumpen mit mehreren Laufrädern und Leitapparaten, die Wasser mit höheren Drücken fördern als einstufige Pumpen. Sie richten sich an Planer und Betreiber von Anlagen zur Kesselspeisung, Kondensatförderung, Kühlwasserversorgung und Meerwasserentsalzung.",
+    "topic_kind": "pumpentyp",
+    "body": [
+      {
+        "_uid": "1bd69d408bcb",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Mehrstufige Pumpen bestehen aus mehreren Laufrädern und Leitapparaten und können daher Wasser mit höheren Drücken fördern als einstufige Pumpen."
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kesselspeisung",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/anwendungen/kesselspeisung",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Meerwasserentsalzung",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/anwendungen/meerwasserentsalzung",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kühlwasser",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/anwendungen/kuehlwasser",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Prozesswasser",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/anwendungen/prozesswasser",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Metallindustrie",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/branchen/stahlindustrie",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "HVAC",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/branchen/gebaeudetechnik-hvac",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Mehrstufige Pumpen: Leistung passend zu Ihrem System"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die mehrstufige Kreiselpumpe besteht aus mehreren Stufen mit je einem Kreiselpumpen-Laufrad und einem Leitapparat. Die Anzahl der Stufen und die Motordrehzahl bestimmen den Betriebspunkt dieses Pumpentyps, der in Hochdruckanwendungen eingesetzt wird."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die Stufen sind miteinander verbunden: Die erste Stufe speist die nächste und so weiter, sodass der Druck mit jeder Stufe steigt. Am häufigsten ist die Ausführung, bei der die Pumpenwelle mit Kugellagern in einem Lagerträger außerhalb des flüssigkeitsführenden Teils der Pumpe gelagert ist. Zwischen Laufrad und Lagerung sorgt die Gleitringdichtung für eine flüssigkeits- und luftdichte Wellendurchführung im Pumpengehäuse."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die Pumpe kann sowohl horizontal als auch vertikal ausgeführt werden. Außerdem sind verschiedene Werkstoffoptionen sowohl für das Laufradpaket als auch für die Dichtungen lieferbar. Wie bei jeder Pumpe bestimmen die Systemparameter, welche Pumpe sich in Ihrem System am besten einsetzen lässt: Förderstrom und Zusammensetzung des Mediums sind einige der Anforderungen für eine passende Auswahl, und wir unterstützen Sie dabei mit Rat und Tat."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Hohe Druckerzeugung",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Erzeugt hohe Druckniveaus und eignet sich damit für Anwendungen, in denen höhere Drücke erforderlich sind, etwa in Kondensat- und Kesselspeisesystemen."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Verschiedene Antriebsmöglichkeiten",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Geeignet für verschiedene Antriebe, darunter Elektromotoren, Dieselmotoren oder Hydraulikmotoren, was Flexibilität bei der Installation ermöglicht."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Breite Auswahl an Werkstoffen und Dichtungen",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Lieferbar in verschiedenen Werkstoffen für Laufradpakete und Dichtungen, sodass sich spezifische Anforderungen der Anwendung erfüllen lassen."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Zuverlässigkeit und geringer Wartungsaufwand",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Benötigt dank robuster Bauweise und zuverlässiger Funktion wenig Wartung und ist für den Dauerbetrieb und anspruchsvolle Anwendungen geeignet."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ausführungen vertikaler mehrstufiger Pumpen"
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehrstufige Pumpen mit niedrigem NPSH"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Eintauchpumpe (mehrstufig) für Kühlmittel oder Schneidöl"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Standardmäßige vertikale und horizontale mehrstufige Pumpen"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehrstufige Pumpen und Boosterpumpen für hohe Temperaturen"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kondensatpumpen, Tiefbrunnenpumpen und Kesselspeisepumpen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Horizontale und vertikale Boosterpumpen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Alle Pumpen sind als horizontale und als vertikale mehrstufige Pumpen ausführbar. Je nach gewünschter Konstruktion passen wir die gesamte Pumpe an. Die Standardpumpe können wir durch Lieferung spezieller Pumpenstützen vertikal aufstellen."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Niedriger NPSH oder hohe Temperatur"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die von uns gelieferten Pumpen können wir speziell auf höhere Temperaturen auslegen. Auch Ausführungen für sehr niedrige NPSHa-Werte sind möglich. Das erreichen wir durch spezielle Umlaufdeckel und Laufräder oder durch einen speziellen Inducer im Saugbereich der Pumpe. Dadurch können wir eine kavitationsfreie Boosterpumpe oder mehrstufige Pumpe zum Beispiel für Kondensatsysteme, Kesselspeisesysteme und Tiefbrunnensysteme zusichern."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Vorteile einer mehrstufigen Pumpe"
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Erzeugt hohen Druck und eignet sich dadurch auch für anspruchsvolle Anwendungen"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Geeignet für verschiedene Antriebe"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Lieferbar in verschiedenen Werkstoffen und mit unterschiedlichen Dichtungen für jede Anwendung"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Geringer Wartungsaufwand"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "0b04e592611d",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-meertraps-2.webp",
+          "alt": "Mehrstufige Pumpe | Industrial Pump Group",
+          "width": 1000,
+          "height": 560
+        }
+      },
+      {
+        "_uid": "2949fcfa1ade",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Eine Auswahl unserer Kunden"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "6eb64ef43524",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/homepage-logos-aeb.webp",
+          "alt": "Kundenlogo AEB",
+          "width": 387,
+          "height": 241
+        }
+      },
+      {
+        "_uid": "294d093365f7",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/homepage-logos-akzonobel.webp",
+          "alt": "Kundenlogo AkzoNobel",
+          "width": 387,
+          "height": 241
+        }
+      },
+      {
+        "_uid": "b8652465b431",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/homepage-logos-hvc.webp",
+          "alt": "Kundenlogo HVC",
+          "width": 387,
+          "height": 241
+        }
+      },
+      {
+        "_uid": "465361fa341b",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/homepage-logos-petrogas.webp",
+          "alt": "Kundenlogo Petrogas",
+          "width": 387,
+          "height": 241
+        }
+      },
+      {
+        "_uid": "b37879fca52b",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/homepage-logos-tatasteel.webp",
+          "alt": "Kundenlogo Tata Steel",
+          "width": 387,
+          "height": 241
+        }
+      },
+      {
+        "_uid": "b03e723a5e8a",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/homepage-logos-waternet.webp",
+          "alt": "Kundenlogo Waternet",
+          "width": 387,
+          "height": 241
+        }
+      },
+      {
+        "_uid": "b004ad3196d6",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Robert von IPG: unverzichtbare Unterstützung bei Wasseraufbereitungsprojekten."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Als Projektleiter schätze ich die fachkundige Unterstützung von Robert von IPG; sein Einsatz für Wasseraufbereitungsprojekte und die schnelle Reaktion bei Störungen sind von unschätzbarem Wert. Mit Robert haben wir einen Experten für Pumpentechnik und einen verlässlichen Berater für unseren Betrieb."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Projektleiter bei einer Wasseraufbereitungsanlage."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "IPG: ein zuverlässiger Partner bei Beschaffung und Optimierung!"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Als Einkaufsleiter schätze ich IPG als Partner, der unsere Anforderungen versteht und schnell liefert. Fachwissen und Beratung haben unsere Prozesse optimiert."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Einkaufsleiter bei einem Lebensmittelhersteller."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "IPG ist ein unverzichtbarer Partner für Produktionseffizienz!"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Als Produktionsleiter schätze ich IPG als unverzichtbaren Partner für Effizienz und Verfügbarkeit. Das fachkundige Team hat uns bei der Auswahl der passenden Pumpen und beim Service für eine gleichbleibende Produktion unterstützt."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Projektleiter bei einer Papierfabrik."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Effiziente mehrstufige Pumpen für Hochdruckanwendungen!"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die mehrstufigen Pumpen von IPG passen sehr gut zu unseren Prozessen, die hohen Druck erfordern. Sie sind zuverlässig und liefern stabile Leistung, was für unsere Produktionsziele wesentlich ist."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Operations Manager bei einem Industriebetrieb in den Niederlanden."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Hervorragende Qualität und energiesparende Auslegung!"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "IPG liefert mehrstufige Pumpen, die effizient und energiesparend sind. Sie helfen uns, die Betriebskosten zu senken, und erfüllen die hohen Druckanforderungen unserer Anlage."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Technischer Verwalter bei einem Wasseraufbereitungsunternehmen."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 4
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Unverbindlich Kontakt aufnehmen"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Mehrstufige Pumpen: wie sie funktionieren"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Grundsätzlich entspricht das Pumpprinzip einer mehrstufigen Pumpe dem einer Kreiselpumpe mit einem Laufrad. Der Unterschied liegt im Austritt beziehungsweise auf der Druckseite: Bei einer einstufigen Pumpe befindet sich dieser direkt am Druckstutzen. Bei einer mehrstufigen Pumpe führt dieser Austritt zum Eintritt des nachfolgenden Laufrads. Dadurch wird der Druck erhöht."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Erzeugt ein Laufrad bei einem bestimmten Förderstrom einen Druck von 2 bar, so kann eine Pumpe mit fünf Laufrädern 5 x 2 bar erzeugen. Der Druck dieser mehrstufigen Pumpe beträgt dann 10 bar. Allerdings treten Druckverluste auf, und mit jedem weiteren Laufrad wird der Druckverlust größer."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "fbb15d50eef4",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-lowara-lowara-esv.webp",
+          "alt": "Lowara mehrstufige Pumpe | Industrial Pump Group",
+          "width": 179,
+          "height": 400
+        }
+      },
+      {
+        "_uid": "4afb5896330e",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Mehr über Lowara-Pumpen lesen"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "a86c4d975c1d",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/homepage-product4-2.webp",
+          "alt": "SAER mehrstufige Pumpe | Industrial Pump Group",
+          "width": 219,
+          "height": 152
+        }
+      },
+      {
+        "_uid": "4c4d2c930f2b",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Mehr über SAER-Pumpen lesen"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "062076a99d0b",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-grundfos-grundfos-crn.webp",
+          "alt": "Grundfos mehrstufige Pumpe | Industrial Pump Group",
+          "width": 146,
+          "height": 344
+        }
+      },
+      {
+        "_uid": "99b9df02de7b",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Mehr über Grundfos-Pumpen lesen"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "fd63bc186e51",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-duchting-duchting-meertraps.webp",
+          "alt": "Düchting mehrstufige Pumpe | Industrial Pump Group",
+          "width": 225,
+          "height": 225
+        }
+      },
+      {
+        "_uid": "52b51ca74e9f",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Mehr über Düchting-Pumpen lesen"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Beratung und Verkauf: die passende Lösung für Ihre Anwendung"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Es gibt viele verschiedene Pumpentypen und ebenso viele Anwendungen, zum Beispiel Tauchmotorpumpen, Umwälzpumpen oder Brunnenpumpen. Wegen dieser Vielfalt ist es sinnvoll, sich gut zu informieren, welcher Pumpentyp erforderlich ist, bevor Sie eine Pumpe anschaffen oder instand setzen lassen. Das IPG-Team mit mehreren Pumpenexperten berät Sie jederzeit zur passenden Lösung für Ihre Anwendung und unterstützt Sie außerdem bei Beschaffung und Installation der Pumpe."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "IPG pflegt zu mehreren Pumpenherstellern enge Beziehungen und kann Sie daher bei der Beschaffung vieler Pumpentypen und Marken gut beraten. So ist die Industrial Pump Group der niederländische Importeur von SAER und offizieller Händler unter anderem von Lowara, Grundfos und Seepex."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wartung und Revision"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Obwohl eine mehrstufige Pumpe im Durchschnitt eine längere Lebensdauer hat, weil sich der Verschleiß auf alle vorhandenen Laufräder verteilt, ist es wichtig, Pumpen regelmäßig zu inspizieren und ausreichend zu warten."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wartung und Revision sind für alle Pumpen wichtig. Wünschen Sie hierzu Beratung oder möchten Sie die Revision extern vergeben? Dann nehmen Sie Kontakt mit dem Revisionsteam von IPG auf."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "b9ee1e8d9d11",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-meertraps-3.webp",
+          "alt": "Mehrstufige Pumpe | Industrial Pump Group",
+          "width": 1280,
+          "height": 960
+        }
+      },
+      {
+        "_uid": "f73cb2f1df60",
+        "component": "faq",
+        "heading": "Häufige Fragen",
+        "items": [
+          {
+            "_uid": "95dd43aab2d8",
+            "component": "faq_item",
+            "question": "Was ist eine mehrstufige Pumpe?",
+            "answer": "Eine mehrstufige Pumpe ist eine Kreiselpumpe, die aus mehreren Laufradstufen besteht. Jede Stufe hat ihr eigenes Laufrad und leitet die Flüssigkeit zur nächsten Stufe, wobei der Druck schrittweise erhöht wird."
+          },
+          {
+            "_uid": "328c27612bf2",
+            "component": "faq_item",
+            "question": "Wofür werden mehrstufige Pumpen eingesetzt?",
+            "answer": "Mehrstufige Pumpen werden zum Fördern von Flüssigkeiten mit hohen Druckanforderungen eingesetzt, zum Beispiel in der Wasser- und Abwasseraufbereitung, in der Bewässerung, in industriellen Anwendungen sowie bei Heizung und Kühlung."
+          },
+          {
+            "_uid": "2bd48c671010",
+            "component": "faq_item",
+            "question": "Welche Flüssigkeiten lassen sich mit mehrstufigen Pumpen fördern?",
+            "answer": "Mehrstufige Pumpen können verschiedene Arten von Flüssigkeiten fördern, darunter Wasser, Öl, Chemikalien und Kraftstoffe."
+          },
+          {
+            "_uid": "d7aeb1456e89",
+            "component": "faq_item",
+            "question": "Was ist der Unterschied zwischen einer mehrstufigen Pumpe und einer einstufigen Kreiselpumpe?",
+            "answer": "Eine einstufige Kreiselpumpe hat nur eine Laufradstufe, eine mehrstufige Pumpe dagegen mehrere. Dadurch kann eine mehrstufige Pumpe höhere Drücke erreichen als eine einstufige Kreiselpumpe."
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -9,6 +9,7 @@ import LinkCards from '../components/LinkCards.astro';
 import FaqList from '../components/FaqList.astro';
 import RelatedLinks from '../storyblok/RelatedLinks.astro';
 import Bloks from '../components/Bloks.astro';
+import QuoteCta from '../components/QuoteCta.astro';
 interface Props { story: PageStory<PageTopic>; site: Site }
 const { story, site } = Astro.props;
 const c = story.content;
@@ -21,4 +22,5 @@ const series = c.tag ? seriesWithTag(site, c.tag) : [];
 {c.technical_notes && <section class="section"><div class="wrap"><h2>Technische Hinweise</h2><RichTextHtml doc={c.technical_notes} /></div></section>}
 <Bloks bloks={c.body} site={site} />
 <div class="wrap"><FaqList faqs={c.faq} /></div>
+<div class="wrap"><QuoteCta heading="Pumpe oder Revision anfragen" text="Senden Sie uns Typenschild oder Betriebsdaten, wir prüfen die passende Lösung." label="Angebot anfordern" href="/angebot" /></div>
 <Bloks bloks={c.cta} site={site} />

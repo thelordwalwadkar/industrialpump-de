@@ -8,13 +8,13 @@ import { readdirSync, readFileSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 import type { ConfigContent, PageComponent, PageContent, PageStory, Story } from './types';
 
-export const SITE_URL = ((import.meta.env?.PUBLIC_SITE_URL as string | undefined) || process.env.PUBLIC_SITE_URL || 'https://www.industrialpump.de').replace(/\/$/, '');
+export const SITE_URL = ((import.meta.env?.PUBLIC_SITE_URL as string | undefined) || process.env.PUBLIC_SITE_URL || 'https://industrialpumpgroup.de').replace(/\/$/, '');
 const INCLUDE_FIXTURES = (process.env.INCLUDE_FIXTURES ?? import.meta.env?.INCLUDE_FIXTURES) === '1';
 export const FIXTURE_PREFIX = '__fixtures__';
 
 const PAGE_COMPONENTS: ReadonlySet<string> = new Set<PageComponent>([
   'page_home', 'page_hub', 'page_topic', 'page_brand', 'page_series', 'page_product', 'page_service',
-  'page_course', 'page_knowledge', 'page_blog_post', 'page_case_study', 'page_listing', 'page_contact', 'page_legal',
+  'page_course', 'page_knowledge', 'page_blog_post', 'page_case_study', 'page_listing', 'page_contact', 'page_legal', 'page_job', 'page_about', 'page_faq',
 ]);
 
 export interface Site {

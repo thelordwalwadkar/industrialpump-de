@@ -1,0 +1,283 @@
+{
+  "id": 266903788,
+  "uuid": "0fe8a0ec-97db-fc91-0175-7e9893e59c82",
+  "name": "Kurs Gleitringdichtungen (Mechanical Seals)",
+  "slug": "gleitringdichtungen",
+  "full_slug": "ueber-uns/pumpenschule/gleitringdichtungen",
+  "position": 47,
+  "content": {
+    "component": "page_course",
+    "h1": "Kurs Gleitringdichtungen (Mechanical Seals)",
+    "seo_title": "Kurs Gleitringdichtungen: Auswahl, Einbau, Wartung",
+    "seo_description": "Kurs Gleitringdichtungen (Mechanical Seals) für Monteure, Operatoren und Einkäufer: Aufbau, Auswahl, Einbau und Wartung. Jetzt Kurs vor Ort anfragen.",
+    "intro": "Im Kurs Gleitringdichtungen der IPG Pumpenschule lernen Teilnehmer, wie Gleitringdichtungen aufgebaut sind, wie man sie auswählt, einbaut und wartet. Er richtet sich an Personen ohne Vorkenntnisse, etwa Monteure, Operatoren, Verkäufer, Konstrukteure und Einkäufer.",
+    "body": [
+      {
+        "_uid": "63852f8496a4",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/sfeer-fotos-mechanicalseals.webp",
+          "alt": "Gleitringdichtungen (Mechanical Seals) für Pumpen",
+          "width": 1280,
+          "height": 853
+        }
+      },
+      {
+        "_uid": "b39563d198e9",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 4
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kurs Gleitringdichtungen / Mechanical Seals"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Gleitringdichtungen, auch als mechanische Dichtungen bekannt, verhindern Leckagen zwischen rotierenden Teilen in Maschinen und Geräten, zum Beispiel in Pumpen und Rührwerken. Sie sollen eine dauerhaft dichte Abdichtung sicherstellen, wodurch das Leckagerisiko sinkt und Lebensdauer und Effizienz der Maschine steigen."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Unser Kurs zu Gleitringdichtungen vermittelt das Wissen und die Fertigkeiten, um effizient und sachgerecht mit Gleitringdichtungen zu arbeiten. Der Kurs behandelt unter anderem folgende Themen:"
+                }
+              ]
+            },
+            {
+              "type": "ordered_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Grundlagen der Gleitringdichtungen: Der Kurs erklärt die Grundprinzipien, einschließlich der verschiedenen Dichtungsarten, Werkstoffe und Techniken."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Auswahl und Auslegung: Die Teilnehmer lernen, wie sie die passenden Gleitringdichtungen für bestimmte Anwendungen auswählen und auslegen, unter Berücksichtigung von Faktoren wie Druck, Temperatur und Drehzahl."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Einbau und Wartung: Der Kurs legt den Schwerpunkt auf die richtigen Einbau- und Wartungsverfahren für Gleitringdichtungen, einschließlich Ausbau und Austausch."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Fehlersuche: Der Kurs hilft den Teilnehmern, Probleme zu erkennen und zu beheben, die beim Umgang mit Gleitringdichtungen auftreten können, etwa Leckagen und Verformungen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "985f7270df1f",
+        "component": "faq",
+        "heading": "Häufige Fragen",
+        "items": [
+          {
+            "_uid": "7b2229d2e080",
+            "component": "faq_item",
+            "question": "Welche Inhalte vermittelt der Kurs Gleitringdichtungen?",
+            "answer": "Welche Gleitringdichtungen kommen bei Pumpen zum Einsatz?\nVor- und Nachteile der verschiedenen Arten von Gleitringdichtungen\nWas ist eine Gleitringdichtung (Mechanical Seal)?\nWie funktioniert eine Gleitringdichtung?\nWerkstoffe der einzelnen Bauteile von Gleitringdichtungen\nWelche Bauformen von Gleitringdichtungen gibt es?\nWartung und Reparatur von Gleitringdichtungen"
+          },
+          {
+            "_uid": "42e4d29f1c8a",
+            "component": "faq_item",
+            "question": "Für wen ist der Kurs Gleitringdichtungen gedacht?",
+            "answer": "Der Kurs richtet sich an Personen, die keine Kenntnisse über Gleitringdichtungen haben, aber damit in Berührung kommen. Er eignet sich besonders für Monteure, Operatoren, Verkäufer, Konstrukteure und Einkäufer, die Wissen über Pumpen oder Pumpenwartung aufbauen möchten."
+          }
+        ]
+      },
+      {
+        "_uid": "afe89398b13c",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kurs für Ihre Organisation"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bei den Kursen der Industrial Pump Group ist es üblich, dass die Organisation den Kurs für ihre Mitarbeiter ausrichtet. Der Kursleiter von IPG kommt zu Ihnen vor Ort und hält den Kurs an einem oder mehreren Tagen. Andere Formen sind ebenfalls denkbar, etwa ein Einzelkurs mit dem Kursleiter."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Möchten Sie alle Möglichkeiten kennenlernen?",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "Das IPG-Team mit engagierten Pumpenexperten steht für Sie bereit."
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "Nehmen Sie schnell über das Formular Kontakt auf oder rufen Sie"
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "werktags zwischen 08:00 und 17:00 Uhr an."
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "Tel. [[PLATZHALTER: Telefon]]",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kurs Grundlagen Pumpen"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kurs Inspektion und Wartung"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kurs Gleitringdichtungen / Mechanical Seals"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kurs Armaturen und Ventile"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kurs Wellen und Lager"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

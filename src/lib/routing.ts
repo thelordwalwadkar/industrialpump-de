@@ -15,6 +15,9 @@ import CaseStudyTemplate from '../templates/CaseStudyTemplate.astro';
 import ListingTemplate from '../templates/ListingTemplate.astro';
 import ContactTemplate from '../templates/ContactTemplate.astro';
 import LegalTemplate from '../templates/LegalTemplate.astro';
+import JobTemplate from '../templates/JobTemplate.astro';
+import AboutTemplate from '../templates/AboutTemplate.astro';
+import FaqTemplate from '../templates/FaqTemplate.astro';
 
 export const TEMPLATES = {
   page_home: HomeTemplate,
@@ -31,6 +34,9 @@ export const TEMPLATES = {
   page_listing: ListingTemplate,
   page_contact: ContactTemplate,
   page_legal: LegalTemplate,
+  page_job: JobTemplate,
+  page_about: AboutTemplate,
+  page_faq: FaqTemplate,
 } satisfies Record<PageComponent, unknown>;
 
 /** The catch-all route param: the home story is the root (`undefined`), every other story is its full_slug. */

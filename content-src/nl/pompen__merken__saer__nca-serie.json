@@ -1,0 +1,74 @@
+{
+ "path": "/pompen/merken/saer/nca-serie",
+ "title": "SAER NCA | Industrial Pump Group",
+ "description": "Industrial Pump Group biedt de SAER NCA serie: centrifugaalpompen voor huishoudelijk & industrieel vuil water, met capaciteit tot 1600 m³/h en 30 + jaar pompervaring.",
+ "h1": "Droog opgestelde electrische pompen SAER NCA",
+ "ogImage": "",
+ "blocks": [
+  {
+   "t": "h",
+   "l": 1,
+   "text": "Droog opgestelde electrische pompen SAER NCA"
+  },
+  {
+   "t": "img",
+   "src": "/Files/Images/pomptypes/Merk/SAER/SAER-NCA.png",
+   "alt": "Groene industriële centrifugaalpomp uit de SAER NCA‑serie geschikt voor vuilwaterverpomping"
+  },
+  {
+   "t": "h",
+   "l": 2,
+   "text": "Serie geschikt voor afvoer- en afvalwater"
+  },
+  {
+   "t": "p",
+   "text": "De SAER NCA centrifugaalpomp is geschikt voor het verpompen van huishoudelijk en industrieel vuil water, viskeuze en bijtende vloeistoffen, vloeistoffen met vezelachtige en vaste stoffen, landbouwslurry, evenals algemeen vuil en modderig water."
+  },
+  {
+   "t": "table",
+   "rows": [
+    [
+     "**Maximale capaciteit**",
+     "",
+     "1600",
+     "m3/h"
+    ],
+    [
+     "**Maximale opvoerhoogte**",
+     "",
+     "60",
+     "m"
+    ],
+    [
+     "**Maximaal vermogen**",
+     "",
+     "160",
+     "kW"
+    ]
+   ]
+  },
+  {
+   "t": "h",
+   "l": 2,
+   "text": "Vrijblijvend Contact opnemen"
+  },
+  {
+   "t": "img",
+   "src": "/Files/Images/merken/_0025_saer.png",
+   "alt": "Logo van SAER Elettropompe, fabrikant van centrifugaalpompen uit de NCA-serie"
+  },
+  {
+   "t": "h",
+   "l": 2,
+   "text": "Benieuwd naar al onze **SAER pompen**? Bekijk ons gehele assortiment"
+  },
+  {
+   "t": "form"
+  }
+ ],
+ "words": 57,
+ "kind": "Marken-Unterseite / Serie (L4)",
+ "template": "T4/T5 Brand-Serie (ohne Webshop-Produkte)",
+ "schema": "CollectionPage, ItemList, Organization, FAQPage",
+ "dePath": "/pumpen/marken/saer/[DE-Slug aus „nca-serie“]"
+}

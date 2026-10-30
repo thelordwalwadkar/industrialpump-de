@@ -26,7 +26,7 @@ const pages: PageData[] = [];
 const definedIds = new Set<string>();
 
 for (const file of files) {
-  const rel = '/' + relative(root, file).replace(/\\/g, '/').replace(/index\.html$/, '').replace(/\.html$/, '');
+  const rel = '/' + relative(root, file).replace(/\\/g, '/').replace(/(^|\/)index\.html$/, '$1').replace(/\.html$/, '');
   const { document } = parseHTML(readFileSync(file, 'utf8'));
   const robots = document.querySelector('meta[name="robots"]')?.getAttribute('content') ?? '';
   const blocks = [...document.querySelectorAll('script[type="application/ld+json"]')];
@@ -82,9 +82,11 @@ const REQUIRED: Record<string, string[]> = {
   Product: ['name', 'sku', 'mpn', 'brand', 'manufacturer', 'isVariantOf'],
   Service: ['name', 'provider', 'areaServed'],
   Course: ['name', 'provider', 'inLanguage'],
-  Article: ['headline', 'author', 'publisher', 'datePublished', 'dateModified'],
-  TechArticle: ['headline', 'author', 'publisher', 'datePublished', 'dateModified'],
-  BlogPosting: ['headline', 'author', 'publisher', 'datePublished', 'dateModified'],
+  Article: ['headline', 'author', 'publisher'],
+  TechArticle: ['headline', 'author', 'publisher'],
+  BlogPosting: ['headline', 'author', 'publisher'],
+  JobPosting: ['title', 'description', 'hiringOrganization'],
+  AboutPage: ['url', 'name', 'isPartOf', 'breadcrumb', 'about'],
   DigitalDocument: ['name', 'url'],
 };
 

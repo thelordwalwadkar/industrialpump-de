@@ -1,0 +1,688 @@
+{
+  "id": 2822927538,
+  "uuid": "a84274b2-9a25-f74d-9963-f48571a144c1",
+  "name": "Rückruf anfordern",
+  "slug": "rueckruf",
+  "full_slug": "rueckruf",
+  "position": 3,
+  "content": {
+    "component": "page_contact",
+    "h1": "Rückruf anfordern",
+    "nav_title": "Rückruf anfordern",
+    "seo_title": "Rückruf anfordern: Pumpenexperten von IPG",
+    "seo_description": "Hinterlassen Sie Ihre Daten: Die Pumpenexperten von IPG rufen Sie zu Industriepumpen, Revision und Ersatzteilen zurück. Jetzt Rückruf anfordern.",
+    "intro": "Hinterlassen Sie Ihre Daten, dann ruft Sie das Team von Industrial Pump Group (IPG) zurück. Das Angebot gilt für Fragen zu Industriepumpen, Revision, Ersatzteilen und technischen Themen.",
+    "noindex": true,
+    "form_kind": "rueckruf",
+    "body": [
+      {
+        "_uid": "ce18d177f06a",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Daten hinterlassen, wir nehmen Kontakt auf: Rückruf anfordern"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Suchen Sie eine "
+                },
+                {
+                  "type": "text",
+                  "text": "Industriepumpe",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/branchen",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", eine "
+                },
+                {
+                  "type": "text",
+                  "text": "Revision",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/revision",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " oder "
+                },
+                {
+                  "type": "text",
+                  "text": "Ersatzteile",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/revision/ersatzteile",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "? Oder haben Sie eine technische Frage?"
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "Mit mehr als 30 Jahren Erfahrung bietet IPG fachkundige Beratung und maßgeschneiderte Lösungen für verschiedene Branchen, darunter die "
+                },
+                {
+                  "type": "text",
+                  "text": "chemische Industrie",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/branchen/chemische-industrie",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", die "
+                },
+                {
+                  "type": "text",
+                  "text": "Lebensmittelindustrie",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/branchen/lebensmittelindustrie",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", die "
+                },
+                {
+                  "type": "text",
+                  "text": "Wasseraufbereitung",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/branchen/wasseraufbereitung",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " und "
+                },
+                {
+                  "type": "text",
+                  "text": "weitere",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/branchen",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Lieber direkt Kontakt aufnehmen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Haben Sie Fragen oder möchten Sie lieber direkt mailen oder anrufen? Kein Problem, das IPG-Team engagierter Pumpenexperten steht für Sie bereit."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "[[PLATZHALTER: Telefon]]",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "Erreichbar an Werktagen"
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "von 08:00 bis 17:00 Uhr"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "[[PLATZHALTER: E-Mail]]",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "Tipp: Fügen Sie unsere E-Mail-Adresse Ihren Kontakten hinzu, damit unsere Antwort nicht im Spam-Ordner landet."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Besuchsadresse",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "[[PLATZHALTER: Anschrift]]"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Warum Kunden sich für uns entscheiden"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Persönliche Beratung"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Klare Preise, keine Überraschungen"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Schnelle Antwort innerhalb von 24 Stunden"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "e39c6dbb61e2",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/cmf-service.webp",
+          "alt": "CMF Services",
+          "width": 1002,
+          "height": 670
+        }
+      },
+      {
+        "_uid": "f172fd97959d",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "19. August 2026"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "CMF Services"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Eine Nische, in der Kontinuität alles ist"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "e08bb1a3612b",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/dael-video-ipg.webp",
+          "alt": "J.J. Dael Onderhoudsbedrijf",
+          "width": 549,
+          "height": 325
+        }
+      },
+      {
+        "_uid": "067263efaf2c",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "16. Juni 2026"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "J.J. Dael Onderhoudsbedrijf"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "„Ich weiß einfach: Ich kann IPG anrufen“"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "e4a8af641aee",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/cases-svitzer-nederland-ipg.webp",
+          "alt": "Svitzer Nederland",
+          "width": 572,
+          "height": 314
+        }
+      },
+      {
+        "_uid": "08685e405371",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "12. Januar 2026"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Svitzer Nederland"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Immer betriebsbereit. Immer einsatzbereit."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "3. Februar 2025"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "HHNK"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ein zuverlässiger Partner für Pumpenlösungen"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "b25189881464",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/cases-rietlanden-ipg.webp",
+          "alt": "Rietlanden Terminals",
+          "width": 445,
+          "height": 399
+        }
+      },
+      {
+        "_uid": "cabf1c03601a",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "3. September 2024"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Rietlanden Terminals"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Zuverlässige Partnerschaft für Pumpen und Nachhaltigkeit"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "11ad741f0cf4",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/cases-kesbeke-header.webp",
+          "alt": "Kesbeke",
+          "width": 1200,
+          "height": 480
+        }
+      },
+      {
+        "_uid": "605adfbd60aa",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "4. März 2024"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kesbeke"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kräfte gebündelt: IPG & Kesbeke"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "f9e2c4fa1e4d",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/cases-waternet-header.webp",
+          "alt": "Waternet",
+          "width": 1280,
+          "height": 658
+        }
+      },
+      {
+        "_uid": "a1b60749c937",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "4. Juli 2025"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Waternet"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ein Jahrzehnt Partnerschaft"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "e0ca6d305f2e",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/nieuws-aeb-amsterdam.webp",
+          "alt": "AEB Amsterdam",
+          "width": 1078,
+          "height": 516
+        }
+      },
+      {
+        "_uid": "2f154b22149a",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "8. Mai 2025"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "AEB Amsterdam"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "IPG ist seit mehr als 15 Jahren ein zuverlässiger Partner von AEB"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

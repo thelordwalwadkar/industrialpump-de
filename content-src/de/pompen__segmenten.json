@@ -1,0 +1,41 @@
+{
+  "id": "pompen__segmenten",
+  "seo_title": "Pumpen nach Branchen: Einsatzbereiche im Überblick",
+  "seo_description": "Industriepumpen für Chemie, Pharma, Maritim, HVAC, Wasseraufbereitung und mehr: Branchen im Überblick. Jetzt unverbindlich beraten lassen.",
+  "h1": "Industriepumpen nach Branchen",
+  "intro": "Industriepumpen fördern, mischen, dosieren und regeln Flüssigkeiten und Gase in nahezu allen Branchen. Diese Übersicht führt Betreiber, Einkäufer und Planer zu den Einsatzbereichen, in denen die Industrial Pump Group Pumpen liefert.",
+  "blocks": [
+    { "t": "img", "src": "/Files/Images/sfeer_fotos/shutterstock_160393526.jpg", "alt": "Branchen für Industriepumpen" },
+    { "t": "h", "l": 4, "text": "Alle Branchen im Überblick" },
+    { "t": "p", "text": "Industriepumpen sind in zahlreichen Sektoren und Industrien unverzichtbar. Sie werden eingesetzt, um Flüssigkeiten und Gase zu fördern, zu mischen, zu dosieren und zu regeln. Von der Lebensmittelindustrie bis zur chemischen und petrochemischen Industrie, von der Wasseraufbereitung bis zur Öl- und Gasindustrie: Überall spielen Pumpen eine zentrale Rolle." },
+    { "t": "p", "text": "Die Industrial Pump Group (IPG) ist Ihr herstellerunabhängiger Partner für Industriepumpen. Wir verfügen über mehr als 30 Jahre Erfahrung und sind in vielen Branchen stark aufgestellt. Einige dieser Branchen finden Sie auf dieser Seite." },
+    { "t": "list", "ordered": false, "items": [
+      "[Landwirtschaft](/pompen/segmenten/agro)",
+      "[Chemische Industrie](/pompen/segmenten/chemische-industrie)",
+      "[Pharmaindustrie](/pompen/segmenten/farmaceutische-industrie)",
+      "[Lebensmittelindustrie](/pompen/segmenten/voedingsindustrie)",
+      "[Maritim / Offshore](/pompen/segmenten/maritiem-offshore)",
+      "[Öl- und Gasindustrie](/pompen/segmenten/pompen-voor-de-olie-en-gas-industrie)",
+      "[Haushalt](/pompen/segmenten/huishoudelijk)",
+      "[HVAC](/pompen/segmenten/hvac)",
+      "[Metallindustrie](/pompen/segmenten/industriele-pompen)",
+      "[Papierindustrie](/pompen/segmenten/papierindustrie)",
+      "[Energieversorgung](/pompen/segmenten/power-supply)",
+      "[Wasseraufbereitung](/pompen/segmenten/industriele-pompen-voor-waterbehandeling)",
+      "[Wasserverbände](/pompen/segmenten/waterschappen)",
+      "[Wassertransport](/pompen/segmenten/water-transport)"
+    ] },
+    { "t": "h", "l": 3, "text": "Unverbindliche Beratung: Jetzt Kontakt aufnehmen" },
+    { "t": "p", "text": "Wenn Sie eine Industriepumpe suchen, kann es schwierig sein, die passende Pumpe für Ihre konkrete Anwendung und Ihre Anforderungen zu finden. Bei vielen Pumpenlieferanten, darunter die Industrial Pump Group (IPG), können Sie unverbindlich ein Angebot anfordern." },
+    { "t": "p", "text": "**Fragen zu den Möglichkeiten?**\nDas IPG-Team mit engagierten Pumpenexperten steht für Sie bereit.\nNehmen Sie schnell über das Formular Kontakt auf oder rufen Sie\nan Werktagen zwischen 08:00 und 17:00 Uhr an.\n**Tel. {{TELEFON}}**" },
+    { "t": "form" }
+  ],
+  "notes": {
+    "dropped": [],
+    "claims": [
+      "Wir verfügen über mehr als 30 Jahre Erfahrung und sind in vielen Branchen stark aufgestellt.",
+      "Die Industrial Pump Group (IPG) ist Ihr herstellerunabhängiger Partner für Industriepumpen."
+    ],
+    "nl_specific": []
+  }
+}

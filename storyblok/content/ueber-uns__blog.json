@@ -1,0 +1,216 @@
+{
+  "id": 2983853628,
+  "uuid": "b1d9fe3c-bf6d-e774-5d31-a7daafbbf67f",
+  "name": "Neuigkeiten und Blog der Industrial Pump Group",
+  "slug": "blog",
+  "full_slug": "ueber-uns/blog",
+  "position": 14,
+  "content": {
+    "component": "page_listing",
+    "h1": "Neuigkeiten und Blog der Industrial Pump Group",
+    "seo_title": "Pumpen-Blog und Neuigkeiten der Industrial Pump Group",
+    "seo_description": "Aktuelle Neuigkeiten und Fachbeiträge zu Industriepumpen, Revision und Wartung. Jetzt lesen und über Entwicklungen bei IPG informiert bleiben.",
+    "intro": "Hier finden Sie die aktuellen Neuigkeiten der Industrial Pump Group sowie Fachbeiträge zu Industriepumpen, Revision und Wartung. Die Übersicht richtet sich an Betreiber, Instandhalter und Einkäufer, die sich über Entwicklungen bei IPG und in der Pumpentechnik informieren möchten.",
+    "listing_kind": "blog",
+    "per_page": 12,
+    "body": [
+      {
+        "_uid": "4bc40403c14d",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bleiben Sie auf dem Laufenden"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Lesen Sie hier die neuesten Nachrichten und Beiträge von IPG, die wir Ihnen für die Arbeit mit Pumpen zusammengestellt haben"
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Neuigkeit: IPG und JINC"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Blogbeitrag: ATEX-Pumpen für Zone 1 und Zone 2 auswählen"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Blogbeitrag: Der umfassende Leitfaden zur Kesselspeisepumpe"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Blogbeitrag: Der umfassende Leitfaden zu Baggerpumpen"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Blogbeitrag: Inbetriebnahme einer Pumpe"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Blogbeitrag: Pumpe revidieren oder neu kaufen? Fünf Prüfpunkte für eine fundierte Entscheidung",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/ueber-uns/blog/revision-oder-neukauf-5-pruefpunkte",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Neuigkeit: Junge Talente für Technik begeistern beim Doe-Dag",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/ueber-uns/blog/junge-talente-fuer-technik-begeistern",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Neuigkeit: Entlastung bei Pumpenbedarf in den Niederlanden",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/ueber-uns/blog/pumpenbedarf-sorgenfrei-abdecken",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Blogbeitrag: Verdrängerpumpen, Exzenterschneckenpumpe oder Schraubenspindelpumpe",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/ueber-uns/blog/verdraengerpumpen-exzenterschnecken-und-schraubenspindelpumpen",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

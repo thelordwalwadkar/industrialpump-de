@@ -1,0 +1,232 @@
+{
+  "id": 28591789,
+  "uuid": "01b446ad-0d9d-7c9f-8455-af0febcb03c1",
+  "name": "Kurs Armaturen und Ventile",
+  "slug": "armaturen-und-ventile",
+  "full_slug": "ueber-uns/pumpenschule/armaturen-und-ventile",
+  "position": 52,
+  "content": {
+    "component": "page_course",
+    "h1": "Kurs Armaturen und Ventile",
+    "nav_title": "Kurs Armaturen und Ventile",
+    "seo_title": "Kurs Armaturen und Ventile für Pumpensysteme",
+    "seo_description": "Kurs Armaturen und Ventile in Pumpenanlagen: Bauarten, Sicherheits- und Regelventile, Kavitation, Wartung. Jetzt Kurs für Ihr Unternehmen anfragen.",
+    "intro": "Der Kurs Armaturen und Ventile der IPG Pumpenschule erklärt, welche Armaturen in Pumpensystemen eingesetzt werden, wofür sie dienen und wann man sie verwendet. Er richtet sich an Monteure, Operatoren, Verkäufer, Konstrukteure und Einkäufer ohne Vorkenntnisse.",
+    "body": [
+      {
+        "_uid": "3ab8525879bb",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/sfeer-fotos-afsluiters.webp",
+          "alt": "Armaturen und Ventile in einer industriellen Pumpenanlage",
+          "width": 1000,
+          "height": 667
+        }
+      },
+      {
+        "_uid": "5e4973b67657",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 4
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kurs Armaturen und Ventile"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "In industriellen (Pumpen-)Anlagen kommen sie vielfach vor: Ventile, Absperrarmaturen und weitere Armaturen. Sie werden meist in verfahrenstechnischen Prozessen eingesetzt, zum Beispiel für Medien wie Dampf, Kondensat und Flüssigkeiten, aber auch für Gase. Diese Absperrarmaturen nutzen ein Ventil, um den Durchfluss zu stoppen, zu starten und zu regeln. Für den richtigen Einsatz dieser Ventile und Armaturen bietet IPG diesen Kurs an. Er vermittelt Grundlagenwissen sowie die verschiedenen Bauarten und die Frage, wann man sie verwendet und wann nicht."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Unser Kurs zu Ventilen und Armaturen für Pumpensysteme behandelt die verschiedenen Arten von Ventilen und Armaturen, die in Pumpensystemen eingesetzt werden, und die unterschiedlichen Zwecke, denen sie dienen."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ventile sind Bauteile, mit denen der Durchfluss von Flüssigkeiten, Gasen oder Feststoffen geregelt oder begrenzt wird. Sie können auch die Strömungsrichtung ändern. In Pumpensystemen dienen Ventile dazu, den Förderstrom der Pumpe zu regeln, überschüssigen Druck abzubauen und die Pumpe vor zu hohen Drücken zu schützen."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "e5285994aacc",
+        "component": "faq",
+        "heading": "Häufige Fragen",
+        "items": [
+          {
+            "_uid": "c53908bbc3aa",
+            "component": "faq_item",
+            "question": "Welche Inhalte vermittelt der Kurs Armaturen und Ventile?",
+            "answer": "Was sind Armaturen und wo werden sie eingesetzt?\nVerschiedene Arten von Armaturen\nWelche Ausführungen von Armaturen gibt es?\nSicherheitsventile und Regelventile\nGrundbegriffe, zum Beispiel Kavitation, Druck und Viskosität\nWartung und Dichtungen"
+          },
+          {
+            "_uid": "413c150208b3",
+            "component": "faq_item",
+            "question": "Für wen ist der Kurs Armaturen und Ventile gedacht?",
+            "answer": "Der Kurs richtet sich an Personen, die keine Kenntnisse über Armaturen haben, aber mit verschiedenen Ventilen und Absperrarmaturen in Berührung kommen.\nEr eignet sich besonders für Monteure, Operatoren, Verkäufer, Konstrukteure und Einkäufer, die Wissen über Armaturen oder deren Wartung aufbauen möchten."
+          }
+        ]
+      },
+      {
+        "_uid": "3ca723e38d71",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kurs für Ihre Organisation"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bei den Kursen der Industrial Pump Group ist es üblich, dass die Organisation den Kurs für ihre Mitarbeiter ausrichtet. Der Kursleiter von IPG kommt zu Ihnen vor Ort und hält den Kurs an einem oder mehreren Tagen. Andere Formen sind ebenfalls denkbar, etwa ein Einzelkurs mit dem Kursleiter."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Möchten Sie alle Möglichkeiten kennenlernen?",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "Das IPG-Team mit engagierten Pumpenexperten steht für Sie bereit."
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "Nehmen Sie schnell über das Formular Kontakt auf oder rufen Sie"
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "werktags zwischen 08:00 und 17:00 Uhr an."
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "Tel. [[PLATZHALTER: Telefon]]",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kurs Grundlagen Pumpen"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kurs Inspektion und Wartung"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kurs Gleitringdichtungen / Mechanical Seals"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kurs Armaturen und Ventile"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kurs Wellen und Lager"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

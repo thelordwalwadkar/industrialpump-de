@@ -1,0 +1,40 @@
+{
+  "id": "meer-ipg__nieuws",
+  "seo_title": "Pumpen-Blog und Neuigkeiten der Industrial Pump Group",
+  "seo_description": "Aktuelle Neuigkeiten und Fachbeiträge zu Industriepumpen, Revision und Wartung. Jetzt lesen und über Entwicklungen bei IPG informiert bleiben.",
+  "h1": "Neuigkeiten und Blog der Industrial Pump Group",
+  "intro": "Hier finden Sie die aktuellen Neuigkeiten der Industrial Pump Group sowie Fachbeiträge zu Industriepumpen, Revision und Wartung. Die Übersicht richtet sich an Betreiber, Instandhalter und Einkäufer, die sich über Entwicklungen bei IPG und in der Pumpentechnik informieren möchten.",
+  "blocks": [
+    {
+      "t": "h",
+      "l": 2,
+      "text": "Bleiben Sie auf dem Laufenden"
+    },
+    {
+      "t": "p",
+      "text": "Lesen Sie hier die neuesten Nachrichten und Beiträge von IPG, die wir Ihnen für die Arbeit mit Pumpen zusammengestellt haben"
+    },
+    {
+      "t": "list",
+      "ordered": false,
+      "items": [
+        "[Neuigkeit: IPG und JINC](/meer-ipg/nieuws/ipg-jinc)",
+        "[Blogbeitrag: ATEX-Pumpen für Zone 1 und Zone 2 auswählen](/meer-ipg/nieuws/atex-pompen-kiezen-voor-zone-1-en-zone-2)",
+        "[Blogbeitrag: Der umfassende Leitfaden zur Kesselspeisepumpe](/meer-ipg/nieuws/blog-de-ultieme-gids-voor-de-boiler-feed-pomp)",
+        "[Blogbeitrag: Der umfassende Leitfaden zu Baggerpumpen](/meer-ipg/nieuws/de-ultieme-gids-voor-baggerpompen)",
+        "[Blogbeitrag: Inbetriebnahme einer Pumpe](/meer-ipg/nieuws/blog-het-in-bedrijf-stellen-van-een-pomp)",
+        "[Blogbeitrag: Pumpe revidieren oder neu kaufen? Fünf Prüfpunkte für eine fundierte Entscheidung](/meer-ipg/nieuws/blog-reviseren-of-nieuw-kopen-5-checkpoints-voor-een-slimme-keuze)",
+        "[Neuigkeit: Junge Talente für Technik begeistern beim Doe-Dag](/meer-ipg/nieuws/jong-talent-enthousiast-maken-voor-techniek-tijdens-de-doe-dag)",
+        "[Neuigkeit: Entlastung bei Pumpenbedarf in den Niederlanden](/meer-ipg/nieuws/ontzorgen-van-pompbehoeftes-in-nederland)",
+        "[Blogbeitrag: Verdrängerpumpen, Exzenterschneckenpumpe oder Schraubenspindelpumpe](/meer-ipg/nieuws/blog-verdringerpompen-wormpompen-versus-schroefpompen)"
+      ]
+    }
+  ],
+  "notes": {
+    "dropped": [],
+    "claims": [],
+    "nl_specific": [
+      "Die Linktexte Neuigkeit bzw. Blogbeitrag in der Quelle waren generisch; sie wurden aus den Zielseiten-Slugs zu beschreibenden deutschen Linktexten ergänzt (Titel der Zielseiten bitte beim Übersetzen abgleichen). Doe-Dag ist eine niederländische Veranstaltung, die Zielseiten sind niederländische Beiträge."
+    ]
+  }
+}

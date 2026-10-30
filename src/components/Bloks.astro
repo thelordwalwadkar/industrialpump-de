@@ -14,12 +14,16 @@ import Steps from '../storyblok/Steps.astro';
 import LogoStrip from '../storyblok/LogoStrip.astro';
 import RelatedLinks from '../storyblok/RelatedLinks.astro';
 import ImageText from '../storyblok/ImageText.astro';
+import ImageBlock from '../storyblok/ImageBlock.astro';
+import DataTable from '../storyblok/DataTable.astro';
+import ButtonRow from '../storyblok/ButtonRow.astro';
 
 interface Props { bloks?: Blok[]; site: Site }
 const { bloks = [], site } = Astro.props;
 const MAP: Record<string, any> = {
   hero: Hero, rich_text: RichText, card_grid: CardGrid, cta_band: CtaBand, faq: Faq, spec_table: SpecTable,
   download_list: DownloadList, steps: Steps, logo_strip: LogoStrip, related_links: RelatedLinks, image_text: ImageText,
+  image_block: ImageBlock, data_table: DataTable, button_row: ButtonRow,
 };
 const preview = process.env.PREVIEW === '1';
 ---

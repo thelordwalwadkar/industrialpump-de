@@ -1,0 +1,340 @@
+{
+ "path": "/pomp-kenniscentrum/pompkrommen",
+ "title": "Pompkrommen",
+ "description": "",
+ "h1": "",
+ "ogImage": "",
+ "blocks": [
+  {
+   "t": "img",
+   "src": "/Files/Images/sfeer_fotos/pomp-kenniscentrum.png",
+   "alt": ""
+  },
+  {
+   "t": "h",
+   "l": 4,
+   "text": "IPG POMP KENNISCENTRUM Pompkrommen"
+  },
+  {
+   "t": "h",
+   "l": 2,
+   "text": "Wat zijn pompkrommen?"
+  },
+  {
+   "t": "p",
+   "text": "Pompkrommen, ook wel prestatiecurves genoemd, zijn grafieken die de prestaties van een pomp weergeven onder verschillende operationele omstandigheden. De meest voorkomende pompkrommen zijn:"
+  },
+  {
+   "t": "p",
+   "text": "1. **Opvoerhoogte-capaciteitskromme (H-Q-kromme)**:"
+  },
+  {
+   "t": "p",
+   "text": "Deze curve toont de relatie tussen de opvoerhoogte (H) en de capaciteit (Q) van de pomp. Het laat zien hoe de opvoerhoogte verandert met variërende doorstroming."
+  },
+  {
+   "t": "p",
+   "text": "2. **Efficiëntiekromme (η-Q-kromme)**:"
+  },
+  {
+   "t": "p",
+   "text": "Deze curve geeft de efficiëntie (η) van de pomp weer als functie van de capaciteit (Q). Het helpt bij het identificeren van het werkingspunt waarbij de pomp het meest efficiënt opereert."
+  },
+  {
+   "t": "p",
+   "text": "3. **Vermogenscurve (P-Q-kromme)**:"
+  },
+  {
+   "t": "p",
+   "text": "Deze curve toont het opgenomen vermogen (P) van de pomp als functie van de capaciteit (Q). Dit is nuttig voor het berekenen van de energiebehoefte en bedrijfskosten."
+  },
+  {
+   "t": "p",
+   "text": "4. **NPSH-kromme (NPSH-Q-kromme)**:"
+  },
+  {
+   "t": "p",
+   "text": "Deze curve geeft de benodigde Net Positive Suction Head (NPSH) weer als functie van de capaciteit (Q). Het is essentieel voor het voorkomen van cavitatie."
+  },
+  {
+   "t": "h",
+   "l": 2,
+   "text": "Hoe pompkrommen worden gebruikt"
+  },
+  {
+   "t": "p",
+   "text": "Pompkrommen spelen een cruciale rol bij verschillende aspecten van pompbeheer, waaronder ontwerp, selectie en operationele optimalisatie. Hier zijn enkele manieren waarop ze worden gebruikt:"
+  },
+  {
+   "t": "p",
+   "text": "1. **Pompselectie:**"
+  },
+  {
+   "t": "p",
+   "text": "Bij het kiezen van een pomp voor een specifieke toepassing, gebruiken ingenieurs de pompkrommen om de juiste pomp te selecteren die voldoet aan de vereiste opvoerhoogte en capaciteit. Door de H-Q-kromme te vergelijken met de systeemcurve (die de weerstand van het systeem weergeeft), kan het optimale werkingspunt worden bepaald."
+  },
+  {
+   "t": "p",
+   "text": "2. **Operationele Optimalisatie:**"
+  },
+  {
+   "t": "p",
+   "text": "Pompkrommen helpen bij het identificeren van de optimale bedrijfsomstandigheden waarbij de pomp de hoogste efficiëntie bereikt. Door de η-Q-kromme te analyseren, kunnen operators de pomp zo instellen dat deze binnen het meest efficiënte bereik opereert, wat energiekosten bespaart en slijtage vermindert."
+  },
+  {
+   "t": "p",
+   "text": "3. **Probleemoplossing:**"
+  },
+  {
+   "t": "p",
+   "text": "Als een pomp niet naar verwachting presteert, kunnen pompkrommen helpen bij het diagnosticeren van het probleem. Afwijkingen van de verwachte prestaties op de H-Q-kromme kunnen wijzen op problemen zoals verstoppingen, luchtinsluiting of mechanische defecten."
+  },
+  {
+   "t": "p",
+   "text": "4. **Energiebeheer:**"
+  },
+  {
+   "t": "p",
+   "text": "Door de vermogenscurve (P-Q-kromme) te gebruiken, kunnen ingenieurs de energiebehoefte van de pomp berekenen en maatregelen nemen om het energieverbruik te optimaliseren. Dit is vooral belangrijk in industriële toepassingen waar energie-efficiëntie een prioriteit is."
+  },
+  {
+   "t": "h",
+   "l": 2,
+   "text": "Voorbeeld van een pompkromme"
+  },
+  {
+   "t": "p",
+   "text": "Laten we een hypothetisch voorbeeld bekijken van een H-Q-kromme voor een centrifugaalpomp:"
+  },
+  {
+   "t": "p",
+   "text": "In deze tabel zien we hoe de opvoerhoogte (H) afneemt naarmate de capaciteit (Q) toeneemt. Dit is typisch voor centrifugaalpompen en helpt bij het bepalen van het werkingspunt."
+  },
+  {
+   "t": "h",
+   "l": 4,
+   "text": "met Industrial Pump Group Contact opnemen"
+  },
+  {
+   "t": "h",
+   "l": 3,
+   "text": "Hulp nodig van onze specialist?"
+  },
+  {
+   "t": "p",
+   "text": "Het IPG team met betrokken pompexperts zit voor u klaar.\nBel ons op werkdagen tussen 08:00 en 18:00 uur"
+  },
+  {
+   "t": "p",
+   "text": "**Tel: [(0251) 222 566](tel:(0251) 222 566)**"
+  },
+  {
+   "t": "h",
+   "l": 2,
+   "text": "Interpretatie van pompkrommen"
+  },
+  {
+   "t": "p",
+   "text": "Het interpreteren van pompkrommen vereist een goed begrip van de relatie tussen de verschillende parameters:"
+  },
+  {
+   "t": "p",
+   "text": "1. **Werkingspunt:**"
+  },
+  {
+   "t": "p",
+   "text": "Het werkingspunt van een pomp is het snijpunt van de H-Q-kromme van de pomp en de systeemcurve. Dit punt vertegenwoordigt de operationele omstandigheden waarbij de pomp daadwerkelijk werkt."
+  },
+  {
+   "t": "p",
+   "text": "2. **Systeemcurve:**"
+  },
+  {
+   "t": "p",
+   "text": "De systeemcurve toont de weerstand van het pompsysteem, inclusief wrijvingsverliezen en hoogteverschillen. Het is essentieel om de systeemcurve nauwkeurig te bepalen om een geschikte pomp te selecteren."
+  },
+  {
+   "t": "p",
+   "text": "3. **Efficiëntie en Energiebesparing:**"
+  },
+  {
+   "t": "p",
+   "text": "Door de efficiëntiekromme te analyseren, kunnen operators de pomp zodanig instellen dat deze binnen het gebied van maximale efficiëntie opereert. Dit helpt bij het minimaliseren van energiekosten en het maximaliseren van de levensduur van de pomp."
+  },
+  {
+   "t": "h",
+   "l": 2,
+   "text": "Praktische tips voor het gebruik van pompkrommen"
+  },
+  {
+   "t": "p",
+   "text": "Hier zijn enkele praktische tips voor ingenieurs en technici bij het gebruik van pompkrommen:"
+  },
+  {
+   "t": "p",
+   "text": "1. **Regelmatige Evaluatie:**"
+  },
+  {
+   "t": "p",
+   "text": "Het is belangrijk om de prestaties van pompen regelmatig te evalueren aan de hand van de pompkrommen. Dit helpt bij het vroegtijdig identificeren van afwijkingen en het nemen van corrigerende maatregelen."
+  },
+  {
+   "t": "p",
+   "text": "2. **Nauwkeurige Systeemanalyse:**"
+  },
+  {
+   "t": "p",
+   "text": "Zorg ervoor dat de systeemcurve nauwkeurig wordt bepaald door rekening te houden met alle factoren die de stroming beïnvloeden, zoals pijplengte, diameter, kleppen en bochten."
+  },
+  {
+   "t": "p",
+   "text": "3. **Onderhoud en Afstemming:**"
+  },
+  {
+   "t": "p",
+   "text": "Voer regelmatig onderhoud uit om ervoor te zorgen dat de pomp blijft presteren volgens de specificaties op de pompkromme. Slijtage en vervuiling kunnen de prestaties negatief beïnvloeden."
+  },
+  {
+   "t": "p",
+   "text": "4. **Gebruik van Frequentieregelaars:**"
+  },
+  {
+   "t": "p",
+   "text": "Overweeg het gebruik van frequentieregelaars om de motorsnelheid aan te passen aan de veranderende behoeften van het systeem. Dit kan helpen om de pomp altijd binnen het optimale bereik van de pompkromme te laten werken."
+  },
+  {
+   "t": "h",
+   "l": 2,
+   "text": "Meer artikelen van het IPG POMP KENNISCENTRUM:"
+  },
+  {
+   "t": "h",
+   "l": 2,
+   "text": "1. Basiskennis pompen"
+  },
+  {
+   "t": "p",
+   "text": "1.1 [Inleiding tot pomptechnologie](/pomp-kenniscentrum/inleiding-tot-pomptechnologie)\n1.2 [Geschiedenis van pompen](/pomp-kenniscentrum/geschiedenis-van-pompen)\n1.3 [Belangrijkste componenten](/pomp-kenniscentrum/belangrijkste-componenten-van-pompen)"
+  },
+  {
+   "t": "h",
+   "l": 2,
+   "text": "2. Pomptypen"
+  },
+  {
+   "t": "p",
+   "text": "2.1 [API pompen](https://industrialpumps.nl/pompen/pomptypen/api-pompen)"
+  },
+  {
+   "t": "p",
+   "text": "2.2[Blokpompen](https://industrialpumps.nl/pompen/pomptypen/blokpompen)"
+  },
+  {
+   "t": "p",
+   "text": "2.3[Bronpompen](https://industrialpumps.nl/pompen/pomptypen/bronpompen)"
+  },
+  {
+   "t": "p",
+   "text": "2.4[Canned motor pompen](https://industrialpumps.nl/pompen/pomptypen/canned-motor-pompen)"
+  },
+  {
+   "t": "p",
+   "text": "2.5[Centrifugaalpompen](https://industrialpumps.nl/pompen/pomptypen/centrifugaalpompen)"
+  },
+  {
+   "t": "p",
+   "text": "2.6[Chemienormpompen](https://industrialpumps.nl/pompen/pomptypen/chemienorm-pompen-iso-5199)"
+  },
+  {
+   "t": "p",
+   "text": "2.7[Dompelpompen](https://industrialpumps.nl/pompen/pomptypen/dompelpompen)"
+  },
+  {
+   "t": "p",
+   "text": "2.8[End-suctionpompen](https://industrialpumps.nl/pompen/pomptypen/end-suction-pompen)"
+  },
+  {
+   "t": "p",
+   "text": "2.9[Hydrofoor units](https://industrialpumps.nl/pompen/pomptypen/hydrofoor-units)"
+  },
+  {
+   "t": "p",
+   "text": "2.10[Inline pompen](https://industrialpumps.nl/pompen/pomptypen/inline-pompen)"
+  },
+  {
+   "t": "p",
+   "text": "2.11[Insteekpompen](https://industrialpumps.nl/pompen/pomptypen/insteekpompen)"
+  },
+  {
+   "t": "p",
+   "text": "2.12[Lobbenpompen](https://industrialpumps.nl/pompen/pomptypen/lobbenpompen)"
+  },
+  {
+   "t": "p",
+   "text": "2.13[Meertrapspompen](https://industrialpumps.nl/pompen/pomptypen/meertrapspompen)"
+  },
+  {
+   "t": "p",
+   "text": "2.14[Membraanpompen](https://industrialpumps.nl/pompen/pomptypen/membraanpompen)"
+  },
+  {
+   "t": "p",
+   "text": "2.15[Mixers en voortstuwers](https://industrialpumps.nl/pompen/pomptypen/mixers-en-voortstuwers)"
+  },
+  {
+   "t": "p",
+   "text": "2.16[Mixed flow pompen](https://industrialpumps.nl/pompen/pomptypen/mixed-flow-pompen)"
+  },
+  {
+   "t": "p",
+   "text": "2.17[Slurrypompen](https://industrialpumps.nl/pompen/pomptypen/slurrypompen)"
+  },
+  {
+   "t": "p",
+   "text": "2.18[Splitcase pompen](https://industrialpumps.nl/pompen/pomptypen/splitcase-pompen)"
+  },
+  {
+   "t": "p",
+   "text": "2.19[Kunststofpompen](https://industrialpumps.nl/pompen/pomptypen/kunststofpompen)"
+  },
+  {
+   "t": "p",
+   "text": "2.20[Total Pump Units](https://industrialpumps.nl/pompen/pomptypen/total-pump-units)"
+  },
+  {
+   "t": "p",
+   "text": "2.21[Verticale Turbinepompen](https://industrialpumps.nl/pompen/pomptypen/verticale-turbinepompen)"
+  },
+  {
+   "t": "p",
+   "text": "2.22[Waternormpompen](https://industrialpumps.nl/pompen/pomptypen/waternormpompen)"
+  },
+  {
+   "t": "p",
+   "text": "2.23[Wormpompen](https://industrialpumps.nl/pompen/pomptypen/wormpompen)"
+  },
+  {
+   "t": "h",
+   "l": 2,
+   "text": "3. Pompprincipes en werking"
+  },
+  {
+   "t": "p",
+   "text": "3.1 [Wet van Bernoulli](/pomp-kenniscentrum/wet-van-bernoulli)\n3.2 [Cavitatie](/pomp-kenniscentrum/cavitatie)\n3.3 [Hydraulische efficiëntie](/pomp-kenniscentrum/hydraulische-efficientie)\n3.4 [Pompkrommen](/pomp-kenniscentrum/pompkrommen)"
+  },
+  {
+   "t": "h",
+   "l": 2,
+   "text": "4. Toepassingen en industrieën"
+  },
+  {
+   "t": "p",
+   "text": "4.1 [Agro](https://industrialpumps.nl/pompen/segmenten/agro)\n4.2[Chemische industrie](https://industrialpumps.nl/pompen/segmenten/chemische-industrie)\n4.3[Farmaceutische industrie](https://industrialpumps.nl/pompen/segmenten/farmaceutische-industrie)\n4.4[Voedingsindustrie](https://industrialpumps.nl/pompen/segmenten/voedingsindustrie)\n4.5[Olie- en gasindustrie](https://industrialpumps.nl/pompen/segmenten/pompen-voor-de-olie-en-gas-industrie)\n4.6[Huishoudelijk](https://industrialpumps.nl/pompen/segmenten/huishoudelijk)\n4.7[HVAC](https://industrialpumps.nl/pompen/segmenten/hvac)\n4.8[Metaalindustrie](https://industrialpumps.nl/pompen/segmenten/industriele-pompen)\n4.9[Papierindustrie](https://industrialpumps.nl/pompen/segmenten/papierindustrie)\n4.10[Power supply](https://industrialpumps.nl/pompen/segmenten/power-supply)\n4.11[Waterbehandeling](https://industrialpumps.nl/pompen/segmenten/industriele-pompen-voor-waterbehandeling)\n4.12[Water transport](https://industrialpumps.nl/pompen/segmenten/water-transport)\n4.13[Afvalwater](https://industrialpumps.nl/pompen/toepassingen/afvalwater)\n4.14[Bagger](https://industrialpumps.nl/pompen/toepassingen/bagger)\n4.15[Boiler feed](https://industrialpumps.nl/pompen/toepassingen/boiler-feed)\n4.16[Brand blussen](https://industrialpumps.nl/pompen/toepassingen/brandblus)\n4.17[Desalinatie](https://industrialpumps.nl/pompen/toepassingen/desalinatie)\n4.18[Drainage](https://industrialpumps.nl/pompen/toepassingen/drainage)\n4.19[Drinkwater](https://industrialpumps.nl/pompen/toepassingen/drinkwater)\n4.20[Koelwater](https://industrialpumps.nl/pompen/toepassingen/koelwater)\n4.21[Proceswater](https://industrialpumps.nl/pompen/toepassingen/proceswater)"
+  }
+ ],
+ "words": 805,
+ "kind": "Wissensartikel",
+ "template": "T9 Knowledge",
+ "schema": "TechArticle, FAQPage",
+ "dePath": "/pumpenwissen/[DE-Slug aus „pompkrommen“]"
+}

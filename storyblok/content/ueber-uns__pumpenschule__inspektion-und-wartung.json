@@ -1,0 +1,232 @@
+{
+  "id": 2053433373,
+  "uuid": "7a64e81d-3eef-fee0-7daa-d860301216e2",
+  "name": "Kurs Inspektion und Wartung von Pumpen",
+  "slug": "inspektion-und-wartung",
+  "full_slug": "ueber-uns/pumpenschule/inspektion-und-wartung",
+  "position": 51,
+  "content": {
+    "component": "page_course",
+    "h1": "Kurs Inspektion und Wartung von Pumpen",
+    "nav_title": "Kurs Inspektion und Wartung von Pumpen",
+    "seo_title": "Kurs Inspektion und Wartung von Pumpen: Inhalte",
+    "seo_description": "Kurs Inspektion und Wartung von Pumpen: Inspektionsrunde planen, Verschleiß erkennen, Schäden beurteilen. Jetzt Kurs für Ihr Team vor Ort anfragen.",
+    "intro": "Der Kurs Inspektion und Wartung der IPG Pumpenschule zeigt, wie sich Inspektionsrunden planen, Verschleiß erkennen und Pumpen sachgerecht aus- und einbauen lassen. Er richtet sich an Instandhalter, Operatoren und Einkäufer.",
+    "body": [
+      {
+        "_uid": "9514200a4d89",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/sfeer-fotos-0009-ipg-onderhoud1.webp",
+          "alt": "Wartung einer Pumpe in der IPG-Werkstatt",
+          "width": 1280,
+          "height": 850
+        }
+      },
+      {
+        "_uid": "dc540bc566b7",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 4
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kurs Inspektion und Wartung"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Um Stillstand zu vermeiden, sollten die Pumpen einer Anlage regelmäßig inspiziert werden. Dabei können verschiedene Verschleißerscheinungen zutage treten, sodass teure, aufwendige Revisionen vermieden werden können. Durch gute und regelmäßige Wartung verlängert sich die Lebensdauer der Pumpe und das System wird zuverlässiger."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Dieser überwiegend theoretische Kurs soll die Teilnehmer korrekt darüber informieren und beraten, wie sich eine Inspektionsrunde richtig planen lässt. Es geht darum, worauf zu achten ist, teilweise aber auch darum, was beim Ein- und Ausbau von Pumpen zu bedenken ist. Im Kurs werden viele Pumpentypen behandelt, von Exzenterschneckenpumpen bis zu Kreiselpumpen."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wichtig ist auch das vermittelte Wissen über Pumpenteile: Wer verschleißende Teile rechtzeitig ersetzt, kann viele Kosten und Stillstand eines Betriebsprozesses vermeiden. Im Kurs wird unter anderem erklärt, wie sich Verschleiß zeigt und an welchen Teilen er vor allem zu erkennen ist."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "a234f598d491",
+        "component": "faq",
+        "heading": "Häufige Fragen",
+        "items": [
+          {
+            "_uid": "a742567f7142",
+            "component": "faq_item",
+            "question": "Welche Inhalte vermittelt der Kurs Inspektion und Wartung?",
+            "answer": "Aus- und Einbau von Pumpen: Aufstellung, Inbetriebnahme und Ausrichtung.\nWartung und Instandsetzung von Verschleißteilen: Gleitringdichtung, Lager, Laufrad, Dichtungen usw.\nWorauf ist bei Demontage und Montage zu achten?\nStörungssuche und Störungsdiagnose: Schadensbilder erkennen und beurteilen. Zustandsüberwachung."
+          },
+          {
+            "_uid": "de5703a7a90c",
+            "component": "faq_item",
+            "question": "Für wen ist der Kurs Inspektion und Wartung gedacht?",
+            "answer": "Personen, die Pumpen warten und/oder Störungen an Pumpen beheben müssen.\nOperatoren, die für die Wartung erster Ebene an Pumpen verantwortlich sind.\nEinkäufer, damit sie verstehen, was Wartung genau umfasst, und bei Reparaturen Angebote gut vergleichen können."
+          }
+        ]
+      },
+      {
+        "_uid": "097fb60985e4",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Inspektion und Wartung: Kurs für Ihre Organisation"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bei den Kursen der Industrial Pump Group ist es üblich, dass die Organisation den Kurs für ihre Mitarbeiter ausrichtet. Der Kursleiter von IPG kommt zu Ihnen vor Ort und hält den Kurs an einem oder mehreren Tagen. Andere Formen sind ebenfalls denkbar, etwa ein Einzelkurs mit dem Kursleiter."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Möchten Sie alle Möglichkeiten kennenlernen?",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "Das IPG-Team mit engagierten Pumpenexperten steht für Sie bereit."
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "Nehmen Sie schnell über das Formular Kontakt auf oder rufen Sie"
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "werktags zwischen 08:00 und 17:00 Uhr an."
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "Tel. [[PLATZHALTER: Telefon]]",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kurs Grundlagen Pumpen"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kurs Inspektion und Wartung"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kurs Gleitringdichtungen / Mechanical Seals"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kurs Armaturen und Ventile"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kurs Wellen und Lager"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -133,6 +133,42 @@
             }
           },
           {
+            "_uid": "48ab9d966227",
+            "component": "nav_item",
+            "label": "Ersatzpumpe",
+            "link": {
+              "fieldtype": "multilink",
+              "linktype": "story",
+              "id": "8af393ec-3e9f-e58a-35c0-164312e508c1",
+              "cached_url": "ersatzpumpe",
+              "url": ""
+            }
+          },
+          {
+            "_uid": "c1d44c9ab88a",
+            "component": "nav_item",
+            "label": "Rückruf anfordern",
+            "link": {
+              "fieldtype": "multilink",
+              "linktype": "story",
+              "id": "a84274b2-9a25-f74d-9963-f48571a144c1",
+              "cached_url": "rueckruf",
+              "url": ""
+            }
+          },
+          {
+            "_uid": "31a41fe6cda5",
+            "component": "nav_item",
+            "label": "Häufige Fragen",
+            "link": {
+              "fieldtype": "multilink",
+              "linktype": "story",
+              "id": "8d103f03-3824-f8ec-a4fe-615558b2736a",
+              "cached_url": "haeufige-fragen",
+              "url": ""
+            }
+          },
+          {
             "_uid": "4386accca0fa",
             "component": "nav_item",
             "label": "Kontakt",

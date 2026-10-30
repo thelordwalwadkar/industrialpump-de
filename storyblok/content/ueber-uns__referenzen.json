@@ -1,0 +1,393 @@
+{
+  "id": 1863431808,
+  "uuid": "6f11b680-78f0-9516-2df1-6f1916f57028",
+  "name": "Referenzen und Kundenprojekte",
+  "slug": "referenzen",
+  "full_slug": "ueber-uns/referenzen",
+  "position": 6,
+  "content": {
+    "component": "page_listing",
+    "h1": "Referenzen und Kundenprojekte",
+    "nav_title": "Referenzen und Kundenprojekte",
+    "seo_title": "Referenzen: Kundenprojekte der Industrial Pump Group",
+    "seo_description": "Referenzen der Industrial Pump Group: Pumpenprojekte bei Waternet, AEB Amsterdam, Svitzer und weiteren Kunden. Jetzt Kundenprojekte lesen und anfragen.",
+    "intro": "Diese Übersicht zeigt Kundenprojekte der Industrial Pump Group (IPG) aus Wasserwirtschaft, Abfallverwertung, Schifffahrt und Industrie. Sie beschreibt, wie IPG bei Pumpenauswahl, Lieferung und Revision unterstützt.",
+    "listing_kind": "referenzen",
+    "per_page": 12,
+    "body": [
+      {
+        "_uid": "7907dea7f662",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/cmf-service.webp",
+          "alt": "Kundenprojekt CMF Services",
+          "width": 1002,
+          "height": 670
+        }
+      },
+      {
+        "_uid": "1523be2d86d3",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "19. August 2026"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "CMF Services"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Eine Nische, in der Kontinuität alles ist"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "a3cc3afc4ba8",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/dael-video-ipg.webp",
+          "alt": "Kundenprojekt J.J. Dael Onderhoudsbedrijf",
+          "width": 549,
+          "height": 325
+        }
+      },
+      {
+        "_uid": "c2c1a618f8b0",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "16. Juni 2026"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "J.J. Dael Onderhoudsbedrijf"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "„Ich weiß einfach: Ich kann IPG anrufen“"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "e75eb354af44",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/cases-svitzer-nederland-ipg.webp",
+          "alt": "Kundenprojekt Svitzer Nederland",
+          "width": 572,
+          "height": 314
+        }
+      },
+      {
+        "_uid": "ae116cf5ad16",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "12. Januar 2026"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Svitzer Nederland"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Immer betriebsbereit. Immer zur Stelle."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "3. Februar 2025"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "HHNK"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ein zuverlässiger Partner für Pumpenlösungen"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "cb739b5e9d77",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/cases-rietlanden-ipg.webp",
+          "alt": "Kundenprojekt Rietlanden Terminals",
+          "width": 445,
+          "height": 399
+        }
+      },
+      {
+        "_uid": "2aeaee3ca087",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "3. September 2024"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Rietlanden Terminals"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Verlässliche Partnerschaft für Pumpen und Nachhaltigkeit"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "307d2ba27502",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/cases-kesbeke-header.webp",
+          "alt": "Kundenprojekt Kesbeke",
+          "width": 1200,
+          "height": 480
+        }
+      },
+      {
+        "_uid": "b41936e30ea2",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "4. März 2024"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kesbeke"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kräfte gebündelt: IPG und Kesbeke"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "03469cdbad6f",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/cases-waternet-header.webp",
+          "alt": "Kundenprojekt Waternet",
+          "width": 1280,
+          "height": 658
+        }
+      },
+      {
+        "_uid": "c18e8090bdbf",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "4. Juli 2025"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Waternet"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ein Jahrzehnt Partnerschaft"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "1046f3916330",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/nieuws-aeb-amsterdam.webp",
+          "alt": "Kundenprojekt AEB Amsterdam",
+          "width": 1078,
+          "height": 516
+        }
+      },
+      {
+        "_uid": "af62ce06d54e",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "8. Mai 2025"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "AEB Amsterdam"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "IPG ist seit mehr als 15 Jahren ein verlässlicher Partner von AEB"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

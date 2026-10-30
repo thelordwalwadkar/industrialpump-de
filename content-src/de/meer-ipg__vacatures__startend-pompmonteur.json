@@ -1,0 +1,56 @@
+{
+  "id": "meer-ipg__vacatures__startend-pompmonteur",
+  "seo_title": "Pumpenmonteur für Berufseinsteiger (m/w/d) gesucht",
+  "seo_description": "Stellenanzeige Pumpenmonteur für Berufseinsteiger bei IPG: Wartung und Revision lernen, Schulungen, Entwicklung zum Servicemonteur. Jetzt bewerben.",
+  "h1": "Stellenanzeige Pumpenmonteur für Berufseinsteiger",
+  "intro": "Die Industrial Pump Group sucht einen Pumpenmonteur für den Berufseinstieg in Vollzeit, der Wartung und Revision von Pumpen von Grund auf lernt. Technisches Interesse und Lernbereitschaft sind wichtiger als ein bestimmter Abschluss.",
+  "blocks": [
+    { "t": "h", "l": 4, "text": "Stellenanzeige Pumpenmonteur für Berufseinsteiger" },
+    { "t": "h", "l": 3, "text": "Bereit für den Einstieg?" },
+    { "t": "p", "text": "Rufen Sie Kim Jasperse unter {{TELEFON}} an oder bewerben Sie sich direkt über das Formular weiter unten. Nutzen Sie diese Chance!" },
+    { "t": "p", "text": "**Initiativ- und Akquiseanfragen auf Basis unserer Stellenanzeigen sind nicht erwünscht.**" },
+    { "t": "h", "l": 3, "text": "Was sind Ihre Aufgaben?" },
+    { "t": "list", "ordered": false, "items": [
+      "Sie lernen, Wartung und Revision von Pumpen auszuführen",
+      "Sie arbeiten mit modernen Techniken und Werkstoffen",
+      "Sie begleiten das Team zu Kunden oder arbeiten in der Werkstatt",
+      "Gemeinsam mit Ihren Kolleginnen und Kollegen sorgen Sie dafür, dass wieder alles einwandfrei läuft"
+    ] },
+    { "t": "h", "l": 3, "text": "Wer sind Sie?" },
+    { "t": "list", "ordered": false, "items": [
+      "Sie sind handwerklich geschickt und interessieren sich für Technik",
+      "Eine Ausbildung in Richtung Maschinenbau, Mechanik oder Elektrotechnik ist ein Plus, aber keine Voraussetzung",
+      "Sie haben eine positive Einstellung und möchten gern lernen",
+      "Sie sind flexibel und arbeiten gern mit Kolleginnen und Kollegen zusammen",
+      "Sie besitzen den Führerschein Klasse B (oder sind bereit, ihn zu erwerben)"
+    ] },
+    { "t": "h", "l": 3, "text": "Warum bei uns?" },
+    { "t": "list", "ordered": false, "items": [
+      "Sie erhalten umfassende Einarbeitung und interne Schulungen",
+      "Wir investieren mit Schulungen und Zertifikaten in Ihre Entwicklung",
+      "Entwicklungsmöglichkeiten zum selbstständigen (Service-)Monteur",
+      "Gute Arbeitsbedingungen und ein eng verbundenes Team",
+      "Eine abwechslungsreiche und lehrreiche Tätigkeit in der Region Velsen-Noord"
+    ] },
+    { "t": "p", "text": "Bitte beachten Sie: Eine technische Ausbildung auf VMBO- oder MBO-Niveau (in Deutschland etwa Haupt- bis Berufsschulabschluss), ein VCA-Zertifikat und der Führerschein Klasse B sind von Vorteil. Haben Sie diese noch nicht? Dann prüfen wir gemeinsam, wie Sie sie erwerben können." },
+    { "t": "h", "l": 3, "text": "Sie erreichen uns telefonisch unter {{TELEFON}} oder über das Formular weiter unten" },
+    { "t": "h", "l": 2, "text": "Tauchen Sie in die Technik ein: jetzt bewerben" },
+    { "t": "h", "l": 2, "text": "Unsere Stellenanzeigen" },
+    { "t": "p", "text": "**Fragen zu einer Stellenanzeige?**Rufen Sie uns an unter {{TELEFON}}, werktags zwischen 08:00 und 18:00 Uhr." },
+    { "t": "h", "l": 2, "text": "Stellenanzeige Allround-Pumpenmonteur" },
+    { "t": "p", "text": "40 Stunden\nHauptschul- bis Berufsschulabschluss Technik (VMBO bis MBO)\nVCA-Zertifikat\nFührerschein Klasse B" },
+    { "t": "form" }
+  ],
+  "notes": {
+    "dropped": [],
+    "claims": [
+      "Wir investieren mit Schulungen und Zertifikaten in Ihre Entwicklung.",
+      "Sie erhalten umfassende Einarbeitung und interne Schulungen."
+    ],
+    "nl_specific": [
+      "Eine abwechslungsreiche und lehrreiche Tätigkeit in der Region Velsen-Noord.",
+      "Bitte beachten Sie: Eine technische Ausbildung auf VMBO- oder MBO-Niveau (in Deutschland etwa Haupt- bis Berufsschulabschluss), ein VCA-Zertifikat und der Führerschein Klasse B sind von Vorteil.",
+      "Rufen Sie Kim Jasperse unter {{TELEFON}} an: Ansprechpartnerin und Rufnummer gehören zum niederländischen Standort."
+    ]
+  }
+}

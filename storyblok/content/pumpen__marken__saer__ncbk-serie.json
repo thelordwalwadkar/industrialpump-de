@@ -1,0 +1,512 @@
+{
+  "id": 2414095205,
+  "uuid": "8fe42b65-c4d9-debf-5c16-fda4d8cedeb6",
+  "name": "SAER NCBK: Hochdruckpumpen mit freiem Wellenende",
+  "slug": "ncbk-serie",
+  "full_slug": "pumpen/marken/saer/ncbk-serie",
+  "position": 94,
+  "content": {
+    "component": "page_series",
+    "h1": "SAER NCBK: Hochdruckpumpen mit freiem Wellenende",
+    "seo_title": "SAER NCBK: Hochdruckpumpen mit freiem Wellenende",
+    "seo_description": "SAER NCBK Hochdruck-Kreiselpumpen mit freiem Wellenende vom Importeur: Beratung, Angebot und Ersatzteile für Industrie und Wasserwirtschaft.",
+    "intro": "Die SAER NCBK ist eine Baureihe von Hochdruckpumpen mit freiem Wellenende, die die Industrial Pump Group als niederländischer Importeur von SAER liefert. Die nachstehenden Angaben stammen unverändert von der Quellseite.",
+    "series_name": "NCBK",
+    "body": [
+      {
+        "_uid": "7e44fe7550d5",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-saer-saer-cm-cmp.webp",
+          "alt": "SAER CM/CMP einstufige Pumpe aus Gusseisen",
+          "width": 500,
+          "height": 500
+        }
+      },
+      {
+        "_uid": "4750848d48f4",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Hohe Qualität"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die SAER CM und SAER CMP eignen sich für häusliche Systeme, Wasserversorgung, kleine Gartenanwendungen und zur Druckerhöhung in Wasserleitungssystemen. Sie sind auf minimale hydraulische Verluste ausgelegt. Das italienische Entwicklungs- und Fertigungsverfahren soll hohe Qualität sicherstellen."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 4
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Funktionsweise der SAER CM Pumpe"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Diese Baureihe elektrischer, einstufiger, kurzgekuppelter Kreiselpumpen ist mit einem fliegend angeordneten Laufrad ausgestattet, das direkt über eine Passfedernut auf der Motorwelle sitzt."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die geförderte Flüssigkeit wird im spiralförmigen Gehäuse des Pumpenkörpers transportiert, das kinetische Energie in Druckenergie umwandelt. Druck und Förderstrom werden dank der hydrodynamischen Bauform mit geschlossenem Laufrad mit minimalen Verlusten erreicht."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Aufbau der Pumpe"
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Pumpengehäuse und Motorträger aus Gusseisen oder Aluminiumlegierung."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Gepresstes Messing-Laufrad oder Laufrad aus thermoplastischem Kunstharz."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Gleitringdichtung aus Kohle/Keramik."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Rotorwelle mit Abdichtung für die Lager."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Vollständig geschlossener, lüftergekühlter Motor (TEFC)."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Einphasenmotoren auf Anfrage mit eingebautem thermischem Überlastschutz; der Kondensator ist dauerhaft im Stromkreis."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Motorschutz nach IP44 (auf Anfrage in IP55 erhältlich)."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Wicklungsisolation nach Klasse B (für Motoren der Baugröße 63), F (für andere Baugrößen)."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Standardspannung: 230 V, 50 Hz einphasig; 230/400 V, 50 Hz dreiphasig."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Andere Spannungen und Frequenzen sind auf Anfrage erhältlich."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Leistungsdaten der Pumpe"
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Förderstrom bis 8 m³/h"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Förderhöhe bis 59 Meter"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Erforderliche Flüssigkeitsqualität: sauber, frei von Feststoffen oder abrasiven Stoffen"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Maximale Temperatur der geförderten Flüssigkeit -15 °C bis +70 °C"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Maximale Umgebungstemperatur 40 °C."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Maximaler Betriebsdruck 9 bar."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Toleranzen der hydraulischen Kenngrößen entsprechen UNI/ISO 2548, Klasse C, Anhang B; elektrische Kenngrößen nach C.E.I."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Anwendungen"
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Industrielle Wasserversorgung"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Wasser unter Druck mithilfe von Druckbehältern (Autoklaven)"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewässerung in Gartenbau und Landwirtschaft"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bau- und Haushaltsanwendungen für die Wasserförderung."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 4
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Unverbindlich Kontakt aufnehmen"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Installation der SAER NCBK"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Füllen Sie bei der Installation vor dem Anlaufen stets zuerst das Pumpengehäuse."
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "Die Pumpe kann mit der Motorwelle in horizontaler oder vertikaler Position installiert werden. Wird die Pumpe vertikal montiert, muss der Motor oberhalb des Pumpengehäuses angeordnet werden."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "7c373717a490",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/merken-0025-saer.webp",
+          "alt": "Logo von SAER Elettropompe",
+          "width": 120,
+          "height": 53
+        }
+      },
+      {
+        "_uid": "a392ff68ff06",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Interessiert an allen "
+                },
+                {
+                  "type": "text",
+                  "text": "SAER-Pumpen",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "? Sehen Sie sich unser gesamtes Sortiment an"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

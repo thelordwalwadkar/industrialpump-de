@@ -1,0 +1,746 @@
+{
+  "id": 1121866983,
+  "uuid": "42de54e7-ca07-ed0b-cde7-8e428187d232",
+  "name": "Offizieller Händler von Wilo",
+  "slug": "wilo",
+  "full_slug": "pumpen/marken/wilo",
+  "position": 102,
+  "content": {
+    "component": "page_brand",
+    "h1": "Offizieller Händler von Wilo",
+    "nav_title": "Offizieller Händler von Wilo",
+    "seo_title": "Wilo-Pumpen: Blockpumpen, Tauchpumpen, Hocheffizienz",
+    "seo_description": "Wilo-Pumpen für Gebäudetechnik, Wassermanagement und Industrie: Cronobloc, Crononorm, Drain, Helix und Ersatzteile. Jetzt Beratung oder Angebot anfordern.",
+    "intro": "Wilo ist ein deutscher Pumpenhersteller mit Schwerpunkt Gebäudetechnik, Wassermanagement und Industrie. Die Industrial Pump Group liefert als offizieller Händler Wilo-Pumpen und Ersatzteile und berät zur passenden Baureihe.",
+    "brand_name": "Wilo",
+    "body": [
+      {
+        "_uid": "b21a4e2b054f",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Offizieller Händler von Wilo"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "IPG, Ihr Partner für Wilo-Pumpen, bietet ein breites Spektrum an hochwertigen Wilo-Produkten und Ersatzteilen. Als offizieller Händler von Wilo liefern wir Ihnen innovative und zuverlässige Pumpenlösungen."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ob Sie eine neue Wilo-Pumpe oder Ersatzteile suchen: Wir unterstützen Sie gern."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wilo-Baureihen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Nachfolgend finden Sie einige Baureihen von Wilo-Pumpen. Ist die gewünschte Pumpe nicht dabei? Dann nehmen Sie unverbindlich "
+                },
+                {
+                  "type": "text",
+                  "text": "Kontakt",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/kontakt",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " mit uns auf."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "3603e67e5da5",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-wilo-wilo-cronobloc.webp",
+          "alt": "Wilo Cronobloc | Industrial Pump Group",
+          "width": 150,
+          "height": 150
+        }
+      },
+      {
+        "_uid": "b9e40d4fa5db",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wilo Baureihe Cronobloc"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Diese einstufige Niederdruck-Kreiselpumpe in Blockbauweise eignet sich zum Fördern von (kaltem und heißem) Wasser."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "4a5db1b9fcbc",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-wilo-wilo-crononorm.webp",
+          "alt": "Wilo Crononorm | Industrial Pump Group",
+          "width": 750,
+          "height": 750
+        }
+      },
+      {
+        "_uid": "60c33f68e6a7",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wilo Baureihe Crononorm"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Einstufige Kreiselpumpe auf Grundrahmen mit axialem Saugstutzen."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "2f6b9422db2c",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-wilo-wilo-drain.webp",
+          "alt": "Wilo Drain | Industrial Pump Group",
+          "width": 150,
+          "height": 150
+        }
+      },
+      {
+        "_uid": "69eca18f7d4b",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wilo Baureihe Drain"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Verschiedene (Abwasser-)Tauchmotorpumpen"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "18efcf62effb",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-wilo-wilo-helix.webp",
+          "alt": "Wilo Baureihe Helix | Industrial Pump Group",
+          "width": 150,
+          "height": 150
+        }
+      },
+      {
+        "_uid": "30d7b00cabae",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wilo Baureihe Helix"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Mehrstufige Hochdruckpumpe mit hohem Wirkungsgrad aus massivem Edelstahl."
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "In Inline-Bauweise angeschlossen."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "cccb9f74eb96",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-missende-pomp.webp",
+          "alt": "Offizieller Händler von Wilo",
+          "width": 500,
+          "height": 500
+        }
+      },
+      {
+        "_uid": "c8b89d0133fa",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ist Ihre "
+                },
+                {
+                  "type": "text",
+                  "text": "Wilo-Pumpe",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " nicht dabei? Unsere Pumpenexperten helfen Ihnen gern bei der Suche und Lieferung der benötigten Pumpe oder Ersatzteile"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 4
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Unverbindlich Kontakt aufnehmen"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Innovation seit 1872: die Geschichte von Wilo"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wilo begann 1872 als Kupfer- und Bronzefabrik in Dortmund. Schon damals stellte die Fabrik Destillationsanlagen für die Getränkeindustrie her, ein Bereich, in dem Wilo bis heute stark ist. 1928 produzierte Wilo die weltweit erste Heizungspumpe, und es sollte nicht das letzte Mal sein, dass das Unternehmen eine Neuheit einführte. 2001 stellte der Hersteller die erste Hocheffizienzpumpe her."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Heute ist Wilo einer der größten Pumpenhersteller der Welt mit mehr als 7.700 Mitarbeitenden und 60 Produktions- und Vertriebsgesellschaften weltweit."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Alle Pumpen des deutschen Herstellers folgen einem hohen Standard. Sie sind innovativ und im Hinblick auf künftige Technologie- und Marktanforderungen entwickelt."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wilo-Pumpen im Wassermanagement"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wilo konzentriert sich auf die Entwicklung und Verbesserung von Pumpen für die Gebäudetechnik, wo das Unternehmen zuverlässige und umweltfreundliche Pumpen für Wohn- und Nichtwohngebäude liefert. Auch im Wassermanagement ist die Marke stark, unabhängig davon, ob es sich um Schmutz-, Ab- oder Reinwasser handelt."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Für die Industrial Pump Group sind vor allem die Pumpen interessant, die Wilo für industrielle Anwendungen herstellt. Dieses Angebot ist sehr umfangreich und gibt den Experten von IPG verschiedene Möglichkeiten, das Problem des Kunden zu lösen."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Warum Wilo-Pumpen?"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Wilo-Pumpen stehen für Qualität, Innovation und Zuverlässigkeit. Als einer der größten Pumpenhersteller der Welt bietet Wilo ein breites Spektrum an Pumpen für hohe Anforderungen. Einige Vorteile von Wilo-Pumpen sind:"
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "I",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "nnovative Technologie: Wilo ist für fortschrittliche Technologien und fortlaufende Innovation bekannt. Die Pumpen sind auf die Anforderungen der Zukunft ausgelegt."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Langlebigkeit und Zuverlässigkeit: Wilo-Pumpen sind auf eine lange Lebensdauer ausgelegt und halten auch schwierigen Bedingungen stand."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Energieeffizienz: Viele Wilo-Pumpen sind mit hohem Wirkungsgrad konstruiert, was niedrigere Energiekosten und einen kleineren ökologischen Fußabdruck bedeutet."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Breites Einsatzgebiet: Wilo-Pumpen eignen sich für verschiedene Anwendungen, darunter Wassermanagement, HVAC-Systeme, industrielle Prozesse und die Lebensmittelindustrie."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Einsatzbereiche von Wilo-Pumpen"
+                }
+              ]
+            },
+            {
+              "type": "bullet_list",
+              "content": [
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Wasser- und Abwasserbehandlung",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/branchen/wasseraufbereitung",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ": Wilo-Pumpen werden für die Behandlung und den Transport von Rein- und Abwasser in verschiedenen Anwendungen eingesetzt."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "HVAC-Systeme",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/branchen/gebaeudetechnik-hvac",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ": Wilo bietet effiziente und zuverlässige Pumpen für Heizungs-, Lüftungs- und Klimaanlagen."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Lebensmittelindustrie",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/branchen/lebensmittelindustrie",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ": Dank ihrer hygienischen Konstruktion eignen sich Wilo-Pumpen für Anwendungen in der Lebensmittelindustrie."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bergbau: Wilo-Pumpen sind robust und zuverlässig und werden im Bergbau eingesetzt."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Chemische Industrie",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/branchen/chemische-industrie",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ": Wilo bietet Lösungen, die aggressiven Medien standhalten, wie sie in der chemischen Industrie vorkommen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Beratung und Verkauf: die passende Lösung für Ihre Anwendung"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Es gibt viele verschiedene Pumpentypen und ebenso viele Anwendungen, zum Beispiel Tauchmotorpumpen, Umwälzpumpen oder Brunnenpumpen. Wegen dieser Vielfalt ist es sinnvoll, sich gut zu informieren, welcher Pumpentyp erforderlich ist, bevor Sie eine Pumpe anschaffen oder revidieren lassen. Das IPG-Team mit mehreren Pumpenexperten berät Sie jederzeit zur passenden Lösung für Ihre Anwendung und unterstützt Sie außerdem bei Beschaffung und Installation der Pumpe."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "IPG pflegt zu mehreren Pumpenherstellern enge Beziehungen und kann Sie daher bei der Beschaffung vieler Pumpentypen und Marken gut beraten. So ist die Industrial Pump Group der niederländische Importeur von "
+                },
+                {
+                  "type": "text",
+                  "text": "SAER",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/marken/saer",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " und offizieller Händler unter anderem von "
+                },
+                {
+                  "type": "text",
+                  "text": "Lowara",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/marken/lowara",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", "
+                },
+                {
+                  "type": "text",
+                  "text": "Grundfos",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/marken/grundfos",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " und "
+                },
+                {
+                  "type": "text",
+                  "text": "Seepex",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/pumpen/marken/seepex",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Unser Service: Beratung und Unterstützung nach Maß"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Unsere Pumpenexperten helfen Ihnen gern, die passende Wilo-Pumpe oder Ersatzteile für Ihren konkreten Bedarf zu finden. Ob Auswahl der passenden Pumpe für Ihre Anwendung oder Lieferung von Ersatzteilen: Wir unterstützen Sie."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Nehmen Sie unverbindlich Kontakt mit uns auf, um Beratung oder ein Angebot anzufordern."
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

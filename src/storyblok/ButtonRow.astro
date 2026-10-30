@@ -1,0 +1,12 @@
+---
+import type { ButtonRow } from '../lib/types';
+import type { Site } from '../lib/storyblok';
+import { resolveLink } from '../lib/links';
+interface Props { blok: ButtonRow; site: Site }
+const { blok, site } = Astro.props;
+// Buttons whose internal target does not exist are not rendered.
+const buttons = (blok.buttons ?? []).flatMap((b, i) => { const r = resolveLink(site, b.link); return r && r.exists ? [{ label: b.label, href: r.href, ghost: i > 0 }] : []; });
+---
+{buttons.length > 0 && (
+  <section class="section section--tight"><div class="wrap"><div class="btn-row" style="margin-top:0">{buttons.map((b) => <a class={`btn${b.ghost ? ' btn--ghost' : ''}`} href={b.href}>{b.label}</a>)}</div></div></section>
+)}

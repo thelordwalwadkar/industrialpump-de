@@ -1,0 +1,57 @@
+{
+  "id": "pompen__merken__saer__ncb-serie",
+  "seo_title": "SAER NCB: Normpumpen nach EN 733 mit freiem Wellenende",
+  "seo_description": "SAER NCB endsaugende Kreiselpumpen nach EN 733 für Heizung, Kühlung, Wasserversorgung und Industrie: bis 675 m³/h. Jetzt Angebot anfordern.",
+  "h1": "SAER NCB: genormte Pumpen mit freiem Wellenende",
+  "intro": "Die SAER NCB ist eine endsaugende Kreiselpumpe mit Abmessungen und Leistungen nach EN 733 für Brandbekämpfung, Heiz- und Kühlsysteme, Wasserversorgung, Bewässerung und Industrie. Sie erreicht bis zu 675 m³/h bei 1.450 min⁻¹.",
+  "blocks": [
+    { "t": "h", "l": 1, "text": "SAER NCB: genormte Pumpen mit freiem Wellenende" },
+    { "t": "img", "src": "/Files/Images/pomptypes/Merk/SAER/SAER-NCB.png", "alt": "Grüne SAER NCB Kreiselpumpe mit Flanschansaugung für HVAC und industrielle Anwendungen" },
+    { "t": "h", "l": 2, "text": "Für verschiedene Anwendungen einsetzbar" },
+    { "t": "p", "text": "Die SAER NCB ist eine Kreiselpumpe, die sich für Brandbekämpfung, Heiz- und Kühlsysteme, Wasserversorgung, Bewässerung, Industrie sowie den Schiffbau- und Bergbausektor eignet. Je nach gewünschter Anwendung sind verschiedene Arten von Gleitringdichtungen oder Weichpackungen und Spaltringen erhältlich. Die Pumpe kann auch zur Kopplung an einen Dieselmotor geliefert werden." },
+    { "t": "h", "l": 3, "text": "Konstruktive Merkmale" },
+    { "t": "p", "text": "**NCB**: endsaugende Kreiselpumpen,\n**NCBZ**: endsaugende Kreiselpumpen mit Elektromotor auf einer Grundplatte." },
+    { "t": "p", "text": "Der Motor und der rotierende Teil der Pumpe können ausgebaut werden, ohne das Pumpengehäuse von den Anlagenleitungen zu entfernen." },
+    { "t": "h", "l": 2, "text": "Hydraulik" },
+    { "t": "list", "ordered": false, "items": [
+      "Pumpengehäuse mit Abmessungen und Leistungen nach EN 733.",
+      "Geschlossenes Laufrad, dynamisch ausgewuchtet und mit Entlastungsbohrungen zum Ausgleich des Axialschubs.",
+      "Welle vollständig aus Edelstahl.",
+      "Fett- oder ölbadgeschmierte Kugellager.",
+      "Flansche (UNI EN 1092-2): bis DN 150: PN 16, ab DN 200: PN 10.",
+      "Gleitringdichtung genormt nach UNI EN 12756"
+    ] },
+    { "t": "h", "l": 2, "text": "Motor, Baureihe NCBZ" },
+    { "t": "list", "ordered": false, "items": [
+      "Asynchron mit Fremdbelüftung (TEFC)",
+      "Schutzart: IP55",
+      "Isolation: Klasse F",
+      "Standardspannungen, Frequenz 50 Hz, 220-240 V bis 4 kW, 380-415 V / 660-720 V ab 5,5 kW.",
+      "Motoren mit Effizienzklasse IE2 nach IEC 60034-30"
+    ] },
+    { "t": "h", "l": 2, "text": "Anwendungen der SAER NCB" },
+    { "t": "list", "ordered": false, "items": [
+      "Umwälzanlagen",
+      "Heizung",
+      "Klimatisierung",
+      "Wärmerückgewinnung",
+      "Wasserversorgungsanlagen",
+      "Druckerhöhungsanlagen"
+    ] },
+    { "t": "h", "l": 2, "text": "Unverbindlich Kontakt aufnehmen" },
+    { "t": "h", "l": 2, "text": "Merkmale der SAER NCB" },
+    { "t": "p", "text": "DN Saugstutzen: von 50 bis 200; DN Druckstutzen: von 32 bis 150;\nbei 2.900 min⁻¹: Qmax: 400 m³/h – Hmax: 129 m\nbei 1.450 min⁻¹: Qmax: 675 m³/h – Hmax: 65 m" },
+    { "t": "p", "text": "Temperatur der zu fördernden Flüssigkeit: von -15 °C bis +120 °C" },
+    { "t": "img", "src": "/Files/Images/merken/_0025_saer.png", "alt": "Logo von SAER Elettropompe, Hersteller endsaugender NCB-Pumpen für Industrie und Wassermanagement" },
+    { "t": "h", "l": 2, "text": "Interessiert an allen **SAER-Pumpen**? Sehen Sie sich unser gesamtes Sortiment an" },
+    { "t": "form" }
+  ],
+  "notes": {
+    "dropped": [],
+    "claims": [
+      "Die Meta-Beschreibung der Quelle nennt 'meer dan 30 jaar ervaring'; nicht in die deutschen SEO-Felder übernommen.",
+      "In der Quelle fehlte bei Qmax 400 die Einheitenangabe (m / h); als m³/h ergänzt."
+    ],
+    "nl_specific": []
+  }
+}

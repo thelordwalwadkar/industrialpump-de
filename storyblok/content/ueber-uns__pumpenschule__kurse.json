@@ -1,0 +1,238 @@
+{
+  "id": 3479765023,
+  "uuid": "cf69001f-bd5a-f008-846a-fbd477cf76e7",
+  "name": "Pumpenkurse der IPG Pumpenschule",
+  "slug": "kurse",
+  "full_slug": "ueber-uns/pumpenschule/kurse",
+  "position": 50,
+  "content": {
+    "component": "page_course",
+    "h1": "Pumpenkurse der IPG Pumpenschule",
+    "nav_title": "Pumpenkurse der IPG Pumpenschule",
+    "seo_title": "Pumpenkurse der IPG Pumpenschule im Überblick",
+    "seo_description": "Pumpenkurse der Industrial Pump Group: Grundlagen, Wartung und Vertiefung für Monteure und Operatoren, auch vor Ort. Jetzt Kursanfrage stellen.",
+    "intro": "Die Pumpenkurse der Industrial Pump Group (IPG) vermitteln Grundlagen- und Vertiefungswissen zu Pumpen. Sie richten sich an Personen, die Pumpen warten oder Störungen beheben, und an Operatoren mit Verantwortung für die Wartung erster Ebene.",
+    "body": [
+      {
+        "_uid": "6ce3d2067cf0",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pompschool-pompschool.webp",
+          "alt": "Logo der IPG Pumpenschule",
+          "width": 1280,
+          "height": 581
+        }
+      },
+      {
+        "_uid": "b5b0b55c5827",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 4
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "IPG Pumpenschule: Kurse"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bei IPG sind wir stolz auf unsere Fachkompetenz und unsere langjährige Erfahrung in der Pumpenbranche. Unser Expertenteam vermittelt Ihnen aktuelles Wissen und Fertigkeiten rund um Pumpen. Ob Einsteiger oder mit Erfahrung: Bei der Industrial Pump Group gibt es einen Kurs, der zu Ihrem Bedarf und Ihren Zielen passt. Unsere Kurse sollen den Teilnehmern helfen, ihr Wissen und ihre Fertigkeiten rund um Pumpen zu erweitern und zu vertiefen."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die Industrial Pump Group (IPG) bietet ein breites Spektrum an Pumpenkursen an, darunter Grundlagen Pumpen und vertiefende Kurse. So kann jeder Teilnehmer auf seinem eigenen Niveau lernen und sein Wissen und seine Fertigkeiten rund um Pumpen verbessern."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Mit einem Pumpenkurs können Teilnehmer ihr Wissen und ihr Verständnis von Pumpen und ihren Komponenten verbessern, was zu einem besseren Verständnis des Pumpensystems führt."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "3ae3b473c2ae",
+        "component": "faq",
+        "heading": "Häufige Fragen",
+        "items": [
+          {
+            "_uid": "881cb44b7651",
+            "component": "faq_item",
+            "question": "Für wen sind die Pumpenkurse gedacht?",
+            "answer": "Personen, die Pumpen warten und/oder Störungen an Pumpen beheben müssen.\nOperatoren, die für die Wartung erster Ebene an Pumpen verantwortlich sind."
+          },
+          {
+            "_uid": "2014226598ec",
+            "component": "faq_item",
+            "question": "Wie lange dauern die Pumpenkurse?",
+            "answer": "Die Dauer der Kurse variiert und hängt vom gewählten Kurs ab. Einige Kurse dauern nur einen Tag, andere mehrere Tage."
+          },
+          {
+            "_uid": "6f8078e7f1d4",
+            "component": "faq_item",
+            "question": "Können die Kurse an die Bedürfnisse des Kunden angepasst werden?",
+            "answer": "Ja, wir können unsere Kurse an die besonderen Bedürfnisse des Kunden anpassen. Nehmen Sie Kontakt mit uns auf, um Ihren konkreten Bedarf zu besprechen."
+          }
+        ]
+      },
+      {
+        "_uid": "fb6189403486",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kurs für Ihre Organisation"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bei den Kursen der Industrial Pump Group ist es üblich, dass die Organisation den Kurs für ihre Mitarbeiter ausrichtet. Der Kursleiter von IPG kommt zu Ihnen vor Ort und hält den Kurs an einem oder mehreren Tagen. Andere Formen sind ebenfalls denkbar, etwa ein Einzelkurs mit dem Kursleiter."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Möchten Sie alle Möglichkeiten kennenlernen?",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "Das IPG-Team mit engagierten Pumpenexperten steht für Sie bereit."
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "Nehmen Sie schnell über das Formular Kontakt auf oder rufen Sie"
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "werktags zwischen 08:00 und 17:00 Uhr an."
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "type": "text",
+                  "text": "Tel. [[PLATZHALTER: Telefon]]",
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kurs Grundlagen Pumpen"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kurs Inspektion und Wartung"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kurs Gleitringdichtungen / Mechanical Seals"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kurs Armaturen und Ventile"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kurs Wellen und Lager"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

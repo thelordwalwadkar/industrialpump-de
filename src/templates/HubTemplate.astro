@@ -7,6 +7,7 @@ import PageHead from '../components/PageHead.astro';
 import LinkCards from '../components/LinkCards.astro';
 import RichTextHtml from '../components/RichTextHtml.astro';
 import Bloks from '../components/Bloks.astro';
+import QuoteCta from '../components/QuoteCta.astro';
 interface Props { story: PageStory<PageHub>; site: Site }
 const { story, site } = Astro.props;
 const c = story.content;
@@ -23,4 +24,5 @@ const tiles = kids.length > 0 && kids.every((k) => k.content.component === 'page
   </div>
 </section>
 <Bloks bloks={c.body} site={site} />
+<div class="wrap"><QuoteCta heading="Pumpe oder Revision anfragen" text="Senden Sie uns Typenschild oder Betriebsdaten, wir prüfen die passende Lösung." label="Angebot anfordern" href="/angebot" /></div>
 <Bloks bloks={c.cta} site={site} />

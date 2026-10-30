@@ -1,0 +1,369 @@
+{
+  "id": 3088899000,
+  "uuid": "b81cdbb8-eba0-4725-8bc1-46c15f1198b6",
+  "name": "Sulzer-Pumpen und Pumpenlösungen",
+  "slug": "sulzer",
+  "full_slug": "pumpen/marken/sulzer",
+  "position": 99,
+  "content": {
+    "component": "page_brand",
+    "h1": "Sulzer-Pumpen und Pumpenlösungen",
+    "nav_title": "Sulzer-Pumpen und Pumpenlösungen",
+    "seo_title": "Sulzer-Pumpen: Kreisel-, Tauch- und Schlammpumpen",
+    "seo_description": "Sulzer-Pumpen für Wasser, Abwasser, Chemie und Energie: axial geteilte Pumpen, Tauchmotorpumpen, Schlammpumpen. Jetzt Beratung oder Angebot anfordern.",
+    "intro": "Sulzer ist ein international tätiger Hersteller von Pumpen und Systemen für Wasser, Abwasser, Chemie, Öl und Gas, Energie und Bergbau. Die Industrial Pump Group ist offizieller Händler und berät zur passenden Sulzer-Pumpe für Ihre Anwendung.",
+    "brand_name": "Sulzer",
+    "body": [
+      {
+        "_uid": "ff4a895a0865",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Lieferant für Sulzer"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Sulzer ist ein weltweit tätiges Unternehmen für die Herstellung und Lieferung hochwertiger Pumpen und Systeme. Das Unternehmen wurde 1834 gegründet und hat seither umfangreiche Erfahrung in den Bereichen Pumpentechnik, Abwasserbehandlung und Energieeffizienz aufgebaut."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Sulzer-Baureihen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Nachfolgend finden Sie einige Baureihen von Sulzer-Pumpen. Ist die gewünschte Pumpe nicht dabei? Dann nehmen Sie unverbindlich "
+                },
+                {
+                  "type": "text",
+                  "text": "Kontakt",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "/kontakt",
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " mit uns auf."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "79b9823ab5ba",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-sulzer-sulzer-1.webp",
+          "alt": "Sulzer axial geteilte Pumpen | Industrial Pump Group",
+          "width": 827,
+          "height": 584
+        }
+      },
+      {
+        "_uid": "bb08f3137b63",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Sulzer fertigt axial geteilte Pumpen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Breites Spektrum an axial geteilten Pumpen mit doppelflutigem Saugeingang, sowohl einstufig als auch mehrstufig"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "ebc0492069b3",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-sulzer-sulzer-2.webp",
+          "alt": "Sulzer Tauchmotorpumpen | Industrial Pump Group",
+          "width": 178,
+          "height": 211
+        }
+      },
+      {
+        "_uid": "5041c6a9d13c",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Sulzer fertigt Tauchmotorpumpen für anspruchsvolle Anwendungen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Die Baureihe schwerer Abwasser-Tauchmotorpumpen von Sulzer ist für die Förderung von stark verunreinigtem Abwasser ausgelegt, auch mit Feststoffen."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "8f7efb25a3b7",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-sulzer-sulzer-3.webp",
+          "alt": "Sulzer Schlammpumpen | Industrial Pump Group",
+          "width": 827,
+          "height": 748
+        }
+      },
+      {
+        "_uid": "60d4b35ceb84",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Sulzer fertigt Schlammpumpen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Schlammpumpen werden für Anwendungen eingesetzt, bei denen sich Feststoffe im Förderstrom befinden."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "56c184834414",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/pomptypes-merk-sulzer-sulzer-4.webp",
+          "alt": "Axialpumpen | Industrial Pump Group",
+          "width": 600,
+          "height": 401
+        }
+      },
+      {
+        "_uid": "a37f4f75f64a",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Sulzer fertigt Axialpumpen"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 4
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Unverbindlich Kontakt aufnehmen"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 4
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Leistungsfähige Pumpen für verschiedene Industrien"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Sulzer bietet ein breites Spektrum an Pumpen für verschiedene Anwendungsbereiche, darunter Wasserbehandlung, Chemie, Öl und Gas, Energie, Papier- und Holzverarbeitung sowie Bergbau. Diese Pumpen sind auf hohe Leistung ausgelegt und mit aktuellen Technologien für Effizienz und Nachhaltigkeit gebaut."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 2
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Kreiselpumpen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Eines der wichtigsten Produkte von Sulzer ist die Kreiselpumpe. Dieser Pumpentyp fördert Flüssigkeiten und Gase durch die schnelle Rotation eines Laufrads. Kreiselpumpen von Sulzer sind für besonders anspruchsvolle Umgebungen ausgelegt und sollen gute Leistung und Langlebigkeit gewährleisten."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Pumpenlösungen"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Sulzer ist ein Hersteller hochwertiger Pumpenlösungen für verschiedene Industrien und Anwendungen. Das Unternehmen bietet ein breites Spektrum an Kreiselpumpen, Verdrängerpumpen und Rührwerken, die für anspruchsvolle Kundenanforderungen ausgelegt sind. Mit mehr als 180 Jahren Erfahrung in der Pumpentechnik und weltweiten Produktionsstandorten verfügt Sulzer über das Fachwissen, Pumpenlösungen zu entwickeln und zu liefern. Das Unternehmen bietet außerdem digitale Lösungen und Services, mit denen Kunden die Leistung ihrer Pumpen optimieren und die Instandhaltung verbessern können. Ob chemische Industrie, Öl und Gas, Wasser und Abwasser oder andere Branchen: Sulzer hat Pumpenlösungen für unterschiedliche Anforderungen."
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "attrs": {
+                "level": 3
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Vorteile: Warum Sulzer-Pumpen?"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Es gibt viele Gründe, sich für eine Industriepumpe von Sulzer zu entscheiden. Wichtige Faktoren sind die nachgewiesene Zuverlässigkeit, Effizienz, hohe Qualität, Fachwissen und Erfahrung in der Branche und ein umfangreiches Sortiment, außerdem aktuelle Technologien und innovative Konstruktionen, die für verschiedene Anwendungen und Industrien optimiert sind."
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "b85a8a8d000a",
+        "component": "image_block",
+        "image": {
+          "filename": "/img/nl/sulzer-faq.webp",
+          "alt": "Sulzer-Pumpen und Pumpenlösungen",
+          "width": 1280,
+          "height": 853
+        }
+      },
+      {
+        "_uid": "7a373574e30e",
+        "component": "faq",
+        "heading": "Häufige Fragen",
+        "items": [
+          {
+            "_uid": "71532f8ccfd8",
+            "component": "faq_item",
+            "question": "Was ist eine Sulzer-Pumpe?",
+            "answer": "Eine Sulzer-Pumpe ist eine hochwertige Industriepumpe der internationalen Marke Sulzer, die für fortschrittliche Technologie und Ingenieurskunst bekannt ist. Sulzer-Pumpen sind für anspruchsvolle und kritische Prozesse ausgelegt, in denen Zuverlässigkeit, Effizienz und Dauerbetrieb wesentlich sind. Durch den Einsatz hochwertiger Werkstoffe und optimierter Hydraulik erbringen Sulzer-Pumpen gute Leistungen, auch unter extremen Prozessbedingungen."
+          },
+          {
+            "_uid": "145733af1914",
+            "component": "faq_item",
+            "question": "Welche Arten von Sulzer-Pumpen gibt es?",
+            "answer": "Sulzer verfügt über ein sehr umfangreiches und technisch anspruchsvolles Sortiment, darunter:\n- Kreiselpumpen für industrielle und Prozessanwendungen\n- Hochdruckpumpen für Energie- und Prozessindustrie\n- Mehrstufige Pumpen für hohe Drücke und große Leistungen\n- Abwasser- und Kanalpumpen\n- Speziell ausgelegte Prozesspumpen für kritische Medien\nDiese Pumpen sind in unterschiedlichen Werkstoffen und Konfigurationen lieferbar, abgestimmt auf Medium, Druck, Temperatur und Betriebsbedingungen."
+          },
+          {
+            "_uid": "08c082f2a7a3",
+            "component": "faq_item",
+            "question": "Wofür werden Sulzer-Pumpen eingesetzt?",
+            "answer": "Sulzer-Pumpen werden in Branchen eingesetzt, in denen Leistung und Zuverlässigkeit entscheidend sind, zum Beispiel:\n- Chemische und petrochemische Industrie\n- Energieerzeugung und Energieinfrastruktur\n- Wasser- und Abwasserbehandlung\n- Öl- und Gasindustrie\n- Schwere Prozessindustrie\nDank ihrer hohen technischen Spezifikationen und langen Lebensdauer eignen sich Sulzer-Pumpen besonders für komplexe und betriebskritische Anwendungen in der Industrie."
+          }
+        ]
+      }
+    ]
+  }
+}
