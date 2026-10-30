@@ -38,8 +38,8 @@ Built pages: **217** (plus 404, robots.txt, sitemap). Source of truth for conten
 | `/pumpen/branchen/wasseraufbereitung` | T3 TopicTemplate | CollectionPage, BreadcrumbList, Service, FAQPage | 1173 | 41 | OK |
 | `/pumpen/branchen/wassertransport` | T3 TopicTemplate | CollectionPage, BreadcrumbList, Service, FAQPage | 1407 | 36 | OK |
 | `/pumpen/marken` | T2 HubTemplate | CollectionPage, BreadcrumbList, ItemList | 289 | 214 | OK |
-| `/pumpen/marken/duchting` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand, FAQPage | 723 | 27 | OK |
-| `/pumpen/marken/ebara` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand, ItemList, FAQPage | 1186 | 214 | OK |
+| `/pumpen/marken/duchting` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand, FAQPage | 727 | 27 | OK |
+| `/pumpen/marken/ebara` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand, ItemList, FAQPage | 1190 | 214 | OK |
 | `/pumpen/marken/ebara/aga-agc-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup, ItemList, FAQPage | 488 | 38 | OK |
 | `/pumpen/marken/ebara/aga-agc-serie/agc-300-t` | T6 ProductTemplate | WebPage, BreadcrumbList, Product | 298 | 1 | OK |
 | `/pumpen/marken/ebara/best-one-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup, ItemList, FAQPage | 498 | 23 | OK |
@@ -54,15 +54,15 @@ Built pages: **217** (plus 404, robots.txt, sitemap). Source of truth for conten
 | `/pumpen/marken/ebara/jex-jesx-serie/jex-120` | T6 ProductTemplate | WebPage, BreadcrumbList, Product | 300 | 1 | OK |
 | `/pumpen/marken/ebara/optima-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup, ItemList, FAQPage | 474 | 14 | OK |
 | `/pumpen/marken/ebara/optima-serie/optima-ms` | T6 ProductTemplate | WebPage, BreadcrumbList, Product | 286 | 1 | OK |
-| `/pumpen/marken/flygt` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand, ItemList, FAQPage | 1588 | 214 | OK |
+| `/pumpen/marken/flygt` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand, ItemList, FAQPage | 1592 | 214 | OK |
 | `/pumpen/marken/flygt/ready-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup, ItemList, FAQPage | 424 | 13 | OK |
 | `/pumpen/marken/flygt/ready-serie/ready-4` | T6 ProductTemplate | WebPage, BreadcrumbList, Product | 218 | 1 | OK |
-| `/pumpen/marken/fybroc` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand | 813 | 23 | OK |
-| `/pumpen/marken/goulds` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand | 636 | 26 | OK |
-| `/pumpen/marken/grindex` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand, FAQPage | 958 | 12 | OK |
-| `/pumpen/marken/grundfos` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand, FAQPage | 1692 | 17 | OK |
-| `/pumpen/marken/homa` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand, FAQPage | 880 | 7 | OK |
-| `/pumpen/marken/lowara` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand, ItemList, FAQPage | 2132 | 214 | OK |
+| `/pumpen/marken/fybroc` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand | 817 | 9 | OK |
+| `/pumpen/marken/goulds` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand | 640 | 7 | OK |
+| `/pumpen/marken/grindex` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand, FAQPage | 962 | 7 | OK |
+| `/pumpen/marken/grundfos` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand, FAQPage | 1696 | 17 | OK |
+| `/pumpen/marken/homa` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand, FAQPage | 884 | 7 | OK |
+| `/pumpen/marken/lowara` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand, ItemList, FAQPage | 2134 | 214 | OK |
 | `/pumpen/marken/lowara/bg-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup, ItemList, FAQPage | 484 | 29 | OK |
 | `/pumpen/marken/lowara/bg-serie/bg3-a` | T6 ProductTemplate | WebPage, BreadcrumbList, Product | 273 | 1 | OK |
 | `/pumpen/marken/lowara/cea-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup, ItemList, FAQPage | 493 | 15 | OK |
@@ -85,9 +85,9 @@ Built pages: **217** (plus 404, robots.txt, sitemap). Source of truth for conten
 | `/pumpen/marken/lowara/sv-serie/15sv02f022t-d` | T6 ProductTemplate | WebPage, BreadcrumbList, Product | 280 | 1 | OK |
 | `/pumpen/marken/lowara/svi-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup | 590 | 5 | OK |
 | `/pumpen/marken/lowara/tdb-tdv-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup | 312 | 5 | OK |
-| `/pumpen/marken/metso` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand | 855 | 4 | OK |
-| `/pumpen/marken/netzsch` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand | 806 | 10 | OK |
-| `/pumpen/marken/saer` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand, ItemList, FAQPage | 1333 | 214 | OK |
+| `/pumpen/marken/metso` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand | 859 | 4 | OK |
+| `/pumpen/marken/netzsch` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand | 810 | 10 | OK |
+| `/pumpen/marken/saer` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand, ItemList, FAQPage | 1335 | 214 | OK |
 | `/pumpen/marken/saer/cm-cmp-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup | 454 | 9 | OK |
 | `/pumpen/marken/saer/fs-98-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup | 379 | 3 | OK |
 | `/pumpen/marken/saer/ir-m-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup, ItemList, FAQPage | 491 | 20 | OK |
@@ -107,14 +107,14 @@ Built pages: **217** (plus 404, robots.txt, sitemap). Source of truth for conten
 | `/pumpen/marken/saer/nr-151-nr-152-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup | 453 | 3 | OK |
 | `/pumpen/marken/saer/tr-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup, ItemList, FAQPage | 435 | 5 | OK |
 | `/pumpen/marken/saer/tr-serie/tr-5` | T6 ProductTemplate | WebPage, BreadcrumbList, Product | 250 | 1 | OK |
-| `/pumpen/marken/safco` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand, FAQPage | 655 | 8 | OK |
-| `/pumpen/marken/seepex` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand | 667 | 8 | OK |
-| `/pumpen/marken/sterling-sihi` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand | 1135 | 4 | OK |
-| `/pumpen/marken/sulzer` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand, FAQPage | 615 | 15 | OK |
-| `/pumpen/marken/varisco` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand | 673 | 5 | OK |
-| `/pumpen/marken/vogel` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand, FAQPage | 703 | 6 | OK |
-| `/pumpen/marken/wilo` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand | 737 | 6 | OK |
-| `/pumpen/marken/xylem` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand | 1015 | 4 | OK |
+| `/pumpen/marken/safco` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand, FAQPage | 659 | 8 | OK |
+| `/pumpen/marken/seepex` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand | 671 | 8 | OK |
+| `/pumpen/marken/sterling-sihi` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand | 1139 | 4 | OK |
+| `/pumpen/marken/sulzer` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand, FAQPage | 619 | 15 | OK |
+| `/pumpen/marken/varisco` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand | 677 | 5 | OK |
+| `/pumpen/marken/vogel` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand, FAQPage | 707 | 6 | OK |
+| `/pumpen/marken/wilo` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand | 741 | 6 | OK |
+| `/pumpen/marken/xylem` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand | 1019 | 4 | OK |
 | `/pumpen/pumpentypen` | T2 HubTemplate | CollectionPage, BreadcrumbList, ItemList | 659 | 26 | OK |
 | `/pumpen/pumpentypen/api-pumpen` | T3 TopicTemplate | CollectionPage, BreadcrumbList, Service, FAQPage | 1387 | 15 | OK |
 | `/pumpen/pumpentypen/api-pumpen/api-610-pumpen` | T3 TopicTemplate | CollectionPage, BreadcrumbList, Service | 519 | 1 | OK |
@@ -170,36 +170,36 @@ Built pages: **217** (plus 404, robots.txt, sitemap). Source of truth for conten
 | `/rueckruf` | T13 ContactTemplate | ContactPage, BreadcrumbList | 266 | 214 | OK |
 | `/ueber-uns` | T2 HubTemplate | CollectionPage, BreadcrumbList, ItemList | 156 | 52 | OK |
 | `/ueber-uns/blog` | T12 ListingTemplate | CollectionPage, BreadcrumbList, ItemList | 448 | 30 | OK |
-| `/ueber-uns/blog/alte-beregnungspumpe-durch-saer-pumpe-ersetzen` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 459 | 1 | OK |
-| `/ueber-uns/blog/eine-woche-gemeinsam-in-den-niederlanden` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 653 | 1 | OK |
-| `/ueber-uns/blog/energie-sparen-mit-ie-motoren` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 413 | 1 | OK |
-| `/ueber-uns/blog/energieeffiziente-pumpen` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 550 | 1 | OK |
-| `/ueber-uns/blog/flygt-bibo-alpha` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 736 | 1 | OK |
-| `/ueber-uns/blog/flygt-concertor-6030-intelligente-abwasserpumpen` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 504 | 1 | OK |
-| `/ueber-uns/blog/gleitringdichtungen-grundlagen` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 713 | 1 | OK |
-| `/ueber-uns/blog/inspirationsevent-tag-der-nachhaltigkeit` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 414 | 1 | OK |
-| `/ueber-uns/blog/ipg-und-xylem` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 400 | 2 | OK |
-| `/ueber-uns/blog/junge-talente-fuer-technik-begeistern` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 546 | 3 | OK |
-| `/ueber-uns/blog/kavitation-bei-industriepumpen` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 681 | 1 | OK |
-| `/ueber-uns/blog/neue-website` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 347 | 1 | OK |
-| `/ueber-uns/blog/neuer-standort` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 783 | 1 | OK |
-| `/ueber-uns/blog/offizieller-importeur-von-saer` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 277 | 1 | OK |
-| `/ueber-uns/blog/pumpenbedarf-sorgenfrei-abdecken` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 710 | 3 | OK |
-| `/ueber-uns/blog/revision-mehrstufiger-pumpen` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 575 | 1 | OK |
-| `/ueber-uns/blog/revision-oder-neukauf-5-pruefpunkte` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 631 | 3 | OK |
-| `/ueber-uns/blog/revision-vertikaler-pumpwerkspumpen` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 607 | 1 | OK |
-| `/ueber-uns/blog/rohrleitungsspannungen-in-pumpensystemen` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 592 | 1 | OK |
+| `/ueber-uns/blog/alte-beregnungspumpe-durch-saer-pumpe-ersetzen` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 462 | 1 | OK |
+| `/ueber-uns/blog/eine-woche-gemeinsam-in-den-niederlanden` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 656 | 1 | OK |
+| `/ueber-uns/blog/energie-sparen-mit-ie-motoren` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 416 | 1 | OK |
+| `/ueber-uns/blog/energieeffiziente-pumpen` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 553 | 1 | OK |
+| `/ueber-uns/blog/flygt-bibo-alpha` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 739 | 1 | OK |
+| `/ueber-uns/blog/flygt-concertor-6030-intelligente-abwasserpumpen` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 507 | 1 | OK |
+| `/ueber-uns/blog/gleitringdichtungen-grundlagen` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 716 | 1 | OK |
+| `/ueber-uns/blog/inspirationsevent-tag-der-nachhaltigkeit` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 417 | 1 | OK |
+| `/ueber-uns/blog/ipg-und-xylem` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 403 | 2 | OK |
+| `/ueber-uns/blog/junge-talente-fuer-technik-begeistern` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 549 | 3 | OK |
+| `/ueber-uns/blog/kavitation-bei-industriepumpen` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 684 | 1 | OK |
+| `/ueber-uns/blog/neue-website` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 350 | 1 | OK |
+| `/ueber-uns/blog/neuer-standort` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 786 | 1 | OK |
+| `/ueber-uns/blog/offizieller-importeur-von-saer` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 280 | 1 | OK |
+| `/ueber-uns/blog/pumpenbedarf-sorgenfrei-abdecken` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 713 | 3 | OK |
+| `/ueber-uns/blog/revision-mehrstufiger-pumpen` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 578 | 1 | OK |
+| `/ueber-uns/blog/revision-oder-neukauf-5-pruefpunkte` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 634 | 3 | OK |
+| `/ueber-uns/blog/revision-vertikaler-pumpwerkspumpen` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 610 | 1 | OK |
+| `/ueber-uns/blog/rohrleitungsspannungen-in-pumpensystemen` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 595 | 1 | OK |
 | `/ueber-uns/blog/seite/2` | – | CollectionPage, BreadcrumbList, ItemList | 445 | 2 | OK |
 | `/ueber-uns/blog/seite/3` | – | CollectionPage, BreadcrumbList, ItemList | 258 | 1 | OK |
-| `/ueber-uns/blog/siccast-verschleissschutz` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 539 | 1 | OK |
-| `/ueber-uns/blog/tag-der-nachhaltigkeit-10-oktober-2024` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 511 | 1 | OK |
-| `/ueber-uns/blog/verdraengerpumpen-exzenterschnecken-und-schraubenspindelpumpen` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 899 | 3 | OK |
-| `/ueber-uns/blog/wann-lohnt-die-revision-einer-lowara-pumpe` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting, FAQPage | 771 | 1 | OK |
-| `/ueber-uns/blog/warnung-vor-betrugsmasche` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 548 | 1 | OK |
-| `/ueber-uns/blog/wartung-von-lowara-pumpen` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting, FAQPage | 685 | 1 | OK |
-| `/ueber-uns/blog/wasserrahmenrichtlinie-2027` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 740 | 1 | OK |
-| `/ueber-uns/blog/weltweit-vernetzt-lokal-stark` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 707 | 1 | OK |
-| `/ueber-uns/blog/weltweites-wissen-lokaler-service` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 811 | 1 | OK |
+| `/ueber-uns/blog/siccast-verschleissschutz` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 542 | 1 | OK |
+| `/ueber-uns/blog/tag-der-nachhaltigkeit-10-oktober-2024` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 514 | 1 | OK |
+| `/ueber-uns/blog/verdraengerpumpen-exzenterschnecken-und-schraubenspindelpumpen` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 902 | 3 | OK |
+| `/ueber-uns/blog/wann-lohnt-die-revision-einer-lowara-pumpe` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting, FAQPage | 774 | 1 | OK |
+| `/ueber-uns/blog/warnung-vor-betrugsmasche` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 551 | 1 | OK |
+| `/ueber-uns/blog/wartung-von-lowara-pumpen` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting, FAQPage | 688 | 1 | OK |
+| `/ueber-uns/blog/wasserrahmenrichtlinie-2027` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 743 | 1 | OK |
+| `/ueber-uns/blog/weltweit-vernetzt-lokal-stark` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 710 | 1 | OK |
+| `/ueber-uns/blog/weltweites-wissen-lokaler-service` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 814 | 1 | OK |
 | `/ueber-uns/karriere` | T12 ListingTemplate | CollectionPage, BreadcrumbList, ItemList | 292 | 5 | OK |
 | `/ueber-uns/karriere/allround-pumpenmonteur` | T15 JobTemplate | WebPage, BreadcrumbList, JobPosting | 316 | 1 | OK |
 | `/ueber-uns/karriere/junior-account-manager` | T15 JobTemplate | WebPage, BreadcrumbList, JobPosting | 388 | 1 | OK |
@@ -250,26 +250,26 @@ Built pages: **217** (plus 404, robots.txt, sitemap). Source of truth for conten
 - /pumpen/branchen/wasseraufbereitung (T3 TopicTemplate): 1173 words, target 600–900
 - /pumpen/branchen/wassertransport (T3 TopicTemplate): 1407 words, target 600–900
 - /pumpen/branchen (T2 HubTemplate): 499 words, target 250–400
-- /pumpen/marken/duchting (T4 BrandTemplate): 723 words, target 400–700
+- /pumpen/marken/duchting (T4 BrandTemplate): 727 words, target 400–700
 - /pumpen/marken/ebara/dw-serie (T5 SeriesTemplate): 505 words, target 300–500
 - /pumpen/marken/ebara/dwo-serie (T5 SeriesTemplate): 503 words, target 300–500
-- /pumpen/marken/ebara (T4 BrandTemplate): 1186 words, target 400–700
-- /pumpen/marken/flygt (T4 BrandTemplate): 1588 words, target 400–700
-- /pumpen/marken/fybroc (T4 BrandTemplate): 813 words, target 400–700
-- /pumpen/marken/grindex (T4 BrandTemplate): 958 words, target 400–700
-- /pumpen/marken/grundfos (T4 BrandTemplate): 1692 words, target 400–700
-- /pumpen/marken/homa (T4 BrandTemplate): 880 words, target 400–700
+- /pumpen/marken/ebara (T4 BrandTemplate): 1190 words, target 400–700
+- /pumpen/marken/flygt (T4 BrandTemplate): 1592 words, target 400–700
+- /pumpen/marken/fybroc (T4 BrandTemplate): 817 words, target 400–700
+- /pumpen/marken/grindex (T4 BrandTemplate): 962 words, target 400–700
+- /pumpen/marken/grundfos (T4 BrandTemplate): 1696 words, target 400–700
+- /pumpen/marken/homa (T4 BrandTemplate): 884 words, target 400–700
 - /pumpen/marken/lowara/e-ixp-serie (T5 SeriesTemplate): 751 words, target 300–500
 - /pumpen/marken/lowara/svi-serie (T5 SeriesTemplate): 590 words, target 300–500
-- /pumpen/marken/lowara (T4 BrandTemplate): 2132 words, target 400–700
-- /pumpen/marken/metso (T4 BrandTemplate): 855 words, target 400–700
-- /pumpen/marken/netzsch (T4 BrandTemplate): 806 words, target 400–700
+- /pumpen/marken/lowara (T4 BrandTemplate): 2134 words, target 400–700
+- /pumpen/marken/metso (T4 BrandTemplate): 859 words, target 400–700
+- /pumpen/marken/netzsch (T4 BrandTemplate): 810 words, target 400–700
 - /pumpen/marken/saer/nca-serie (T5 SeriesTemplate): 234 words, target 300–500
-- /pumpen/marken/saer (T4 BrandTemplate): 1333 words, target 400–700
-- /pumpen/marken/sterling-sihi (T4 BrandTemplate): 1135 words, target 400–700
-- /pumpen/marken/vogel (T4 BrandTemplate): 703 words, target 400–700
-- /pumpen/marken/wilo (T4 BrandTemplate): 737 words, target 400–700
-- /pumpen/marken/xylem (T4 BrandTemplate): 1015 words, target 400–700
+- /pumpen/marken/saer (T4 BrandTemplate): 1335 words, target 400–700
+- /pumpen/marken/sterling-sihi (T4 BrandTemplate): 1139 words, target 400–700
+- /pumpen/marken/vogel (T4 BrandTemplate): 707 words, target 400–700
+- /pumpen/marken/wilo (T4 BrandTemplate): 741 words, target 400–700
+- /pumpen/marken/xylem (T4 BrandTemplate): 1019 words, target 400–700
 - /pumpen/pumpentypen/api-pumpen/api-610-pumpen (T3 TopicTemplate): 519 words, target 600–900
 - /pumpen/pumpentypen/api-pumpen (T3 TopicTemplate): 1387 words, target 600–900
 - /pumpen/pumpentypen/axial-geteilte-pumpen (T3 TopicTemplate): 1082 words, target 600–900

@@ -7,7 +7,7 @@ Every internal link on the site is derived from the folder tree and the shared t
 | Startseite | 1 | 65.0 | 217.0 |
 | 1 | 12 | 12.4 | 167.9 |
 | 2 | 34 | 16.8 | 12.0 |
-| 3 | 109 | 8.1 | 16.7 |
+| 3 | 109 | 8.1 | 16.3 |
 | 4 | 40 | 15.4 | 11.5 |
 | 5 | 21 | 10.9 | 1.0 |
 

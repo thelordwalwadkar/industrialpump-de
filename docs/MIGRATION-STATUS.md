@@ -1,7 +1,7 @@
 # Migration status: industrialpumps.nl → industrialpumpgroup.de (updated 30 Oct 2026, end of day)
 
 ## State in one paragraph
-All 172 German pages exist (every page type of industrialpumps.nl except the webshop checkout). Content is translated, images are local, JSON-LD is generated per template, and **all 41 components and 216 stories are live in the Storyblok space IPG-DE** (published). The static build (218 pages) passes schema validation, site QA, fixtures and `astro check` with 0 errors. Not yet done: build from live Storyblok data (needs a read token), real company/legal data, client sign-off on the Dutch claims, hreflang/og:image/lastmod, Lighthouse.
+All 172 German pages exist (every page type of industrialpumps.nl except the webshop checkout). Content is translated, images are local, JSON-LD is generated per template, and **all 41 components and 216 stories are live in the Storyblok space IPG-DE** (published). The static build (218 pages) passes schema validation, site QA, fixtures and `astro check` with 0 errors. Verified: build from live Storyblok data (same result). Not yet done: real company/legal data, client sign-off on the Dutch claims, hreflang/og:image/lastmod, Lighthouse.
 
 ## Client decisions (30 Oct 2026)
 1. Domain **https://industrialpumpgroup.de** (no www).
@@ -32,7 +32,7 @@ Re-run after content changes: `npx tsx scripts/generate-seed.ts` → `npm run bu
 - Site-side changes: new templates Job/About/FAQ, schema builders `job.ts`, `about.ts`, `faq-page.ts`, Topic = CollectionPage + ItemList + Service + FAQPage, FAQPage collected from FAQ bloks of every page type; default quote CTA on Hub/Topic/Listing; service pages list their sub-pages; footer links to Ersatzpumpe, Rückruf, FAQ; check-site false positives fixed (`grindex`, "Plug-and-play", English proper names).
 
 ## Open items / next steps
-1. **Public Storyblok read token** (Settings → Access Tokens): the personal token cannot list/create it. Needed to build from live data (`STORYBLOK_TOKEN`) and test the visual-editor bridge.
+1. ~~Storyblok read token~~ **done 30 Oct**: token received, stored as `STORYBLOK_TOKEN` in the git-ignored `.env`; a build from live Storyblok data gives the same 218 pages with 0 errors. The token also serves draft content (preview-capable): for the production build use a *public* token and keep the preview one for the editor only. Still untested: visual-editor bridge.
 2. Client sign-off: `NL-CLAIMS-TO-VERIFY.md`; `NL-SPECIFIC.md` (Dutch addresses, customers, people); decide on the 42 webshop-derived pages; delete/replace NL-only pages (26 are noindex).
 3. Source problems found by translators (flagged in notes): `saer__ncbk-serie` is a copy of CM/CMP; garbled specs on Lowara Scuba/SVI, SAER MBSH/FS-98; Goulds heading names SAER; KRW post breaks off mid-sentence (translator completed it minimally); cavitation vapour-pressure wording corrected; "Schottenpompen"/"deppompen"/"expansiepompen" renderings to confirm.
 4. SEO layer still open: hreflang (nl/en/de), og:image, sitemap lastmod, German keyword mapping (keyword workbooks only have English terms), Lighthouse run on the full site.
