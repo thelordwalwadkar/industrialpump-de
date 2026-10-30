@@ -12,16 +12,24 @@ export function configStory(): SeedStory {
     component: 'config',
     // ASSUMPTION A-07: the display name is taken from the sister brand "Industrial Pump Group". Confirm or replace.
     site_name: 'Industrial Pump Group',
-    legal_name: P('Firmenname (juristisch)'), legal_form: P('Rechtsform'),
-    street: P('Straße und Hausnummer'), postal_code: P('PLZ'), city: P('Ort'), country_code: 'DE',
-    phone: P('Telefon'), email: P('E-Mail'), opening_hours: P('Öffnungszeiten'), vat_id: P('USt-IdNr.'),
-    social: '', map_embed_url: '', authorised_dealer_brands: '',
+    // Copied from the footer of industrialpumps.nl on 30 Oct 2026 (client request); the Dutch address stays until the German one is known.
+    legal_name: 'Industrial Pump Group Nederland', legal_form: 'B.V.',
+    street: 'Concordiastraat 30', postal_code: '1951 AS', city: 'Velsen-Noord', country_code: 'NL',
+    postal_address: 'Postbus 403, 1970 AK IJmuiden',
+    phone: '+31 251 222 566', email: 'info@industrialpumps.nl', opening_hours: P('Öffnungszeiten'),
+    vat_id: 'NL8034.07.798.B01', register_number: '340 89 823',
+    social: ['https://www.facebook.com/industrialpumps.nl', 'https://nl.linkedin.com/company/industrial-pump-group-nederland-b-v-', 'https://www.instagram.com/industrialpumps.nl/'].join(String.fromCharCode(10)),
+    footer_about: 'Die Industrial Pump Group ist seit 2003 Ihr Partner für passende Lösungen rund um Ihr Fördermedium. Pumpenexperten mit mehr als 30 Jahren Erfahrung beraten, revidieren und verkaufen Pumpen für industrielle Anwendungen.',
+    footer_usps: ['Herstellerunabhängige Pumpenberatung', 'Offizieller Händler führender Marken', 'Schnelle Lieferung', 'Faire Preise', 'Mehr als 30 Jahre Erfahrung', 'Engagierte Pumpenexperten'].join(String.fromCharCode(10)),
+    map_embed_url: '', authorised_dealer_brands: '',
     default_description: 'Industriepumpen für Gebäudetechnik, Wasserversorgung und Entwässerung: Auswahl, Angebot und Revision.',
     header_nav: [navItem('Pumpen', 'pumpen'), navItem('Marken', 'pumpen/marken')],
+    // Same quick links as the footer of industrialpumps.nl (webshop and shop return policy left out); links to pages that do not exist are hidden by the footer.
     footer_groups: [
-      { _uid: uid('fg-pumpen'), component: 'nav_group', label: 'Pumpen', items: [navItem('Alle Pumpen', 'pumpen'), ...BRANDS.map((b) => navItem(b.name, `pumpen/marken/${b.slug}`))] },
-      { _uid: uid('fg-firma'), component: 'nav_group', label: 'Unternehmen', items: [navItem('Angebot anfordern', 'angebot'), navItem('Ersatzpumpe', 'ersatzpumpe'), navItem('Rückruf anfordern', 'rueckruf'), navItem('Häufige Fragen', 'haeufige-fragen'), navItem('Kontakt', 'kontakt')] },
-      { _uid: uid('fg-recht'), component: 'nav_group', label: 'Rechtliches', items: [navItem('Impressum', 'impressum'), navItem('Datenschutz', 'datenschutz'), navItem('AGB', 'agb')] },
+      { _uid: uid('fg-quick'), component: 'nav_group', label: 'Schnellzugriff', items: [navItem('Angebot', 'angebot'), navItem('Pumpenrevision', 'revision'), navItem('Wartung und Inspektion vor Ort', 'revision/inspektion-vor-ort'), navItem('Ersatzteile', 'revision/ersatzteile'), navItem('Branchen', 'pumpen/branchen'), navItem('Anwendungen', 'pumpen/anwendungen'), navItem('Pumpentypen', 'pumpen/pumpentypen')] },
+      { _uid: uid('fg-marken'), component: 'nav_group', label: 'Marken', items: [navItem('SAER', 'pumpen/marken/saer'), navItem('Lowara', 'pumpen/marken/lowara'), navItem('Flygt', 'pumpen/marken/flygt'), navItem('Ebara', 'pumpen/marken/ebara'), navItem('HOMA', 'pumpen/marken/homa'), navItem('Alle Marken', 'pumpen/marken')] },
+      { _uid: uid('fg-firma'), component: 'nav_group', label: 'Unternehmen', items: [navItem('Pumpenschule', 'ueber-uns/pumpenschule'), navItem('Kurse', 'ueber-uns/pumpenschule/kurse'), navItem('Über uns', 'ueber-uns/unternehmen'), navItem('Ersatzpumpe', 'ersatzpumpe'), navItem('Rückruf anfordern', 'rueckruf'), navItem('Kontakt', 'kontakt')] },
+      { _uid: uid('fg-recht'), component: 'nav_group', label: 'Rechtliches', items: [navItem('Allgemeine Geschäftsbedingungen', 'agb'), navItem('Datenschutz', 'datenschutz'), navItem('Häufige Fragen', 'haeufige-fragen'), navItem('Impressum', 'impressum')] },
     ],
   });
 }
@@ -128,11 +136,11 @@ export function legalStories(): SeedStory[] {
     story(slug, name, { component: 'page_legal', legal_kind: kind, h1: name, nav_title: name, seo_title: title, seo_description: desc, intro, review_note: REVIEW, text });
   return [
     legal('impressum', 'Impressum', 'impressum', 'Impressum | Industrial Pump Group', 'Anbieterkennzeichnung nach § 5 DDG: Unternehmen, Anschrift, Vertretung, Kontakt und Registerangaben.', 'Angaben zum Anbieter dieser Website nach § 5 DDG.', doc(
-      heading(2, 'Angaben nach § 5 DDG'), para(P('Firmenname und Rechtsform')), para(`${P('Straße und Hausnummer')}, ${P('PLZ und Ort')}`),
+      heading(2, 'Angaben nach § 5 DDG'), para('Industrial Pump Group Nederland B.V.'), para('Concordiastraat 30, 1951 AS Velsen-Noord, Niederlande'), para('Postanschrift: Postbus 403, 1970 AK IJmuiden, Niederlande'),
       heading(2, 'Vertreten durch'), para(P('Geschäftsführer')),
-      heading(2, 'Kontakt'), para(`Telefon: ${P('Telefon')}`), para(`E-Mail: ${P('E-Mail')}`),
-      heading(2, 'Registereintrag'), para(P('Registergericht und Handelsregisternummer')),
-      heading(2, 'Umsatzsteuer-ID'), para(`Umsatzsteuer-Identifikationsnummer nach § 27a UStG: ${P('USt-IdNr.')}`),
+      heading(2, 'Kontakt'), para('Telefon: +31 251 222 566'), para('E-Mail: info@industrialpumps.nl'),
+      heading(2, 'Registereintrag'), para('Handelsregister (Kamer van Koophandel, KvK): 340 89 823'),
+      heading(2, 'Umsatzsteuer-ID'), para(`Umsatzsteuer-Identifikationsnummer nach § 27a UStG: NL8034.07.798.B01`),
       heading(2, 'Verantwortlich für den Inhalt'), para(`Verantwortlich nach § 18 Abs. 2 MStV: ${P('Name und Anschrift')}`),
       heading(2, 'Streitbeilegung'), para(P('Angabe zur Teilnahme an Verbraucherstreitbeilegungsverfahren nach VSBG')),
     )),

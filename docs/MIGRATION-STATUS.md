@@ -43,3 +43,6 @@ Re-run after content changes: `npx tsx scripts/generate-seed.ts` → `npm run bu
 - Git Bash heredocs mangle backslashes in regexes: use the Edit/Write tools for code with regexes.
 - Node scripts need a `package.json` nearby: keep helper scripts under the project (`.reports/`).
 - Storyblok enforces model limits the local build does not: required fields, intro ≤ 320 chars, FAQ ≤ 8 items per blok.
+
+## Footer and company data (30 Oct 2026, client request: copy from industrialpumps.nl)
+Copied: firm name "Industrial Pump Group Nederland B.V.", visitor address (Concordiastraat 30, 1951 AS Velsen-Noord, kept for now), postal address (Postbus 403, 1970 AK IJmuiden), phone +31 251 222 566 (Dutch "(0251) 222 566" in international form), info@industrialpumps.nl, KvK 340 89 823, VAT NL8034.07.798.B01, Facebook/LinkedIn/Instagram, the "since 2003 / 30 years" blurb and the six USPs, and the quick-link columns (webshop and shop return policy left out). Impressum now carries these facts; the rest of it (managing director, responsible person, dispute resolution) stays placeholder. Not copied: brochure download form, "available until 17:00" chat text. The Organization schema now says country NL because the address is Dutch. Replace all of this in the Storyblok `config` story once the German data exists. The blurb and USPs are claims → client sign-off.

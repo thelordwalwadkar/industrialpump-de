@@ -6,14 +6,14 @@ Built pages: **217** (plus 404, robots.txt, sitemap). Source of truth for conten
 |---|---|---|---|---|---|
 | `/` | T1 HomeTemplate | Organization, WebSite, WebPage, BreadcrumbList | 1094 | 217 | OK |
 | `/agb` | T14 LegalTemplate | WebPage, BreadcrumbList | 103 | 215 | OK |
-| `/angebot` | T13 ContactTemplate | ContactPage, BreadcrumbList | 145 | 214 | OK |
+| `/angebot` | T13 ContactTemplate | ContactPage, BreadcrumbList | 139 | 214 | OK |
 | `/datenschutz` | T14 LegalTemplate | WebPage, BreadcrumbList | 201 | 217 | OK |
 | `/ersatzpumpe` | T7 ServiceTemplate | WebPage, BreadcrumbList, Service | 228 | 214 | OK |
 | `/haeufige-fragen` | T17 FaqTemplate | WebPage, BreadcrumbList, FAQPage | 538 | 214 | OK |
-| `/impressum` | T14 LegalTemplate | WebPage, BreadcrumbList | 85 | 215 | OK |
-| `/kontakt` | T13 ContactTemplate | ContactPage, BreadcrumbList | 93 | 214 | OK |
+| `/impressum` | T14 LegalTemplate | WebPage, BreadcrumbList | 87 | 215 | OK |
+| `/kontakt` | T13 ContactTemplate | ContactPage, BreadcrumbList | 87 | 214 | OK |
 | `/pumpen` | T2 HubTemplate | CollectionPage, BreadcrumbList, ItemList | 671 | 214 | OK |
-| `/pumpen/anwendungen` | T2 HubTemplate | CollectionPage, BreadcrumbList, ItemList | 265 | 11 | OK |
+| `/pumpen/anwendungen` | T2 HubTemplate | CollectionPage, BreadcrumbList, ItemList | 265 | 214 | OK |
 | `/pumpen/anwendungen/abwasser` | T3 TopicTemplate | CollectionPage, BreadcrumbList, Service, FAQPage | 946 | 23 | OK |
 | `/pumpen/anwendungen/entwaesserung` | T3 TopicTemplate | CollectionPage, BreadcrumbList, Service, FAQPage | 1087 | 24 | OK |
 | `/pumpen/anwendungen/kesselspeisung` | T3 TopicTemplate | CollectionPage, BreadcrumbList, Service, FAQPage | 1227 | 12 | OK |
@@ -23,7 +23,7 @@ Built pages: **217** (plus 404, robots.txt, sitemap). Source of truth for conten
 | `/pumpen/anwendungen/nassbaggerei` | T3 TopicTemplate | CollectionPage, BreadcrumbList, Service, FAQPage | 960 | 14 | OK |
 | `/pumpen/anwendungen/prozesswasser` | T3 TopicTemplate | CollectionPage, BreadcrumbList, Service, FAQPage | 1012 | 14 | OK |
 | `/pumpen/anwendungen/trinkwasser` | T3 TopicTemplate | CollectionPage, BreadcrumbList, Service, FAQPage | 1162 | 13 | OK |
-| `/pumpen/branchen` | T2 HubTemplate | CollectionPage, BreadcrumbList, ItemList | 499 | 18 | OK |
+| `/pumpen/branchen` | T2 HubTemplate | CollectionPage, BreadcrumbList, ItemList | 499 | 214 | OK |
 | `/pumpen/branchen/chemische-industrie` | T3 TopicTemplate | CollectionPage, BreadcrumbList, Service, FAQPage | 1075 | 20 | OK |
 | `/pumpen/branchen/energieversorgung` | T3 TopicTemplate | CollectionPage, BreadcrumbList, Service, FAQPage | 1152 | 11 | OK |
 | `/pumpen/branchen/gebaeudetechnik-hvac` | T3 TopicTemplate | CollectionPage, BreadcrumbList, Service, FAQPage | 948 | 32 | OK |
@@ -61,7 +61,7 @@ Built pages: **217** (plus 404, robots.txt, sitemap). Source of truth for conten
 | `/pumpen/marken/goulds` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand | 640 | 7 | OK |
 | `/pumpen/marken/grindex` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand, FAQPage | 962 | 7 | OK |
 | `/pumpen/marken/grundfos` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand, FAQPage | 1696 | 17 | OK |
-| `/pumpen/marken/homa` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand, FAQPage | 884 | 7 | OK |
+| `/pumpen/marken/homa` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand, FAQPage | 884 | 214 | OK |
 | `/pumpen/marken/lowara` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand, ItemList, FAQPage | 2134 | 214 | OK |
 | `/pumpen/marken/lowara/bg-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup, ItemList, FAQPage | 484 | 29 | OK |
 | `/pumpen/marken/lowara/bg-serie/bg3-a` | T6 ProductTemplate | WebPage, BreadcrumbList, Product | 273 | 1 | OK |
@@ -115,7 +115,7 @@ Built pages: **217** (plus 404, robots.txt, sitemap). Source of truth for conten
 | `/pumpen/marken/vogel` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand, FAQPage | 707 | 6 | OK |
 | `/pumpen/marken/wilo` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand | 741 | 6 | OK |
 | `/pumpen/marken/xylem` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand | 1019 | 4 | OK |
-| `/pumpen/pumpentypen` | T2 HubTemplate | CollectionPage, BreadcrumbList, ItemList | 659 | 26 | OK |
+| `/pumpen/pumpentypen` | T2 HubTemplate | CollectionPage, BreadcrumbList, ItemList | 659 | 214 | OK |
 | `/pumpen/pumpentypen/api-pumpen` | T3 TopicTemplate | CollectionPage, BreadcrumbList, Service, FAQPage | 1387 | 15 | OK |
 | `/pumpen/pumpentypen/api-pumpen/api-610-pumpen` | T3 TopicTemplate | CollectionPage, BreadcrumbList, Service | 519 | 1 | OK |
 | `/pumpen/pumpentypen/axial-geteilte-pumpen` | T3 TopicTemplate | CollectionPage, BreadcrumbList, Service, FAQPage | 1082 | 14 | OK |
@@ -148,16 +148,16 @@ Built pages: **217** (plus 404, robots.txt, sitemap). Source of truth for conten
 | `/pumpenwissen/kavitation` | T9 KnowledgeTemplate | WebPage, BreadcrumbList, TechArticle | 607 | 7 | OK |
 | `/pumpenwissen/pumpenkennlinien` | T9 KnowledgeTemplate | WebPage, BreadcrumbList, TechArticle | 744 | 7 | OK |
 | `/pumpenwissen/wichtigste-pumpenkomponenten` | T9 KnowledgeTemplate | WebPage, BreadcrumbList, TechArticle | 904 | 7 | OK |
-| `/revision` | T7 ServiceTemplate | WebPage, BreadcrumbList, Service, FAQPage | 1158 | 24 | OK |
+| `/revision` | T7 ServiceTemplate | WebPage, BreadcrumbList, Service, FAQPage | 1158 | 214 | OK |
 | `/revision/api-pumpen-revision` | T7 ServiceTemplate | WebPage, BreadcrumbList, Service, FAQPage | 473 | 2 | OK |
 | `/revision/axial-geteilte-pumpen-revision` | T7 ServiceTemplate | WebPage, BreadcrumbList, Service, FAQPage | 495 | 2 | OK |
 | `/revision/balcke-duerr-pumpen-revision` | T7 ServiceTemplate | WebPage, BreadcrumbList, Service, FAQPage | 650 | 3 | OK |
 | `/revision/chemienormpumpen-revision` | T7 ServiceTemplate | WebPage, BreadcrumbList, Service, FAQPage | 540 | 2 | OK |
-| `/revision/ersatzteile` | T7 ServiceTemplate | WebPage, BreadcrumbList, Service, FAQPage | 851 | 3 | OK |
+| `/revision/ersatzteile` | T7 ServiceTemplate | WebPage, BreadcrumbList, Service, FAQPage | 851 | 214 | OK |
 | `/revision/exzenterschneckenpumpen-revision` | T7 ServiceTemplate | WebPage, BreadcrumbList, Service, FAQPage | 464 | 3 | OK |
 | `/revision/getriebe-revision` | T7 ServiceTemplate | WebPage, BreadcrumbList, Service, FAQPage | 813 | 2 | OK |
 | `/revision/halbaxialpumpen-revision` | T7 ServiceTemplate | WebPage, BreadcrumbList, Service, FAQPage | 490 | 2 | OK |
-| `/revision/inspektion-vor-ort` | T7 ServiceTemplate | WebPage, BreadcrumbList, Service, FAQPage | 597 | 3 | OK |
+| `/revision/inspektion-vor-ort` | T7 ServiceTemplate | WebPage, BreadcrumbList, Service, FAQPage | 597 | 214 | OK |
 | `/revision/kesselspeisepumpen-revision` | T7 ServiceTemplate | WebPage, BreadcrumbList, Service, FAQPage | 486 | 2 | OK |
 | `/revision/kuehlwasserpumpen-revision` | T7 ServiceTemplate | WebPage, BreadcrumbList, Service, FAQPage | 441 | 2 | OK |
 | `/revision/kunststoffpumpen-revision` | T7 ServiceTemplate | WebPage, BreadcrumbList, Service, FAQPage | 469 | 2 | OK |
@@ -167,7 +167,7 @@ Built pages: **217** (plus 404, robots.txt, sitemap). Source of truth for conten
 | `/revision/vertikale-turbinenpumpen-revision` | T7 ServiceTemplate | WebPage, BreadcrumbList, Service, FAQPage | 518 | 2 | OK |
 | `/revision/vorbeugende-wartung` | T7 ServiceTemplate | WebPage, BreadcrumbList, Service, FAQPage | 607 | 2 | OK |
 | `/revision/zellenradschleusen-revision` | T7 ServiceTemplate | WebPage, BreadcrumbList, Service, FAQPage | 409 | 1 | OK |
-| `/rueckruf` | T13 ContactTemplate | ContactPage, BreadcrumbList | 266 | 214 | OK |
+| `/rueckruf` | T13 ContactTemplate | ContactPage, BreadcrumbList | 260 | 214 | OK |
 | `/ueber-uns` | T2 HubTemplate | CollectionPage, BreadcrumbList, ItemList | 156 | 52 | OK |
 | `/ueber-uns/blog` | T12 ListingTemplate | CollectionPage, BreadcrumbList, ItemList | 448 | 30 | OK |
 | `/ueber-uns/blog/alte-beregnungspumpe-durch-saer-pumpe-ersetzen` | T10 BlogPostTemplate | WebPage, BreadcrumbList, BlogPosting | 462 | 1 | OK |
@@ -205,12 +205,12 @@ Built pages: **217** (plus 404, robots.txt, sitemap). Source of truth for conten
 | `/ueber-uns/karriere/junior-account-manager` | T15 JobTemplate | WebPage, BreadcrumbList, JobPosting | 388 | 1 | OK |
 | `/ueber-uns/karriere/pumpenmonteur-berufseinsteiger` | T15 JobTemplate | WebPage, BreadcrumbList, JobPosting | 304 | 1 | OK |
 | `/ueber-uns/karriere/technischer-innendienst` | T15 JobTemplate | WebPage, BreadcrumbList, JobPosting | 399 | 1 | OK |
-| `/ueber-uns/pumpenschule` | T2 HubTemplate | CollectionPage, BreadcrumbList, ItemList | 612 | 9 | OK |
+| `/ueber-uns/pumpenschule` | T2 HubTemplate | CollectionPage, BreadcrumbList, ItemList | 612 | 214 | OK |
 | `/ueber-uns/pumpenschule/armaturen-und-ventile` | T8 CourseTemplate | WebPage, BreadcrumbList, Course, FAQPage | 397 | 1 | OK |
 | `/ueber-uns/pumpenschule/gleitringdichtungen` | T8 CourseTemplate | WebPage, BreadcrumbList, Course, FAQPage | 392 | 1 | OK |
 | `/ueber-uns/pumpenschule/grundlagen` | T8 CourseTemplate | WebPage, BreadcrumbList, Course, FAQPage | 335 | 1 | OK |
 | `/ueber-uns/pumpenschule/inspektion-und-wartung` | T8 CourseTemplate | WebPage, BreadcrumbList, Course, FAQPage | 378 | 1 | OK |
-| `/ueber-uns/pumpenschule/kurse` | T8 CourseTemplate | WebPage, BreadcrumbList, Course, FAQPage | 368 | 1 | OK |
+| `/ueber-uns/pumpenschule/kurse` | T8 CourseTemplate | WebPage, BreadcrumbList, Course, FAQPage | 368 | 214 | OK |
 | `/ueber-uns/pumpenschule/wellen-und-lager` | T8 CourseTemplate | WebPage, BreadcrumbList, Course, FAQPage | 394 | 1 | OK |
 | `/ueber-uns/referenzen` | T12 ListingTemplate | CollectionPage, BreadcrumbList, ItemList | 281 | 8 | OK |
 | `/ueber-uns/referenzen/aeb-amsterdam` | T11 CaseStudyTemplate | WebPage, BreadcrumbList, Article | 359 | 1 | OK |
@@ -220,7 +220,7 @@ Built pages: **217** (plus 404, robots.txt, sitemap). Source of truth for conten
 | `/ueber-uns/referenzen/scholle-ipn` | T11 CaseStudyTemplate | WebPage, BreadcrumbList, Article | 397 | 1 | OK |
 | `/ueber-uns/referenzen/svitzer` | T11 CaseStudyTemplate | WebPage, BreadcrumbList, Article | 418 | 1 | OK |
 | `/ueber-uns/referenzen/waternet` | T11 CaseStudyTemplate | WebPage, BreadcrumbList, Article | 677 | 1 | OK |
-| `/ueber-uns/unternehmen` | T16 AboutTemplate | AboutPage, BreadcrumbList | 847 | 1 | OK |
+| `/ueber-uns/unternehmen` | T16 AboutTemplate | AboutPage, BreadcrumbList | 847 | 214 | OK |
 
 ## Templates without content yet (built and fixture-tested, no pages created in this run)
 

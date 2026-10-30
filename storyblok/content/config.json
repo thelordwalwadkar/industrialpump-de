@@ -7,17 +7,21 @@
   "content": {
     "component": "config",
     "site_name": "Industrial Pump Group",
-    "legal_name": "[[PLATZHALTER: Firmenname (juristisch)]]",
-    "legal_form": "[[PLATZHALTER: Rechtsform]]",
-    "street": "[[PLATZHALTER: Straße und Hausnummer]]",
-    "postal_code": "[[PLATZHALTER: PLZ]]",
-    "city": "[[PLATZHALTER: Ort]]",
-    "country_code": "DE",
-    "phone": "[[PLATZHALTER: Telefon]]",
-    "email": "[[PLATZHALTER: E-Mail]]",
+    "legal_name": "Industrial Pump Group Nederland",
+    "legal_form": "B.V.",
+    "street": "Concordiastraat 30",
+    "postal_code": "1951 AS",
+    "city": "Velsen-Noord",
+    "country_code": "NL",
+    "postal_address": "Postbus 403, 1970 AK IJmuiden",
+    "phone": "+31 251 222 566",
+    "email": "info@industrialpumps.nl",
     "opening_hours": "[[PLATZHALTER: Öffnungszeiten]]",
-    "vat_id": "[[PLATZHALTER: USt-IdNr.]]",
-    "social": "",
+    "vat_id": "NL8034.07.798.B01",
+    "register_number": "340 89 823",
+    "social": "https://www.facebook.com/industrialpumps.nl\nhttps://nl.linkedin.com/company/industrial-pump-group-nederland-b-v-\nhttps://www.instagram.com/industrialpumps.nl/",
+    "footer_about": "Die Industrial Pump Group ist seit 2003 Ihr Partner für passende Lösungen rund um Ihr Fördermedium. Pumpenexperten mit mehr als 30 Jahren Erfahrung beraten, revidieren und verkaufen Pumpen für industrielle Anwendungen.",
+    "footer_usps": "Herstellerunabhängige Pumpenberatung\nOffizieller Händler führender Marken\nSchnelle Lieferung\nFaire Preise\nMehr als 30 Jahre Erfahrung\nEngagierte Pumpenexperten",
     "map_embed_url": "",
     "authorised_dealer_brands": "",
     "default_description": "Industriepumpen für Gebäudetechnik, Wasserversorgung und Entwässerung: Auswahl, Angebot und Revision.",
@@ -49,19 +53,110 @@
     ],
     "footer_groups": [
       {
-        "_uid": "78d2b52db9c6",
+        "_uid": "cc2f3615c401",
         "component": "nav_group",
-        "label": "Pumpen",
+        "label": "Schnellzugriff",
         "items": [
           {
-            "_uid": "7e21902de266",
+            "_uid": "45d2d7d3836c",
             "component": "nav_item",
-            "label": "Alle Pumpen",
+            "label": "Angebot",
             "link": {
               "fieldtype": "multilink",
               "linktype": "story",
-              "id": "0f9d9acd-986f-98c8-3c55-d88ad082a88d",
-              "cached_url": "pumpen",
+              "id": "ea6247cb-c6b8-c02a-58ad-686c0db919d5",
+              "cached_url": "angebot",
+              "url": ""
+            }
+          },
+          {
+            "_uid": "0b6755090816",
+            "component": "nav_item",
+            "label": "Pumpenrevision",
+            "link": {
+              "fieldtype": "multilink",
+              "linktype": "story",
+              "id": "b5f927ba-e9a1-1c29-67a3-68e3e9bd9e75",
+              "cached_url": "revision",
+              "url": ""
+            }
+          },
+          {
+            "_uid": "6745550b2bb7",
+            "component": "nav_item",
+            "label": "Wartung und Inspektion vor Ort",
+            "link": {
+              "fieldtype": "multilink",
+              "linktype": "story",
+              "id": "2d7c8d45-f027-0db9-5fb8-f5cf0d384bd7",
+              "cached_url": "revision/inspektion-vor-ort",
+              "url": ""
+            }
+          },
+          {
+            "_uid": "1f9916f89b97",
+            "component": "nav_item",
+            "label": "Ersatzteile",
+            "link": {
+              "fieldtype": "multilink",
+              "linktype": "story",
+              "id": "a6b1fa6b-74ca-99a6-666e-29b271a4ec18",
+              "cached_url": "revision/ersatzteile",
+              "url": ""
+            }
+          },
+          {
+            "_uid": "4d6f679264c5",
+            "component": "nav_item",
+            "label": "Branchen",
+            "link": {
+              "fieldtype": "multilink",
+              "linktype": "story",
+              "id": "7c6982e0-d202-2a15-6566-40009592466a",
+              "cached_url": "pumpen/branchen",
+              "url": ""
+            }
+          },
+          {
+            "_uid": "277a2511c314",
+            "component": "nav_item",
+            "label": "Anwendungen",
+            "link": {
+              "fieldtype": "multilink",
+              "linktype": "story",
+              "id": "d8369178-d2d8-fdce-28c1-4ef1b5e27cbc",
+              "cached_url": "pumpen/anwendungen",
+              "url": ""
+            }
+          },
+          {
+            "_uid": "1b22263964d1",
+            "component": "nav_item",
+            "label": "Pumpentypen",
+            "link": {
+              "fieldtype": "multilink",
+              "linktype": "story",
+              "id": "9977c917-b85e-816f-ee39-fd3ca75aaddf",
+              "cached_url": "pumpen/pumpentypen",
+              "url": ""
+            }
+          }
+        ]
+      },
+      {
+        "_uid": "03af05cedf69",
+        "component": "nav_group",
+        "label": "Marken",
+        "items": [
+          {
+            "_uid": "e8f6123f940a",
+            "component": "nav_item",
+            "label": "SAER",
+            "link": {
+              "fieldtype": "multilink",
+              "linktype": "story",
+              "id": "b4486ef9-a88d-67a2-e767-a81f032b5332",
+              "cached_url": "pumpen/marken/saer",
               "url": ""
             }
           },
@@ -78,14 +173,14 @@
             }
           },
           {
-            "_uid": "e8f6123f940a",
+            "_uid": "f0dfbcb9c5cf",
             "component": "nav_item",
-            "label": "SAER",
+            "label": "Flygt",
             "link": {
               "fieldtype": "multilink",
               "linktype": "story",
-              "id": "b4486ef9-a88d-67a2-e767-a81f032b5332",
-              "cached_url": "pumpen/marken/saer",
+              "id": "f33fbd63-c1cf-b36a-6aa5-8a837dea5efb",
+              "cached_url": "pumpen/marken/flygt",
               "url": ""
             }
           },
@@ -102,14 +197,26 @@
             }
           },
           {
-            "_uid": "f0dfbcb9c5cf",
+            "_uid": "b691cfdb7845",
             "component": "nav_item",
-            "label": "Flygt",
+            "label": "HOMA",
             "link": {
               "fieldtype": "multilink",
               "linktype": "story",
-              "id": "f33fbd63-c1cf-b36a-6aa5-8a837dea5efb",
-              "cached_url": "pumpen/marken/flygt",
+              "id": "ed806487-45ff-e138-3bf1-a77aee6ef113",
+              "cached_url": "pumpen/marken/homa",
+              "url": ""
+            }
+          },
+          {
+            "_uid": "946186ca6c71",
+            "component": "nav_item",
+            "label": "Alle Marken",
+            "link": {
+              "fieldtype": "multilink",
+              "linktype": "story",
+              "id": "2317dd2a-0249-2908-4b7b-4c5438214652",
+              "cached_url": "pumpen/marken",
               "url": ""
             }
           }
@@ -121,14 +228,38 @@
         "label": "Unternehmen",
         "items": [
           {
-            "_uid": "466e216f6f02",
+            "_uid": "0ab6182cbfc2",
             "component": "nav_item",
-            "label": "Angebot anfordern",
+            "label": "Pumpenschule",
             "link": {
               "fieldtype": "multilink",
               "linktype": "story",
-              "id": "ea6247cb-c6b8-c02a-58ad-686c0db919d5",
-              "cached_url": "angebot",
+              "id": "ec804118-96ee-6bf2-2013-e62a7ba7d944",
+              "cached_url": "ueber-uns/pumpenschule",
+              "url": ""
+            }
+          },
+          {
+            "_uid": "090e7ef4b762",
+            "component": "nav_item",
+            "label": "Kurse",
+            "link": {
+              "fieldtype": "multilink",
+              "linktype": "story",
+              "id": "cf69001f-bd5a-f008-846a-fbd477cf76e7",
+              "cached_url": "ueber-uns/pumpenschule/kurse",
+              "url": ""
+            }
+          },
+          {
+            "_uid": "039d61900d75",
+            "component": "nav_item",
+            "label": "Über uns",
+            "link": {
+              "fieldtype": "multilink",
+              "linktype": "story",
+              "id": "0a584f70-132b-f513-fcac-3b16e593493e",
+              "cached_url": "ueber-uns/unternehmen",
               "url": ""
             }
           },
@@ -157,18 +288,6 @@
             }
           },
           {
-            "_uid": "31a41fe6cda5",
-            "component": "nav_item",
-            "label": "Häufige Fragen",
-            "link": {
-              "fieldtype": "multilink",
-              "linktype": "story",
-              "id": "8d103f03-3824-f8ec-a4fe-615558b2736a",
-              "cached_url": "haeufige-fragen",
-              "url": ""
-            }
-          },
-          {
             "_uid": "4386accca0fa",
             "component": "nav_item",
             "label": "Kontakt",
@@ -188,14 +307,14 @@
         "label": "Rechtliches",
         "items": [
           {
-            "_uid": "712ab9e6d74a",
+            "_uid": "009867889a2a",
             "component": "nav_item",
-            "label": "Impressum",
+            "label": "Allgemeine Geschäftsbedingungen",
             "link": {
               "fieldtype": "multilink",
               "linktype": "story",
-              "id": "c3be4d4b-41c1-1a55-dd69-ae16a96b51c6",
-              "cached_url": "impressum",
+              "id": "81dbb291-2521-f7be-92dd-1c59acbaabe8",
+              "cached_url": "agb",
               "url": ""
             }
           },
@@ -212,14 +331,26 @@
             }
           },
           {
-            "_uid": "921617366d21",
+            "_uid": "31a41fe6cda5",
             "component": "nav_item",
-            "label": "AGB",
+            "label": "Häufige Fragen",
             "link": {
               "fieldtype": "multilink",
               "linktype": "story",
-              "id": "81dbb291-2521-f7be-92dd-1c59acbaabe8",
-              "cached_url": "agb",
+              "id": "8d103f03-3824-f8ec-a4fe-615558b2736a",
+              "cached_url": "haeufige-fragen",
+              "url": ""
+            }
+          },
+          {
+            "_uid": "712ab9e6d74a",
+            "component": "nav_item",
+            "label": "Impressum",
+            "link": {
+              "fieldtype": "multilink",
+              "linktype": "story",
+              "id": "c3be4d4b-41c1-1a55-dd69-ae16a96b51c6",
+              "cached_url": "impressum",
               "url": ""
             }
           }

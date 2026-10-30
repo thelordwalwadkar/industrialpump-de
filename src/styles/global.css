@@ -232,6 +232,9 @@ form.form legend { font-weight: 800; text-transform: uppercase; padding-inline: 
 /* ---------- footer ---------- */
 .site-footer { background: var(--color-primary) url('/img/curve.webp') right bottom / cover no-repeat; color: #fff; padding-block: 3.5rem 2rem; font-size: 1.05rem; }
 .site-footer .cols { display: grid; grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr)); gap: 2.5rem; }
+.site-footer .cols > div:first-child { grid-column: 1 / -1; display: grid; grid-template-columns: repeat(auto-fit, minmax(18rem, 1fr)); gap: 1rem 2.5rem; align-items: start; }
+.site-footer .footer-usps { columns: 2; column-gap: 1.5rem; }
+.site-footer .footer-usps li::before { content: '✓ '; color: var(--color-overhaul); }
 .site-footer h2 { font-size: 1.15rem; color: var(--color-overhaul); margin-bottom: .8rem; }
 .site-footer ul { list-style: none; padding: 0; margin: 0; }
 .site-footer li { margin-bottom: .4rem; }

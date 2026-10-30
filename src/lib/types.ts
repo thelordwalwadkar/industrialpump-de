@@ -78,7 +78,7 @@ export interface PageFaq extends PageBase { component: 'page_faq' }
 export interface PageLegal extends PageBase { component: 'page_legal'; legal_kind?: 'impressum' | 'datenschutz' | 'agb'; text?: RichTextDoc; review_note?: string }
 export interface ConfigContent extends Blok {
   component: 'config'; site_name: string; legal_name?: string; legal_form?: string; street?: string; postal_code?: string; city?: string; country_code?: string;
-  phone?: string; email?: string; opening_hours?: string; vat_id?: string; logo?: SbAsset; social?: string; map_embed_url?: string;
+  phone?: string; email?: string; opening_hours?: string; vat_id?: string; register_number?: string; postal_address?: string; footer_about?: string; footer_usps?: string; logo?: SbAsset; social?: string; map_embed_url?: string;
   authorised_dealer_brands?: string; header_nav?: NavItem[]; footer_groups?: NavGroup[]; default_description?: string;
 }
 

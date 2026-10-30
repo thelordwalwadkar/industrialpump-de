@@ -8,9 +8,7 @@ Jeder Platzhalter ist auf der Seite sichtbar markiert und wird in den strukturie
 | Angaben zu Drittlandübermittlungen | /datenschutz |
 | Anschrift | /rueckruf, /ueber-uns/blog/neuer-standort, /pumpen/marken/sterling-sihi, /ersatzpumpe |
 | Art. 6 Abs. 1 DSGVO – bitte rechtlich festlegen | /datenschutz |
-| E-Mail | 27 Seiten (z. B. /config, /impressum) |
-| Firmenname (juristisch) | /config |
-| Firmenname und Rechtsform | /impressum |
+| E-Mail | 25 Seiten (z. B. /rueckruf, /ueber-uns/blog/revision-mehrstufiger-pumpen) |
 | Geschäftsführer | /impressum |
 | Hosting-Anbieter, Art der Logfiles, Rechtsgrundlage und Speicherdauer | /datenschutz |
 | Kontakt des Datenschutzbeauftragten, falls benannt | /datenschutz |
@@ -18,14 +16,8 @@ Jeder Platzhalter ist auf der Seite sichtbar markiert und wird in den strukturie
 | Lieferzeit [Marke/Serie] | 24 Seiten (z. B. /pumpen/marken/lowara, /pumpen/marken/saer) |
 | Name und Anschrift | /impressum |
 | Name, Anschrift und Kontaktdaten des Verantwortlichen | /datenschutz |
-| Ort | /config |
-| PLZ und Ort | /impressum |
-| PLZ | /config |
-| Rechtsform | /config |
-| Registergericht und Handelsregisternummer | /impressum |
 | Speicherdauer | /datenschutz |
-| Straße und Hausnummer | /config, /impressum |
-| Telefon | 50 Seiten (z. B. /config, /impressum) |
+| Telefon | 48 Seiten (z. B. /rueckruf, /ueber-uns/blog/revision-mehrstufiger-pumpen) |
 | Text zu „Eigentumsvorbehalt“ (rechtlich zu liefern) | /agb |
 | Text zu „Geltungsbereich“ (rechtlich zu liefern) | /agb |
 | Text zu „Haftung“ (rechtlich zu liefern) | /agb |
@@ -34,7 +26,6 @@ Jeder Platzhalter ist auf der Seite sichtbar markiert und wird in den strukturie
 | Text zu „Preise und Zahlung“ (rechtlich zu liefern) | /agb |
 | Text zu „Schlussbestimmungen“ (rechtlich zu liefern) | /agb |
 | Text zu „Vertragsschluss“ (rechtlich zu liefern) | /agb |
-| USt-IdNr. | /config, /impressum |
 | z. B. E-Mail-Dienst, CRM | /datenschutz |
 | zuständige Aufsichtsbehörde | /datenschutz |
 | Öffnungszeiten | /config |

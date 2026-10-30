@@ -9,6 +9,9 @@ const groups = (c.footer_groups ?? []).map((g) => ({
   label: g.label,
   items: (g.items ?? []).flatMap((i) => { const r = resolveLink(site, i.link); return r && r.exists ? [{ label: i.label, href: r.href }] : []; }),
 })).filter((g) => g.items.length);
+const usps = (c.footer_usps ?? '').split('\n').map((l) => l.trim()).filter(Boolean);
+const social = (c.social ?? '').split('\n').map((l) => l.trim()).filter((l) => /^https:\/\//.test(l));
+const socialLabel = (u: string) => (/linkedin/.test(u) ? 'LinkedIn' : /facebook/.test(u) ? 'Facebook' : /instagram/.test(u) ? 'Instagram' : new URL(u).hostname);
 const address = [c.street, [c.postal_code, c.city].filter(Boolean).join(' ')].filter(Boolean);
 ---
 <footer class="site-footer">
@@ -16,11 +19,20 @@ const address = [c.street, [c.postal_code, c.city].filter(Boolean).join(' ')].fi
     {!minimal && (
       <div class="cols">
         <div>
+          <div class="footer-about">
           <img class="footer-logo" src="/img/logo-navy.webp" width="480" height="271" alt={c.site_name} loading="lazy" />
-          <p>{c.legal_name}{c.legal_form ? ` ${c.legal_form}` : ''}</p>
-          {address.length > 0 && <p>{address.map((l, i) => <>{i > 0 && <br />}{l}</>)}</p>}
-          {c.phone && <p>Telefon: {c.phone}</p>}
-          {c.email && <p>E-Mail: {c.email}</p>}
+          {c.footer_about && <p>{c.footer_about}</p>}
+          {usps.length > 0 && <ul class="footer-usps">{usps.map((u) => <li>{u}</li>)}</ul>}
+          </div>
+          <div class="footer-contact">
+          <p><strong>{c.legal_name}{c.legal_form ? ` ${c.legal_form}` : ''}</strong></p>
+          {address.length > 0 && <p>Besucheradresse:<br />{address.map((l, i) => <>{i > 0 && <br />}{l}</>)}</p>}
+          {c.postal_address && <p>Postanschrift:<br />{c.postal_address}</p>}
+          {c.phone && <p>Telefon: <a href={`tel:${c.phone.replace(/[^+\d]/g, '')}`}>{c.phone}</a></p>}
+          {c.email && <p>E-Mail: <a href={`mailto:${c.email}`}>{c.email}</a></p>}
+          {(c.register_number || c.vat_id) && <p>{c.register_number && <>Handelsregister (KvK): {c.register_number}<br /></>}{c.vat_id && <>USt-IdNr.: {c.vat_id}</>}</p>}
+          {social.length > 0 && <p>Folgen Sie uns: {social.map((u, i) => <>{i > 0 && ' · '}<a href={u} rel="noopener" target="_blank">{socialLabel(u)}</a></>)}</p>}
+          </div>
         </div>
         {groups.map((g) => (
           <nav aria-label={g.label}>
