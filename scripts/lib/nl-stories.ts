@@ -11,7 +11,7 @@ import { createHash } from 'node:crypto';
 import { existsSync, readFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { APPLICATIONS, PUMP_TYPES, SEGMENTS } from '../../src/lib/taxonomy';
-import { DESCRIPTION_MAX, TITLE_MAX } from '../../src/lib/text';
+import { DESCRIPTION_MAX, fitSentences, TITLE_MAX } from '../../src/lib/text';
 import { storyId, uuidOf, type SeedStory } from './stories';
 
 type Node = Record<string, any>;
@@ -43,6 +43,22 @@ function seriesName(h1: string, dePath: string, fallback: string): string {
   const head = h1.split(':')[0]!.trim();
   const m = new RegExp('^' + brand.replace('-', '[ -]') + '\\s+(.+)$', 'i').exec(head);
   return m && m[1]!.length <= 20 ? m[1]! : fallback;
+}
+
+/** Pump type (taxonomy key) of the migrated series pages; ASSUMPTION: borehole pumps are filed under submersible pumps. */
+const SERIES_PUMP_TYPE: Record<string, string> = {
+  'co-serie': 'blockpumpen', 'dl-dlv-serie': 'tauchmotorpumpen', 'e-ixp-serie': 'kreiselpumpen', 'scuba-serie': 'tauchmotorpumpen',
+  'svi-serie': 'mehrstufige-pumpen', 'tdb-tdv-serie': 'mehrstufige-pumpen', 'cm-cmp-serie': 'kreiselpumpen', 'fs-98-serie': 'tauchmotorpumpen',
+  'l-in-line-serie': 'kreiselpumpen', 'mbsh-serie': 'mehrstufige-pumpen', 'mk-serie': 'mehrstufige-pumpen', 'nca-serie': 'kreiselpumpen',
+  'ncb-serie': 'kreiselpumpen', 'ncbk-serie': 'kreiselpumpen', 'nr-151-nr-152-serie': 'tauchmotorpumpen',
+};
+
+/** The content model allows 320 characters: cut at a sentence end, or at a word boundary when the first sentence is already too long. */
+function fitIntro(text: string): string {
+  const t = text.replace(/\s+/g, ' ').trim();
+  if (t.length <= 320) return t;
+  const sentences = fitSentences(t, 320);
+  return sentences || t.slice(0, 319).replace(/\s+\S*$/, '') + '…';
 }
 
 export interface NlReport {
@@ -115,7 +131,11 @@ export function nlStories(existing: Map<string, SeedStory>): { stories: SeedStor
     let faq: { q: string; a: string }[] = [];
     const flushFaq = () => {
       if (!faq.length) return;
-      bloks.push({ _uid: uid(`${seed}-${n++}`), component: 'faq', heading: 'Häufige Fragen', items: faq.map((f, i) => ({ _uid: uid(`${seed}-${n}-f${i}`), component: 'faq_item', question: plain(f.q), answer: plain(f.a) })) });
+      // the content model caps one FAQ blok at 8 items: longer lists become several bloks
+      for (let from = 0; from < faq.length; from += 8) {
+        const part = faq.slice(from, from + 8);
+        bloks.push({ _uid: uid(`${seed}-${n++}`), component: 'faq', heading: from === 0 ? 'Häufige Fragen' : 'Weitere Fragen', items: part.map((f, i) => ({ _uid: uid(`${seed}-${n}-f${from + i}`), component: 'faq_item', question: plain(f.q), answer: plain(f.a) })) });
+      }
       faq = [];
     };
     let btns: { text: string; href: string }[] = [];
@@ -214,11 +234,16 @@ export function nlStories(existing: Map<string, SeedStory>): { stories: SeedStor
     }
 
     const content: Node = {
-      component, h1, nav_title: h1.length <= 38 ? h1 : undefined, seo_title: de.seo_title.trim(), seo_description: de.seo_description.trim(), intro: de.intro.trim(),
+      component, h1, nav_title: h1.length <= 38 ? h1 : undefined, seo_title: de.seo_title.trim(), seo_description: de.seo_description.trim(), intro: fitIntro(de.intro),
       ...(entry.noindex ? { noindex: true } : {}), ...extra,
     };
     if (component === 'page_brand') content.brand_name = BRAND_NAMES[extra.brand_name] ?? extra.brand_name.split('-').map((w: string) => w[0]!.toUpperCase() + w.slice(1)).join(' ');
-    if (component === 'page_series') content.series_name = seriesName(h1, entry.de, extra.series_name);
+    if (component === 'page_brand') content.revision_text = `Für ${content.brand_name}-Pumpen können Sie Ersatzteile und eine Revision anfragen. Ob und in welchem Umfang das möglich ist, hängt von Serie, Baujahr und Ausführung ab; das Typenschild genügt für eine erste Einschätzung.`;
+    if (component === 'page_series') {
+      content.series_name = seriesName(h1, entry.de, extra.series_name);
+      content.pump_type = SERIES_PUMP_TYPE[full.split('/').pop()!] ?? 'kreiselpumpen';
+      content.use_case_line = (h1.includes(':') ? h1.split(':').slice(1).join(':').trim() : de.intro.split(/(?<=\.)\s/)[0]!).slice(0, 120);
+    }
     if (component === 'page_job') content.job_title = h1;
     if (component === 'page_case_study') content.customer = h1;
     if (component === 'page_blog_post' || component === 'page_knowledge' || component === 'page_case_study') {

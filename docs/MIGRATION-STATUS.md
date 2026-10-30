@@ -1,33 +1,45 @@
-# Migration status: industrialpumps.nl → industrialpumpgroup.de (updated 30 Oct 2026)
+# Migration status: industrialpumps.nl → industrialpumpgroup.de (updated 30 Oct 2026, end of day)
+
+## State in one paragraph
+All 172 German pages exist (every page type of industrialpumps.nl except the webshop checkout). Content is translated, images are local, JSON-LD is generated per template, and **all 41 components and 216 stories are live in the Storyblok space IPG-DE** (published). The static build (218 pages) passes schema validation, site QA, fixtures and `astro check` with 0 errors. Not yet done: build from live Storyblok data (needs a read token), real company/legal data, client sign-off on the Dutch claims, hreflang/og:image/lastmod, Lighthouse.
 
 ## Client decisions (30 Oct 2026)
-1. Domain: **https://industrialpumpgroup.de** (no www). Code defaults switched.
-2. Copy the Dutch claims (ISO 9001, VCA, official dealer, customers…): **yes**, flagged for sign-off (`notes.claims` in every translated page).
-3. Language: **German only**.
-4. The 42 webshop-derived pages (21 series + 21 sample products) are listed in `docs/WEBSHOP-DERIVED-PAGES.md`. **No decision yet** → keep them for now.
-5. Storyblok space **IPG-DE** (ID 296235349341806, EU). Token is in the git-ignored `.env` (`STORYBLOK_SPACE_ID`, `STORYBLOK_OAUTH_TOKEN`). **Never commit `.env`; the token was pasted in chat → rotate it when done.** Read-only test passed (space has 4 default components + a `home` story).
-6. Company data (imprint, phone, address): not available yet → placeholders.
+1. Domain **https://industrialpumpgroup.de** (no www).
+2. Copy the Dutch claims (ISO 9001, VCA, official dealer, customers…): yes, flagged for sign-off → `docs/NL-CLAIMS-TO-VERIFY.md` (663 lines, generated from the translators' notes).
+3. German only.
+4. 42 webshop-derived pages (21 series + 21 sample products, `docs/WEBSHOP-DERIVED-PAGES.md`): no decision yet → kept.
+5. Storyblok space IPG-DE (ID 296235349341806, EU), token in git-ignored `.env`. **Token was pasted in chat → rotate it.**
+6. Company data (imprint, phone, address): not available → placeholders `[[PLATZHALTER: …]]` (skipped in JSON-LD).
 
-## Pipeline (all scripts under `scripts/nl/`)
-| Step | Command | State |
+## Pipeline (all done)
+| Step | Command / file | Result |
 |---|---|---|
-| Extract 174 live pages → `content-src/nl/*.json` (125k words, 497 images, FAQ, tables, CTAs) | `npx tsx scripts/nl/extract.ts` | **done** |
-| German URL plan `content-src/slug-map.json` (172 pages; 2 duplicates skipped; 26 NL-specific → noindex) | `npx tsx scripts/nl/slug-map.ts` | **done** |
-| News dates `content-src/news-dates.json` (28 posts dated) | (one-off script) | **done** |
-| Translation batches `content-src/batches.json` (15 batches, ~117k words) | `npx tsx scripts/nl/make-batches.ts` | **done** |
-| Translate → `content-src/de/<id>.json` per `content-src/TRANSLATION-BRIEF.md` (Sonnet workers, ≤3 at a time) | validator: `npx tsx scripts/nl/validate-de.ts [ids]` | **batch 4 done (pilot, 0 errors, quality good)**; batches 1–3, 5–15 pending: check `ls content-src/de` vs `batches.json` |
-| Download + optimise the 497 page images → `public/img/nl/` + `content-src/image-map.json` | `scripts/nl/images.ts` | **TODO** |
-| Generate stories from translated pages (blocks → bloks, link remap via slug-map, noindex, dates, nav titles, tags) and merge with existing seeds | `scripts/nl/build-stories.ts` (+ hook into `generate-seed.ts`) | **TODO** |
-| Push components + seed to Storyblok | `npm run sb:push -- --apply`, `npm run sb:seed -- --apply` (use `node --env-file=.env`) | **TODO** (never run live yet) |
-| Build/validate all pages, fixtures for new templates, Lighthouse, docs | `npm run build`, `npm run test:fixtures` | **TODO after generation** |
+| Extract 174 pages | `scripts/nl/extract.ts` → `content-src/nl/` | 125k words, 497 images |
+| URL plan | `scripts/nl/slug-map.ts` → `content-src/slug-map.json` | 172 German pages, 2 duplicates skipped, 26 noindex (NL-specific) |
+| Translate | `content-src/TRANSLATION-BRIEF.md` → `content-src/de/` | 172 files, `validate-de.ts` 0 errors |
+| Images | `scripts/nl/images.ts` → `public/img/nl/` (22 MB webp) + `content-src/image-map.json` | 497/497 |
+| Stories | `scripts/lib/nl-stories.ts`, called from `scripts/generate-seed.ts` | 161 new stories + 7 appended onto hand-built pages (home, `/pumpen`, `/pumpen/marken`, 4 brands) |
+| Reports | written by `generate-seed.ts` | `docs/MIGRATION-REPORT.md`, `NL-CLAIMS-TO-VERIFY.md`, `NL-SPECIFIC.md` |
+| Storyblok | `node --env-file=.env node_modules/tsx/dist/cli.mjs scripts/push-components.ts --apply`, then `…/seed-content.ts --apply` | 41 components, 216 stories + 39 folders, all published |
 
-## Site-side changes already made (30 Oct)
-- New bloks: `image_block`, `data_table`, `button_row`; new content types: `page_job` (JobPosting), `page_about` (AboutPage), `page_faq` (FAQPage); fields `publication_date`, `service_type`, `default_anliegen`; callback form kind `rueckruf`. Components JSON regenerated (41).
-- New templates `JobTemplate`, `AboutTemplate`, `FaqTemplate`; schema builders `job.ts`, `about.ts`, `faq-page.ts`; Topic builder now **CollectionPage + ItemList + Service + FAQPage** (client schema map); FAQPage is collected from FAQ bloks of **every** page type; dates from `publication_date`.
-- `astro check`: 0 errors. **Not yet done:** fixtures for the 3 new templates, `npm run build` run after these changes, validator JobPosting test, default QuoteCta on Topic/Hub/Listing templates (check-site requires a conversion link in every page body).
+Re-run after content changes: `npx tsx scripts/generate-seed.ts` → `npm run build` → seed-content `--apply` (idempotent; retry on 504).
+
+## Mapping rules worth knowing
+- Every translated block becomes a blok in `body`: rich_text (h/p/list), image_block, data_table, faq (≤ 8 items per blok, longer lists are split), button_row. H1 blocks are dropped (the template renders the H1 field). Blog/knowledge: first text run → `article`.
+- Dutch internal links are remapped through the slug map; links to webshop/dead/mailto targets are removed (text stays) → listed in `MIGRATION-REPORT.md`.
+- Hand-built pages keep their structure; NL text is appended to `body`. Legal and form pages (`/agb`, `/datenschutz`, `/kontakt`, `/angebot`) keep the German skeletons: Dutch legal text is **not** reused.
+- Assumptions in code: pump type of the 15 migrated series pages (`SERIES_PUMP_TYPE` in `nl-stories.ts`, borehole pumps filed as submersible); generic `revision_text` on migrated brand pages; brand names from a slug map.
+- Site-side changes: new templates Job/About/FAQ, schema builders `job.ts`, `about.ts`, `faq-page.ts`, Topic = CollectionPage + ItemList + Service + FAQPage, FAQPage collected from FAQ bloks of every page type; default quote CTA on Hub/Topic/Listing; service pages list their sub-pages; footer links to Ersatzpumpe, Rückruf, FAQ; check-site false positives fixed (`grindex`, "Plug-and-play", English proper names).
+
+## Open items / next steps
+1. **Public Storyblok read token** (Settings → Access Tokens): the personal token cannot list/create it. Needed to build from live data (`STORYBLOK_TOKEN`) and test the visual-editor bridge.
+2. Client sign-off: `NL-CLAIMS-TO-VERIFY.md`; `NL-SPECIFIC.md` (Dutch addresses, customers, people); decide on the 42 webshop-derived pages; delete/replace NL-only pages (26 are noindex).
+3. Source problems found by translators (flagged in notes): `saer__ncbk-serie` is a copy of CM/CMP; garbled specs on Lowara Scuba/SVI, SAER MBSH/FS-98; Goulds heading names SAER; KRW post breaks off mid-sentence (translator completed it minimally); cavitation vapour-pressure wording corrected; "Schottenpompen"/"deppompen"/"expansiepompen" renderings to confirm.
+4. SEO layer still open: hreflang (nl/en/de), og:image, sitemap lastmod, German keyword mapping (keyword workbooks only have English terms), Lighthouse run on the full site.
+5. Company data and legal texts (Impressum, Datenschutz, AGB) from the client; legal review.
+6. Push local commits via GitHub Desktop; rotate the Storyblok token.
 
 ## Gotchas
-- Git Bash on Windows: no regex via heredoc; use the Write tool for scripts; `MSYS_NO_PATHCONV=1` for paths starting with `/`.
-- Node scripts need a `package.json` in the folder: put them under the project (`.reports/`), not in `/tmp`.
-- Dutch customer-review widget text is dropped; Dutch phone/e-mail/address → `{{TELEFON}}`, `{{EMAIL}}`, `{{ADRESSE}}` tokens that the build maps to config placeholders.
-- The GitHub repo `thelordwalwadkar/industrialpump-de` is published; Pages link is live (noindex). Local commits after `7d335a6` are not pushed (use the GitHub app).
+- Git Bash heredocs mangle backslashes in regexes: use the Edit/Write tools for code with regexes.
+- Node scripts need a `package.json` nearby: keep helper scripts under the project (`.reports/`).
+- Storyblok enforces model limits the local build does not: required fields, intro ≤ 320 chars, FAQ ≤ 8 items per blok.

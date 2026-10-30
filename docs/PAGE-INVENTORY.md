@@ -4,7 +4,7 @@ Built pages: **217** (plus 404, robots.txt, sitemap). Source of truth for conten
 
 | Route | Template | Schema types | Words | Inbound links | Status |
 |---|---|---|---|---|---|
-| `/` | T1 HomeTemplate | Organization, WebSite, WebPage, BreadcrumbList | 1046 | 217 | OK |
+| `/` | T1 HomeTemplate | Organization, WebSite, WebPage, BreadcrumbList | 1094 | 217 | OK |
 | `/agb` | T14 LegalTemplate | WebPage, BreadcrumbList | 103 | 215 | OK |
 | `/angebot` | T13 ContactTemplate | ContactPage, BreadcrumbList | 145 | 214 | OK |
 | `/datenschutz` | T14 LegalTemplate | WebPage, BreadcrumbList | 201 | 217 | OK |
@@ -32,94 +32,94 @@ Built pages: **217** (plus 404, robots.txt, sitemap). Source of truth for conten
 | `/pumpen/branchen/lebensmittelindustrie` | T3 TopicTemplate | CollectionPage, BreadcrumbList, Service, FAQPage | 996 | 18 | OK |
 | `/pumpen/branchen/maritim-und-offshore` | T3 TopicTemplate | CollectionPage, BreadcrumbList, Service, FAQPage | 914 | 1 | OK |
 | `/pumpen/branchen/oel-und-gasindustrie` | T3 TopicTemplate | CollectionPage, BreadcrumbList, Service, FAQPage | 1375 | 14 | OK |
-| `/pumpen/branchen/papierindustrie` | T3 TopicTemplate | CollectionPage, BreadcrumbList, Service, FAQPage | 1036 | 13 | OK |
+| `/pumpen/branchen/papierindustrie` | T3 TopicTemplate | CollectionPage, BreadcrumbList, Service, FAQPage | 1017 | 13 | OK |
 | `/pumpen/branchen/pharmaindustrie` | T3 TopicTemplate | CollectionPage, BreadcrumbList, Service, FAQPage | 1113 | 12 | OK |
 | `/pumpen/branchen/stahlindustrie` | T3 TopicTemplate | CollectionPage, BreadcrumbList, Service, FAQPage | 1227 | 15 | OK |
 | `/pumpen/branchen/wasseraufbereitung` | T3 TopicTemplate | CollectionPage, BreadcrumbList, Service, FAQPage | 1173 | 41 | OK |
 | `/pumpen/branchen/wassertransport` | T3 TopicTemplate | CollectionPage, BreadcrumbList, Service, FAQPage | 1407 | 36 | OK |
 | `/pumpen/marken` | T2 HubTemplate | CollectionPage, BreadcrumbList, ItemList | 289 | 214 | OK |
-| `/pumpen/marken/duchting` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand, FAQPage | 692 | 27 | OK |
+| `/pumpen/marken/duchting` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand, FAQPage | 723 | 27 | OK |
 | `/pumpen/marken/ebara` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand, ItemList, FAQPage | 1186 | 214 | OK |
-| `/pumpen/marken/ebara/aga-agc-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup, ItemList, FAQPage | 488 | 32 | OK |
+| `/pumpen/marken/ebara/aga-agc-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup, ItemList, FAQPage | 488 | 38 | OK |
 | `/pumpen/marken/ebara/aga-agc-serie/agc-300-t` | T6 ProductTemplate | WebPage, BreadcrumbList, Product | 298 | 1 | OK |
-| `/pumpen/marken/ebara/best-one-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup, ItemList, FAQPage | 498 | 19 | OK |
+| `/pumpen/marken/ebara/best-one-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup, ItemList, FAQPage | 498 | 23 | OK |
 | `/pumpen/marken/ebara/best-one-serie/best-one-vox` | T6 ProductTemplate | WebPage, BreadcrumbList, Product | 314 | 1 | OK |
-| `/pumpen/marken/ebara/cdx-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup, ItemList, FAQPage | 490 | 28 | OK |
+| `/pumpen/marken/ebara/cdx-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup, ItemList, FAQPage | 490 | 34 | OK |
 | `/pumpen/marken/ebara/cdx-serie/cdx-70-07-ie3` | T6 ProductTemplate | WebPage, BreadcrumbList, Product | 293 | 1 | OK |
-| `/pumpen/marken/ebara/dw-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup, ItemList, FAQPage | 505 | 15 | OK |
+| `/pumpen/marken/ebara/dw-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup, ItemList, FAQPage | 505 | 17 | OK |
 | `/pumpen/marken/ebara/dw-serie/dw-200-t` | T6 ProductTemplate | WebPage, BreadcrumbList, Product | 296 | 1 | OK |
-| `/pumpen/marken/ebara/dwo-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup, ItemList, FAQPage | 503 | 18 | OK |
+| `/pumpen/marken/ebara/dwo-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup, ItemList, FAQPage | 503 | 24 | OK |
 | `/pumpen/marken/ebara/dwo-serie/dwo-400-t` | T6 ProductTemplate | WebPage, BreadcrumbList, Product | 293 | 1 | OK |
 | `/pumpen/marken/ebara/jex-jesx-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup, ItemList, FAQPage | 490 | 8 | OK |
 | `/pumpen/marken/ebara/jex-jesx-serie/jex-120` | T6 ProductTemplate | WebPage, BreadcrumbList, Product | 300 | 1 | OK |
-| `/pumpen/marken/ebara/optima-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup, ItemList, FAQPage | 474 | 12 | OK |
+| `/pumpen/marken/ebara/optima-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup, ItemList, FAQPage | 474 | 14 | OK |
 | `/pumpen/marken/ebara/optima-serie/optima-ms` | T6 ProductTemplate | WebPage, BreadcrumbList, Product | 286 | 1 | OK |
 | `/pumpen/marken/flygt` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand, ItemList, FAQPage | 1588 | 214 | OK |
-| `/pumpen/marken/flygt/ready-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup, ItemList, FAQPage | 424 | 11 | OK |
+| `/pumpen/marken/flygt/ready-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup, ItemList, FAQPage | 424 | 13 | OK |
 | `/pumpen/marken/flygt/ready-serie/ready-4` | T6 ProductTemplate | WebPage, BreadcrumbList, Product | 218 | 1 | OK |
-| `/pumpen/marken/fybroc` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand | 782 | 23 | OK |
-| `/pumpen/marken/goulds` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand | 605 | 26 | OK |
-| `/pumpen/marken/grindex` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand, FAQPage | 927 | 12 | OK |
-| `/pumpen/marken/grundfos` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand, FAQPage | 1661 | 17 | OK |
-| `/pumpen/marken/homa` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand, FAQPage | 849 | 7 | OK |
-| `/pumpen/marken/lowara` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand, ItemList, FAQPage | 2102 | 214 | OK |
-| `/pumpen/marken/lowara/bg-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup, ItemList, FAQPage | 484 | 28 | OK |
+| `/pumpen/marken/fybroc` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand | 813 | 23 | OK |
+| `/pumpen/marken/goulds` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand | 636 | 26 | OK |
+| `/pumpen/marken/grindex` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand, FAQPage | 958 | 12 | OK |
+| `/pumpen/marken/grundfos` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand, FAQPage | 1692 | 17 | OK |
+| `/pumpen/marken/homa` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand, FAQPage | 880 | 7 | OK |
+| `/pumpen/marken/lowara` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand, ItemList, FAQPage | 2132 | 214 | OK |
+| `/pumpen/marken/lowara/bg-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup, ItemList, FAQPage | 484 | 29 | OK |
 | `/pumpen/marken/lowara/bg-serie/bg3-a` | T6 ProductTemplate | WebPage, BreadcrumbList, Product | 273 | 1 | OK |
-| `/pumpen/marken/lowara/cea-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup, ItemList, FAQPage | 504 | 17 | OK |
+| `/pumpen/marken/lowara/cea-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup, ItemList, FAQPage | 493 | 15 | OK |
 | `/pumpen/marken/lowara/cea-serie/cea80-5-d` | T6 ProductTemplate | WebPage, BreadcrumbList, Product | 272 | 1 | OK |
-| `/pumpen/marken/lowara/co-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup | 290 | 1 | OK |
-| `/pumpen/marken/lowara/diwa-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup, ItemList, FAQPage | 496 | 16 | OK |
+| `/pumpen/marken/lowara/co-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup | 353 | 3 | OK |
+| `/pumpen/marken/lowara/diwa-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup, ItemList, FAQPage | 487 | 20 | OK |
 | `/pumpen/marken/lowara/diwa-serie/diwa-07-b` | T6 ProductTemplate | WebPage, BreadcrumbList, Product | 296 | 1 | OK |
-| `/pumpen/marken/lowara/dl-dlv-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup | 342 | 1 | OK |
-| `/pumpen/marken/lowara/doc-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup, ItemList, FAQPage | 500 | 13 | OK |
+| `/pumpen/marken/lowara/dl-dlv-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup | 442 | 6 | OK |
+| `/pumpen/marken/lowara/doc-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup, ItemList, FAQPage | 491 | 17 | OK |
 | `/pumpen/marken/lowara/doc-serie/doc3-a-40-50` | T6 ProductTemplate | WebPage, BreadcrumbList, Product | 299 | 1 | OK |
-| `/pumpen/marken/lowara/domo-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup, ItemList, FAQPage | 497 | 16 | OK |
+| `/pumpen/marken/lowara/domo-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup, ItemList, FAQPage | 488 | 20 | OK |
 | `/pumpen/marken/lowara/domo-serie/domo-10-b` | T6 ProductTemplate | WebPage, BreadcrumbList, Product | 275 | 1 | OK |
-| `/pumpen/marken/lowara/e-ixp-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup | 675 | 1 | OK |
-| `/pumpen/marken/lowara/esh-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup, ItemList, FAQPage | 510 | 15 | OK |
+| `/pumpen/marken/lowara/e-ixp-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup | 751 | 3 | OK |
+| `/pumpen/marken/lowara/esh-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup, ItemList, FAQPage | 499 | 21 | OK |
 | `/pumpen/marken/lowara/esh-serie/eshe-25-125-07-s25rsna` | T6 ProductTemplate | WebPage, BreadcrumbList, Product | 279 | 1 | OK |
-| `/pumpen/marken/lowara/hm-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup, ItemList, FAQPage | 473 | 7 | OK |
+| `/pumpen/marken/lowara/hm-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup, ItemList, FAQPage | 473 | 11 | OK |
 | `/pumpen/marken/lowara/hm-serie/1hm02p03t5rvbe` | T6 ProductTemplate | WebPage, BreadcrumbList, Product | 270 | 1 | OK |
-| `/pumpen/marken/lowara/scuba-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup | 375 | 1 | OK |
-| `/pumpen/marken/lowara/sv-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup, ItemList, FAQPage | 474 | 7 | OK |
+| `/pumpen/marken/lowara/scuba-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup | 475 | 3 | OK |
+| `/pumpen/marken/lowara/sv-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup, ItemList, FAQPage | 474 | 9 | OK |
 | `/pumpen/marken/lowara/sv-serie/15sv02f022t-d` | T6 ProductTemplate | WebPage, BreadcrumbList, Product | 280 | 1 | OK |
-| `/pumpen/marken/lowara/svi-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup | 530 | 1 | OK |
-| `/pumpen/marken/lowara/tdb-tdv-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup | 254 | 1 | OK |
-| `/pumpen/marken/metso` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand | 824 | 4 | OK |
-| `/pumpen/marken/netzsch` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand | 775 | 10 | OK |
-| `/pumpen/marken/saer` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand, ItemList, FAQPage | 1276 | 214 | OK |
-| `/pumpen/marken/saer/cm-cmp-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup | 354 | 1 | OK |
-| `/pumpen/marken/saer/fs-98-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup | 310 | 1 | OK |
-| `/pumpen/marken/saer/ir-m-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup, ItemList, FAQPage | 491 | 21 | OK |
+| `/pumpen/marken/lowara/svi-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup | 590 | 5 | OK |
+| `/pumpen/marken/lowara/tdb-tdv-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup | 312 | 5 | OK |
+| `/pumpen/marken/metso` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand | 855 | 4 | OK |
+| `/pumpen/marken/netzsch` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand | 806 | 10 | OK |
+| `/pumpen/marken/saer` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand, ItemList, FAQPage | 1333 | 214 | OK |
+| `/pumpen/marken/saer/cm-cmp-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup | 454 | 9 | OK |
+| `/pumpen/marken/saer/fs-98-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup | 379 | 3 | OK |
+| `/pumpen/marken/saer/ir-m-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup, ItemList, FAQPage | 491 | 20 | OK |
 | `/pumpen/marken/saer/ir-m-serie/ir50-200sd-m4` | T6 ProductTemplate | WebPage, BreadcrumbList, Product | 297 | 1 | OK |
-| `/pumpen/marken/saer/ir-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup, ItemList, FAQPage | 498 | 20 | OK |
+| `/pumpen/marken/saer/ir-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup, ItemList, FAQPage | 489 | 26 | OK |
 | `/pumpen/marken/saer/ir-serie/ir50-200sc` | T6 ProductTemplate | WebPage, BreadcrumbList, Product | 309 | 1 | OK |
 | `/pumpen/marken/saer/irx-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup, ItemList, FAQPage | 490 | 13 | OK |
 | `/pumpen/marken/saer/irx-serie/irx40-200b` | T6 ProductTemplate | WebPage, BreadcrumbList, Product | 280 | 1 | OK |
-| `/pumpen/marken/saer/l-in-line-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup | 390 | 1 | OK |
-| `/pumpen/marken/saer/m-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup, ItemList, FAQPage | 460 | 6 | OK |
-| `/pumpen/marken/saer/m-serie/m80` | T6 ProductTemplate | WebPage, BreadcrumbList, Product | 266 | 1 | OK |
-| `/pumpen/marken/saer/mbsh-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup | 402 | 1 | OK |
-| `/pumpen/marken/saer/mk-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup | 404 | 1 | OK |
-| `/pumpen/marken/saer/nca-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup | 134 | 1 | OK |
-| `/pumpen/marken/saer/ncb-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup | 287 | 1 | OK |
-| `/pumpen/marken/saer/ncbk-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup | 357 | 1 | OK |
-| `/pumpen/marken/saer/nr-151-nr-152-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup | 384 | 1 | OK |
-| `/pumpen/marken/saer/tr-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup, ItemList, FAQPage | 435 | 6 | OK |
+| `/pumpen/marken/saer/l-in-line-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup | 489 | 7 | OK |
+| `/pumpen/marken/saer/m-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup, ItemList, FAQPage | 450 | 11 | OK |
+| `/pumpen/marken/saer/m-serie/m80` | T6 ProductTemplate | WebPage, BreadcrumbList, Product | 258 | 1 | OK |
+| `/pumpen/marken/saer/mbsh-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup | 462 | 5 | OK |
+| `/pumpen/marken/saer/mk-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup | 464 | 5 | OK |
+| `/pumpen/marken/saer/nca-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup | 234 | 5 | OK |
+| `/pumpen/marken/saer/ncb-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup | 387 | 2 | OK |
+| `/pumpen/marken/saer/ncbk-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup | 457 | 2 | OK |
+| `/pumpen/marken/saer/nr-151-nr-152-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup | 453 | 3 | OK |
+| `/pumpen/marken/saer/tr-serie` | T5 SeriesTemplate | CollectionPage, BreadcrumbList, ProductGroup, ItemList, FAQPage | 435 | 5 | OK |
 | `/pumpen/marken/saer/tr-serie/tr-5` | T6 ProductTemplate | WebPage, BreadcrumbList, Product | 250 | 1 | OK |
-| `/pumpen/marken/safco` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand, FAQPage | 624 | 8 | OK |
-| `/pumpen/marken/seepex` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand | 636 | 8 | OK |
-| `/pumpen/marken/sterling-sihi` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand | 1103 | 4 | OK |
-| `/pumpen/marken/sulzer` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand, FAQPage | 584 | 15 | OK |
-| `/pumpen/marken/varisco` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand | 642 | 5 | OK |
-| `/pumpen/marken/vogel` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand, FAQPage | 672 | 6 | OK |
-| `/pumpen/marken/wilo` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand | 706 | 6 | OK |
-| `/pumpen/marken/xylem` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand | 984 | 4 | OK |
+| `/pumpen/marken/safco` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand, FAQPage | 655 | 8 | OK |
+| `/pumpen/marken/seepex` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand | 667 | 8 | OK |
+| `/pumpen/marken/sterling-sihi` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand | 1135 | 4 | OK |
+| `/pumpen/marken/sulzer` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand, FAQPage | 615 | 15 | OK |
+| `/pumpen/marken/varisco` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand | 673 | 5 | OK |
+| `/pumpen/marken/vogel` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand, FAQPage | 703 | 6 | OK |
+| `/pumpen/marken/wilo` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand | 737 | 6 | OK |
+| `/pumpen/marken/xylem` | T4 BrandTemplate | CollectionPage, BreadcrumbList, Organization, Brand | 1015 | 4 | OK |
 | `/pumpen/pumpentypen` | T2 HubTemplate | CollectionPage, BreadcrumbList, ItemList | 659 | 26 | OK |
 | `/pumpen/pumpentypen/api-pumpen` | T3 TopicTemplate | CollectionPage, BreadcrumbList, Service, FAQPage | 1387 | 15 | OK |
 | `/pumpen/pumpentypen/api-pumpen/api-610-pumpen` | T3 TopicTemplate | CollectionPage, BreadcrumbList, Service | 519 | 1 | OK |
 | `/pumpen/pumpentypen/axial-geteilte-pumpen` | T3 TopicTemplate | CollectionPage, BreadcrumbList, Service, FAQPage | 1082 | 14 | OK |
-| `/pumpen/pumpentypen/blockpumpen` | T3 TopicTemplate | CollectionPage, BreadcrumbList, Service, FAQPage | 1030 | 18 | OK |
+| `/pumpen/pumpentypen/blockpumpen` | T3 TopicTemplate | CollectionPage, BreadcrumbList, Service, FAQPage | 1030 | 19 | OK |
 | `/pumpen/pumpentypen/brunnenpumpen` | T3 TopicTemplate | CollectionPage, BreadcrumbList, Service, FAQPage | 1726 | 13 | OK |
 | `/pumpen/pumpentypen/chemienormpumpen-iso-5199` | T3 TopicTemplate | CollectionPage, BreadcrumbList, Service, FAQPage | 1214 | 11 | OK |
 | `/pumpen/pumpentypen/drehkolbenpumpen` | T3 TopicTemplate | CollectionPage, BreadcrumbList, Service, FAQPage | 1112 | 11 | OK |
@@ -130,17 +130,17 @@ Built pages: **217** (plus 404, robots.txt, sitemap). Source of truth for conten
 | `/pumpen/pumpentypen/halbaxialpumpen` | T3 TopicTemplate | CollectionPage, BreadcrumbList, Service, FAQPage | 1023 | 9 | OK |
 | `/pumpen/pumpentypen/inlinepumpen` | T3 TopicTemplate | CollectionPage, BreadcrumbList, Service, FAQPage | 1233 | 11 | OK |
 | `/pumpen/pumpentypen/komplettaggregate` | T3 TopicTemplate | CollectionPage, BreadcrumbList, Service, FAQPage | 948 | 9 | OK |
-| `/pumpen/pumpentypen/kreiselpumpen` | T3 TopicTemplate | CollectionPage, BreadcrumbList, Service, FAQPage | 1025 | 31 | OK |
+| `/pumpen/pumpentypen/kreiselpumpen` | T3 TopicTemplate | CollectionPage, BreadcrumbList, Service, FAQPage | 1025 | 37 | OK |
 | `/pumpen/pumpentypen/kreiselpumpen/funktionsweise` | T3 TopicTemplate | CollectionPage, BreadcrumbList, Service | 654 | 1 | OK |
 | `/pumpen/pumpentypen/kunststoffpumpen` | T3 TopicTemplate | CollectionPage, BreadcrumbList, Service, FAQPage | 950 | 9 | OK |
-| `/pumpen/pumpentypen/mehrstufige-pumpen` | T3 TopicTemplate | CollectionPage, BreadcrumbList, Service, FAQPage | 1052 | 21 | OK |
+| `/pumpen/pumpentypen/mehrstufige-pumpen` | T3 TopicTemplate | CollectionPage, BreadcrumbList, Service, FAQPage | 1052 | 26 | OK |
 | `/pumpen/pumpentypen/membranpumpen` | T3 TopicTemplate | CollectionPage, BreadcrumbList, Service, FAQPage | 941 | 11 | OK |
 | `/pumpen/pumpentypen/normpumpen-en-733` | T3 TopicTemplate | CollectionPage, BreadcrumbList, Service, FAQPage | 1273 | 9 | OK |
 | `/pumpen/pumpentypen/ruehrwerke-und-stroemungserzeuger` | T3 TopicTemplate | CollectionPage, BreadcrumbList, Service, FAQPage | 1273 | 11 | OK |
 | `/pumpen/pumpentypen/spaltrohrmotorpumpen` | T3 TopicTemplate | CollectionPage, BreadcrumbList, Service, FAQPage | 900 | 9 | OK |
-| `/pumpen/pumpentypen/tauchmotorpumpen` | T3 TopicTemplate | CollectionPage, BreadcrumbList, Service, FAQPage | 1530 | 28 | OK |
+| `/pumpen/pumpentypen/tauchmotorpumpen` | T3 TopicTemplate | CollectionPage, BreadcrumbList, Service, FAQPage | 1530 | 33 | OK |
 | `/pumpen/pumpentypen/vertikale-turbinenpumpen` | T3 TopicTemplate | CollectionPage, BreadcrumbList, Service, FAQPage | 1072 | 15 | OK |
-| `/pumpenwissen` | T2 HubTemplate | CollectionPage, BreadcrumbList, ItemList, FAQPage | 1128 | 8 | OK |
+| `/pumpenwissen` | T2 HubTemplate | CollectionPage, BreadcrumbList, ItemList, FAQPage | 1134 | 8 | OK |
 | `/pumpenwissen/bernoulli-gleichung` | T9 KnowledgeTemplate | WebPage, BreadcrumbList, TechArticle | 649 | 7 | OK |
 | `/pumpenwissen/einfuehrung-in-die-pumpentechnik` | T9 KnowledgeTemplate | WebPage, BreadcrumbList, TechArticle | 524 | 7 | OK |
 | `/pumpenwissen/geschichte-der-pumpen` | T9 KnowledgeTemplate | WebPage, BreadcrumbList, TechArticle | 864 | 7 | OK |
@@ -244,35 +244,32 @@ Built pages: **217** (plus 404, robots.txt, sitemap). Source of truth for conten
 - /pumpen/branchen/lebensmittelindustrie (T3 TopicTemplate): 996 words, target 600–900
 - /pumpen/branchen/maritim-und-offshore (T3 TopicTemplate): 914 words, target 600–900
 - /pumpen/branchen/oel-und-gasindustrie (T3 TopicTemplate): 1375 words, target 600–900
-- /pumpen/branchen/papierindustrie (T3 TopicTemplate): 1036 words, target 600–900
+- /pumpen/branchen/papierindustrie (T3 TopicTemplate): 1017 words, target 600–900
 - /pumpen/branchen/pharmaindustrie (T3 TopicTemplate): 1113 words, target 600–900
 - /pumpen/branchen/stahlindustrie (T3 TopicTemplate): 1227 words, target 600–900
 - /pumpen/branchen/wasseraufbereitung (T3 TopicTemplate): 1173 words, target 600–900
 - /pumpen/branchen/wassertransport (T3 TopicTemplate): 1407 words, target 600–900
 - /pumpen/branchen (T2 HubTemplate): 499 words, target 250–400
+- /pumpen/marken/duchting (T4 BrandTemplate): 723 words, target 400–700
 - /pumpen/marken/ebara/dw-serie (T5 SeriesTemplate): 505 words, target 300–500
 - /pumpen/marken/ebara/dwo-serie (T5 SeriesTemplate): 503 words, target 300–500
 - /pumpen/marken/ebara (T4 BrandTemplate): 1186 words, target 400–700
 - /pumpen/marken/flygt (T4 BrandTemplate): 1588 words, target 400–700
-- /pumpen/marken/fybroc (T4 BrandTemplate): 782 words, target 400–700
-- /pumpen/marken/grindex (T4 BrandTemplate): 927 words, target 400–700
-- /pumpen/marken/grundfos (T4 BrandTemplate): 1661 words, target 400–700
-- /pumpen/marken/homa (T4 BrandTemplate): 849 words, target 400–700
-- /pumpen/marken/lowara/cea-serie (T5 SeriesTemplate): 504 words, target 300–500
-- /pumpen/marken/lowara/co-serie (T5 SeriesTemplate): 290 words, target 300–500
-- /pumpen/marken/lowara/e-ixp-serie (T5 SeriesTemplate): 675 words, target 300–500
-- /pumpen/marken/lowara/esh-serie (T5 SeriesTemplate): 510 words, target 300–500
-- /pumpen/marken/lowara/svi-serie (T5 SeriesTemplate): 530 words, target 300–500
-- /pumpen/marken/lowara/tdb-tdv-serie (T5 SeriesTemplate): 254 words, target 300–500
-- /pumpen/marken/lowara (T4 BrandTemplate): 2102 words, target 400–700
-- /pumpen/marken/metso (T4 BrandTemplate): 824 words, target 400–700
-- /pumpen/marken/netzsch (T4 BrandTemplate): 775 words, target 400–700
-- /pumpen/marken/saer/nca-serie (T5 SeriesTemplate): 134 words, target 300–500
-- /pumpen/marken/saer/ncb-serie (T5 SeriesTemplate): 287 words, target 300–500
-- /pumpen/marken/saer (T4 BrandTemplate): 1276 words, target 400–700
-- /pumpen/marken/sterling-sihi (T4 BrandTemplate): 1103 words, target 400–700
-- /pumpen/marken/wilo (T4 BrandTemplate): 706 words, target 400–700
-- /pumpen/marken/xylem (T4 BrandTemplate): 984 words, target 400–700
+- /pumpen/marken/fybroc (T4 BrandTemplate): 813 words, target 400–700
+- /pumpen/marken/grindex (T4 BrandTemplate): 958 words, target 400–700
+- /pumpen/marken/grundfos (T4 BrandTemplate): 1692 words, target 400–700
+- /pumpen/marken/homa (T4 BrandTemplate): 880 words, target 400–700
+- /pumpen/marken/lowara/e-ixp-serie (T5 SeriesTemplate): 751 words, target 300–500
+- /pumpen/marken/lowara/svi-serie (T5 SeriesTemplate): 590 words, target 300–500
+- /pumpen/marken/lowara (T4 BrandTemplate): 2132 words, target 400–700
+- /pumpen/marken/metso (T4 BrandTemplate): 855 words, target 400–700
+- /pumpen/marken/netzsch (T4 BrandTemplate): 806 words, target 400–700
+- /pumpen/marken/saer/nca-serie (T5 SeriesTemplate): 234 words, target 300–500
+- /pumpen/marken/saer (T4 BrandTemplate): 1333 words, target 400–700
+- /pumpen/marken/sterling-sihi (T4 BrandTemplate): 1135 words, target 400–700
+- /pumpen/marken/vogel (T4 BrandTemplate): 703 words, target 400–700
+- /pumpen/marken/wilo (T4 BrandTemplate): 737 words, target 400–700
+- /pumpen/marken/xylem (T4 BrandTemplate): 1015 words, target 400–700
 - /pumpen/pumpentypen/api-pumpen/api-610-pumpen (T3 TopicTemplate): 519 words, target 600–900
 - /pumpen/pumpentypen/api-pumpen (T3 TopicTemplate): 1387 words, target 600–900
 - /pumpen/pumpentypen/axial-geteilte-pumpen (T3 TopicTemplate): 1082 words, target 600–900
@@ -302,7 +299,7 @@ Built pages: **217** (plus 404, robots.txt, sitemap). Source of truth for conten
 - /pumpenwissen/hydraulischer-wirkungsgrad (T9 KnowledgeTemplate): 598 words, target 800–1500
 - /pumpenwissen/kavitation (T9 KnowledgeTemplate): 607 words, target 800–1500
 - /pumpenwissen/pumpenkennlinien (T9 KnowledgeTemplate): 744 words, target 800–1500
-- /pumpenwissen (T2 HubTemplate): 1128 words, target 250–400
+- /pumpenwissen (T2 HubTemplate): 1134 words, target 250–400
 - /revision/api-pumpen-revision (T7 ServiceTemplate): 473 words, target 500–800
 - /revision/axial-geteilte-pumpen-revision (T7 ServiceTemplate): 495 words, target 500–800
 - /revision/ersatzteile (T7 ServiceTemplate): 851 words, target 500–800
