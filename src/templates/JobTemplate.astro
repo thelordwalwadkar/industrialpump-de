@@ -4,6 +4,7 @@ import type { PageJob, PageStory } from '../lib/types';
 import type { Site } from '../lib/storyblok';
 import PageHead from '../components/PageHead.astro';
 import QuoteCta from '../components/QuoteCta.astro';
+import { hasOwnCta } from '../lib/page-cta';
 import Bloks from '../components/Bloks.astro';
 interface Props { story: PageStory<PageJob>; site: Site }
 const { story, site } = Astro.props;
@@ -17,5 +18,5 @@ const c = story.content;
   )}
 </PageHead>
 <Bloks bloks={c.body} site={site} />
-<div class="wrap"><QuoteCta heading="Jetzt bewerben" text="Senden Sie uns Ihre Unterlagen über das Kontaktformular." label="Bewerbung senden" href="/kontakt" /></div>
+{!hasOwnCta(c) && <div class="wrap"><QuoteCta heading="Jetzt bewerben" text="Senden Sie uns Ihre Unterlagen über das Kontaktformular." label="Bewerbung senden" href="/kontakt" /></div>}
 <Bloks bloks={c.cta} site={site} />

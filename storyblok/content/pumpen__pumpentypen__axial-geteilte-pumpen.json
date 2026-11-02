@@ -15,565 +15,813 @@
     "topic_kind": "pumpentyp",
     "body": [
       {
-        "_uid": "2c26116afaa7",
+        "_uid": "225c54a27a05",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "182f15c134d7",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "c78f19cf9b46",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Axial geteilte Pumpen (Splitcase-Pumpen) sind vielseitige Kreiselpumpen, die in verschiedenen Anwendungen von der Wasseraufbereitung bis zur petrochemischen Industrie und zum Bergbau eingesetzt werden."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "2d2bedbe265d",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "af5c0f31c9cc",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "SAER-Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/marken/saer",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Flygt-Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/marken/flygt",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Sulzer-Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/marken/sulzer",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Safco-Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/marken/safco",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Löschwasserpumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/anwendungen/loeschwasser",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Kühlwasserpumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/anwendungen/kuehlwasser",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "f0b56217726b",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "79b83e57cb0e",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "7bd7b2d43991",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Axial geteilte Pumpen: Anwendungen, Vorteile und Funktionsweise"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "88cc5b91ec7c",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "1cd89e893a63",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Axial geteilte Pumpen sind Kreiselpumpen, die zum Fördern großer Flüssigkeitsmengen in verschiedenen Branchen und Anwendungen eingesetzt werden. Sie eignen sich für hohe Förderströme und hohe Drücke und werden häufig in der Wasseraufbereitung, Bewässerung, Brandbekämpfung, chemischen Produktion, petrochemischen Industrie, Papier- und Zellstoffindustrie sowie im Bergbau eingesetzt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Bauweise axial geteilter Pumpen erlaubt es, die Pumpe in zwei Hälften zu teilen, wodurch sich die Wartung einfacher durchführen lässt. Diese Pumpen bieten außerdem höheren Wirkungsgrad, niedrigere Wartungskosten und geringere Schwingungen. Axial geteilte Pumpen können von Elektromotoren oder Dieselmotoren angetrieben werden und sind je nach Anwendung mit verschiedenen Werkstoffen und Beschichtungen lieferbar."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "3139ca1c9a92",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "9991a909fd28",
+            "component": "section_column",
+            "icon": "fa-chimney",
+            "content": [
+              {
+                "_uid": "9ccc36cdea05",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Robuste Bauweise",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Blockpumpen sind häufig in robuster und langlebiger Bauweise ausgeführt."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "92c876dde2aa",
+            "component": "section_column",
+            "icon": "fa-faucet",
+            "content": [
+              {
+                "_uid": "a0c7f511f8fd",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Effizienz",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Blockpumpen können beim Fördern von Flüssigkeiten sehr effizient sein."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "a83d2d6458ed",
+            "component": "section_column",
+            "icon": "fa-chart-network",
+            "content": [
+              {
+                "_uid": "30ee80246d90",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Vielseitigkeit",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Sie können zum Fördern verschiedener Flüssigkeiten eingesetzt werden, von Wasser über Chemikalien bis hin zu abrasiven Materialien."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "4b357b776011",
+            "component": "section_column",
+            "icon": "fa-tools",
+            "content": [
+              {
+                "_uid": "56cce5bffa60",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Einfache Wartung",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Durch gut zugängliche Bauteile und eine anwenderfreundliche Konstruktion lassen sie sich leicht warten."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "24116b9f2381",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "1333e6aee6da",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "8565aff4756c",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Industrielle axial geteilte Pumpen: effizient und zuverlässig in verschiedenen Branchen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Industrielle axial geteilte Pumpen sind Kreiselpumpen, die für den Einsatz in schweren industriellen Umgebungen ausgelegt sind. Sie eignen sich für hohe Förderströme und hohe Drücke und werden häufig in der chemischen und petrochemischen Industrie, der Lebensmittel- und Getränkeindustrie, im Bergbau sowie in der Öl- und Gasindustrie eingesetzt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Bauweise axial geteilter Pumpen erlaubt es, die Pumpe in zwei Hälften zu teilen, wodurch sich die Wartung einfacher durchführen und Stillstandszeiten minimieren lassen. Diese Pumpen bieten außerdem höheren Wirkungsgrad, niedrigere Wartungskosten und geringere Schwingungen, was die Zuverlässigkeit erhöht. Industrielle axial geteilte Pumpen können von Elektromotoren oder Dieselmotoren angetrieben werden und sind je nach Anwendung und zu förderndem Medium mit verschiedenen Werkstoffen und Beschichtungen lieferbar."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mit ihrem Wirkungsgrad und ihrer Zuverlässigkeit sind industrielle axial geteilte Pumpen zu einem wichtigen Bestandteil der Produktionsprozesse in verschiedenen Branchen geworden und tragen zu Sicherheit und Effizienz dieser Prozesse bei."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Axial geteilte Pumpen im Vergleich zu End-Suction-Pumpen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Axial geteilte Pumpen und End-Suction-Pumpen (Pumpen mit stirnseitigem Saugeingang) sind beides Kreiselpumpen, haben aber unterschiedliche Bauformen und Einsatzgebiete. End-Suction-Pumpen eignen sich im Allgemeinen für niedrigere Förderströme und Drücke, axial geteilte Pumpen dagegen für höhere Förderströme und Drücke. End-Suction-Pumpen haben meist nur einen Saugstutzen, axial geteilte Pumpen zwei Saugstutzen, was für eine gleichmäßige Strömung und weniger Verwirbelung sorgt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Der größte Unterschied zwischen beiden Pumpentypen liegt in der Bauform und Konstruktion. Axial geteilte Pumpen haben ein geteiltes Gehäuse, das sich einfacher warten lässt und weniger Schwingungen und Geräusche erzeugt, während End-Suction-Pumpen einfacher aufgebaut sind und weniger Platz einnehmen. Die Wahl der passenden Pumpe hängt von der Anwendung sowie vom erforderlichen Förderstrom und Druck ab."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "591e8a3215f4",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "349c9972f669",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-splitcase-2.webp",
+                  "alt": "Axial geteilte Pumpe (Splitcase-Pumpe) mit geteiltem Gehäuse",
+                  "width": 1000,
+                  "height": 667
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "9ae48a79bd7f",
+        "component": "section_row",
+        "layout": "carousel",
+        "columns": [
+          {
+            "_uid": "a045bb99dd95",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "48654d21e870",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Zuverlässiger und proaktiver Service von IPG!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Leiter Technischer Dienst schätze ich die Zuverlässigkeit der Herstellerunabhängigkeit von IPG und die proaktive Vorgehensweise. Der schnelle Service ist in unserer Branche entscheidend, in der jede Minute Stillstand zählt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Leiter Technischer Dienst bei einem Chemiewerk."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "16be2daf2fcf",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "bb23191239a3",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG ist ein zuverlässiger Partner bei Beschaffung und Optimierung!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Einkaufsleiter schätze ich IPG als Partner, der unsere Anforderungen versteht und schnell liefert. Fachwissen und Beratung haben unsere Prozesse optimiert."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Einkaufsleiter bei einem Lebensmittelhersteller."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "a1800e247b83",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "79fb67a5cd4e",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG ist ein unverzichtbarer Partner für Produktionseffizienz!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Produktionsleiter schätze ich IPG als unverzichtbaren Partner für Effizienz und Verfügbarkeit. Das fachkundige Team hat uns bei der Auswahl der passenden Pumpen und beim Service für eine gleichbleibende Produktion unterstützt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Projektleiter bei einer Papierfabrik."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "b8c6e6a53b47",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "f02004669453",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Jeroen von IPG ist ein entscheidender Partner für unsere Versorgungsqualität in der Pflege!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Facility Manager schätze ich Jeroen von IPG als entscheidende Stütze bei der Instandhaltung unserer Pumpensysteme, was zu funktionsfähigen und effizienten Systemen führt, die die Qualität unserer Pflege stärken."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Facility Manager bei einem Krankenhaus."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "ad6e86422736",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "7703c2d7c75b",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Hervorragende Zugänglichkeit und einfache Wartung!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die axial geteilten Pumpen von IPG lassen sich dank ihrer Bauweise leicht warten. Das spart uns Zeit und Kosten bei der Wartung und erhöht die Effizienz in unserem Betrieb."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Technischer Verwalter bei einem Kraftwerk."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "d5cc70ba181b",
+        "component": "cta_band",
+        "heading": "Unverbindlich Kontakt aufnehmen",
+        "text": "Wir beraten Sie gern zu Auswahl, Ersatz und Revision Ihrer Pumpe.",
+        "button_label": "Kontakt aufnehmen",
+        "button_link": {
+          "fieldtype": "multilink",
+          "linktype": "url",
+          "url": "/kontakt",
+          "cached_url": "/kontakt"
+        },
+        "variant": "primary"
+      },
+      {
+        "_uid": "c550bd127d98",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Axial geteilte Pumpen (Splitcase-Pumpen) sind vielseitige Kreiselpumpen, die in verschiedenen Anwendungen von der Wasseraufbereitung bis zur petrochemischen Industrie und zum Bergbau eingesetzt werden."
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "SAER-Pumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/marken/saer",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Flygt-Pumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/marken/flygt",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Sulzer-Pumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/marken/sulzer",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Safco-Pumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/marken/safco",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Löschwasserpumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/anwendungen/loeschwasser",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Kühlwasserpumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/anwendungen/kuehlwasser",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Axial geteilte Pumpen: Anwendungen, Vorteile und Funktionsweise"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Axial geteilte Pumpen sind Kreiselpumpen, die zum Fördern großer Flüssigkeitsmengen in verschiedenen Branchen und Anwendungen eingesetzt werden. Sie eignen sich für hohe Förderströme und hohe Drücke und werden häufig in der Wasseraufbereitung, Bewässerung, Brandbekämpfung, chemischen Produktion, petrochemischen Industrie, Papier- und Zellstoffindustrie sowie im Bergbau eingesetzt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Bauweise axial geteilter Pumpen erlaubt es, die Pumpe in zwei Hälften zu teilen, wodurch sich die Wartung einfacher durchführen lässt. Diese Pumpen bieten außerdem höheren Wirkungsgrad, niedrigere Wartungskosten und geringere Schwingungen. Axial geteilte Pumpen können von Elektromotoren oder Dieselmotoren angetrieben werden und sind je nach Anwendung mit verschiedenen Werkstoffen und Beschichtungen lieferbar."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Robuste Bauweise",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Blockpumpen sind häufig in robuster und langlebiger Bauweise ausgeführt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Effizienz",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Blockpumpen können beim Fördern von Flüssigkeiten sehr effizient sein."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Vielseitigkeit",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Sie können zum Fördern verschiedener Flüssigkeiten eingesetzt werden, von Wasser über Chemikalien bis hin zu abrasiven Materialien."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Einfache Wartung",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Durch gut zugängliche Bauteile und eine anwenderfreundliche Konstruktion lassen sie sich leicht warten."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Industrielle axial geteilte Pumpen: effizient und zuverlässig in verschiedenen Branchen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Industrielle axial geteilte Pumpen sind Kreiselpumpen, die für den Einsatz in schweren industriellen Umgebungen ausgelegt sind. Sie eignen sich für hohe Förderströme und hohe Drücke und werden häufig in der chemischen und petrochemischen Industrie, der Lebensmittel- und Getränkeindustrie, im Bergbau sowie in der Öl- und Gasindustrie eingesetzt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Bauweise axial geteilter Pumpen erlaubt es, die Pumpe in zwei Hälften zu teilen, wodurch sich die Wartung einfacher durchführen und Stillstandszeiten minimieren lassen. Diese Pumpen bieten außerdem höheren Wirkungsgrad, niedrigere Wartungskosten und geringere Schwingungen, was die Zuverlässigkeit erhöht. Industrielle axial geteilte Pumpen können von Elektromotoren oder Dieselmotoren angetrieben werden und sind je nach Anwendung und zu förderndem Medium mit verschiedenen Werkstoffen und Beschichtungen lieferbar."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mit ihrem Wirkungsgrad und ihrer Zuverlässigkeit sind industrielle axial geteilte Pumpen zu einem wichtigen Bestandteil der Produktionsprozesse in verschiedenen Branchen geworden und tragen zu Sicherheit und Effizienz dieser Prozesse bei."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Axial geteilte Pumpen im Vergleich zu End-Suction-Pumpen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Axial geteilte Pumpen und End-Suction-Pumpen (Pumpen mit stirnseitigem Saugeingang) sind beides Kreiselpumpen, haben aber unterschiedliche Bauformen und Einsatzgebiete. End-Suction-Pumpen eignen sich im Allgemeinen für niedrigere Förderströme und Drücke, axial geteilte Pumpen dagegen für höhere Förderströme und Drücke. End-Suction-Pumpen haben meist nur einen Saugstutzen, axial geteilte Pumpen zwei Saugstutzen, was für eine gleichmäßige Strömung und weniger Verwirbelung sorgt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Der größte Unterschied zwischen beiden Pumpentypen liegt in der Bauform und Konstruktion. Axial geteilte Pumpen haben ein geteiltes Gehäuse, das sich einfacher warten lässt und weniger Schwingungen und Geräusche erzeugt, während End-Suction-Pumpen einfacher aufgebaut sind und weniger Platz einnehmen. Die Wahl der passenden Pumpe hängt von der Anwendung sowie vom erforderlichen Förderstrom und Druck ab."
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "907d2b5bd389",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-splitcase-2.webp",
-          "alt": "Axial geteilte Pumpe (Splitcase-Pumpe) mit geteiltem Gehäuse",
-          "width": 1000,
-          "height": 667
-        }
-      },
-      {
-        "_uid": "3cc6d89c9e53",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zuverlässiger und proaktiver Service von IPG!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Leiter Technischer Dienst schätze ich die Zuverlässigkeit der Herstellerunabhängigkeit von IPG und die proaktive Vorgehensweise. Der schnelle Service ist in unserer Branche entscheidend, in der jede Minute Stillstand zählt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Leiter Technischer Dienst bei einem Chemiewerk."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG ist ein zuverlässiger Partner bei Beschaffung und Optimierung!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Einkaufsleiter schätze ich IPG als Partner, der unsere Anforderungen versteht und schnell liefert. Fachwissen und Beratung haben unsere Prozesse optimiert."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Einkaufsleiter bei einem Lebensmittelhersteller."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG ist ein unverzichtbarer Partner für Produktionseffizienz!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Produktionsleiter schätze ich IPG als unverzichtbaren Partner für Effizienz und Verfügbarkeit. Das fachkundige Team hat uns bei der Auswahl der passenden Pumpen und beim Service für eine gleichbleibende Produktion unterstützt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Projektleiter bei einer Papierfabrik."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Jeroen von IPG ist ein entscheidender Partner für unsere Versorgungsqualität in der Pflege!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Facility Manager schätze ich Jeroen von IPG als entscheidende Stütze bei der Instandhaltung unserer Pumpensysteme, was zu funktionsfähigen und effizienten Systemen führt, die die Qualität unserer Pflege stärken."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Facility Manager bei einem Krankenhaus."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Hervorragende Zugänglichkeit und einfache Wartung!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die axial geteilten Pumpen von IPG lassen sich dank ihrer Bauweise leicht warten. Das spart uns Zeit und Kosten bei der Wartung und erhöht die Effizienz in unserem Betrieb."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Technischer Verwalter bei einem Kraftwerk."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 4
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Unverbindlich Kontakt aufnehmen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -608,126 +856,166 @@
         }
       },
       {
-        "_uid": "8b2035df70b5",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-koelwaterpompen.webp",
-          "alt": "SAER axial geteilte Pumpe für Kühlwasseranwendungen",
-          "width": 600,
-          "height": 600
-        }
+        "_uid": "1f907da92b7e",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "65dd371328bf",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "e6982c588ac0",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-koelwaterpompen.webp",
+                  "alt": "SAER axial geteilte Pumpe für Kühlwasseranwendungen",
+                  "width": 600,
+                  "height": 600
+                }
+              },
+              {
+                "_uid": "da3ca1e424ad",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über SAER-Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "6e91d5f5a612",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "c4a9b4c61923",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-flygt-flygt-splitcase.webp",
+                  "alt": "Flygt axial geteilte Pumpe",
+                  "width": 465,
+                  "height": 465
+                }
+              },
+              {
+                "_uid": "be8feca09f69",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Flygt-Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "6b55237e34d7",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "d11a1ab7897e",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-sulzer-sulzer-1.webp",
+                  "alt": "Sulzer axial geteilte Pumpe",
+                  "width": 827,
+                  "height": 584
+                }
+              },
+              {
+                "_uid": "be7c66a53632",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Sulzer-Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "744040fca26d",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "e9113c6032eb",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-handol-handol-sbbi.webp",
+                  "alt": "Safco axial geteilte Pumpe, Baureihe SBBI",
+                  "width": 530,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "103a809427db",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Safco-Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "010ff6d50704",
+        "_uid": "d405f80a0fb8",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über SAER-Pumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "27a144f17291",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-flygt-flygt-splitcase.webp",
-          "alt": "Flygt axial geteilte Pumpe",
-          "width": 465,
-          "height": 465
-        }
-      },
-      {
-        "_uid": "92b721e51801",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Flygt-Pumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "979304fa4d95",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-sulzer-sulzer-1.webp",
-          "alt": "Sulzer axial geteilte Pumpe",
-          "width": 827,
-          "height": 584
-        }
-      },
-      {
-        "_uid": "cc64e9f2e8cc",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Sulzer-Pumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "600d6c88c660",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-handol-handol-sbbi.webp",
-          "alt": "Safco axial geteilte Pumpe, Baureihe SBBI",
-          "width": 530,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "1155be145083",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Safco-Pumpen lesen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -774,43 +1062,62 @@
         }
       },
       {
-        "_uid": "9dd00209ee49",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-flygt-splitcase-installation.webp",
-          "alt": "Installation einer Flygt axial geteilten Pumpe",
-          "width": 960,
-          "height": 960
-        }
-      },
-      {
-        "_uid": "9bf42c668e63",
-        "component": "faq",
-        "heading": "Häufige Fragen",
-        "items": [
+        "_uid": "6213c33ee3b1",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
           {
-            "_uid": "789f405501bb",
-            "component": "faq_item",
-            "question": "Was ist eine axial geteilte Pumpe (Splitcase-Pumpe)?",
-            "answer": "Eine axial geteilte Pumpe ist eine Kreiselpumpe, deren Gehäuse in zwei Hälften geteilt ist, um Wartung und Reparatur zu erleichtern."
+            "_uid": "7a0cff135bb3",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "a76f39a402e3",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-flygt-splitcase-installation.webp",
+                  "alt": "Installation einer Flygt axial geteilten Pumpe",
+                  "width": 960,
+                  "height": 960
+                }
+              }
+            ]
           },
           {
-            "_uid": "ccd03884253f",
-            "component": "faq_item",
-            "question": "Wofür werden axial geteilte Pumpen eingesetzt?",
-            "answer": "Axial geteilte Pumpen werden in einem breiten Spektrum von Anwendungen eingesetzt, darunter Lebensmittel- und Getränkeindustrie, chemische und petrochemische Industrie, Bergbau sowie Öl- und Gasindustrie. Sie werden häufig für höhere Förderströme und Drücke verwendet."
-          },
-          {
-            "_uid": "988b1d9a4a22",
-            "component": "faq_item",
-            "question": "Kann ich eine axial geteilte Pumpe für korrosive Flüssigkeiten einsetzen?",
-            "answer": "Ja, axial geteilte Pumpen sind je nach zu förderndem Medium mit verschiedenen Werkstoffen und Beschichtungen lieferbar. Es gibt auch korrosionsbeständige Ausführungen für den Einsatz in aggressiven Umgebungen."
-          },
-          {
-            "_uid": "0e212bbf7fe4",
-            "component": "faq_item",
-            "question": "Kann eine axial geteilte Pumpe zum Fördern von Flüssigkeiten mit Feststoffen eingesetzt werden?",
-            "answer": "Axial geteilte Pumpen sind im Allgemeinen nicht zum Fördern von Flüssigkeiten mit großen Feststoffanteilen wie Schlamm oder Abwasser geeignet. In diesem Fall kann ein anderer Pumpentyp, etwa eine Tauchmotorpumpe oder eine Seitenkanalpumpe, besser geeignet sein."
+            "_uid": "4e6e3b6366a2",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ba5a97e542e2",
+                "component": "faq",
+                "heading": "Häufige Fragen",
+                "items": [
+                  {
+                    "_uid": "0940a8b48e49",
+                    "component": "faq_item",
+                    "question": "Was ist eine axial geteilte Pumpe (Splitcase-Pumpe)?",
+                    "answer": "Eine axial geteilte Pumpe ist eine Kreiselpumpe, deren Gehäuse in zwei Hälften geteilt ist, um Wartung und Reparatur zu erleichtern."
+                  },
+                  {
+                    "_uid": "7380224a9f24",
+                    "component": "faq_item",
+                    "question": "Wofür werden axial geteilte Pumpen eingesetzt?",
+                    "answer": "Axial geteilte Pumpen werden in einem breiten Spektrum von Anwendungen eingesetzt, darunter Lebensmittel- und Getränkeindustrie, chemische und petrochemische Industrie, Bergbau sowie Öl- und Gasindustrie. Sie werden häufig für höhere Förderströme und Drücke verwendet."
+                  },
+                  {
+                    "_uid": "080ae1023df1",
+                    "component": "faq_item",
+                    "question": "Kann ich eine axial geteilte Pumpe für korrosive Flüssigkeiten einsetzen?",
+                    "answer": "Ja, axial geteilte Pumpen sind je nach zu förderndem Medium mit verschiedenen Werkstoffen und Beschichtungen lieferbar. Es gibt auch korrosionsbeständige Ausführungen für den Einsatz in aggressiven Umgebungen."
+                  },
+                  {
+                    "_uid": "a18956643b02",
+                    "component": "faq_item",
+                    "question": "Kann eine axial geteilte Pumpe zum Fördern von Flüssigkeiten mit Feststoffen eingesetzt werden?",
+                    "answer": "Axial geteilte Pumpen sind im Allgemeinen nicht zum Fördern von Flüssigkeiten mit großen Feststoffanteilen wie Schlamm oder Abwasser geeignet. In diesem Fall kann ein anderer Pumpentyp, etwa eine Tauchmotorpumpe oder eine Seitenkanalpumpe, besser geeignet sein."
+                  }
+                ]
+              }
+            ]
           }
         ]
       }

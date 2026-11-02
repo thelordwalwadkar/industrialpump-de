@@ -13,10 +13,16 @@
     "seo_description": "Netzsch Exzenterschneckenpumpen für viskose Medien und Feststoffe vom offiziellen Händler: Ersatzteile und Revision. Jetzt Angebot anfordern.",
     "intro": "Netzsch ist ein deutscher Hersteller von Exzenterschneckenpumpen und Drehkolbenpumpen für viskose Medien und Medien mit Feststoffanteil. Die Industrial Pump Group ist offizieller Händler und bietet Pumpen, Original-Ersatzteile und Revision.",
     "brand_name": "Netzsch",
+    "logo": {
+      "filename": "/img/nl/merken-0005-ipg-01-netzsch.webp",
+      "alt": "Netzsch",
+      "width": 120,
+      "height": 54
+    },
     "revision_text": "Für Netzsch-Pumpen können Sie Ersatzteile und eine Revision anfragen. Ob und in welchem Umfang das möglich ist, hängt von Serie, Baujahr und Ausführung ab; das Typenschild genügt für eine erste Einschätzung.",
     "body": [
       {
-        "_uid": "acee5f5dcede",
+        "_uid": "a2d0475c9b88",
         "component": "rich_text",
         "content": {
           "type": "doc",
@@ -84,255 +90,334 @@
         }
       },
       {
-        "_uid": "541ec3ba6539",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-netzsch-netzsch-nemo-by.webp",
-          "alt": "NETZSCH NEMO BY Pumpe zum genauen Dosieren unterschiedlicher industrieller Medien",
-          "width": 1280,
-          "height": 1280
-        }
+        "_uid": "f80eab067d6e",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "8458f3a01bdc",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "5ab2fd174829",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-netzsch-netzsch-nemo-by.webp",
+                  "alt": "NETZSCH NEMO BY Pumpe zum genauen Dosieren unterschiedlicher industrieller Medien",
+                  "width": 1280,
+                  "height": 1280
+                }
+              },
+              {
+                "_uid": "b340f31cd286",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Netzsch Baureihe: Netzsch NEMO® BY Baureihe"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Diese Exzenterschneckenpumpe kann in verschiedenen industriellen Anwendungen eingesetzt werden, in denen eine große Vielfalt unterschiedlicher Medien gefördert oder sehr genau dosiert werden muss."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "d15b27aafbdd",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "4e7b54690da2",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-netzsch-netzsch-nemo-n-ipos.webp",
+                  "alt": "NEMO N-IPOS CY C.Pro Dosierpumpe für Chemikalien in Umwelttechnik und chemischer Industrie",
+                  "width": 300,
+                  "height": 136
+                }
+              },
+              {
+                "_uid": "00880a1ce1c6",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Netzsch Baureihe: Netzsch NEMO® N-IPOS CY C.PRO® Baureihe"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Diese Dosierpumpe eignet sich zum genauen Dosieren einer großen Vielfalt von Chemikalien in der Umwelttechnik und in der chemischen Industrie. Die Pumpe kann sowohl aggressive als auch nicht aggressive Flüssigkeiten fördern."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "6eebb2756a3e",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "c0d753ca0cb2",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-netzsch-netzsch-bh.webp",
+                  "alt": "Hygienische NEMO BH Blockpumpe für Lebensmittel-, Pharma- und Kosmetikindustrie",
+                  "width": 300,
+                  "height": 136
+                }
+              },
+              {
+                "_uid": "8154fe5a1153",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Netzsch Baureihe: Netzsch NEMO® BH Hygienepumpen-Baureihe"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Diese kompakte Blockpumpe kann in der Lebensmittel-, Pharma-, Kosmetik- und chemischen Industrie eingesetzt werden."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "ede5cf67b742",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "22d99f6b5e89",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-netzsch-netzsch-m-ovas.webp",
+                  "alt": "NETZSCH M-Ovas Universalzerkleinerer für Biogas- und Abwasseranlagen",
+                  "width": 1024,
+                  "height": 464
+                }
+              },
+              {
+                "_uid": "731f0c9cfc11",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Netzsch Baureihe: Netzsch M-OVAS® Universalzerkleinerer-Baureihe"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Geeignet für eine Biogasanwendung oder eine Kläranlage."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "01dd9082af3d",
+        "_uid": "991ed5d81ec1",
+        "component": "cta_band",
+        "heading": "Unverbindlich Kontakt aufnehmen",
+        "text": "Wir beraten Sie gern zu Auswahl, Ersatz und Revision Ihrer Pumpe.",
+        "button_label": "Kontakt aufnehmen",
+        "button_link": {
+          "fieldtype": "multilink",
+          "linktype": "url",
+          "url": "/kontakt",
+          "cached_url": "/kontakt"
+        },
+        "variant": "primary"
+      },
+      {
+        "_uid": "90b933172c75",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "72c5dd452283",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "9b59db9ea064",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Zum Fördern viskoser Flüssigkeiten und fester Partikel: eine leistungsfähige und effiziente Lösung"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Stärke der Netzsch-Produkte liegt im Fördern dickerer Flüssigkeiten oder von Medien, die Feststoffe enthalten. Diese Pumpen sind für eine kontinuierliche, druckstabile und produktschonende Förderung des Mediums ausgelegt. Netzsch bietet Lösungen für ein breites Spektrum industrieller Anwendungen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Netzsch produziert mehr als 50.000 Pumpen pro Jahr und hat mehr als 2.000 Beschäftigte an mehr als 30 Standorten weltweit. Die Industrial Pump Group ist offizieller Händler des deutschen Herstellers."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "0b1e734e51a4",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "827e876cf949",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Pumpen von Netzsch"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Eine Netzsch-Pumpe ist eine Verdrängerpumpe und kann in der chemischen Industrie, der Lebensmittelindustrie, der Papierindustrie, der Petrochemie sowie in der Gasindustrie eingesetzt werden. Sie eignet sich zum Fördern von Pasten oder anderen dickflüssigen Medien, die Feststoffpartikel enthalten (können)."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Für die Funktion der Pumpe sind Rotor und Stator wichtig, wobei sich der Rotor stets im Stator befindet. Wenn dieses schraubenförmige Bauteil eine Drehbewegung ausführt, wird das Medium in die Förderräume des Stators verschoben. Weitere Informationen zu diesem Pumpentyp erhalten Sie von uns: Fragen Sie einen unserer Experten oder besuchen Sie diese Seite."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Wartung und Revision"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Wartung der Pumpe ist von zentraler Bedeutung: Gute, regelmäßige Wartung verhindert häufig einen Stillstand der Pumpe und damit Ihres Systems. Für die Wartung sind mitunter Originalteile erforderlich; diese Netzsch-Ersatzteile erhalten Sie als offizieller Händler bei IPG. Bei einer Störung der Pumpe können Sie die Revision außerdem an die Experten der Industrial Pump Group vergeben. Unser Revisionsteam hat mehr als 30 Jahre Erfahrung, auch mit Exzenterschneckenpumpen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "356f17b26780",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Netzsch Baureihe: Netzsch NEMO® BY Baureihe"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Diese Exzenterschneckenpumpe kann in verschiedenen industriellen Anwendungen eingesetzt werden, in denen eine große Vielfalt unterschiedlicher Medien gefördert oder sehr genau dosiert werden muss."
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "57da3f667ae2",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-netzsch-netzsch-nemo-n-ipos.webp",
-          "alt": "NEMO N-IPOS CY C.Pro Dosierpumpe für Chemikalien in Umwelttechnik und chemischer Industrie",
-          "width": 300,
-          "height": 136
-        }
-      },
-      {
-        "_uid": "66bff3f06383",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Netzsch Baureihe: Netzsch NEMO® N-IPOS CY C.PRO® Baureihe"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Diese Dosierpumpe eignet sich zum genauen Dosieren einer großen Vielfalt von Chemikalien in der Umwelttechnik und in der chemischen Industrie. Die Pumpe kann sowohl aggressive als auch nicht aggressive Flüssigkeiten fördern."
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "89724beb53b9",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-netzsch-netzsch-bh.webp",
-          "alt": "Hygienische NEMO BH Blockpumpe für Lebensmittel-, Pharma- und Kosmetikindustrie",
-          "width": 300,
-          "height": 136
-        }
-      },
-      {
-        "_uid": "be203caaad65",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Netzsch Baureihe: Netzsch NEMO® BH Hygienepumpen-Baureihe"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Diese kompakte Blockpumpe kann in der Lebensmittel-, Pharma-, Kosmetik- und chemischen Industrie eingesetzt werden."
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "9e96519e73c8",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-netzsch-netzsch-m-ovas.webp",
-          "alt": "NETZSCH M-Ovas Universalzerkleinerer für Biogas- und Abwasseranlagen",
-          "width": 1024,
-          "height": 464
-        }
-      },
-      {
-        "_uid": "a269792ed588",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Netzsch Baureihe: Netzsch M-OVAS® Universalzerkleinerer-Baureihe"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Geeignet für eine Biogasanwendung oder eine Kläranlage."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Unverbindlich Kontakt aufnehmen"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zum Fördern viskoser Flüssigkeiten und fester Partikel: eine leistungsfähige und effiziente Lösung"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Stärke der Netzsch-Produkte liegt im Fördern dickerer Flüssigkeiten oder von Medien, die Feststoffe enthalten. Diese Pumpen sind für eine kontinuierliche, druckstabile und produktschonende Förderung des Mediums ausgelegt. Netzsch bietet Lösungen für ein breites Spektrum industrieller Anwendungen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Netzsch produziert mehr als 50.000 Pumpen pro Jahr und hat mehr als 2.000 Beschäftigte an mehr als 30 Standorten weltweit. Die Industrial Pump Group ist offizieller Händler des deutschen Herstellers."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Pumpen von Netzsch"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Eine Netzsch-Pumpe ist eine Verdrängerpumpe und kann in der chemischen Industrie, der Lebensmittelindustrie, der Papierindustrie, der Petrochemie sowie in der Gasindustrie eingesetzt werden. Sie eignet sich zum Fördern von Pasten oder anderen dickflüssigen Medien, die Feststoffpartikel enthalten (können)."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Für die Funktion der Pumpe sind Rotor und Stator wichtig, wobei sich der Rotor stets im Stator befindet. Wenn dieses schraubenförmige Bauteil eine Drehbewegung ausführt, wird das Medium in die Förderräume des Stators verschoben. Weitere Informationen zu diesem Pumpentyp erhalten Sie von uns: Fragen Sie einen unserer Experten oder besuchen Sie diese Seite."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Wartung und Revision"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Wartung der Pumpe ist von zentraler Bedeutung: Gute, regelmäßige Wartung verhindert häufig einen Stillstand der Pumpe und damit Ihres Systems. Für die Wartung sind mitunter Originalteile erforderlich; diese Netzsch-Ersatzteile erhalten Sie als offizieller Händler bei IPG. Bei einer Störung der Pumpe können Sie die Revision außerdem an die Experten der Industrial Pump Group vergeben. Unser Revisionsteam hat mehr als 30 Jahre Erfahrung, auch mit Exzenterschneckenpumpen."
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {

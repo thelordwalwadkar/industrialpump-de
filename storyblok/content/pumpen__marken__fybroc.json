@@ -12,48 +12,91 @@
     "seo_description": "Fybroc GFK-Kreiselpumpen mit One-piece-Laufrad für korrosive Medien: Baureihen 1500, 1600, 2530, 5500. Jetzt Beratung oder Angebot anfordern.",
     "intro": "Fybroc fertigt Kreiselpumpen aus glasfaserverstärktem Kunststoff (GFK) für Anwendungen mit hohen Anforderungen an die Korrosionsbeständigkeit. Die Industrial Pump Group liefert Fybroc Pumpen und Ersatzteile und berät bei der Auswahl.",
     "brand_name": "Fybroc",
+    "logo": {
+      "filename": "/img/nl/merken-fybroc-logo.webp",
+      "alt": "Fybroc",
+      "width": 120,
+      "height": 54
+    },
     "revision_text": "Für Fybroc-Pumpen können Sie Ersatzteile und eine Revision anfragen. Ob und in welchem Umfang das möglich ist, hängt von Serie, Baujahr und Ausführung ab; das Typenschild genügt für eine erste Einschätzung.",
     "body": [
       {
-        "_uid": "c3327ff94d11",
+        "_uid": "d817bd8cb14e",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "70271f88b507",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "f764a004af12",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Lieferant von Fybroc"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "679f2ca87d4d",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "066197c35d68",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Entdecken Sie Fybroc, einen bekannten Hersteller "
+                        },
+                        {
+                          "type": "text",
+                          "text": "hochwertiger glasfaserverstärkter Kreiselpumpen",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ". Mit einem besonderen Angebot, darunter dem 'One-piece-Laufrad', hebt sich Fybroc im Markt ab. Als anerkannter Händler von Fybroc Pumpen setzt IPG (Industrial Pump Group) auf deren moderne FRP-Pumpen (fiberglass reinforced pump, glasfaserverstärkt) und bietet Kunden Zugang zu einem breiten Spektrum an Lösungen für verschiedene Anwendungen, in denen ein hohes Maß an Korrosionsbeständigkeit erforderlich ist. Lesen Sie weiter, wie Fybroc und IPG Ihre Pumpenprobleme lösen können."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "838f300e101b",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Lieferant von Fybroc"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Entdecken Sie Fybroc, einen bekannten Hersteller "
-                },
-                {
-                  "type": "text",
-                  "text": "hochwertiger glasfaserverstärkter Kreiselpumpen",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": ". Mit einem besonderen Angebot, darunter dem 'One-piece-Laufrad', hebt sich Fybroc im Markt ab. Als anerkannter Händler von Fybroc Pumpen setzt IPG (Industrial Pump Group) auf deren moderne FRP-Pumpen (fiberglass reinforced pump, glasfaserverstärkt) und bietet Kunden Zugang zu einem breiten Spektrum an Lösungen für verschiedene Anwendungen, in denen ein hohes Maß an Korrosionsbeständigkeit erforderlich ist. Lesen Sie weiter, wie Fybroc und IPG Ihre Pumpenprobleme lösen können."
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -96,162 +139,202 @@
         }
       },
       {
-        "_uid": "824475fe539a",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-fybroc-fybroc-series-1500.webp",
-          "alt": "Fybroc Baureihe 1500 | Fybroc Pumpen | Industrial Pump Group",
-          "width": 695,
-          "height": 616
-        }
+        "_uid": "0ecadb8de67b",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "8a5303f935af",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "06f401792502",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-fybroc-fybroc-series-1500.webp",
+                  "alt": "Fybroc Baureihe 1500 | Fybroc Pumpen | Industrial Pump Group",
+                  "width": 695,
+                  "height": 616
+                }
+              },
+              {
+                "_uid": "f24aa8e8613e",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Fybroc Baureihe 1500"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Horizontale ANSI-Pumpe"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "90fb976fee3f",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "1deed41595b4",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-fybroc-fybroc-series-1600.webp",
+                  "alt": "Fybroc Baureihe 1600 | Fybroc Pumpen | Industrial Pump Group",
+                  "width": 695,
+                  "height": 616
+                }
+              },
+              {
+                "_uid": "a2c3159482d8",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Fybroc Baureihe 1600"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Selbstansaugende Pumpen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "bc768748758f",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "09b62e1d1cf0",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-fybroc-fybroc-series-2530.webp",
+                  "alt": "Fybroc Baureihe 2530 | Fybroc Pumpen | IPG",
+                  "width": 695,
+                  "height": 616
+                }
+              },
+              {
+                "_uid": "87c5ff2f4784",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Fybroc Baureihe 2530"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Magnetkupplungspumpen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "e8bcff12f5d7",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "7edc316dc90e",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-fybroc-fybroc-series-5500.webp",
+                  "alt": "Fybroc Baureihe 5500 | Industrial Pump Group",
+                  "width": 695,
+                  "height": 616
+                }
+              },
+              {
+                "_uid": "6b3b844867fc",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Fybroc Baureihe 5500"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Vertikale Eintauchpumpe"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "95b9cebe25ec",
+        "_uid": "b25ad1fa8ff3",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Fybroc Baureihe 1500"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Horizontale ANSI-Pumpe"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "759c20b5c6b7",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-fybroc-fybroc-series-1600.webp",
-          "alt": "Fybroc Baureihe 1600 | Fybroc Pumpen | Industrial Pump Group",
-          "width": 695,
-          "height": 616
-        }
-      },
-      {
-        "_uid": "f30a0ab4e9d0",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Fybroc Baureihe 1600"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Selbstansaugende Pumpen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "66c7e0842bd0",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-fybroc-fybroc-series-2530.webp",
-          "alt": "Fybroc Baureihe 2530 | Fybroc Pumpen | IPG",
-          "width": 695,
-          "height": 616
-        }
-      },
-      {
-        "_uid": "02c9e7fdbddc",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Fybroc Baureihe 2530"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Magnetkupplungspumpen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "c2a4a8da7f9c",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-fybroc-fybroc-series-5500.webp",
-          "alt": "Fybroc Baureihe 5500 | Industrial Pump Group",
-          "width": 695,
-          "height": 616
-        }
-      },
-      {
-        "_uid": "719cedaacec2",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Fybroc Baureihe 5500"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Vertikale Eintauchpumpe"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -360,152 +443,219 @@
                   "text": ": Das besondere Sortiment von Fybroc, darunter Magnetkupplungspumpen und selbstansaugende Pumpen, sorgt dafür, dass Kunden für ihre konkreten Anforderungen die passende Lösung finden."
                 }
               ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 4
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Unverbindlich Kontakt aufnehmen"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 4
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Fybroc Pumpen im Wandel der Jahre"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Fybroc blickt auf eine beachtliche Geschichte in der Herstellung von Kreiselpumpen und Ventilatoren zurück, die Jahrzehnte zurückreicht. Der Hersteller konzentriert sich stark auf die Entwicklung hochwertiger Pumpenlösungen für verschiedene industrielle und gewerbliche Anwendungen. Aus einem bescheidenen Unternehmen entwickelte sich Fybroc rasch zu einem weltweit anerkannten Anbieter der Pumpenindustrie. Das anhaltende Engagement für qualitativ hochwertige Produkte hat Fybroc dorthin gebracht, wo es heute steht, mit einem Ruf, der auf Innovation und Leistung beruht."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Fokus auf FRP-Technologie: ein besonderer Ansatz"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Eines der auffälligsten Merkmale von Fybroc ist der konsequente Fokus auf FRP-Technologie (glasfaserverstärkter Kunststoff). Während andere Hersteller oft nur einen kleinen Teil ihres Sortiments FRP-Pumpen widmen, hat Fybroc diesen Werkstoff zum Kern seiner Fachkompetenz gemacht. Das bedeutet, dass Fybroc nach eigener Darstellung die fortschrittlichsten und zuverlässigsten FRP-Pumpen der Branche anbieten kann. Die Vorteile von FRP, etwa sehr gute Korrosionsbeständigkeit und Langlebigkeit, machen Fybroc Pumpen für anspruchsvolle Umgebungen geeignet."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ein besonderes Sortiment: außergewöhnliche Pumpentechnik"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Was Fybroc wirklich auszeichnet, ist die Vielfalt des Pumpenangebots. Der Hersteller hat eine Reihe besonderer Pumpentypen entwickelt, die im Markt ohne Vergleich sind. Dazu gehören unter anderem die FRP-Magnetkupplungspumpen von Fybroc, die selbstansaugende FRP-Pumpe, die FRP-Cantilever-Pumpe und die vertikale FRP-Turbinenpumpe. Diese Vielfalt an Bauformen ermöglicht es Kunden, Pumpenlösungen zu finden, die auf ihre Anforderungen abgestimmt sind, unabhängig von der Komplexität der Anwendung. Dass Fybroc solche Pumpen nach eigener Darstellung als einziger Hersteller weltweit fertigt, zeugt vom Engagement für Innovation."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Werkstoffe nach Maß: die Bedeutung unterschiedlicher Werkstoffzusammensetzungen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Fybroc weiß, dass Pumpen in verschiedenen Branchen und Anwendungen in sehr unterschiedlichen Umgebungen arbeiten müssen. Um dieser Anforderung gerecht zu werden, bietet der Hersteller verschiedene Werkstoffzusammensetzungen für die Fertigung von Pumpengehäusen und Laufrädern an. So lassen sich Produkteigenschaften erreichen, die auf bestimmte Leistungsziele wie verbesserte Korrosionsbeständigkeit und Verschleißfestigkeit abgestimmt sind. Fybroc strebt an, Pumpen zu liefern, die auch für die schwersten Bedingungen geeignet sind, und sieht mit seiner Werkstoffwahl die Langlebigkeit seiner Produkte als gewährleistet an."
-                }
-              ]
             }
           ]
         }
       },
       {
-        "_uid": "3934ef0b006b",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-fybroc-one-pice-impeller.webp",
-          "alt": "One-piece-Laufrad der Fybroc Pumpen",
-          "width": 1250,
-          "height": 852
-        }
+        "_uid": "e33158a90836",
+        "component": "cta_band",
+        "heading": "Unverbindlich Kontakt aufnehmen",
+        "text": "Wir beraten Sie gern zu Auswahl, Ersatz und Revision Ihrer Pumpe.",
+        "button_label": "Kontakt aufnehmen",
+        "button_link": {
+          "fieldtype": "multilink",
+          "linktype": "url",
+          "url": "/kontakt",
+          "cached_url": "/kontakt"
+        },
+        "variant": "primary"
       },
       {
-        "_uid": "a9006c1a457b",
+        "_uid": "5eda958b4d4b",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "04ce83f4c896",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "f502affa09c2",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 4
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Fybroc Pumpen im Wandel der Jahre"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Fybroc blickt auf eine beachtliche Geschichte in der Herstellung von Kreiselpumpen und Ventilatoren zurück, die Jahrzehnte zurückreicht. Der Hersteller konzentriert sich stark auf die Entwicklung hochwertiger Pumpenlösungen für verschiedene industrielle und gewerbliche Anwendungen. Aus einem bescheidenen Unternehmen entwickelte sich Fybroc rasch zu einem weltweit anerkannten Anbieter der Pumpenindustrie. Das anhaltende Engagement für qualitativ hochwertige Produkte hat Fybroc dorthin gebracht, wo es heute steht, mit einem Ruf, der auf Innovation und Leistung beruht."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Fokus auf FRP-Technologie: ein besonderer Ansatz"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Eines der auffälligsten Merkmale von Fybroc ist der konsequente Fokus auf FRP-Technologie (glasfaserverstärkter Kunststoff). Während andere Hersteller oft nur einen kleinen Teil ihres Sortiments FRP-Pumpen widmen, hat Fybroc diesen Werkstoff zum Kern seiner Fachkompetenz gemacht. Das bedeutet, dass Fybroc nach eigener Darstellung die fortschrittlichsten und zuverlässigsten FRP-Pumpen der Branche anbieten kann. Die Vorteile von FRP, etwa sehr gute Korrosionsbeständigkeit und Langlebigkeit, machen Fybroc Pumpen für anspruchsvolle Umgebungen geeignet."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "bce54425a0c2",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "1a211cae2501",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ein besonderes Sortiment: außergewöhnliche Pumpentechnik"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Was Fybroc wirklich auszeichnet, ist die Vielfalt des Pumpenangebots. Der Hersteller hat eine Reihe besonderer Pumpentypen entwickelt, die im Markt ohne Vergleich sind. Dazu gehören unter anderem die FRP-Magnetkupplungspumpen von Fybroc, die selbstansaugende FRP-Pumpe, die FRP-Cantilever-Pumpe und die vertikale FRP-Turbinenpumpe. Diese Vielfalt an Bauformen ermöglicht es Kunden, Pumpenlösungen zu finden, die auf ihre Anforderungen abgestimmt sind, unabhängig von der Komplexität der Anwendung. Dass Fybroc solche Pumpen nach eigener Darstellung als einziger Hersteller weltweit fertigt, zeugt vom Engagement für Innovation."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Werkstoffe nach Maß: die Bedeutung unterschiedlicher Werkstoffzusammensetzungen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Fybroc weiß, dass Pumpen in verschiedenen Branchen und Anwendungen in sehr unterschiedlichen Umgebungen arbeiten müssen. Um dieser Anforderung gerecht zu werden, bietet der Hersteller verschiedene Werkstoffzusammensetzungen für die Fertigung von Pumpengehäusen und Laufrädern an. So lassen sich Produkteigenschaften erreichen, die auf bestimmte Leistungsziele wie verbesserte Korrosionsbeständigkeit und Verschleißfestigkeit abgestimmt sind. Fybroc strebt an, Pumpen zu liefern, die auch für die schwersten Bedingungen geeignet sind, und sieht mit seiner Werkstoffwahl die Langlebigkeit seiner Produkte als gewährleistet an."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "4cbc7290ab33",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "713d6163ddbc",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "c04cb8a08149",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-fybroc-one-pice-impeller.webp",
+                  "alt": "One-piece-Laufrad der Fybroc Pumpen",
+                  "width": 1250,
+                  "height": 852
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "716e0b96277d",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "d87bc534f243",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Besondere Zuverlässigkeit: die Stärke des One-piece-Laufrads"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Das 'One-piece-Laufrad' von Fybroc ist ein Höhepunkt der Pumpentechnik und ein sehr wichtiges Bauteil der Fybroc Pumpen. Diese innovative Konstruktion zeichnet sich durch die integrierte Wellenhülse aus, mit der Fybroc nach eigener Darstellung der einzige Anbieter am Markt ist, der diese Technologie anbietet. Das macht das 'One-piece-Laufrad' zu einem der wichtigsten Vorteile einer Fybroc Pumpe."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Das Besondere an dieser Konstruktion ist der Wegfall zusätzlicher Leckagemöglichkeiten. Die herkömmliche mehrteilige Bauweise von Pumpen kann an den Verbindungen zwischen Wellenhülse und anderen Bauteilen zu Leckagen führen. Das 'One-piece-Laufrad' von Fybroc dagegen ist eine einzige, nahtlose Einheit, wodurch die Leckagewahrscheinlichkeit auf ein Minimum begrenzt wird. Das ergibt eine besonders zuverlässige Pumpe, die Betreibern gleichbleibende Leistung auch unter den anspruchsvollsten Bedingungen bietet."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "790e8017403a",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Besondere Zuverlässigkeit: die Stärke des One-piece-Laufrads"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Das 'One-piece-Laufrad' von Fybroc ist ein Höhepunkt der Pumpentechnik und ein sehr wichtiges Bauteil der Fybroc Pumpen. Diese innovative Konstruktion zeichnet sich durch die integrierte Wellenhülse aus, mit der Fybroc nach eigener Darstellung der einzige Anbieter am Markt ist, der diese Technologie anbietet. Das macht das 'One-piece-Laufrad' zu einem der wichtigsten Vorteile einer Fybroc Pumpe."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Das Besondere an dieser Konstruktion ist der Wegfall zusätzlicher Leckagemöglichkeiten. Die herkömmliche mehrteilige Bauweise von Pumpen kann an den Verbindungen zwischen Wellenhülse und anderen Bauteilen zu Leckagen führen. Das 'One-piece-Laufrad' von Fybroc dagegen ist eine einzige, nahtlose Einheit, wodurch die Leckagewahrscheinlichkeit auf ein Minimum begrenzt wird. Das ergibt eine besonders zuverlässige Pumpe, die Betreibern gleichbleibende Leistung auch unter den anspruchsvollsten Bedingungen bietet."
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {

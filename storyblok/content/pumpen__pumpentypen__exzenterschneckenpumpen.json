@@ -15,381 +15,545 @@
     "topic_kind": "pumpentyp",
     "body": [
       {
-        "_uid": "cde4c6165086",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Exzenterschneckenpumpen sind Verdrängerpumpen, die zum Fördern dickflüssiger Medien eingesetzt werden. Sie arbeiten, indem sich eine Förderschnecke in einem zylindrischen Gehäuse dreht und dadurch die Flüssigkeit weiterbewegt."
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
+        "_uid": "6d7faed7975e",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "88bcb5fdefca",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "177fe635bbaf",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "Netzsch-Pumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/marken/netzsch",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
+                          "text": "Exzenterschneckenpumpen sind Verdrängerpumpen, die zum Fördern dickflüssiger Medien eingesetzt werden. Sie arbeiten, indem sich eine Förderschnecke in einem zylindrischen Gehäuse dreht und dadurch die Flüssigkeit weiterbewegt."
                         }
                       ]
                     }
                   ]
-                },
-                {
-                  "type": "list_item",
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "7b3354214d06",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "c155c68b326f",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
                     {
-                      "type": "paragraph",
+                      "type": "bullet_list",
                       "content": [
                         {
-                          "type": "text",
-                          "text": "Seepex-Pumpen",
-                          "marks": [
+                          "type": "list_item",
+                          "content": [
                             {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/marken/seepex",
-                                "linktype": "url"
-                              }
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Netzsch-Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/marken/netzsch",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Seepex-Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/marken/seepex",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Abwasserpumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/anwendungen/abwasser",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Pumpen für die Nassbaggerei",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/anwendungen/nassbaggerei",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Chemische Industrie",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/branchen/chemische-industrie",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Lebensmittelindustrie",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/branchen/lebensmittelindustrie",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
                             }
                           ]
                         }
                       ]
                     }
                   ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Abwasserpumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/anwendungen/abwasser",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Pumpen für die Nassbaggerei",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/anwendungen/nassbaggerei",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Chemische Industrie",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/branchen/chemische-industrie",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Lebensmittelindustrie",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/branchen/lebensmittelindustrie",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
                 }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Informationen zu diesem Pumpentyp: Verdrängerpumpen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Exzenterschneckenpumpen sind eine Bauart der Verdrängerpumpe, die zum Fördern zähflüssiger und dickflüssiger Medien eingesetzt wird. Sie eignen sich für Anwendungen, bei denen Kreiselpumpen nicht wirksam sind, zum Beispiel beim Fördern von Honig, Farbe, Zahnpasta oder sogar Gülle."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Eine Exzenterschneckenpumpe besteht aus einem zylindrischen Gehäuse und einer Förderschnecke, die sich darin dreht. Die Schnecke ist als spiralförmige Schraube ausgebildet und bewegt die Flüssigkeit entlang des Schraubengangs, während sie im Gehäuse rotiert. Dadurch wird das Medium kontinuierlich vom Einlass zum Auslass der Pumpe gefördert."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Exzenterschneckenpumpen haben gegenüber anderen Pumpentypen einige Vorteile, etwa einen höheren Wirkungsgrad beim Fördern zähflüssiger Medien sowie einen gleichmäßigen, pulsationsfreien Förderstrom. Für das Fördern von Flüssigkeiten mit hoher Strömungsgeschwindigkeit sind sie wegen des begrenzten Förderstroms jedoch weniger geeignet."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Insgesamt bieten Exzenterschneckenpumpen eine zuverlässige und wirtschaftliche Lösung zum Fördern dickflüssiger Medien in verschiedenen Anwendungen und Branchen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Pulsationsfreier Förderstrom",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Diese Pumpen liefern einen gleichmäßigen, pulsationsfreien Förderstrom, was für genaues Dosieren und gleichbleibende Leistung wesentlich ist."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Effizient bei zähflüssigen Medien",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Exzenterschneckenpumpen eignen sich zum Fördern zähflüssiger und dickflüssiger Medien wie Honig, Farbe und Zahnpasta."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Einfache Wartung",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Exzenterschneckenpumpen haben einen einfachen Aufbau mit wenigen Bauteilen, wodurch Wartung und Revision schnell und kostengünstig möglich sind."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Langlebigkeit und Zuverlässigkeit",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Aus hochwertigen Werkstoffen gefertigt, bieten Exzenterschneckenpumpen zuverlässige Leistung und eine lange Lebensdauer, selbst beim Fördern abrasiver und korrosiver Medien."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Wie funktioniert eine Exzenterschneckenpumpe?"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Für die Funktion der Pumpe sind zwei wichtige Bauteile nötig, nämlich Rotor und Stator. Sie sorgen für den ruhigen Lauf der Exzenterschneckenpumpe. Der Rotor befindet sich immer im Stator und erzeugt durch seine Drehbewegung Förderräume, durch die das Medium gefördert wird."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Rotor"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Der Rotor ist schraubenförmig und hat einen kreisförmigen Querschnitt; auch deshalb erfüllt der Rotor eine wichtige Funktion."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Stator"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Der Stator hat einen schraubenförmigen Durchgang, sodass beim Drehen des schraubenförmigen Rotors Förderräume entstehen. Durch diese Räume wird das zu fördernde Medium in Richtung Druckseite mitgenommen."
-                }
-              ]
-            }
-          ]
-        }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "368c2c3987ef",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/segmenten-screw-pump.webp",
-          "alt": "Funktionsweise einer Exzenterschneckenpumpe | Industrial Pump Group",
-          "width": 320,
-          "height": 148
-        }
+        "_uid": "9c2ec4f2300b",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "e97d287fafa3",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "f731c59f5f22",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Informationen zu diesem Pumpentyp: Verdrängerpumpen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "7033fec0fe40",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "1dc5ffb93301",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Exzenterschneckenpumpen sind eine Bauart der Verdrängerpumpe, die zum Fördern zähflüssiger und dickflüssiger Medien eingesetzt wird. Sie eignen sich für Anwendungen, bei denen Kreiselpumpen nicht wirksam sind, zum Beispiel beim Fördern von Honig, Farbe, Zahnpasta oder sogar Gülle."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Eine Exzenterschneckenpumpe besteht aus einem zylindrischen Gehäuse und einer Förderschnecke, die sich darin dreht. Die Schnecke ist als spiralförmige Schraube ausgebildet und bewegt die Flüssigkeit entlang des Schraubengangs, während sie im Gehäuse rotiert. Dadurch wird das Medium kontinuierlich vom Einlass zum Auslass der Pumpe gefördert."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Exzenterschneckenpumpen haben gegenüber anderen Pumpentypen einige Vorteile, etwa einen höheren Wirkungsgrad beim Fördern zähflüssiger Medien sowie einen gleichmäßigen, pulsationsfreien Förderstrom. Für das Fördern von Flüssigkeiten mit hoher Strömungsgeschwindigkeit sind sie wegen des begrenzten Förderstroms jedoch weniger geeignet."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Insgesamt bieten Exzenterschneckenpumpen eine zuverlässige und wirtschaftliche Lösung zum Fördern dickflüssiger Medien in verschiedenen Anwendungen und Branchen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "627cc4e60870",
+        "_uid": "4f5521041a17",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "7da98f436896",
+            "component": "section_column",
+            "icon": "fa-sync-alt",
+            "content": [
+              {
+                "_uid": "28a3b74bd494",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Pulsationsfreier Förderstrom",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Diese Pumpen liefern einen gleichmäßigen, pulsationsfreien Förderstrom, was für genaues Dosieren und gleichbleibende Leistung wesentlich ist."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "6d2ed65bc7e7",
+            "component": "section_column",
+            "icon": "fa-faucet",
+            "content": [
+              {
+                "_uid": "75094d7180f0",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Effizient bei zähflüssigen Medien",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Exzenterschneckenpumpen eignen sich zum Fördern zähflüssiger und dickflüssiger Medien wie Honig, Farbe und Zahnpasta."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "fc27044c35b1",
+            "component": "section_column",
+            "icon": "fa-tools",
+            "content": [
+              {
+                "_uid": "bf623d6c624c",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Einfache Wartung",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Exzenterschneckenpumpen haben einen einfachen Aufbau mit wenigen Bauteilen, wodurch Wartung und Revision schnell und kostengünstig möglich sind."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "80fa24b567d2",
+            "component": "section_column",
+            "icon": "fa-check",
+            "content": [
+              {
+                "_uid": "76c5aaee5796",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Langlebigkeit und Zuverlässigkeit",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Aus hochwertigen Werkstoffen gefertigt, bieten Exzenterschneckenpumpen zuverlässige Leistung und eine lange Lebensdauer, selbst beim Fördern abrasiver und korrosiver Medien."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "369161ccd230",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "c970b461a510",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "8ace5f35e635",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Wie funktioniert eine Exzenterschneckenpumpe?"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Für die Funktion der Pumpe sind zwei wichtige Bauteile nötig, nämlich Rotor und Stator. Sie sorgen für den ruhigen Lauf der Exzenterschneckenpumpe. Der Rotor befindet sich immer im Stator und erzeugt durch seine Drehbewegung Förderräume, durch die das Medium gefördert wird."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Rotor"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Der Rotor ist schraubenförmig und hat einen kreisförmigen Querschnitt; auch deshalb erfüllt der Rotor eine wichtige Funktion."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Stator"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Der Stator hat einen schraubenförmigen Durchgang, sodass beim Drehen des schraubenförmigen Rotors Förderräume entstehen. Durch diese Räume wird das zu fördernde Medium in Richtung Druckseite mitgenommen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "863cf1ed02e1",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "a5d39a36997b",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/segmenten-screw-pump.webp",
+                  "alt": "Funktionsweise einer Exzenterschneckenpumpe | Industrial Pump Group",
+                  "width": 320,
+                  "height": 148
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "19702982ebfd",
         "component": "rich_text",
         "content": {
           "type": "doc",
@@ -410,681 +574,833 @@
         }
       },
       {
-        "_uid": "8a76b177a5a6",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-aeb.webp",
-          "alt": "Kundenlogo AEB",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "80b0412c174a",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-akzonobel.webp",
-          "alt": "Kundenlogo AkzoNobel",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "a4f5a645588b",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-hvc.webp",
-          "alt": "Kundenlogo HVC",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "ae2498524d9b",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-petrogas.webp",
-          "alt": "Kundenlogo Petrogas",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "660d12923785",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-tatasteel.webp",
-          "alt": "Kundenlogo Tata Steel",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "94d7709ace4b",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-waternet.webp",
-          "alt": "Kundenlogo Waternet",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "3248a2fa1dd9",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Hervorragende und zugängliche Kundenbetreuung bei jedem Kontakt!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Der Einsatz ist perfekt und sehr serviceorientiert, sowohl telefonisch als auch bei geplanter Umsetzung und bei ungeplanten Störungen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Projektleiter RGR bei einem Abfallentsorger in den Niederlanden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Hervorragende Erfahrung mit IPG: Professionalität, Qualität und proaktive Problemlösung!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Arbeitsvorbereiter erlebe ich IPG als sehr professionell. Das Unternehmen strebt nach Qualität, denkt bei Verbesserungen mit und behebt Störungen schnell, um Stillstand zu minimieren."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Arbeitsvorbereiter Störungen bei einem Wasserverband."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ein zuverlässiger Partner mit hervorragendem Service und kundenorientierter Beratung!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ich erlebe IPG als sehr guten Partner, ein Unternehmen, das Service großschreibt und mit den Kunden mitdenkt und berät."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Arbeitsvorbereiter Technischer Dienst bei einem Abfallverwerter in den Niederlanden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Langlebige Lösung für hohe Viskosität und abrasive Materialien!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Exzenterschneckenpumpen von IPG eignen sich bestens zum Fördern dicker und abrasiver Materialien. Sie sind robust und zuverlässig, und ihre Langlebigkeit hilft uns, die Kosten zu senken."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Projektleiter bei einem chemischen Produktionsbetrieb."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Effizient und einfach zu reinigen, geeignet für die Lebensmittelindustrie!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG liefert Exzenterschneckenpumpen, die effizient und einfach zu reinigen sind, was für unsere Hygienestandards wesentlich ist. Das Team bot fachkundige Beratung und sorgte für eine schnelle Installation."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Technischer Berater bei einem Molkereibetrieb."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 4
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Unverbindlich Kontakt aufnehmen"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Exzenterschneckenpumpen: Ersatzteile und Revision"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die wichtigsten Bauteile einer Exzenterschneckenpumpe sind Stator und Rotor. Der Stator besteht meist aus Gummi oder Kunststoff. Je nach Anwendung kann der passende Werkstoff gewählt werden. Wenn Sie hierzu Beratung wünschen, können Sie jederzeit Kontakt mit uns aufnehmen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Das Revisionsteam von IPG besteht aus mehreren von Seepex geschulten Monteuren, die Sie bei der Revision Ihrer Exzenterschneckenpumpe unterstützen können."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Teilbarer Stator"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Revision einer Pumpe kann mitunter recht viel Zeit in Anspruch nehmen. Exzenterschneckenpumpen sind wegen der geringen Zahl an Bauteilen verhältnismäßig leicht zu warten."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Stator und Rotor müssen oft (als Erstes) ersetzt werden. Damit sich diese Teile möglichst einfach tauschen lassen, hat Seepex den 'teilbaren Stator' auf den Markt gebracht. Dieser Stator lässt sich leicht demontieren, sodass sich Rotor und Stator einfach ersetzen lassen, ohne dass die Pumpe ausgebaut werden muss. Sie kann also in der Rohrleitung bleiben."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Auswahl einer Exzenterschneckenpumpe"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Wie bei anderen Pumpentypen ist auch bei einer Exzenterschneckenpumpe wichtig, dass sie richtig eingesetzt wird und die Spezifikationen der Anwendung erfüllt. Dafür müssen einige Fragen beantwortet werden, bevor eine endgültige Pumpe gewählt werden kann. Eine Auswahl dieser Fragen:"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "- Welches Medium wird gefördert? Schlamm, Feststoffe? Wenn ja, wie groß sind die Feststoffe?"
-                },
-                {
-                  "type": "hard_break"
-                },
-                {
-                  "type": "text",
-                  "text": "- Welcher Förderstrom ist für Ihre Anwendung erforderlich: Wie viele m³/h oder l/s sollen gefördert werden?"
-                },
-                {
-                  "type": "hard_break"
-                },
-                {
-                  "type": "text",
-                  "text": "- Wie hoch ist die Förderhöhe, auch Druck genannt: Das ist die maximale Höhe in Metern, auf die die Pumpe fördern muss."
-                },
-                {
-                  "type": "hard_break"
-                },
-                {
-                  "type": "text",
-                  "text": "- Muss die Pumpe dosierend fördern?"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Experten der Industrial Pump Group helfen Ihnen gern, eine passende Lösung für Ihre Anwendung zu finden, und beraten Sie dabei. Fordern Sie daher unverbindlich ein "
-                },
-                {
-                  "type": "text",
-                  "text": "Angebot",
-                  "marks": [
-                    {
-                      "type": "link",
-                      "attrs": {
-                        "href": "/angebot",
-                        "linktype": "url"
-                      }
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " an oder nehmen Sie "
-                },
-                {
-                  "type": "text",
-                  "text": "Kontakt",
-                  "marks": [
-                    {
-                      "type": "link",
-                      "attrs": {
-                        "href": "/kontakt",
-                        "linktype": "url"
-                      }
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " mit IPG auf."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Anwendungen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Eine Verdränger- bzw. Exzenterschneckenpumpe wird im Allgemeinen zum Fördern 'schwieriger' Flüssigkeiten eingesetzt, etwa nicht schmierender oder schleifender Flüssigkeiten, aber auch von Gemischen, deren Struktur und/oder Feststoffbestandteile nicht beschädigt werden dürfen. Aufgrund der oben beschriebenen Funktionsweise der Pumpen lassen sich selbst diese schwierigen Flüssigkeiten fördern, und zwar durch die von Rotor und Stator gebildeten Förderräume."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Vorteile einer Exzenterschneckenpumpe"
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Harte Partikel werden dank des weichen Gummis leicht eingedrückt und anschließend wieder in die Flüssigkeit aufgenommen."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Die Struktur des Mediums wird nicht beschädigt."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Dosiergenau."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Freier Kugeldurchgang."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Nur ein einziges rotierendes Element."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Großes Angebot an Werkstoffen."
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Warum Sie sich möglicherweise nicht für eine Exzenterschneckenpumpe entscheiden"
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Empfindlich gegenüber Trockenlauf."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Nicht für hohe Temperaturen geeignet."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Hoher Verschleiß von Stator und Rotor."
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG und Exzenterschneckenpumpen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Industrial Pump Group liefert und überholt seit langem Exzenterschneckenpumpen und Ersatzteile dieses Pumpentyps. Dank langjähriger Erfahrung und guter Beziehungen zu den weltweit größten Herstellern von Exzenterschneckenpumpen können die Pumpenexperten von IPG Kunden bei Auswahl, Beschaffung und/oder Revision dieser sowie anderer Pumpentypen beraten. Auch für die Lieferung von Ersatzteilen zum Beispiel der Marken Netzsch und Seepex sind Sie bei IPG an der richtigen Adresse."
-                }
-              ]
+        "_uid": "92e2b7f9618b",
+        "component": "logo_carousel",
+        "logos": [
+          {
+            "_uid": "ec135f547314",
+            "component": "logo_item",
+            "name": "AEB Amsterdam",
+            "image": {
+              "filename": "/img/clients/aeb-amsterdam.webp",
+              "alt": "AEB Amsterdam",
+              "width": 280,
+              "height": 140
             }
-          ]
-        }
-      },
-      {
-        "_uid": "17cba1d8525a",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-seepex-seepex-n.webp",
-          "alt": "Seepex Exzenterschneckenpumpe der Baureihe N",
-          "width": 240,
-          "height": 158
-        }
-      },
-      {
-        "_uid": "0787465a2e50",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Seepex-Pumpen lesen"
-                }
-              ]
+          },
+          {
+            "_uid": "bc94f94e88ce",
+            "component": "logo_item",
+            "name": "AkzoNobel",
+            "image": {
+              "filename": "/img/clients/akzonobel.webp",
+              "alt": "AkzoNobel",
+              "width": 280,
+              "height": 140
             }
-          ]
-        }
+          },
+          {
+            "_uid": "29c52e4159c9",
+            "component": "logo_item",
+            "name": "HVC",
+            "image": {
+              "filename": "/img/clients/hvc.webp",
+              "alt": "HVC",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "039951aefc61",
+            "component": "logo_item",
+            "name": "Petrogas",
+            "image": {
+              "filename": "/img/clients/petrogas.webp",
+              "alt": "Petrogas",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "afe42a588cbb",
+            "component": "logo_item",
+            "name": "Tata Steel",
+            "image": {
+              "filename": "/img/clients/tata-steel.webp",
+              "alt": "Tata Steel",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "24454aa72495",
+            "component": "logo_item",
+            "name": "Waternet",
+            "image": {
+              "filename": "/img/clients/waternet.webp",
+              "alt": "Waternet",
+              "width": 280,
+              "height": 140
+            }
+          }
+        ]
       },
       {
-        "_uid": "ff3949eb2a0a",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-netzsch-netzsch-nemo-by.webp",
-          "alt": "Netzsch NEMO Exzenterschneckenpumpe",
-          "width": 1280,
-          "height": 1280
-        }
+        "_uid": "1419d876983c",
+        "component": "section_row",
+        "layout": "carousel",
+        "columns": [
+          {
+            "_uid": "9813c818f7ad",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "16024d882bda",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Hervorragende und zugängliche Kundenbetreuung bei jedem Kontakt!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Der Einsatz ist perfekt und sehr serviceorientiert, sowohl telefonisch als auch bei geplanter Umsetzung und bei ungeplanten Störungen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Projektleiter RGR bei einem Abfallentsorger in den Niederlanden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "bc9a0c35d146",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "8adde70a20b4",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Hervorragende Erfahrung mit IPG: Professionalität, Qualität und proaktive Problemlösung!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Arbeitsvorbereiter erlebe ich IPG als sehr professionell. Das Unternehmen strebt nach Qualität, denkt bei Verbesserungen mit und behebt Störungen schnell, um Stillstand zu minimieren."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Arbeitsvorbereiter Störungen bei einem Wasserverband."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "0f6f233aefaf",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "aa6ea38ea8d8",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ein zuverlässiger Partner mit hervorragendem Service und kundenorientierter Beratung!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ich erlebe IPG als sehr guten Partner, ein Unternehmen, das Service großschreibt und mit den Kunden mitdenkt und berät."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Arbeitsvorbereiter Technischer Dienst bei einem Abfallverwerter in den Niederlanden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "a3c80b473a53",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "619770f9cae8",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Langlebige Lösung für hohe Viskosität und abrasive Materialien!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Exzenterschneckenpumpen von IPG eignen sich bestens zum Fördern dicker und abrasiver Materialien. Sie sind robust und zuverlässig, und ihre Langlebigkeit hilft uns, die Kosten zu senken."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Projektleiter bei einem chemischen Produktionsbetrieb."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "1ffc068e9ab7",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "96eb2670c440",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Effizient und einfach zu reinigen, geeignet für die Lebensmittelindustrie!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG liefert Exzenterschneckenpumpen, die effizient und einfach zu reinigen sind, was für unsere Hygienestandards wesentlich ist. Das Team bot fachkundige Beratung und sorgte für eine schnelle Installation."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Technischer Berater bei einem Molkereibetrieb."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "a6e2ee926848",
+        "_uid": "9a7cf6303d24",
+        "component": "cta_band",
+        "heading": "Unverbindlich Kontakt aufnehmen",
+        "text": "Wir beraten Sie gern zu Auswahl, Ersatz und Revision Ihrer Pumpe.",
+        "button_label": "Kontakt aufnehmen",
+        "button_link": {
+          "fieldtype": "multilink",
+          "linktype": "url",
+          "url": "/kontakt",
+          "cached_url": "/kontakt"
+        },
+        "variant": "primary"
+      },
+      {
+        "_uid": "45be4233069c",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "0c07669543d5",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ee7f022ff8ed",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Exzenterschneckenpumpen: Ersatzteile und Revision"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die wichtigsten Bauteile einer Exzenterschneckenpumpe sind Stator und Rotor. Der Stator besteht meist aus Gummi oder Kunststoff. Je nach Anwendung kann der passende Werkstoff gewählt werden. Wenn Sie hierzu Beratung wünschen, können Sie jederzeit Kontakt mit uns aufnehmen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Das Revisionsteam von IPG besteht aus mehreren von Seepex geschulten Monteuren, die Sie bei der Revision Ihrer Exzenterschneckenpumpe unterstützen können."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Teilbarer Stator"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Revision einer Pumpe kann mitunter recht viel Zeit in Anspruch nehmen. Exzenterschneckenpumpen sind wegen der geringen Zahl an Bauteilen verhältnismäßig leicht zu warten."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Stator und Rotor müssen oft (als Erstes) ersetzt werden. Damit sich diese Teile möglichst einfach tauschen lassen, hat Seepex den 'teilbaren Stator' auf den Markt gebracht. Dieser Stator lässt sich leicht demontieren, sodass sich Rotor und Stator einfach ersetzen lassen, ohne dass die Pumpe ausgebaut werden muss. Sie kann also in der Rohrleitung bleiben."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Auswahl einer Exzenterschneckenpumpe"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Wie bei anderen Pumpentypen ist auch bei einer Exzenterschneckenpumpe wichtig, dass sie richtig eingesetzt wird und die Spezifikationen der Anwendung erfüllt. Dafür müssen einige Fragen beantwortet werden, bevor eine endgültige Pumpe gewählt werden kann. Eine Auswahl dieser Fragen:"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "- Welches Medium wird gefördert? Schlamm, Feststoffe? Wenn ja, wie groß sind die Feststoffe?"
+                        },
+                        {
+                          "type": "hard_break"
+                        },
+                        {
+                          "type": "text",
+                          "text": "- Welcher Förderstrom ist für Ihre Anwendung erforderlich: Wie viele m³/h oder l/s sollen gefördert werden?"
+                        },
+                        {
+                          "type": "hard_break"
+                        },
+                        {
+                          "type": "text",
+                          "text": "- Wie hoch ist die Förderhöhe, auch Druck genannt: Das ist die maximale Höhe in Metern, auf die die Pumpe fördern muss."
+                        },
+                        {
+                          "type": "hard_break"
+                        },
+                        {
+                          "type": "text",
+                          "text": "- Muss die Pumpe dosierend fördern?"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Experten der Industrial Pump Group helfen Ihnen gern, eine passende Lösung für Ihre Anwendung zu finden, und beraten Sie dabei. Fordern Sie daher unverbindlich ein "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Angebot",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/angebot",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " an oder nehmen Sie "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Kontakt",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/kontakt",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " mit IPG auf."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "d5a253f78e4d",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ee252f3b2e98",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Anwendungen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Eine Verdränger- bzw. Exzenterschneckenpumpe wird im Allgemeinen zum Fördern 'schwieriger' Flüssigkeiten eingesetzt, etwa nicht schmierender oder schleifender Flüssigkeiten, aber auch von Gemischen, deren Struktur und/oder Feststoffbestandteile nicht beschädigt werden dürfen. Aufgrund der oben beschriebenen Funktionsweise der Pumpen lassen sich selbst diese schwierigen Flüssigkeiten fördern, und zwar durch die von Rotor und Stator gebildeten Förderräume."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Vorteile einer Exzenterschneckenpumpe"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Harte Partikel werden dank des weichen Gummis leicht eingedrückt und anschließend wieder in die Flüssigkeit aufgenommen."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Die Struktur des Mediums wird nicht beschädigt."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Dosiergenau."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Freier Kugeldurchgang."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Nur ein einziges rotierendes Element."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Großes Angebot an Werkstoffen."
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Warum Sie sich möglicherweise nicht für eine Exzenterschneckenpumpe entscheiden"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Empfindlich gegenüber Trockenlauf."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Nicht für hohe Temperaturen geeignet."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Hoher Verschleiß von Stator und Rotor."
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG und Exzenterschneckenpumpen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Industrial Pump Group liefert und überholt seit langem Exzenterschneckenpumpen und Ersatzteile dieses Pumpentyps. Dank langjähriger Erfahrung und guter Beziehungen zu den weltweit größten Herstellern von Exzenterschneckenpumpen können die Pumpenexperten von IPG Kunden bei Auswahl, Beschaffung und/oder Revision dieser sowie anderer Pumpentypen beraten. Auch für die Lieferung von Ersatzteilen zum Beispiel der Marken Netzsch und Seepex sind Sie bei IPG an der richtigen Adresse."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "9ea953ffb4fa",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "daa6b6782a72",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "b30f0a96586b",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-seepex-seepex-n.webp",
+                  "alt": "Seepex Exzenterschneckenpumpe der Baureihe N",
+                  "width": 240,
+                  "height": 158
+                }
+              },
+              {
+                "_uid": "71b2f540ca33",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Seepex-Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "6ced79eddee7",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "72fab2c3b25f",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-netzsch-netzsch-nemo-by.webp",
+                  "alt": "Netzsch NEMO Exzenterschneckenpumpe",
+                  "width": 1280,
+                  "height": 1280
+                }
+              },
+              {
+                "_uid": "dd74d966d22e",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Netzsch-Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "42d93de72980",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Netzsch-Pumpen lesen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -1131,43 +1447,62 @@
         }
       },
       {
-        "_uid": "b79269c7fbc9",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/segmenten-wormpompen-2.webp",
-          "alt": "Exzenterschneckenpumpe zur Revision in der Werkstatt",
-          "width": 1000,
-          "height": 667
-        }
-      },
-      {
-        "_uid": "ce2d537c3d9e",
-        "component": "faq",
-        "heading": "Häufige Fragen",
-        "items": [
+        "_uid": "a2b1f055f3c5",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
           {
-            "_uid": "1c6fd5427f6f",
-            "component": "faq_item",
-            "question": "Was ist eine Exzenterschneckenpumpe?",
-            "answer": "Eine Exzenterschneckenpumpe ist eine Verdrängerpumpe, die zum Fördern dickflüssiger Medien eingesetzt wird. Sie arbeitet, indem sich eine spiralförmige Förderschnecke in einem zylindrischen Gehäuse dreht und dadurch die Flüssigkeit vom Einlass zum Auslass der Pumpe bewegt."
+            "_uid": "5afc83fbdff4",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "8c85c988a814",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/segmenten-wormpompen-2.webp",
+                  "alt": "Exzenterschneckenpumpe zur Revision in der Werkstatt",
+                  "width": 1000,
+                  "height": 667
+                }
+              }
+            ]
           },
           {
-            "_uid": "c3b47e6c8efd",
-            "component": "faq_item",
-            "question": "Welche Vorteile hat eine Exzenterschneckenpumpe?",
-            "answer": "Exzenterschneckenpumpen haben gegenüber anderen Pumpentypen einige Vorteile, etwa einen höheren Wirkungsgrad beim Fördern zähflüssiger Medien sowie einen gleichmäßigen, pulsationsfreien Förderstrom. Sie sind zuverlässig und wirtschaftlich."
-          },
-          {
-            "_uid": "8eaab97e98be",
-            "component": "faq_item",
-            "question": "Wofür werden Exzenterschneckenpumpen eingesetzt?",
-            "answer": "Exzenterschneckenpumpen werden zum Fördern dickflüssiger Medien wie Honig, Farbe, Zahnpasta oder sogar Gülle eingesetzt. Häufig kommen sie in der chemischen, pharmazeutischen und Lebensmittelindustrie zum Einsatz."
-          },
-          {
-            "_uid": "2145a1a15196",
-            "component": "faq_item",
-            "question": "Welchen maximalen Förderstrom hat eine Exzenterschneckenpumpe?",
-            "answer": "Der maximale Förderstrom einer Exzenterschneckenpumpe hängt von der Größe der Pumpe und der Motorleistung ab. Im Allgemeinen haben Exzenterschneckenpumpen jedoch im Vergleich zu anderen Pumpentypen einen begrenzten Förderstrom."
+            "_uid": "4fef4af4a29f",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ccb62766ca0a",
+                "component": "faq",
+                "heading": "Häufige Fragen",
+                "items": [
+                  {
+                    "_uid": "22ac5a1a9f9f",
+                    "component": "faq_item",
+                    "question": "Was ist eine Exzenterschneckenpumpe?",
+                    "answer": "Eine Exzenterschneckenpumpe ist eine Verdrängerpumpe, die zum Fördern dickflüssiger Medien eingesetzt wird. Sie arbeitet, indem sich eine spiralförmige Förderschnecke in einem zylindrischen Gehäuse dreht und dadurch die Flüssigkeit vom Einlass zum Auslass der Pumpe bewegt."
+                  },
+                  {
+                    "_uid": "586dbcd74a8b",
+                    "component": "faq_item",
+                    "question": "Welche Vorteile hat eine Exzenterschneckenpumpe?",
+                    "answer": "Exzenterschneckenpumpen haben gegenüber anderen Pumpentypen einige Vorteile, etwa einen höheren Wirkungsgrad beim Fördern zähflüssiger Medien sowie einen gleichmäßigen, pulsationsfreien Förderstrom. Sie sind zuverlässig und wirtschaftlich."
+                  },
+                  {
+                    "_uid": "9ee082fad71d",
+                    "component": "faq_item",
+                    "question": "Wofür werden Exzenterschneckenpumpen eingesetzt?",
+                    "answer": "Exzenterschneckenpumpen werden zum Fördern dickflüssiger Medien wie Honig, Farbe, Zahnpasta oder sogar Gülle eingesetzt. Häufig kommen sie in der chemischen, pharmazeutischen und Lebensmittelindustrie zum Einsatz."
+                  },
+                  {
+                    "_uid": "8ac46e8f5294",
+                    "component": "faq_item",
+                    "question": "Welchen maximalen Förderstrom hat eine Exzenterschneckenpumpe?",
+                    "answer": "Der maximale Förderstrom einer Exzenterschneckenpumpe hängt von der Größe der Pumpe und der Motorleistung ab. Im Allgemeinen haben Exzenterschneckenpumpen jedoch im Vergleich zu anderen Pumpentypen einen begrenzten Förderstrom."
+                  }
+                ]
+              }
+            ]
           }
         ]
       }

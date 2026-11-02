@@ -9,89 +9,141 @@
     "component": "page_course",
     "h1": "Kurs Inspektion und Wartung von Pumpen",
     "nav_title": "Kurs Inspektion und Wartung von Pumpen",
+    "hero_image": {
+      "filename": "/img/nl/sfeer-fotos-0009-ipg-onderhoud1.webp",
+      "alt": "",
+      "width": 1280,
+      "height": 850
+    },
     "seo_title": "Kurs Inspektion und Wartung von Pumpen: Inhalte",
     "seo_description": "Kurs Inspektion und Wartung von Pumpen: Inspektionsrunde planen, Verschleiß erkennen, Schäden beurteilen. Jetzt Kurs für Ihr Team vor Ort anfragen.",
     "intro": "Der Kurs Inspektion und Wartung der IPG Pumpenschule zeigt, wie sich Inspektionsrunden planen, Verschleiß erkennen und Pumpen sachgerecht aus- und einbauen lassen. Er richtet sich an Instandhalter, Operatoren und Einkäufer.",
     "body": [
       {
-        "_uid": "9514200a4d89",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/sfeer-fotos-0009-ipg-onderhoud1.webp",
-          "alt": "Wartung einer Pumpe in der IPG-Werkstatt",
-          "width": 1280,
-          "height": 850
-        }
-      },
-      {
-        "_uid": "dc540bc566b7",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 4
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kurs Inspektion und Wartung"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Um Stillstand zu vermeiden, sollten die Pumpen einer Anlage regelmäßig inspiziert werden. Dabei können verschiedene Verschleißerscheinungen zutage treten, sodass teure, aufwendige Revisionen vermieden werden können. Durch gute und regelmäßige Wartung verlängert sich die Lebensdauer der Pumpe und das System wird zuverlässiger."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Dieser überwiegend theoretische Kurs soll die Teilnehmer korrekt darüber informieren und beraten, wie sich eine Inspektionsrunde richtig planen lässt. Es geht darum, worauf zu achten ist, teilweise aber auch darum, was beim Ein- und Ausbau von Pumpen zu bedenken ist. Im Kurs werden viele Pumpentypen behandelt, von Exzenterschneckenpumpen bis zu Kreiselpumpen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Wichtig ist auch das vermittelte Wissen über Pumpenteile: Wer verschleißende Teile rechtzeitig ersetzt, kann viele Kosten und Stillstand eines Betriebsprozesses vermeiden. Im Kurs wird unter anderem erklärt, wie sich Verschleiß zeigt und an welchen Teilen er vor allem zu erkennen ist."
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "a234f598d491",
-        "component": "faq",
-        "heading": "Häufige Fragen",
-        "items": [
+        "_uid": "b332fc3e2a6b",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
           {
-            "_uid": "a742567f7142",
-            "component": "faq_item",
-            "question": "Welche Inhalte vermittelt der Kurs Inspektion und Wartung?",
-            "answer": "Aus- und Einbau von Pumpen: Aufstellung, Inbetriebnahme und Ausrichtung.\nWartung und Instandsetzung von Verschleißteilen: Gleitringdichtung, Lager, Laufrad, Dichtungen usw.\nWorauf ist bei Demontage und Montage zu achten?\nStörungssuche und Störungsdiagnose: Schadensbilder erkennen und beurteilen. Zustandsüberwachung."
+            "_uid": "746389825b39",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "6661a9444d05",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 4
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kurs Inspektion und Wartung"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
           },
           {
-            "_uid": "de5703a7a90c",
-            "component": "faq_item",
-            "question": "Für wen ist der Kurs Inspektion und Wartung gedacht?",
-            "answer": "Personen, die Pumpen warten und/oder Störungen an Pumpen beheben müssen.\nOperatoren, die für die Wartung erster Ebene an Pumpen verantwortlich sind.\nEinkäufer, damit sie verstehen, was Wartung genau umfasst, und bei Reparaturen Angebote gut vergleichen können."
+            "_uid": "57a98263a0d6",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "a5fa58f8f7e5",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Um Stillstand zu vermeiden, sollten die Pumpen einer Anlage regelmäßig inspiziert werden. Dabei können verschiedene Verschleißerscheinungen zutage treten, sodass teure, aufwendige Revisionen vermieden werden können. Durch gute und regelmäßige Wartung verlängert sich die Lebensdauer der Pumpe und das System wird zuverlässiger."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
           }
         ]
       },
       {
-        "_uid": "097fb60985e4",
+        "_uid": "1d160260fe4a",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "b1848465d883",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "04ff9e29fffa",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Dieser überwiegend theoretische Kurs soll die Teilnehmer korrekt darüber informieren und beraten, wie sich eine Inspektionsrunde richtig planen lässt. Es geht darum, worauf zu achten ist, teilweise aber auch darum, was beim Ein- und Ausbau von Pumpen zu bedenken ist. Im Kurs werden viele Pumpentypen behandelt, von Exzenterschneckenpumpen bis zu Kreiselpumpen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Wichtig ist auch das vermittelte Wissen über Pumpenteile: Wer verschleißende Teile rechtzeitig ersetzt, kann viele Kosten und Stillstand eines Betriebsprozesses vermeiden. Im Kurs wird unter anderem erklärt, wie sich Verschleiß zeigt und an welchen Teilen er vor allem zu erkennen ist."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "826c1541de4a",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "dde79969cefd",
+                "component": "faq",
+                "heading": "Häufige Fragen",
+                "items": [
+                  {
+                    "_uid": "0611228bcf4b",
+                    "component": "faq_item",
+                    "question": "Welche Inhalte vermittelt der Kurs Inspektion und Wartung?",
+                    "answer": "Aus- und Einbau von Pumpen: Aufstellung, Inbetriebnahme und Ausrichtung.\nWartung und Instandsetzung von Verschleißteilen: Gleitringdichtung, Lager, Laufrad, Dichtungen usw.\nWorauf ist bei Demontage und Montage zu achten?\nStörungssuche und Störungsdiagnose: Schadensbilder erkennen und beurteilen. Zustandsüberwachung."
+                  },
+                  {
+                    "_uid": "685aa08d2244",
+                    "component": "faq_item",
+                    "question": "Für wen ist der Kurs Inspektion und Wartung gedacht?",
+                    "answer": "Personen, die Pumpen warten und/oder Störungen an Pumpen beheben müssen.\nOperatoren, die für die Wartung erster Ebene an Pumpen verantwortlich sind.\nEinkäufer, damit sie verstehen, was Wartung genau umfasst, und bei Reparaturen Angebote gut vergleichen können."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "6b78bc8ffa9b",
         "component": "rich_text",
         "content": {
           "type": "doc",
@@ -155,7 +207,7 @@
                 },
                 {
                   "type": "text",
-                  "text": "Tel. [[PLATZHALTER: Telefon]]",
+                  "text": "Tel. +31 251 222 566",
                   "marks": [
                     {
                       "type": "bold"
@@ -163,69 +215,151 @@
                   ]
                 }
               ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kurs Grundlagen Pumpen"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kurs Inspektion und Wartung"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kurs Gleitringdichtungen / Mechanical Seals"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kurs Armaturen und Ventile"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kurs Wellen und Lager"
-                }
-              ]
             }
           ]
         }
+      },
+      {
+        "_uid": "7e1d685922e9",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "37def6f382a8",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "3e5e346d338d",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kurs Grundlagen Pumpen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "607f543c0745",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "9232c55f8235",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kurs Inspektion und Wartung"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "0c5ed8f7f8c7",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "a6d1f0d40831",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kurs Gleitringdichtungen / Mechanical Seals"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "a268baeca689",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "2f81456244e1",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kurs Armaturen und Ventile"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "1c7ff0ad476b",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "d4626b81202a",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kurs Wellen und Lager"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       }
     ]
   }

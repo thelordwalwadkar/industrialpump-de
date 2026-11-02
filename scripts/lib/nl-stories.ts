@@ -13,6 +13,7 @@ import { join } from 'node:path';
 import { APPLICATIONS, PUMP_TYPES, SEGMENTS } from '../../src/lib/taxonomy';
 import { DESCRIPTION_MAX, fitSentences, TITLE_MAX } from '../../src/lib/text';
 import { storyId, uuidOf, type SeedStory } from './stories';
+import { BRAND_LOGOS } from './pages';
 
 type Node = Record<string, any>;
 type Block =
@@ -33,7 +34,15 @@ const readJson = <T>(...p: string[]): T => JSON.parse(readFileSync(join(root, ..
 const md5 = (s: string) => createHash('md5').update(s).digest('hex');
 const uid = (s: string) => md5(s).slice(0, 12);
 const idOf = (p: string) => (p === '/' ? 'home' : p.replace(/^\//, '').replace(/\//g, '__'));
-const TOKENS: Record<string, string> = { TELEFON: 'Telefon', EMAIL: 'E-Mail', ADRESSE: 'Anschrift' };
+// Company details copied from industrialpumps.nl (client request, 30 Oct 2026); same values as the config story.
+const TOKENS: Record<string, string> = { TELEFON: '+31 251 222 566', EMAIL: 'info@industrialpumps.nl', ADRESSE: 'Concordiastraat 30, 1951 AS Velsen-Noord' };
+type Lay = { r: number | null; c: number | null };
+/** Dutch customer photo tiles (homepage/Logos/*.jpg) → clean logos in public/img/clients: [name, file]. */
+const CLIENT_TILES: Record<string, [string, string]> = {
+  'aeb.jpg': ['AEB Amsterdam', 'aeb-amsterdam'], 'akzonobel.jpg': ['AkzoNobel', 'akzonobel'], 'hvc.jpg': ['HVC', 'hvc'],
+  'petrogas.jpg': ['Petrogas', 'petrogas'], 'tatasteel.jpg': ['Tata Steel', 'tata-steel'], 'waternet.jpg': ['Waternet', 'waternet'],
+};
+interface LayoutFile { rows: Record<string, { kind: 'row' | 'grid' | 'carousel'; cls: string; cols: Record<string, { icon?: string }> }> }
 
 const BRAND_NAMES: Record<string, string> = { duchting: 'Düchting', homa: 'HOMA', saer: 'SAER', 'sterling-sihi': 'Sterling SIHI' };
 
@@ -95,10 +104,13 @@ export function nlStories(existing: Map<string, SeedStory>): { stories: SeedStor
 
   /* ---------- inline markup → rich-text nodes ---------- */
   function inline(src: string, page: string): Node[] {
-    const text = src.replace(/\{\{(TELEFON|EMAIL|ADRESSE)\}\}/g, (_m, k: string) => `[[PLATZHALTER: ${TOKENS[k]}]]`);
+    // "**[text](href)**" (bold around a link) is the same as "[**text**](href)";
+    // product tiles of the Dutch shop glue brand and model together ("SAERM 80"): restore the space
+    const text = src.replace(/\{\{(TELEFON|EMAIL|ADRESSE)\}\}/g, (_m, k: string) => TOKENS[k]!).replace(/\*\*\[([^\]]+)\]\(([^)\s]+)\)\*\*/g, '[**$1**]($2)')
+      .replace(/\b(LOWARA|SAER|EBARA|FLYGT|GRUNDFOS)(?=[A-Z0-9])/g, '$1 ');
     const out: Node[] = [];
     const pushText = (t: string, marks: Node[]) => {
-      // bold segments inside a run; newlines become hard breaks
+      // bold segments inside a run; newlines become hard breaks ("VCA**" is a certificate name and stays as it is)
       t.split(/(\*\*[^*]+\*\*)/).forEach((seg) => {
         if (!seg) return;
         const bold = /^\*\*[^*]+\*\*$/.test(seg);
@@ -120,7 +132,7 @@ export function nlStories(existing: Map<string, SeedStory>): { stories: SeedStor
     if (last < text.length) pushText(text.slice(last), []);
     return out.length ? out : [{ type: 'text', text: ' ' }];
   }
-  const plain = (s: string) => s.replace(/\{\{(TELEFON|EMAIL|ADRESSE)\}\}/g, (_m, k: string) => `[[PLATZHALTER: ${TOKENS[k]}]]`).replace(/\[([^\]]+)\]\([^)]*\)/g, '$1').replace(/\*\*/g, '');
+  const plain = (s: string) => s.replace(/\{\{(TELEFON|EMAIL|ADRESSE)\}\}/g, (_m, k: string) => TOKENS[k]!).replace(/\[([^\]]+)\]\([^)]*\)/g, '$1').replace(/\*\*/g, '');
 
   /* ---------- blocks → bloks ---------- */
   function toBloks(blocks: Block[], seed: string, page: string, fallbackAlt: string): { runs: Node[]; bloks: Node[] } {
@@ -146,6 +158,12 @@ export function nlStories(existing: Map<string, SeedStory>): { stories: SeedStor
     };
     for (const b of blocks) {
       if (b.t === 'h' && b.l === 1) continue;
+      // the Dutch "Vrijblijvend contact opnemen" band sits above a form that is not migrated: give it a real button
+      if ((b.t === 'h' || b.t === 'p') && /^unverbindlich(?:en)?\s+kontakt\s+aufnehmen\.?$/i.test(plain(b.text).trim())) {
+        flush(); flushFaq(); flushBtns();
+        bloks.push({ _uid: uid(`${seed}-${n++}`), component: 'cta_band', heading: 'Unverbindlich Kontakt aufnehmen', text: 'Wir beraten Sie gern zu Auswahl, Ersatz und Revision Ihrer Pumpe.', button_label: 'Kontakt aufnehmen', button_link: { fieldtype: 'multilink', linktype: 'url', url: '/kontakt', cached_url: '/kontakt' }, variant: 'primary' });
+        continue;
+      }
       if (b.t === 'form') continue;
       if (b.t === 'faq') { flush(); flushBtns(); faq.push(b); continue; }
       if (b.t === 'cta') {
@@ -204,6 +222,69 @@ export function nlStories(existing: Map<string, SeedStory>): { stories: SeedStor
     return { component: 'page_hub', extra: {} };
   }
 
+  /**
+   * Rows as on the Dutch page: a row with two or more columns becomes a `section_row` (columns side by side, or a
+   * carousel); an image-only carousel becomes a logo carousel; single-column rows run on as before.
+   */
+  function layoutBloks(blocks: Block[], lay: Lay[], layout: LayoutFile, seed: string, page: string, fallbackAlt: string): Node[] {
+    const out: Node[] = [];
+    let flat: Block[] = [];
+    let g = 0;
+    const flushFlat = () => { if (flat.length) out.push(...toBloks(flat, `${seed}-f${g++}`, page, fallbackAlt).bloks); flat = []; };
+    // 1. split the page into its Dutch rows
+    type Group = { r: number | null; blocks: Block[]; lay: Lay[] };
+    const groups: Group[] = [];
+    for (let i = 0; i < blocks.length;) {
+      const r = lay[i]?.r ?? null;
+      let j = i; while (j < blocks.length && (lay[j]?.r ?? null) === r) j++;
+      const keep = (k: number) => { const b = blocks[k]!; return b.t !== 'form' && !(b.t === 'h' && b.l === 1); };
+      const idx = Array.from({ length: j - i }, (_, k) => i + k).filter(keep);
+      groups.push({ r, blocks: idx.map((k) => blocks[k]!), lay: idx.map((k) => lay[k]!) });
+      i = j;
+    }
+    // 2. a run of identical one-column rows that each hold an image (e.g. the series list of a brand) becomes one tile grid
+    const single = (x: Group) => x.r !== null && new Set(x.lay.map((l) => l.c)).size === 1 && x.blocks.some((b) => b.t === 'img');
+    const clsOf = (x: Group) => (x.r !== null ? layout.rows[String(x.r)]?.cls ?? '' : '');
+    for (let i = 0; i < groups.length; i++) {
+      if (!single(groups[i]!) || !clsOf(groups[i]!)) continue;
+      let j = i + 1; while (j < groups.length && single(groups[j]!) && clsOf(groups[j]!) === clsOf(groups[i]!)) j++;
+      if (j - i >= 3) {
+        const tiles = groups.slice(i, j);
+        groups.splice(i, j - i, { r: tiles[0]!.r, blocks: tiles.flatMap((t) => t.blocks), lay: tiles.flatMap((t, k) => t.lay.map(() => ({ r: tiles[0]!.r, c: -1 - k }))) });
+      }
+    }
+    for (const grp of groups) {
+      const { r } = grp;
+      const group = grp.blocks;
+      const groupLay = grp.lay;
+      const row = r !== null ? layout.rows[String(r)] : undefined;
+      const colIds = [...new Set(groupLay.map((l) => l.c))];
+      if (!row || !group.length || (colIds.length < 2 && row.kind !== 'carousel')) { flat.push(...group); continue; }
+      flushFlat();
+      const cols = colIds.map((c) => ({ c, blocks: group.filter((_, k) => groupLay[k]!.c === c) })).filter((x) => x.blocks.length);
+      const rowSeed = `${seed}-row${r}`;
+      if (row.kind === 'carousel' && cols.every((x) => x.blocks.every((b) => b.t === 'img'))) {
+        const logos = cols.flatMap((x) => x.blocks).flatMap((b, k) => {
+          const src = String((b as { src: string }).src);
+          // the Dutch customer carousel uses photo tiles: show the clean client logos of the home page instead
+          const client = CLIENT_TILES[src.split('/').pop()!.toLowerCase()];
+          if (client) return [{ _uid: uid(`${rowSeed}-l${k}`), component: 'logo_item', name: client[0], image: { filename: `/img/clients/${client[1]}.webp`, alt: client[0], width: 280, height: 140 } }];
+          const im = imageMap[src]; if (!im) return [];
+          const name = plain(String((b as { alt?: string }).alt ?? '')) || fallbackAlt;
+          return [{ _uid: uid(`${rowSeed}-l${k}`), component: 'logo_item', name, image: { filename: im.file, alt: name, width: im.width, height: im.height } }];
+        });
+        if (logos.length) out.push({ _uid: uid(rowSeed), component: 'logo_carousel', logos });
+        continue;
+      }
+      out.push({
+        _uid: uid(rowSeed), component: 'section_row', layout: row.kind === 'carousel' ? 'carousel' : 'columns',
+        columns: cols.map((x, k) => ({ _uid: uid(`${rowSeed}-c${k}`), component: 'section_column', ...(row.cols[String(x.c)]?.icon ? { icon: row.cols[String(x.c)]!.icon } : {}), content: toBloks(x.blocks, `${rowSeed}-c${k}`, page, fallbackAlt).bloks })),
+      });
+    }
+    flushFlat();
+    return out;
+  }
+
   const stories: SeedStory[] = [];
   const NO_APPEND = new Set(['page_legal', 'page_contact']);
   let position = 0;
@@ -214,13 +295,19 @@ export function nlStories(existing: Map<string, SeedStory>): { stories: SeedStor
     const id = idOf(nlPath);
     const dePage = join(root, 'content-src', 'de', `${id}.json`);
     if (!existsSync(dePage)) { report.missing.push(nlPath); continue; }
-    const de = readJson<DePage>('content-src', 'de', `${id}.json`);
+    // de-final = translation merged with the Dutch layout (scripts/nl/merge-layout.ts); fall back to the plain translation
+    const merged = existsSync(join(root, 'content-src', 'de-final', `${id}.json`));
+    const de = readJson<DePage & { lay?: Lay[] }>('content-src', merged ? 'de-final' : 'de', `${id}.json`);
     const nl = readJson<NlPage>('content-src', 'nl', `${id}.json`);
+    const layout = existsSync(join(root, 'content-src', 'nl-layout', `${id}.json`)) ? readJson<LayoutFile>('content-src', 'nl-layout', `${id}.json`) : undefined;
     report.translated++;
     const full = entry.de === '/' ? 'home' : entry.de.replace(/^\//, '');
     const { component, extra } = mapType(nlPath, nl);
     const h1 = de.h1.trim();
-    const { bloks } = toBloks(de.blocks, full, nlPath, h1);
+    const lead = de.blocks.findIndex((b) => !(b.t === 'h' && (b as { l?: number }).l === 1));
+    const banner = lead >= 0 && de.blocks[lead]!.t === 'img' ? imageMap[String((de.blocks[lead] as { src: string }).src)] : undefined;
+    if (banner && banner.width >= 1000) { de.blocks.splice(lead, 1); de.lay?.splice(lead, 1); }
+    const bloks = de.lay && layout ? layoutBloks(de.blocks, de.lay, layout, full, nlPath, h1) : toBloks(de.blocks, full, nlPath, h1).bloks;
     for (const c of de.notes?.claims ?? []) report.claims.push({ page: entry.de, text: c });
     for (const c of de.notes?.nl_specific ?? []) report.nlSpecific.push({ page: entry.de, text: c });
 
@@ -229,16 +316,28 @@ export function nlStories(existing: Map<string, SeedStory>): { stories: SeedStor
       if (full === 'home') { report.skippedExisting.push('/ (Startseite: Aufbau nach Kundenvorgabe vom 2. Nov 2026, niederländischer Text nicht angehängt)'); continue; }
       if (NO_APPEND.has(String(present.content.component))) { report.skippedExisting.push(`${entry.de} (${present.content.component}: bestehende Seite bleibt, niederländischer Text nicht übernommen)`); continue; }
       const c = present.content as Node;
+      if (c.component === 'page_hub') {
+        Object.assign(c, { h1, intro: fitIntro(de.intro), seo_title: de.seo_title.trim(), seo_description: de.seo_description.trim() });
+        delete c.body_text;
+        // the Dutch text brings its own brand overview: no extra logo strip, and a neutral heading for the sub-page list
+        c.body = (c.body ?? []).filter((b: Node) => b.component !== 'logo_strip');
+        if (c.child_heading === 'Pumpen nach Marke') c.child_heading = 'Übersicht';
+      }
       c.body = [...(c.body ?? []), ...bloks];
+      // the migrated text brings the page's own FAQ: drop the generic one so the page has a single FAQ section
+      if (JSON.stringify(bloks).includes('"component":"faq"')) delete c.faq;
       report.appended.push(`${entry.de} (+${bloks.length} Bloks)`);
       continue;
     }
 
     const content: Node = {
-      component, h1, nav_title: h1.length <= 38 ? h1 : undefined, seo_title: de.seo_title.trim(), seo_description: de.seo_description.trim(), intro: fitIntro(de.intro),
+      component, h1, nav_title: h1.length <= 38 ? h1 : undefined, ...(banner && banner.width >= 1000 ? { hero_image: { filename: banner.file, alt: '', width: banner.width, height: banner.height } } : {}), seo_title: de.seo_title.trim(), seo_description: de.seo_description.trim(), intro: fitIntro(de.intro),
       ...(entry.noindex ? { noindex: true } : {}), ...extra,
     };
     if (component === 'page_brand') content.brand_name = BRAND_NAMES[extra.brand_name] ?? extra.brand_name.split('-').map((w: string) => w[0]!.toUpperCase() + w.slice(1)).join(' ');
+    // card images: brand logo from the Dutch brands overview, series image = first photo of the Dutch series page
+    if (component === 'page_brand') { const logo = BRAND_LOGOS.find((b) => b[4] === full.split('/').pop()); if (logo) content.logo = { filename: logo[1], alt: logo[0], width: logo[2], height: logo[3] }; }
+    if (component === 'page_series') { const first = de.blocks.find((b) => b.t === 'img' && imageMap[String((b as { src: string }).src)]) as { src: string } | undefined; if (first) { const im = imageMap[first.src]!; content.image = { filename: im.file, alt: h1, width: im.width, height: im.height }; } }
     if (component === 'page_brand') content.revision_text = `Für ${content.brand_name}-Pumpen können Sie Ersatzteile und eine Revision anfragen. Ob und in welchem Umfang das möglich ist, hängt von Serie, Baujahr und Ausführung ab; das Typenschild genügt für eine erste Einschätzung.`;
     if (component === 'page_series') {
       content.series_name = seriesName(h1, entry.de, extra.series_name);
@@ -246,7 +345,6 @@ export function nlStories(existing: Map<string, SeedStory>): { stories: SeedStor
       content.use_case_line = (h1.includes(':') ? h1.split(':').slice(1).join(':').trim() : de.intro.split(/(?<=\.)\s/)[0]!).slice(0, 120);
     }
     if (component === 'page_job') content.job_title = h1;
-    if (component === 'page_case_study') content.customer = h1;
     if (component === 'page_blog_post' || component === 'page_knowledge' || component === 'page_case_study') {
       const date = newsDates[nlPath]; if (date) content.publication_date = date;
     }

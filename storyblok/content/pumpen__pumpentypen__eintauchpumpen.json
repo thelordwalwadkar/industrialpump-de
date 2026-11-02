@@ -15,701 +15,949 @@
     "topic_kind": "pumpentyp",
     "body": [
       {
-        "_uid": "87c8a17dfe1f",
+        "_uid": "72e39a689cc1",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "805185336ceb",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "4b5c30153470",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Eintauchpumpen sind Pumpen, die in einen Flüssigkeitsbehälter eingesetzt werden, um die Flüssigkeit auf ein höheres Niveau zu fördern."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "b3d027365ff8",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "fc9b9367e546",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Lowara-Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/marken/lowara",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Grundfos-Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/marken/grundfos",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Safco-Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/marken/safco",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Sulzer-Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/marken/sulzer",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Vertikale Turbinenpumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/pumpentypen/vertikale-turbinenpumpen",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Papierindustrie",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/branchen/papierindustrie",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Wasserbehandlung",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/branchen/wasseraufbereitung",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "HVAC",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/branchen/gebaeudetechnik-hvac",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "bb2364dfc945",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "7302053b5a83",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "42d7eab231eb",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Effiziente und flexible Lösung für den Flüssigkeitstransport: Eintauchpumpen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "d59e7db2c70f",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "c11bdc2fab12",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Eintauchpumpen sind eine Art Kreiselpumpen, die in Schächte oder Behälter eingesetzt werden, um Wasser nach oben zu fördern. Diese Pumpen arbeiten sehr zuverlässig und effizient und werden vielfach in der Wasserversorgung, der Bewässerung und in industriellen Anwendungen eingesetzt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Der große Vorteil von Eintauchpumpen ist, dass sie eine höhere Förderhöhe erreichen können als herkömmliche Oberflächenpumpen. Außerdem sind sie weniger anfällig für Kavitation, die bei Oberflächenpumpen auftreten kann, wenn der Druck sinkt und in der Pumpe Luftblasen entstehen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Eintauchpumpen sind in verschiedenen Größen und Werkstoffen erhältlich, je nach Anwendung und Zusammensetzung des zu fördernden Mediums. Sie können außerdem mit verschiedenen Motorarten ausgestattet werden, etwa mit Elektro-, Dieselmotoren oder Hydraulikmotoren."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "9df18c4ae72d",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "ed6777ad4f36",
+            "component": "section_column",
+            "icon": "fa-tools",
+            "content": [
+              {
+                "_uid": "ccca47fe16f3",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Einfache Installation",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Eintauchpumpen lassen sich einfach in bestehende Rohrleitungen einsetzen, was eine schnelle und problemlose Installation ermöglicht."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "2c6d71291298",
+            "component": "section_column",
+            "icon": "fa-sync-alt",
+            "content": [
+              {
+                "_uid": "b587561d31db",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Hoher Wirkungsgrad",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Auf hohen Wirkungsgrad ausgelegt und mit energiesparenden Motoren ausgestattet, sind sie im Betrieb kosteneffizient."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "8d0e1f0da6e9",
+            "component": "section_column",
+            "icon": "fa-globe",
+            "content": [
+              {
+                "_uid": "add5ff009eb4",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flexibilität bei den Anwendungen",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Geeignet für verschiedene Flüssigkeiten wie Wasser, Chemikalien und Brennstoffe, angepasst an unterschiedliche industrielle Anforderungen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "ba2b841067e1",
+            "component": "section_column",
+            "icon": "fa-tools",
+            "content": [
+              {
+                "_uid": "9fdd346a892a",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Niedrige Betriebskosten",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Erschwinglich in Anschaffung und Wartung und damit eine wirtschaftliche Wahl für unterschiedliche Anwendungen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "683b218f3c05",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "3e90ccf04778",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "1e8f776c5496",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Vorteile von Eintauchpumpen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Einfache Installation: Eintauchpumpen lassen sich einfach installieren, indem sie in eine bestehende Rohrleitung eingesetzt werden. Das bietet eine schnelle und einfache Lösung für den Flüssigkeitstransport."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Hoher Wirkungsgrad: Eintauchpumpen sind auf hohen Wirkungsgrad ausgelegt und werden von energiesparenden Motoren angetrieben."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Flexibilität: Eintauchpumpen können für verschiedene Arten von Flüssigkeiten eingesetzt werden, darunter Wasser, Brennstoffe, Chemikalien und mehr, und lassen sich an die spezifischen Anforderungen der Anwendung anpassen."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Niedrige Kosten: Eintauchpumpen sind erschwinglich und erfordern wenig Wartung, was sie zu einer sehr wirtschaftlichen Lösung macht."
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Anwendungsbereiche von Eintauchpumpen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Eintauchpumpen werden in verschiedenen Branchen und Anwendungen eingesetzt, zum Beispiel:"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Wasserbehandlung: Eintauchpumpen werden zum Fördern von Wasser in Wasseraufbereitungsanlagen eingesetzt."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Industrielle Prozesse: Sie werden zum Fördern von Chemikalien, Brennstoffen und anderen Flüssigkeiten in industriellen Prozessen eingesetzt."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Landwirtschaft: Eintauchpumpen werden zur Bewässerung landwirtschaftlicher Flächen und zum Fördern von Wasser zu Viehtränken eingesetzt."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Haushaltsanwendungen: Sie können zum Abpumpen von Wasser aus Kellern und Schwimmbecken verwendet werden."
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "cfa4f16c091f",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "57130376e087",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-insteek-2.webp",
+                  "alt": "Grundfos-Eintauchpumpen in verschiedenen Größen für industrielle Anwendungen",
+                  "width": 600,
+                  "height": 450
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "8f1f23d1275c",
+        "component": "section_row",
+        "layout": "carousel",
+        "columns": [
+          {
+            "_uid": "3399e6c9d9a1",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "9790a5d72bef",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Hervorragende und zugängliche Kundenbetreuung bei jedem Kontakt!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Der Einsatz ist perfekt und sehr serviceorientiert, sowohl telefonisch als auch bei geplanter Umsetzung und bei ungeplanten Störungen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Projektleiter RGR bei einem Abfallentsorger in den Niederlanden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "e9a2ed5ae8c8",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "8df44217853c",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Hervorragende Erfahrung mit IPG: Professionalität, Qualität und proaktive Problemlösung!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Arbeitsvorbereiter erlebe ich IPG als sehr professionell. Das Unternehmen strebt nach Qualität, denkt bei Verbesserungen mit und behebt Störungen schnell, um Stillstand zu minimieren."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Arbeitsvorbereiter Störungen bei einem Wasserverband."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "b485ed398667",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "94a906f6d9c7",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ein zuverlässiger Partner mit hervorragendem Service und kundenorientierter Beratung!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ich erlebe IPG als sehr guten Partner, ein Unternehmen, das Service großschreibt und mit den Kunden mitdenkt und berät."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Arbeitsvorbereiter Technischer Dienst bei einem Abfallverwerter in den Niederlanden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "902e61f1fc11",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "6397ba0e6b2a",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Hoher Förderstrom und robuste Bauweise!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Eintauchpumpen von IPG passen gut zu unseren Anwendungen mit hohem Förderstrom. Sie liefern konstante Leistung und halten intensiver Nutzung stand, was die Betriebssicherheit erhöht."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Projektleiter bei einem industriellen Anlagenbaubetrieb."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "c67f4b736b28",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "fab754baa085",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Einfache Installation und effiziente Leistung!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG liefert Eintauchpumpen, die sich einfach installieren lassen und sofort zuverlässige Leistung erbringen. Das Team bot hervorragende Unterstützung, wodurch der Ablauf reibungslos und schnell war."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Technischer Betriebsleiter bei einem Wasseraufbereitungsbetrieb."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "a8fc6d2a7bd2",
+        "component": "cta_band",
+        "heading": "Unverbindlich Kontakt aufnehmen",
+        "text": "Wir beraten Sie gern zu Auswahl, Ersatz und Revision Ihrer Pumpe.",
+        "button_label": "Kontakt aufnehmen",
+        "button_link": {
+          "fieldtype": "multilink",
+          "linktype": "url",
+          "url": "/kontakt",
+          "cached_url": "/kontakt"
+        },
+        "variant": "primary"
+      },
+      {
+        "_uid": "d95e8e4e5fa7",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Eintauchpumpen sind Pumpen, die in einen Flüssigkeitsbehälter eingesetzt werden, um die Flüssigkeit auf ein höheres Niveau zu fördern."
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Lowara-Pumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/marken/lowara",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Grundfos-Pumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/marken/grundfos",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Safco-Pumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/marken/safco",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Sulzer-Pumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/marken/sulzer",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Vertikale Turbinenpumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/pumpentypen/vertikale-turbinenpumpen",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Papierindustrie",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/branchen/papierindustrie",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Wasserbehandlung",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/branchen/wasseraufbereitung",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "HVAC",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/branchen/gebaeudetechnik-hvac",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Effiziente und flexible Lösung für den Flüssigkeitstransport: Eintauchpumpen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Eintauchpumpen sind eine Art Kreiselpumpen, die in Schächte oder Behälter eingesetzt werden, um Wasser nach oben zu fördern. Diese Pumpen arbeiten sehr zuverlässig und effizient und werden vielfach in der Wasserversorgung, der Bewässerung und in industriellen Anwendungen eingesetzt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Der große Vorteil von Eintauchpumpen ist, dass sie eine höhere Förderhöhe erreichen können als herkömmliche Oberflächenpumpen. Außerdem sind sie weniger anfällig für Kavitation, die bei Oberflächenpumpen auftreten kann, wenn der Druck sinkt und in der Pumpe Luftblasen entstehen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Eintauchpumpen sind in verschiedenen Größen und Werkstoffen erhältlich, je nach Anwendung und Zusammensetzung des zu fördernden Mediums. Sie können außerdem mit verschiedenen Motorarten ausgestattet werden, etwa mit Elektro-, Dieselmotoren oder Hydraulikmotoren."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Einfache Installation",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Eintauchpumpen lassen sich einfach in bestehende Rohrleitungen einsetzen, was eine schnelle und problemlose Installation ermöglicht."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Hoher Wirkungsgrad",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Auf hohen Wirkungsgrad ausgelegt und mit energiesparenden Motoren ausgestattet, sind sie im Betrieb kosteneffizient."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Flexibilität bei den Anwendungen",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Geeignet für verschiedene Flüssigkeiten wie Wasser, Chemikalien und Brennstoffe, angepasst an unterschiedliche industrielle Anforderungen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Niedrige Betriebskosten",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Erschwinglich in Anschaffung und Wartung und damit eine wirtschaftliche Wahl für unterschiedliche Anwendungen."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Vorteile von Eintauchpumpen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Einfache Installation: Eintauchpumpen lassen sich einfach installieren, indem sie in eine bestehende Rohrleitung eingesetzt werden. Das bietet eine schnelle und einfache Lösung für den Flüssigkeitstransport."
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Hoher Wirkungsgrad: Eintauchpumpen sind auf hohen Wirkungsgrad ausgelegt und werden von energiesparenden Motoren angetrieben."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Flexibilität: Eintauchpumpen können für verschiedene Arten von Flüssigkeiten eingesetzt werden, darunter Wasser, Brennstoffe, Chemikalien und mehr, und lassen sich an die spezifischen Anforderungen der Anwendung anpassen."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Niedrige Kosten: Eintauchpumpen sind erschwinglich und erfordern wenig Wartung, was sie zu einer sehr wirtschaftlichen Lösung macht."
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Anwendungsbereiche von Eintauchpumpen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Eintauchpumpen werden in verschiedenen Branchen und Anwendungen eingesetzt, zum Beispiel:"
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Wasserbehandlung: Eintauchpumpen werden zum Fördern von Wasser in Wasseraufbereitungsanlagen eingesetzt."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Industrielle Prozesse: Sie werden zum Fördern von Chemikalien, Brennstoffen und anderen Flüssigkeiten in industriellen Prozessen eingesetzt."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Landwirtschaft: Eintauchpumpen werden zur Bewässerung landwirtschaftlicher Flächen und zum Fördern von Wasser zu Viehtränken eingesetzt."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Haushaltsanwendungen: Sie können zum Abpumpen von Wasser aus Kellern und Schwimmbecken verwendet werden."
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "db25ef9e4e68",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-insteek-2.webp",
-          "alt": "Grundfos-Eintauchpumpen in verschiedenen Größen für industrielle Anwendungen",
-          "width": 600,
-          "height": 450
-        }
-      },
-      {
-        "_uid": "b984b37a9b9d",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Hervorragende und zugängliche Kundenbetreuung bei jedem Kontakt!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Der Einsatz ist perfekt und sehr serviceorientiert, sowohl telefonisch als auch bei geplanter Umsetzung und bei ungeplanten Störungen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Projektleiter RGR bei einem Abfallentsorger in den Niederlanden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Hervorragende Erfahrung mit IPG: Professionalität, Qualität und proaktive Problemlösung!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Arbeitsvorbereiter erlebe ich IPG als sehr professionell. Das Unternehmen strebt nach Qualität, denkt bei Verbesserungen mit und behebt Störungen schnell, um Stillstand zu minimieren."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Arbeitsvorbereiter Störungen bei einem Wasserverband."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ein zuverlässiger Partner mit hervorragendem Service und kundenorientierter Beratung!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ich erlebe IPG als sehr guten Partner, ein Unternehmen, das Service großschreibt und mit den Kunden mitdenkt und berät."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Arbeitsvorbereiter Technischer Dienst bei einem Abfallverwerter in den Niederlanden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Hoher Förderstrom und robuste Bauweise!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Eintauchpumpen von IPG passen gut zu unseren Anwendungen mit hohem Förderstrom. Sie liefern konstante Leistung und halten intensiver Nutzung stand, was die Betriebssicherheit erhöht."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Projektleiter bei einem industriellen Anlagenbaubetrieb."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Einfache Installation und effiziente Leistung!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG liefert Eintauchpumpen, die sich einfach installieren lassen und sofort zuverlässige Leistung erbringen. Das Team bot hervorragende Unterstützung, wodurch der Ablauf reibungslos und schnell war."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Technischer Betriebsleiter bei einem Wasseraufbereitungsbetrieb."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 4
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Unverbindlich Kontakt aufnehmen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -762,126 +1010,166 @@
         }
       },
       {
-        "_uid": "120c56338790",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-lowara-lowara-svi.webp",
-          "alt": "Lowara-Eintauchpumpen: robuste und zuverlässige Pumpen für verschiedene Branchen und Anwendungen",
-          "width": 445,
-          "height": 700
-        }
+        "_uid": "449e2b954928",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "076a4dd6e97f",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "d7b077168e67",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-lowara-lowara-svi.webp",
+                  "alt": "Lowara-Eintauchpumpen: robuste und zuverlässige Pumpen für verschiedene Branchen und Anwendungen",
+                  "width": 445,
+                  "height": 700
+                }
+              },
+              {
+                "_uid": "286a57bb60a3",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Lowara-Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "250abb7b0cb4",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "a6b655098cc4",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-grundfos-grundfos-insteekompen.webp",
+                  "alt": "Vertikale Grundfos-Eintauchpumpe mit Edelstahlgehäuse für den Flüssigkeitstransport in der Industrie",
+                  "width": 300,
+                  "height": 300
+                }
+              },
+              {
+                "_uid": "c233852a2d93",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Grundfos-Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "d76b65095725",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "8ddbc9c89833",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-handol-handol-insteekpomp.webp",
+                  "alt": "Vertikale SAFCO-Eintauchpumpe zum Fördern von Flüssigkeiten aus großer Tiefe in industriellen Umgebungen",
+                  "width": 150,
+                  "height": 373
+                }
+              },
+              {
+                "_uid": "79391d4d7a2d",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Safco-Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "88f935fdf0a0",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "4475dad85eba",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-sulzer-sulzer-insteekpomp.webp",
+                  "alt": "Sulzer-Eintauchpumpe: vertikale Industriepumpe für Flüssigkeiten in tiefen Tanks und Behältern",
+                  "width": 429,
+                  "height": 1222
+                }
+              },
+              {
+                "_uid": "907d6a52814f",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Sulzer-Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "ae6fbed518c2",
+        "_uid": "2c2480f3491c",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Lowara-Pumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "32fc64230838",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-grundfos-grundfos-insteekompen.webp",
-          "alt": "Vertikale Grundfos-Eintauchpumpe mit Edelstahlgehäuse für den Flüssigkeitstransport in der Industrie",
-          "width": 300,
-          "height": 300
-        }
-      },
-      {
-        "_uid": "4215700be451",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Grundfos-Pumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "2d98276ba7c5",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-handol-handol-insteekpomp.webp",
-          "alt": "Vertikale SAFCO-Eintauchpumpe zum Fördern von Flüssigkeiten aus großer Tiefe in industriellen Umgebungen",
-          "width": 150,
-          "height": 373
-        }
-      },
-      {
-        "_uid": "ad4b5371d507",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Safco-Pumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "5834213d1b57",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-sulzer-sulzer-insteekpomp.webp",
-          "alt": "Sulzer-Eintauchpumpe: vertikale Industriepumpe für Flüssigkeiten in tiefen Tanks und Behältern",
-          "width": 429,
-          "height": 1222
-        }
-      },
-      {
-        "_uid": "385d2fc4b2c3",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Sulzer-Pumpen lesen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -938,7 +1226,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Benötigen Sie Hilfe bei der Auswahl der passenden Pumpe? Die Experten von IPG stehen Ihnen zur Verfügung. Nehmen Sie unverbindlich Kontakt auf unter: [[PLATZHALTER: Telefon]] oder [[PLATZHALTER: E-Mail]]."
+                  "text": "Benötigen Sie Hilfe bei der Auswahl der passenden Pumpe? Die Experten von IPG stehen Ihnen zur Verfügung. Nehmen Sie unverbindlich Kontakt auf unter: +31 251 222 566 oder info@industrialpumps.nl."
                 }
               ]
             }
@@ -946,43 +1234,62 @@
         }
       },
       {
-        "_uid": "831fed44736d",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-insteek-3.webp",
-          "alt": "SAFCO-Eintauchpumpe für industrielle Prozesse, ausgelegt für effizientes Fördern von Flüssigkeiten aus tiefen Behältern",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      {
-        "_uid": "989f91994d4e",
-        "component": "faq",
-        "heading": "Häufige Fragen",
-        "items": [
+        "_uid": "52ed1d793b0d",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
           {
-            "_uid": "09972833c830",
-            "component": "faq_item",
-            "question": "Welchen Vorteil haben Eintauchpumpen gegenüber anderen Pumpentypen?",
-            "answer": "Eintauchpumpen sind einfach zu installieren, energiesparend, flexibel und erschwinglich, was sie zu einer sehr effizienten Lösung für den Flüssigkeitstransport macht."
+            "_uid": "15fbf1d5f434",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "d827ba155a1d",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-insteek-3.webp",
+                  "alt": "SAFCO-Eintauchpumpe für industrielle Prozesse, ausgelegt für effizientes Fördern von Flüssigkeiten aus tiefen Behältern",
+                  "width": 1280,
+                  "height": 720
+                }
+              }
+            ]
           },
           {
-            "_uid": "afce4f024504",
-            "component": "faq_item",
-            "question": "Für welche Arten von Flüssigkeiten lassen sich Eintauchpumpen einsetzen?",
-            "answer": "Eintauchpumpen können für verschiedene Arten von Flüssigkeiten eingesetzt werden, etwa Wasser, Brennstoffe, Chemikalien und mehr."
-          },
-          {
-            "_uid": "2b9fa47e2d5e",
-            "component": "faq_item",
-            "question": "Eignen sich Eintauchpumpen zum Fördern schädlicher Stoffe?",
-            "answer": "Ja, Eintauchpumpen lassen sich an die spezifischen Anforderungen für das Fördern schädlicher Stoffe anpassen."
-          },
-          {
-            "_uid": "99c6785dc3c2",
-            "component": "faq_item",
-            "question": "Wofür werden Eintauchpumpen am häufigsten eingesetzt?",
-            "answer": "Eintauchpumpen werden in verschiedenen Branchen und Anwendungen eingesetzt, darunter Wasserbehandlung, industrielle Prozesse, Landwirtschaft und Haushaltsanwendungen."
+            "_uid": "60647fc296f6",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "625a013488f4",
+                "component": "faq",
+                "heading": "Häufige Fragen",
+                "items": [
+                  {
+                    "_uid": "e24bf4f1bc0b",
+                    "component": "faq_item",
+                    "question": "Welchen Vorteil haben Eintauchpumpen gegenüber anderen Pumpentypen?",
+                    "answer": "Eintauchpumpen sind einfach zu installieren, energiesparend, flexibel und erschwinglich, was sie zu einer sehr effizienten Lösung für den Flüssigkeitstransport macht."
+                  },
+                  {
+                    "_uid": "af49ccd2c150",
+                    "component": "faq_item",
+                    "question": "Für welche Arten von Flüssigkeiten lassen sich Eintauchpumpen einsetzen?",
+                    "answer": "Eintauchpumpen können für verschiedene Arten von Flüssigkeiten eingesetzt werden, etwa Wasser, Brennstoffe, Chemikalien und mehr."
+                  },
+                  {
+                    "_uid": "153a3e65962d",
+                    "component": "faq_item",
+                    "question": "Eignen sich Eintauchpumpen zum Fördern schädlicher Stoffe?",
+                    "answer": "Ja, Eintauchpumpen lassen sich an die spezifischen Anforderungen für das Fördern schädlicher Stoffe anpassen."
+                  },
+                  {
+                    "_uid": "0c95f2152dd3",
+                    "component": "faq_item",
+                    "question": "Wofür werden Eintauchpumpen am häufigsten eingesetzt?",
+                    "answer": "Eintauchpumpen werden in verschiedenen Branchen und Anwendungen eingesetzt, darunter Wasserbehandlung, industrielle Prozesse, Landwirtschaft und Haushaltsanwendungen."
+                  }
+                ]
+              }
+            ]
           }
         ]
       }

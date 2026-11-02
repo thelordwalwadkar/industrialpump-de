@@ -8,6 +8,12 @@
   "content": {
     "component": "page_blog_post",
     "h1": "Wartung von Lowara-Pumpen: richtig oder falsch",
+    "hero_image": {
+      "filename": "/img/nl/pomptypes-centrifugaalpompen-bg.webp",
+      "alt": "",
+      "width": 1280,
+      "height": 720
+    },
     "seo_title": "Wartung von Lowara-Pumpen: richtig, Risiken, Intervalle",
     "seo_description": "Wartung von Lowara-Pumpen: Unterschied zwischen richtiger und falscher Wartung, Inspektionsplan und Risiken. Jetzt Inspektion oder Wartungsplan anfragen.",
     "intro": "Richtige Wartung von Lowara-Pumpen ist vorbeugend, periodisch und beruht auf Inspektion und Messung. Der Beitrag zeigt Betreibern und Instandhaltern die Risiken falscher Wartung, einen typischen Inspektionsplan und das Vorgehen der IPG.",
@@ -18,344 +24,419 @@
     },
     "body": [
       {
-        "_uid": "9f9bc3c96053",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Risiken und Lösungen: richtige und falsche Wartung von Lowara-Pumpen"
+        "_uid": "53d683ae65c1",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "4efa53c89555",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "7bbd8574a219",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Risiken und Lösungen: richtige und falsche Wartung von Lowara-Pumpen"
+                        }
+                      ]
+                    }
+                  ]
                 }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Der Unterschied zwischen richtiger und falscher Wartung einer Lowara-Pumpe liegt in Struktur, Häufigkeit und Fachwissen. Richtige Wartung von Lowara-Pumpen ist vorbeugend, periodisch und beruht auf Inspektion und Messungen. Falsche Wartung ist dagegen reaktiv, unregelmäßig oder wird ohne gründliche Analyse von Verschleiß und Belastung ausgeführt."
+              }
+            ]
+          },
+          {
+            "_uid": "d6a09f2eacb5",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "1bda36d7c1e4",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Der Unterschied zwischen richtiger und falscher Wartung einer Lowara-Pumpe liegt in Struktur, Häufigkeit und Fachwissen. Richtige Wartung von Lowara-Pumpen ist vorbeugend, periodisch und beruht auf Inspektion und Messungen. Falsche Wartung ist dagegen reaktiv, unregelmäßig oder wird ohne gründliche Analyse von Verschleiß und Belastung ausgeführt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bei richtiger Wartung werden Verschleißteile rechtzeitig ersetzt, die Pumpe wird ausgerichtet, auf Vibrationen und Leckagen geprüft, und die Anlage wird auf optimalen Betrieb beurteilt. Bei falscher Wartung werden Signale wie Geräusche, Leckagen oder nachlassende Leistung ignoriert. Das erhöht die Wahrscheinlichkeit von Störungen, unerwartetem Ausfall und hohen Reparaturkosten."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Für Unternehmen, in denen Kontinuität entscheidend ist, wirkt sich dieser Unterschied direkt auf Zuverlässigkeit und Kostenkontrolle aus."
+                        }
+                      ]
+                    }
+                  ]
                 }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bei richtiger Wartung werden Verschleißteile rechtzeitig ersetzt, die Pumpe wird ausgerichtet, auf Vibrationen und Leckagen geprüft, und die Anlage wird auf optimalen Betrieb beurteilt. Bei falscher Wartung werden Signale wie Geräusche, Leckagen oder nachlassende Leistung ignoriert. Das erhöht die Wahrscheinlichkeit von Störungen, unerwartetem Ausfall und hohen Reparaturkosten."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Für Unternehmen, in denen Kontinuität entscheidend ist, wirkt sich dieser Unterschied direkt auf Zuverlässigkeit und Kostenkontrolle aus."
-                }
-              ]
-            }
-          ]
-        }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "0c73222e041e",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-lowara-lowara-eshe.webp",
-          "alt": "Lowara-Pumpe der Baureihe ESHE",
-          "width": 500,
-          "height": 500
-        }
+        "_uid": "0f8a7afd6b4e",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "2354f69bb524",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "f98133b92745",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-lowara-lowara-eshe.webp",
+                  "alt": "Lowara-Pumpe der Baureihe ESHE",
+                  "width": 500,
+                  "height": 500
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "92477a6ee0f8",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "389e766f3326",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Risiken falscher Wartung: Folgen für Leistung und Lebensdauer"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Risiken falscher Wartung von Lowara-Pumpen sind größer, als oft angenommen wird. Schlechte Wartung führt nicht nur zu kürzerer Lebensdauer, sondern auch zu geringerer Effizienz und höheren Energiekosten."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Häufige Folgen falscher Wartung sind:"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Beschleunigter Verschleiß von Lagern und Dichtungen"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Unwucht und Vibrationsprobleme"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Kavitation durch falsche Einstellung"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Unvorhergesehene Leckagen"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Kompletter Ausfall während der Produktion"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Eine kleine Leckage, die nicht rechtzeitig behoben wird, kann beispielsweise zu Schäden an Lagerung oder Welle führen. Was als relativ einfacher Servicetermin beginnt, kann sich zu einer kostspieligen Revision oder sogar zum Austausch auswachsen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Erhöhte Kosten durch falsche Wartung entstehen oft indirekt. Dazu zählen Produktionsstillstand, Eillieferungen von Ersatzteilen und der Einsatz von Notlösungen. Gerade deshalb ist strukturierte Wartung von Lowara-Pumpen kein Kostenfaktor, sondern eine Investition in Betriebssicherheit."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "bc9965e924bf",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Risiken falscher Wartung: Folgen für Leistung und Lebensdauer"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Risiken falscher Wartung von Lowara-Pumpen sind größer, als oft angenommen wird. Schlechte Wartung führt nicht nur zu kürzerer Lebensdauer, sondern auch zu geringerer Effizienz und höheren Energiekosten."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Häufige Folgen falscher Wartung sind:"
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
+        "_uid": "08810a062635",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "ab80f4e6a1e7",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "c1f58bba4c37",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Bedeutung strukturierter Inspektion und regelmäßiger Wartung"
+                        }
+                      ]
+                    },
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "Beschleunigter Verschleiß von Lagern und Dichtungen"
+                          "text": "Strukturierte Inspektion von Lowara-Pumpen ist die Grundlage für einen zuverlässigen Betrieb. Durch periodische Wartung nach einem klaren Wartungsplan werden beginnende Probleme frühzeitig erkannt."
                         }
                       ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
+                    },
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "Unwucht und Vibrationsprobleme"
+                          "text": "Ein guter Wartungsplan für Lowara-Pumpen umfasst unter anderem:"
                         }
                       ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
+                    },
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Sichtprüfungen auf Leckagen und Verschleiß"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Kontrolle von Lagern und Dichtungen"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Schwingungsmessungen"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Ausrichtung von Motor und Pumpe"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Kontrolle von Förderstrom und Druck"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Bewertung der Betriebsbedingungen"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "Kavitation durch falsche Einstellung"
+                          "text": "Regelmäßige Wartung von Lowara-Pumpen verhindert, dass sich kleine Abweichungen zu großen Störungen entwickeln. Zudem trägt sie zu einer längeren technischen Lebensdauer und stabilerer Leistung bei."
                         }
                       ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
+                    },
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "Unvorhergesehene Leckagen"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Kompletter Ausfall während der Produktion"
+                          "text": "In Branchen wie Industrie, Gebäudetechnik und Wasseraufbereitung ist Planbarkeit wesentlich. Eine geplante Inspektion ist stets günstiger als ungeplanter Stillstand."
                         }
                       ]
                     }
                   ]
                 }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Eine kleine Leckage, die nicht rechtzeitig behoben wird, kann beispielsweise zu Schäden an Lagerung oder Welle führen. Was als relativ einfacher Servicetermin beginnt, kann sich zu einer kostspieligen Revision oder sogar zum Austausch auswachsen."
+              }
+            ]
+          },
+          {
+            "_uid": "25825f6c6e21",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "082c923f19f6",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/revisie-revisie-9.webp",
+                  "alt": "Inspektion und Revision einer Pumpe in der IPG-Werkstatt",
+                  "width": 1102,
+                  "height": 735
                 }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Erhöhte Kosten durch falsche Wartung entstehen oft indirekt. Dazu zählen Produktionsstillstand, Eillieferungen von Ersatzteilen und der Einsatz von Notlösungen. Gerade deshalb ist strukturierte Wartung von Lowara-Pumpen kein Kostenfaktor, sondern eine Investition in Betriebssicherheit."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Bedeutung strukturierter Inspektion und regelmäßiger Wartung"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Strukturierte Inspektion von Lowara-Pumpen ist die Grundlage für einen zuverlässigen Betrieb. Durch periodische Wartung nach einem klaren Wartungsplan werden beginnende Probleme frühzeitig erkannt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ein guter Wartungsplan für Lowara-Pumpen umfasst unter anderem:"
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Sichtprüfungen auf Leckagen und Verschleiß"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Kontrolle von Lagern und Dichtungen"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Schwingungsmessungen"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Ausrichtung von Motor und Pumpe"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Kontrolle von Förderstrom und Druck"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Bewertung der Betriebsbedingungen"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Regelmäßige Wartung von Lowara-Pumpen verhindert, dass sich kleine Abweichungen zu großen Störungen entwickeln. Zudem trägt sie zu einer längeren technischen Lebensdauer und stabilerer Leistung bei."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "In Branchen wie Industrie, Gebäudetechnik und Wasseraufbereitung ist Planbarkeit wesentlich. Eine geplante Inspektion ist stets günstiger als ungeplanter Stillstand."
-                }
-              ]
-            }
-          ]
-        }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "cc2f15a2512e",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/revisie-revisie-9.webp",
-          "alt": "Inspektion und Revision einer Pumpe in der IPG-Werkstatt",
-          "width": 1102,
-          "height": 735
-        }
-      },
-      {
-        "_uid": "d138ff23c5e7",
+        "_uid": "ebc1cbd0918c",
         "component": "rich_text",
         "content": {
           "type": "doc",
@@ -517,42 +598,61 @@
         }
       },
       {
-        "_uid": "85de345c371d",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/revisie-revisie-4.webp",
-          "alt": "Wartung einer Pumpe in der IPG-Werkstatt",
-          "width": 1102,
-          "height": 735
-        }
-      },
-      {
-        "_uid": "024e3c0f0ff7",
-        "component": "faq",
-        "heading": "Häufige Fragen",
-        "items": [
+        "_uid": "47e27128bc89",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
           {
-            "_uid": "963d1ff2feb6",
-            "component": "faq_item",
-            "question": "Wie oft sollte ich meine Lowara-Pumpe warten lassen?",
-            "answer": "Das Wartungsintervall hängt von Nutzungsintensität, Medium und Betriebsbedingungen ab. In vielen industriellen Anwendungen wird mindestens eine jährliche Inspektion empfohlen, bei intensiver Nutzung öfter."
+            "_uid": "9516eed5ef61",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "c3110b2a609a",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/revisie-revisie-4.webp",
+                  "alt": "Wartung einer Pumpe in der IPG-Werkstatt",
+                  "width": 1102,
+                  "height": 735
+                }
+              }
+            ]
           },
           {
-            "_uid": "49f4c16dca86",
-            "component": "faq_item",
-            "question": "Was sind die ersten Anzeichen falscher Wartung?",
-            "answer": "Ungewöhnliche Geräusche, Vibrationen, Leckagen, nachlassende Leistung oder steigender Energieverbrauch sind deutliche Signale. Diese Anzeichen erfordern eine umgehende Inspektion."
-          },
-          {
-            "_uid": "a2eee2643ee6",
-            "component": "faq_item",
-            "question": "Warum strukturierte Wartung über IPG wählen?",
-            "answer": "IPG verbindet technische Fachkenntnis mit praktischer Erfahrung. Mit einem auf Ihre Anlage zugeschnittenen Wartungsplan minimieren Sie Risiken und verlängern die Lebensdauer Ihrer Lowara-Pumpen."
+            "_uid": "413110b2ea90",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "826de276febc",
+                "component": "faq",
+                "heading": "Häufige Fragen",
+                "items": [
+                  {
+                    "_uid": "6a8853aa3b9b",
+                    "component": "faq_item",
+                    "question": "Wie oft sollte ich meine Lowara-Pumpe warten lassen?",
+                    "answer": "Das Wartungsintervall hängt von Nutzungsintensität, Medium und Betriebsbedingungen ab. In vielen industriellen Anwendungen wird mindestens eine jährliche Inspektion empfohlen, bei intensiver Nutzung öfter."
+                  },
+                  {
+                    "_uid": "be98a8a44ea8",
+                    "component": "faq_item",
+                    "question": "Was sind die ersten Anzeichen falscher Wartung?",
+                    "answer": "Ungewöhnliche Geräusche, Vibrationen, Leckagen, nachlassende Leistung oder steigender Energieverbrauch sind deutliche Signale. Diese Anzeichen erfordern eine umgehende Inspektion."
+                  },
+                  {
+                    "_uid": "bf184c109fd7",
+                    "component": "faq_item",
+                    "question": "Warum strukturierte Wartung über IPG wählen?",
+                    "answer": "IPG verbindet technische Fachkenntnis mit praktischer Erfahrung. Mit einem auf Ihre Anlage zugeschnittenen Wartungsplan minimieren Sie Risiken und verlängern die Lebensdauer Ihrer Lowara-Pumpen."
+                  }
+                ]
+              }
+            ]
           }
         ]
       },
       {
-        "_uid": "5c986a4802a5",
+        "_uid": "0bacdca730fc",
         "component": "rich_text",
         "content": {
           "type": "doc",
@@ -569,12 +669,6 @@
           ]
         }
       }
-    ],
-    "image": {
-      "filename": "/img/nl/pomptypes-centrifugaalpompen-bg.webp",
-      "alt": "Kreiselpumpe, wie sie bei der Wartung von Lowara-Pumpen vorkommt",
-      "width": 1280,
-      "height": 720
-    }
+    ]
   }
 }

@@ -9,6 +9,7 @@ import SpecGroups from '../components/SpecGroups.astro';
 import Figure from '../components/Figure.astro';
 import LinkCards from '../components/LinkCards.astro';
 import QuoteCta from '../components/QuoteCta.astro';
+import { hasOwnCta } from '../lib/page-cta';
 import DownloadList from '../storyblok/DownloadList.astro';
 import Bloks from '../components/Bloks.astro';
 interface Props { story: PageStory<PageProduct>; site: Site }
@@ -54,7 +55,7 @@ const quote = quoteHref(site, story);
 
 {c.downloads?.map((b) => <DownloadList blok={b} />)}
 <Bloks bloks={c.body} site={site} />
-<div class="wrap"><QuoteCta heading={`Angebot für ${c.name} anfordern`} text="Für die Auslegung im Bestand senden Sie uns Typenschild oder Betriebsdaten. Das Formular übernimmt Marke, Serie und Artikelnummer." label="Angebot anfordern" href={quote} /></div>
+{!hasOwnCta(c) && <div class="wrap"><QuoteCta heading={`Angebot für ${c.name} anfordern`} text="Für die Auslegung im Bestand senden Sie uns Typenschild oder Betriebsdaten. Das Formular übernimmt Marke, Serie und Artikelnummer." label="Angebot anfordern" href={quote} /></div>}
 
 {siblings.length > 0 && <section class="section" aria-labelledby="verwandt"><div class="wrap"><h2 id="verwandt">Verwandte Produkte</h2><LinkCards cards={siblings} /></div></section>}
 {series && seriesCount <= 1 && (

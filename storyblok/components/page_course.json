@@ -23,41 +23,49 @@
         "description": "Kurzname für Brotkrumen, Navigation und Karten (z. B. „DIWA-Serie“).",
         "pos": 2
       },
+      "hero_image": {
+        "type": "asset",
+        "filetypes": [
+          "images"
+        ],
+        "description": "Kopfbild (optional): ersetzt das Standardbild hinter Überschrift und Einleitung.",
+        "pos": 3
+      },
       "seo_title": {
         "type": "text",
         "description": "Seitentitel für Google, höchstens 60 Zeichen.",
         "max_length": 60,
         "required": true,
-        "pos": 3
+        "pos": 4
       },
       "seo_description": {
         "type": "textarea",
         "description": "Meta-Beschreibung, höchstens 155 Zeichen.",
         "max_length": 155,
         "required": true,
-        "pos": 4
+        "pos": 5
       },
       "noindex": {
         "type": "boolean",
         "description": "Nur für Sonderfälle: Seite von der Suche ausschließen. Rechtstexte bleiben indexierbar.",
         "default_value": false,
-        "pos": 5
+        "pos": 6
       },
       "goals": {
         "type": "richtext",
         "description": "Lernziele.",
         "rich_markdown": false,
-        "pos": 6
+        "pos": 7
       },
       "audience": {
         "type": "text",
         "description": "Zielgruppe.",
-        "pos": 7
+        "pos": 8
       },
       "duration": {
         "type": "text",
         "description": "Dauer.",
-        "pos": 8
+        "pos": 9
       },
       "mode": {
         "type": "option",
@@ -77,17 +85,17 @@
           }
         ],
         "description": "Format.",
-        "pos": 9
+        "pos": 10
       },
       "level": {
         "type": "text",
         "description": "Niveau.",
-        "pos": 10
+        "pos": 11
       },
       "dates": {
         "type": "textarea",
         "description": "Termine (nur reale Termine).",
-        "pos": 11
+        "pos": 12
       },
       "body": {
         "type": "bloks",
@@ -107,10 +115,11 @@
           "button_row",
           "pump_finder",
           "logo_carousel",
-          "usp_grid"
+          "usp_grid",
+          "section_row"
         ],
         "description": "Optionale Zusatz-Bausteine. Die Pflicht-Abschnitte sind im Template fest eingebaut.",
-        "pos": 12
+        "pos": 13
       },
       "cta": {
         "type": "bloks",
@@ -120,7 +129,7 @@
         ],
         "description": "Optionales Abschluss-Banner. Ohne Eintrag erscheint der Standard-CTA des Templates.",
         "maximum": 1,
-        "pos": 13
+        "pos": 14
       },
       "tab-seo": {
         "type": "tab",

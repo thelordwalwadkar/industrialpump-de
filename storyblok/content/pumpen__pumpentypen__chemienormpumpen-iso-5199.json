@@ -15,55 +15,446 @@
     "topic_kind": "pumpentyp",
     "body": [
       {
-        "_uid": "7c6cb407c0f5",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Chemienormpumpen sind speziell zum Fördern von Chemikalien konstruiert. Sie bestehen aus korrosionsbeständigen Werkstoffen und erfüllen strenge Sicherheitsnormen."
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
+        "_uid": "878a7137b7ea",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "4c8bb9c76a91",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "3ed09b8b622c",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "Lowara-Pumpen",
-                          "marks": [
+                          "text": "Chemienormpumpen sind speziell zum Fördern von Chemikalien konstruiert. Sie bestehen aus korrosionsbeständigen Werkstoffen und erfüllen strenge Sicherheitsnormen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "18ecdcaf0476",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "3b7623535450",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
                             {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/marken/lowara",
-                                "linktype": "url"
-                              }
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Lowara-Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/marken/lowara",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Vogel-Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/marken/vogel",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Grundfos-Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/marken/grundfos",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Sulzer-Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/marken/sulzer",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
                             }
                           ]
                         }
                       ]
                     }
                   ]
-                },
-                {
-                  "type": "list_item",
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "53d46bfada11",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "f9179d10366d",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "18b101583dfb",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Internationaler Standard für sichere und zuverlässige Chemiepumpen: Chemienorm ISO 5199"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "60cbaf388cc3",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ba8211f5ab90",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "Vogel-Pumpen",
+                          "text": "Die Chemienorm ISO 5199 für Pumpen ist ein internationaler Standard, der sicherstellen soll, dass Chemiepumpen sicher und zuverlässig arbeiten. Die Norm beschreibt die Anforderungen an Konstruktion, Leistung und Abmessungen von Pumpen, die unter anderem zum Fördern chemischer Flüssigkeiten eingesetzt werden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ein wichtiger Teil der Norm ist, dass Chemiepumpen strenge Sicherheitsanforderungen erfüllen und aus korrosionsbeständigen Werkstoffen gefertigt sein müssen. Dadurch sind die Pumpen nicht nur im Betrieb sicher, sondern auch langlebig."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Hersteller von Chemiepumpen müssen die Norm ISO 5199 erfüllen, um ihre Produkte auf verschiedenen Märkten weltweit verkaufen zu können. Das soll sicherstellen, dass Kunden zuverlässige und sichere Pumpen kaufen, die internationalen Normen entsprechen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "b9b744de4bb6",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "285cf342e0b3",
+            "component": "section_column",
+            "icon": "fa-shield-check",
+            "content": [
+              {
+                "_uid": "6619d8c5734e",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Sicherheit und Zuverlässigkeit nach ISO 5199",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Chemienormpumpen erfüllen den internationalen Standard ISO 5199, der einen sicheren und zuverlässigen Betrieb beim Fördern chemischer Flüssigkeiten sicherstellen soll. Das sorgt in anspruchsvollen industriellen Umgebungen für hohe Sicherheit."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "4b7147ddd758",
+            "component": "section_column",
+            "icon": "fa-check",
+            "content": [
+              {
+                "_uid": "494340030c60",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Langlebigkeit durch korrosionsbeständige Werkstoffe",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Aus korrosionsbeständigen Werkstoffen gefertigt, widerstehen diese Pumpen aggressiven Chemikalien, was zu einer längeren Lebensdauer und weniger Wartung führt."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "ba036a2a48a0",
+            "component": "section_column",
+            "icon": "fa-sync-alt",
+            "content": [
+              {
+                "_uid": "1ec11d65340d",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flexibilität bei den Anwendungen",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Chemienormpumpen eignen sich für anspruchsvolle Anwendungen und können mit verschiedenen Gleitringdichtungen und Antrieben ausgeführt werden. Sie sind in unterschiedlichen Branchen einsetzbar, etwa in der chemischen, petrochemischen, Stahl- und Papierindustrie sowie in der Lebensmittelindustrie."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "41986dd09079",
+            "component": "section_column",
+            "icon": "fa-plug",
+            "content": [
+              {
+                "_uid": "c519071fabbe",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kompatibilität und einfache Integration",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die neue Baureihe Lowara e-IXP beruht auf langjähriger Erfahrung und moderner Technik und ist so konzipiert, dass sie sich einfach in bestehende Systeme integrieren lässt. Diese Pumpen sind mit Standard-IEC-Motoren kompatibel, was Austausch und Installation vereinfacht."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "c4a48be4b056",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "e04c3da5be6b",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "bb90f3b929eb",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Was ist eine Chemienormpumpe?"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Der Begriff Chemienormpumpe ist leicht zu erklären: Diese Pumpen sind nach einer ISO-, DIN- und/oder ANSI-Norm konstruiert und eignen sich dadurch besonders für das Fördern chemischer Flüssigkeiten."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Goulds",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/marken/goulds",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " und "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Vogel",
                           "marks": [
                             {
                               "type": "link",
@@ -73,953 +464,878 @@
                               }
                             }
                           ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " sind bekannte Marken in der chemischen Industrie. Seit Vogel zu Xylem gehört, wird dieser Hersteller unter der Marke "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Lowara",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/marken/lowara",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " mit einer neuen Chemienormpumpe auftreten, die den aktuellen Normen und dem heutigen Stand der Technik entspricht. Diese Lowara-e-IXP-Pumpen sind voraussichtlich mit Ihren bestehenden Chemienormpumpen austauschbar."
                         }
                       ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Vorteile von Chemienormpumpen"
+                        }
+                      ]
+                    },
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "Grundfos-Pumpen",
-                          "marks": [
+                          "text": "Der Vorteil von Chemienormpumpen nach einer ISO-Norm ist, dass die Pumpen:"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
                             {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/marken/grundfos",
-                                "linktype": "url"
-                              }
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "für anspruchsvolle Anwendungen und chemische Flüssigkeiten geeignet sind."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "für verschiedene Antriebe geeignet sind."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "häufig mit verschiedenen Gleitringdichtungen und Abdichtungen ausgeführt werden können."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "wenig Wartung erfordern."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Allerdings ist bei diesen Pumpen eine gute Ausrichtung wichtig, und dieser Pumpentyp eignet sich nur für die horizontale Aufstellung."
+                                }
+                              ]
                             }
                           ]
                         }
                       ]
                     }
                   ]
-                },
-                {
-                  "type": "list_item",
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "f466f9883398",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "c54e39b4c8c1",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/segmenten-chemische-industrie.webp",
+                  "alt": "Chemiewerk bei Sonnenuntergang mit Chemienormpumpen nach ISO 5199",
+                  "width": 1280,
+                  "height": 720
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "9c0ef1cfe743",
+        "component": "section_row",
+        "layout": "carousel",
+        "columns": [
+          {
+            "_uid": "a80aa0282d36",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "fa643fdbd2ad",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "Sulzer-Pumpen",
+                          "text": "Zuverlässiger und proaktiver Service von IPG!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Leiter Technischer Dienst schätze ich die Zuverlässigkeit der Herstellerunabhängigkeit von IPG und die proaktive Herangehensweise. Der schnelle Service ist in unserer Branche entscheidend, in der jede Minute Stillstand zählt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Leiter Technischer Dienst in einem Chemiewerk."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "2599a5442a9b",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "68979c87a2d1",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG ist ein verlässlicher Partner bei Beschaffung und Optimierung!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Einkaufsleiter schätze ich IPG als Partner, der unseren Bedarf versteht und schnell liefert. Die Fachkenntnis und Beratung haben unsere Prozesse optimiert."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Einkaufsleiter bei einem Lebensmittelhersteller."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "36f323d1f9cd",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "af0447bd820e",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG ist ein unverzichtbarer Partner für effiziente Produktion!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Produktionsleiter schätze ich IPG als unverzichtbaren Partner für Effizienz und Verfügbarkeit. Das fachkundige Team hat uns mit den passenden Pumpen und mit Service für eine gleichbleibende Produktion unterstützt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Projektleiter in einer Papierfabrik."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "55ac07232080",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "5dde08db4737",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Jeroen von IPG ist ein entscheidender Partner für unsere Versorgungsqualität!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Facility Manager schätze ich Jeroen von IPG als wichtige Stütze bei der Wartung unserer Pumpensysteme, was zu funktionsfähigen und effizienten Systemen führt, die unsere Versorgungsqualität stärken."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Facility Manager in einem Krankenhaus."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "f50578193f5c",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "d08afcf248fe",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Hervorragende Qualität und Konformität mit ISO-Normen!",
                           "marks": [
                             {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/marken/sulzer",
-                                "linktype": "url"
-                              }
+                              "type": "bold"
                             }
                           ]
                         }
                       ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG bietet Chemienormpumpen, die alle unsere Anforderungen an chemische Prozesse erfüllen. Das Team ist fachkundig und hat uns geholfen, die richtige Pumpe für unsere spezifischen Anwendungen auszuwählen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Technischer Berater",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " bei einem petrochemischen Unternehmen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
                     }
                   ]
                 }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Internationaler Standard für sichere und zuverlässige Chemiepumpen: Chemienorm ISO 5199"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Chemienorm ISO 5199 für Pumpen ist ein internationaler Standard, der sicherstellen soll, dass Chemiepumpen sicher und zuverlässig arbeiten. Die Norm beschreibt die Anforderungen an Konstruktion, Leistung und Abmessungen von Pumpen, die unter anderem zum Fördern chemischer Flüssigkeiten eingesetzt werden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ein wichtiger Teil der Norm ist, dass Chemiepumpen strenge Sicherheitsanforderungen erfüllen und aus korrosionsbeständigen Werkstoffen gefertigt sein müssen. Dadurch sind die Pumpen nicht nur im Betrieb sicher, sondern auch langlebig."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Hersteller von Chemiepumpen müssen die Norm ISO 5199 erfüllen, um ihre Produkte auf verschiedenen Märkten weltweit verkaufen zu können. Das soll sicherstellen, dass Kunden zuverlässige und sichere Pumpen kaufen, die internationalen Normen entsprechen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Sicherheit und Zuverlässigkeit nach ISO 5199",
-                  "marks": [
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "7d772d1f59f7",
+        "component": "cta_band",
+        "heading": "Unverbindlich Kontakt aufnehmen",
+        "text": "Wir beraten Sie gern zu Auswahl, Ersatz und Revision Ihrer Pumpe.",
+        "button_label": "Kontakt aufnehmen",
+        "button_link": {
+          "fieldtype": "multilink",
+          "linktype": "url",
+          "url": "/kontakt",
+          "cached_url": "/kontakt"
+        },
+        "variant": "primary"
+      },
+      {
+        "_uid": "2b1f201e1161",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "52e6a2f7b48f",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "cccea349f40a",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
                     {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Chemienormpumpen erfüllen den internationalen Standard ISO 5199, der einen sicheren und zuverlässigen Betrieb beim Fördern chemischer Flüssigkeiten sicherstellen soll. Das sorgt in anspruchsvollen industriellen Umgebungen für hohe Sicherheit."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Langlebigkeit durch korrosionsbeständige Werkstoffe",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Aus korrosionsbeständigen Werkstoffen gefertigt, widerstehen diese Pumpen aggressiven Chemikalien, was zu einer längeren Lebensdauer und weniger Wartung führt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Flexibilität bei den Anwendungen",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Chemienormpumpen eignen sich für anspruchsvolle Anwendungen und können mit verschiedenen Gleitringdichtungen und Antrieben ausgeführt werden. Sie sind in unterschiedlichen Branchen einsetzbar, etwa in der chemischen, petrochemischen, Stahl- und Papierindustrie sowie in der Lebensmittelindustrie."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kompatibilität und einfache Integration",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die neue Baureihe Lowara e-IXP beruht auf langjähriger Erfahrung und moderner Technik und ist so konzipiert, dass sie sich einfach in bestehende Systeme integrieren lässt. Diese Pumpen sind mit Standard-IEC-Motoren kompatibel, was Austausch und Installation vereinfacht."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Was ist eine Chemienormpumpe?"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Der Begriff Chemienormpumpe ist leicht zu erklären: Diese Pumpen sind nach einer ISO-, DIN- und/oder ANSI-Norm konstruiert und eignen sich dadurch besonders für das Fördern chemischer Flüssigkeiten."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Goulds",
-                  "marks": [
-                    {
-                      "type": "link",
+                      "type": "heading",
                       "attrs": {
-                        "href": "/pumpen/marken/goulds",
-                        "linktype": "url"
-                      }
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " und "
-                },
-                {
-                  "type": "text",
-                  "text": "Vogel",
-                  "marks": [
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "DIN-, ISO-, ANSI- und API-Chemienormen"
+                        }
+                      ]
+                    },
                     {
-                      "type": "link",
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Pumpen sind nach vielen Normen und Standards erhältlich. So gibt es zum Beispiel die folgenden Normen:"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "DIN 24255 für Normpumpen zum Fördern von Wasser oder ähnlichen Flüssigkeiten."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "DIN 24256 als „Chemienorm“; diese Norm gilt für Pumpen, die für anspruchsvollere Anwendungen, zum Beispiel mit Chemikalien, geeignet sind."
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Eine weitere wichtige Norm ist der "
+                        },
+                        {
+                          "type": "text",
+                          "text": "API",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/pumpentypen/api-pumpen",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "-Plan. Er legt fest, wie die Gleitringdichtung, die dafür sorgt, dass die Flüssigkeit aus dem Pumpengehäuse nicht zum Motor gelangt, gekühlt wird."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Neben diesen Normen gibt es auch ANSI-Standards, die vom American National Standards Institute (ANSI) festgelegt werden. Diese Non-Profit-Organisation stellt auch die Anforderungen an eine ISO-Norm, zum Beispiel bei einer Chemienormpumpe."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
                       "attrs": {
-                        "href": "/pumpen/marken/vogel",
-                        "linktype": "url"
-                      }
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Weitere Informationen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ist noch etwas unklar, wünschen Sie weitere Informationen zu Chemienormpumpen oder möchten Sie ein Angebot für eine Pumpe, die der ISO-Norm entspricht? Dann nehmen Sie unverbindlich Kontakt mit IPG auf: +31 251 222 566 oder info@industrialpumps.nl."
+                        }
+                      ]
                     }
                   ]
-                },
-                {
-                  "type": "text",
-                  "text": " sind bekannte Marken in der chemischen Industrie. Seit Vogel zu Xylem gehört, wird dieser Hersteller unter der Marke "
-                },
-                {
-                  "type": "text",
-                  "text": "Lowara",
-                  "marks": [
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "4483e8211544",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "1bdc9a8e22ba",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
                     {
-                      "type": "link",
+                      "type": "heading",
                       "attrs": {
-                        "href": "/pumpen/marken/lowara",
-                        "linktype": "url"
-                      }
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " mit einer neuen Chemienormpumpe auftreten, die den aktuellen Normen und dem heutigen Stand der Technik entspricht. Diese Lowara-e-IXP-Pumpen sind voraussichtlich mit Ihren bestehenden Chemienormpumpen austauschbar."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Vorteile von Chemienormpumpen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Der Vorteil von Chemienormpumpen nach einer ISO-Norm ist, dass die Pumpen:"
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
+                        "level": 2
+                      },
                       "content": [
                         {
                           "type": "text",
-                          "text": "für anspruchsvolle Anwendungen und chemische Flüssigkeiten geeignet sind."
+                          "text": "Anwendungen von DIN- und ISO-Pumpen"
                         }
                       ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
+                    },
                     {
-                      "type": "paragraph",
+                      "type": "bullet_list",
                       "content": [
                         {
-                          "type": "text",
-                          "text": "für verschiedene Antriebe geeignet sind."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Chemische Industrie"
+                                }
+                              ]
+                            }
+                          ]
+                        },
                         {
-                          "type": "text",
-                          "text": "häufig mit verschiedenen Gleitringdichtungen und Abdichtungen ausgeführt werden können."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Petrochemische Industrie"
+                                }
+                              ]
+                            }
+                          ]
+                        },
                         {
-                          "type": "text",
-                          "text": "wenig Wartung erfordern."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Stahlindustrie"
+                                }
+                              ]
+                            }
+                          ]
+                        },
                         {
-                          "type": "text",
-                          "text": "Allerdings ist bei diesen Pumpen eine gute Ausrichtung wichtig, und dieser Pumpentyp eignet sich nur für die horizontale Aufstellung."
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "5bd220c77178",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/segmenten-chemische-industrie.webp",
-          "alt": "Chemiewerk bei Sonnenuntergang mit Chemienormpumpen nach ISO 5199",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      {
-        "_uid": "e7c8eeef632b",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zuverlässiger und proaktiver Service von IPG!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Leiter Technischer Dienst schätze ich die Zuverlässigkeit der Herstellerunabhängigkeit von IPG und die proaktive Herangehensweise. Der schnelle Service ist in unserer Branche entscheidend, in der jede Minute Stillstand zählt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Leiter Technischer Dienst in einem Chemiewerk."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG ist ein verlässlicher Partner bei Beschaffung und Optimierung!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Einkaufsleiter schätze ich IPG als Partner, der unseren Bedarf versteht und schnell liefert. Die Fachkenntnis und Beratung haben unsere Prozesse optimiert."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Einkaufsleiter bei einem Lebensmittelhersteller."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG ist ein unverzichtbarer Partner für effiziente Produktion!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Produktionsleiter schätze ich IPG als unverzichtbaren Partner für Effizienz und Verfügbarkeit. Das fachkundige Team hat uns mit den passenden Pumpen und mit Service für eine gleichbleibende Produktion unterstützt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Projektleiter in einer Papierfabrik."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Jeroen von IPG ist ein entscheidender Partner für unsere Versorgungsqualität!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Facility Manager schätze ich Jeroen von IPG als wichtige Stütze bei der Wartung unserer Pumpensysteme, was zu funktionsfähigen und effizienten Systemen führt, die unsere Versorgungsqualität stärken."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Facility Manager in einem Krankenhaus."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Hervorragende Qualität und Konformität mit ISO-Normen!",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG bietet Chemienormpumpen, die alle unsere Anforderungen an chemische Prozesse erfüllen. Das Team ist fachkundig und hat uns geholfen, die richtige Pumpe für unsere spezifischen Anwendungen auszuwählen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Technischer Berater",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " bei einem petrochemischen Unternehmen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 4
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Unverbindlich Kontakt aufnehmen"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "DIN-, ISO-, ANSI- und API-Chemienormen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Pumpen sind nach vielen Normen und Standards erhältlich. So gibt es zum Beispiel die folgenden Normen:"
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Papierindustrie"
+                                }
+                              ]
+                            }
+                          ]
+                        },
                         {
-                          "type": "text",
-                          "text": "DIN 24255 für Normpumpen zum Fördern von Wasser oder ähnlichen Flüssigkeiten."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Lebensmittelindustrie"
+                                }
+                              ]
+                            }
+                          ]
+                        },
                         {
-                          "type": "text",
-                          "text": "DIN 24256 als „Chemienorm“; diese Norm gilt für Pumpen, die für anspruchsvollere Anwendungen, zum Beispiel mit Chemikalien, geeignet sind."
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Allgemeine Anwendungen"
+                                }
+                              ]
+                            }
+                          ]
                         }
                       ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Eine weitere wichtige Norm ist der "
-                },
-                {
-                  "type": "text",
-                  "text": "API",
-                  "marks": [
+                    },
                     {
-                      "type": "link",
+                      "type": "heading",
                       "attrs": {
-                        "href": "/pumpen/pumpentypen/api-pumpen",
-                        "linktype": "url"
-                      }
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": "-Plan. Er legt fest, wie die Gleitringdichtung, die dafür sorgt, dass die Flüssigkeit aus dem Pumpengehäuse nicht zum Motor gelangt, gekühlt wird."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Neben diesen Normen gibt es auch ANSI-Standards, die vom American National Standards Institute (ANSI) festgelegt werden. Diese Non-Profit-Organisation stellt auch die Anforderungen an eine ISO-Norm, zum Beispiel bei einer Chemienormpumpe."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Weitere Informationen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ist noch etwas unklar, wünschen Sie weitere Informationen zu Chemienormpumpen oder möchten Sie ein Angebot für eine Pumpe, die der ISO-Norm entspricht? Dann nehmen Sie unverbindlich Kontakt mit IPG auf: [[PLATZHALTER: Telefon]] oder [[PLATZHALTER: E-Mail]]."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Anwendungen von DIN- und ISO-Pumpen"
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Vogel-Chemienormpumpen"
+                        }
+                      ]
+                    },
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "Chemische Industrie"
+                          "text": "Bekannte und zuverlässige Chemienormpumpen sind die der Marke Vogel. Die Pumpen Vogel LSN, LSB und LN werden seit Jahren in der chemischen Industrie häufig gewählt. Viele dieser Pumpen wurden wegen ihrer Zuverlässigkeit und Lebensdauer installiert."
                         }
                       ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
+                    },
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "Petrochemische Industrie"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Stahlindustrie"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Papierindustrie"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Lebensmittelindustrie"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Allgemeine Anwendungen"
+                          "text": "Vogel-Pumpen wurden im Lauf der Jahre bei Xylem untergebracht, dem Mutterunternehmen unter anderem von Lowara und Flygt. Wegen des fortgesetzten Fokus von Xylem auf den Industriemarkt werden die Vogel-Pumpen künftig unter der Marke Lowara verkauft. Neu ist die 2021 eingeführte Baureihe Lowara e-IXP. Diese Baureihe von Chemienormpumpen beruht auf der langjährigen Erfahrung von Xylem/Vogel in der Entwicklung von Chemienormpumpen und erfüllt die neuesten Anforderungen und modernsten Technologien. Zur Baureihe e-IXP gehören verschiedene Pumpentypen, darunter die Lowara e-IXP. Diese einstufige horizontale Pumpe mit freiem Wellenende lässt sich an jeden Standard-IEC-Motor koppeln und ist eine Option für den Austausch Ihrer bestehenden (Vogel-)Pumpe nach ISO 2858."
                         }
                       ]
                     }
                   ]
                 }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Vogel-Chemienormpumpen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bekannte und zuverlässige Chemienormpumpen sind die der Marke Vogel. Die Pumpen Vogel LSN, LSB und LN werden seit Jahren in der chemischen Industrie häufig gewählt. Viele dieser Pumpen wurden wegen ihrer Zuverlässigkeit und Lebensdauer installiert."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Vogel-Pumpen wurden im Lauf der Jahre bei Xylem untergebracht, dem Mutterunternehmen unter anderem von Lowara und Flygt. Wegen des fortgesetzten Fokus von Xylem auf den Industriemarkt werden die Vogel-Pumpen künftig unter der Marke Lowara verkauft. Neu ist die 2021 eingeführte Baureihe Lowara e-IXP. Diese Baureihe von Chemienormpumpen beruht auf der langjährigen Erfahrung von Xylem/Vogel in der Entwicklung von Chemienormpumpen und erfüllt die neuesten Anforderungen und modernsten Technologien. Zur Baureihe e-IXP gehören verschiedene Pumpentypen, darunter die Lowara e-IXP. Diese einstufige horizontale Pumpe mit freiem Wellenende lässt sich an jeden Standard-IEC-Motor koppeln und ist eine Option für den Austausch Ihrer bestehenden (Vogel-)Pumpe nach ISO 2858."
-                }
-              ]
-            }
-          ]
-        }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "32fc2ba18a5b",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-lowara-lowara-e-ixp-2.webp",
-          "alt": "Lowara e-IXP Chemienormpumpe",
-          "width": 500,
-          "height": 500
-        }
+        "_uid": "a46e80daa33c",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "ec7a3c0d71c9",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "770cb31bf27a",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-lowara-lowara-e-ixp-2.webp",
+                  "alt": "Lowara e-IXP Chemienormpumpe",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "7a878feeca1a",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Lowara-Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "1ecb275c73c5",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "a8ac6b05ac99",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-vogel-vogel-lsn.webp",
+                  "alt": "Vogel Chemienormpumpe für zuverlässige chemische Anwendungen",
+                  "width": 150,
+                  "height": 145
+                }
+              },
+              {
+                "_uid": "a5d24af7ef69",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Vogel-Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "1df37599da73",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ef17bbc78540",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-sulzer-sulzer-iso.webp",
+                  "alt": "Sulzer Chemienormpumpe nach ISO 5199 für Anwendungen in der chemischen Industrie",
+                  "width": 827,
+                  "height": 827
+                }
+              },
+              {
+                "_uid": "6b9167732cbc",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Sulzer-Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "1c316e75e2cb",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "0e53f9937b97",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-grundfos-grundfos-iso.webp",
+                  "alt": "Grundfos Chemienormpumpe nach ISO 5199 für chemische Prozesse",
+                  "width": 400,
+                  "height": 400
+                }
+              },
+              {
+                "_uid": "5287b3bb3e69",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Grundfos-Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "91e77926cc4c",
+        "_uid": "cd7aceabbd98",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Lowara-Pumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "2bc4f1705d7f",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-vogel-vogel-lsn.webp",
-          "alt": "Vogel Chemienormpumpe für zuverlässige chemische Anwendungen",
-          "width": 150,
-          "height": 145
-        }
-      },
-      {
-        "_uid": "ef3f73970abe",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Vogel-Pumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "b6f601ed5499",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-sulzer-sulzer-iso.webp",
-          "alt": "Sulzer Chemienormpumpe nach ISO 5199 für Anwendungen in der chemischen Industrie",
-          "width": 827,
-          "height": 827
-        }
-      },
-      {
-        "_uid": "2e360e0ce04d",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Sulzer-Pumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "6ed780ff20b9",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-grundfos-grundfos-iso.webp",
-          "alt": "Grundfos Chemienormpumpe nach ISO 5199 für chemische Prozesse",
-          "width": 400,
-          "height": 400
-        }
-      },
-      {
-        "_uid": "8dbd8aa0723b",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Grundfos-Pumpen lesen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -1066,43 +1382,62 @@
         }
       },
       {
-        "_uid": "2c1cd2c6f30e",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/segmenten-powersupply-3.webp",
-          "alt": "Industrieanlage mit Chemienormpumpen für Anwendungen nach ISO 5199",
-          "width": 1000,
-          "height": 668
-        }
-      },
-      {
-        "_uid": "8a0c6b385656",
-        "component": "faq",
-        "heading": "Häufige Fragen",
-        "items": [
+        "_uid": "a3a8cef0e79f",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
           {
-            "_uid": "9082520a0e3b",
-            "component": "faq_item",
-            "question": "Was sind Chemienormpumpen?",
-            "answer": "Chemienormpumpen sind Pumpen, die speziell zum Fördern gefährlicher Flüssigkeiten wie chemischer Stoffe und aggressiver Medien konstruiert sind. Diese Pumpen müssen strenge Sicherheits- und Leistungsnormen erfüllen, um einen sicheren und zuverlässigen Betrieb zu gewährleisten."
+            "_uid": "1c6248893496",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ad1129135f9f",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/segmenten-powersupply-3.webp",
+                  "alt": "Industrieanlage mit Chemienormpumpen für Anwendungen nach ISO 5199",
+                  "width": 1000,
+                  "height": 668
+                }
+              }
+            ]
           },
           {
-            "_uid": "8b03efd6063a",
-            "component": "faq_item",
-            "question": "Was ist die Norm ISO 5199?",
-            "answer": "ISO 5199 ist eine internationale Norm, die spezifische Anforderungen an Konstruktion, Leistung und Abmessungen von Chemiepumpen beschreibt. Die Norm stellt hohe Anforderungen an die Sicherheit und Zuverlässigkeit dieser Pumpen und gilt sowohl für Kreiselpumpen als auch für Verdrängerpumpen."
-          },
-          {
-            "_uid": "7d8c5232214b",
-            "component": "faq_item",
-            "question": "Warum sind Chemienormpumpen wichtig?",
-            "answer": "Chemienormpumpen sind wichtig, weil sie zum Fördern gefährlicher und aggressiver Flüssigkeiten eingesetzt werden. Es ist wesentlich, dass diese Pumpen sicher und zuverlässig arbeiten, um Unfälle und Schäden für Mensch und Umwelt zu vermeiden. Chemienormpumpen sind speziell dafür konstruiert und gebaut, diese Anforderungen zu erfüllen."
-          },
-          {
-            "_uid": "de2d3e1994ca",
-            "component": "faq_item",
-            "question": "Welche Werkstoffe werden bei der Herstellung von Chemienormpumpen verwendet?",
-            "answer": "Bei der Herstellung von Chemienormpumpen werden Werkstoffe verwendet, die gegen Korrosion und Chemikalien beständig sind, etwa Edelstahl, Kunststoff und Keramik. Diese Werkstoffe sind langlebig und halten dem Dauereinsatz bei aggressiven Medien stand."
+            "_uid": "fa7861385a61",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "44ab456c7808",
+                "component": "faq",
+                "heading": "Häufige Fragen",
+                "items": [
+                  {
+                    "_uid": "50bcfb036dc6",
+                    "component": "faq_item",
+                    "question": "Was sind Chemienormpumpen?",
+                    "answer": "Chemienormpumpen sind Pumpen, die speziell zum Fördern gefährlicher Flüssigkeiten wie chemischer Stoffe und aggressiver Medien konstruiert sind. Diese Pumpen müssen strenge Sicherheits- und Leistungsnormen erfüllen, um einen sicheren und zuverlässigen Betrieb zu gewährleisten."
+                  },
+                  {
+                    "_uid": "b548bec46dc6",
+                    "component": "faq_item",
+                    "question": "Was ist die Norm ISO 5199?",
+                    "answer": "ISO 5199 ist eine internationale Norm, die spezifische Anforderungen an Konstruktion, Leistung und Abmessungen von Chemiepumpen beschreibt. Die Norm stellt hohe Anforderungen an die Sicherheit und Zuverlässigkeit dieser Pumpen und gilt sowohl für Kreiselpumpen als auch für Verdrängerpumpen."
+                  },
+                  {
+                    "_uid": "8b7aecbafc06",
+                    "component": "faq_item",
+                    "question": "Warum sind Chemienormpumpen wichtig?",
+                    "answer": "Chemienormpumpen sind wichtig, weil sie zum Fördern gefährlicher und aggressiver Flüssigkeiten eingesetzt werden. Es ist wesentlich, dass diese Pumpen sicher und zuverlässig arbeiten, um Unfälle und Schäden für Mensch und Umwelt zu vermeiden. Chemienormpumpen sind speziell dafür konstruiert und gebaut, diese Anforderungen zu erfüllen."
+                  },
+                  {
+                    "_uid": "22fae6004860",
+                    "component": "faq_item",
+                    "question": "Welche Werkstoffe werden bei der Herstellung von Chemienormpumpen verwendet?",
+                    "answer": "Bei der Herstellung von Chemienormpumpen werden Werkstoffe verwendet, die gegen Korrosion und Chemikalien beständig sind, etwa Edelstahl, Kunststoff und Keramik. Diese Werkstoffe sind langlebig und halten dem Dauereinsatz bei aggressiven Medien stand."
+                  }
+                ]
+              }
+            ]
           }
         ]
       }

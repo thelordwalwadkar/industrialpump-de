@@ -8,114 +8,154 @@
   "content": {
     "component": "page_blog_post",
     "h1": "SICcast: Verschleißschutz für Pumpen und Rohrleitungen",
+    "hero_image": {
+      "filename": "/img/nl/siccast-header.webp",
+      "alt": "",
+      "width": 1280,
+      "height": 400
+    },
     "seo_title": "SICcast: Verschleißschutz für Pumpen und Rohrleitungen",
     "seo_description": "SICcast von Düchting: Siliciumcarbid-Verbundwerkstoff gegen Verschleiß und Korrosion in Pumpen. Jetzt Beratung oder Revision bei IPG anfragen.",
     "intro": "SICcast ist ein keramischer Verbundwerkstoff aus Siliciumcarbid von Düchting, der Pumpenbauteile vor Verschleiß, Korrosion und chemischer Belastung schützt. IPG liefert Düchting-Pumpen, Ersatzteile und Revisionen mit SICcast und berät zur Eignung für Ihre Anwendung.",
     "publication_date": "2025-11-14",
     "article": {
       "type": "doc",
-      "content": []
-    },
-    "body": [
-      {
-        "_uid": "82f8284efb95",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
           "content": [
             {
-              "type": "paragraph",
-              "content": [
+              "type": "text",
+              "text": "Bei IPG haben wir langjährige Erfahrung mit der Lieferung, Wartung und Revision von Düchting-Pumpen. Einer der innovativsten und langlebigsten Werkstoffe, für die Düchting weltweit bekannt ist, ist SICcast – ein keramischer Verbundwerkstoff, der außergewöhnlichen Schutz vor Verschleiß und Korrosion bietet."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "In diesem Artikel erklären wir, was SICcast ist, wofür es verwendet wird, "
+            },
+            {
+              "type": "text",
+              "text": "und warum es in vielen Fällen die wirtschaftlichste Wahl ist",
+              "marks": [
                 {
-                  "type": "text",
-                  "text": "Bei IPG haben wir langjährige Erfahrung mit der Lieferung, Wartung und Revision von Düchting-Pumpen. Einer der innovativsten und langlebigsten Werkstoffe, für die Düchting weltweit bekannt ist, ist SICcast – ein keramischer Verbundwerkstoff, der außergewöhnlichen Schutz vor Verschleiß und Korrosion bietet."
+                  "type": "bold"
                 }
               ]
             },
             {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "In diesem Artikel erklären wir, was SICcast ist, wofür es verwendet wird, "
-                },
-                {
-                  "type": "text",
-                  "text": "und warum es in vielen Fällen die wirtschaftlichste Wahl ist",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": "."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Was ist SICcast und was macht es besonders?"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "SICcast ist ein hochwertiger keramischer Verbundwerkstoff, der von "
-                },
-                {
-                  "type": "text",
-                  "text": "Düchting Pumpen",
-                  "marks": [
-                    {
-                      "type": "link",
-                      "attrs": {
-                        "href": "/pumpen/marken/duchting",
-                        "linktype": "url"
-                      }
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " entwickelt wurde, speziell für Anwendungen, bei denen Verschleiß, Korrosion und chemische Belastung eine große Rolle spielen. Im Gegensatz zu herkömmlichen Stahlsorten oder Gummiauskleidungen bietet SICcast eine bisher unerreichte Kombination aus Härte, chemischer Beständigkeit und thermischer Stabilität."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bei IPG sind wir offizieller Lieferant von Düchting-Pumpen, Ersatzteilen und Revisionen. In unserer täglichen Praxis sehen wir, wie SICcast in anspruchsvollen industriellen Umgebungen den Unterschied macht. Man denke an Anlagen, in denen Schlämme (Slurries), Säuren oder abrasive Partikel durch das System gefördert werden, Situationen, in denen Standardwerkstoffe schnell versagen."
-                }
-              ]
+              "type": "text",
+              "text": "."
             }
           ]
         }
+      ]
+    },
+    "body": [
+      {
+        "_uid": "79394632ac7c",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "6792a5557fea",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "2940a2358434",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Was ist SICcast und was macht es besonders?"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "SICcast ist ein hochwertiger keramischer Verbundwerkstoff, der von "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Düchting Pumpen",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/marken/duchting",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " entwickelt wurde, speziell für Anwendungen, bei denen Verschleiß, Korrosion und chemische Belastung eine große Rolle spielen. Im Gegensatz zu herkömmlichen Stahlsorten oder Gummiauskleidungen bietet SICcast eine bisher unerreichte Kombination aus Härte, chemischer Beständigkeit und thermischer Stabilität."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bei IPG sind wir offizieller Lieferant von Düchting-Pumpen, Ersatzteilen und Revisionen. In unserer täglichen Praxis sehen wir, wie SICcast in anspruchsvollen industriellen Umgebungen den Unterschied macht. Man denke an Anlagen, in denen Schlämme (Slurries), Säuren oder abrasive Partikel durch das System gefördert werden, Situationen, in denen Standardwerkstoffe schnell versagen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kurz gesagt: SICcast verlängert die Lebensdauer von Pumpenanlagen erheblich und verhindert ungeplante Stillstände.",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "d78825947974",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "5da65e7353e2",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/siccast.webp",
+                  "alt": "Laufrad mit extremem Verschleiß neben einem Exemplar mit neuer keramischer SICcast-Beschichtung",
+                  "width": 1151,
+                  "height": 800
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "6858ac7b46d8",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/siccast.webp",
-          "alt": "Laufrad mit extremem Verschleiß neben einem Exemplar mit neuer keramischer SICcast-Beschichtung",
-          "width": 1151,
-          "height": 800
-        }
-      },
-      {
-        "_uid": "cafaa4d0ecf2",
+        "_uid": "9f43e987b045",
         "component": "rich_text",
         "content": {
           "type": "doc",
@@ -215,349 +255,414 @@
         }
       },
       {
-        "_uid": "8cb985234a61",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/siccast-logo.webp",
-          "alt": "Logo von SICcast, verschleißfeste keramische Auskleidung für Pumpen und Rohrleitungssysteme",
-          "width": 1280,
-          "height": 336
-        }
+        "_uid": "6b47db24e906",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "ced6d2414062",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "5daf49ac9c43",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/siccast-logo.webp",
+                  "alt": "Logo von SICcast, verschleißfeste keramische Auskleidung für Pumpen und Rohrleitungssysteme",
+                  "width": 1280,
+                  "height": 336
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "3bbdcee55a78",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "69fdbf21861e",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Anwendungen: Wo spielt SICcast seine Stärken aus?"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "SICcast wird vor allem in Branchen eingesetzt, in denen Verschleiß tägliche Realität ist:"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "🏗️ Bergbau und Schlammtransport"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Schlämme mit Sand, Kies oder Metallpartikeln verursachen in Standardpumpen enormen Verschleiß. Eine SICcast-Auskleidung verhindert Ausfälle und verlängert die Standzeit."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "🔬 Chemische Industrie"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bei aggressiven Säuren und Laugen bietet SICcast deutlich mehr chemische Beständigkeit als Stahl oder Kunststoff. Man denke an Anlagen für Schwefelsäure, Natronlauge oder Phosphat."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "🚰 Abwasser und Schlammbehandlung"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "In Wasseraufbereitungsanlagen hilft SICcast, Pumpen bei der Verarbeitung von sandhaltigem oder ungereinigtem Abwasser langfristig betriebsbereit zu halten."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "🔥 Energie und Rauchgasreinigung"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "In Prozessen, in denen Wärme, Ascheteilchen und Chemikalien zusammentreffen (etwa bei der Rauchgasreinigung in Kraftwerken), bietet SICcast dauerhaften Schutz vor der Kombination aus Hitze, Verschleiß und Korrosion."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "21e279994066",
+        "_uid": "c0fc9d09c2a8",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "780a2ce92792",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "547929ec1843",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Warum SICcast (und warum IPG)?"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Lange Lebensdauer",
+                                  "marks": [
+                                    {
+                                      "type": "bold"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " der Pumpenanlagen"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Niedrigere Wartungskosten",
+                                  "marks": [
+                                    {
+                                      "type": "bold"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " durch seltenere Austausche"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Zuverlässige Leistung",
+                                  "marks": [
+                                    {
+                                      "type": "bold"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " unter anspruchsvollen Bedingungen"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Individuelle Beratung",
+                                  "marks": [
+                                    {
+                                      "type": "bold"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " dank unserer Erfahrung als offizieller Düchting-Partner"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Vollständiger Service",
+                                  "marks": [
+                                    {
+                                      "type": "bold"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " von der Lieferung bis zur Revision"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "1f4a3b12fce4",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "6115e440c67f",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Revision und Wartung mit SICcast bei IPG"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bei IPG verbinden wir unser Fachwissen in der Pumpentechnik mit praktischer Erfahrung in der Revision. Wir wissen genau, wann es sinnvoll ist, ein Pumpenbauteil neu mit SICcast auszukleiden, und wann ein kompletter Austausch besser ist."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Unsere Werkstatt ist ausgerüstet, um:"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Pumpen zu demontieren und zu inspizieren"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Verschleiß zu beurteilen und SICcast-Optionen vorzuschlagen"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Bauteile durch Original-Düchting-Komponenten zu ersetzen oder zu aktualisieren"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Ihre Pumpe nach der Revision wieder wie neu zu übergeben"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "db5585b816d5",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Anwendungen: Wo spielt SICcast seine Stärken aus?"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "SICcast wird vor allem in Branchen eingesetzt, in denen Verschleiß tägliche Realität ist:"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "🏗️ Bergbau und Schlammtransport"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Schlämme mit Sand, Kies oder Metallpartikeln verursachen in Standardpumpen enormen Verschleiß. Eine SICcast-Auskleidung verhindert Ausfälle und verlängert die Standzeit."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "🔬 Chemische Industrie"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bei aggressiven Säuren und Laugen bietet SICcast deutlich mehr chemische Beständigkeit als Stahl oder Kunststoff. Man denke an Anlagen für Schwefelsäure, Natronlauge oder Phosphat."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "🚰 Abwasser und Schlammbehandlung"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "In Wasseraufbereitungsanlagen hilft SICcast, Pumpen bei der Verarbeitung von sandhaltigem oder ungereinigtem Abwasser langfristig betriebsbereit zu halten."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "🔥 Energie und Rauchgasreinigung"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "In Prozessen, in denen Wärme, Ascheteilchen und Chemikalien zusammentreffen (etwa bei der Rauchgasreinigung in Kraftwerken), bietet SICcast dauerhaften Schutz vor der Kombination aus Hitze, Verschleiß und Korrosion."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Warum SICcast (und warum IPG)?"
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Lange Lebensdauer",
-                          "marks": [
-                            {
-                              "type": "bold"
-                            }
-                          ]
-                        },
-                        {
-                          "type": "text",
-                          "text": " der Pumpenanlagen"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Niedrigere Wartungskosten",
-                          "marks": [
-                            {
-                              "type": "bold"
-                            }
-                          ]
-                        },
-                        {
-                          "type": "text",
-                          "text": " durch seltenere Austausche"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Zuverlässige Leistung",
-                          "marks": [
-                            {
-                              "type": "bold"
-                            }
-                          ]
-                        },
-                        {
-                          "type": "text",
-                          "text": " unter anspruchsvollen Bedingungen"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Individuelle Beratung",
-                          "marks": [
-                            {
-                              "type": "bold"
-                            }
-                          ]
-                        },
-                        {
-                          "type": "text",
-                          "text": " dank unserer Erfahrung als offizieller Düchting-Partner"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Vollständiger Service",
-                          "marks": [
-                            {
-                              "type": "bold"
-                            }
-                          ]
-                        },
-                        {
-                          "type": "text",
-                          "text": " von der Lieferung bis zur Revision"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Revision und Wartung mit SICcast bei IPG"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bei IPG verbinden wir unser Fachwissen in der Pumpentechnik mit praktischer Erfahrung in der Revision. Wir wissen genau, wann es sinnvoll ist, ein Pumpenbauteil neu mit SICcast auszukleiden, und wann ein kompletter Austausch besser ist."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Unsere Werkstatt ist ausgerüstet, um:"
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Pumpen zu demontieren und zu inspizieren"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Verschleiß zu beurteilen und SICcast-Optionen vorzuschlagen"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Bauteile durch Original-Düchting-Komponenten zu ersetzen oder zu aktualisieren"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Ihre Pumpe nach der Revision wieder wie neu zu übergeben"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -582,12 +687,6 @@
           ]
         }
       }
-    ],
-    "image": {
-      "filename": "/img/nl/siccast-header.webp",
-      "alt": "Laufrad mit extremem Verschleiß neben einem Exemplar mit neuer keramischer SICcast-Beschichtung",
-      "width": 1280,
-      "height": 400
-    }
+    ]
   }
 }

@@ -8,6 +8,7 @@ import RichTextHtml from '../components/RichTextHtml.astro';
 import LinkCards from '../components/LinkCards.astro';
 import FaqList from '../components/FaqList.astro';
 import QuoteCta from '../components/QuoteCta.astro';
+import { hasOwnCta } from '../lib/page-cta';
 import Bloks from '../components/Bloks.astro';
 interface Props { story: PageStory<PageBrand>; site: Site }
 const { story, site } = Astro.props;
@@ -21,14 +22,16 @@ const quote = quoteHref(site, story);
 <PageHead story={story} site={site} h1={c.h1 || story.name} intro={c.intro}>
   {c.logo?.filename && <div class="brand-chip"><img src={c.logo.filename} width="240" height="108" alt={c.brand_name} /></div>}
 </PageHead>
-<section class="section"><div class="wrap"><RichTextHtml doc={c.body_text} /></div></section>
+{c.body_text?.content?.length ? <section class="section"><div class="wrap"><RichTextHtml doc={c.body_text} /></div></section> : null}
 
-<section class="section" aria-labelledby="serien">
-  <div class="wrap">
-    <h2 id="serien">Serien von {c.brand_name}</h2>
-    <LinkCards cards={series} />
-  </div>
-</section>
+{series.length > 0 && (
+  <section class="section" aria-labelledby="serien">
+    <div class="wrap">
+      <h2 id="serien">Serien von {c.brand_name}</h2>
+      <LinkCards cards={series} />
+    </div>
+  </section>
+)}
 
 {topics.length > 0 && (
   <section class="section" aria-labelledby="einsatz">
@@ -57,5 +60,5 @@ const quote = quoteHref(site, story);
     <div class="wrap"><h2 id="weitere-marken">Weitere Marken</h2><LinkCards cards={siblings} variant="cards" /></div>
   </section>
 )}
-<div class="wrap"><QuoteCta heading={`Angebot für ${c.brand_name}-Pumpen anfordern`} text="Senden Sie uns Typenschild oder Betriebsdaten. Wir prüfen, welche Serie Ihren Förderstrom und Ihre Förderhöhe abdeckt." label="Angebot anfordern" href={quote} /></div>
+{!hasOwnCta(c) && <div class="wrap"><QuoteCta heading={`Angebot für ${c.brand_name}-Pumpen anfordern`} text="Senden Sie uns Typenschild oder Betriebsdaten. Wir prüfen, welche Serie Ihren Förderstrom und Ihre Förderhöhe abdeckt." label="Angebot anfordern" href={quote} /></div>}
 <Bloks bloks={c.cta} site={site} />

@@ -9,111 +9,163 @@
     "component": "page_service",
     "h1": "Revision von API-Pumpen",
     "nav_title": "Revision von API-Pumpen",
+    "hero_image": {
+      "filename": "/img/nl/revisie-revisie-header-4.webp",
+      "alt": "",
+      "width": 1280,
+      "height": 302
+    },
     "seo_title": "API-Pumpen Revision: Instandsetzung nach API 610",
     "seo_description": "Revision von API-Pumpen: Inspektion, Austausch verschlissener Teile und Modifikationen. Lebensdauer verlängern, Kosten senken. Jetzt Revision anfragen.",
     "intro": "Die Revision von API-Pumpen umfasst Inspektion, Austausch verschlissener Bauteile und bei Bedarf Upgrades. Sie richtet sich an Betreiber in Öl- und Gasindustrie, chemischer Produktion und Wasseraufbereitung.",
     "service_kind": "revision-typ",
     "body": [
       {
-        "_uid": "08cccd5e08fd",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/revisie-revisie-header-4.webp",
-          "alt": "Revision von API-Pumpen bei Industrial Pump Group",
-          "width": 1280,
-          "height": 302
-        }
+        "_uid": "a36a135e4140",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "85e0bc30a573",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "81733d7c0fb5",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG überholt API-Pumpen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "327502a12f11",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "1abf417b1a97",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "API-Pumpen sind nach den Standards des American Petroleum Institute ausgelegt und werden häufig in der Öl- und Gasindustrie eingesetzt. Sie dienen in verschiedenen Anwendungen zum Fördern von Öl, Gas, Chemikalien und anderen Flüssigkeiten."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Es ist wesentlich, dass diese Pumpen einwandfrei funktionieren, damit die Prozesse effizient ablaufen. IPG verfügt über mehr als 30 Jahre Erfahrung in der Revision dieser Pumpen und über das Fachwissen, damit sie ordnungsgemäß gewartet und instand gesetzt werden."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "deefd27cad42",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG überholt API-Pumpen"
+        "_uid": "a88478e391fc",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "4082029d4624",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "bb89cd702160",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Leistung Ihrer Pumpe optimieren: API-Revision durch IPG"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "API-Pumpen werden häufig in schweren Industrien wie Öl- und Gasförderung, chemischer Produktion und Wasseraufbereitung eingesetzt. Durch den intensiven Einsatz und die Belastung durch raue Umgebungen können diese Pumpen mit der Zeit verschleißen und an Leistung verlieren. Bei IPG bieten wir Revisionsleistungen für API-Pumpen an, um Leistung und Zuverlässigkeit zu verbessern und die Lebensdauer der Pumpe zu verlängern."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Unsere Revisionsleistungen umfassen eine gründliche Inspektion der Pumpe und ihrer Bauteile, um eventuelle Probleme zu erkennen. Anschließend werden alle verschlissenen oder beschädigten Teile durch hochwertige Ersatzteile ersetzt. Darüber hinaus können wir Upgrades und Modifikationen vornehmen, um die Leistung der Pumpe zu verbessern und die Zuverlässigkeit zu erhöhen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mit einer API-Revision durch IPG können Sie die Lebensdauer Ihrer Pumpe verlängern, die Verfügbarkeit Ihrer Anlagen verbessern und die gesamten Betriebskosten senken. Unsere erfahrenen Techniker und moderne Technologien ermöglichen es uns, Revisionsarbeiten schnell und effizient auszuführen, damit Ihre Anlage rasch wieder betriebsbereit ist. Nehmen Sie noch heute Kontakt mit uns auf, um Ihre API-Pumpe überholen und auf maximale Leistung optimieren zu lassen."
+                        }
+                      ]
+                    }
+                  ]
                 }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "API-Pumpen sind nach den Standards des American Petroleum Institute ausgelegt und werden häufig in der Öl- und Gasindustrie eingesetzt. Sie dienen in verschiedenen Anwendungen zum Fördern von Öl, Gas, Chemikalien und anderen Flüssigkeiten."
+              }
+            ]
+          },
+          {
+            "_uid": "ef476f95dfa4",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "38b1b08ab0cd",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/revisie-revisie-8.webp",
+                  "alt": "Revisionsarbeiten an einer Industriepumpe",
+                  "width": 1102,
+                  "height": 735
                 }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Es ist wesentlich, dass diese Pumpen einwandfrei funktionieren, damit die Prozesse effizient ablaufen. IPG verfügt über mehr als 30 Jahre Erfahrung in der Revision dieser Pumpen und über das Fachwissen, damit sie ordnungsgemäß gewartet und instand gesetzt werden."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Leistung Ihrer Pumpe optimieren: API-Revision durch IPG"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "API-Pumpen werden häufig in schweren Industrien wie Öl- und Gasförderung, chemischer Produktion und Wasseraufbereitung eingesetzt. Durch den intensiven Einsatz und die Belastung durch raue Umgebungen können diese Pumpen mit der Zeit verschleißen und an Leistung verlieren. Bei IPG bieten wir Revisionsleistungen für API-Pumpen an, um Leistung und Zuverlässigkeit zu verbessern und die Lebensdauer der Pumpe zu verlängern."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Unsere Revisionsleistungen umfassen eine gründliche Inspektion der Pumpe und ihrer Bauteile, um eventuelle Probleme zu erkennen. Anschließend werden alle verschlissenen oder beschädigten Teile durch hochwertige Ersatzteile ersetzt. Darüber hinaus können wir Upgrades und Modifikationen vornehmen, um die Leistung der Pumpe zu verbessern und die Zuverlässigkeit zu erhöhen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mit einer API-Revision durch IPG können Sie die Lebensdauer Ihrer Pumpe verlängern, die Verfügbarkeit Ihrer Anlagen verbessern und die gesamten Betriebskosten senken. Unsere erfahrenen Techniker und moderne Technologien ermöglichen es uns, Revisionsarbeiten schnell und effizient auszuführen, damit Ihre Anlage rasch wieder betriebsbereit ist. Nehmen Sie noch heute Kontakt mit uns auf, um Ihre API-Pumpe überholen und auf maximale Leistung optimieren zu lassen."
-                }
-              ]
-            }
-          ]
-        }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "5a1176bb3b81",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/revisie-revisie-8.webp",
-          "alt": "Revisionsarbeiten an einer Industriepumpe",
-          "width": 1102,
-          "height": 735
-        }
-      },
-      {
-        "_uid": "7eca1eecb428",
+        "_uid": "6f9bac55ed71",
         "component": "rich_text",
         "content": {
           "type": "doc",
@@ -155,37 +207,56 @@
         }
       },
       {
-        "_uid": "e9ef1e51f2e3",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/revisie-revisie-3.webp",
-          "alt": "Pumpenrevision in der Werkstatt von Industrial Pump Group",
-          "width": 1102,
-          "height": 735
-        }
-      },
-      {
-        "_uid": "867fb3b8d55e",
-        "component": "faq",
-        "heading": "Häufige Fragen",
-        "items": [
+        "_uid": "98d67e5ea911",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
           {
-            "_uid": "0ae17b6588f1",
-            "component": "faq_item",
-            "question": "Was ist eine API-Pumpenrevision?",
-            "answer": "Die API-Pumpenrevision ist eine umfassende Leistung, mit der sich die Leistung von API-Pumpen durch gründliche Inspektion, Austausch verschlissener Teile und gegebenenfalls Upgrades und Modifikationen verbessern lässt."
+            "_uid": "4f7bda1f7597",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "d5e7f0a56dea",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/revisie-revisie-3.webp",
+                  "alt": "Pumpenrevision in der Werkstatt von Industrial Pump Group",
+                  "width": 1102,
+                  "height": 735
+                }
+              }
+            ]
           },
           {
-            "_uid": "213105c62fec",
-            "component": "faq_item",
-            "question": "Warum ist die Revision von API-Pumpen wichtig?",
-            "answer": "API-Pumpen werden häufig in schweren Umgebungen eingesetzt und können mit der Zeit verschleißen und an Leistung verlieren. Mit regelmäßigen Revisionsarbeiten verlängern Sie die Lebensdauer Ihrer Pumpe, verbessern die Verfügbarkeit Ihrer Anlagen und senken die gesamten Betriebskosten."
-          },
-          {
-            "_uid": "440c8db0fefa",
-            "component": "faq_item",
-            "question": "Was umfasst die Revision einer API-Pumpe?",
-            "answer": "Die Revision einer API-Pumpe umfasst eine gründliche Inspektion der Pumpe und ihrer Bauteile, um eventuelle Probleme zu erkennen. Anschließend werden alle verschlissenen oder beschädigten Teile durch hochwertige Ersatzteile ersetzt. Darüber hinaus können Upgrades und Modifikationen vorgenommen werden, um die Leistung der Pumpe zu verbessern und die Zuverlässigkeit zu erhöhen."
+            "_uid": "f3e147812fda",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "fc66c648ba69",
+                "component": "faq",
+                "heading": "Häufige Fragen",
+                "items": [
+                  {
+                    "_uid": "7b7d6a7890a7",
+                    "component": "faq_item",
+                    "question": "Was ist eine API-Pumpenrevision?",
+                    "answer": "Die API-Pumpenrevision ist eine umfassende Leistung, mit der sich die Leistung von API-Pumpen durch gründliche Inspektion, Austausch verschlissener Teile und gegebenenfalls Upgrades und Modifikationen verbessern lässt."
+                  },
+                  {
+                    "_uid": "bd0a956fe9a6",
+                    "component": "faq_item",
+                    "question": "Warum ist die Revision von API-Pumpen wichtig?",
+                    "answer": "API-Pumpen werden häufig in schweren Umgebungen eingesetzt und können mit der Zeit verschleißen und an Leistung verlieren. Mit regelmäßigen Revisionsarbeiten verlängern Sie die Lebensdauer Ihrer Pumpe, verbessern die Verfügbarkeit Ihrer Anlagen und senken die gesamten Betriebskosten."
+                  },
+                  {
+                    "_uid": "63e1811425db",
+                    "component": "faq_item",
+                    "question": "Was umfasst die Revision einer API-Pumpe?",
+                    "answer": "Die Revision einer API-Pumpe umfasst eine gründliche Inspektion der Pumpe und ihrer Bauteile, um eventuelle Probleme zu erkennen. Anschließend werden alle verschlissenen oder beschädigten Teile durch hochwertige Ersatzteile ersetzt. Darüber hinaus können Upgrades und Modifikationen vorgenommen werden, um die Leistung der Pumpe zu verbessern und die Zuverlässigkeit zu erhöhen."
+                  }
+                ]
+              }
+            ]
           }
         ]
       }

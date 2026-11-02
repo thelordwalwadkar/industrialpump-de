@@ -14,299 +14,447 @@
     "topic_kind": "pumpentyp",
     "body": [
       {
-        "_uid": "c79e7da1c6e4",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Industriepumpen für die Metallindustrie"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Industriepumpen werden in der Metallindustrie für verschiedene Zwecke eingesetzt, etwa zum Kühlen von Maschinen, zum Fördern von Kühlflüssigkeiten und zum Transport von Materialien. Es können sowohl Kreiselpumpen als auch Verdrängerpumpen sein."
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
+        "_uid": "c70905bafb9c",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "e6f0243eaf09",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "df9fa5c06a4c",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Industriepumpen für die Metallindustrie"
+                        }
+                      ]
+                    },
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "Vertikale Turbinenpumpen",
-                          "marks": [
+                          "text": "Industriepumpen werden in der Metallindustrie für verschiedene Zwecke eingesetzt, etwa zum Kühlen von Maschinen, zum Fördern von Kühlflüssigkeiten und zum Transport von Materialien. Es können sowohl Kreiselpumpen als auch Verdrängerpumpen sein."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "b2a3216ca620",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ba3bb258b5e2",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
                             {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/pumpentypen/vertikale-turbinenpumpen",
-                                "linktype": "url"
-                              }
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Vertikale Turbinenpumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/pumpentypen/vertikale-turbinenpumpen",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "End-Suction-Pumpen"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Kühlwasserpumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/anwendungen/kuehlwasser",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Schlammpumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/anwendungen/nassbaggerei",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Löschwasserpumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/anwendungen/loeschwasser",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
                             }
                           ]
                         }
                       ]
                     }
                   ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "End-Suction-Pumpen"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Kühlwasserpumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/anwendungen/kuehlwasser",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Schlammpumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/anwendungen/nassbaggerei",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Löschwasserpumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/anwendungen/loeschwasser",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
                 }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zuverlässigkeit und Langlebigkeit: Pumpen in der Stahl- und Schwerindustrie"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Industriepumpen spielen in der Metallindustrie eine wichtige Rolle. Sie fördern Flüssigkeiten und Gase wie Kühlflüssigkeiten, Schmiermittel, Hydraulikflüssigkeiten und Druckluft. Industriepumpen werden auch bei der Verarbeitung von Metallen eingesetzt, etwa beim Transport von Metallschmelze. Die Wahl der richtigen Pumpe hängt von Faktoren wie Viskosität, Temperatur und Druck ab. Außerdem müssen Industriepumpen in der Metallindustrie gegen aggressive Chemikalien und Korrosion beständig sein, damit eine längere Lebensdauer und Zuverlässigkeit gewährleistet sind."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Höhere Effizienz und niedrigere Kosten",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Industriepumpen verbessern die Effizienz von Kühl-, Heiz- und Reibungsminderungsprozessen. Das führt zu niedrigeren Produktionskosten und höherer Produktivität."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Beständig gegen aggressive Bedingungen",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Diese Pumpen sind auf Beständigkeit gegen aggressive Chemikalien und Korrosion ausgelegt und werden oft aus hochwertigen Werkstoffen wie Edelstahl, Titan und Kunststoffen gefertigt. Das macht sie langlebig und zuverlässig."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Wesentlich für die Prozessoptimierung",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Indem sie Flüssigkeiten und Gase im Werk effizient bewegen, tragen diese Pumpen zur Optimierung der Produktionsprozesse bei. Das führt zu besserer Leistung und Gleichmäßigkeit in der Metallproduktion."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Industriepumpen: ein unverzichtbarer Bestandteil der Metallindustrie"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Industriepumpen sind ein unverzichtbarer Bestandteil der Metallindustrie und spielen eine zentrale Rolle beim Transport von Flüssigkeiten und Gasen, die für verschiedene Prozesse benötigt werden. In der Metallindustrie werden Pumpen zum Beispiel zum Kühlen von Maschinen, zum Erwärmen von Materialien und zum Verringern von Reibung eingesetzt. Mit den richtigen Industriepumpen lassen sich Produktionskosten senken und die Effizienz steigern."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Außerdem müssen Industriepumpen in der Metallindustrie gegen aggressive Chemikalien und Korrosion beständig sein, damit eine lange Lebensdauer und Zuverlässigkeit gewährleistet sind. Aus diesem Grund werden bei der Konstruktion dieser Pumpen häufig hochwertige Werkstoffe wie Edelstahl, Titan und Kunststoffe verwendet."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Verschiedene Anwendungen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Neben dem Kühlen und Erwärmen von Materialien und dem Verringern von Reibung werden Pumpen in der Metallindustrie auch zum Transport von Flüssigkeiten und Gasen zwischen verschiedenen Bereichen des Werks eingesetzt. Dazu gehören zum Beispiel der Transport von Kühlflüssigkeiten zu zerspanenden Maschinen, das Fördern von Hydraulikflüssigkeiten zu hydraulischen Pressen und der Transport von Gas zu Schweiß- und Schneidmaschinen."
-                }
-              ]
-            }
-          ]
-        }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "249059c504a9",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/segmenten-metaalindustrie-2.webp",
-          "alt": "Pumpen für die Metallindustrie | Industrial Pump Group",
-          "width": 1000,
-          "height": 563
-        }
+        "_uid": "dcc2d26ab3df",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "a082fc9bb8e7",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ad5a77364ae4",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Zuverlässigkeit und Langlebigkeit: Pumpen in der Stahl- und Schwerindustrie"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "245a07d4ca56",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "49b2bedec6e3",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Industriepumpen spielen in der Metallindustrie eine wichtige Rolle. Sie fördern Flüssigkeiten und Gase wie Kühlflüssigkeiten, Schmiermittel, Hydraulikflüssigkeiten und Druckluft. Industriepumpen werden auch bei der Verarbeitung von Metallen eingesetzt, etwa beim Transport von Metallschmelze. Die Wahl der richtigen Pumpe hängt von Faktoren wie Viskosität, Temperatur und Druck ab. Außerdem müssen Industriepumpen in der Metallindustrie gegen aggressive Chemikalien und Korrosion beständig sein, damit eine längere Lebensdauer und Zuverlässigkeit gewährleistet sind."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "6515052e529a",
+        "_uid": "5f807b338c17",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "2697ca7acb55",
+            "component": "section_column",
+            "icon": "fa-chart-line",
+            "content": [
+              {
+                "_uid": "244f4f0cdeaa",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Höhere Effizienz und niedrigere Kosten",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Industriepumpen verbessern die Effizienz von Kühl-, Heiz- und Reibungsminderungsprozessen. Das führt zu niedrigeren Produktionskosten und höherer Produktivität."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "7cb7b01cedf8",
+            "component": "section_column",
+            "icon": "fa-flask-potion",
+            "content": [
+              {
+                "_uid": "76b93d99ae7d",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Beständig gegen aggressive Bedingungen",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Diese Pumpen sind auf Beständigkeit gegen aggressive Chemikalien und Korrosion ausgelegt und werden oft aus hochwertigen Werkstoffen wie Edelstahl, Titan und Kunststoffen gefertigt. Das macht sie langlebig und zuverlässig."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "527e6ef280fb",
+            "component": "section_column",
+            "icon": "fa-stream",
+            "content": [
+              {
+                "_uid": "ee835c7f268c",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Wesentlich für die Prozessoptimierung",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Indem sie Flüssigkeiten und Gase im Werk effizient bewegen, tragen diese Pumpen zur Optimierung der Produktionsprozesse bei. Das führt zu besserer Leistung und Gleichmäßigkeit in der Metallproduktion."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "3c61a58dc63f",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "3f7f778465eb",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "2123d0a97478",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Industriepumpen: ein unverzichtbarer Bestandteil der Metallindustrie"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Industriepumpen sind ein unverzichtbarer Bestandteil der Metallindustrie und spielen eine zentrale Rolle beim Transport von Flüssigkeiten und Gasen, die für verschiedene Prozesse benötigt werden. In der Metallindustrie werden Pumpen zum Beispiel zum Kühlen von Maschinen, zum Erwärmen von Materialien und zum Verringern von Reibung eingesetzt. Mit den richtigen Industriepumpen lassen sich Produktionskosten senken und die Effizienz steigern."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Außerdem müssen Industriepumpen in der Metallindustrie gegen aggressive Chemikalien und Korrosion beständig sein, damit eine lange Lebensdauer und Zuverlässigkeit gewährleistet sind. Aus diesem Grund werden bei der Konstruktion dieser Pumpen häufig hochwertige Werkstoffe wie Edelstahl, Titan und Kunststoffe verwendet."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Verschiedene Anwendungen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Neben dem Kühlen und Erwärmen von Materialien und dem Verringern von Reibung werden Pumpen in der Metallindustrie auch zum Transport von Flüssigkeiten und Gasen zwischen verschiedenen Bereichen des Werks eingesetzt. Dazu gehören zum Beispiel der Transport von Kühlflüssigkeiten zu zerspanenden Maschinen, das Fördern von Hydraulikflüssigkeiten zu hydraulischen Pressen und der Transport von Gas zu Schweiß- und Schneidmaschinen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "15747ed1e257",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "38c598994ba8",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/segmenten-metaalindustrie-2.webp",
+                  "alt": "Pumpen für die Metallindustrie | Industrial Pump Group",
+                  "width": 1000,
+                  "height": 563
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "b2527ab206dc",
         "component": "rich_text",
         "content": {
           "type": "doc",
@@ -327,227 +475,308 @@
         }
       },
       {
-        "_uid": "9ba690e65b86",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-aeb.webp",
-          "alt": "Kundenlogo AEB",
-          "width": 387,
-          "height": 241
-        }
+        "_uid": "9804ab47d3b9",
+        "component": "logo_carousel",
+        "logos": [
+          {
+            "_uid": "5d9d40a2b5f3",
+            "component": "logo_item",
+            "name": "AEB Amsterdam",
+            "image": {
+              "filename": "/img/clients/aeb-amsterdam.webp",
+              "alt": "AEB Amsterdam",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "a06a7efc0359",
+            "component": "logo_item",
+            "name": "AkzoNobel",
+            "image": {
+              "filename": "/img/clients/akzonobel.webp",
+              "alt": "AkzoNobel",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "fa4a4796cf45",
+            "component": "logo_item",
+            "name": "HVC",
+            "image": {
+              "filename": "/img/clients/hvc.webp",
+              "alt": "HVC",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "4c5e8b5bb636",
+            "component": "logo_item",
+            "name": "Petrogas",
+            "image": {
+              "filename": "/img/clients/petrogas.webp",
+              "alt": "Petrogas",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "3771b5455ec2",
+            "component": "logo_item",
+            "name": "Tata Steel",
+            "image": {
+              "filename": "/img/clients/tata-steel.webp",
+              "alt": "Tata Steel",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "a6cef08f0cff",
+            "component": "logo_item",
+            "name": "Waternet",
+            "image": {
+              "filename": "/img/clients/waternet.webp",
+              "alt": "Waternet",
+              "width": 280,
+              "height": 140
+            }
+          }
+        ]
       },
       {
-        "_uid": "1350d8501863",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-akzonobel.webp",
-          "alt": "Kundenlogo AkzoNobel",
-          "width": 387,
-          "height": 241
-        }
+        "_uid": "745afc6ca5f5",
+        "component": "section_row",
+        "layout": "carousel",
+        "columns": [
+          {
+            "_uid": "5b6062e52bea",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "183b9e463263",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ausgezeichnete Qualität und Vielseitigkeit für jede Industrie!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG liefert Pumpen von hoher Qualität, die den Anforderungen verschiedener Industrieprozesse entsprechen. Die Produkte sind robust und zuverlässig, was für unsere Produktion wesentlich ist."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Leiter Technischer Dienst bei einem Produktionsbetrieb in den Niederlanden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "669a4a91dc6b",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "763acb46c660",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Zuverlässiger Service und Mitdenken bei jeder Herausforderung!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Pumpen von IPG sind von hoher Qualität und gut auf unsere spezifischen industriellen Anwendungen abgestimmt. Die kundenorientierte Arbeitsweise und der schnelle Service sind für uns ein großer Vorteil."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Operations Manager bei einer Industrieanlage."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "36b079f81150",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "4d1aa0ad3750",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Fachkundige Unterstützung und langlebige Lösungen!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG bietet fachkundige Beratung und langlebige Lösungen, die unsere Prozesse verbessern. Die Pumpen sind effizient und tragen zu höherer Zuverlässigkeit und weniger Stillstand bei."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Verfahrensingenieur."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "3dd9cbe7c5d0",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "2baf352fb3cd",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flexible Lösungen und schnelle Lieferung für kritische Anwendungen!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Zusammenarbeit mit IPG verläuft stets reibungslos. Das Unternehmen liefert flexible Lösungen, und die Pumpen leisten auch unter schwierigen Bedingungen hervorragende Arbeit."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Projektkoordinator bei einem metallverarbeitenden Betrieb."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "fb81f094bd1a",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-hvc.webp",
-          "alt": "Kundenlogo HVC",
-          "width": 387,
-          "height": 241
-        }
+        "_uid": "af2840cdd3e6",
+        "component": "cta_band",
+        "heading": "Unverbindlich Kontakt aufnehmen",
+        "text": "Wir beraten Sie gern zu Auswahl, Ersatz und Revision Ihrer Pumpe.",
+        "button_label": "Kontakt aufnehmen",
+        "button_link": {
+          "fieldtype": "multilink",
+          "linktype": "url",
+          "url": "/kontakt",
+          "cached_url": "/kontakt"
+        },
+        "variant": "primary"
       },
       {
-        "_uid": "8a355fa3f893",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-petrogas.webp",
-          "alt": "Kundenlogo Petrogas",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "837631e7a690",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-tatasteel.webp",
-          "alt": "Kundenlogo Tata Steel",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "8c81f0a97651",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-waternet.webp",
-          "alt": "Kundenlogo Waternet",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "ce186a112df5",
+        "_uid": "4f5c65e398c3",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ausgezeichnete Qualität und Vielseitigkeit für jede Industrie!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG liefert Pumpen von hoher Qualität, die den Anforderungen verschiedener Industrieprozesse entsprechen. Die Produkte sind robust und zuverlässig, was für unsere Produktion wesentlich ist."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Leiter Technischer Dienst bei einem Produktionsbetrieb in den Niederlanden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zuverlässiger Service und Mitdenken bei jeder Herausforderung!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Pumpen von IPG sind von hoher Qualität und gut auf unsere spezifischen industriellen Anwendungen abgestimmt. Die kundenorientierte Arbeitsweise und der schnelle Service sind für uns ein großer Vorteil."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Operations Manager bei einer Industrieanlage."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Fachkundige Unterstützung und langlebige Lösungen!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG bietet fachkundige Beratung und langlebige Lösungen, die unsere Prozesse verbessern. Die Pumpen sind effizient und tragen zu höherer Zuverlässigkeit und weniger Stillstand bei."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Verfahrensingenieur."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Flexible Lösungen und schnelle Lieferung für kritische Anwendungen!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Zusammenarbeit mit IPG verläuft stets reibungslos. Das Unternehmen liefert flexible Lösungen, und die Pumpen leisten auch unter schwierigen Bedingungen hervorragende Arbeit."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Projektkoordinator bei einem metallverarbeitenden Betrieb."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 4
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Unverbindlich Kontakt aufnehmen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -767,126 +996,166 @@
         }
       },
       {
-        "_uid": "886881ddcc8d",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-verticale-turbine.webp",
-          "alt": "Vertikale Turbinenpumpen für die Metallindustrie | Industrial Pump Group",
-          "width": 429,
-          "height": 1222
-        }
+        "_uid": "eae4ba511415",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "96d280e7e704",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "57488666dea2",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-verticale-turbine.webp",
+                  "alt": "Vertikale Turbinenpumpen für die Metallindustrie | Industrial Pump Group",
+                  "width": 429,
+                  "height": 1222
+                }
+              },
+              {
+                "_uid": "20bfc6b4592d",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über vertikale Turbinenpumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "8b6f801458b8",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "9b43b7cc8b1b",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/homepage-product2-2.webp",
+                  "alt": "End-Suction-Pumpen für die Metallindustrie | Industrial Pump Group",
+                  "width": 242,
+                  "height": 168
+                }
+              },
+              {
+                "_uid": "2d374916750a",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über End-Suction-Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "8ce23c8871f0",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "0fb02f3003f3",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-koelwaterpompen.webp",
+                  "alt": "Kühlwasserpumpen für die Metallindustrie | Industrial Pump Group",
+                  "width": 600,
+                  "height": 600
+                }
+              },
+              {
+                "_uid": "3ef063fb90d6",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Kühlwasserpumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "d99a89cc8eff",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "90320c5ea2b5",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-firefight.webp",
+                  "alt": "Löschwasserpumpen für die Metallindustrie | Industrial Pump Group",
+                  "width": 774,
+                  "height": 690
+                }
+              },
+              {
+                "_uid": "02633fe0a169",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Löschwasserpumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "797260ea3c57",
+        "_uid": "90ebc3d3fa6f",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über vertikale Turbinenpumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "c8bd502a3246",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-product2-2.webp",
-          "alt": "End-Suction-Pumpen für die Metallindustrie | Industrial Pump Group",
-          "width": 242,
-          "height": 168
-        }
-      },
-      {
-        "_uid": "3392f334e8a8",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über End-Suction-Pumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "f309795c238c",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-koelwaterpompen.webp",
-          "alt": "Kühlwasserpumpen für die Metallindustrie | Industrial Pump Group",
-          "width": 600,
-          "height": 600
-        }
-      },
-      {
-        "_uid": "36502ba69749",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Kühlwasserpumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "84722fad6d47",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-firefight.webp",
-          "alt": "Löschwasserpumpen für die Metallindustrie | Industrial Pump Group",
-          "width": 774,
-          "height": 690
-        }
-      },
-      {
-        "_uid": "a63b8a20c0d9",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Löschwasserpumpen lesen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -943,7 +1212,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Sie benötigen Hilfe bei der Auswahl der passenden Pumpe? Die Experten von IPG stehen für Sie bereit. Nehmen Sie unverbindlich Kontakt auf: [[PLATZHALTER: Telefon]] oder [[PLATZHALTER: E-Mail]]."
+                  "text": "Sie benötigen Hilfe bei der Auswahl der passenden Pumpe? Die Experten von IPG stehen für Sie bereit. Nehmen Sie unverbindlich Kontakt auf: +31 251 222 566 oder info@industrialpumps.nl."
                 }
               ]
             }
@@ -951,43 +1220,62 @@
         }
       },
       {
-        "_uid": "ded3d5a2f79f",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/segmenten-metaalindustrie-3.webp",
-          "alt": "Häufig gestellte Fragen zu Pumpen für die Metallindustrie | Industrial Pump Group",
-          "width": 1000,
-          "height": 667
-        }
-      },
-      {
-        "_uid": "6c50d176de11",
-        "component": "faq",
-        "heading": "Häufige Fragen",
-        "items": [
+        "_uid": "174b1803de14",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
           {
-            "_uid": "b37f087ef1c1",
-            "component": "faq_item",
-            "question": "Warum müssen Industriepumpen in der Metallindustrie bestimmte Anforderungen erfüllen?",
-            "answer": "Industriepumpen in der Metallindustrie müssen bestimmte Anforderungen erfüllen, weil sie häufig in anspruchsvollen Umgebungen eingesetzt werden, in denen sie aggressiven Chemikalien, hohen Temperaturen und weiteren Faktoren ausgesetzt sind, die ihre Leistung und Zuverlässigkeit beeinflussen können."
+            "_uid": "a83d80faad07",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "41c30f71f736",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/segmenten-metaalindustrie-3.webp",
+                  "alt": "Häufig gestellte Fragen zu Pumpen für die Metallindustrie | Industrial Pump Group",
+                  "width": 1000,
+                  "height": 667
+                }
+              }
+            ]
           },
           {
-            "_uid": "9f185a5bc1c8",
-            "component": "faq_item",
-            "question": "Welche Faktoren sind bei der Auswahl einer Pumpe für die Metallindustrie zu berücksichtigen?",
-            "answer": "Bei der Auswahl einer Pumpe für die Metallindustrie sind mehrere Faktoren zu berücksichtigen, darunter die Eigenschaften der zu fördernden Flüssigkeit, die Temperatur der Flüssigkeit, die Druckanforderungen, die Korrosionsbeständigkeit und die Zuverlässigkeit."
-          },
-          {
-            "_uid": "beb3d9706bf2",
-            "component": "faq_item",
-            "question": "Wofür werden Industriepumpen in der Metallindustrie eingesetzt?",
-            "answer": "Industriepumpen werden in der Metallindustrie zum Fördern verschiedener Flüssigkeiten eingesetzt, etwa Kühlflüssigkeiten, Schmiermitteln, Säuren, Laugen und anderen chemischen Stoffen, die in Metallbearbeitungsprozessen verwendet werden."
-          },
-          {
-            "_uid": "c30e3f9b335f",
-            "component": "faq_item",
-            "question": "Wo finde ich weitere Informationen zu Industriepumpen in der Metallindustrie?",
-            "answer": "Für weitere Informationen können Sie jederzeit unverbindlich Kontakt mit IPG aufnehmen: [[PLATZHALTER: Telefon]] oder [[PLATZHALTER: E-Mail]]."
+            "_uid": "d27729a69af6",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "760e478718c1",
+                "component": "faq",
+                "heading": "Häufige Fragen",
+                "items": [
+                  {
+                    "_uid": "13feb65cd0d6",
+                    "component": "faq_item",
+                    "question": "Warum müssen Industriepumpen in der Metallindustrie bestimmte Anforderungen erfüllen?",
+                    "answer": "Industriepumpen in der Metallindustrie müssen bestimmte Anforderungen erfüllen, weil sie häufig in anspruchsvollen Umgebungen eingesetzt werden, in denen sie aggressiven Chemikalien, hohen Temperaturen und weiteren Faktoren ausgesetzt sind, die ihre Leistung und Zuverlässigkeit beeinflussen können."
+                  },
+                  {
+                    "_uid": "980692e9bf36",
+                    "component": "faq_item",
+                    "question": "Welche Faktoren sind bei der Auswahl einer Pumpe für die Metallindustrie zu berücksichtigen?",
+                    "answer": "Bei der Auswahl einer Pumpe für die Metallindustrie sind mehrere Faktoren zu berücksichtigen, darunter die Eigenschaften der zu fördernden Flüssigkeit, die Temperatur der Flüssigkeit, die Druckanforderungen, die Korrosionsbeständigkeit und die Zuverlässigkeit."
+                  },
+                  {
+                    "_uid": "11e331f68944",
+                    "component": "faq_item",
+                    "question": "Wofür werden Industriepumpen in der Metallindustrie eingesetzt?",
+                    "answer": "Industriepumpen werden in der Metallindustrie zum Fördern verschiedener Flüssigkeiten eingesetzt, etwa Kühlflüssigkeiten, Schmiermitteln, Säuren, Laugen und anderen chemischen Stoffen, die in Metallbearbeitungsprozessen verwendet werden."
+                  },
+                  {
+                    "_uid": "0f23305a6bc4",
+                    "component": "faq_item",
+                    "question": "Wo finde ich weitere Informationen zu Industriepumpen in der Metallindustrie?",
+                    "answer": "Für weitere Informationen können Sie jederzeit unverbindlich Kontakt mit IPG aufnehmen: +31 251 222 566 oder info@industrialpumps.nl."
+                  }
+                ]
+              }
+            ]
           }
         ]
       }

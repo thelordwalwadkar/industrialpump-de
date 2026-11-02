@@ -15,61 +15,446 @@
     "topic_kind": "pumpentyp",
     "body": [
       {
-        "_uid": "bb14dfd163fc",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Wasserpumpen und Beregnungspumpen für die Landwirtschaft"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Pumpen für die Landwirtschaft, Wasserpumpen für den Agrarsektor und Beregnungspumpen für die Landwirtschaft erhalten Sie bei der Industrial Pump Group. Dank unserer Beratung treffen Sie die passende Wahl."
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
+        "_uid": "694789b065f5",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "e73bf604ec26",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "7012ec650dec",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Wasserpumpen und Beregnungspumpen für die Landwirtschaft"
+                        }
+                      ]
+                    },
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "Brunnenpumpen",
-                          "marks": [
+                          "text": "Pumpen für die Landwirtschaft, Wasserpumpen für den Agrarsektor und Beregnungspumpen für die Landwirtschaft erhalten Sie bei der Industrial Pump Group. Dank unserer Beratung treffen Sie die passende Wahl."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "b611c39956c0",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "6eee6e545c49",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
                             {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/pumpentypen/brunnenpumpen",
-                                "linktype": "url"
-                              }
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Brunnenpumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/pumpentypen/brunnenpumpen",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Kreiselpumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/pumpentypen/kreiselpumpen",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Tauchmotorpumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/pumpentypen/tauchmotorpumpen",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
                             }
                           ]
                         }
                       ]
                     }
                   ]
-                },
-                {
-                  "type": "list_item",
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "7a5df2798c62",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "75cd50a3b197",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "1c8f0be81b7e",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Pumpen für die Landwirtschaft: vielseitig einsetzbar"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "c8df41acf15a",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ba982bf34326",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Für die Bewässerung stehen verschiedene Arten von "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Agrarpumpen",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " zur Verfügung, zum Beispiel eine "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Beregnungspumpe",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " für die Landwirtschaft. Manche sind speziell für bestimmte Wasserbedarfe in der Landwirtschaft ausgelegt. Landwirtschaftspumpen spielen eine grundlegende Rolle, weil sie das Wasser von der Quelle zu den Feldern fördern. Sie sind unverzichtbar, denn sie bilden den ersten Schritt der Bewässerung von Kulturen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Wahl der Pumpe hängt von der Art der Bewässerung ab, etwa Tropfbewässerung, Oberflächenbewässerung, Sprinkler und weiteren Verfahren."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "4d172945fd50",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "c5c0bd4a9f71",
+            "component": "section_column",
+            "icon": "fa-faucet",
+            "content": [
+              {
+                "_uid": "7ff6680e5a69",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Höherer Wirkungsgrad und umweltfreundlich",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Elektrische Wasserpumpen haben einen höheren Wirkungsgrad als dieselmotorisch angetriebene Pumpen und verursachen keine Kohlenstoffemissionen. Damit sind sie eine umweltfreundliche Wahl."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "f90dc5ba2d0d",
+            "component": "section_column",
+            "icon": "fa-tint",
+            "content": [
+              {
+                "_uid": "688760974809",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Geeignet für Hochdruckbewässerung",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Für Bewässerungssysteme, die unter Druck stehen, eignen sich diese Pumpen, weil sie hohen Druck liefern und Flüssigkeiten damit effizient fördern."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "19228e534072",
+            "component": "section_column",
+            "icon": "fa-chart-network",
+            "content": [
+              {
+                "_uid": "7f1f814ebb01",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Vielseitig im Einsatz",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Membranpumpen eignen sich für Bewässerung, Unkrautbekämpfung und die Behandlung von Obstgärten, Weinbergen und Olivenhainen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "b69cfc403211",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "83a39210319a",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "aeba5a03b464",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Elektrische Wasserpumpe für die Landwirtschaft"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Elektrische Wasserpumpen",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " für die Landwirtschaft haben einen höheren Wirkungsgrad und stoßen im Gegensatz zu dieselmotorisch angetriebenen Beregnungspumpen, die nur 20–35 % Wirkungsgrad erreichen, keinen Kohlenstoff aus. Dennoch werden Dieselmotorpumpen mitunter für bestimmte Bewässerungsanwendungen eingesetzt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Manche Bewässerungssysteme stehen unter Druck; in solchen Fällen sind "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Hochdruckpumpen",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " erforderlich, um die Flüssigkeit zu fördern. "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Membranpumpen",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " werden vor allem für Bewässerung, Unkrautbekämpfung und die Behandlung von Obstgärten, Weinbergen und Olivenhainen eingesetzt, oft mit Hochdruckspritzen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kreiselpumpe für die Bewässerung"
+                        }
+                      ]
+                    },
                     {
                       "type": "paragraph",
                       "content": [
@@ -78,278 +463,41 @@
                           "text": "Kreiselpumpen",
                           "marks": [
                             {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/pumpentypen/kreiselpumpen",
-                                "linktype": "url"
-                              }
+                              "type": "bold"
                             }
                           ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
+                        },
                         {
                           "type": "text",
-                          "text": "Tauchmotorpumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/pumpentypen/tauchmotorpumpen",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
+                          "text": " werden gewöhnlich bei Oberflächenwasserquellen (Seen, Flüsse, Tanks) oder flachen Grundwasserquellen eingesetzt. Sie müssen jedoch sorgfältig verwendet werden: Die Saugleitung und die Beregnungspumpe für die Landwirtschaft müssen mit Wasser gefüllt sein."
                         }
                       ]
                     }
                   ]
                 }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Pumpen für die Landwirtschaft: vielseitig einsetzbar"
+              }
+            ]
+          },
+          {
+            "_uid": "6adeeda2b923",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "7b96bdc56707",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/segmenten-agro-2.webp",
+                  "alt": "Bewässerungsanlage beregnet Pflanzenreihen, angetrieben von Industriepumpen für landwirtschaftliche Anwendungen",
+                  "width": 1000,
+                  "height": 667
                 }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Für die Bewässerung stehen verschiedene Arten von "
-                },
-                {
-                  "type": "text",
-                  "text": "Agrarpumpen",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " zur Verfügung, zum Beispiel eine "
-                },
-                {
-                  "type": "text",
-                  "text": "Beregnungspumpe",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " für die Landwirtschaft. Manche sind speziell für bestimmte Wasserbedarfe in der Landwirtschaft ausgelegt. Landwirtschaftspumpen spielen eine grundlegende Rolle, weil sie das Wasser von der Quelle zu den Feldern fördern. Sie sind unverzichtbar, denn sie bilden den ersten Schritt der Bewässerung von Kulturen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Wahl der Pumpe hängt von der Art der Bewässerung ab, etwa Tropfbewässerung, Oberflächenbewässerung, Sprinkler und weiteren Verfahren."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Höherer Wirkungsgrad und umweltfreundlich",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Elektrische Wasserpumpen haben einen höheren Wirkungsgrad als dieselmotorisch angetriebene Pumpen und verursachen keine Kohlenstoffemissionen. Damit sind sie eine umweltfreundliche Wahl."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Geeignet für Hochdruckbewässerung",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Für Bewässerungssysteme, die unter Druck stehen, eignen sich diese Pumpen, weil sie hohen Druck liefern und Flüssigkeiten damit effizient fördern."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Vielseitig im Einsatz",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Membranpumpen eignen sich für Bewässerung, Unkrautbekämpfung und die Behandlung von Obstgärten, Weinbergen und Olivenhainen."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Elektrische Wasserpumpe für die Landwirtschaft"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Elektrische Wasserpumpen",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " für die Landwirtschaft haben einen höheren Wirkungsgrad und stoßen im Gegensatz zu dieselmotorisch angetriebenen Beregnungspumpen, die nur 20–35 % Wirkungsgrad erreichen, keinen Kohlenstoff aus. Dennoch werden Dieselmotorpumpen mitunter für bestimmte Bewässerungsanwendungen eingesetzt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Manche Bewässerungssysteme stehen unter Druck; in solchen Fällen sind "
-                },
-                {
-                  "type": "text",
-                  "text": "Hochdruckpumpen",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " erforderlich, um die Flüssigkeit zu fördern. "
-                },
-                {
-                  "type": "text",
-                  "text": "Membranpumpen",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " werden vor allem für Bewässerung, Unkrautbekämpfung und die Behandlung von Obstgärten, Weinbergen und Olivenhainen eingesetzt, oft mit Hochdruckspritzen."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kreiselpumpe für die Bewässerung"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kreiselpumpen",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " werden gewöhnlich bei Oberflächenwasserquellen (Seen, Flüsse, Tanks) oder flachen Grundwasserquellen eingesetzt. Sie müssen jedoch sorgfältig verwendet werden: Die Saugleitung und die Beregnungspumpe für die Landwirtschaft müssen mit Wasser gefüllt sein."
-                }
-              ]
-            }
-          ]
-        }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "1d8b04f9f111",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/segmenten-agro-2.webp",
-          "alt": "Bewässerungsanlage beregnet Pflanzenreihen, angetrieben von Industriepumpen für landwirtschaftliche Anwendungen",
-          "width": 1000,
-          "height": 667
-        }
-      },
-      {
-        "_uid": "cf507884f2c3",
+        "_uid": "f83e98b63467",
         "component": "rich_text",
         "content": {
           "type": "doc",
@@ -370,191 +518,257 @@
         }
       },
       {
-        "_uid": "a3fca31d19c2",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-aeb.webp",
-          "alt": "Kundenlogo AEB",
-          "width": 387,
-          "height": 241
-        }
+        "_uid": "703cffbd452e",
+        "component": "logo_carousel",
+        "logos": [
+          {
+            "_uid": "e4d41818eef5",
+            "component": "logo_item",
+            "name": "AEB Amsterdam",
+            "image": {
+              "filename": "/img/clients/aeb-amsterdam.webp",
+              "alt": "AEB Amsterdam",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "042db2538c5a",
+            "component": "logo_item",
+            "name": "AkzoNobel",
+            "image": {
+              "filename": "/img/clients/akzonobel.webp",
+              "alt": "AkzoNobel",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "bbc708c42fc7",
+            "component": "logo_item",
+            "name": "HVC",
+            "image": {
+              "filename": "/img/clients/hvc.webp",
+              "alt": "HVC",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "514dfe537b64",
+            "component": "logo_item",
+            "name": "Petrogas",
+            "image": {
+              "filename": "/img/clients/petrogas.webp",
+              "alt": "Petrogas",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "ccbb6438486c",
+            "component": "logo_item",
+            "name": "Tata Steel",
+            "image": {
+              "filename": "/img/clients/tata-steel.webp",
+              "alt": "Tata Steel",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "883bbdd3bc9e",
+            "component": "logo_item",
+            "name": "Waternet",
+            "image": {
+              "filename": "/img/clients/waternet.webp",
+              "alt": "Waternet",
+              "width": 280,
+              "height": 140
+            }
+          }
+        ]
       },
       {
-        "_uid": "ced507ce9736",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-akzonobel.webp",
-          "alt": "Kundenlogo AkzoNobel",
-          "width": 387,
-          "height": 241
-        }
+        "_uid": "1548bd6bda09",
+        "component": "section_row",
+        "layout": "carousel",
+        "columns": [
+          {
+            "_uid": "09f742d02d40",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "b52beb5e3995",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Nachhaltige Lösungen und stets mitdenkend im Prozess!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bei IPG erlebe ich stets ein hohes Maß an Flexibilität und Wissen über unsere Branche. Das Unternehmen liefert Lösungen, die nicht nur effizient sind, sondern auch zu unseren Nachhaltigkeitszielen passen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Berater bei einem Gartenbaubetrieb."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "f73ccbd62061",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "5a9a964a08d5",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Zuverlässige Zusammenarbeit und hervorragende Begleitung!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Das Team von IPG hat sich als starker Partner erwiesen, der unsere Betriebsziele versteht. Die schnelle Unterstützung bei technischen Fragen ist für uns wesentlich."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Betriebsleiter eines Viehhaltungsbetriebs in den Niederlanden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "fffe2e3f9a4b",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ba135cb7f96b",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Lösungsorientiert und kundenorientiert zu jeder Zeit!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG denkt mit uns bei der Suche nach innovativen Lösungen mit, sowohl bei geplanten Erweiterungen als auch in unvorhergesehenen Situationen. Ein professioneller und zuverlässiger Partner!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Projektleiter eines land- und gartenbaulichen Betriebs in den Niederlanden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "bf24453774f1",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-hvc.webp",
-          "alt": "Kundenlogo HVC",
-          "width": 387,
-          "height": 241
-        }
+        "_uid": "04c998eec51a",
+        "component": "cta_band",
+        "heading": "Unverbindlich Kontakt aufnehmen",
+        "text": "Wir beraten Sie gern zu Auswahl, Ersatz und Revision Ihrer Pumpe.",
+        "button_label": "Kontakt aufnehmen",
+        "button_link": {
+          "fieldtype": "multilink",
+          "linktype": "url",
+          "url": "/kontakt",
+          "cached_url": "/kontakt"
+        },
+        "variant": "primary"
       },
       {
-        "_uid": "9c2b8626a737",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-petrogas.webp",
-          "alt": "Kundenlogo Petrogas",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "9f8f8fe31fc1",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-tatasteel.webp",
-          "alt": "Kundenlogo Tata Steel",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "2ccbdb3c8a6d",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-waternet.webp",
-          "alt": "Kundenlogo Waternet",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "275483edc1e8",
+        "_uid": "dbfbc8589082",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Nachhaltige Lösungen und stets mitdenkend im Prozess!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bei IPG erlebe ich stets ein hohes Maß an Flexibilität und Wissen über unsere Branche. Das Unternehmen liefert Lösungen, die nicht nur effizient sind, sondern auch zu unseren Nachhaltigkeitszielen passen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Berater bei einem Gartenbaubetrieb."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zuverlässige Zusammenarbeit und hervorragende Begleitung!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Das Team von IPG hat sich als starker Partner erwiesen, der unsere Betriebsziele versteht. Die schnelle Unterstützung bei technischen Fragen ist für uns wesentlich."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Betriebsleiter eines Viehhaltungsbetriebs in den Niederlanden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Lösungsorientiert und kundenorientiert zu jeder Zeit!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG denkt mit uns bei der Suche nach innovativen Lösungen mit, sowohl bei geplanten Erweiterungen als auch in unvorhergesehenen Situationen. Ein professioneller und zuverlässiger Partner!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Projektleiter eines land- und gartenbaulichen Betriebs in den Niederlanden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 4
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Unverbindlich Kontakt aufnehmen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -632,122 +846,156 @@
         }
       },
       {
-        "_uid": "6b5b25f6e034",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-product2.webp",
-          "alt": "Kreiselpumpen für die Landwirtschaft | IPG",
-          "width": 242,
-          "height": 168
-        }
+        "_uid": "deb3b85c1b99",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "b1718f17d96a",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "0414f2f6322d",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/homepage-product2.webp",
+                  "alt": "Kreiselpumpen für die Landwirtschaft | IPG",
+                  "width": 242,
+                  "height": 168
+                }
+              },
+              {
+                "_uid": "b16aef93362c",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Kreiselpumpen lesen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kreiselpumpen fördern Flüssigkeit durch Rotation und Druckerhöhung."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "8d562a3b06e1",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "1b10765fce7d",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/homepage-bronpomp.webp",
+                  "alt": "Brunnenpumpen für die Landwirtschaft | IPG",
+                  "width": 168,
+                  "height": 184
+                }
+              },
+              {
+                "_uid": "9984cb0cea66",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Brunnenpumpen lesen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Brunnenpumpen fördern Grundwasser aus einem Brunnen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "6eb763ac425f",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "a998558f3cd6",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/homepage-product.webp",
+                  "alt": "Tauchmotorpumpen für die Landwirtschaft | IPG",
+                  "width": 168,
+                  "height": 184
+                }
+              },
+              {
+                "_uid": "633f4ac15918",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Tauchmotorpumpen lesen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Fördert aus einem tiefen Brunnen oder Teich, indem die Pumpe in die Flüssigkeit eingetaucht wird."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "4873ec2f6e19",
+        "_uid": "d0dcd5f2dc9c",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Kreiselpumpen lesen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kreiselpumpen fördern Flüssigkeit durch Rotation und Druckerhöhung."
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "561442818a88",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-bronpomp.webp",
-          "alt": "Brunnenpumpen für die Landwirtschaft | IPG",
-          "width": 168,
-          "height": 184
-        }
-      },
-      {
-        "_uid": "6c42c1c23eee",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Brunnenpumpen lesen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Brunnenpumpen fördern Grundwasser aus einem Brunnen."
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "26c29cfcf820",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-product.webp",
-          "alt": "Tauchmotorpumpen für die Landwirtschaft | IPG",
-          "width": 168,
-          "height": 184
-        }
-      },
-      {
-        "_uid": "47986fae4f40",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Tauchmotorpumpen lesen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Fördert aus einem tiefen Brunnen oder Teich, indem die Pumpe in die Flüssigkeit eingetaucht wird."
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -828,195 +1076,245 @@
         }
       },
       {
-        "_uid": "64b9acde7798",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/ipg-ecom-saer-saer-m-50-60-70-80.webp",
-          "alt": "M 80",
-          "width": 1024,
-          "height": 1024
-        }
-      },
-      {
-        "_uid": "07a2d0ff13db",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "SAER"
-                },
-                {
-                  "type": "hard_break"
-                },
-                {
-                  "type": "text",
-                  "text": "M 80"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "b7f0557a1c5f",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/ipg-ecom-lowara-lowara-bg.webp",
-          "alt": "BGM3/A",
-          "width": 465,
-          "height": 465
-        }
-      },
-      {
-        "_uid": "22972ada6983",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "LOWARA"
-                },
-                {
-                  "type": "hard_break"
-                },
-                {
-                  "type": "text",
-                  "text": "BGM3/A"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "1427ccb9ca97",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/ipg-ecom-saer-saer-ir.webp",
-          "alt": "IR40-125 SB",
-          "width": 1024,
-          "height": 1024
-        }
-      },
-      {
-        "_uid": "95cc965a04fd",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "SAER"
-                },
-                {
-                  "type": "hard_break"
-                },
-                {
-                  "type": "text",
-                  "text": "IR40-125 SB"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "c856efd25d2d",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/ipg-ecom-lowara-lowara-domo.webp",
-          "alt": "DOMO 20T/B",
-          "width": 465,
-          "height": 465
-        }
-      },
-      {
-        "_uid": "a3708ccf1fc1",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "LOWARA"
-                },
-                {
-                  "type": "hard_break"
-                },
-                {
-                  "type": "text",
-                  "text": "DOMO 20T/B"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "025dda3006f0",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/segmenten-agro-3.webp",
-          "alt": "Wasser strömt aus einer Rohrleitung zur Bewässerung von Ackerland mit einer Industriepumpe",
-          "width": 1000,
-          "height": 667
-        }
-      },
-      {
-        "_uid": "d2b715b628b1",
-        "component": "faq",
-        "heading": "Häufige Fragen",
-        "items": [
+        "_uid": "12915d894a94",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
           {
-            "_uid": "6b6a739fce59",
-            "component": "faq_item",
-            "question": "Welche Pumpenarten eignen sich für landwirtschaftliche Anwendungen?",
-            "answer": "Für landwirtschaftliche Anwendungen eignen sich verschiedene Pumpenarten, darunter Kreiselpumpen, selbstansaugende Pumpen, Tauchmotorpumpen, Brunnenpumpen und Druckpumpen."
+            "_uid": "c02e197cb62d",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "45022121a21a",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/ipg-ecom-saer-saer-m-50-60-70-80.webp",
+                  "alt": "M 80",
+                  "width": 1024,
+                  "height": 1024
+                }
+              },
+              {
+                "_uid": "095ffb51e5c5",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "SAER"
+                        },
+                        {
+                          "type": "hard_break"
+                        },
+                        {
+                          "type": "text",
+                          "text": "M 80"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
           },
           {
-            "_uid": "543334de9aa3",
-            "component": "faq_item",
-            "question": "Warum sind bestimmte Pumpen für landwirtschaftliche Anwendungen besser geeignet?",
-            "answer": "Die Wahl einer bestimmten Pumpe hängt von mehreren Faktoren ab, etwa von der Art der zu fördernden Flüssigkeit, der benötigten Menge, den Druckanforderungen und dem Aufstellort der Pumpe."
+            "_uid": "d6f9273a69de",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "2c811080e5ca",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/ipg-ecom-lowara-lowara-bg.webp",
+                  "alt": "BGM3/A",
+                  "width": 465,
+                  "height": 465
+                }
+              },
+              {
+                "_uid": "5b596deb8342",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "LOWARA"
+                        },
+                        {
+                          "type": "hard_break"
+                        },
+                        {
+                          "type": "text",
+                          "text": "BGM3/A"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
           },
           {
-            "_uid": "5e5ed9e6602d",
-            "component": "faq_item",
-            "question": "Wie wird die Leistung einer Beregnungspumpe für die Landwirtschaft bestimmt?",
-            "answer": "Die Leistung einer Beregnungspumpe für die Landwirtschaft bestimmt sich nach der Flüssigkeitsmenge, die pro Zeiteinheit gefördert werden muss. Sie wird in Litern pro Minute oder in Gallonen pro Minute angegeben."
+            "_uid": "80b7bb2775db",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "0c9d0dd4ed77",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/ipg-ecom-saer-saer-ir.webp",
+                  "alt": "IR40-125 SB",
+                  "width": 1024,
+                  "height": 1024
+                }
+              },
+              {
+                "_uid": "bf72020d1980",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "SAER"
+                        },
+                        {
+                          "type": "hard_break"
+                        },
+                        {
+                          "type": "text",
+                          "text": "IR40-125 SB"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
           },
           {
-            "_uid": "67706fdd460b",
-            "component": "faq_item",
-            "question": "Wie wartet man eine Pumpe für landwirtschaftliche Anwendungen?",
-            "answer": "Eine Pumpe für landwirtschaftliche Anwendungen sollte regelmäßig von einer qualifizierten Fachkraft gewartet werden. Dazu gehören die Inspektion von Verschleißteilen, der Austausch von Verbrauchsteilen und die Reinigung der Pumpe."
+            "_uid": "450963780ac6",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "5c8cbff593e1",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/ipg-ecom-lowara-lowara-domo.webp",
+                  "alt": "DOMO 20T/B",
+                  "width": 465,
+                  "height": 465
+                }
+              },
+              {
+                "_uid": "0afb69bb6a18",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "LOWARA"
+                        },
+                        {
+                          "type": "hard_break"
+                        },
+                        {
+                          "type": "text",
+                          "text": "DOMO 20T/B"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "63ea8de154f8",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "b92419cb9071",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "d51e96ada13f",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/segmenten-agro-3.webp",
+                  "alt": "Wasser strömt aus einer Rohrleitung zur Bewässerung von Ackerland mit einer Industriepumpe",
+                  "width": 1000,
+                  "height": 667
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "9e199ea93836",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "f219a3540626",
+                "component": "faq",
+                "heading": "Häufige Fragen",
+                "items": [
+                  {
+                    "_uid": "d427bd1691c6",
+                    "component": "faq_item",
+                    "question": "Welche Pumpenarten eignen sich für landwirtschaftliche Anwendungen?",
+                    "answer": "Für landwirtschaftliche Anwendungen eignen sich verschiedene Pumpenarten, darunter Kreiselpumpen, selbstansaugende Pumpen, Tauchmotorpumpen, Brunnenpumpen und Druckpumpen."
+                  },
+                  {
+                    "_uid": "9c25b789038d",
+                    "component": "faq_item",
+                    "question": "Warum sind bestimmte Pumpen für landwirtschaftliche Anwendungen besser geeignet?",
+                    "answer": "Die Wahl einer bestimmten Pumpe hängt von mehreren Faktoren ab, etwa von der Art der zu fördernden Flüssigkeit, der benötigten Menge, den Druckanforderungen und dem Aufstellort der Pumpe."
+                  },
+                  {
+                    "_uid": "49d2d3eafd3d",
+                    "component": "faq_item",
+                    "question": "Wie wird die Leistung einer Beregnungspumpe für die Landwirtschaft bestimmt?",
+                    "answer": "Die Leistung einer Beregnungspumpe für die Landwirtschaft bestimmt sich nach der Flüssigkeitsmenge, die pro Zeiteinheit gefördert werden muss. Sie wird in Litern pro Minute oder in Gallonen pro Minute angegeben."
+                  },
+                  {
+                    "_uid": "66afd86d134c",
+                    "component": "faq_item",
+                    "question": "Wie wartet man eine Pumpe für landwirtschaftliche Anwendungen?",
+                    "answer": "Eine Pumpe für landwirtschaftliche Anwendungen sollte regelmäßig von einer qualifizierten Fachkraft gewartet werden. Dazu gehören die Inspektion von Verschleißteilen, der Austausch von Verbrauchsteilen und die Reinigung der Pumpe."
+                  }
+                ]
+              }
+            ]
           }
         ]
       }

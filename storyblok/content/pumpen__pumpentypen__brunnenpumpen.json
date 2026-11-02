@@ -15,612 +15,860 @@
     "topic_kind": "pumpentyp",
     "body": [
       {
-        "_uid": "70adc43d5081",
+        "_uid": "34385972f8d0",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "099370cb7c40",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ae78f23be6df",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Brunnenpumpen sind Pumpensysteme, die Wasser aus tiefen unterirdischen Brunnen nach oben fördern, zur Verwendung in Bewässerung, Trinkwasserversorgung und industriellen Anwendungen. Sie sind leistungsstark, effizient und langlebig."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "0a32955f7692",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "7680cabd5af7",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Agrar",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/branchen/landwirtschaft",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Entwässerung",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/branchen/haushalt",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Haushalt",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/branchen/haushalt",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "SAER-Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/marken/saer",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Lowara-Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/marken/lowara",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Ebara-Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/marken/ebara",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "37c5775ad505",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "d7c880c12ee1",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "5d72740f00e9",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Funktion, Anwendungen und Wartung: Brunnenpumpen, alles Wissenswerte"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "3f49326b2c9b",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "1301f8b37155",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Das Funktionsprinzip von Brunnenpumpen entspricht dem einer Tauchmotorpumpe oder Kreiselpumpe. Die Pumpe besteht aus einem Laufradgehäuse und einem elektrisch versorgten Pumpenmotor."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Der große Unterschied liegt in der Bauform: Eine Brunnenpumpe ist langgestreckt, wobei Pumpengehäuse und Motor in einer Linie sitzen. Der Grund ist ebenso einfach wie wirkungsvoll: Die Pumpe wird in einen Brunnen eingesetzt, und da der Durchmesser des Brunnens von der Pumpe bestimmt wird, kommt es darauf an, ihn so klein wie möglich zu halten. Ein begrenzter Durchmesser senkt außerdem die Kosten für die Herstellung des Brunnens."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Das Angebot ist groß und kann auf den Kundenwunsch abgestimmt werden. Es reicht von 3 Zoll bis 48 Zoll, wobei der Bereich von 4 Zoll bis 18 Zoll am häufigsten verkauft wird."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "0747ca81c103",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "c496ffdc1e53",
+            "component": "section_column",
+            "icon": "fa-puzzle-piece",
+            "content": [
+              {
+                "_uid": "89dd80cd1975",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kompakter und effizienter Aufbau",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Brunnenpumpen haben einen langgestreckten Aufbau, bei dem Pumpengehäuse und Motor in einer Linie sitzen. Dadurch eignen sie sich für schmale Brunnen, und die Herstellungskosten bleiben niedrig."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "8fd33446cf8e",
+            "component": "section_column",
+            "icon": "fa-lightbulb",
+            "content": [
+              {
+                "_uid": "2c68fe0cc951",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Hoher Wirkungsgrad und energiesparend",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Diese Pumpen erreichen einen hohen Wirkungsgrad, weil turbulente Strömungen vermieden werden. Das ergibt einen geringen Energieverbrauch und optimale Leistung."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "f886c0e2cb8c",
+            "component": "section_column",
+            "icon": "fa-hourglass",
+            "content": [
+              {
+                "_uid": "4cc8ae860983",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Langlebig mit hoher Standzeit",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Brunnenpumpen sind für lange Standzeiten ausgelegt, selbst bei Sand und Erdreich im Wasser, und daher für den Dauereinsatz zuverlässig."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "455781fa40b8",
+            "component": "section_column",
+            "icon": "fa-sync-alt",
+            "content": [
+              {
+                "_uid": "5a8f4b0728d8",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Für verschiedene Anwendungen geeignet",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Diese Pumpen sind vielseitig und für ein breites Spektrum an Anwendungen geeignet, zum Beispiel Gartenbewässerung, Druckerhöhungsanlagen und Brandbekämpfung, mit verschiedenen Werkstoffoptionen für spezifische Anforderungen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "b0a04e704ca8",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "91e5e2e2193b",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "777dcbefa7a2",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Worauf stützt sich die Auswahl von Brunnenpumpen?"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Selbstverständlich hilft Ihnen ein Experte von IPG gern bei der Auswahl der passenden Brunnenpumpe für Ihre Anwendung. Dazu können Sie jederzeit unverbindlich Kontakt mit uns aufnehmen oder ein Angebot anfordern. Auf den folgenden Punkten gründen wir unter anderem die Auswahl; bitte beachten Sie daher, dass diese Angaben bekannt sein müssen oder wir sie gemeinsam in einem unverbindlichen Telefongespräch ermitteln können."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Wie groß ist der Brunnen? Wie groß ist der Durchmesser? Die Pumpe muss hineinpassen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Tiefe des Brunnens:"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Nicht unwichtig ist, wie tief das Wasser im Brunnen steht, also wie hoch der Wasserspiegel ist. Eine Brunnenpumpe verträgt keinen Trockenlauf, daher muss stets genügend Wasserzufuhr zur Pumpe im Brunnen vorhanden sein."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Förderhöhe der Pumpe:"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Wichtig ist zu wissen, aus welcher Tiefe das Wasser gefördert werden muss, aber auch, wie viel Druck anschließend erforderlich ist, um das Medium weiterzufördern. Diese Förderhöhe lässt sich oft berechnen, wenn Sie mehr über den Ort wissen, an dem das Medium benötigt wird, oder über das Rohrleitungssystem."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Förderstrom der Pumpe:"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Wie viele Liter bzw. Kubikmeter werden pro Sekunde, Minute oder Stunde benötigt? Welche Menge Medium muss die Pumpe liefern? Diese Frage wird oft gemeinsam mit der Förderhöhe der Pumpe gestellt, und die Menge wird auch als Förderstrom der Pumpe bezeichnet."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "048a2978d361",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "a828ac28298a",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-saer-bronpomp-2.webp",
+                  "alt": "Industrielles Brunnenpumpensystem für tiefe Brunnen und Wasserentnahme, ausgelegt für Langlebigkeit und Effizienz in rauen Umgebungen",
+                  "width": 738,
+                  "height": 481
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "f92a3feb1446",
+        "component": "section_row",
+        "layout": "carousel",
+        "columns": [
+          {
+            "_uid": "70a14b2f2f89",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "5f665ce0ee5e",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Hervorragende und zugängliche Kundenbetreuung bei jedem Kontakt!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Der Einsatz ist perfekt und sehr serviceorientiert, sowohl telefonisch als auch bei geplanter Umsetzung und bei ungeplanten Störungen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Projektleiter RGR bei einem Abfallentsorger in den Niederlanden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "ad49627c901d",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "9ce3dcaa71f4",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Hervorragende Erfahrung mit IPG: Professionalität, Qualität und proaktive Problemlösung!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Arbeitsvorbereiter erlebe ich IPG als sehr professionell. Das Unternehmen strebt nach Qualität, denkt bei Verbesserungen mit und behebt Störungen schnell, um Stillstand zu minimieren."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Arbeitsvorbereiter Störungen bei einem Wasserverband."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "99ac7076820f",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "379c9884329e",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ein zuverlässiger Partner mit hervorragendem Service und kundenorientierter Beratung!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ich erlebe IPG als sehr guten Partner, ein Unternehmen, das Service großschreibt und mit den Kunden mitdenkt und berät."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Arbeitsvorbereiter Technischer Dienst bei einem Abfallverwerter in den Niederlanden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "db0855f5e3cf",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "dca42f43cb25",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Zuverlässige und langlebige Brunnenpumpen für den Dauereinsatz!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Brunnenpumpen von IPG sind von hervorragender Qualität und langlebig, bestens geeignet für den Dauereinsatz in unserem Wassermanagement. Sie arbeiten auch unter schweren Bedingungen weiterhin gut."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Operations Manager bei einem Wasserverband in den Niederlanden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "32e629a65f83",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "83d0c261f3a8",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Effiziente und einfach zu wartende Brunnenpumpen!",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Brunnenpumpen von IPG sind effizient und erfordern wenig Wartung, was uns hilft, die Betriebskosten niedrig zu halten. Das IPG-Team steht stets für Beratung und Support zur Verfügung."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Technischer Anlagenverwalter",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " bei einem landwirtschaftlichen Betrieb."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "c4c354cbc139",
+        "component": "cta_band",
+        "heading": "Unverbindlich Kontakt aufnehmen",
+        "text": "Wir beraten Sie gern zu Auswahl, Ersatz und Revision Ihrer Pumpe.",
+        "button_label": "Kontakt aufnehmen",
+        "button_link": {
+          "fieldtype": "multilink",
+          "linktype": "url",
+          "url": "/kontakt",
+          "cached_url": "/kontakt"
+        },
+        "variant": "primary"
+      },
+      {
+        "_uid": "69a1959ad907",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Brunnenpumpen sind Pumpensysteme, die Wasser aus tiefen unterirdischen Brunnen nach oben fördern, zur Verwendung in Bewässerung, Trinkwasserversorgung und industriellen Anwendungen. Sie sind leistungsstark, effizient und langlebig."
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Agrar",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/branchen/landwirtschaft",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Entwässerung",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/branchen/haushalt",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Haushalt",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/branchen/haushalt",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "SAER-Pumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/marken/saer",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Lowara-Pumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/marken/lowara",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Ebara-Pumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/marken/ebara",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Funktion, Anwendungen und Wartung: Brunnenpumpen, alles Wissenswerte"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Das Funktionsprinzip von Brunnenpumpen entspricht dem einer Tauchmotorpumpe oder Kreiselpumpe. Die Pumpe besteht aus einem Laufradgehäuse und einem elektrisch versorgten Pumpenmotor."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Der große Unterschied liegt in der Bauform: Eine Brunnenpumpe ist langgestreckt, wobei Pumpengehäuse und Motor in einer Linie sitzen. Der Grund ist ebenso einfach wie wirkungsvoll: Die Pumpe wird in einen Brunnen eingesetzt, und da der Durchmesser des Brunnens von der Pumpe bestimmt wird, kommt es darauf an, ihn so klein wie möglich zu halten. Ein begrenzter Durchmesser senkt außerdem die Kosten für die Herstellung des Brunnens."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Das Angebot ist groß und kann auf den Kundenwunsch abgestimmt werden. Es reicht von 3 Zoll bis 48 Zoll, wobei der Bereich von 4 Zoll bis 18 Zoll am häufigsten verkauft wird."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kompakter und effizienter Aufbau",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Brunnenpumpen haben einen langgestreckten Aufbau, bei dem Pumpengehäuse und Motor in einer Linie sitzen. Dadurch eignen sie sich für schmale Brunnen, und die Herstellungskosten bleiben niedrig."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Hoher Wirkungsgrad und energiesparend",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Diese Pumpen erreichen einen hohen Wirkungsgrad, weil turbulente Strömungen vermieden werden. Das ergibt einen geringen Energieverbrauch und optimale Leistung."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Langlebig mit hoher Standzeit",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Brunnenpumpen sind für lange Standzeiten ausgelegt, selbst bei Sand und Erdreich im Wasser, und daher für den Dauereinsatz zuverlässig."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Für verschiedene Anwendungen geeignet",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Diese Pumpen sind vielseitig und für ein breites Spektrum an Anwendungen geeignet, zum Beispiel Gartenbewässerung, Druckerhöhungsanlagen und Brandbekämpfung, mit verschiedenen Werkstoffoptionen für spezifische Anforderungen."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Worauf stützt sich die Auswahl von Brunnenpumpen?"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Selbstverständlich hilft Ihnen ein Experte von IPG gern bei der Auswahl der passenden Brunnenpumpe für Ihre Anwendung. Dazu können Sie jederzeit unverbindlich Kontakt mit uns aufnehmen oder ein Angebot anfordern. Auf den folgenden Punkten gründen wir unter anderem die Auswahl; bitte beachten Sie daher, dass diese Angaben bekannt sein müssen oder wir sie gemeinsam in einem unverbindlichen Telefongespräch ermitteln können."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Wie groß ist der Brunnen? Wie groß ist der Durchmesser? Die Pumpe muss hineinpassen."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Tiefe des Brunnens:"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Nicht unwichtig ist, wie tief das Wasser im Brunnen steht, also wie hoch der Wasserspiegel ist. Eine Brunnenpumpe verträgt keinen Trockenlauf, daher muss stets genügend Wasserzufuhr zur Pumpe im Brunnen vorhanden sein."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Förderhöhe der Pumpe:"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Wichtig ist zu wissen, aus welcher Tiefe das Wasser gefördert werden muss, aber auch, wie viel Druck anschließend erforderlich ist, um das Medium weiterzufördern. Diese Förderhöhe lässt sich oft berechnen, wenn Sie mehr über den Ort wissen, an dem das Medium benötigt wird, oder über das Rohrleitungssystem."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Förderstrom der Pumpe:"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Wie viele Liter bzw. Kubikmeter werden pro Sekunde, Minute oder Stunde benötigt? Welche Menge Medium muss die Pumpe liefern? Diese Frage wird oft gemeinsam mit der Förderhöhe der Pumpe gestellt, und die Menge wird auch als Förderstrom der Pumpe bezeichnet."
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "e9a1a9f0dba8",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-saer-bronpomp-2.webp",
-          "alt": "Industrielles Brunnenpumpensystem für tiefe Brunnen und Wasserentnahme, ausgelegt für Langlebigkeit und Effizienz in rauen Umgebungen",
-          "width": 738,
-          "height": 481
-        }
-      },
-      {
-        "_uid": "57d8f3ac58bd",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Hervorragende und zugängliche Kundenbetreuung bei jedem Kontakt!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Der Einsatz ist perfekt und sehr serviceorientiert, sowohl telefonisch als auch bei geplanter Umsetzung und bei ungeplanten Störungen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Projektleiter RGR bei einem Abfallentsorger in den Niederlanden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Hervorragende Erfahrung mit IPG: Professionalität, Qualität und proaktive Problemlösung!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Arbeitsvorbereiter erlebe ich IPG als sehr professionell. Das Unternehmen strebt nach Qualität, denkt bei Verbesserungen mit und behebt Störungen schnell, um Stillstand zu minimieren."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Arbeitsvorbereiter Störungen bei einem Wasserverband."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ein zuverlässiger Partner mit hervorragendem Service und kundenorientierter Beratung!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ich erlebe IPG als sehr guten Partner, ein Unternehmen, das Service großschreibt und mit den Kunden mitdenkt und berät."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Arbeitsvorbereiter Technischer Dienst bei einem Abfallverwerter in den Niederlanden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zuverlässige und langlebige Brunnenpumpen für den Dauereinsatz!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Brunnenpumpen von IPG sind von hervorragender Qualität und langlebig, bestens geeignet für den Dauereinsatz in unserem Wassermanagement. Sie arbeiten auch unter schweren Bedingungen weiterhin gut."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Operations Manager bei einem Wasserverband in den Niederlanden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Effiziente und einfach zu wartende Brunnenpumpen!",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Brunnenpumpen von IPG sind effizient und erfordern wenig Wartung, was uns hilft, die Betriebskosten niedrig zu halten. Das IPG-Team steht stets für Beratung und Support zur Verfügung."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Technischer Anlagenverwalter",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " bei einem landwirtschaftlichen Betrieb."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 4
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Unverbindlich Kontakt aufnehmen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -734,127 +982,173 @@
                   "text": "Auch das italienische Unternehmen Ebara fertigt Brunnenpumpen, meist in 3 Zoll und 4 Zoll und aus Edelstahl. Diese Pumpen eignen sich besonders für Gartenbewässerung, Druckerhöhungsanlagen und Brandbekämpfung. Beliebte Brunnenpumpen-Serien dieser Marke sind die Serien SB und Winner. Beide Serien sind mit einem standardisierten NEMA-Motor ausgeführt."
                 }
               ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Der Motor: technische Ausführung"
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "e67764e73795",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "eb90cc130e9f",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "597c8366c886",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Der Motor: technische Ausführung"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Der Unterwassermotor ist ein Asynchronmotor, der aus den Bauteilen Stator, Rotor und Lager besteht. Da der Motor ständig untergetaucht ist, unterscheidet sich die Konstruktion von einem Standard-Normmotor. Sowohl die speziellen druckbelasteten Lager als auch der Einsatz einer Gleitringdichtung im Motor weichen von einem Standardmotor ab. Der Motor kann hermetisch wasserdicht abgeschlossen sein, wobei die Kühlung durch das umgebende Medium erfolgt, oder wiederwickelbar sein, am Markt „Rewindable“ oder Nassläufermotor genannt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Wegen der Aufstellung unter Wasser kann keine Belüftung eingesetzt werden. Die Motoren sind daher mit Wasser oder Öl gefüllt. Wichtig ist, zu berücksichtigen, dass um den Motor eine Mindestströmungsgeschwindigkeit erzeugt werden muss, um die Kühlung des Motors sicherzustellen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Um dies zu optimieren, müssen Pumpe und Brunnendurchmesser aufeinander abgestimmt sein. Wird die Pumpe horizontal installiert, kann ein Kühlmantel eingesetzt werden, um die erforderliche Strömungsgeschwindigkeit am Motor zu erreichen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Wenn die Pumpe gestartet wird, dreht sich die Flüssigkeit in der Pumpe mit dem Laufrad mit. Die Flüssigkeit unterliegt der Wirkung der Fliehkraft. Dadurch strömt sie am Außenumfang des Laufrads in das Pumpengehäuse und anschließend über den Druckstutzen in die Druckleitung. Diese Pumpen können jedoch nicht trockenlaufen (Pumpen ohne Flüssigkeit); die Vorteile von Kreiselpumpen lesen Sie unten auf der Seite."
+                        }
+                      ]
+                    }
+                  ]
                 }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Der Unterwassermotor ist ein Asynchronmotor, der aus den Bauteilen Stator, Rotor und Lager besteht. Da der Motor ständig untergetaucht ist, unterscheidet sich die Konstruktion von einem Standard-Normmotor. Sowohl die speziellen druckbelasteten Lager als auch der Einsatz einer Gleitringdichtung im Motor weichen von einem Standardmotor ab. Der Motor kann hermetisch wasserdicht abgeschlossen sein, wobei die Kühlung durch das umgebende Medium erfolgt, oder wiederwickelbar sein, am Markt „Rewindable“ oder Nassläufermotor genannt."
+              }
+            ]
+          },
+          {
+            "_uid": "c0aa20943a98",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "984cf48eb831",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Der Pumpenteil"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Brunnenpumpen sind modular aufgebaut. Die Pumpenbauteile werden aus Guss oder tiefgezogenem Edelstahl gefertigt. Der Guss kann für ein optimales Ergebnis in verschiedenen Werkstoffspezifikationen ausgeführt werden. Die Pumpenbauteile sind unter anderem lieferbar in Gusseisen, tiefgezogenem Edelstahl 304/316, gegossenem Edelstahl 316, zinkfreier Bronze, Nickel-Aluminium-Bronze, Duplex und Super-Duplex."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Laufräder werden dynamisch ausgewuchtet, um Schwingungen auf ein Minimum zu begrenzen. Die Pumpenwelle läuft in hochwertigen Radiallagern, die mit Wasser geschmiert werden. Alle dem Verschleiß unterliegenden Teile wie Spaltringe, Wellen- und Lagerbuchsen lassen sich einfach ersetzen. Standardmäßig sind die Pumpen mit einem Rückschlagventil ausgestattet, das in verschiedenen Ausführungen lieferbar ist."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Anwendungen von Brunnenpumpen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Unterwasserpumpen werden für Bewässerungszwecke in Land- und Gartenbau, in Beregnungsanlagen und für vielfältige industrielle Anwendungen eingesetzt. Außerdem werden die Pumpen im Bergbau, auf Baggerschiffen und als Ballastpumpen auf Schiffen und schwimmenden Plattformen in der On- und Offshore-Industrie eingesetzt. Jede Anwendung erfordert eine eigene Herangehensweise: Beim Fördern von Meerwasser in einer Offshore-Anwendung haben Sie es mit einer großen Vielfalt an Korrosions- und Oxidationsarten durch das Meerwasser zu tun. Hierfür setzen wir den Werkstoff Super-Duplex (DIN 1.4517), Marinebronze oder Nickel-Aluminium-Bronze ein."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ersatzteile für Brunnenpumpen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Für die größeren Brunnenpumpen unter anderem von SAER, Grundfos und Lowara liefert die Industrial Pump Group verschiedene Ersatzteile. Für O-Ringe, Dichtungen, Flachdichtungen oder sogar komplette Pumpenteile sind Sie bei IPG an der richtigen Adresse. Für Anfragen zu Ersatzteilen können Sie jederzeit ein kostenloses Angebot anfordern."
+                        }
+                      ]
+                    }
+                  ]
                 }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Wegen der Aufstellung unter Wasser kann keine Belüftung eingesetzt werden. Die Motoren sind daher mit Wasser oder Öl gefüllt. Wichtig ist, zu berücksichtigen, dass um den Motor eine Mindestströmungsgeschwindigkeit erzeugt werden muss, um die Kühlung des Motors sicherzustellen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Um dies zu optimieren, müssen Pumpe und Brunnendurchmesser aufeinander abgestimmt sein. Wird die Pumpe horizontal installiert, kann ein Kühlmantel eingesetzt werden, um die erforderliche Strömungsgeschwindigkeit am Motor zu erreichen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Wenn die Pumpe gestartet wird, dreht sich die Flüssigkeit in der Pumpe mit dem Laufrad mit. Die Flüssigkeit unterliegt der Wirkung der Fliehkraft. Dadurch strömt sie am Außenumfang des Laufrads in das Pumpengehäuse und anschließend über den Druckstutzen in die Druckleitung. Diese Pumpen können jedoch nicht trockenlaufen (Pumpen ohne Flüssigkeit); die Vorteile von Kreiselpumpen lesen Sie unten auf der Seite."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Der Pumpenteil"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Brunnenpumpen sind modular aufgebaut. Die Pumpenbauteile werden aus Guss oder tiefgezogenem Edelstahl gefertigt. Der Guss kann für ein optimales Ergebnis in verschiedenen Werkstoffspezifikationen ausgeführt werden. Die Pumpenbauteile sind unter anderem lieferbar in Gusseisen, tiefgezogenem Edelstahl 304/316, gegossenem Edelstahl 316, zinkfreier Bronze, Nickel-Aluminium-Bronze, Duplex und Super-Duplex."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Laufräder werden dynamisch ausgewuchtet, um Schwingungen auf ein Minimum zu begrenzen. Die Pumpenwelle läuft in hochwertigen Radiallagern, die mit Wasser geschmiert werden. Alle dem Verschleiß unterliegenden Teile wie Spaltringe, Wellen- und Lagerbuchsen lassen sich einfach ersetzen. Standardmäßig sind die Pumpen mit einem Rückschlagventil ausgestattet, das in verschiedenen Ausführungen lieferbar ist."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Anwendungen von Brunnenpumpen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Unterwasserpumpen werden für Bewässerungszwecke in Land- und Gartenbau, in Beregnungsanlagen und für vielfältige industrielle Anwendungen eingesetzt. Außerdem werden die Pumpen im Bergbau, auf Baggerschiffen und als Ballastpumpen auf Schiffen und schwimmenden Plattformen in der On- und Offshore-Industrie eingesetzt. Jede Anwendung erfordert eine eigene Herangehensweise: Beim Fördern von Meerwasser in einer Offshore-Anwendung haben Sie es mit einer großen Vielfalt an Korrosions- und Oxidationsarten durch das Meerwasser zu tun. Hierfür setzen wir den Werkstoff Super-Duplex (DIN 1.4517), Marinebronze oder Nickel-Aluminium-Bronze ein."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ersatzteile für Brunnenpumpen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Für die größeren Brunnenpumpen unter anderem von SAER, Grundfos und Lowara liefert die Industrial Pump Group verschiedene Ersatzteile. Für O-Ringe, Dichtungen, Flachdichtungen oder sogar komplette Pumpenteile sind Sie bei IPG an der richtigen Adresse. Für Anfragen zu Ersatzteilen können Sie jederzeit ein kostenloses Angebot anfordern."
-                }
-              ]
-            },
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "a4fc1f9518f3",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
             {
               "type": "heading",
               "attrs": {
@@ -889,43 +1183,62 @@
         }
       },
       {
-        "_uid": "75bb604500e9",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-bronpomp-3.webp",
-          "alt": "Verschiedene Typen von Brunnenpumpen, geeignet für Wasserentnahme und Anwendungen in tiefen Brunnen und Bohrbrunnen",
-          "width": 1000,
-          "height": 1000
-        }
-      },
-      {
-        "_uid": "b1dbb1d61d93",
-        "component": "faq",
-        "heading": "Häufige Fragen",
-        "items": [
+        "_uid": "d3d59b00dbc5",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
           {
-            "_uid": "0e659a7d5712",
-            "component": "faq_item",
-            "question": "Was ist eine Brunnenpumpe?",
-            "answer": "Eine Brunnenpumpe ist ein Typ von Wasserpumpe, der verwendet wird, um Wasser aus tiefen oder flachen Wasserquellen zu fördern, etwa aus einem Brunnen, einem Bohrloch oder einem unterirdischen Wasserspeicher."
+            "_uid": "05306d071d85",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "61e7af0aa695",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-bronpomp-3.webp",
+                  "alt": "Verschiedene Typen von Brunnenpumpen, geeignet für Wasserentnahme und Anwendungen in tiefen Brunnen und Bohrbrunnen",
+                  "width": 1000,
+                  "height": 1000
+                }
+              }
+            ]
           },
           {
-            "_uid": "32a3b77b6725",
-            "component": "faq_item",
-            "question": "Wofür werden Brunnenpumpen eingesetzt?",
-            "answer": "Brunnenpumpen werden häufig für die Bewässerung landwirtschaftlicher Kulturen, in der Viehhaltung, im Gartenbau, zum Befüllen von Schwimmbädern und für den Haushaltsgebrauch eingesetzt, etwa zur Wasserversorgung zum Trinken, Kochen und Waschen."
-          },
-          {
-            "_uid": "a483c4060f47",
-            "component": "faq_item",
-            "question": "Welche Arten von Brunnenpumpen gibt es?",
-            "answer": "Es gibt verschiedene Arten von Brunnenpumpen, darunter Tauchmotorpumpen und Kreiselpumpen. Tauchmotorpumpen werden ins Wasser getaucht und fördern, indem sie Wasser nach oben ziehen. Kreiselpumpen fördern, indem sie das Wasser mithilfe eines in der Pumpe sitzenden Laufrads nach oben drücken."
-          },
-          {
-            "_uid": "67fe0b50c76f",
-            "component": "faq_item",
-            "question": "Kann eine Brunnenpumpe einfrieren?",
-            "answer": "Ja, eine Brunnenpumpe kann einfrieren, wenn das Wasser in den Leitungen gefriert. Daher ist es wichtig, Pumpe und Leitungen vor Frost zu schützen, indem Sie sie dämmen oder die Pumpe in den Wintermonaten ausbauen und frostfrei lagern.\nEs kann sinnvoll sein, die Brunnenpumpe in den Wintermonaten abzuschalten, wenn Sie sie nicht nutzen, damit sie nicht einfriert. Dabei sind jedoch die Anweisungen des Herstellers zum Abschalten der Pumpe zu befolgen, da manche Pumpen besondere Maßnahmen erfordern, damit sie nicht beschädigt werden, wenn sie längere Zeit nicht genutzt werden."
+            "_uid": "3d9da3b9bb40",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "51063833520b",
+                "component": "faq",
+                "heading": "Häufige Fragen",
+                "items": [
+                  {
+                    "_uid": "8f6768d695f9",
+                    "component": "faq_item",
+                    "question": "Was ist eine Brunnenpumpe?",
+                    "answer": "Eine Brunnenpumpe ist ein Typ von Wasserpumpe, der verwendet wird, um Wasser aus tiefen oder flachen Wasserquellen zu fördern, etwa aus einem Brunnen, einem Bohrloch oder einem unterirdischen Wasserspeicher."
+                  },
+                  {
+                    "_uid": "82099d12a2d9",
+                    "component": "faq_item",
+                    "question": "Wofür werden Brunnenpumpen eingesetzt?",
+                    "answer": "Brunnenpumpen werden häufig für die Bewässerung landwirtschaftlicher Kulturen, in der Viehhaltung, im Gartenbau, zum Befüllen von Schwimmbädern und für den Haushaltsgebrauch eingesetzt, etwa zur Wasserversorgung zum Trinken, Kochen und Waschen."
+                  },
+                  {
+                    "_uid": "f556015050e8",
+                    "component": "faq_item",
+                    "question": "Welche Arten von Brunnenpumpen gibt es?",
+                    "answer": "Es gibt verschiedene Arten von Brunnenpumpen, darunter Tauchmotorpumpen und Kreiselpumpen. Tauchmotorpumpen werden ins Wasser getaucht und fördern, indem sie Wasser nach oben ziehen. Kreiselpumpen fördern, indem sie das Wasser mithilfe eines in der Pumpe sitzenden Laufrads nach oben drücken."
+                  },
+                  {
+                    "_uid": "d35e77f65e3e",
+                    "component": "faq_item",
+                    "question": "Kann eine Brunnenpumpe einfrieren?",
+                    "answer": "Ja, eine Brunnenpumpe kann einfrieren, wenn das Wasser in den Leitungen gefriert. Daher ist es wichtig, Pumpe und Leitungen vor Frost zu schützen, indem Sie sie dämmen oder die Pumpe in den Wintermonaten ausbauen und frostfrei lagern.\nEs kann sinnvoll sein, die Brunnenpumpe in den Wintermonaten abzuschalten, wenn Sie sie nicht nutzen, damit sie nicht einfriert. Dabei sind jedoch die Anweisungen des Herstellers zum Abschalten der Pumpe zu befolgen, da manche Pumpen besondere Maßnahmen erfordern, damit sie nicht beschädigt werden, wenn sie längere Zeit nicht genutzt werden."
+                  }
+                ]
+              }
+            ]
           }
         ]
       }

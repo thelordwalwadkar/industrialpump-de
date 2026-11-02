@@ -8,6 +8,12 @@
   "content": {
     "component": "page_blog_post",
     "h1": "Rohrleitungsspannungen: Risiko für Pumpensysteme",
+    "hero_image": {
+      "filename": "/img/nl/revisie-revisie-header-1.webp",
+      "alt": "",
+      "width": 1280,
+      "height": 302
+    },
     "seo_title": "Rohrleitungsspannungen in Pumpensystemen vermeiden",
     "seo_description": "Rohrleitungsspannungen verkürzen die Lebensdauer von Pumpen und Rohren. Ursachen, Folgen und Maßnahmen im Überblick. Jetzt lesen und Anlage prüfen.",
     "intro": "Rohrleitungsspannungen sind mechanische Kräfte, die durch Druck, Temperaturänderungen und äußere Einflüsse auf Rohrleitungen wirken und Pumpen sowie Leitungen schädigen können. Der Beitrag erklärt für Betreiber und Planer, wie sie entstehen, wie sie sich auswirken und wie man sie minimiert.",
@@ -18,163 +24,219 @@
     },
     "body": [
       {
-        "_uid": "e461bbad8932",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 4
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Risiko für Pumpensysteme: Rohrleitungsspannungen"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Was sind Rohrleitungsspannungen und wie beeinflussen sie Ihr Pumpensystem?"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Rohrleitungsspannungen sind ein wichtiger, aber oft unterschätzter Aspekt bei Auslegung und Betrieb von Pumpensystemen. Sie beeinflussen Zuverlässigkeit, Lebensdauer und Effizienz sowohl der Rohrleitungen als auch der Pumpen. In diesem Beitrag erklären wir, was Rohrleitungsspannungen genau sind, wie sie entstehen und was Sie tun können, um ihre negativen Auswirkungen zu minimieren."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Was sind Rohrleitungsspannungen?"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Rohrleitungsspannungen bezeichnen die mechanischen Kräfte, die durch Druck, Temperaturänderungen, Strömungsgeschwindigkeit und äußere Faktoren wie Abstützung und Bewegung der Rohrleitungen auf die Leitungen wirken. Diese Spannungen können zu Verformungen, Leckagen oder sogar Rohrbrüchen führen, was erhebliche Folgen für das Pumpensystem haben kann."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "In Rohrleitungssystemen können verschiedene Arten von Spannungen auftreten:"
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
+        "_uid": "4a3d775e5028",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "201085d5c3c8",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "6cfc046ede18",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
                     {
-                      "type": "paragraph",
+                      "type": "heading",
+                      "attrs": {
+                        "level": 4
+                      },
                       "content": [
                         {
                           "type": "text",
-                          "text": "Thermische Spannung",
-                          "marks": [
-                            {
-                              "type": "bold"
-                            }
-                          ]
-                        },
-                        {
-                          "type": "text",
-                          "text": ": Sie entsteht durch Temperaturschwankungen der Flüssigkeit, die durch die Rohrleitung strömt. Wärme lässt Werkstoffe sich ausdehnen, Kälte lässt sie schrumpfen. Haben Rohrleitungen nicht genügend Bewegungsspielraum oder sind sie nicht richtig abgestützt, kann dies zu erheblichen Spannungen führen."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Innere Druckspannung",
-                          "marks": [
-                            {
-                              "type": "bold"
-                            }
-                          ]
-                        },
-                        {
-                          "type": "text",
-                          "text": ": Dies ist die Spannung, die durch den Druck der Flüssigkeit in der Rohrleitung entsteht. Höherer Druck führt zu größeren Kräften auf die Rohrwände, was zu Verformung oder sogar zum Versagen der Leitung führen kann."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Äußere Kräfte und Bewegungen",
-                          "marks": [
-                            {
-                              "type": "bold"
-                            }
-                          ]
-                        },
-                        {
-                          "type": "text",
-                          "text": ": Nicht richtig abgestützte Rohrleitungen können äußeren Kräften wie Wind, Maschinenschwingungen oder sogar seismischer Aktivität ausgesetzt sein. Das kann zu Biegung, Verdrehung oder anderen Verformungen führen."
+                          "text": "Risiko für Pumpensysteme: Rohrleitungsspannungen"
                         }
                       ]
                     }
                   ]
                 }
-              ]
-            }
-          ]
-        }
+              }
+            ]
+          },
+          {
+            "_uid": "bc8cd63562d5",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "b478a2b06914",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Was sind Rohrleitungsspannungen und wie beeinflussen sie Ihr Pumpensystem?"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Rohrleitungsspannungen sind ein wichtiger, aber oft unterschätzter Aspekt bei Auslegung und Betrieb von Pumpensystemen. Sie beeinflussen Zuverlässigkeit, Lebensdauer und Effizienz sowohl der Rohrleitungen als auch der Pumpen. In diesem Beitrag erklären wir, was Rohrleitungsspannungen genau sind, wie sie entstehen und was Sie tun können, um ihre negativen Auswirkungen zu minimieren."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "d988daf7d67e",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/nieuws-leidingspanning.webp",
-          "alt": "Schema: Kräfte und Spannungen in einer Rohrleitung am Pumpenanschluss",
-          "width": 1280,
-          "height": 784
-        }
+        "_uid": "80f53bca3860",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "c5949bf9b665",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "bf4ea8d23f2b",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Was sind Rohrleitungsspannungen?"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Rohrleitungsspannungen bezeichnen die mechanischen Kräfte, die durch Druck, Temperaturänderungen, Strömungsgeschwindigkeit und äußere Faktoren wie Abstützung und Bewegung der Rohrleitungen auf die Leitungen wirken. Diese Spannungen können zu Verformungen, Leckagen oder sogar Rohrbrüchen führen, was erhebliche Folgen für das Pumpensystem haben kann."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "In Rohrleitungssystemen können verschiedene Arten von Spannungen auftreten:"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Thermische Spannung",
+                                  "marks": [
+                                    {
+                                      "type": "bold"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": ": Sie entsteht durch Temperaturschwankungen der Flüssigkeit, die durch die Rohrleitung strömt. Wärme lässt Werkstoffe sich ausdehnen, Kälte lässt sie schrumpfen. Haben Rohrleitungen nicht genügend Bewegungsspielraum oder sind sie nicht richtig abgestützt, kann dies zu erheblichen Spannungen führen."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Innere Druckspannung",
+                                  "marks": [
+                                    {
+                                      "type": "bold"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": ": Dies ist die Spannung, die durch den Druck der Flüssigkeit in der Rohrleitung entsteht. Höherer Druck führt zu größeren Kräften auf die Rohrwände, was zu Verformung oder sogar zum Versagen der Leitung führen kann."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Äußere Kräfte und Bewegungen",
+                                  "marks": [
+                                    {
+                                      "type": "bold"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": ": Nicht richtig abgestützte Rohrleitungen können äußeren Kräften wie Wind, Maschinenschwingungen oder sogar seismischer Aktivität ausgesetzt sein. Das kann zu Biegung, Verdrehung oder anderen Verformungen führen."
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "51cbd819faf3",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "e02a83106c6a",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/nieuws-leidingspanning.webp",
+                  "alt": "Schema: Kräfte und Spannungen in einer Rohrleitung am Pumpenanschluss",
+                  "width": 1280,
+                  "height": 784
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "0b03eb940fd0",
+        "_uid": "b0819b6c61e0",
         "component": "rich_text",
         "content": {
           "type": "doc",
@@ -324,148 +386,161 @@
         }
       },
       {
-        "_uid": "2cb3fd59bfe0",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/revisie-revisie-7.webp",
-          "alt": "Revision einer Pumpe in der Werkstatt",
-          "width": 1081,
-          "height": 800
-        }
-      },
-      {
-        "_uid": "0e6c7295d9ca",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Wie minimieren Sie Rohrleitungsspannungen?"
+        "_uid": "bffa93aa2c45",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "9c6afaefecf2",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "9d62cb304089",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/revisie-revisie-7.webp",
+                  "alt": "Revision einer Pumpe in der Werkstatt",
+                  "width": 1081,
+                  "height": 800
                 }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Es gibt verschiedene Maßnahmen, mit denen Sie Rohrleitungsspannungen minimieren und so Zuverlässigkeit und Lebensdauer Ihres Pumpensystems sichern können:"
+              }
+            ]
+          },
+          {
+            "_uid": "8b9273a7b3d1",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "f527cce4efba",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Wie minimieren Sie Rohrleitungsspannungen?"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Es gibt verschiedene Maßnahmen, mit denen Sie Rohrleitungsspannungen minimieren und so Zuverlässigkeit und Lebensdauer Ihres Pumpensystems sichern können:"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Richtige Abstützung und Verankerung",
+                                  "marks": [
+                                    {
+                                      "type": "bold"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": ": Sorgen Sie dafür, dass Rohrleitungen gut abgestützt und verankert sind, um Bewegungen zu minimieren. Flexible Kupplungen können außerdem eingesetzt werden, um thermische Ausdehnung und Schrumpfung aufzunehmen."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Einsatz von Kompensatoren",
+                                  "marks": [
+                                    {
+                                      "type": "bold"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": ": Kompensatoren können thermische Ausdehnung aufnehmen und so die Spannungen auf die Rohrleitungen verringern."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Beurteilung und Berechnung von Spannungen",
+                                  "marks": [
+                                    {
+                                      "type": "bold"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": ": Bei der Auslegung eines Pumpensystems sind Spannungsberechnungen wesentlich, um sicherzustellen, dass die Rohrleitungen den zu erwartenden Belastungen standhalten."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Regelmäßige Wartung und Inspektion",
+                                  "marks": [
+                                    {
+                                      "type": "bold"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": ": Durch regelmäßige Wartung und Inspektion können Sie spannungsbedingte Probleme frühzeitig erkennen und beheben, bevor sie zu größeren Störungen führen."
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
                 }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Richtige Abstützung und Verankerung",
-                          "marks": [
-                            {
-                              "type": "bold"
-                            }
-                          ]
-                        },
-                        {
-                          "type": "text",
-                          "text": ": Sorgen Sie dafür, dass Rohrleitungen gut abgestützt und verankert sind, um Bewegungen zu minimieren. Flexible Kupplungen können außerdem eingesetzt werden, um thermische Ausdehnung und Schrumpfung aufzunehmen."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Einsatz von Kompensatoren",
-                          "marks": [
-                            {
-                              "type": "bold"
-                            }
-                          ]
-                        },
-                        {
-                          "type": "text",
-                          "text": ": Kompensatoren können thermische Ausdehnung aufnehmen und so die Spannungen auf die Rohrleitungen verringern."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Beurteilung und Berechnung von Spannungen",
-                          "marks": [
-                            {
-                              "type": "bold"
-                            }
-                          ]
-                        },
-                        {
-                          "type": "text",
-                          "text": ": Bei der Auslegung eines Pumpensystems sind Spannungsberechnungen wesentlich, um sicherzustellen, dass die Rohrleitungen den zu erwartenden Belastungen standhalten."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Regelmäßige Wartung und Inspektion",
-                          "marks": [
-                            {
-                              "type": "bold"
-                            }
-                          ]
-                        },
-                        {
-                          "type": "text",
-                          "text": ": Durch regelmäßige Wartung und Inspektion können Sie spannungsbedingte Probleme frühzeitig erkennen und beheben, bevor sie zu größeren Störungen führen."
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
+              }
+            ]
+          }
+        ]
       }
-    ],
-    "image": {
-      "filename": "/img/nl/revisie-revisie-header-1.webp",
-      "alt": "Pumpe und Rohrleitung in der IPG-Werkstatt",
-      "width": 1280,
-      "height": 302
-    }
+    ]
   }
 }

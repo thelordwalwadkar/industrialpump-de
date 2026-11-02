@@ -55,7 +55,7 @@ export function brandStory(brand: BrandDef, position: number): SeedStory {
   const faq: [string, string][] = [
     [`Sind Ersatzteile für ${brand.name}-Pumpen verfügbar?`, 'Das hängt von Serie, Baujahr und Ausführung ab. Senden Sie uns Typenschild oder ein Foto der Pumpe, dann prüfen wir die Verfügbarkeit.'],
     [`Kann ich eine ältere ${brand.name}-Serie durch ein aktuelles Modell ersetzen?`, 'Das ist je nach Serie möglich. Entscheidend sind Förderstrom, Förderhöhe, Anschlussmaße und Motordaten der vorhandenen Pumpe. Anhand des Typenschilds prüfen wir, welches Modell passt.'],
-    [`Wie lang ist die Lieferzeit für ${brand.name}-Pumpen?`, `[[PLATZHALTER: Lieferzeit ${brand.name}]]`],
+    [`Wie lang ist die Lieferzeit für ${brand.name}-Pumpen?`, 'Die Lieferzeit hängt von Ausführung und Verfügbarkeit beim Hersteller ab. Nennen Sie uns die gewünschte Ausführung oder senden Sie das Typenschild, dann teilen wir Ihnen die aktuelle Lieferzeit mit.'],
   ];
   return story(full, brand.name, {
     component: 'page_brand', brand_name: brand.name, h1: `${brand.name} Pumpen – Serien, Einsatzbereiche und Revision`, nav_title: brand.name,
@@ -77,7 +77,7 @@ export function seriesStory(def: SeriesDef, agg: SeriesAggregate, position: numb
   const faq: [string, string][] = [
     [`Wie finde ich den passenden Artikel der ${name}?`, `Senden Sie uns das Typenschild Ihrer vorhandenen Pumpe oder Ihre Betriebsdaten: Förderstrom, Förderhöhe, Medium und Temperatur. Daraus ordnen wir den passenden Artikel der ${name} zu.`],
     [`Sind Ersatzteile und eine Revision für die ${name} möglich?`, `Ersatzteile und die Revision von ${brand.name}-Pumpen können Sie über das Angebotsformular anfragen. Welche Teile im Einzelfall verfügbar sind, hängt von Baujahr und Ausführung ab.`],
-    [`Wie lang ist die Lieferzeit für Artikel der ${name}?`, `[[PLATZHALTER: Lieferzeit ${brand.name} ${def.name}]]`],
+    [`Wie lang ist die Lieferzeit für Artikel der ${name}?`, 'Die Lieferzeit hängt von Ausführung und Verfügbarkeit beim Hersteller ab. Nennen Sie uns die gewünschte Ausführung oder senden Sie das Typenschild, dann teilen wir Ihnen die aktuelle Lieferzeit mit.'],
   ];
   const num = (n?: number) => (n === undefined ? undefined : n);
   return story(full, name, {

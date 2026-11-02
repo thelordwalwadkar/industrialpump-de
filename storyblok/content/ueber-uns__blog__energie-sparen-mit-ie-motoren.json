@@ -8,6 +8,12 @@
   "content": {
     "component": "page_blog_post",
     "h1": "IE3- und IE4-Elektromotoren: neue Vorgaben und Energieeinsparung",
+    "hero_image": {
+      "filename": "/img/nl/pomptypes-centrifugaalpompen-bg.webp",
+      "alt": "",
+      "width": 1280,
+      "height": 720
+    },
     "seo_title": "IE3- und IE4-Motoren: neue Vorgaben seit Juli 2023",
     "seo_description": "Neue Vorgaben für IE3- und IE4-Elektromotoren seit 1. Juli 2023: Anforderungen, Vorteile und Pumpen mit IE-Motoren. Jetzt Beratung anfordern.",
     "intro": "Seit dem 1. Juli 2023 gelten verschärfte Effizienzanforderungen für IE3- und IE4-Elektromotoren, die den Energieverbrauch von Pumpen und Antrieben senken sollen. Der Beitrag erklärt die IE-Klassen, die Anforderungen und die Vorteile energieeffizienter Motoren.",
@@ -18,124 +24,208 @@
     },
     "body": [
       {
-        "_uid": "b8816e39fc30",
+        "_uid": "14a5b19ca076",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "b4ee4089f64b",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "9c2f33a7f098",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 4
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Neue Vorgaben für IE3- und IE4-Elektromotoren: Optimieren Sie Ihre Energieeinsparung"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "4091cebdcb78",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "8b17bf156aac",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Erfahren Sie, wie sich die neuen Vorgaben für IE3- und IE4-Elektromotoren, die seit dem 1. Juli 2023 gelten, auf die Energieeinsparung in Betriebsprozessen auswirken. Lesen Sie mehr über die Anforderungen und Vorteile dieser effizienten Motoren."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "3f273d5f5c9f",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "94a40fab63cc",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "38d2b70de8dd",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Wirkung der IE-Richtlinien und die jüngsten Änderungen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Elektromotoren, Pumpen, Kompressoren und Ventilatoren sind für fast die Hälfte des gesamten Energieverbrauchs in Europa verantwortlich. Seit dem 1. Juli 2023 gelten neue Vorgaben für IE3- und IE4-Elektromotoren. Diese neuen Vorgaben führen strengere Effizienzanforderungen ein, sodass Motoren noch energiesparender sein müssen als bisher. Im Jahr 2023 verlangt die Europäische Union als erste in der Welt, dass Motoren mit einer Nennleistung von 75 kW bis 200 kW die Norm IE4 erfüllen. Außerdem müssen einphasige Motoren mit Leistungen ab 0,12 kW mindestens die Anforderungen der Klasse IE2 erfüllen. Diese Änderungen unterstreichen das Streben nach Energieeinsparung und Effizienz in der Industrie."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ein Überblick über die IE-Klassen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die IE-Klassen ordnen Elektromotoren nach ihrer Energieeffizienz ein. Bisher waren die gängigsten Klassen IE1 (Standard-Wirkungsgrad), IE2 (hoher Wirkungsgrad) und IE3 (Premium-Wirkungsgrad). Mit den neuen Vorgaben wurden die Klassen um IE2 Plus, IE3 Plus und IE4 Plus erweitert. Diese „Plus“-Klassen führen strengere Effizienzanforderungen ein und gelten für ein breiteres Spektrum an Motoren, darunter Motoren mit einer Leistung von 0,12 kW bis 1000 kW. Die jüngsten Änderungen der Vorgaben legen den Schwerpunkt auf höhere Effizienz, um Energieeinsparung zu fördern und die ökologischen Auswirkungen zu verringern."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "e821702baea7",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "fe68f0040418",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-end-suction-2.webp",
+                  "alt": "Blockpumpe mit IE-Elektromotor",
+                  "width": 1280,
+                  "height": 853
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "ea8736a55cc4",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "889911dd88d3",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "9b84ba53f9f4",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-end-suction-3.webp",
+                  "alt": "Normpumpe mit energieeffizientem Elektromotor",
+                  "width": 1280,
+                  "height": 853
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "1449a9ec8dc6",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "49500ab000c4",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Vorteile von IE3- und IE4-Motoren"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Das Umrüsten auf IE3- und IE4-Motoren bietet Unternehmen erhebliche Vorteile. Diese Motoren haben einen höheren Wirkungsgrad, was zu niedrigeren Energiekosten und geringerem Energieverbrauch führt. Außerdem tragen sie zu Nachhaltigkeitszielen bei, indem sie den ökologischen Fußabdruck von Unternehmen verringern. Da die Europäische Union als erste in der Welt verlangt, dass bestimmte Motoren die Norm IE4 erfüllen, sind Unternehmen angehalten, ihre Systeme umzurüsten und die Vorteile dieser hocheffizienten Motoren zu nutzen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "ccfab08b87c7",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 4
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Neue Vorgaben für IE3- und IE4-Elektromotoren: Optimieren Sie Ihre Energieeinsparung"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Erfahren Sie, wie sich die neuen Vorgaben für IE3- und IE4-Elektromotoren, die seit dem 1. Juli 2023 gelten, auf die Energieeinsparung in Betriebsprozessen auswirken. Lesen Sie mehr über die Anforderungen und Vorteile dieser effizienten Motoren."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Wirkung der IE-Richtlinien und die jüngsten Änderungen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Elektromotoren, Pumpen, Kompressoren und Ventilatoren sind für fast die Hälfte des gesamten Energieverbrauchs in Europa verantwortlich. Seit dem 1. Juli 2023 gelten neue Vorgaben für IE3- und IE4-Elektromotoren. Diese neuen Vorgaben führen strengere Effizienzanforderungen ein, sodass Motoren noch energiesparender sein müssen als bisher. Im Jahr 2023 verlangt die Europäische Union als erste in der Welt, dass Motoren mit einer Nennleistung von 75 kW bis 200 kW die Norm IE4 erfüllen. Außerdem müssen einphasige Motoren mit Leistungen ab 0,12 kW mindestens die Anforderungen der Klasse IE2 erfüllen. Diese Änderungen unterstreichen das Streben nach Energieeinsparung und Effizienz in der Industrie."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ein Überblick über die IE-Klassen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die IE-Klassen ordnen Elektromotoren nach ihrer Energieeffizienz ein. Bisher waren die gängigsten Klassen IE1 (Standard-Wirkungsgrad), IE2 (hoher Wirkungsgrad) und IE3 (Premium-Wirkungsgrad). Mit den neuen Vorgaben wurden die Klassen um IE2 Plus, IE3 Plus und IE4 Plus erweitert. Diese „Plus“-Klassen führen strengere Effizienzanforderungen ein und gelten für ein breiteres Spektrum an Motoren, darunter Motoren mit einer Leistung von 0,12 kW bis 1000 kW. Die jüngsten Änderungen der Vorgaben legen den Schwerpunkt auf höhere Effizienz, um Energieeinsparung zu fördern und die ökologischen Auswirkungen zu verringern."
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "8d913f67d060",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-end-suction-2.webp",
-          "alt": "Blockpumpe mit IE-Elektromotor",
-          "width": 1280,
-          "height": 853
-        }
-      },
-      {
-        "_uid": "b87cccdc9276",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-end-suction-3.webp",
-          "alt": "Normpumpe mit energieeffizientem Elektromotor",
-          "width": 1280,
-          "height": 853
-        }
-      },
-      {
-        "_uid": "a6c2327ecad7",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Vorteile von IE3- und IE4-Motoren"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Das Umrüsten auf IE3- und IE4-Motoren bietet Unternehmen erhebliche Vorteile. Diese Motoren haben einen höheren Wirkungsgrad, was zu niedrigeren Energiekosten und geringerem Energieverbrauch führt. Außerdem tragen sie zu Nachhaltigkeitszielen bei, indem sie den ökologischen Fußabdruck von Unternehmen verringern. Da die Europäische Union als erste in der Welt verlangt, dass bestimmte Motoren die Norm IE4 erfüllen, sind Unternehmen angehalten, ihre Systeme umzurüsten und die Vorteile dieser hocheffizienten Motoren zu nutzen."
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -160,12 +250,6 @@
           ]
         }
       }
-    ],
-    "image": {
-      "filename": "/img/nl/pomptypes-centrifugaalpompen-bg.webp",
-      "alt": "Kreiselpumpe mit Elektromotor",
-      "width": 1280,
-      "height": 720
-    }
+    ]
   }
 }

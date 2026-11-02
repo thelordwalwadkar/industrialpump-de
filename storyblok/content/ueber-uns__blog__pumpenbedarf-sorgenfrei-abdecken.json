@@ -8,6 +8,12 @@
   "content": {
     "component": "page_blog_post",
     "h1": "Pumpenservice aus einer Hand: alle Pumpenthemen bei IPG",
+    "hero_image": {
+      "filename": "/img/nl/segmenten-boilerfeed-2.webp",
+      "alt": "",
+      "width": 1280,
+      "height": 853
+    },
     "seo_title": "Pumpenservice aus einer Hand: Wartung und Ersatzteile",
     "seo_description": "Ein Ansprechpartner für Inspektion, Wartung, Revision, Ersatzteile und neue Pumpen. Herstellerunabhängige Beratung von IPG: Jetzt Kontakt aufnehmen.",
     "intro": "Die Industrial Pump Group übernimmt für Industriebetriebe alles rund um Pumpen: Inspektion, Wartung, Revision, Ersatzteile und die Lieferung neuer Pumpen. Sie erhalten einen Ansprechpartner und herstellerunabhängige Beratung.",
@@ -19,265 +25,321 @@
     },
     "body": [
       {
-        "_uid": "f4856e7acd58",
+        "_uid": "88ce15ce2dfb",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "14f551a555a9",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "3458516ccdf1",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ein Partner für alles rund um Industriepumpen: Pumpenbedarf in den Niederlanden abdecken"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "2ea23e91f82e",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "768a14f8cfff",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "In nahezu jeder industriellen Umgebung spielen Pumpen eine Schlüsselrolle. Sie sind unverzichtbar für Produktionsprozesse, Kühlsysteme, Wasserwirtschaft und viele weitere Anwendungen. Gleichzeitig werden Pumpen oft erst dann richtig sichtbar, wenn etwas schiefgeht. Stillstand, verminderte Leistung oder wiederkehrende Störungen haben unmittelbare Folgen für Sicherheit, Kontinuität und Kosten. Gerade deshalb ist es wichtiger denn je, den Pumpenbedarf in den Niederlanden abzudecken."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Industrial Pump Group unterstützt Organisationen dabei, ihre Pumpenanlagen im Griff zu behalten. Nicht mit einzelnen Leistungen, sondern mit einem vollständigen, durchdachten Ansatz, bei dem alles rund um Pumpen aus einer Hand geregelt ist."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "15a01a09df77",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "312c290a3f63",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ed6ff5bc8715",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/homepage-cta-image.webp",
+                  "alt": "Pumpenexperten von IPG im Gespräch mit einem Kunden",
+                  "width": 1004,
+                  "height": 676
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "c0afed4fa4d2",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "baf91729318b",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ein Ansprechpartner für jede Pumpenfrage"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Viele Unternehmen arbeiten für Inspektionen, Wartung, Ersatzteile und neue Pumpen mit mehreren Lieferanten zusammen. Das führt zu Zersplitterung, Unklarheit und Zeitverlust. IPG wählt bewusst einen anderen Ansatz. Sie haben einen Ansprechpartner für alles, was mit Pumpen zu tun hat. Von der ersten Analyse bis zur langfristigen Wartung und von der Beratung bis zur Lieferung."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Welche Pumpe es auch ist und welche Frage Sie auch haben, IPG hilft Ihnen weiter. Das kann eine akute Störung betreffen, aber ebenso die Verbesserung von Zuverlässigkeit, Energieverbrauch oder Lebensdauer Ihrer Anlage."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Vollständige Unterstützung rund um Pumpen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Den Pumpenbedarf abzudecken bedeutet bei IPG, dass wir den gesamten Ablauf übernehmen können. Unsere Leistungen umfassen unter anderem:"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Inspektionen und technische Beurteilungen bestehender Pumpen"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Vorbeugende und korrektive Wartung"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Schwingungsmessungen und Zustandsüberwachung"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Ausrichten von Pumpen und Antrieben"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Analyse wiederkehrender Störungen"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Beratung zur Prozessoptimierung"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Unterstützung bei Revision oder Austausch"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Pumpenauswahl für neue oder geänderte Anwendungen"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Lieferung von Ersatzteilen"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Verkauf und Lieferung kompletter Pumpen und Anlagen"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Durch die Kombination dieser Arbeiten entsteht Überblick. Probleme werden nicht nur gelöst, sondern strukturell angegangen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "f4db7f21d48b",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ein Partner für alles rund um Industriepumpen: Pumpenbedarf in den Niederlanden abdecken"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "In nahezu jeder industriellen Umgebung spielen Pumpen eine Schlüsselrolle. Sie sind unverzichtbar für Produktionsprozesse, Kühlsysteme, Wasserwirtschaft und viele weitere Anwendungen. Gleichzeitig werden Pumpen oft erst dann richtig sichtbar, wenn etwas schiefgeht. Stillstand, verminderte Leistung oder wiederkehrende Störungen haben unmittelbare Folgen für Sicherheit, Kontinuität und Kosten. Gerade deshalb ist es wichtiger denn je, den Pumpenbedarf in den Niederlanden abzudecken."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Industrial Pump Group unterstützt Organisationen dabei, ihre Pumpenanlagen im Griff zu behalten. Nicht mit einzelnen Leistungen, sondern mit einem vollständigen, durchdachten Ansatz, bei dem alles rund um Pumpen aus einer Hand geregelt ist."
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "7a626be72093",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-cta-image.webp",
-          "alt": "Pumpenexperten von IPG im Gespräch mit einem Kunden",
-          "width": 1004,
-          "height": 676
-        }
-      },
-      {
-        "_uid": "08b6e19827d8",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ein Ansprechpartner für jede Pumpenfrage"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Viele Unternehmen arbeiten für Inspektionen, Wartung, Ersatzteile und neue Pumpen mit mehreren Lieferanten zusammen. Das führt zu Zersplitterung, Unklarheit und Zeitverlust. IPG wählt bewusst einen anderen Ansatz. Sie haben einen Ansprechpartner für alles, was mit Pumpen zu tun hat. Von der ersten Analyse bis zur langfristigen Wartung und von der Beratung bis zur Lieferung."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Welche Pumpe es auch ist und welche Frage Sie auch haben, IPG hilft Ihnen weiter. Das kann eine akute Störung betreffen, aber ebenso die Verbesserung von Zuverlässigkeit, Energieverbrauch oder Lebensdauer Ihrer Anlage."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Vollständige Unterstützung rund um Pumpen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Den Pumpenbedarf abzudecken bedeutet bei IPG, dass wir den gesamten Ablauf übernehmen können. Unsere Leistungen umfassen unter anderem:"
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Inspektionen und technische Beurteilungen bestehender Pumpen"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Vorbeugende und korrektive Wartung"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Schwingungsmessungen und Zustandsüberwachung"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Ausrichten von Pumpen und Antrieben"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Analyse wiederkehrender Störungen"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Beratung zur Prozessoptimierung"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Unterstützung bei Revision oder Austausch"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Pumpenauswahl für neue oder geänderte Anwendungen"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Lieferung von Ersatzteilen"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Verkauf und Lieferung kompletter Pumpen und Anlagen"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Durch die Kombination dieser Arbeiten entsteht Überblick. Probleme werden nicht nur gelöst, sondern strukturell angegangen."
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -541,12 +603,6 @@
           ]
         }
       }
-    ],
-    "image": {
-      "filename": "/img/nl/segmenten-boilerfeed-2.webp",
-      "alt": "Pumpen in einer industriellen Kesselspeiseanlage",
-      "width": 1280,
-      "height": 853
-    }
+    ]
   }
 }

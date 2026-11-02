@@ -15,107 +15,181 @@
     "publication_date": "2024-01-10",
     "article": {
       "type": "doc",
-      "content": [
-        {
-          "type": "heading",
-          "attrs": {
-            "level": 4
-          },
-          "content": [
-            {
-              "type": "text",
-              "text": "Alles für die Industrie in einem nachhaltigen Haus: IPG unter einem Solardach mit Microtechniek"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": "Der herstellerunabhängige Pumpenexperte Industrial Pump Group (IPG) aus Velsen-Noord ist in das Gebäude des Industriedienstleisters Microtechniek Groep an der [[PLATZHALTER: Anschrift]] gezogen. Damit sitzt IPG nicht nur in einem der nachhaltigsten Firmengebäude der Niederlande, sondern es entsteht auch eine starke Zusammenarbeit zwischen zwei Unternehmen mit derselben DNA: kundenorientierte Maßarbeit.",
-              "marks": [
-                {
-                  "type": "bold"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": "Eins plus eins ist drei. Dieses ungewöhnliche Ergebnis einer einfachen Rechnung ist bei der Zusammenarbeit von IPG und Microtechniek unbestreitbar. Denn diese Zusammenarbeit hat drei wesentliche Vorteile: IPG sitzt nun im vollständig energieneutralen Gebäude von Microtechniek, durch die räumliche Nähe kann intensiver zusammengearbeitet werden, und die Kunden – Industrieunternehmen und andere Organisationen – haben einen Partner, der alle Arbeiten an Anlagen in voller Breite ausführen kann, auch im Rahmen eines Vertrags. Und das mit der Maßarbeit, die die Kunden beider Unternehmen gewohnt sind."
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "attrs": {
-            "level": 3
-          },
-          "content": [
-            {
-              "type": "text",
-              "text": "Hocherfreut"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": "Die Geschäftsführer Frank Korf und Robert de Brouwer von IPG gingen im September durch den Flur des Bürotrakts des Gebäudes an der [[PLATZHALTER: Anschrift]]. Sie fragten Fred Kooijman, Direktor Service bei Microtechniek: „Haben Sie das Farbmuster für den Boden? Und für die Fensterrahmen?“ Kooijman bestätigt das sofort. Das Gebäude ist schließlich erst anderthalb Jahre alt. Alle Muster sind vorhanden. „Diese Wand kommt weg, die auch. So bekommen wir ein großes Büro“, zeigt Korf."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": "Korf freut sich sehr über die neue Unterkunft für IPG. „Wir waren schon länger auf der Suche nach einem neuen, nachhaltigen Gebäude. Wir glauben, dass nachhaltiges Wirtschaften die Zukunft hat. Und die Lösung war eigentlich näher, als wir dachten. Microtechniek, mit dem wir bereits zusammenarbeiten, hat ein Gebäude auf dem neuesten Stand der Technik. Vielleicht das nachhaltigste der Niederlande, aber auf jeden Fall vollständig energieneutral. Warum das Rad neu erfinden, wenn es schon da ist, dachten wir.“"
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "attrs": {
-            "level": 3
-          },
-          "content": [
-            {
-              "type": "text",
-              "text": "Nachhaltigkeit als Antrieb"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": "Das riesige Gebäude mit mehr als 12.000 Quadratmetern beeindruckt tatsächlich nicht nur wegen seiner Größe. Auf dem Dach liegen Tausende Solarmodule und eine ganze Reihe von Wärmepumpen. Das gesamte Gebäude hat eine Fußbodenheizung, LED-Beleuchtung und kommt ohne Gas aus. „Es ist noch keine Anforderung, aber in Zukunft werden unsere Kunden immer häufiger nach unserem Fußabdruck fragen. Als wir ein neues Gebäude bauen wollten, haben wir das deshalb gleich richtig geregelt. Wir finden es ohnehin wichtig, unseren Beitrag zu den Klimazielen zu leisten“, sagt Kooijman."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": "Nachhaltigkeit ist ein wichtiger Antrieb für die enge Zusammenarbeit der beiden Unternehmen, aber besserer Service und bessere Produkte für den Kunden sind mindestens ebenso wichtig. „Wir haben eigentlich dieselbe DNA“, sagt De Brouwer von IPG. „Wir sind kundenorientiert. Wir liefern Maßarbeit und sind direkt erreichbar. Kunden rufen uns an, und wir regeln es sofort.“"
-            }
-          ]
-        }
-      ]
+      "content": []
     },
     "body": [
       {
-        "_uid": "d7a69deeb9af",
+        "_uid": "8ac3eb15f2a2",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "a15f5cb2cee5",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "5fbf64b38b9a",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 4
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Alles für die Industrie in einem nachhaltigen Haus: IPG unter einem Solardach mit Microtechniek"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "3c82385e3c9d",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "22a15a9ed487",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Der herstellerunabhängige Pumpenexperte Industrial Pump Group (IPG) aus Velsen-Noord ist in das Gebäude des Industriedienstleisters Microtechniek Groep an der Concordiastraat 30, 1951 AS Velsen-Noord gezogen. Damit sitzt IPG nicht nur in einem der nachhaltigsten Firmengebäude der Niederlande, sondern es entsteht auch eine starke Zusammenarbeit zwischen zwei Unternehmen mit derselben DNA: kundenorientierte Maßarbeit.",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Eins plus eins ist drei. Dieses ungewöhnliche Ergebnis einer einfachen Rechnung ist bei der Zusammenarbeit von IPG und Microtechniek unbestreitbar. Denn diese Zusammenarbeit hat drei wesentliche Vorteile: IPG sitzt nun im vollständig energieneutralen Gebäude von Microtechniek, durch die räumliche Nähe kann intensiver zusammengearbeitet werden, und die Kunden – Industrieunternehmen und andere Organisationen – haben einen Partner, der alle Arbeiten an Anlagen in voller Breite ausführen kann, auch im Rahmen eines Vertrags. Und das mit der Maßarbeit, die die Kunden beider Unternehmen gewohnt sind."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "3bf8483ba673",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "2e41c88a3741",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "da33ac796247",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Hocherfreut"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Geschäftsführer Frank Korf und Robert de Brouwer von IPG gingen im September durch den Flur des Bürotrakts des Gebäudes an der Concordiastraat 30, 1951 AS Velsen-Noord. Sie fragten Fred Kooijman, Direktor Service bei Microtechniek: „Haben Sie das Farbmuster für den Boden? Und für die Fensterrahmen?“ Kooijman bestätigt das sofort. Das Gebäude ist schließlich erst anderthalb Jahre alt. Alle Muster sind vorhanden. „Diese Wand kommt weg, die auch. So bekommen wir ein großes Büro“, zeigt Korf."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Korf freut sich sehr über die neue Unterkunft für IPG. „Wir waren schon länger auf der Suche nach einem neuen, nachhaltigen Gebäude. Wir glauben, dass nachhaltiges Wirtschaften die Zukunft hat. Und die Lösung war eigentlich näher, als wir dachten. Microtechniek, mit dem wir bereits zusammenarbeiten, hat ein Gebäude auf dem neuesten Stand der Technik. Vielleicht das nachhaltigste der Niederlande, aber auf jeden Fall vollständig energieneutral. Warum das Rad neu erfinden, wenn es schon da ist, dachten wir.“"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Nachhaltigkeit als Antrieb"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Das riesige Gebäude mit mehr als 12.000 Quadratmetern beeindruckt tatsächlich nicht nur wegen seiner Größe. Auf dem Dach liegen Tausende Solarmodule und eine ganze Reihe von Wärmepumpen. Das gesamte Gebäude hat eine Fußbodenheizung, LED-Beleuchtung und kommt ohne Gas aus. „Es ist noch keine Anforderung, aber in Zukunft werden unsere Kunden immer häufiger nach unserem Fußabdruck fragen. Als wir ein neues Gebäude bauen wollten, haben wir das deshalb gleich richtig geregelt. Wir finden es ohnehin wichtig, unseren Beitrag zu den Klimazielen zu leisten“, sagt Kooijman."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Nachhaltigkeit ist ein wichtiger Antrieb für die enge Zusammenarbeit der beiden Unternehmen, aber besserer Service und bessere Produkte für den Kunden sind mindestens ebenso wichtig. „Wir haben eigentlich dieselbe DNA“, sagt De Brouwer von IPG. „Wir sind kundenorientiert. Wir liefern Maßarbeit und sind direkt erreichbar. Kunden rufen uns an, und wir regeln es sofort.“"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "9db45934151d",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "e49720d0ab67",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/nieuws-kantoor-ipg.webp",
+                  "alt": "Büro von IPG im neuen Gebäude in Velsen-Noord",
+                  "width": 1094,
+                  "height": 820
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "58a261b5074a",
         "component": "rich_text",
         "content": {
           "type": "doc",
@@ -195,12 +269,6 @@
           ]
         }
       }
-    ],
-    "image": {
-      "filename": "/img/nl/nieuws-kantoor-ipg.webp",
-      "alt": "Büro von IPG im neuen Gebäude in Velsen-Noord",
-      "width": 1094,
-      "height": 820
-    }
+    ]
   }
 }

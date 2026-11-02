@@ -12,541 +12,672 @@
     "seo_description": "Lowara DL und DLV Tauchmotorpumpen für Schmutzwasser: bis 21 m Förderhöhe, freier Durchgang bis 65 mm. Jetzt kostenlose Pumpenberatung anfordern.",
     "intro": "Die Lowara DL und DLV sind Tauchmotorpumpen für verschmutztes Wasser mit Feststoffen, wahlweise mit Einkanalrad oder Vortexlaufrad. Sie werden zum Entleeren von Gruben und Schächten sowie zur Baustellenentwässerung eingesetzt.",
     "series_name": "DL/DLV",
+    "image": {
+      "filename": "/img/nl/pomptypes-merk-lowara-lowara-dl.webp",
+      "alt": "Lowara DL/DLV: Tauchmotorpumpen für Schmutzwasser",
+      "width": 500,
+      "height": 500
+    },
     "pump_type": "tauchmotorpumpen",
     "use_case_line": "Tauchmotorpumpen für Schmutzwasser",
     "body": [
       {
-        "_uid": "9b7e345be347",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Baureihe Tauchmotorpumpen für Schmutzwasser Lowara DL/DLV"
+        "_uid": "2b93b3c62099",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "379cfa2869fe",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "90d256916204",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Baureihe Tauchmotorpumpen für Schmutzwasser Lowara DL/DLV"
+                        }
+                      ]
+                    }
+                  ]
                 }
-              ]
-            }
-          ]
-        }
+              },
+              {
+                "_uid": "b28da9e12bcc",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-lowara-lowara-dl.webp",
+                  "alt": "Lowara DL Tauchmotorpumpe aus Edelstahl und Gusseisen mit Anschlussstücken, geeignet für Schmutzwasser mit Feststoffen",
+                  "width": 500,
+                  "height": 500
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "51314996f8e5",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "b5ffc0b8ea95",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Vielseitige Lowara DL/DLV Tauchmotorpumpen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Elektropumpen der Baureihe Lowara DL sind mit verschiedenen Laufrädern erhältlich: Zur Wahl stehen ein Einkanalrad oder eine Pumpe mit Vortexlaufrad (DLV)."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Lowara DL und DLV Tauchmotorpumpen eignen sich für verschmutztes Wasser, mit einer Förderhöhe bis 20 m und einer Förderleistung bis 100 m³/h. Die Nennleistung liegt zwischen 0,6 kW (0,8 PS) und 4 kW (5,5 PS). Freier Durchgang bis 65 mm."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "8218c24a3f3b",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-lowara-lowara-dl.webp",
-          "alt": "Lowara DL Tauchmotorpumpe aus Edelstahl und Gusseisen mit Anschlussstücken, geeignet für Schmutzwasser mit Feststoffen",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "0747cd959a24",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Vielseitige Lowara DL/DLV Tauchmotorpumpen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Elektropumpen der Baureihe Lowara DL sind mit verschiedenen Laufrädern erhältlich: Zur Wahl stehen ein Einkanalrad oder eine Pumpe mit Vortexlaufrad (DLV)."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Lowara DL und DLV Tauchmotorpumpen eignen sich für verschmutztes Wasser, mit einer Förderhöhe bis 20 m und einer Förderleistung bis 100 m³/h. Die Nennleistung liegt zwischen 0,6 kW (0,8 PS) und 4 kW (5,5 PS). Freier Durchgang bis 65 mm."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Spezifikationen"
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
+        "_uid": "78abab664dc4",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "8e3ce8a625c8",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "953fb6a2ee57",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
                     {
-                      "type": "paragraph",
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
                       "content": [
                         {
                           "type": "text",
-                          "text": "Förderstrom: bis 120,00 m³/h"
+                          "text": "Spezifikationen"
                         }
                       ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
+                    },
                     {
-                      "type": "paragraph",
+                      "type": "bullet_list",
                       "content": [
                         {
-                          "type": "text",
-                          "text": "Förderhöhe: bis 21,0 m"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Stromversorgung: dreiphasig und einphasig, 50 Hz"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Leistung: von 0,60 kW bis 4,00 kW"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Temperatur der geförderten Flüssigkeit: bis 50,0 °C"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Maximale Eintauchtiefe: 5,0 m"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Freier Durchgang: bis 65,0 mm"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Technische Spezifikationen"
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Motor mit Käfigläufer im Ölbad (ungiftig und dielektrisch) zur Schmierung der Kugellager und für bessere Kühlung."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "2-polige Motoren (von 0,6 bis 1,5 kW) und 4-polige Motoren (von 1,8 bis 4 kW)."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Gleitringdichtung, geschützt durch ein sandabweisendes Labyrinth."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Maximale Eintauchtiefe: 5 m."
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Anwendungen"
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Fördern von verschmutztem Wasser, auch mit festen und faserigen Schwebstoffen."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Entleeren von Klärgruben, Abwasserschächten aus biologischen Quellen und von Abwassersammelgruben im Allgemeinen."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Trockenlegen von Baugruben und sumpfigem Gelände."
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Unverbindlich Kontakt aufnehmen"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Maximale Temperatur der geförderten Flüssigkeit"
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "50 °C bei vollständig eingetauchter Pumpe."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "25 °C bei teilweise eingetauchter"
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Förderstrom: bis 120,00 m³/h"
+                                }
+                              ]
+                            }
+                          ]
                         },
                         {
-                          "type": "hard_break"
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Förderhöhe: bis 21,0 m"
+                                }
+                              ]
+                            }
+                          ]
                         },
                         {
-                          "type": "text",
-                          "text": "Pumpe."
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Stromversorgung: dreiphasig und einphasig, 50 Hz"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Leistung: von 0,60 kW bis 4,00 kW"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Temperatur der geförderten Flüssigkeit: bis 50,0 °C"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Maximale Eintauchtiefe: 5,0 m"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Freier Durchgang: bis 65,0 mm"
+                                }
+                              ]
+                            }
+                          ]
                         }
                       ]
                     }
                   ]
                 }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ausführungen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Lowara DL und DLV Pumpe gibt es in zwei Spannungsausführungen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Einphasig",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "220-240 V, 50 Hz mit eingebautem Motorschutz und Schaltkasten/Kondensatorgehäuse mit Ein/Aus-Schalter."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Dreiphasig",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "220-240 oder 380-415 V, 50 Hz für Pumpen bis 1,5 kW. Der Überlastschutz muss vom Anwender vorgesehen werden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Vormontierter Schwimmerschalter bei den einphasigen Ausführungen (DL…CG, DLV…CG) auf Anfrage."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Freier Durchgang"
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
+              }
+            ]
+          },
+          {
+            "_uid": "2d880728a161",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "eb844b939029",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
                     {
-                      "type": "paragraph",
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
                       "content": [
                         {
                           "type": "text",
-                          "text": "45 mm für DL 80, 90, 105, Minivortex, Vortex."
+                          "text": "Technische Spezifikationen"
                         }
                       ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
+                    },
                     {
-                      "type": "paragraph",
+                      "type": "bullet_list",
                       "content": [
                         {
-                          "type": "text",
-                          "text": "50 mm für DL 109, 125, 160, DLV 100, 115."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Motor mit Käfigläufer im Ölbad (ungiftig und dielektrisch) zur Schmierung der Kugellager und für bessere Kühlung."
+                                }
+                              ]
+                            }
+                          ]
+                        },
                         {
-                          "type": "text",
-                          "text": "60 mm für DL 180, 200."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "2-polige Motoren (von 0,6 bis 1,5 kW) und 4-polige Motoren (von 1,8 bis 4 kW)."
+                                }
+                              ]
+                            }
+                          ]
+                        },
                         {
-                          "type": "text",
-                          "text": "65 mm für DLV 120, 140, 160."
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Gleitringdichtung, geschützt durch ein sandabweisendes Labyrinth."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Maximale Eintauchtiefe: 5 m."
+                                }
+                              ]
+                            }
+                          ]
                         }
                       ]
                     }
                   ]
                 }
-              ]
-            }
-          ]
-        }
+              }
+            ]
+          },
+          {
+            "_uid": "fe3c4e229047",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "c0cce133b8c2",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Anwendungen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Fördern von verschmutztem Wasser, auch mit festen und faserigen Schwebstoffen."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Entleeren von Klärgruben, Abwasserschächten aus biologischen Quellen und von Abwassersammelgruben im Allgemeinen."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Trockenlegen von Baugruben und sumpfigem Gelände."
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "e24db63f79cb",
+        "_uid": "3e54710c1b5f",
+        "component": "cta_band",
+        "heading": "Unverbindlich Kontakt aufnehmen",
+        "text": "Wir beraten Sie gern zu Auswahl, Ersatz und Revision Ihrer Pumpe.",
+        "button_label": "Kontakt aufnehmen",
+        "button_link": {
+          "fieldtype": "multilink",
+          "linktype": "url",
+          "url": "/kontakt",
+          "cached_url": "/kontakt"
+        },
+        "variant": "primary"
+      },
+      {
+        "_uid": "73d4ea156203",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "5539dd97dcc6",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "30d169701ff9",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Maximale Temperatur der geförderten Flüssigkeit"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "50 °C bei vollständig eingetauchter Pumpe."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "25 °C bei teilweise eingetauchter"
+                                },
+                                {
+                                  "type": "hard_break"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "Pumpe."
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "6dde77d55e29",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "526d97e03ab4",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ausführungen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Lowara DL und DLV Pumpe gibt es in zwei Spannungsausführungen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Einphasig",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "220-240 V, 50 Hz mit eingebautem Motorschutz und Schaltkasten/Kondensatorgehäuse mit Ein/Aus-Schalter."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Dreiphasig",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "220-240 oder 380-415 V, 50 Hz für Pumpen bis 1,5 kW. Der Überlastschutz muss vom Anwender vorgesehen werden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Vormontierter Schwimmerschalter bei den einphasigen Ausführungen (DL…CG, DLV…CG) auf Anfrage."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "73d0f54cbc6f",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "89340a870e44",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Freier Durchgang"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "45 mm für DL 80, 90, 105, Minivortex, Vortex."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "50 mm für DL 109, 125, 160, DLV 100, 115."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "60 mm für DL 180, 200."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "65 mm für DLV 120, 140, 160."
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "6c5ff16f69bc",
         "component": "image_block",
         "image": {
           "filename": "/img/nl/merken-lowara-ipg.webp",
@@ -556,7 +687,7 @@
         }
       },
       {
-        "_uid": "cbacb552f7ed",
+        "_uid": "bbc460c11d85",
         "component": "rich_text",
         "content": {
           "type": "doc",

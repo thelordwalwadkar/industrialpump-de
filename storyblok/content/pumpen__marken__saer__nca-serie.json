@@ -12,155 +12,173 @@
     "seo_description": "SAER NCA Kreiselpumpen für Schmutz- und Abwasser: bis 1.600 m³/h, 60 m Förderhöhe und 160 kW. Jetzt Angebot oder Beratung anfordern.",
     "intro": "Die SAER NCA ist eine trocken aufgestellte Kreiselpumpe für häusliches und industrielles Schmutzwasser, Abwasser und faser- oder feststoffhaltige Medien. Sie erreicht bis zu 1.600 m³/h, 60 m Förderhöhe und 160 kW.",
     "series_name": "NCA",
+    "image": {
+      "filename": "/img/nl/pomptypes-merk-saer-saer-nca.webp",
+      "alt": "SAER NCA: trocken aufgestellte Elektropumpen für Entwässerung und Abwasser",
+      "width": 500,
+      "height": 500
+    },
     "pump_type": "kreiselpumpen",
     "use_case_line": "trocken aufgestellte Elektropumpen für Entwässerung und Abwasser",
     "body": [
       {
-        "_uid": "7ffa4708d964",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-saer-saer-nca.webp",
-          "alt": "Grüne industrielle Kreiselpumpe der SAER NCA-Baureihe, geeignet zum Fördern von Schmutzwasser",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "f96b960c4976",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
+        "_uid": "a88b34996010",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "95d9711c32aa",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "8ebcbbf24f20",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-saer-saer-nca.webp",
+                  "alt": "Grüne industrielle Kreiselpumpe der SAER NCA-Baureihe, geeignet zum Fördern von Schmutzwasser",
+                  "width": 500,
+                  "height": 500
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "9eb235bab04c",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ad2354f8f3df",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Baureihe für Entwässerung und Abwasser"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die SAER NCA Kreiselpumpe eignet sich zum Fördern von häuslichem und industriellem Schmutzwasser, viskosen und ätzenden Flüssigkeiten, Flüssigkeiten mit faserigen und festen Stoffen, landwirtschaftlicher Gülle sowie allgemein von verschmutztem und schlammigem Wasser."
+                        }
+                      ]
+                    }
+                  ]
+                }
               },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Baureihe für Entwässerung und Abwasser"
+              {
+                "_uid": "78bae1c0ba31",
+                "component": "data_table",
+                "table": {
+                  "fieldtype": "table",
+                  "thead": [
+                    {
+                      "_uid": "cfd6c5bdf879",
+                      "component": "_table_head",
+                      "value": "Maximale Förderleistung"
+                    },
+                    {
+                      "_uid": "58953ab671a1",
+                      "component": "_table_head",
+                      "value": ""
+                    },
+                    {
+                      "_uid": "70cb77f97b32",
+                      "component": "_table_head",
+                      "value": "1600"
+                    },
+                    {
+                      "_uid": "5d3b270e8043",
+                      "component": "_table_head",
+                      "value": "m³/h"
+                    }
+                  ],
+                  "tbody": [
+                    {
+                      "_uid": "370333302d78",
+                      "component": "_table_row",
+                      "body": [
+                        {
+                          "_uid": "62ddc287f938",
+                          "component": "_table_col",
+                          "value": "Maximale Förderhöhe"
+                        },
+                        {
+                          "_uid": "a3797d86717a",
+                          "component": "_table_col",
+                          "value": ""
+                        },
+                        {
+                          "_uid": "e4b4e62d8e9d",
+                          "component": "_table_col",
+                          "value": "60"
+                        },
+                        {
+                          "_uid": "dca473ad6a4b",
+                          "component": "_table_col",
+                          "value": "m"
+                        }
+                      ]
+                    },
+                    {
+                      "_uid": "b8ab1e6c57ec",
+                      "component": "_table_row",
+                      "body": [
+                        {
+                          "_uid": "3720e00a6a00",
+                          "component": "_table_col",
+                          "value": "Maximale Leistung"
+                        },
+                        {
+                          "_uid": "c7df069e6e33",
+                          "component": "_table_col",
+                          "value": ""
+                        },
+                        {
+                          "_uid": "4f6437860303",
+                          "component": "_table_col",
+                          "value": "160"
+                        },
+                        {
+                          "_uid": "fd3719e6a51d",
+                          "component": "_table_col",
+                          "value": "kW"
+                        }
+                      ]
+                    }
+                  ]
                 }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die SAER NCA Kreiselpumpe eignet sich zum Fördern von häuslichem und industriellem Schmutzwasser, viskosen und ätzenden Flüssigkeiten, Flüssigkeiten mit faserigen und festen Stoffen, landwirtschaftlicher Gülle sowie allgemein von verschmutztem und schlammigem Wasser."
-                }
-              ]
-            }
-          ]
-        }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "ba2da7641584",
-        "component": "data_table",
-        "table": {
-          "fieldtype": "table",
-          "thead": [
-            {
-              "_uid": "4c901cabb62e",
-              "component": "_table_head",
-              "value": "Maximale Förderleistung"
-            },
-            {
-              "_uid": "e49f8af05b9a",
-              "component": "_table_head",
-              "value": ""
-            },
-            {
-              "_uid": "1bde7d92c81c",
-              "component": "_table_head",
-              "value": "1600"
-            },
-            {
-              "_uid": "a55dab7219fb",
-              "component": "_table_head",
-              "value": "m³/h"
-            }
-          ],
-          "tbody": [
-            {
-              "_uid": "d2a7bb03ddd8",
-              "component": "_table_row",
-              "body": [
-                {
-                  "_uid": "25db80eead3f",
-                  "component": "_table_col",
-                  "value": "Maximale Förderhöhe"
-                },
-                {
-                  "_uid": "ac3732a5fdc4",
-                  "component": "_table_col",
-                  "value": ""
-                },
-                {
-                  "_uid": "0ce795897b4b",
-                  "component": "_table_col",
-                  "value": "60"
-                },
-                {
-                  "_uid": "8a28d609f231",
-                  "component": "_table_col",
-                  "value": "m"
-                }
-              ]
-            },
-            {
-              "_uid": "24a873b0b07b",
-              "component": "_table_row",
-              "body": [
-                {
-                  "_uid": "2e86b8e4cdb8",
-                  "component": "_table_col",
-                  "value": "Maximale Leistung"
-                },
-                {
-                  "_uid": "abf780401507",
-                  "component": "_table_col",
-                  "value": ""
-                },
-                {
-                  "_uid": "bc983f63d7ce",
-                  "component": "_table_col",
-                  "value": "160"
-                },
-                {
-                  "_uid": "20a1253a0c7e",
-                  "component": "_table_col",
-                  "value": "kW"
-                }
-              ]
-            }
-          ]
-        }
+        "_uid": "b1e351450618",
+        "component": "cta_band",
+        "heading": "Unverbindlich Kontakt aufnehmen",
+        "text": "Wir beraten Sie gern zu Auswahl, Ersatz und Revision Ihrer Pumpe.",
+        "button_label": "Kontakt aufnehmen",
+        "button_link": {
+          "fieldtype": "multilink",
+          "linktype": "url",
+          "url": "/kontakt",
+          "cached_url": "/kontakt"
+        },
+        "variant": "primary"
       },
       {
-        "_uid": "7958cb3dc713",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Unverbindlich Kontakt aufnehmen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "2395320734ff",
+        "_uid": "7ca5989d6bcb",
         "component": "image_block",
         "image": {
           "filename": "/img/nl/merken-0025-saer.webp",
@@ -170,7 +188,7 @@
         }
       },
       {
-        "_uid": "8696efc33f9c",
+        "_uid": "7bc2f84bebcf",
         "component": "rich_text",
         "content": {
           "type": "doc",

@@ -8,21 +8,29 @@ import LinkCards from '../components/LinkCards.astro';
 import RichTextHtml from '../components/RichTextHtml.astro';
 import Bloks from '../components/Bloks.astro';
 import QuoteCta from '../components/QuoteCta.astro';
+import { hasOwnCta } from '../lib/page-cta';
 interface Props { story: PageStory<PageHub>; site: Site }
 const { story, site } = Astro.props;
 const c = story.content;
 const cards = childCards(site, story);
 const kids = site.children(story);
 const tiles = kids.length > 0 && kids.every((k) => k.content.component === 'page_brand');
+const bodyJson = JSON.stringify(c.body ?? []);
+// the migrated text usually lists the sub-pages itself (as on industrialpumps.nl): then the automatic overview is left out
+const linked = cards.filter((k) => bodyJson.includes(`"${k.href}"`)).length;
+const showList = cards.length > 0 && linked < cards.length * 0.75;
+const hasText = !!c.body_text?.content?.length;
 ---
 <PageHead story={story} site={site} h1={c.h1 || story.name} intro={c.intro} />
-<section class="section">
-  <div class="wrap">
-    {cards.length > 0 && <h2>{c.child_heading ?? 'Übersicht'}</h2>}
-    <LinkCards cards={cards} variant={tiles ? 'cards' : 'index'} showImage={false} />
-    <RichTextHtml doc={c.body_text} />
-  </div>
-</section>
+{(showList || hasText) && (
+  <section class="section">
+    <div class="wrap">
+      {showList && <h2>{c.child_heading ?? 'Übersicht'}</h2>}
+      {showList && <LinkCards cards={cards} variant={tiles ? 'cards' : 'index'} showImage={false} />}
+      <RichTextHtml doc={c.body_text} />
+    </div>
+  </section>
+)}
 <Bloks bloks={c.body} site={site} />
-<div class="wrap"><QuoteCta heading="Pumpe oder Revision anfragen" text="Senden Sie uns Typenschild oder Betriebsdaten, wir prüfen die passende Lösung." label="Angebot anfordern" href="/angebot" /></div>
+{!hasOwnCta(c) && <div class="wrap"><QuoteCta heading="Pumpe oder Revision anfragen" text="Senden Sie uns Typenschild oder Betriebsdaten, wir prüfen die passende Lösung." label="Angebot anfordern" href="/angebot" /></div>}
 <Bloks bloks={c.cta} site={site} />

@@ -8,144 +8,170 @@
   "content": {
     "component": "page_blog_post",
     "h1": "Flygt Bibo Alpha: intelligente Baupumpe für Entwässerungsprojekte",
+    "hero_image": {
+      "filename": "/img/nl/nieuws-bibo-alpha-full.webp",
+      "alt": "",
+      "width": 1280,
+      "height": 617
+    },
     "seo_title": "Flygt Bibo Alpha: intelligente Baupumpe von Xylem",
     "seo_description": "Flygt Bibo Alpha: Tauchmotorpumpe für Entwässerung mit Adaptive und Level Mode, integriertem Motorschutz und Plug-and-play. Jetzt Beratung anfordern.",
     "intro": "Die Flygt Bibo Alpha ist eine intelligente Tauchmotorpumpe von Xylem für Entwässerung in Bau, Industrie und Bergbau, die Drehzahl und Förderhöhe automatisch an die Situation anpasst. IPG liefert sie als Channel Partner von Xylem Nederland an Bauunternehmen, Verleiher und Industrie.",
     "publication_date": "2025-11-14",
     "article": {
       "type": "doc",
-      "content": []
-    },
-    "body": [
-      {
-        "_uid": "cb746b3f9df7",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
           "content": [
             {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "In Bau, Industrie und Bergbau sind Pumpen unverzichtbar. Ob es darum geht, eine Baugrube trocken zu halten, Tunnel zu entwässern oder (verschmutztes) Wasser aus industriellen Prozessen kontinuierlich zu fördern: Die Anforderungen sind hoch. Zuverlässigkeit, Einfachheit und Robustheit sind Standard. Doch was, wenn Intelligenz, Flexibilität und Kosteneinsparung hinzukommen?"
-                }
-              ]
-            },
+              "type": "text",
+              "text": "In Bau, Industrie und Bergbau sind Pumpen unverzichtbar. Ob es darum geht, eine Baugrube trocken zu halten, Tunnel zu entwässern oder (verschmutztes) Wasser aus industriellen Prozessen kontinuierlich zu fördern: Die Anforderungen sind hoch. Zuverlässigkeit, Einfachheit und Robustheit sind Standard. Doch was, wenn Intelligenz, Flexibilität und Kosteneinsparung hinzukommen?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
             {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Lernen Sie die Flygt Biboα (Alpha) kennen, die nächste Generation tauchfähiger Entwässerungspumpen von Xylem. Als Channel Partner von Xylem Nederland liefert IPG diese intelligente Pumpe einschließlich persönlicher Beratung, schneller Lieferung und vollständiger technischer Unterstützung."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Hier beginnt intelligenteres Fördern"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Flygt Bibo Alpha ist keine herkömmliche Baupumpe. Während die meisten Pumpen nach einer festen Kennlinie (QH-Kennlinie) laufen, passt sich die Bibo Alpha automatisch an. Dank integrierter Intelligenz regelt die Pumpe Drehzahl, Förderhöhe und Energieverbrauch fortlaufend anhand der aktuellen Situation vor Ort. Das Ergebnis: weniger Verschleiß, geringere Energiekosten und deutlich weniger unnötige Betriebsstunden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Pumpe kann in zwei intelligenten Betriebsarten arbeiten:"
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Adaptive Mode",
-                          "marks": [
-                            {
-                              "type": "bold"
-                            }
-                          ]
-                        },
-                        {
-                          "type": "text",
-                          "text": ": Dauerbetrieb mit automatischer Anpassung der Drehzahl, geeignet bei variablem Wasserzufluss."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Level Mode",
-                          "marks": [
-                            {
-                              "type": "bold"
-                            }
-                          ]
-                        },
-                        {
-                          "type": "text",
-                          "text": ": Pumpen zwischen eingestellten Niveaus über den integrierten Drucksensor, geeignet bei vorhersagbaren Zyklen."
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Diese Flexibilität macht die Flygt Bibo Alpha für ein breites Spektrum an Anwendungen geeignet, von Baugruben bis zu Untertagebergwerken, von industriellen Mietparks bis zu Notfallsituationen."
-                }
-              ]
+              "type": "text",
+              "text": "Lernen Sie die Flygt Biboα (Alpha) kennen, die nächste Generation tauchfähiger Entwässerungspumpen von Xylem. Als Channel Partner von Xylem Nederland liefert IPG diese intelligente Pumpe einschließlich persönlicher Beratung, schneller Lieferung und vollständiger technischer Unterstützung."
             }
           ]
         }
+      ]
+    },
+    "body": [
+      {
+        "_uid": "c792cfb1aff0",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "feb12fd61f01",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "262c521df700",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Hier beginnt intelligenteres Fördern"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Flygt Bibo Alpha ist keine herkömmliche Baupumpe. Während die meisten Pumpen nach einer festen Kennlinie (QH-Kennlinie) laufen, passt sich die Bibo Alpha automatisch an. Dank integrierter Intelligenz regelt die Pumpe Drehzahl, Förderhöhe und Energieverbrauch fortlaufend anhand der aktuellen Situation vor Ort. Das Ergebnis: weniger Verschleiß, geringere Energiekosten und deutlich weniger unnötige Betriebsstunden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Pumpe kann in zwei intelligenten Betriebsarten arbeiten:"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Adaptive Mode",
+                                  "marks": [
+                                    {
+                                      "type": "bold"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": ": Dauerbetrieb mit automatischer Anpassung der Drehzahl, geeignet bei variablem Wasserzufluss."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Level Mode",
+                                  "marks": [
+                                    {
+                                      "type": "bold"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": ": Pumpen zwischen eingestellten Niveaus über den integrierten Drucksensor, geeignet bei vorhersagbaren Zyklen."
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Diese Flexibilität macht die Flygt Bibo Alpha für ein breites Spektrum an Anwendungen geeignet, von Baugruben bis zu Untertagebergwerken, von industriellen Mietparks bis zu Notfallsituationen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "4ae51cff8b0e",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "879d4c458819",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/nieuws-bibo-alpha-full.webp",
+                  "alt": "Flygt Bibo Alpha Tauchmotorpumpe mit gebogenem Druckanschluss und industriellem Design",
+                  "width": 1280,
+                  "height": 617
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "a9807a31f6f5",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/nieuws-bibo-alpha-full.webp",
-          "alt": "Flygt Bibo Alpha Tauchmotorpumpe mit gebogenem Druckanschluss und industriellem Design",
-          "width": 1280,
-          "height": 617
-        }
-      },
-      {
-        "_uid": "58476be14025",
+        "_uid": "efe8dad68707",
         "component": "rich_text",
         "content": {
           "type": "doc",
@@ -350,409 +376,493 @@
         }
       },
       {
-        "_uid": "e055b8fa80a7",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/nieuws-flygt-bibo-boliden.webp",
-          "alt": "Monteur unter Tage mit Helm und Tablet kontrolliert eine Flygt-Bibo-Alpha-Installation",
-          "width": 1280,
-          "height": 733
-        }
+        "_uid": "19a865683ca1",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "b5d2dfaf3a59",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "36ca5f09a149",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/nieuws-flygt-bibo-boliden.webp",
+                  "alt": "Monteur unter Tage mit Helm und Tablet kontrolliert eine Flygt-Bibo-Alpha-Installation",
+                  "width": 1280,
+                  "height": 733
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "674f3344feb6",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "a690f33fa6d5",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Eine im Feld erprobte Lösung"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Bibo Alpha ist nicht nur ein Prototyp. Die Pumpe wurde über Jahre in der Praxis getestet, unter anderem in den Bergwerken von Boliden (Schweden und Finnland), auf Baustellen im Vereinigten Königreich und in Frankreich sowie in Mietanwendungen. Im schwedischen Bergwerk Renström zeigte sich:"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Der Verschleiß an den Pumpen ging um 80 % zurück"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Die Wartungskosten sanken um 30 %"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Dieselbe Pumpe blieb bis zu viermal länger ohne Service in Betrieb"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die automatisierte Leistung der Bibo Alpha macht sie geeignet für Unternehmen, die ihre Betriebskosten senken, weniger manuelle Eingriffe vornehmen oder vorhersagbare Wartung und maximale Verfügbarkeit anstreben."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "36e167e95e47",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Eine im Feld erprobte Lösung"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Bibo Alpha ist nicht nur ein Prototyp. Die Pumpe wurde über Jahre in der Praxis getestet, unter anderem in den Bergwerken von Boliden (Schweden und Finnland), auf Baustellen im Vereinigten Königreich und in Frankreich sowie in Mietanwendungen. Im schwedischen Bergwerk Renström zeigte sich:"
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
+        "_uid": "6aafcf507641",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "78cc6ab64bbc",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "c573dd83c5dd",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Für wen ist sie geeignet?"
+                        }
+                      ]
+                    },
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "Der Verschleiß an den Pumpen ging um 80 % zurück"
+                          "text": "Die Flygt Bibo Alpha eignet sich besonders für:"
                         }
                       ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
+                    },
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Bauunternehmen im Erd-, Straßen- und Wasserbau"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Tunnelbau und unterirdische Infrastruktur"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Bergbauunternehmen"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Industrielle Dienstleister und Verleihunternehmen"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Notpumpenanwendungen oder Hochwasser- und Überflutungssituationen"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "Die Wartungskosten sanken um 30 %"
+                          "text": "Dank ihres breiten Arbeitsbereichs und der intelligenten Steuerung kann die Pumpe viele unterschiedliche Pumpentypen ersetzen, ohne Abstriche bei der Leistung."
                         }
                       ]
                     }
                   ]
-                },
-                {
-                  "type": "list_item",
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "943330a07053",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ab953da2f1e9",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Setzen Sie bisher eine herkömmliche Baupumpe wie Grindex ein?"
+                        }
+                      ]
+                    },
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "Dieselbe Pumpe blieb bis zu viermal länger ohne Service in Betrieb"
+                          "text": "Viele Unternehmen nutzen seit Jahren zuverlässige Marken wie Grindex, die Flygt-Baureihe 2600 oder andere bekannte Baupumpen. Als IPG liefern wir auch diese Marken, einschließlich Wartung und Ersatzteilen."
                         }
                       ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die automatisierte Leistung der Bibo Alpha macht sie geeignet für Unternehmen, die ihre Betriebskosten senken, weniger manuelle Eingriffe vornehmen oder vorhersagbare Wartung und maximale Verfügbarkeit anstreben."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Für wen ist sie geeignet?"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Flygt Bibo Alpha eignet sich besonders für:"
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
+                    },
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "Bauunternehmen im Erd-, Straßen- und Wasserbau"
+                          "text": "Mit der Flygt Bibo Alpha steht nun jedoch eine innovative Ergänzung zur Verfügung. Anwender herkömmlicher Baupumpen, darunter Grindex-Modelle, können mit der Bibo Alpha von Folgendem profitieren:"
                         }
                       ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
+                    },
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Höhere Energieeffizienz"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Weniger Verschleiß bei Trockenlauf und Schnarchen (Luftansaugen)"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Geringere Gesamtkosten je Betriebsstunde"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Intelligente Steuerung ohne externe Schalter oder Schaltschränke"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "Tunnelbau und unterirdische Infrastruktur"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Bergbauunternehmen"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Industrielle Dienstleister und Verleihunternehmen"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Notpumpenanwendungen oder Hochwasser- und Überflutungssituationen"
+                          "text": "Wir stellen die Bibo Alpha daher nicht als Ersatz dar, sondern als logischen nächsten Schritt für Anwendungen, in denen intelligenteres, effizienteres oder langlebigeres Pumpen gewünscht ist."
                         }
                       ]
                     }
                   ]
                 }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Dank ihres breiten Arbeitsbereichs und der intelligenten Steuerung kann die Pumpe viele unterschiedliche Pumpentypen ersetzen, ohne Abstriche bei der Leistung."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Setzen Sie bisher eine herkömmliche Baupumpe wie Grindex ein?"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Viele Unternehmen nutzen seit Jahren zuverlässige Marken wie Grindex, die Flygt-Baureihe 2600 oder andere bekannte Baupumpen. Als IPG liefern wir auch diese Marken, einschließlich Wartung und Ersatzteilen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mit der Flygt Bibo Alpha steht nun jedoch eine innovative Ergänzung zur Verfügung. Anwender herkömmlicher Baupumpen, darunter Grindex-Modelle, können mit der Bibo Alpha von Folgendem profitieren:"
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Höhere Energieeffizienz"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Weniger Verschleiß bei Trockenlauf und Schnarchen (Luftansaugen)"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Geringere Gesamtkosten je Betriebsstunde"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Intelligente Steuerung ohne externe Schalter oder Schaltschränke"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Wir stellen die Bibo Alpha daher nicht als Ersatz dar, sondern als logischen nächsten Schritt für Anwendungen, in denen intelligenteres, effizienteres oder langlebigeres Pumpen gewünscht ist."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Warum IPG?"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Channel Partner von Xylem Nederland liefert IPG die Flygt Bibo Alpha direkt ab Lager oder mit kurzen Lieferzeiten. Wir unterstützen unsere Kunden mit:"
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Persönlicher Beratung auf Basis der Anwendung"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Technischer Unterstützung bei Auswahl, Installation und Betrieb"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Wartung, Revision und Nachbetreuung"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Herstellerunabhängigem Wissen über Pumpen, Systeme und Alternativen"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Dank unserer breiten Erfahrung mit Pumpen in Bau, Industrie und Infrastruktur können wir stets die passende Verbindung zwischen Technik und Praxis herstellen."
-                }
-              ]
-            }
-          ]
-        }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "a90a4af07e35",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/nieuws-xylem-ipg-bibo-alpha.webp",
-          "alt": "Vorführung der Flygt Bibo Alpha Tauchmotorpumpe auf einer Industriemesse",
-          "width": 1280,
-          "height": 853
-        }
+        "_uid": "3ddf71722cb7",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "528d93556e1e",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "e9b48994f0e7",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Warum IPG?"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Channel Partner von Xylem Nederland liefert IPG die Flygt Bibo Alpha direkt ab Lager oder mit kurzen Lieferzeiten. Wir unterstützen unsere Kunden mit:"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Persönlicher Beratung auf Basis der Anwendung"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Technischer Unterstützung bei Auswahl, Installation und Betrieb"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Wartung, Revision und Nachbetreuung"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Herstellerunabhängigem Wissen über Pumpen, Systeme und Alternativen"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Dank unserer breiten Erfahrung mit Pumpen in Bau, Industrie und Infrastruktur können wir stets die passende Verbindung zwischen Technik und Praxis herstellen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "7890afe5c25f",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "85d2a52d1df1",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/nieuws-xylem-ipg-bibo-alpha.webp",
+                  "alt": "Vorführung der Flygt Bibo Alpha Tauchmotorpumpe auf einer Industriemesse",
+                  "width": 1280,
+                  "height": 853
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "f92201641d18",
+        "_uid": "80a2a26b56fc",
         "component": "rich_text",
         "content": {
           "type": "doc",
@@ -790,12 +900,6 @@
           ]
         }
       }
-    ],
-    "image": {
-      "filename": "/img/nl/nieuws-bibo-alpha-full.webp",
-      "alt": "Flygt Bibo Alpha Tauchmotorpumpe mit gebogenem Druckanschluss und industriellem Design",
-      "width": 1280,
-      "height": 617
-    }
+    ]
   }
 }

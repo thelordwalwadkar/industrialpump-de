@@ -23,31 +23,39 @@
         "description": "Kurzname für Brotkrumen, Navigation und Karten (z. B. „DIWA-Serie“).",
         "pos": 2
       },
+      "hero_image": {
+        "type": "asset",
+        "filetypes": [
+          "images"
+        ],
+        "description": "Kopfbild (optional): ersetzt das Standardbild hinter Überschrift und Einleitung.",
+        "pos": 3
+      },
       "seo_title": {
         "type": "text",
         "description": "Seitentitel für Google, höchstens 60 Zeichen.",
         "max_length": 60,
         "required": true,
-        "pos": 3
+        "pos": 4
       },
       "seo_description": {
         "type": "textarea",
         "description": "Meta-Beschreibung, höchstens 155 Zeichen.",
         "max_length": 155,
         "required": true,
-        "pos": 4
+        "pos": 5
       },
       "noindex": {
         "type": "boolean",
         "description": "Nur für Sonderfälle: Seite von der Suche ausschließen. Rechtstexte bleiben indexierbar.",
         "default_value": false,
-        "pos": 5
+        "pos": 6
       },
       "series_name": {
         "type": "text",
         "description": "Serienname ohne „-Serie“ (z. B. „DIWA“). Der URL-Slug lautet „diwa-serie“.",
         "required": true,
-        "pos": 6
+        "pos": 7
       },
       "pump_type": {
         "type": "option",
@@ -76,7 +84,7 @@
         ],
         "description": "Pumpentyp (verbindet Serien markenübergreifend).",
         "required": true,
-        "pos": 7
+        "pos": 8
       },
       "segments": {
         "type": "options",
@@ -100,7 +108,7 @@
           }
         ],
         "description": "Branchen (aus den Produktdaten).",
-        "pos": 8
+        "pos": 9
       },
       "applications": {
         "type": "options",
@@ -116,24 +124,24 @@
           }
         ],
         "description": "Anwendungen.",
-        "pos": 9
+        "pos": 10
       },
       "use_case_line": {
         "type": "text",
         "description": "Eine Zeile zum Einsatz, erscheint in den Karten der Marken-Seite.",
         "required": true,
-        "pos": 10
+        "pos": 11
       },
       "body_text": {
         "type": "richtext",
         "description": "Beschreibung der Serie.",
         "rich_markdown": false,
-        "pos": 11
+        "pos": 12
       },
       "highlights": {
         "type": "textarea",
         "description": "Merkmale, eine Zeile pro Punkt.",
-        "pos": 12
+        "pos": 13
       },
       "image": {
         "type": "asset",
@@ -141,47 +149,47 @@
           "images"
         ],
         "description": "Serienbild.",
-        "pos": 13
+        "pos": 14
       },
       "image_source": {
         "type": "text",
         "description": "Quellpfad des Bildes im Altsystem (für die Asset-Migration).",
-        "pos": 14
+        "pos": 15
       },
       "flow_max_m3h": {
         "type": "number",
         "description": "Förderstrom max. in m³/h (aus den Produktdaten).",
-        "pos": 15
+        "pos": 16
       },
       "head_max_m": {
         "type": "number",
         "description": "Förderhöhe max. in m.",
-        "pos": 16
+        "pos": 17
       },
       "power_min_kw": {
         "type": "number",
         "description": "Kleinste Motorleistung in kW.",
-        "pos": 17
+        "pos": 18
       },
       "power_max_kw": {
         "type": "number",
         "description": "Größte Motorleistung in kW.",
-        "pos": 18
+        "pos": 19
       },
       "temp_max_c": {
         "type": "number",
         "description": "Max. Medientemperatur in °C.",
-        "pos": 19
+        "pos": 20
       },
       "materials": {
         "type": "text",
         "description": "Werkstoffe der Serie.",
-        "pos": 20
+        "pos": 21
       },
       "catalogue_count": {
         "type": "number",
         "description": "Anzahl Artikel im Katalog.",
-        "pos": 21
+        "pos": 22
       },
       "downloads": {
         "type": "bloks",
@@ -191,7 +199,7 @@
         ],
         "description": "Datenblatt / Kennlinie der Serie.",
         "maximum": 1,
-        "pos": 22
+        "pos": 23
       },
       "faq": {
         "type": "bloks",
@@ -201,7 +209,7 @@
         ],
         "description": "FAQ-Block (3–5 Fragen). Erzeugt auch FAQPage-Daten.",
         "maximum": 1,
-        "pos": 23
+        "pos": 24
       },
       "body": {
         "type": "bloks",
@@ -221,10 +229,11 @@
           "button_row",
           "pump_finder",
           "logo_carousel",
-          "usp_grid"
+          "usp_grid",
+          "section_row"
         ],
         "description": "Optionale Zusatz-Bausteine. Die Pflicht-Abschnitte sind im Template fest eingebaut.",
-        "pos": 24
+        "pos": 25
       },
       "cta": {
         "type": "bloks",
@@ -234,7 +243,7 @@
         ],
         "description": "Optionales Abschluss-Banner. Ohne Eintrag erscheint der Standard-CTA des Templates.",
         "maximum": 1,
-        "pos": 25
+        "pos": 26
       },
       "tab-seo": {
         "type": "tab",

@@ -15,594 +15,838 @@
     "topic_kind": "pumpentyp",
     "body": [
       {
-        "_uid": "a40e357c070e",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Abwassertransport umfasst das Sammeln, Behandeln und Fördern von häuslichem und industriellem Abwasser zu Kläranlagen. Pumpen, Leitungen und Kanalnetze werden genutzt, um das Abwasser zu bewegen und zu behandeln."
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
+        "_uid": "b6549ebb34e3",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "627760b0c834",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "c3080d5fc6df",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "Abwasser",
-                          "marks": [
+                          "text": "Abwassertransport umfasst das Sammeln, Behandeln und Fördern von häuslichem und industriellem Abwasser zu Kläranlagen. Pumpen, Leitungen und Kanalnetze werden genutzt, um das Abwasser zu bewegen und zu behandeln."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "deea277f8876",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "5534d687fdeb",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
                             {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/anwendungen/abwasser",
-                                "linktype": "url"
-                              }
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Abwasser",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/anwendungen/abwasser",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Prozesswasser",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/anwendungen/prozesswasser",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Tauchmotorpumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/pumpentypen/tauchmotorpumpen",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Feststoff- und Schlammpumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/pumpentypen/feststoffpumpen",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Exzenterschneckenpumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/pumpentypen/exzenterschneckenpumpen",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
                             }
                           ]
                         }
                       ]
                     }
                   ]
-                },
-                {
-                  "type": "list_item",
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "1f5143b8fdc1",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "f7e5a72bb2dd",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "1ecfe7c9d1e2",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Bedeutung eines effizienten Abwassertransports"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "6a0a70e229ce",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "a934d49bdcf6",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "Prozesswasser",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/anwendungen/prozesswasser",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
+                          "text": "Der Abwassertransport ist ein wesentlicher Schritt der Abwasserbehandlung: Das Abwasser aus Haushalten und Industrie wird gesammelt und zur weiteren Behandlung zu einer Kläranlage gefördert. Ein effizienter Abwassertransport ist entscheidend, um die Sicherheit der Umwelt und die öffentliche Gesundheit zu gewährleisten."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Der Abwassertransport erfolgt meist über ein Netz unterirdischer Kanalisationssysteme und Pumpen, die das Abwasser bewegen. Dieser Prozess erfordert regelmäßige Wartung und Inspektion, um Probleme wie Verstopfungen, Leckagen und Überflutungen zu vermeiden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Eine der größten Herausforderungen beim Abwassertransport ist es, die Umweltauswirkungen zu verringern. Wird beispielsweise Regenwasser vom Abwassersystem abgekoppelt, wird eine Überlastung des Systems bei Starkregen vermieden, und mehr Regenwasser kann im Boden versickern. Auch der Einsatz energiesparender Pumpen und Leitungen kann helfen, die Umweltbelastung zu verringern."
                         }
                       ]
                     }
                   ]
-                },
-                {
-                  "type": "list_item",
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "1ec6f19e66d5",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "0990f81bb9b0",
+            "component": "section_column",
+            "icon": "fa-bolt",
+            "content": [
+              {
+                "_uid": "5444bd2543b6",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "Tauchmotorpumpen",
+                          "text": "Effiziente Druckerhöhung für den Transport über lange Strecken",
                           "marks": [
                             {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/pumpentypen/tauchmotorpumpen",
-                                "linktype": "url"
-                              }
+                              "type": "bold"
                             }
                           ]
                         }
                       ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Pumpen erhöhen den Druck des Abwassers, sodass es effizient über lange Strecken transportiert werden kann, von städtischen Gebieten zu Verarbeitungsanlagen außerhalb der Stadt."
+                        }
+                      ]
                     }
                   ]
-                },
-                {
-                  "type": "list_item",
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "339852e304df",
+            "component": "section_column",
+            "icon": "fa-chart-network",
+            "content": [
+              {
+                "_uid": "fadf6381c1e6",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "Feststoff- und Schlammpumpen",
+                          "text": "Vielfalt bei Typen und Anwendungen",
                           "marks": [
                             {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/pumpentypen/feststoffpumpen",
-                                "linktype": "url"
-                              }
+                              "type": "bold"
                             }
                           ]
                         }
                       ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Verschiedene Pumpentypen, etwa Kreiselpumpen für große Wassermengen und Verdrängerpumpen für Wasser und Schlamm, ermöglichen es, die besonderen Anforderungen des Abwassertransports zu erfüllen."
+                        }
+                      ]
                     }
                   ]
-                },
-                {
-                  "type": "list_item",
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "29365faf1597",
+            "component": "section_column",
+            "icon": "fa-user-shield",
+            "content": [
+              {
+                "_uid": "80252a964d4e",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "Exzenterschneckenpumpen",
+                          "text": "Zuverlässiges Aufrechterhalten eines gleichmäßigen Förderstroms",
                           "marks": [
                             {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/pumpentypen/exzenterschneckenpumpen",
-                                "linktype": "url"
-                              }
+                              "type": "bold"
                             }
                           ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Indem sie einen gleichmäßigen Förderstrom aufrechterhalten, verhindern Pumpen Verstopfungen und Schäden im System, was für einen ununterbrochenen und wirksamen Abwassertransport wesentlich ist."
                         }
                       ]
                     }
                   ]
                 }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Bedeutung eines effizienten Abwassertransports"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Der Abwassertransport ist ein wesentlicher Schritt der Abwasserbehandlung: Das Abwasser aus Haushalten und Industrie wird gesammelt und zur weiteren Behandlung zu einer Kläranlage gefördert. Ein effizienter Abwassertransport ist entscheidend, um die Sicherheit der Umwelt und die öffentliche Gesundheit zu gewährleisten."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Der Abwassertransport erfolgt meist über ein Netz unterirdischer Kanalisationssysteme und Pumpen, die das Abwasser bewegen. Dieser Prozess erfordert regelmäßige Wartung und Inspektion, um Probleme wie Verstopfungen, Leckagen und Überflutungen zu vermeiden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Eine der größten Herausforderungen beim Abwassertransport ist es, die Umweltauswirkungen zu verringern. Wird beispielsweise Regenwasser vom Abwassersystem abgekoppelt, wird eine Überlastung des Systems bei Starkregen vermieden, und mehr Regenwasser kann im Boden versickern. Auch der Einsatz energiesparender Pumpen und Leitungen kann helfen, die Umweltbelastung zu verringern."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Effiziente Druckerhöhung für den Transport über lange Strecken",
-                  "marks": [
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "ca3449a03f18",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "ab2e73719fdc",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "8d09375d3862",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
                     {
-                      "type": "bold"
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Rolle von Pumpen im Abwassertransport"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Pumpen sind im Abwassertransport von zentraler Bedeutung. Sie sorgen dafür, dass das Abwasser von der Quelle zur Verarbeitungsanlage gefördert wird. Das effiziente Funktionieren der Pumpen ist wesentlich, um ein nachhaltiges und wirksames Abwassersystem zu erhalten."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Eine wichtige Funktion von Pumpen ist es, Abwasser mittels Druck zu bewegen. Das Abwasser wird in Leitungen gesammelt und strömt zu den Pumpen. Die Pumpen erhöhen den Druck des Wassers, sodass es zur nächsten Behandlungsstufe gefördert werden kann. Dieser Vorgang setzt sich fort, bis das Abwasser schließlich eingeleitet oder wiederverwertet wird."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Pumpen sind auch wesentlich, um einen gleichmäßigen Förderstrom aufrechtzuerhalten. Ein gleichmäßiger Förderstrom ist wichtig, weil er verhindert, dass das System verstopft. Wird der Förderstrom unterbrochen, können Schlamm und anderes Material in den Leitungen zurückbleiben, was zu Verstopfung und Schäden am System führen kann."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Eine weitere wichtige Funktion von Pumpen ist das Fördern von Abwasser über lange Strecken. Manchmal muss Abwasser über große Entfernungen transportiert werden, zum Beispiel aus einem städtischen Gebiet zu einer Verarbeitungsanlage außerhalb der Stadt. Pumpen sorgen dafür, dass dieses Abwasser effizient und wirksam gefördert werden kann."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Im Abwassertransport kommen verschiedene Pumpentypen zum Einsatz. Kreiselpumpen sind beispielsweise sehr verbreitet, weil sie große Wassermengen bewegen können. Verdrängerpumpen sind ebenfalls verbreitet, weil sie sowohl Wasser als auch Schlamm fördern können."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Pumpen müssen jedoch regelmäßig gewartet werden, um effizient zu arbeiten. Dazu gehören der Austausch verschlissener Bauteile und die Kontrolle der Gesamtfunktion der Pumpe. Ein regelmäßiger Wartungsplan ist wesentlich, damit die Pumpen zuverlässig arbeiten und das Abwassertransportsystem reibungslos funktioniert."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Schließlich ist es wichtig, für eine bestimmte Anwendung die richtige Pumpe zu wählen. Die richtige Pumpenwahl hängt von mehreren Faktoren ab, darunter Menge und Zusammensetzung des Abwassers, die zurückzulegende Entfernung und die Druckanforderungen. Die Wahl der richtigen Pumpe ist für Effizienz und Zuverlässigkeit des Abwassertransportsystems wesentlich."
+                        }
+                      ]
                     }
                   ]
                 }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Pumpen erhöhen den Druck des Abwassers, sodass es effizient über lange Strecken transportiert werden kann, von städtischen Gebieten zu Verarbeitungsanlagen außerhalb der Stadt."
+              }
+            ]
+          },
+          {
+            "_uid": "e220ec54f2cc",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "5daae1b93294",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/segmenten-watertransport-3.webp",
+                  "alt": "Die Rolle von Pumpen im Abwassertransport | Industrial Pump Group",
+                  "width": 1000,
+                  "height": 667
                 }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Vielfalt bei Typen und Anwendungen",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Verschiedene Pumpentypen, etwa Kreiselpumpen für große Wassermengen und Verdrängerpumpen für Wasser und Schlamm, ermöglichen es, die besonderen Anforderungen des Abwassertransports zu erfüllen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zuverlässiges Aufrechterhalten eines gleichmäßigen Förderstroms",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Indem sie einen gleichmäßigen Förderstrom aufrechterhalten, verhindern Pumpen Verstopfungen und Schäden im System, was für einen ununterbrochenen und wirksamen Abwassertransport wesentlich ist."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Rolle von Pumpen im Abwassertransport"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Pumpen sind im Abwassertransport von zentraler Bedeutung. Sie sorgen dafür, dass das Abwasser von der Quelle zur Verarbeitungsanlage gefördert wird. Das effiziente Funktionieren der Pumpen ist wesentlich, um ein nachhaltiges und wirksames Abwassersystem zu erhalten."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Eine wichtige Funktion von Pumpen ist es, Abwasser mittels Druck zu bewegen. Das Abwasser wird in Leitungen gesammelt und strömt zu den Pumpen. Die Pumpen erhöhen den Druck des Wassers, sodass es zur nächsten Behandlungsstufe gefördert werden kann. Dieser Vorgang setzt sich fort, bis das Abwasser schließlich eingeleitet oder wiederverwertet wird."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Pumpen sind auch wesentlich, um einen gleichmäßigen Förderstrom aufrechtzuerhalten. Ein gleichmäßiger Förderstrom ist wichtig, weil er verhindert, dass das System verstopft. Wird der Förderstrom unterbrochen, können Schlamm und anderes Material in den Leitungen zurückbleiben, was zu Verstopfung und Schäden am System führen kann."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Eine weitere wichtige Funktion von Pumpen ist das Fördern von Abwasser über lange Strecken. Manchmal muss Abwasser über große Entfernungen transportiert werden, zum Beispiel aus einem städtischen Gebiet zu einer Verarbeitungsanlage außerhalb der Stadt. Pumpen sorgen dafür, dass dieses Abwasser effizient und wirksam gefördert werden kann."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Im Abwassertransport kommen verschiedene Pumpentypen zum Einsatz. Kreiselpumpen sind beispielsweise sehr verbreitet, weil sie große Wassermengen bewegen können. Verdrängerpumpen sind ebenfalls verbreitet, weil sie sowohl Wasser als auch Schlamm fördern können."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Pumpen müssen jedoch regelmäßig gewartet werden, um effizient zu arbeiten. Dazu gehören der Austausch verschlissener Bauteile und die Kontrolle der Gesamtfunktion der Pumpe. Ein regelmäßiger Wartungsplan ist wesentlich, damit die Pumpen zuverlässig arbeiten und das Abwassertransportsystem reibungslos funktioniert."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Schließlich ist es wichtig, für eine bestimmte Anwendung die richtige Pumpe zu wählen. Die richtige Pumpenwahl hängt von mehreren Faktoren ab, darunter Menge und Zusammensetzung des Abwassers, die zurückzulegende Entfernung und die Druckanforderungen. Die Wahl der richtigen Pumpe ist für Effizienz und Zuverlässigkeit des Abwassertransportsystems wesentlich."
-                }
-              ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "e3a2f408c437",
+        "component": "logo_carousel",
+        "logos": [
+          {
+            "_uid": "6858c30ba2ea",
+            "component": "logo_item",
+            "name": "AEB Amsterdam",
+            "image": {
+              "filename": "/img/clients/aeb-amsterdam.webp",
+              "alt": "AEB Amsterdam",
+              "width": 280,
+              "height": 140
             }
-          ]
-        }
+          },
+          {
+            "_uid": "6026e93d1f37",
+            "component": "logo_item",
+            "name": "AkzoNobel",
+            "image": {
+              "filename": "/img/clients/akzonobel.webp",
+              "alt": "AkzoNobel",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "3481cfd847cb",
+            "component": "logo_item",
+            "name": "HVC",
+            "image": {
+              "filename": "/img/clients/hvc.webp",
+              "alt": "HVC",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "68910830460d",
+            "component": "logo_item",
+            "name": "Petrogas",
+            "image": {
+              "filename": "/img/clients/petrogas.webp",
+              "alt": "Petrogas",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "5c5d630fb580",
+            "component": "logo_item",
+            "name": "Tata Steel",
+            "image": {
+              "filename": "/img/clients/tata-steel.webp",
+              "alt": "Tata Steel",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "7112c7f8f7db",
+            "component": "logo_item",
+            "name": "Waternet",
+            "image": {
+              "filename": "/img/clients/waternet.webp",
+              "alt": "Waternet",
+              "width": 280,
+              "height": 140
+            }
+          }
+        ]
       },
       {
-        "_uid": "a7ff78348063",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/segmenten-watertransport-3.webp",
-          "alt": "Die Rolle von Pumpen im Abwassertransport | Industrial Pump Group",
-          "width": 1000,
-          "height": 667
-        }
+        "_uid": "321de2afad22",
+        "component": "section_row",
+        "layout": "carousel",
+        "columns": [
+          {
+            "_uid": "30053e188406",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "9deabd526ea7",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Robert von IPG: unverzichtbare Unterstützung für Wasseraufbereitungsprojekte."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Projektleiter schätze ich die fachkundige Unterstützung von Robert von IPG. Sein Einsatz für Wasseraufbereitungsprojekte und die schnelle Reaktion bei Störungen sind von unschätzbarem Wert. Mit Robert haben wir einen Experten für Pumpentechnik und einen verlässlichen Berater für unseren Betrieb."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Projektleiter bei einer Wasseraufbereitungsanlage."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "2d3f113cec5f",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "6e94f09c4e58",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flexibilität und schneller Service für kritische Anforderungen der Wasserversorgung!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG bietet hochwertige Lösungen und einen schnellen Service, was in unserer Branche entscheidend ist. Die Pumpen sind zuverlässig und für unterschiedliche Anwendungen im Wassertransport geeignet, auch bei hoher Förderleistung."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Maintenance Manager bei einem großen Wasserversorger."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "ae0fa904ae63",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "0490e353b510",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Hohe Förderleistung und Energieeffizienz für große Wasserprojekte!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Pumpen von IPG sind leistungsstark und energiesparend, was für unsere Wassertransportprojekte wesentlich ist. Das Team bietet stets hervorragende Unterstützung und denkt bei den Lösungen mit."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Projektleiter bei einem Infrastrukturunternehmen für Wassertransport."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "f5fbba28d1b1",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "9e7a75eaa3ec",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Hervorragende Qualität und fachkundige Unterstützung!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Zusammenarbeit mit IPG verläuft dank des umfangreichen Wissens und der qualitativ guten Produkte reibungslos. Die Pumpen sind effizient und für den Wassertransport über lange Strecken geeignet, was unsere Prozesse optimiert."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Technischer Betriebsleiter bei einem Trinkwasserversorger."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "9cdcf75e187a",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "791ae405f12c",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Zuverlässige Pumpen für kontinuierlichen Wassertransport!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG liefert robuste und zuverlässige Pumpen, die für unsere Wassertransportanwendungen gut geeignet sind. Die Pumpen arbeiten gleichbleibend und verringern die Gefahr von Stillständen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Operations Manager bei einem Wasserverteilungsunternehmen in den Niederlanden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "15b303907916",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-aeb.webp",
-          "alt": "Kundenlogo AEB",
-          "width": 387,
-          "height": 241
-        }
+        "_uid": "66be08f2ee49",
+        "component": "cta_band",
+        "heading": "Unverbindlich Kontakt aufnehmen",
+        "text": "Wir beraten Sie gern zu Auswahl, Ersatz und Revision Ihrer Pumpe.",
+        "button_label": "Kontakt aufnehmen",
+        "button_link": {
+          "fieldtype": "multilink",
+          "linktype": "url",
+          "url": "/kontakt",
+          "cached_url": "/kontakt"
+        },
+        "variant": "primary"
       },
       {
-        "_uid": "cc824d21e00b",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-akzonobel.webp",
-          "alt": "Kundenlogo AkzoNobel",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "d69a5f69082e",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-hvc.webp",
-          "alt": "Kundenlogo HVC",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "7c64611fe184",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-petrogas.webp",
-          "alt": "Kundenlogo Petrogas",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "cd77cb50724c",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-tatasteel.webp",
-          "alt": "Kundenlogo Tata Steel",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "1e56ef603fd8",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-waternet.webp",
-          "alt": "Kundenlogo Waternet",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "dd4b0ed880e9",
+        "_uid": "e38916ea95fb",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Robert von IPG: unverzichtbare Unterstützung für Wasseraufbereitungsprojekte."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Projektleiter schätze ich die fachkundige Unterstützung von Robert von IPG. Sein Einsatz für Wasseraufbereitungsprojekte und die schnelle Reaktion bei Störungen sind von unschätzbarem Wert. Mit Robert haben wir einen Experten für Pumpentechnik und einen verlässlichen Berater für unseren Betrieb."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Projektleiter bei einer Wasseraufbereitungsanlage."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Flexibilität und schneller Service für kritische Anforderungen der Wasserversorgung!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG bietet hochwertige Lösungen und einen schnellen Service, was in unserer Branche entscheidend ist. Die Pumpen sind zuverlässig und für unterschiedliche Anwendungen im Wassertransport geeignet, auch bei hoher Förderleistung."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Maintenance Manager bei einem großen Wasserversorger."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Hohe Förderleistung und Energieeffizienz für große Wasserprojekte!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Pumpen von IPG sind leistungsstark und energiesparend, was für unsere Wassertransportprojekte wesentlich ist. Das Team bietet stets hervorragende Unterstützung und denkt bei den Lösungen mit."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Projektleiter bei einem Infrastrukturunternehmen für Wassertransport."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Hervorragende Qualität und fachkundige Unterstützung!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Zusammenarbeit mit IPG verläuft dank des umfangreichen Wissens und der qualitativ guten Produkte reibungslos. Die Pumpen sind effizient und für den Wassertransport über lange Strecken geeignet, was unsere Prozesse optimiert."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Technischer Betriebsleiter bei einem Trinkwasserversorger."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zuverlässige Pumpen für kontinuierlichen Wassertransport!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG liefert robuste und zuverlässige Pumpen, die für unsere Wassertransportanwendungen gut geeignet sind. Die Pumpen arbeiten gleichbleibend und verringern die Gefahr von Stillständen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Operations Manager bei einem Wasserverteilungsunternehmen in den Niederlanden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 4
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Unverbindlich Kontakt aufnehmen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -655,126 +899,166 @@
         }
       },
       {
-        "_uid": "cd19be9cb491",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-product-2.webp",
-          "alt": "Tauchmotorpumpen für die Wasserwirtschaft | Industrial Pump Group",
-          "width": 168,
-          "height": 184
-        }
+        "_uid": "0cdc4275cf1b",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "739234356582",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "7c47ecf9d489",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/homepage-product-2.webp",
+                  "alt": "Tauchmotorpumpen für die Wasserwirtschaft | Industrial Pump Group",
+                  "width": 168,
+                  "height": 184
+                }
+              },
+              {
+                "_uid": "17e4c0f60bd5",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Tauchmotorpumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "f8f79b3c30d4",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "788827bd8010",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-wormpompen.webp",
+                  "alt": "Exzenterschneckenpumpen für die Wasserwirtschaft | Industrial Pump Group",
+                  "width": 243,
+                  "height": 141
+                }
+              },
+              {
+                "_uid": "3fb4f88c0be5",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Exzenterschneckenpumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "8caf3b454864",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "edf1e1961c5b",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-slurrypompen.webp",
+                  "alt": "Feststoff- und Schlammpumpen für die Wasserwirtschaft | Industrial Pump Group",
+                  "width": 337,
+                  "height": 275
+                }
+              },
+              {
+                "_uid": "8decd4cde59f",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Feststoff- und Schlammpumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "9b2c47a2cabc",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "9be66ecb0a68",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/segmenten-afvalwater.webp",
+                  "alt": "Abwasserpumpen für die Wasserwirtschaft | Industrial Pump Group",
+                  "width": 1280,
+                  "height": 1024
+                }
+              },
+              {
+                "_uid": "ae8dfae00d07",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Abwasserpumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "29ee6d21dced",
+        "_uid": "07f826af2928",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Tauchmotorpumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "7dde2c3745e8",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-wormpompen.webp",
-          "alt": "Exzenterschneckenpumpen für die Wasserwirtschaft | Industrial Pump Group",
-          "width": 243,
-          "height": 141
-        }
-      },
-      {
-        "_uid": "a386b85bbb4f",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Exzenterschneckenpumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "8c080ac1538c",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-slurrypompen.webp",
-          "alt": "Feststoff- und Schlammpumpen für die Wasserwirtschaft | Industrial Pump Group",
-          "width": 337,
-          "height": 275
-        }
-      },
-      {
-        "_uid": "27a77f24f5f7",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Feststoff- und Schlammpumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "f55cc414781e",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/segmenten-afvalwater.webp",
-          "alt": "Abwasserpumpen für die Wasserwirtschaft | Industrial Pump Group",
-          "width": 1280,
-          "height": 1024
-        }
-      },
-      {
-        "_uid": "50ec75e32dce",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Abwasserpumpen lesen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -840,7 +1124,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Sie benötigen Hilfe bei der Auswahl der passenden Pumpe? Die Experten von IPG stehen für Sie bereit. Nehmen Sie unverbindlich Kontakt auf unter: [[PLATZHALTER: Telefon]] oder [[PLATZHALTER: E-Mail]]."
+                  "text": "Sie benötigen Hilfe bei der Auswahl der passenden Pumpe? Die Experten von IPG stehen für Sie bereit. Nehmen Sie unverbindlich Kontakt auf unter: +31 251 222 566 oder info@industrialpumps.nl."
                 }
               ]
             }
@@ -848,43 +1132,62 @@
         }
       },
       {
-        "_uid": "b6241e333e71",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/segmenten-watertransport-2.webp",
-          "alt": "Häufig gestellte Fragen zu Pumpen für den Wassertransport | Industrial Pump Group",
-          "width": 1000,
-          "height": 668
-        }
-      },
-      {
-        "_uid": "d9d5c02051b9",
-        "component": "faq",
-        "heading": "Häufige Fragen",
-        "items": [
+        "_uid": "eb09407d715d",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
           {
-            "_uid": "1ada3636c95b",
-            "component": "faq_item",
-            "question": "Was sind Pumpen für den Abwassertransport?",
-            "answer": "Pumpen für den Abwassertransport sind speziell ausgelegte Pumpen, die Abwasser von einem Ort zu einem anderen fördern. Diese Pumpen werden häufig in Kanalisationssystemen, Kläranlagen und anderen Anwendungen eingesetzt, in denen Abwasser bewegt werden muss."
+            "_uid": "8c108e561761",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "c03187183e8b",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/segmenten-watertransport-2.webp",
+                  "alt": "Häufig gestellte Fragen zu Pumpen für den Wassertransport | Industrial Pump Group",
+                  "width": 1000,
+                  "height": 668
+                }
+              }
+            ]
           },
           {
-            "_uid": "da9a0b96a1ca",
-            "component": "faq_item",
-            "question": "Welche Pumpentypen werden für den Abwassertransport eingesetzt?",
-            "answer": "Für den Abwassertransport werden verschiedene Pumpentypen eingesetzt, darunter Tauchmotorpumpen, Kreiselpumpen und Verdrängerpumpen. Jede Pumpe hat eigene Vor- und Nachteile, und die Wahl der Pumpe hängt von der jeweiligen Anwendung und den Bedingungen ab."
-          },
-          {
-            "_uid": "41e403741e36",
-            "component": "faq_item",
-            "question": "Warum werden Tauchmotorpumpen häufig für den Abwassertransport verwendet?",
-            "answer": "Tauchmotorpumpen sind wegen ihrer Zuverlässigkeit und Effizienz eine verbreitete Wahl für den Abwassertransport. Sie sind dafür ausgelegt, in das Abwasser eingetaucht zu arbeiten, und können große Wassermengen fördern, ohne dass die Gefahr von Verstopfungen oder anderen Problemen besteht. Tauchmotorpumpen sind außerdem energiesparend und wartungsfreundlich."
-          },
-          {
-            "_uid": "0e98f083939b",
-            "component": "faq_item",
-            "question": "Welche Faktoren sind bei der Wahl einer Pumpe für den Abwassertransport am wichtigsten?",
-            "answer": "Bei der Wahl einer Pumpe für den Abwassertransport sind mehrere Faktoren zu berücksichtigen, etwa die Förderleistung der Pumpe, die Größe der Anlage, die Viskosität des Abwassers, die Druckanforderungen, der Wirkungsgrad der Pumpe und die Kosten. Es ist wichtig, sich mit einem Fachmann abzustimmen und die besonderen Anforderungen der Anwendung bei der Auswahl zu berücksichtigen."
+            "_uid": "ce001307e544",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "e33cfcd6cb8e",
+                "component": "faq",
+                "heading": "Häufige Fragen",
+                "items": [
+                  {
+                    "_uid": "5b1e2883df0d",
+                    "component": "faq_item",
+                    "question": "Was sind Pumpen für den Abwassertransport?",
+                    "answer": "Pumpen für den Abwassertransport sind speziell ausgelegte Pumpen, die Abwasser von einem Ort zu einem anderen fördern. Diese Pumpen werden häufig in Kanalisationssystemen, Kläranlagen und anderen Anwendungen eingesetzt, in denen Abwasser bewegt werden muss."
+                  },
+                  {
+                    "_uid": "d92286dd3a52",
+                    "component": "faq_item",
+                    "question": "Welche Pumpentypen werden für den Abwassertransport eingesetzt?",
+                    "answer": "Für den Abwassertransport werden verschiedene Pumpentypen eingesetzt, darunter Tauchmotorpumpen, Kreiselpumpen und Verdrängerpumpen. Jede Pumpe hat eigene Vor- und Nachteile, und die Wahl der Pumpe hängt von der jeweiligen Anwendung und den Bedingungen ab."
+                  },
+                  {
+                    "_uid": "97b5433a49aa",
+                    "component": "faq_item",
+                    "question": "Warum werden Tauchmotorpumpen häufig für den Abwassertransport verwendet?",
+                    "answer": "Tauchmotorpumpen sind wegen ihrer Zuverlässigkeit und Effizienz eine verbreitete Wahl für den Abwassertransport. Sie sind dafür ausgelegt, in das Abwasser eingetaucht zu arbeiten, und können große Wassermengen fördern, ohne dass die Gefahr von Verstopfungen oder anderen Problemen besteht. Tauchmotorpumpen sind außerdem energiesparend und wartungsfreundlich."
+                  },
+                  {
+                    "_uid": "abb8fd6a8a18",
+                    "component": "faq_item",
+                    "question": "Welche Faktoren sind bei der Wahl einer Pumpe für den Abwassertransport am wichtigsten?",
+                    "answer": "Bei der Wahl einer Pumpe für den Abwassertransport sind mehrere Faktoren zu berücksichtigen, etwa die Förderleistung der Pumpe, die Größe der Anlage, die Viskosität des Abwassers, die Druckanforderungen, der Wirkungsgrad der Pumpe und die Kosten. Es ist wichtig, sich mit einem Fachmann abzustimmen und die besonderen Anforderungen der Anwendung bei der Auswahl zu berücksichtigen."
+                  }
+                ]
+              }
+            ]
           }
         ]
       }

@@ -8,141 +8,193 @@
   "content": {
     "component": "page_course",
     "h1": "Kurs Gleitringdichtungen (Mechanical Seals)",
+    "hero_image": {
+      "filename": "/img/nl/sfeer-fotos-mechanicalseals.webp",
+      "alt": "",
+      "width": 1280,
+      "height": 853
+    },
     "seo_title": "Kurs Gleitringdichtungen: Auswahl, Einbau, Wartung",
     "seo_description": "Kurs Gleitringdichtungen (Mechanical Seals) für Monteure, Operatoren und Einkäufer: Aufbau, Auswahl, Einbau und Wartung. Jetzt Kurs vor Ort anfragen.",
     "intro": "Im Kurs Gleitringdichtungen der IPG Pumpenschule lernen Teilnehmer, wie Gleitringdichtungen aufgebaut sind, wie man sie auswählt, einbaut und wartet. Er richtet sich an Personen ohne Vorkenntnisse, etwa Monteure, Operatoren, Verkäufer, Konstrukteure und Einkäufer.",
     "body": [
       {
-        "_uid": "63852f8496a4",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/sfeer-fotos-mechanicalseals.webp",
-          "alt": "Gleitringdichtungen (Mechanical Seals) für Pumpen",
-          "width": 1280,
-          "height": 853
-        }
-      },
-      {
-        "_uid": "b39563d198e9",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 4
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kurs Gleitringdichtungen / Mechanical Seals"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Gleitringdichtungen, auch als mechanische Dichtungen bekannt, verhindern Leckagen zwischen rotierenden Teilen in Maschinen und Geräten, zum Beispiel in Pumpen und Rührwerken. Sie sollen eine dauerhaft dichte Abdichtung sicherstellen, wodurch das Leckagerisiko sinkt und Lebensdauer und Effizienz der Maschine steigen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Unser Kurs zu Gleitringdichtungen vermittelt das Wissen und die Fertigkeiten, um effizient und sachgerecht mit Gleitringdichtungen zu arbeiten. Der Kurs behandelt unter anderem folgende Themen:"
-                }
-              ]
-            },
-            {
-              "type": "ordered_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Grundlagen der Gleitringdichtungen: Der Kurs erklärt die Grundprinzipien, einschließlich der verschiedenen Dichtungsarten, Werkstoffe und Techniken."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Auswahl und Auslegung: Die Teilnehmer lernen, wie sie die passenden Gleitringdichtungen für bestimmte Anwendungen auswählen und auslegen, unter Berücksichtigung von Faktoren wie Druck, Temperatur und Drehzahl."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Einbau und Wartung: Der Kurs legt den Schwerpunkt auf die richtigen Einbau- und Wartungsverfahren für Gleitringdichtungen, einschließlich Ausbau und Austausch."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Fehlersuche: Der Kurs hilft den Teilnehmern, Probleme zu erkennen und zu beheben, die beim Umgang mit Gleitringdichtungen auftreten können, etwa Leckagen und Verformungen."
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "985f7270df1f",
-        "component": "faq",
-        "heading": "Häufige Fragen",
-        "items": [
+        "_uid": "8dfb82e5d255",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
           {
-            "_uid": "7b2229d2e080",
-            "component": "faq_item",
-            "question": "Welche Inhalte vermittelt der Kurs Gleitringdichtungen?",
-            "answer": "Welche Gleitringdichtungen kommen bei Pumpen zum Einsatz?\nVor- und Nachteile der verschiedenen Arten von Gleitringdichtungen\nWas ist eine Gleitringdichtung (Mechanical Seal)?\nWie funktioniert eine Gleitringdichtung?\nWerkstoffe der einzelnen Bauteile von Gleitringdichtungen\nWelche Bauformen von Gleitringdichtungen gibt es?\nWartung und Reparatur von Gleitringdichtungen"
+            "_uid": "0f3282df8fec",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "6115f8c06743",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 4
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kurs Gleitringdichtungen / Mechanical Seals"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
           },
           {
-            "_uid": "42e4d29f1c8a",
-            "component": "faq_item",
-            "question": "Für wen ist der Kurs Gleitringdichtungen gedacht?",
-            "answer": "Der Kurs richtet sich an Personen, die keine Kenntnisse über Gleitringdichtungen haben, aber damit in Berührung kommen. Er eignet sich besonders für Monteure, Operatoren, Verkäufer, Konstrukteure und Einkäufer, die Wissen über Pumpen oder Pumpenwartung aufbauen möchten."
+            "_uid": "f9357e3b3745",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "b8d215b5cc9a",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Gleitringdichtungen, auch als mechanische Dichtungen bekannt, verhindern Leckagen zwischen rotierenden Teilen in Maschinen und Geräten, zum Beispiel in Pumpen und Rührwerken. Sie sollen eine dauerhaft dichte Abdichtung sicherstellen, wodurch das Leckagerisiko sinkt und Lebensdauer und Effizienz der Maschine steigen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
           }
         ]
       },
       {
-        "_uid": "afe89398b13c",
+        "_uid": "a1b38e9a032b",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "35727813c82b",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "3e6ef6739c8e",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Unser Kurs zu Gleitringdichtungen vermittelt das Wissen und die Fertigkeiten, um effizient und sachgerecht mit Gleitringdichtungen zu arbeiten. Der Kurs behandelt unter anderem folgende Themen:"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "ordered_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Grundlagen der Gleitringdichtungen: Der Kurs erklärt die Grundprinzipien, einschließlich der verschiedenen Dichtungsarten, Werkstoffe und Techniken."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Auswahl und Auslegung: Die Teilnehmer lernen, wie sie die passenden Gleitringdichtungen für bestimmte Anwendungen auswählen und auslegen, unter Berücksichtigung von Faktoren wie Druck, Temperatur und Drehzahl."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Einbau und Wartung: Der Kurs legt den Schwerpunkt auf die richtigen Einbau- und Wartungsverfahren für Gleitringdichtungen, einschließlich Ausbau und Austausch."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Fehlersuche: Der Kurs hilft den Teilnehmern, Probleme zu erkennen und zu beheben, die beim Umgang mit Gleitringdichtungen auftreten können, etwa Leckagen und Verformungen."
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "eeb2d544cc97",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "1b04dd5abadd",
+                "component": "faq",
+                "heading": "Häufige Fragen",
+                "items": [
+                  {
+                    "_uid": "b1c5ac1aa24c",
+                    "component": "faq_item",
+                    "question": "Welche Inhalte vermittelt der Kurs Gleitringdichtungen?",
+                    "answer": "Welche Gleitringdichtungen kommen bei Pumpen zum Einsatz?\nVor- und Nachteile der verschiedenen Arten von Gleitringdichtungen\nWas ist eine Gleitringdichtung (Mechanical Seal)?\nWie funktioniert eine Gleitringdichtung?\nWerkstoffe der einzelnen Bauteile von Gleitringdichtungen\nWelche Bauformen von Gleitringdichtungen gibt es?\nWartung und Reparatur von Gleitringdichtungen"
+                  },
+                  {
+                    "_uid": "854e444b936c",
+                    "component": "faq_item",
+                    "question": "Für wen ist der Kurs Gleitringdichtungen gedacht?",
+                    "answer": "Der Kurs richtet sich an Personen, die keine Kenntnisse über Gleitringdichtungen haben, aber damit in Berührung kommen. Er eignet sich besonders für Monteure, Operatoren, Verkäufer, Konstrukteure und Einkäufer, die Wissen über Pumpen oder Pumpenwartung aufbauen möchten."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "2ceb3c34d056",
         "component": "rich_text",
         "content": {
           "type": "doc",
@@ -206,7 +258,7 @@
                 },
                 {
                   "type": "text",
-                  "text": "Tel. [[PLATZHALTER: Telefon]]",
+                  "text": "Tel. +31 251 222 566",
                   "marks": [
                     {
                       "type": "bold"
@@ -214,69 +266,151 @@
                   ]
                 }
               ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kurs Grundlagen Pumpen"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kurs Inspektion und Wartung"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kurs Gleitringdichtungen / Mechanical Seals"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kurs Armaturen und Ventile"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kurs Wellen und Lager"
-                }
-              ]
             }
           ]
         }
+      },
+      {
+        "_uid": "0b7a0fa49824",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "e51db8b30252",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ca6677039bba",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kurs Grundlagen Pumpen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "8c3da37bb8f2",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "6d339819bf33",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kurs Inspektion und Wartung"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "236d1cd9ee0d",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "d8a8a6cbebd6",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kurs Gleitringdichtungen / Mechanical Seals"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "a40b89772e5e",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "a2314332b7a5",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kurs Armaturen und Ventile"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "bc3c359408ce",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "f18d1fe8470e",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kurs Wellen und Lager"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       }
     ]
   }

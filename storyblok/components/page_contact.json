@@ -23,25 +23,33 @@
         "description": "Kurzname für Brotkrumen, Navigation und Karten (z. B. „DIWA-Serie“).",
         "pos": 2
       },
+      "hero_image": {
+        "type": "asset",
+        "filetypes": [
+          "images"
+        ],
+        "description": "Kopfbild (optional): ersetzt das Standardbild hinter Überschrift und Einleitung.",
+        "pos": 3
+      },
       "seo_title": {
         "type": "text",
         "description": "Seitentitel für Google, höchstens 60 Zeichen.",
         "max_length": 60,
         "required": true,
-        "pos": 3
+        "pos": 4
       },
       "seo_description": {
         "type": "textarea",
         "description": "Meta-Beschreibung, höchstens 155 Zeichen.",
         "max_length": 155,
         "required": true,
-        "pos": 4
+        "pos": 5
       },
       "noindex": {
         "type": "boolean",
         "description": "Nur für Sonderfälle: Seite von der Suche ausschließen. Rechtstexte bleiben indexierbar.",
         "default_value": false,
-        "pos": 5
+        "pos": 6
       },
       "form_kind": {
         "type": "option",
@@ -62,17 +70,17 @@
         ],
         "description": "Welches Formular.",
         "required": true,
-        "pos": 6
+        "pos": 7
       },
       "default_anliegen": {
         "type": "text",
         "description": "Vorbelegung „Anliegen“ im Angebotsformular, z. B. ersatzpumpe.",
-        "pos": 7
+        "pos": 8
       },
       "form_intro": {
         "type": "textarea",
         "description": "Text über dem Formular.",
-        "pos": 8
+        "pos": 9
       },
       "body": {
         "type": "bloks",
@@ -92,10 +100,11 @@
           "button_row",
           "pump_finder",
           "logo_carousel",
-          "usp_grid"
+          "usp_grid",
+          "section_row"
         ],
         "description": "Optionale Zusatz-Bausteine. Die Pflicht-Abschnitte sind im Template fest eingebaut.",
-        "pos": 9
+        "pos": 10
       },
       "tab-seo": {
         "type": "tab",

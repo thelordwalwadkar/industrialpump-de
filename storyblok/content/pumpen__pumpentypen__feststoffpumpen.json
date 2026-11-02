@@ -15,602 +15,850 @@
     "topic_kind": "pumpentyp",
     "body": [
       {
-        "_uid": "2b21611a761c",
+        "_uid": "bb7f3a5572cd",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "bad4a06694a0",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "6442564851e3",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Feststoff- und Schlammpumpen (Slurrypumpen) dienen dazu, abrasive Flüssigkeiten wie Schlamm und Sand effizient zu fördern, und sind in industriellen Prozessen wie Bergbau und Ölförderung wesentlich."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "1453686acb0b",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "016f746aa89a",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Düchting-Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/marken/duchting",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Sulzer-Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/marken/sulzer",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Flygt-Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/marken/flygt",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Grindex-Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/marken/grindex",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Wassertransport",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/branchen/wassertransport",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Abwasser",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/anwendungen/abwasser",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Entwässerung",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/anwendungen/entwaesserung",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Nassbaggerei",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/anwendungen/nassbaggerei",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "9ede44323630",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "156cb3c35ed5",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "f945ccdec679",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die wesentliche Rolle von Feststoffpumpen in schweren industriellen Anwendungen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "dcc6c8fc29b2",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "3fc131faccd8",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Feststoffpumpen sind schwere Industriepumpen, die dafür ausgelegt sind, Flüssigkeiten mit hoher Dichte und harten Partikeln, auch Slurry genannt, zu fördern. Diese Pumpen werden häufig im Bergbau, in der Zementherstellung, in der Abwasserbehandlung und in anderen Prozessen eingesetzt, in denen harte und abrasive Stoffe gefördert werden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Feststoffpumpen arbeiten mit Fliehkraft und sind speziell dafür ausgelegt, Stoffe mit hohem Druck und hoher Dichte ohne Verschleiß und Verstopfungen zu fördern. Diese Pumpen werden aus hochwertigen Werkstoffen wie rostfreiem Stahl und speziellen Legierungen gefertigt, die den harten und abrasiven Umgebungen standhalten, in denen sie arbeiten."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "ab4759ef2094",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "1813f39c2014",
+            "component": "section_column",
+            "icon": "fa-chimney",
+            "content": [
+              {
+                "_uid": "622abaf67a5f",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Robuste Bauweise",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Blockpumpen sind häufig in robuster und langlebiger Bauweise ausgeführt."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "ebc42680a2c5",
+            "component": "section_column",
+            "icon": "fa-faucet",
+            "content": [
+              {
+                "_uid": "d3fba5f216a5",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Effizienz",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Blockpumpen können beim Fördern von Flüssigkeiten sehr effizient sein."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "c8e9f96127ff",
+            "component": "section_column",
+            "icon": "fa-chart-network",
+            "content": [
+              {
+                "_uid": "9ee62c70529a",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Vielseitigkeit",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Sie können zum Fördern verschiedener Flüssigkeiten eingesetzt werden, von Wasser über Chemikalien bis hin zu abrasiven Materialien."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "e234e0e8a9a6",
+            "component": "section_column",
+            "icon": "fa-tools",
+            "content": [
+              {
+                "_uid": "e83bb7e29b8d",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Einfache Wartung",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Durch gut zugängliche Bauteile und eine anwenderfreundliche Konstruktion lassen sie sich leicht warten."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "b2c780853cec",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "e5214938a623",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "1aded6b78016",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Vorteile von Feststoffpumpen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Feststoffpumpen haben zahlreiche Vorteile, darunter Langlebigkeit, Zuverlässigkeit und Effizienz. Diese Pumpen können große Mengen Slurry schnell und effizient fördern, sodass Unternehmen ihren Produktionsprozess verbessern und Verschwendung vermeiden können."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Außerdem ermöglichen Feststoffpumpen das Fördern bestimmter Stoffe, etwa giftiger oder brennbarer Stoffe, ohne Verunreinigung anderer Materialien. Das macht diese Pumpen gut geeignet für den Einsatz in empfindlichen und umweltschonenden Prozessen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Wie bei jedem Pumpentyp gibt es aber auch bei Feststoffpumpen einige Nachteile. Einer davon sind die Kosten für Anschaffung und Wartung, die relativ höher sind als bei anderen Pumpentypen. Außerdem sind Feststoffpumpen mitunter anfälliger für Verstopfungen und Verschleiß, sodass regelmäßige Wartung und Inspektion erforderlich sind."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Abrasive Flüssigkeiten effizient fördern mit Feststoffpumpen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Feststoffpumpen spielen in industriellen Prozessen eine wichtige Rolle, in denen abrasive Flüssigkeiten mit hoher Dichte und harten Partikeln gefördert werden müssen. Diese Pumpen sind speziell dafür ausgelegt, diese Aufgabe effizient und ohne Verstopfungen zu erfüllen. Sie arbeiten mit Fliehkraft und werden aus hochwertigen Werkstoffen gefertigt, die den harten Umgebungen standhalten, in denen sie arbeiten. Feststoffpumpen werden häufig im Bergbau, in der Zementherstellung, in der Abwasserbehandlung und in anderen Anwendungen eingesetzt, in denen der Transport von Slurry wesentlich ist. Dank ihrer robusten Bauweise und Zuverlässigkeit sind Feststoffpumpen in diesen schweren industriellen Prozessen unverzichtbar."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "4fa52d931596",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "65525397f9af",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-slurry-2.webp",
+                  "alt": "Feststoffpumpe für abrasive Flüssigkeiten",
+                  "width": 1000,
+                  "height": 673
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "3933101a52d2",
+        "component": "section_row",
+        "layout": "carousel",
+        "columns": [
+          {
+            "_uid": "7d746da69d75",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "af2522558b16",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Zuverlässiger und proaktiver Service von IPG!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Leiter Technischer Dienst schätze ich die Zuverlässigkeit der Herstellerunabhängigkeit von IPG und die proaktive Vorgehensweise. Der schnelle Service ist in unserer Branche entscheidend, in der jede Minute Stillstand zählt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Leiter Technischer Dienst bei einem Chemiewerk."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "d2f1cccec9f4",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "6a7e45f3963b",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG ist ein zuverlässiger Partner bei Beschaffung und Optimierung!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Einkaufsleiter schätze ich IPG als Partner, der unsere Anforderungen versteht und schnell liefert. Fachwissen und Beratung haben unsere Prozesse optimiert."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Einkaufsleiter bei einem Lebensmittelhersteller."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "0c8148c096b8",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "74f068f73b6a",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG ist ein unverzichtbarer Partner für Produktionseffizienz!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Produktionsleiter schätze ich IPG als unverzichtbaren Partner für Effizienz und Verfügbarkeit. Das fachkundige Team hat uns bei der Auswahl der passenden Pumpen und beim Service für eine gleichbleibende Produktion unterstützt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Projektleiter bei einer Papierfabrik."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "5ca773dda174",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "47f4c820aec0",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Jeroen von IPG ist ein entscheidender Partner für unsere Versorgungsqualität in der Pflege!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Facility Manager schätze ich Jeroen von IPG als entscheidende Stütze bei der Instandhaltung unserer Pumpensysteme, was zu funktionsfähigen und effizienten Systemen führt, die die Qualität unserer Pflege stärken."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Facility Manager bei einem Krankenhaus."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "4fb14e2fcaef",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "149259bdce0f",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Hervorragende Leistung und energiesparende Auslegung!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG liefert Halbaxialpumpen, die energiesparend sind und uns helfen, die Betriebskosten zu senken. Das Team beriet uns fachkundig bei der Wahl der passenden Konfiguration."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Technischer Verwalter bei einem Landwirtschaftsbetrieb."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "844eed6cc576",
+        "component": "cta_band",
+        "heading": "Unverbindlich Kontakt aufnehmen",
+        "text": "Wir beraten Sie gern zu Auswahl, Ersatz und Revision Ihrer Pumpe.",
+        "button_label": "Kontakt aufnehmen",
+        "button_link": {
+          "fieldtype": "multilink",
+          "linktype": "url",
+          "url": "/kontakt",
+          "cached_url": "/kontakt"
+        },
+        "variant": "primary"
+      },
+      {
+        "_uid": "5f4517233208",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Feststoff- und Schlammpumpen (Slurrypumpen) dienen dazu, abrasive Flüssigkeiten wie Schlamm und Sand effizient zu fördern, und sind in industriellen Prozessen wie Bergbau und Ölförderung wesentlich."
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Düchting-Pumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/marken/duchting",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Sulzer-Pumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/marken/sulzer",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Flygt-Pumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/marken/flygt",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Grindex-Pumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/marken/grindex",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Wassertransport",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/branchen/wassertransport",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Abwasser",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/anwendungen/abwasser",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Entwässerung",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/anwendungen/entwaesserung",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Nassbaggerei",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/anwendungen/nassbaggerei",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die wesentliche Rolle von Feststoffpumpen in schweren industriellen Anwendungen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Feststoffpumpen sind schwere Industriepumpen, die dafür ausgelegt sind, Flüssigkeiten mit hoher Dichte und harten Partikeln, auch Slurry genannt, zu fördern. Diese Pumpen werden häufig im Bergbau, in der Zementherstellung, in der Abwasserbehandlung und in anderen Prozessen eingesetzt, in denen harte und abrasive Stoffe gefördert werden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Feststoffpumpen arbeiten mit Fliehkraft und sind speziell dafür ausgelegt, Stoffe mit hohem Druck und hoher Dichte ohne Verschleiß und Verstopfungen zu fördern. Diese Pumpen werden aus hochwertigen Werkstoffen wie rostfreiem Stahl und speziellen Legierungen gefertigt, die den harten und abrasiven Umgebungen standhalten, in denen sie arbeiten."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Robuste Bauweise",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Blockpumpen sind häufig in robuster und langlebiger Bauweise ausgeführt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Effizienz",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Blockpumpen können beim Fördern von Flüssigkeiten sehr effizient sein."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Vielseitigkeit",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Sie können zum Fördern verschiedener Flüssigkeiten eingesetzt werden, von Wasser über Chemikalien bis hin zu abrasiven Materialien."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Einfache Wartung",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Durch gut zugängliche Bauteile und eine anwenderfreundliche Konstruktion lassen sie sich leicht warten."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Vorteile von Feststoffpumpen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Feststoffpumpen haben zahlreiche Vorteile, darunter Langlebigkeit, Zuverlässigkeit und Effizienz. Diese Pumpen können große Mengen Slurry schnell und effizient fördern, sodass Unternehmen ihren Produktionsprozess verbessern und Verschwendung vermeiden können."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Außerdem ermöglichen Feststoffpumpen das Fördern bestimmter Stoffe, etwa giftiger oder brennbarer Stoffe, ohne Verunreinigung anderer Materialien. Das macht diese Pumpen gut geeignet für den Einsatz in empfindlichen und umweltschonenden Prozessen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Wie bei jedem Pumpentyp gibt es aber auch bei Feststoffpumpen einige Nachteile. Einer davon sind die Kosten für Anschaffung und Wartung, die relativ höher sind als bei anderen Pumpentypen. Außerdem sind Feststoffpumpen mitunter anfälliger für Verstopfungen und Verschleiß, sodass regelmäßige Wartung und Inspektion erforderlich sind."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Abrasive Flüssigkeiten effizient fördern mit Feststoffpumpen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Feststoffpumpen spielen in industriellen Prozessen eine wichtige Rolle, in denen abrasive Flüssigkeiten mit hoher Dichte und harten Partikeln gefördert werden müssen. Diese Pumpen sind speziell dafür ausgelegt, diese Aufgabe effizient und ohne Verstopfungen zu erfüllen. Sie arbeiten mit Fliehkraft und werden aus hochwertigen Werkstoffen gefertigt, die den harten Umgebungen standhalten, in denen sie arbeiten. Feststoffpumpen werden häufig im Bergbau, in der Zementherstellung, in der Abwasserbehandlung und in anderen Anwendungen eingesetzt, in denen der Transport von Slurry wesentlich ist. Dank ihrer robusten Bauweise und Zuverlässigkeit sind Feststoffpumpen in diesen schweren industriellen Prozessen unverzichtbar."
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "8be335b5b321",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-slurry-2.webp",
-          "alt": "Feststoffpumpe für abrasive Flüssigkeiten",
-          "width": 1000,
-          "height": 673
-        }
-      },
-      {
-        "_uid": "8d5dbe7f862a",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zuverlässiger und proaktiver Service von IPG!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Leiter Technischer Dienst schätze ich die Zuverlässigkeit der Herstellerunabhängigkeit von IPG und die proaktive Vorgehensweise. Der schnelle Service ist in unserer Branche entscheidend, in der jede Minute Stillstand zählt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Leiter Technischer Dienst bei einem Chemiewerk."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG ist ein zuverlässiger Partner bei Beschaffung und Optimierung!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Einkaufsleiter schätze ich IPG als Partner, der unsere Anforderungen versteht und schnell liefert. Fachwissen und Beratung haben unsere Prozesse optimiert."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Einkaufsleiter bei einem Lebensmittelhersteller."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG ist ein unverzichtbarer Partner für Produktionseffizienz!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Produktionsleiter schätze ich IPG als unverzichtbaren Partner für Effizienz und Verfügbarkeit. Das fachkundige Team hat uns bei der Auswahl der passenden Pumpen und beim Service für eine gleichbleibende Produktion unterstützt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Projektleiter bei einer Papierfabrik."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Jeroen von IPG ist ein entscheidender Partner für unsere Versorgungsqualität in der Pflege!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Facility Manager schätze ich Jeroen von IPG als entscheidende Stütze bei der Instandhaltung unserer Pumpensysteme, was zu funktionsfähigen und effizienten Systemen führt, die die Qualität unserer Pflege stärken."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Facility Manager bei einem Krankenhaus."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Hervorragende Leistung und energiesparende Auslegung!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG liefert Halbaxialpumpen, die energiesparend sind und uns helfen, die Betriebskosten zu senken. Das Team beriet uns fachkundig bei der Wahl der passenden Konfiguration."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Technischer Verwalter bei einem Landwirtschaftsbetrieb."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 4
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Unverbindlich Kontakt aufnehmen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -645,126 +893,166 @@
         }
       },
       {
-        "_uid": "5ce6ddb7459c",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-slurrypompen.webp",
-          "alt": "Düchting Feststoffpumpe für abrasive Medien",
-          "width": 337,
-          "height": 275
-        }
+        "_uid": "390f3ef3c4eb",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "2d0f3f799a22",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "fa907550a5d7",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-slurrypompen.webp",
+                  "alt": "Düchting Feststoffpumpe für abrasive Medien",
+                  "width": 337,
+                  "height": 275
+                }
+              },
+              {
+                "_uid": "35aad9957b3e",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Düchting-Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "13ae0eaedc6f",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "bf5562f88c70",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-bagger-dompel.webp",
+                  "alt": "Flygt Tauchmotorpumpe für Nassbaggerei und Feststoffe",
+                  "width": 270,
+                  "height": 270
+                }
+              },
+              {
+                "_uid": "f0825ecda5b2",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Flygt-Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "e11ab1da1278",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "b241f150cbc7",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-sulzer-sulzer-3.webp",
+                  "alt": "Sulzer Feststoffpumpe",
+                  "width": 827,
+                  "height": 748
+                }
+              },
+              {
+                "_uid": "1ee95af0fca0",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Sulzer-Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "eb61c65d78fe",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "1a3e7077d000",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-grindex-grindex-slurry.webp",
+                  "alt": "Grindex Feststoffpumpe",
+                  "width": 240,
+                  "height": 320
+                }
+              },
+              {
+                "_uid": "38c5fc6d74ef",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Grindex-Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "6db4ea4793c0",
+        "_uid": "98319ff9a596",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Düchting-Pumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "e42bcf2e5935",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-bagger-dompel.webp",
-          "alt": "Flygt Tauchmotorpumpe für Nassbaggerei und Feststoffe",
-          "width": 270,
-          "height": 270
-        }
-      },
-      {
-        "_uid": "bbb21a90186d",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Flygt-Pumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "dbf94c4c8efb",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-sulzer-sulzer-3.webp",
-          "alt": "Sulzer Feststoffpumpe",
-          "width": 827,
-          "height": 748
-        }
-      },
-      {
-        "_uid": "24c740feac07",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Sulzer-Pumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "8d65f91b33fd",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-grindex-grindex-slurry.webp",
-          "alt": "Grindex Feststoffpumpe",
-          "width": 240,
-          "height": 320
-        }
-      },
-      {
-        "_uid": "225c7b161758",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Grindex-Pumpen lesen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -821,7 +1109,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Benötigen Sie Hilfe bei der Auswahl der passenden Pumpe? Die Experten von IPG stehen Ihnen zur Verfügung. Nehmen Sie unverbindlich Kontakt auf unter [[PLATZHALTER: Telefon]] oder [[PLATZHALTER: E-Mail]]."
+                  "text": "Benötigen Sie Hilfe bei der Auswahl der passenden Pumpe? Die Experten von IPG stehen Ihnen zur Verfügung. Nehmen Sie unverbindlich Kontakt auf unter +31 251 222 566 oder info@industrialpumps.nl."
                 }
               ]
             }
@@ -829,43 +1117,62 @@
         }
       },
       {
-        "_uid": "6ad45bb4bff9",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-sulzer-sulzer-3.webp",
-          "alt": "Sulzer Feststoffpumpe",
-          "width": 827,
-          "height": 748
-        }
-      },
-      {
-        "_uid": "ac2685ebcdb0",
-        "component": "faq",
-        "heading": "Häufige Fragen",
-        "items": [
+        "_uid": "87f816c41d82",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
           {
-            "_uid": "a0fad220f054",
-            "component": "faq_item",
-            "question": "Was ist eine Feststoffpumpe (Slurrypumpe)?",
-            "answer": "Eine Feststoffpumpe ist ein Pumpentyp, der speziell zum Fördern abrasiver Flüssigkeiten wie Schlamm, Sand, Ton und Kies ausgelegt ist."
+            "_uid": "546c5220657f",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "b1d2ea5de773",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-sulzer-sulzer-3.webp",
+                  "alt": "Sulzer Feststoffpumpe",
+                  "width": 827,
+                  "height": 748
+                }
+              }
+            ]
           },
           {
-            "_uid": "f3130d0b3e1f",
-            "component": "faq_item",
-            "question": "Wofür werden Feststoffpumpen eingesetzt?",
-            "answer": "Feststoffpumpen werden häufig in industriellen Anwendungen wie Bergbau, Ölförderung, chemischen Prozessen und Wasseraufbereitung eingesetzt."
-          },
-          {
-            "_uid": "93c14b5b46ee",
-            "component": "faq_item",
-            "question": "Was ist der Unterschied zwischen einer Feststoffpumpe und einer gewöhnlichen Wasserpumpe?",
-            "answer": "Eine Feststoffpumpe ist dafür ausgelegt, Flüssigkeiten mit Feststoffpartikeln zu fördern, während eine gewöhnliche Wasserpumpe nur für Flüssigkeiten ohne Feststoffpartikel geeignet ist."
-          },
-          {
-            "_uid": "d4f960b7250b",
-            "component": "faq_item",
-            "question": "Welche Faktoren bestimmen die Auswahl einer Feststoffpumpe?",
-            "answer": "Die wichtigsten Faktoren bei der Auswahl einer Feststoffpumpe sind der gewünschte Förderstrom, die Druckanforderungen, die Art der Flüssigkeit sowie Größe und Beschaffenheit der Feststoffpartikel in der Flüssigkeit."
+            "_uid": "d39bf2fc6939",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "382875169d5a",
+                "component": "faq",
+                "heading": "Häufige Fragen",
+                "items": [
+                  {
+                    "_uid": "060042b6bf02",
+                    "component": "faq_item",
+                    "question": "Was ist eine Feststoffpumpe (Slurrypumpe)?",
+                    "answer": "Eine Feststoffpumpe ist ein Pumpentyp, der speziell zum Fördern abrasiver Flüssigkeiten wie Schlamm, Sand, Ton und Kies ausgelegt ist."
+                  },
+                  {
+                    "_uid": "c4453e34ecbf",
+                    "component": "faq_item",
+                    "question": "Wofür werden Feststoffpumpen eingesetzt?",
+                    "answer": "Feststoffpumpen werden häufig in industriellen Anwendungen wie Bergbau, Ölförderung, chemischen Prozessen und Wasseraufbereitung eingesetzt."
+                  },
+                  {
+                    "_uid": "624c512fd97a",
+                    "component": "faq_item",
+                    "question": "Was ist der Unterschied zwischen einer Feststoffpumpe und einer gewöhnlichen Wasserpumpe?",
+                    "answer": "Eine Feststoffpumpe ist dafür ausgelegt, Flüssigkeiten mit Feststoffpartikeln zu fördern, während eine gewöhnliche Wasserpumpe nur für Flüssigkeiten ohne Feststoffpartikel geeignet ist."
+                  },
+                  {
+                    "_uid": "66011c17450a",
+                    "component": "faq_item",
+                    "question": "Welche Faktoren bestimmen die Auswahl einer Feststoffpumpe?",
+                    "answer": "Die wichtigsten Faktoren bei der Auswahl einer Feststoffpumpe sind der gewünschte Förderstrom, die Druckanforderungen, die Art der Flüssigkeit sowie Größe und Beschaffenheit der Feststoffpartikel in der Flüssigkeit."
+                  }
+                ]
+              }
+            ]
           }
         ]
       }

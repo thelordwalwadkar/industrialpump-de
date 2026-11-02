@@ -23,43 +23,51 @@
         "description": "Kurzname für Brotkrumen, Navigation und Karten (z. B. „DIWA-Serie“).",
         "pos": 2
       },
+      "hero_image": {
+        "type": "asset",
+        "filetypes": [
+          "images"
+        ],
+        "description": "Kopfbild (optional): ersetzt das Standardbild hinter Überschrift und Einleitung.",
+        "pos": 3
+      },
       "seo_title": {
         "type": "text",
         "description": "Seitentitel für Google, höchstens 60 Zeichen.",
         "max_length": 60,
         "required": true,
-        "pos": 3
+        "pos": 4
       },
       "seo_description": {
         "type": "textarea",
         "description": "Meta-Beschreibung, höchstens 155 Zeichen.",
         "max_length": 155,
         "required": true,
-        "pos": 4
+        "pos": 5
       },
       "noindex": {
         "type": "boolean",
         "description": "Nur für Sonderfälle: Seite von der Suche ausschließen. Rechtstexte bleiben indexierbar.",
         "default_value": false,
-        "pos": 5
+        "pos": 6
       },
       "article_number": {
         "type": "text",
         "description": "Artikel-/Modellbezeichnung des Herstellers (wird zu SKU, MPN und URL).",
         "required": true,
-        "pos": 6
+        "pos": 7
       },
       "name": {
         "type": "text",
         "description": "Produktname (z. B. „DIWA 07/B“).",
         "required": true,
-        "pos": 7
+        "pos": 8
       },
       "short_description": {
         "type": "textarea",
         "description": "Kurzbeschreibung, 60–120 Wörter.",
         "required": true,
-        "pos": 8
+        "pos": 9
       },
       "image": {
         "type": "asset",
@@ -67,12 +75,12 @@
           "images"
         ],
         "description": "Produktbild.",
-        "pos": 9
+        "pos": 10
       },
       "image_source": {
         "type": "text",
         "description": "Quellpfad des Bildes im Altsystem.",
-        "pos": 10
+        "pos": 11
       },
       "gallery": {
         "type": "multiasset",
@@ -80,12 +88,12 @@
           "images"
         ],
         "description": "Weitere Bilder.",
-        "pos": 11
+        "pos": 12
       },
       "highlights": {
         "type": "textarea",
         "description": "Merkmale, eine Zeile pro Punkt.",
-        "pos": 12
+        "pos": 13
       },
       "key_facts": {
         "type": "bloks",
@@ -95,7 +103,7 @@
         ],
         "description": "Genau bis zu 4 Kennwerte für die Kennwert-Leiste.",
         "maximum": 4,
-        "pos": 13
+        "pos": 14
       },
       "specs": {
         "type": "bloks",
@@ -104,22 +112,22 @@
           "spec_row"
         ],
         "description": "Technische Daten, gruppiert (Hydraulik, Motor/Elektrik, Werkstoffe, Anschlüsse & Abmessungen). Leere Werte weglassen.",
-        "pos": 14
+        "pos": 15
       },
       "flow_max_m3h": {
         "type": "number",
         "description": "Förderstrom max. in m³/h (Zahl, für Filter und Schema).",
-        "pos": 15
+        "pos": 16
       },
       "head_max_m": {
         "type": "number",
         "description": "Förderhöhe max. in m (Zahl).",
-        "pos": 16
+        "pos": 17
       },
       "power_kw": {
         "type": "number",
         "description": "Motorleistung in kW (Zahl).",
-        "pos": 17
+        "pos": 18
       },
       "voltage": {
         "type": "option",
@@ -143,7 +151,7 @@
           }
         ],
         "description": "Spannung (Filter).",
-        "pos": 18
+        "pos": 19
       },
       "material": {
         "type": "option",
@@ -175,7 +183,7 @@
           }
         ],
         "description": "Werkstoff Gehäuse (Filter).",
-        "pos": 19
+        "pos": 20
       },
       "downloads": {
         "type": "bloks",
@@ -185,17 +193,17 @@
         ],
         "description": "Datenblatt, Kennlinie, Handbuch.",
         "maximum": 1,
-        "pos": 20
+        "pos": 21
       },
       "gtin": {
         "type": "text",
         "description": "GTIN/EAN (optional).",
-        "pos": 21
+        "pos": 22
       },
       "price": {
         "type": "number",
         "description": "Preis in EUR – nur ausfüllen, wenn ein verbindlicher Preis vorliegt. Erzeugt sonst kein Angebots-Schema.",
-        "pos": 22
+        "pos": 23
       },
       "availability": {
         "type": "option",
@@ -223,12 +231,12 @@
           }
         ],
         "description": "Verfügbarkeit (nur mit Preis).",
-        "pos": 23
+        "pos": 24
       },
       "internal_item_number": {
         "type": "text",
         "description": "Interne Artikelnummer (nicht öffentlich ausgespielt).",
-        "pos": 24
+        "pos": 25
       },
       "body": {
         "type": "bloks",
@@ -248,10 +256,11 @@
           "button_row",
           "pump_finder",
           "logo_carousel",
-          "usp_grid"
+          "usp_grid",
+          "section_row"
         ],
         "description": "Optionale Zusatz-Bausteine. Die Pflicht-Abschnitte sind im Template fest eingebaut.",
-        "pos": 25
+        "pos": 26
       },
       "cta": {
         "type": "bloks",
@@ -261,7 +270,7 @@
         ],
         "description": "Optionales Abschluss-Banner. Ohne Eintrag erscheint der Standard-CTA des Templates.",
         "maximum": 1,
-        "pos": 26
+        "pos": 27
       },
       "tab-seo": {
         "type": "tab",

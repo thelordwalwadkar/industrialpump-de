@@ -8,6 +8,12 @@
   "content": {
     "component": "page_blog_post",
     "h1": "Gleitringdichtungen für Industriepumpen",
+    "hero_image": {
+      "filename": "/img/nl/sfeer-fotos-mechanicalseals.webp",
+      "alt": "",
+      "width": 1280,
+      "height": 853
+    },
     "seo_title": "Gleitringdichtungen: Funktion, Werkstoffe und Auswahl",
     "seo_description": "Gleitringdichtungen für Industriepumpen: Aufbau, Funktion, Werkstoffwahl und Tipps zu Einbau und Wartung. Jetzt Beratung zur richtigen Dichtung anfragen.",
     "intro": "Eine Gleitringdichtung dichtet die rotierende Pumpenwelle gegen das Gehäuse ab und verhindert Leckagen. Der Beitrag erklärt für Betreiber und Instandhalter ihre Funktion, die Wahl des passenden Werkstoffs und Tipps für Einbau und Wartung.",
@@ -18,191 +24,284 @@
     },
     "body": [
       {
-        "_uid": "4c552183f435",
+        "_uid": "f14ae472f6bd",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "bdca29f77cec",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "71ae719bc782",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 4
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Wesentliche Wellenabdichtungen für Industriepumpen: Gleitringdichtungen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "2a431318693f",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "710f3ef1aa3b",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Herzstück einer Industriepumpe ist die Gleitringdichtung (englisch Mechanical Seal), auch Wellenabdichtung genannt, entscheidend für den erfolgreichen Betrieb der Pumpe. Dieses kleine, aber wesentliche Bauteil spielt eine große Rolle bei der Vermeidung von Leckagen und beim Erhalt der Zuverlässigkeit von Pumpensystemen. In diesem Beitrag untersuchen wir ausführlich die Funktionsweise einer Gleitringdichtung, besprechen die Bedeutung der richtigen Werkstoffwahl für die Dichtung und betrachten schließlich, wie die Industrial Pump Group (IPG) Sie bei der Auswahl der richtigen Gleitringdichtung und Pumpe für Ihre industriellen Anwendungen unterstützen kann."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "fc708680c31e",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "62f7d1a55df3",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "14a50dbcf21e",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Funktionsweise einer Gleitringdichtung"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Eine Gleitringdichtung besteht aus mehreren Bauteilen, die zusammenwirken, um eine wirksame Abdichtung zu erzeugen. Die wichtigsten Teile sind der Gegenring (stationärer Ring), der rotierende Gleitring und die Dichtflächen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Der stationäre Ring, auch statischer Ring genannt, ist am Pumpengehäuse befestigt und bewegt sich nicht. Dieser Ring hat eine glatte Dichtfläche, die mit dem rotierenden Ring in Kontakt steht. Der rotierende Ring, auch dynamischer Ring genannt, ist an der rotierenden Pumpenwelle befestigt und dreht sich mit der Welle."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Dichtflächen befinden sich sowohl am stationären als auch am rotierenden Ring. Diese Flächen sind sehr glatt und werden häufig poliert, um die Reibung zu minimieren. Dreht sich die Welle, kommen die Dichtflächen miteinander in Kontakt und erzeugen eine abdichtende Wirkung. Der auf die Dichtflächen ausgeübte Druck sorgt dafür, dass sie fest aneinandergedrückt werden, wodurch Leckagen vermieden werden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Der Erfolg einer Gleitringdichtung hängt davon ab, dass zwischen den Dichtflächen eine kleine, aber entscheidende Flüssigkeitsmenge erhalten bleibt. Diese Flüssigkeit, oft als Film bezeichnet, wirkt als Schmierschicht und minimiert die Reibung zwischen den Dichtflächen. Sie sorgt auch für die Wärmeabfuhr, da die Reibung Wärme erzeugt. Durch den Erhalt dieses dünnen Flüssigkeitsfilms werden übermäßige Reibung und Verschleiß der Dichtflächen verhindert, wodurch sich die Lebensdauer der Gleitringdichtung verlängert."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "758a2bdd6c9c",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "81111c5aa86c",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/sfeer-fotos-mechanicalseals.webp",
+                  "alt": "Gleitringdichtung mit Dichtflächen aus der Pumpenrevision",
+                  "width": 1280,
+                  "height": 853
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "85bb0332d2a0",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "9d3b2d45f9bc",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ed9a70265efb",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/revisie-revisie-8.webp",
+                  "alt": "Pumpe bei der Revision in der IPG-Werkstatt",
+                  "width": 1102,
+                  "height": 735
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "2ca5f20a9e0f",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "16336016d35a",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Bedeutung der richtigen Werkstoffwahl"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bei der Auswahl einer Gleitringdichtung ist es wichtig, den richtigen Werkstoff unter Berücksichtigung des geförderten Mediums zu wählen. Verschiedene Werkstoffe haben unterschiedliche Eigenschaften, chemische Beständigkeit und Temperaturgrenzen. Der falsche Werkstoff kann zu Dichtungsproblemen, Leckagen und sogar zu Pumpenschäden führen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "ordered_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Kohlegrafit: Dieser Werkstoff hat hervorragende Verschleißfestigkeit, Wärmeleitfähigkeit und chemische Beständigkeit. Er ist für allgemeine industrielle Anwendungen geeignet und mit den meisten Flüssigkeiten verträglich."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Keramik: Keramische Dichtflächen haben eine hohe Härte und eine hervorragende chemische Beständigkeit. Sie eignen sich für Anwendungen mit korrosiven und abrasiven Medien wie Säuren, Laugen und Feststoffsuspensionen (Slurries)."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Edelstahl: Edelstahl bietet eine gute allgemeine chemische Beständigkeit und ist für ein breites Spektrum an Medien geeignet. Er wird häufig dort eingesetzt, wo sowohl chemische als auch mechanische Eigenschaften wichtig sind."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Teflon (PTFE): PTFE, auch als Teflon bekannt, hat eine hervorragende chemische Beständigkeit und einen niedrigen Reibungskoeffizienten. Es eignet sich besonders für aggressive Chemikalien, hohe Temperaturen und Anwendungen in der Lebensmittelverarbeitung."
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bei der Wahl des passenden Werkstoffs für die Gleitringdichtung sind Faktoren wie die chemischen Eigenschaften des Fördermediums, die Betriebstemperaturen und -drücke sowie die besonderen Anforderungen der Anwendung zu berücksichtigen. Ein erfahrener Lieferant oder Hersteller wie die Industrial Pump Group (IPG) hilft Ihnen, den Werkstoff passend zu Ihren Anforderungen auszuwählen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "76bae3292215",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 4
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Wesentliche Wellenabdichtungen für Industriepumpen: Gleitringdichtungen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Herzstück einer Industriepumpe ist die Gleitringdichtung (englisch Mechanical Seal), auch Wellenabdichtung genannt, entscheidend für den erfolgreichen Betrieb der Pumpe. Dieses kleine, aber wesentliche Bauteil spielt eine große Rolle bei der Vermeidung von Leckagen und beim Erhalt der Zuverlässigkeit von Pumpensystemen. In diesem Beitrag untersuchen wir ausführlich die Funktionsweise einer Gleitringdichtung, besprechen die Bedeutung der richtigen Werkstoffwahl für die Dichtung und betrachten schließlich, wie die Industrial Pump Group (IPG) Sie bei der Auswahl der richtigen Gleitringdichtung und Pumpe für Ihre industriellen Anwendungen unterstützen kann."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Funktionsweise einer Gleitringdichtung"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Eine Gleitringdichtung besteht aus mehreren Bauteilen, die zusammenwirken, um eine wirksame Abdichtung zu erzeugen. Die wichtigsten Teile sind der Gegenring (stationärer Ring), der rotierende Gleitring und die Dichtflächen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Der stationäre Ring, auch statischer Ring genannt, ist am Pumpengehäuse befestigt und bewegt sich nicht. Dieser Ring hat eine glatte Dichtfläche, die mit dem rotierenden Ring in Kontakt steht. Der rotierende Ring, auch dynamischer Ring genannt, ist an der rotierenden Pumpenwelle befestigt und dreht sich mit der Welle."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Dichtflächen befinden sich sowohl am stationären als auch am rotierenden Ring. Diese Flächen sind sehr glatt und werden häufig poliert, um die Reibung zu minimieren. Dreht sich die Welle, kommen die Dichtflächen miteinander in Kontakt und erzeugen eine abdichtende Wirkung. Der auf die Dichtflächen ausgeübte Druck sorgt dafür, dass sie fest aneinandergedrückt werden, wodurch Leckagen vermieden werden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Der Erfolg einer Gleitringdichtung hängt davon ab, dass zwischen den Dichtflächen eine kleine, aber entscheidende Flüssigkeitsmenge erhalten bleibt. Diese Flüssigkeit, oft als Film bezeichnet, wirkt als Schmierschicht und minimiert die Reibung zwischen den Dichtflächen. Sie sorgt auch für die Wärmeabfuhr, da die Reibung Wärme erzeugt. Durch den Erhalt dieses dünnen Flüssigkeitsfilms werden übermäßige Reibung und Verschleiß der Dichtflächen verhindert, wodurch sich die Lebensdauer der Gleitringdichtung verlängert."
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "dbe4a7631108",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/sfeer-fotos-mechanicalseals.webp",
-          "alt": "Gleitringdichtung mit Dichtflächen aus der Pumpenrevision",
-          "width": 1280,
-          "height": 853
-        }
-      },
-      {
-        "_uid": "bea8a37cf0f5",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/revisie-revisie-8.webp",
-          "alt": "Pumpe bei der Revision in der IPG-Werkstatt",
-          "width": 1102,
-          "height": 735
-        }
-      },
-      {
-        "_uid": "6c47042167e7",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Bedeutung der richtigen Werkstoffwahl"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bei der Auswahl einer Gleitringdichtung ist es wichtig, den richtigen Werkstoff unter Berücksichtigung des geförderten Mediums zu wählen. Verschiedene Werkstoffe haben unterschiedliche Eigenschaften, chemische Beständigkeit und Temperaturgrenzen. Der falsche Werkstoff kann zu Dichtungsproblemen, Leckagen und sogar zu Pumpenschäden führen."
-                }
-              ]
-            },
-            {
-              "type": "ordered_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Kohlegrafit: Dieser Werkstoff hat hervorragende Verschleißfestigkeit, Wärmeleitfähigkeit und chemische Beständigkeit. Er ist für allgemeine industrielle Anwendungen geeignet und mit den meisten Flüssigkeiten verträglich."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Keramik: Keramische Dichtflächen haben eine hohe Härte und eine hervorragende chemische Beständigkeit. Sie eignen sich für Anwendungen mit korrosiven und abrasiven Medien wie Säuren, Laugen und Feststoffsuspensionen (Slurries)."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Edelstahl: Edelstahl bietet eine gute allgemeine chemische Beständigkeit und ist für ein breites Spektrum an Medien geeignet. Er wird häufig dort eingesetzt, wo sowohl chemische als auch mechanische Eigenschaften wichtig sind."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Teflon (PTFE): PTFE, auch als Teflon bekannt, hat eine hervorragende chemische Beständigkeit und einen niedrigen Reibungskoeffizienten. Es eignet sich besonders für aggressive Chemikalien, hohe Temperaturen und Anwendungen in der Lebensmittelverarbeitung."
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -306,12 +405,6 @@
           ]
         }
       }
-    ],
-    "image": {
-      "filename": "/img/nl/sfeer-fotos-mechanicalseals.webp",
-      "alt": "Gleitringdichtung für eine Industriepumpe",
-      "width": 1280,
-      "height": 853
-    }
+    ]
   }
 }

@@ -15,349 +15,497 @@
     "topic_kind": "pumpentyp",
     "body": [
       {
-        "_uid": "06b7dfee47a2",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Pumpen sind in der Papierindustrie für den Transport von Flüssigkeiten und Zellstoff unverzichtbar, etwa von Wasser, Chemikalien und Druckfarben. Eine Pumpe für die Papierindustrie muss abrasiven Materialien, hohen Temperaturen und hohen Drücken standhalten."
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
+        "_uid": "f01b305c4cd9",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "acd9c57b1d50",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "85fe9b475c7d",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "Exzenterschneckenpumpen",
-                          "marks": [
+                          "text": "Pumpen sind in der Papierindustrie für den Transport von Flüssigkeiten und Zellstoff unverzichtbar, etwa von Wasser, Chemikalien und Druckfarben. Eine Pumpe für die Papierindustrie muss abrasiven Materialien, hohen Temperaturen und hohen Drücken standhalten."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "fbf693354f8f",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "e1130452d822",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
                             {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/pumpentypen/exzenterschneckenpumpen",
-                                "linktype": "url"
-                              }
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Exzenterschneckenpumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/pumpentypen/exzenterschneckenpumpen",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Kreiselpumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/pumpentypen/kreiselpumpen",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Axial geteilte Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/pumpentypen/axial-geteilte-pumpen",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Tauchmotorpumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/pumpentypen/tauchmotorpumpen",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Schmutzwasserpumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/anwendungen/abwasser",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
                             }
                           ]
                         }
                       ]
                     }
                   ]
-                },
-                {
-                  "type": "list_item",
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "cf2833ee2a12",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "080abb879f46",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ed42034d16a3",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Das Herzstück des Produktionsprozesses: Papierindustrie und Pumpen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "56f2534cce5e",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "6b6b4aa2ae0f",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
                     {
                       "type": "paragraph",
                       "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Papierindustrie gehört zu den größten und einflussreichsten Branchen der Welt. Von Tageszeitungen bis zu Verpackungsmaterial: Papier spielt in unserem Alltag eine wichtige Rolle. Hinter der Herstellung steht ein komplexer technischer Prozess, in dem die "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Pumpe für die Papierindustrie",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " eine zentrale Funktion erfüllt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Papier wird aus Zellulose gewonnen, einem natürlichen Stoff aus Holz, der in mehreren chemischen und physikalischen Schritten zu Papier verarbeitet wird. Bei diesem Prozess sorgt eine sorgfältig gewählte "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Pumpe für die Papierindustrie",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " für den effizienten Transport und die Verarbeitung von Flüssigkeiten, Zellstoff und Wasser."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "a525bdc598c3",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "fcec60a0b935",
+            "component": "section_column",
+            "icon": "fa-tint",
+            "content": [
+              {
+                "_uid": "a80c20a49af4",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Speziell für unterschiedliche Medien ausgelegt",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kreiselpumpen eignen sich zum Fördern von Wasser und anderen Flüssigkeiten durch den Produktionsprozess, während Schraubenpumpen für dickflüssige und zähe Medien wie Zellstoff geeignet sind."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "4ac454828c42",
+            "component": "section_column",
+            "icon": "fa-faucet",
+            "content": [
+              {
+                "_uid": "cb15c39fe4d0",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Effizienz und Zuverlässigkeit",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Pumpen wie Kreiselpumpen und Membranpumpen sind energieeffizient und robust. Sie bewältigen hohe Drücke und sorgen für einen gleichmäßigen Förderstrom von Flüssigkeiten und Zellstoff."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "6bada8a60640",
+            "component": "section_column",
+            "icon": "fa-stream",
+            "content": [
+              {
+                "_uid": "fb9dc9d5b61a",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Langlebigkeit und Kontinuität",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Hochwertige Pumpen, die speziell für die Papierindustrie ausgelegt sind, sorgen für einen kontinuierlichen und effizienten Produktionsprozess. Das ist wesentlich, um die Qualität des Endprodukts zu sichern und Stillstände zu minimieren."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "ebfd8f29d51f",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "1213f8bf2cf9",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "f82e966870df",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die passende Pumpe für jede Anwendung: Pumpen für die Papierindustrie"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "In der Papierindustrie werden verschiedene Pumpentypen mit jeweils eigener Funktion benötigt. "
+                        },
                         {
                           "type": "text",
                           "text": "Kreiselpumpen",
                           "marks": [
                             {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/pumpentypen/kreiselpumpen",
-                                "linktype": "url"
-                              }
+                              "type": "bold"
                             }
                           ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " fördern Wasser und andere Flüssigkeiten effizient unter hohem Druck. "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Schraubenpumpen",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " eignen sich zum Fördern dicker, zäher Medien wie Zellstoff, während "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Membranpumpen",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " für das schonende Fördern empfindlicher Chemikalien geeignet sind."
                         }
                       ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
+                    },
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "Axial geteilte Pumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/pumpentypen/axial-geteilte-pumpen",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Tauchmotorpumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/pumpentypen/tauchmotorpumpen",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Schmutzwasserpumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/anwendungen/abwasser",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
+                          "text": "Ein gleichmäßiger und zuverlässiger Förderstrom ist für eine effiziente Produktion und eine hohe Papierqualität entscheidend. Pumpen für die Papierindustrie müssen daher nicht nur leistungsfähig und energieeffizient, sondern auch langlebig und wartungsarm sein, um die Kontinuität des Produktionsprozesses zu sichern."
                         }
                       ]
                     }
                   ]
                 }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Das Herzstück des Produktionsprozesses: Papierindustrie und Pumpen"
+              }
+            ]
+          },
+          {
+            "_uid": "05c04f3fbee1",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "4e64ff4abfca",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/segmenten-papierindustrie-2.webp",
+                  "alt": "Papierfabrik mit umfangreicher Prozessanlage und Rohrleitungen am Wasser",
+                  "width": 1000,
+                  "height": 667
                 }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Papierindustrie gehört zu den größten und einflussreichsten Branchen der Welt. Von Tageszeitungen bis zu Verpackungsmaterial: Papier spielt in unserem Alltag eine wichtige Rolle. Hinter der Herstellung steht ein komplexer technischer Prozess, in dem die "
-                },
-                {
-                  "type": "text",
-                  "text": "Pumpe für die Papierindustrie",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " eine zentrale Funktion erfüllt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Papier wird aus Zellulose gewonnen, einem natürlichen Stoff aus Holz, der in mehreren chemischen und physikalischen Schritten zu Papier verarbeitet wird. Bei diesem Prozess sorgt eine sorgfältig gewählte "
-                },
-                {
-                  "type": "text",
-                  "text": "Pumpe für die Papierindustrie",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " für den effizienten Transport und die Verarbeitung von Flüssigkeiten, Zellstoff und Wasser."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Speziell für unterschiedliche Medien ausgelegt",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kreiselpumpen eignen sich zum Fördern von Wasser und anderen Flüssigkeiten durch den Produktionsprozess, während Schraubenpumpen für dickflüssige und zähe Medien wie Zellstoff geeignet sind."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Effizienz und Zuverlässigkeit",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Pumpen wie Kreiselpumpen und Membranpumpen sind energieeffizient und robust. Sie bewältigen hohe Drücke und sorgen für einen gleichmäßigen Förderstrom von Flüssigkeiten und Zellstoff."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Langlebigkeit und Kontinuität",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Hochwertige Pumpen, die speziell für die Papierindustrie ausgelegt sind, sorgen für einen kontinuierlichen und effizienten Produktionsprozess. Das ist wesentlich, um die Qualität des Endprodukts zu sichern und Stillstände zu minimieren."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die passende Pumpe für jede Anwendung: Pumpen für die Papierindustrie"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "In der Papierindustrie werden verschiedene Pumpentypen mit jeweils eigener Funktion benötigt. "
-                },
-                {
-                  "type": "text",
-                  "text": "Kreiselpumpen",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " fördern Wasser und andere Flüssigkeiten effizient unter hohem Druck. "
-                },
-                {
-                  "type": "text",
-                  "text": "Schraubenpumpen",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " eignen sich zum Fördern dicker, zäher Medien wie Zellstoff, während "
-                },
-                {
-                  "type": "text",
-                  "text": "Membranpumpen",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " für das schonende Fördern empfindlicher Chemikalien geeignet sind."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ein gleichmäßiger und zuverlässiger Förderstrom ist für eine effiziente Produktion und eine hohe Papierqualität entscheidend. Pumpen für die Papierindustrie müssen daher nicht nur leistungsfähig und energieeffizient, sondern auch langlebig und wartungsarm sein, um die Kontinuität des Produktionsprozesses zu sichern."
-                }
-              ]
-            }
-          ]
-        }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "8eddc859d9e4",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/segmenten-papierindustrie-2.webp",
-          "alt": "Papierfabrik mit umfangreicher Prozessanlage und Rohrleitungen am Wasser",
-          "width": 1000,
-          "height": 667
-        }
-      },
-      {
-        "_uid": "38e41525edba",
+        "_uid": "9ba9cf45c14b",
         "component": "rich_text",
         "content": {
           "type": "doc",
@@ -378,263 +526,359 @@
         }
       },
       {
-        "_uid": "685b9679c801",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-aeb.webp",
-          "alt": "Kundenlogo AEB, Energiezentrale Amsterdam",
-          "width": 387,
-          "height": 241
-        }
+        "_uid": "db96cb9c0a6d",
+        "component": "logo_carousel",
+        "logos": [
+          {
+            "_uid": "a85be527dd85",
+            "component": "logo_item",
+            "name": "AEB Amsterdam",
+            "image": {
+              "filename": "/img/clients/aeb-amsterdam.webp",
+              "alt": "AEB Amsterdam",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "fc9e923d1b7c",
+            "component": "logo_item",
+            "name": "AkzoNobel",
+            "image": {
+              "filename": "/img/clients/akzonobel.webp",
+              "alt": "AkzoNobel",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "c26d01b7d33d",
+            "component": "logo_item",
+            "name": "HVC",
+            "image": {
+              "filename": "/img/clients/hvc.webp",
+              "alt": "HVC",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "d47711a427c1",
+            "component": "logo_item",
+            "name": "Petrogas",
+            "image": {
+              "filename": "/img/clients/petrogas.webp",
+              "alt": "Petrogas",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "f8bac0250c7b",
+            "component": "logo_item",
+            "name": "Tata Steel",
+            "image": {
+              "filename": "/img/clients/tata-steel.webp",
+              "alt": "Tata Steel",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "ab901266561c",
+            "component": "logo_item",
+            "name": "Waternet",
+            "image": {
+              "filename": "/img/clients/waternet.webp",
+              "alt": "Waternet",
+              "width": 280,
+              "height": 140
+            }
+          }
+        ]
       },
       {
-        "_uid": "d950107da43a",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-akzonobel.webp",
-          "alt": "Kundenlogo AkzoNobel, Unternehmenszentrale",
-          "width": 387,
-          "height": 241
-        }
+        "_uid": "0e7d893a92fc",
+        "component": "section_row",
+        "layout": "carousel",
+        "columns": [
+          {
+            "_uid": "d4e86d03591c",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "caf4d620d084",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Zuverlässige und robuste Pumpen für komplexe Prozesse!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Pumpen von IPG erfüllen die hohen Anforderungen unserer Produktionsprozesse in der Papierindustrie. Sie sind langlebig und zuverlässig, was zu einer stabilen Produktion ohne unerwartete Stillstände beiträgt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Produktionsleiter bei einer Papierfabrik in den Niederlanden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "4283c4e49218",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "5f331b6ab590",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Hervorragender Service und Mitdenken bei technischen Herausforderungen!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG bietet nicht nur hochwertige Produkte, sondern auch maßgeschneiderte Unterstützung. Das Team denkt aktiv bei Lösungen mit, die zu unseren besonderen Anforderungen in der Papierproduktion passen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Technischer Betriebsleiter bei einem Zellstoff- und Papierunternehmen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "8730d8748756",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "30895e17c58c",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Professioneller Partner mit Fokus auf Effizienz und Nachhaltigkeit!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Zusammenarbeit mit IPG hat unsere betriebliche Effizienz deutlich verbessert. Die Pumpen sind energiesparend und zuverlässig, was für unsere Umweltziele wesentlich ist."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Nachhaltigkeitskoordinator bei einem Papierhersteller."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "ee93cb251db2",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "87351bf36e76",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Schnelle Lieferung und Fachkompetenz in jedem Projekt!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Das Wissen und die Schnelligkeit, mit der IPG uns unterstützt, machen das Unternehmen zu einem verlässlichen Partner. Die Pumpen arbeiten auch unter schwierigen Bedingungen sehr gut, und der Service ist stets professionell."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Operations Manager bei einem industriellen Papierhersteller."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "994a8c154883",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "263ba13492fc",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG ist ein unverzichtbarer Partner für Produktionseffizienz!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Produktionsleiter schätze ich IPG als unverzichtbaren Partner für Effizienz und Verfügbarkeit. Das fachkundige Team hat uns bei der Wahl der passenden Pumpen und beim Service für eine gleichbleibende Produktion unterstützt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Projektleiter bei einer Papierfabrik."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "f59b3b1cd085",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-hvc.webp",
-          "alt": "Kundenlogo HVC, Abfallverwertungsanlage",
-          "width": 387,
-          "height": 241
-        }
+        "_uid": "538c68026283",
+        "component": "cta_band",
+        "heading": "Unverbindlich Kontakt aufnehmen",
+        "text": "Wir beraten Sie gern zu Auswahl, Ersatz und Revision Ihrer Pumpe.",
+        "button_label": "Kontakt aufnehmen",
+        "button_link": {
+          "fieldtype": "multilink",
+          "linktype": "url",
+          "url": "/kontakt",
+          "cached_url": "/kontakt"
+        },
+        "variant": "primary"
       },
       {
-        "_uid": "dc91154115af",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-petrogas.webp",
-          "alt": "Kundenlogo Petrogas, Offshore-Bohrplattform",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "ab66265c3f6e",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-tatasteel.webp",
-          "alt": "Kundenlogo Tata Steel, Produktionslinie für Walzstahl",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "f06b5c3af11d",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-waternet.webp",
-          "alt": "Kundenlogo Waternet, Wasserwirtschaft",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "fb849a68cf61",
+        "_uid": "4fb2ed689b37",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zuverlässige und robuste Pumpen für komplexe Prozesse!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Pumpen von IPG erfüllen die hohen Anforderungen unserer Produktionsprozesse in der Papierindustrie. Sie sind langlebig und zuverlässig, was zu einer stabilen Produktion ohne unerwartete Stillstände beiträgt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Produktionsleiter bei einer Papierfabrik in den Niederlanden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Hervorragender Service und Mitdenken bei technischen Herausforderungen!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG bietet nicht nur hochwertige Produkte, sondern auch maßgeschneiderte Unterstützung. Das Team denkt aktiv bei Lösungen mit, die zu unseren besonderen Anforderungen in der Papierproduktion passen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Technischer Betriebsleiter bei einem Zellstoff- und Papierunternehmen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Professioneller Partner mit Fokus auf Effizienz und Nachhaltigkeit!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Zusammenarbeit mit IPG hat unsere betriebliche Effizienz deutlich verbessert. Die Pumpen sind energiesparend und zuverlässig, was für unsere Umweltziele wesentlich ist."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Nachhaltigkeitskoordinator bei einem Papierhersteller."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Schnelle Lieferung und Fachkompetenz in jedem Projekt!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Das Wissen und die Schnelligkeit, mit der IPG uns unterstützt, machen das Unternehmen zu einem verlässlichen Partner. Die Pumpen arbeiten auch unter schwierigen Bedingungen sehr gut, und der Service ist stets professionell."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Operations Manager bei einem industriellen Papierhersteller."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG ist ein unverzichtbarer Partner für Produktionseffizienz!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Produktionsleiter schätze ich IPG als unverzichtbaren Partner für Effizienz und Verfügbarkeit. Das fachkundige Team hat uns bei der Wahl der passenden Pumpen und beim Service für eine gleichbleibende Produktion unterstützt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Projektleiter bei einer Papierfabrik."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 4
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Unverbindlich Kontakt aufnehmen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -682,126 +926,166 @@
         }
       },
       {
-        "_uid": "4a027a4588d5",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-wormpompen.webp",
-          "alt": "Exzenterschneckenpumpen für die Papierindustrie | Industrial Pump Group",
-          "width": 243,
-          "height": 141
-        }
+        "_uid": "7681166ea494",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "000e2717e7d9",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "a87a9b38788d",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-wormpompen.webp",
+                  "alt": "Exzenterschneckenpumpen für die Papierindustrie | Industrial Pump Group",
+                  "width": 243,
+                  "height": 141
+                }
+              },
+              {
+                "_uid": "b4b41e5aab57",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Exzenterschneckenpumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "23297edba2b3",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ed1cc8363386",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-koelwaterpompen.webp",
+                  "alt": "Axial geteilte Pumpen für die Papierindustrie | Industrial Pump Group",
+                  "width": 600,
+                  "height": 600
+                }
+              },
+              {
+                "_uid": "e31ce040e1fe",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über axial geteilte Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "b3adbee70bfc",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ec93118769a6",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/homepage-product-2.webp",
+                  "alt": "Tauchmotorpumpen für die Papierindustrie | Industrial Pump Group",
+                  "width": 168,
+                  "height": 184
+                }
+              },
+              {
+                "_uid": "74aede0dad5d",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Tauchmotorpumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "d3a118a1746d",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "7ff98d9a483a",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/homepage-product2-2.webp",
+                  "alt": "Kreiselpumpen für die Papierindustrie | Industrial Pump Group",
+                  "width": 242,
+                  "height": 168
+                }
+              },
+              {
+                "_uid": "6a2e1d5a42ce",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Kreiselpumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "d6f5b90e66b6",
+        "_uid": "012f8833ef34",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Exzenterschneckenpumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "fde8a9e7341a",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-koelwaterpompen.webp",
-          "alt": "Axial geteilte Pumpen für die Papierindustrie | Industrial Pump Group",
-          "width": 600,
-          "height": 600
-        }
-      },
-      {
-        "_uid": "f02378748799",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über axial geteilte Pumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "8a73d8cf05e3",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-product-2.webp",
-          "alt": "Tauchmotorpumpen für die Papierindustrie | Industrial Pump Group",
-          "width": 168,
-          "height": 184
-        }
-      },
-      {
-        "_uid": "988a1d4bab80",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Tauchmotorpumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "434b559d2247",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-product2-2.webp",
-          "alt": "Kreiselpumpen für die Papierindustrie | Industrial Pump Group",
-          "width": 242,
-          "height": 168
-        }
-      },
-      {
-        "_uid": "66656fb07109",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Kreiselpumpen lesen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -874,7 +1158,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " und berät Kunden aus verschiedenen Branchen fachkundig. Unsere Experten haben langjährige Erfahrung in der Auslegung und Auswahl der passenden Pumpe für die Wasseraufbereitung und kennen die aktuellen Technologien und Neuerungen. Sie benötigen Hilfe bei der Wahl der passenden Lösung? Nehmen Sie unverbindlich Kontakt auf unter [[PLATZHALTER: Telefon]] oder [[PLATZHALTER: E-Mail]]."
+                  "text": " und berät Kunden aus verschiedenen Branchen fachkundig. Unsere Experten haben langjährige Erfahrung in der Auslegung und Auswahl der passenden Pumpe für die Wasseraufbereitung und kennen die aktuellen Technologien und Neuerungen. Sie benötigen Hilfe bei der Wahl der passenden Lösung? Nehmen Sie unverbindlich Kontakt auf unter +31 251 222 566 oder info@industrialpumps.nl."
                 }
               ]
             }
@@ -882,43 +1166,62 @@
         }
       },
       {
-        "_uid": "6e00d1a9b195",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/segmenten-papierindustrie-3.webp",
-          "alt": "Papiermaschine in einer Fabrik, die große Papierrollen herstellt",
-          "width": 1000,
-          "height": 666
-        }
-      },
-      {
-        "_uid": "f8be563070ac",
-        "component": "faq",
-        "heading": "Häufige Fragen",
-        "items": [
+        "_uid": "aadf038f7f0b",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
           {
-            "_uid": "930449eca63d",
-            "component": "faq_item",
-            "question": "Welche Eigenschaften sind bei Pumpen für die Papierindustrie am wichtigsten?",
-            "answer": "Die wichtigsten Eigenschaften von Pumpen für die Papierindustrie sind Korrosionsbeständigkeit, die Fähigkeit, bei hohen Drücken und Temperaturen zu arbeiten, und die Eignung für die jeweiligen Flüssigkeiten und Stoffe. Außerdem ist wichtig, dass die Pumpen über Sicherheitseinrichtungen und Schutzsysteme verfügen."
+            "_uid": "0e57edbfe5cc",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "57a17762262f",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/segmenten-papierindustrie-3.webp",
+                  "alt": "Papiermaschine in einer Fabrik, die große Papierrollen herstellt",
+                  "width": 1000,
+                  "height": 666
+                }
+              }
+            ]
           },
           {
-            "_uid": "ec15ad40818a",
-            "component": "faq_item",
-            "question": "Warum ist die richtige Pumpenauswahl in der Papierindustrie so wichtig?",
-            "answer": "Die richtige Pumpenauswahl ist wichtig, weil sie bestimmt, wie wirksam und effizient der Produktionsprozess abläuft. Eine falsche Wahl von Pumpen für die Papierindustrie kann zu Verstopfungen, Produktionsunterbrechungen sowie Schäden an Maschinen und Produkt führen. Daraus entstehen höhere Instandsetzungskosten und Effizienzverluste in der Produktion."
-          },
-          {
-            "_uid": "5256cb909894",
-            "component": "faq_item",
-            "question": "Wie wähle ich die richtige Pumpe für meine Papierfabrik aus?",
-            "answer": "Bei der Wahl der richtigen Pumpe für Ihre Papierfabrik sollten Sie die zu verarbeitenden Flüssigkeiten und Stoffe, die Drücke und Temperaturen, bei denen die Pumpe arbeiten muss, sowie den erforderlichen Förderstrom berücksichtigen. Zudem ist wichtig, ob die Pumpe korrosionsbeständig ist und über Sicherheitseinrichtungen verfügt."
-          },
-          {
-            "_uid": "c1dac193e21e",
-            "component": "faq_item",
-            "question": "Gibt es spezielle Pumpentypen für die Papierindustrie?",
-            "answer": "Ja, für die Papierindustrie gibt es bestimmte Pumpentypen, etwa Schraubenpumpen, Kreiselpumpen und Magnetpumpen. Welcher Typ der richtige ist, hängt von der jeweiligen Anwendung und den zu verarbeitenden Flüssigkeiten und Stoffen ab."
+            "_uid": "020f48748d22",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "6b8ef07a4ddd",
+                "component": "faq",
+                "heading": "Häufige Fragen",
+                "items": [
+                  {
+                    "_uid": "e051df332286",
+                    "component": "faq_item",
+                    "question": "Welche Eigenschaften sind bei Pumpen für die Papierindustrie am wichtigsten?",
+                    "answer": "Die wichtigsten Eigenschaften von Pumpen für die Papierindustrie sind Korrosionsbeständigkeit, die Fähigkeit, bei hohen Drücken und Temperaturen zu arbeiten, und die Eignung für die jeweiligen Flüssigkeiten und Stoffe. Außerdem ist wichtig, dass die Pumpen über Sicherheitseinrichtungen und Schutzsysteme verfügen."
+                  },
+                  {
+                    "_uid": "28a577f5c32a",
+                    "component": "faq_item",
+                    "question": "Warum ist die richtige Pumpenauswahl in der Papierindustrie so wichtig?",
+                    "answer": "Die richtige Pumpenauswahl ist wichtig, weil sie bestimmt, wie wirksam und effizient der Produktionsprozess abläuft. Eine falsche Wahl von Pumpen für die Papierindustrie kann zu Verstopfungen, Produktionsunterbrechungen sowie Schäden an Maschinen und Produkt führen. Daraus entstehen höhere Instandsetzungskosten und Effizienzverluste in der Produktion."
+                  },
+                  {
+                    "_uid": "b62480563429",
+                    "component": "faq_item",
+                    "question": "Wie wähle ich die richtige Pumpe für meine Papierfabrik aus?",
+                    "answer": "Bei der Wahl der richtigen Pumpe für Ihre Papierfabrik sollten Sie die zu verarbeitenden Flüssigkeiten und Stoffe, die Drücke und Temperaturen, bei denen die Pumpe arbeiten muss, sowie den erforderlichen Förderstrom berücksichtigen. Zudem ist wichtig, ob die Pumpe korrosionsbeständig ist und über Sicherheitseinrichtungen verfügt."
+                  },
+                  {
+                    "_uid": "a779c04994ac",
+                    "component": "faq_item",
+                    "question": "Gibt es spezielle Pumpentypen für die Papierindustrie?",
+                    "answer": "Ja, für die Papierindustrie gibt es bestimmte Pumpentypen, etwa Schraubenpumpen, Kreiselpumpen und Magnetpumpen. Welcher Typ der richtige ist, hängt von der jeweiligen Anwendung und den zu verarbeitenden Flüssigkeiten und Stoffen ab."
+                  }
+                ]
+              }
+            ]
           }
         ]
       }

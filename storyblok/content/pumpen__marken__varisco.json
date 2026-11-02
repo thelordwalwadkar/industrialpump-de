@@ -13,56 +13,99 @@
     "seo_description": "Varisco-Pumpen für Industrie, Drainage und Brandbekämpfung: selbstansaugende Kreiselpumpen, Zahnrad- und Exzenterschneckenpumpen. Jetzt Angebot anfordern.",
     "intro": "Varisco ist ein italienischer Pumpenhersteller für Industrie, Drainage, Bauwasserhaltung und Brandbekämpfung, heute Teil der Atlas Copco Group. Die Industrial Pump Group liefert Varisco-Pumpen und Ersatzteile und führt die Revision durch.",
     "brand_name": "Varisco",
+    "logo": {
+      "filename": "/img/nl/merken-0000-varisco-logo.webp",
+      "alt": "Varisco",
+      "width": 120,
+      "height": 54
+    },
     "revision_text": "Für Varisco-Pumpen können Sie Ersatzteile und eine Revision anfragen. Ob und in welchem Umfang das möglich ist, hängt von Serie, Baujahr und Ausführung ab; das Typenschild genügt für eine erste Einschätzung.",
     "body": [
       {
-        "_uid": "6de9c6d620ee",
+        "_uid": "46f814b0b709",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "8912a960f844",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "bb1e358241b5",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Offizieller Händler von Varisco"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "4e39c7a61793",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "6349a4d6e407",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ihr zuverlässiger Partner für Varisco-Pumpen und Ersatzteile"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Varisco S.r.l. verfolgt seit jeher eine klare Mission: Entwicklung, Fertigung und Vertrieb professioneller Pumpen für die allgemeine Industrie und Drainage. Der Hersteller liefert insbesondere Pumpen für den industriellen Einsatz, die Entwässerung von Baustellen, bei Überflutungen und für die Brandbekämpfung in Industrie- und Zivilgebäuden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Der 1932 gegründete italienische Pumpenhersteller gehört heute zur weltweit tätigen Atlas Copco Group und gilt als Marke mit hoher Qualität bei Konstruktion und Bau von Industriepumpen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "98712a40ee3a",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Offizieller Händler von Varisco"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ihr zuverlässiger Partner für Varisco-Pumpen und Ersatzteile"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Varisco S.r.l. verfolgt seit jeher eine klare Mission: Entwicklung, Fertigung und Vertrieb professioneller Pumpen für die allgemeine Industrie und Drainage. Der Hersteller liefert insbesondere Pumpen für den industriellen Einsatz, die Entwässerung von Baustellen, bei Überflutungen und für die Brandbekämpfung in Industrie- und Zivilgebäuden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Der 1932 gegründete italienische Pumpenhersteller gehört heute zur weltweit tätigen Atlas Copco Group und gilt als Marke mit hoher Qualität bei Konstruktion und Bau von Industriepumpen."
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -105,510 +148,632 @@
         }
       },
       {
-        "_uid": "f61efd838244",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-varisco-varisco-j.webp",
-          "alt": "Varisco Typ J selbstansaugende Kreiselpumpe für Flüssigkeiten mit Feststoffen",
-          "width": 1110,
-          "height": 740
-        }
-      },
-      {
-        "_uid": "1b6484e59854",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
+        "_uid": "ec300b6604db",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "4bb9fdd940a2",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "03772bb873ce",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-varisco-varisco-j.webp",
+                  "alt": "Varisco Typ J selbstansaugende Kreiselpumpe für Flüssigkeiten mit Feststoffen",
+                  "width": 1110,
+                  "height": 740
+                }
               },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Varisco Baureihe Typ J"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Diese selbstansaugenden Kreiselpumpen eignen sich zum Fördern von Flüssigkeiten mit Feststoffen."
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "2fc97806f7c8",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-varisco-st-r.webp",
-          "alt": "Varisco Typ ST-R schnell selbstansaugende Pumpe für Abwasser mit groben Feststoffen",
-          "width": 403,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "ff58bc88ec79",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Varisco Baureihe Typ ST-R"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Schnell selbstansaugende Kreiselpumpen mit großem Freidurchgang, Typ ST für Abwasser, geeignet zum Fördern von Flüssigkeiten mit groben Feststoffen."
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "034662e0a607",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-varisco-varisco-albatros-zd1.webp",
-          "alt": "Varisco ZD Dieselpumpenaggregat mit halboffenem Laufrad für grobe Feststoffe",
-          "width": 600,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "5e86e6abac48",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Varisco Baureihe Typ ZD – Albatross, Dieselpumpenaggregat"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Trocken selbstansaugende Pumpen mit hohem Wirkungsgrad (73 %) und halboffenem Laufrad mit großem Freidurchgang, geeignet zum Fördern von Flüssigkeiten mit groben Feststoffen."
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "a22a152f1a4d",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-varisco-varisco-v-serie.webp",
-          "alt": "Varisco Typ V Zahnrad-Verdrängerpumpe für industrielle Flüssigkeiten ohne Feststoffe",
-          "width": 544,
-          "height": 311
-        }
-      },
-      {
-        "_uid": "2ef275ed96a2",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Varisco Baureihe Typ V"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Verdrängerpumpen bzw. Innenzahnradpumpen eignen sich für Flüssigkeiten mit unterschiedlicher Viskosität ohne Feststoffe. Sie werden in Industrieanlagen eingesetzt."
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "7c4509669ec7",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-varisco-varisco-z.webp",
-          "alt": "Varisco Typ Z Pumpe mit halboffenem Laufrad für Flüssigkeiten mit groben Feststoffen",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "57f35477d5c5",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Varisco "
-                },
-                {
-                  "type": "text",
-                  "text": "Typ Z",
-                  "marks": [
+              {
+                "_uid": "e95d5d4f5469",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
                     {
-                      "type": "bold"
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Varisco Baureihe Typ J"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Diese selbstansaugenden Kreiselpumpen eignen sich zum Fördern von Flüssigkeiten mit Feststoffen."
+                        }
+                      ]
                     }
                   ]
-                },
-                {
-                  "type": "text",
-                  "text": " Pumpen mit hohem Wirkungsgrad und halboffenem Laufrad, geeignet für Flüssigkeiten mit groben Feststoffen"
                 }
-              ]
-            }
-          ]
-        }
+              }
+            ]
+          },
+          {
+            "_uid": "7fe5c6fe9cd5",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "44ae5548f9ad",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-varisco-st-r.webp",
+                  "alt": "Varisco Typ ST-R schnell selbstansaugende Pumpe für Abwasser mit groben Feststoffen",
+                  "width": 403,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "354d35bc4c69",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Varisco Baureihe Typ ST-R"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Schnell selbstansaugende Kreiselpumpen mit großem Freidurchgang, Typ ST für Abwasser, geeignet zum Fördern von Flüssigkeiten mit groben Feststoffen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "58c366d6833f",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "be40bda04877",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-varisco-varisco-albatros-zd1.webp",
+                  "alt": "Varisco ZD Dieselpumpenaggregat mit halboffenem Laufrad für grobe Feststoffe",
+                  "width": 600,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "0c50bda0ff28",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Varisco Baureihe Typ ZD – Albatross, Dieselpumpenaggregat"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Trocken selbstansaugende Pumpen mit hohem Wirkungsgrad (73 %) und halboffenem Laufrad mit großem Freidurchgang, geeignet zum Fördern von Flüssigkeiten mit groben Feststoffen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "4ef44aadc6c5",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "899986ee0f8c",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-varisco-varisco-v-serie.webp",
+                  "alt": "Varisco Typ V Zahnrad-Verdrängerpumpe für industrielle Flüssigkeiten ohne Feststoffe",
+                  "width": 544,
+                  "height": 311
+                }
+              },
+              {
+                "_uid": "04c8d500714e",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Varisco Baureihe Typ V"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Verdrängerpumpen bzw. Innenzahnradpumpen eignen sich für Flüssigkeiten mit unterschiedlicher Viskosität ohne Feststoffe. Sie werden in Industrieanlagen eingesetzt."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "4adfba6e2514",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-varisco-varisco-vulcan.webp",
-          "alt": "Varisco Vulcan Exzenterschneckenpumpe für Flüssigkeiten mit abrasiven Bestandteilen und wechselnder Viskosität",
-          "width": 500,
-          "height": 500
-        }
+        "_uid": "7ed97baa24ac",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "71a21b0f7e62",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "abcb1191309f",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-varisco-varisco-z.webp",
+                  "alt": "Varisco Typ Z Pumpe mit halboffenem Laufrad für Flüssigkeiten mit groben Feststoffen",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "347607051cec",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Varisco "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Typ Z",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Pumpen mit hohem Wirkungsgrad und halboffenem Laufrad, geeignet für Flüssigkeiten mit groben Feststoffen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "d718398defb1",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "0859f10e5df1",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-varisco-varisco-vulcan.webp",
+                  "alt": "Varisco Vulcan Exzenterschneckenpumpe für Flüssigkeiten mit abrasiven Bestandteilen und wechselnder Viskosität",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "e9cbf090c30b",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Varisco "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Typ Vulcan",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Exzenterschneckenpumpe, geeignet für Flüssigkeiten mit unterschiedlicher Viskosität und abrasiven Bestandteilen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "3c3d6f22a695",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "d737f4ecca76",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-varisco-varisco-lb.webp",
+                  "alt": "Varisco LB selbstansaugende Membranpumpe für viskose und abrasive Flüssigkeiten",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "5f566e39eec6",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Varisco "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Typ LB",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Selbstansaugende Membranpumpen, geeignet für viskose Flüssigkeiten mit abrasiven Bestandteilen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "e75725a6a8c9",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "2b2b8d7b7d7a",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-varisco-varisco-thor.webp",
+                  "alt": "Varisco Thor doppeltwirkende, trocken selbstansaugende Kolbenpumpe mit Schalldämpfung",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "23454f3ad7f8",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Varisco "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Typ Thor",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Doppeltwirkende, schallgedämpfte, trocken selbstansaugende Kolbenpumpe"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "3bca1ac14501",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "27762c539ba4",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-varisco-varisco-v-saxmag.webp",
+                  "alt": "Offizieller Händler von Varisco",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "e1557cbfc860",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Varisco "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Typ V magnetgekuppelt",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Magnetgekuppelte Pumpen haben keine Gleitringdichtungen, sodass keine Leckage auftritt"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "3638aeb56376",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "d38fcd47b905",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-missende-pomp.webp",
+                  "alt": "Offizieller Händler von Varisco",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "6d5b720f8a47",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ist Ihre "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Varisco",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "-Pumpe nicht dabei? Unsere Pumpenexperten helfen Ihnen gern bei der Suche und Lieferung der benötigten Pumpe oder Ersatzteile"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "babb6bb0f996",
+        "_uid": "19dc4d790502",
+        "component": "cta_band",
+        "heading": "Unverbindlich Kontakt aufnehmen",
+        "text": "Wir beraten Sie gern zu Auswahl, Ersatz und Revision Ihrer Pumpe.",
+        "button_label": "Kontakt aufnehmen",
+        "button_link": {
+          "fieldtype": "multilink",
+          "linktype": "url",
+          "url": "/kontakt",
+          "cached_url": "/kontakt"
+        },
+        "variant": "primary"
+      },
+      {
+        "_uid": "4c8b563eebac",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "7f7353ccc622",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "dfe14bb0ff2f",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Der Schlüssel zum Erfolg der Varisco-Pumpen: Innovation und Zusammenarbeit"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Der Erfolg beruht auf der Entwicklung und Erprobung der eigenen Maschinen, wodurch Synergien zwischen internen und externen Quellen entstehen, etwa mit der Varisco University."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die zugrunde liegende Arbeit ist stets auf Innovation ausgerichtet, die die Basis jedes Projekts bildet, um die Bedürfnisse eines sich ständig wandelnden Marktes zu erkennen und vorwegzunehmen und Kunden bei Auswahl, Installation und Wartung von Pumpen zu unterstützen, die ihre spezifischen Probleme lösen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "35ebcc629d6c",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "e558ebeb6a88",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Pumpenentwicklung ist Teamarbeit"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Varisco kann auf ein Team erfahrener Fachleute zählen, die neue Mitarbeitende mit Begeisterung unterstützen. So kann der italienische Hersteller neue Modelle von Wasserpumpen, Chemiepumpen und Pumpen für verschiedene weitere Anwendungen entwickeln oder bestehende Modelle weiterentwickeln."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Innovation bei Varisco"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Das Unternehmen war schon immer international ausgerichtet; Kompetenz- und Sprachschulungen sind dabei fester Bestandteil des Qualitätsmanagementsystems. Innovation bildet die Grundlage der Projekte und zeigt sich in der technischen Entwicklung der Produkte, für die Labor- und Praxistests erforderlich sind. Das Unternehmen verfügt über ein eigenes Forschungs- und Entwicklungszentrum. Ziel ist es, die fortdauernde Führungsrolle des Unternehmens in seinem Sektor und seine Rolle als Kompetenzzentrum für Pumpen innerhalb der Gruppe zu sichern."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "16fd213023a8",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Varisco "
-                },
-                {
-                  "type": "text",
-                  "text": "Typ Vulcan",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Exzenterschneckenpumpe, geeignet für Flüssigkeiten mit unterschiedlicher Viskosität und abrasiven Bestandteilen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "a2613fdbba16",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-varisco-varisco-lb.webp",
-          "alt": "Varisco LB selbstansaugende Membranpumpe für viskose und abrasive Flüssigkeiten",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "6b468fe82929",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Varisco "
-                },
-                {
-                  "type": "text",
-                  "text": "Typ LB",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Selbstansaugende Membranpumpen, geeignet für viskose Flüssigkeiten mit abrasiven Bestandteilen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "bbc4ad1f9220",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-varisco-varisco-thor.webp",
-          "alt": "Varisco Thor doppeltwirkende, trocken selbstansaugende Kolbenpumpe mit Schalldämpfung",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "026680b238aa",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Varisco "
-                },
-                {
-                  "type": "text",
-                  "text": "Typ Thor",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Doppeltwirkende, schallgedämpfte, trocken selbstansaugende Kolbenpumpe"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "d6030d52f34a",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-varisco-varisco-v-saxmag.webp",
-          "alt": "Offizieller Händler von Varisco",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "00a512c2d311",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Varisco "
-                },
-                {
-                  "type": "text",
-                  "text": "Typ V magnetgekuppelt",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Magnetgekuppelte Pumpen haben keine Gleitringdichtungen, sodass keine Leckage auftritt"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "70879178202a",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-missende-pomp.webp",
-          "alt": "Offizieller Händler von Varisco",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "1e9d2a293bcf",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ist Ihre "
-                },
-                {
-                  "type": "text",
-                  "text": "Varisco",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": "-Pumpe nicht dabei? Unsere Pumpenexperten helfen Ihnen gern bei der Suche und Lieferung der benötigten Pumpe oder Ersatzteile"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Unverbindlich Kontakt aufnehmen"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Der Schlüssel zum Erfolg der Varisco-Pumpen: Innovation und Zusammenarbeit"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Der Erfolg beruht auf der Entwicklung und Erprobung der eigenen Maschinen, wodurch Synergien zwischen internen und externen Quellen entstehen, etwa mit der Varisco University."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die zugrunde liegende Arbeit ist stets auf Innovation ausgerichtet, die die Basis jedes Projekts bildet, um die Bedürfnisse eines sich ständig wandelnden Marktes zu erkennen und vorwegzunehmen und Kunden bei Auswahl, Installation und Wartung von Pumpen zu unterstützen, die ihre spezifischen Probleme lösen."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Pumpenentwicklung ist Teamarbeit"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Varisco kann auf ein Team erfahrener Fachleute zählen, die neue Mitarbeitende mit Begeisterung unterstützen. So kann der italienische Hersteller neue Modelle von Wasserpumpen, Chemiepumpen und Pumpen für verschiedene weitere Anwendungen entwickeln oder bestehende Modelle weiterentwickeln."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Innovation bei Varisco"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Das Unternehmen war schon immer international ausgerichtet; Kompetenz- und Sprachschulungen sind dabei fester Bestandteil des Qualitätsmanagementsystems. Innovation bildet die Grundlage der Projekte und zeigt sich in der technischen Entwicklung der Produkte, für die Labor- und Praxistests erforderlich sind. Das Unternehmen verfügt über ein eigenes Forschungs- und Entwicklungszentrum. Ziel ist es, die fortdauernde Führungsrolle des Unternehmens in seinem Sektor und seine Rolle als Kompetenzzentrum für Pumpen innerhalb der Gruppe zu sichern."
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {

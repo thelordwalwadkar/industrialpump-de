@@ -25,13 +25,14 @@ const asset = (description: string): Field => ({ type: 'asset', filetypes: ['ima
 const link = (description: string, extra: Field = {}): Field => ({ type: 'multilink', description, email_link_type: true, asset_link_type: true, ...extra });
 const bloks = (description: string, whitelist: string[], extra: Field = {}): Field => ({ type: 'bloks', restrict_components: true, component_whitelist: whitelist, description, ...extra });
 
-const BODY_SLOT = ['rich_text', 'card_grid', 'cta_band', 'faq', 'spec_table', 'download_list', 'steps', 'related_links', 'image_text', 'image_block', 'data_table', 'button_row', 'pump_finder', 'logo_carousel', 'usp_grid'];
+const BODY_SLOT = ['rich_text', 'card_grid', 'cta_band', 'faq', 'spec_table', 'download_list', 'steps', 'related_links', 'image_text', 'image_block', 'data_table', 'button_row', 'pump_finder', 'logo_carousel', 'usp_grid', 'section_row'];
 
 /** SEO + common fields shared by every page type. */
 const common = (): Record<string, Field> => ({
   h1: text('Haupt-Überschrift (genau ein H1 pro Seite). Enthält das Hauptthema.', { required: true }),
   intro: area('Einleitung in höchstens zwei Sätzen: Was ist das und für wen? Wird als Zitat-Antwort gelesen.', { required: true, max_length: 320 }),
   nav_title: text('Kurzname für Brotkrumen, Navigation und Karten (z. B. „DIWA-Serie“).'),
+  hero_image: asset('Kopfbild (optional): ersetzt das Standardbild hinter Überschrift und Einleitung.'),
   seo_title: text('Seitentitel für Google, höchstens 60 Zeichen.', { max_length: 60, required: true }),
   seo_description: area('Meta-Beschreibung, höchstens 155 Zeichen.', { max_length: 155, required: true }),
   noindex: bool('Nur für Sonderfälle: Seite von der Suche ausschließen. Rechtstexte bleiben indexierbar.'),
@@ -97,6 +98,8 @@ const DEFS: Def[] = [
   { name: 'step', display_name: 'Schritt', nestable: true, fields: { title: text('Schritt.', { required: true }), text: area('Beschreibung.') } },
   { name: 'steps', display_name: 'Ablauf', nestable: true, fields: { heading: text('Überschrift.'), items: bloks('Nur echte Reihenfolgen (z. B. Revisionsablauf).', ['step']) } },
   { name: 'pump_finder', display_name: 'Pumpenfinder (Rechner + Registrierung)', nestable: true, fields: { heading: text('Überschrift.', { required: true }), intro: area('Einleitung über dem Rechner.'), result_heading: text('Überschrift über dem Registrierungsformular (Schritt 2).'), result_text: area('Text in Schritt 2: Das Ergebnis wird nicht angezeigt, sondern nach der Registrierung zugesandt.') } },
+  { name: 'section_column', display_name: 'Spalte', nestable: true, fields: { icon: text('Symbol (optional, z. B. „fa-lightbulb“): zeigt einen Vorteil als Kachel.'), content: bloks('Inhalt der Spalte.', ['rich_text', 'image_block', 'button_row', 'faq', 'data_table', 'cta_band']) } },
+  { name: 'section_row', display_name: 'Abschnitt mit Spalten', nestable: true, fields: { heading: text('Überschrift über den Spalten (optional).'), layout: option('Darstellung.', [{ name: 'Spalten nebeneinander', value: 'columns' }, { name: 'Karussell', value: 'carousel' }]), columns: bloks('Spalten (2–4 nebeneinander, auf dem Handy untereinander).', ['section_column']) } },
   { name: 'logo_item', display_name: 'Logo', nestable: true, fields: { name: text('Name (wird zum Alt-Text).', { required: true }), image: asset('Logo.'), link: link('Ziel (optional, z. B. Markenseite).') } },
   { name: 'logo_carousel', display_name: 'Logo-Karussell', nestable: true, fields: { heading: text('Überschrift.'), intro: area('Einleitung.'), logos: bloks('Logos. Links auf noch nicht vorhandene Seiten werden ausgeblendet, das Logo bleibt sichtbar.', ['logo_item']) } },
   { name: 'usp_item', display_name: 'Vorteil', nestable: true, fields: { title: text('Vorteil in wenigen Worten.', { required: true }), text: area('Kurze Erläuterung (optional).') } },

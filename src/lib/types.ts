@@ -20,6 +20,8 @@ export interface CardGrid extends Blok { component: 'card_grid'; heading?: strin
 export interface PumpFinder extends Blok { component: 'pump_finder'; heading: string; intro?: string; result_heading?: string; result_text?: string }
 export interface LogoItem extends Blok { component: 'logo_item'; name: string; image?: SbAsset; link?: SbLink }
 export interface LogoCarousel extends Blok { component: 'logo_carousel'; heading?: string; intro?: string; logos?: LogoItem[] }
+export interface SectionColumn extends Blok { component: 'section_column'; icon?: string; content?: Blok[] }
+export interface SectionRow extends Blok { component: 'section_row'; heading?: string; layout?: 'columns' | 'carousel'; columns?: SectionColumn[] }
 export interface UspItem extends Blok { component: 'usp_item'; title: string; text?: string }
 export interface UspGrid extends Blok { component: 'usp_grid'; heading?: string; intro?: string; items?: UspItem[] }
 export interface CtaBand extends Blok { component: 'cta_band'; heading: string; text?: string; button_label: string; button_link: SbLink; variant?: 'primary' | 'overhaul' }
@@ -43,7 +45,7 @@ export interface NavItem extends Blok { component: 'nav_item'; label: string; li
 export interface NavGroup extends Blok { component: 'nav_group'; label: string; items?: NavItem[] }
 
 /** Optional, editor-added bloks allowed in the `body` slot of every page type. */
-export type BodyBlok = RichTextBlok | CardGrid | CtaBand | Faq | SpecTable | DownloadList | Steps | RelatedLinks | ImageText | ImageBlock | DataTable | ButtonRow | PumpFinder | LogoCarousel | UspGrid;
+export type BodyBlok = RichTextBlok | CardGrid | CtaBand | Faq | SpecTable | DownloadList | Steps | RelatedLinks | ImageText | ImageBlock | DataTable | ButtonRow | PumpFinder | LogoCarousel | UspGrid | SectionRow;
 
 /* ---------- content types ---------- */
 export interface PageBase extends Blok {
@@ -52,6 +54,7 @@ export interface PageBase extends Blok {
   h1?: string;
   intro?: string;
   nav_title?: string;
+  hero_image?: SbAsset;
   noindex?: boolean;
   body?: BodyBlok[];
   cta?: CtaBand[];

@@ -15,320 +15,468 @@
     "topic_kind": "pumpentyp",
     "body": [
       {
-        "_uid": "770a73684eb9",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Pumpen sind für die Öl- und Gasindustrie unverzichtbar. Sie werden zum Fördern von Rohöl, Gas und Wasser sowie zum Einpressen von Wasser und Chemikalien in Bohrlöcher eingesetzt. Pumpen für die Öl- und Gasindustrie müssen korrosionsbeständig sein sowie hohen Temperaturen und Drücken standhalten."
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
+        "_uid": "ce679b519b3c",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "433459a96bd6",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "31436ad90ab9",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "Chemienormpumpen nach ISO 5199",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/pumpentypen/chemienormpumpen-iso-5199",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
+                          "text": "Pumpen sind für die Öl- und Gasindustrie unverzichtbar. Sie werden zum Fördern von Rohöl, Gas und Wasser sowie zum Einpressen von Wasser und Chemikalien in Bohrlöcher eingesetzt. Pumpen für die Öl- und Gasindustrie müssen korrosionsbeständig sein sowie hohen Temperaturen und Drücken standhalten."
                         }
                       ]
                     }
                   ]
-                },
-                {
-                  "type": "list_item",
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "df6b0f67310d",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "8622cf8ce87c",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
                     {
-                      "type": "paragraph",
+                      "type": "bullet_list",
                       "content": [
                         {
-                          "type": "text",
-                          "text": "API-Pumpen",
-                          "marks": [
+                          "type": "list_item",
+                          "content": [
                             {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/pumpentypen/api-pumpen",
-                                "linktype": "url"
-                              }
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Chemienormpumpen nach ISO 5199",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/pumpentypen/chemienormpumpen-iso-5199",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "API-Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/pumpentypen/api-pumpen",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Exzenterschneckenpumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/pumpentypen/exzenterschneckenpumpen",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Kühlwasserpumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/anwendungen/kuehlwasser",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
                             }
                           ]
                         }
                       ]
                     }
                   ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Exzenterschneckenpumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/pumpentypen/exzenterschneckenpumpen",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Kühlwasserpumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/anwendungen/kuehlwasser",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
                 }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kurze Erläuterung zur Öl- und Gasindustrie"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Öl- und Gasindustrie ist gemessen an den erzielten Einnahmen eine der größten Industriebranchen der Welt. Sie gliedert sich in drei Segmente: Upstream, Midstream und Downstream."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Upstream = Exploration und Förderung von Öl (Erkundung von Ölvorkommen und Bohrung zur Gewinnung)"
-                },
-                {
-                  "type": "hard_break"
-                },
-                {
-                  "type": "text",
-                  "text": "Midstream = Transport von den Förderstellen zu den Raffinerien."
-                },
-                {
-                  "type": "hard_break"
-                },
-                {
-                  "type": "text",
-                  "text": "Downstream = Raffination und Verkauf der Endprodukte (Benzin, Diesel, Flugkraftstoff usw.)."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Öl- und Gasindustrie ist äußerst gewinnstark. Einige der größten und bekanntesten multinationalen Unternehmen der Welt stammen aus dieser Branche, zum Beispiel ARAMCO, BP, CNPC, Chevron, Exxon Mobil, TOTAL und Shell."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Wesentlich für Förder- und Transportprozesse",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Pumpen spielen in jeder Phase der Öl- und Gasförderung eine zentrale Rolle, von der Gewinnung über den Transport zu den Raffinerien bis zu den Endverbrauchern."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Vielfalt der Pumpentypen",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Verschiedene Pumpen wie Kreiselpumpen, Verdrängerpumpen und Strahlpumpen bieten Lösungen für unterschiedliche Anwendungen, vom Fördern großer Flüssigkeitsmengen bis zum Erzeugen von Vakuum."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zuverlässig unter extremen Bedingungen",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Diese Pumpen sind für den Betrieb bei hohen Drücken, hohen Temperaturen und in korrosiver Umgebung ausgelegt, was in der anspruchsvollen Öl- und Gasindustrie wesentlich ist."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Pumpen für die Öl- und Gasindustrie"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Pumpen für die Öl- und Gasindustrie sind ein unverzichtbarer Bestandteil der Förder- und Transportprozesse. Mit Pumpen werden Flüssigkeiten und Gase wie Rohöl, Erdgas, Wasser und chemische Lösungen bewegt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "In der Öl- und Gasindustrie kommen verschiedene Pumpentypen zum Einsatz, darunter Kreiselpumpen, Verdrängerpumpen und Strahlpumpen. Kreiselpumpen sind in der Öl- und Gasindustrie die am häufigsten eingesetzten Pumpen und dienen zum Fördern großer Flüssigkeitsmengen bei vergleichsweise niedrigem Druck. Verdrängerpumpen werden dagegen für höhere Drücke und Viskositäten verwendet, während Strahlpumpen zum Erzeugen von Vakuum oder zum Mischen von Flüssigkeiten dienen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Pumpen für die Öl- und Gasindustrie werden in jeder Phase der Öl- und Gasproduktion eingesetzt, von der Gewinnung aus dem Untergrund bis zum Transport zu Raffinerien und anderen Verarbeitungsanlagen. In der Explorationsphase werden Pumpen genutzt, um Wasser, Bohrschlamm und andere Flüssigkeiten in das Bohrloch einzupressen, den Druck zu erhöhen und den Öl- oder Gasstrom zu fördern."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "In der Förderphase werden Pumpen eingesetzt, um Rohöl und Erdgas aus den Bohrlöchern an die Oberfläche zu fördern. Das kann sowohl über einen natürlichen Druckunterschied als auch über Pumpanlagen geschehen. Nach der Gewinnung müssen Öl und Gas zu Verarbeitungsanlagen, Raffinerien und schließlich zu den Endverbrauchern transportiert werden. Pumpen für die Öl- und Gasindustrie spielen dabei eine wichtige Rolle, um die Flüssigkeiten und Gase durch die Rohrleitungen zu bewegen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Pumpen sind nicht nur für Förderung und Transport von Öl und Gas wichtig, sondern auch für den sicheren Betrieb der Anlagen. Sie dienen dazu, Abwasser und andere Nebenprodukte der Förderung abzuführen sowie Kühl- und Schmieröle zu den an der Förderung beteiligten Maschinen zu fördern."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ein weiterer wichtiger Aspekt von Pumpen in der Öl- und Gasindustrie ist ihre Wartung. Da Pumpen häufig extremen Bedingungen wie hohen Temperaturen, hohem Druck und Korrosion ausgesetzt sind, müssen sie regelmäßig gewartet werden, um ihre Leistung zu optimieren und Störungen zu vermeiden. Das reicht von regelmäßigen Inspektionen bis zum Austausch von Ersatzteilen oder ganzen Pumpen."
-                }
-              ]
-            }
-          ]
-        }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "ef4ec939a730",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/segmenten-gasolie-2.webp",
-          "alt": "Pumpen in der Öl- und Gasindustrie | Industrial Pump Group",
-          "width": 1000,
-          "height": 496
-        }
+        "_uid": "9f6febe38a56",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "3c22fa8543ff",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "df12d723e71a",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kurze Erläuterung zur Öl- und Gasindustrie"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "3ab02f5f3ca1",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "49269df20aba",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Öl- und Gasindustrie ist gemessen an den erzielten Einnahmen eine der größten Industriebranchen der Welt. Sie gliedert sich in drei Segmente: Upstream, Midstream und Downstream."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Upstream = Exploration und Förderung von Öl (Erkundung von Ölvorkommen und Bohrung zur Gewinnung)"
+                        },
+                        {
+                          "type": "hard_break"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Midstream = Transport von den Förderstellen zu den Raffinerien."
+                        },
+                        {
+                          "type": "hard_break"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Downstream = Raffination und Verkauf der Endprodukte (Benzin, Diesel, Flugkraftstoff usw.)."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Öl- und Gasindustrie ist äußerst gewinnstark. Einige der größten und bekanntesten multinationalen Unternehmen der Welt stammen aus dieser Branche, zum Beispiel ARAMCO, BP, CNPC, Chevron, Exxon Mobil, TOTAL und Shell."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "4ee22247251b",
+        "_uid": "c3831e912367",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "54c1ed112dc8",
+            "component": "section_column",
+            "icon": "fa-industry-alt",
+            "content": [
+              {
+                "_uid": "ff336b5b3bae",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Wesentlich für Förder- und Transportprozesse",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Pumpen spielen in jeder Phase der Öl- und Gasförderung eine zentrale Rolle, von der Gewinnung über den Transport zu den Raffinerien bis zu den Endverbrauchern."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "4b09758e8ff9",
+            "component": "section_column",
+            "icon": "fa-faucet",
+            "content": [
+              {
+                "_uid": "be117b9fb23b",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Vielfalt der Pumpentypen",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Verschiedene Pumpen wie Kreiselpumpen, Verdrängerpumpen und Strahlpumpen bieten Lösungen für unterschiedliche Anwendungen, vom Fördern großer Flüssigkeitsmengen bis zum Erzeugen von Vakuum."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "94394900afad",
+            "component": "section_column",
+            "icon": "fa-chart-network",
+            "content": [
+              {
+                "_uid": "5704af58acba",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Zuverlässig unter extremen Bedingungen",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Diese Pumpen sind für den Betrieb bei hohen Drücken, hohen Temperaturen und in korrosiver Umgebung ausgelegt, was in der anspruchsvollen Öl- und Gasindustrie wesentlich ist."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "c002b8be181c",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "2eceae751049",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ec9b0c10ed69",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Pumpen für die Öl- und Gasindustrie"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Pumpen für die Öl- und Gasindustrie sind ein unverzichtbarer Bestandteil der Förder- und Transportprozesse. Mit Pumpen werden Flüssigkeiten und Gase wie Rohöl, Erdgas, Wasser und chemische Lösungen bewegt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "In der Öl- und Gasindustrie kommen verschiedene Pumpentypen zum Einsatz, darunter Kreiselpumpen, Verdrängerpumpen und Strahlpumpen. Kreiselpumpen sind in der Öl- und Gasindustrie die am häufigsten eingesetzten Pumpen und dienen zum Fördern großer Flüssigkeitsmengen bei vergleichsweise niedrigem Druck. Verdrängerpumpen werden dagegen für höhere Drücke und Viskositäten verwendet, während Strahlpumpen zum Erzeugen von Vakuum oder zum Mischen von Flüssigkeiten dienen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Pumpen für die Öl- und Gasindustrie werden in jeder Phase der Öl- und Gasproduktion eingesetzt, von der Gewinnung aus dem Untergrund bis zum Transport zu Raffinerien und anderen Verarbeitungsanlagen. In der Explorationsphase werden Pumpen genutzt, um Wasser, Bohrschlamm und andere Flüssigkeiten in das Bohrloch einzupressen, den Druck zu erhöhen und den Öl- oder Gasstrom zu fördern."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "In der Förderphase werden Pumpen eingesetzt, um Rohöl und Erdgas aus den Bohrlöchern an die Oberfläche zu fördern. Das kann sowohl über einen natürlichen Druckunterschied als auch über Pumpanlagen geschehen. Nach der Gewinnung müssen Öl und Gas zu Verarbeitungsanlagen, Raffinerien und schließlich zu den Endverbrauchern transportiert werden. Pumpen für die Öl- und Gasindustrie spielen dabei eine wichtige Rolle, um die Flüssigkeiten und Gase durch die Rohrleitungen zu bewegen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Pumpen sind nicht nur für Förderung und Transport von Öl und Gas wichtig, sondern auch für den sicheren Betrieb der Anlagen. Sie dienen dazu, Abwasser und andere Nebenprodukte der Förderung abzuführen sowie Kühl- und Schmieröle zu den an der Förderung beteiligten Maschinen zu fördern."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ein weiterer wichtiger Aspekt von Pumpen in der Öl- und Gasindustrie ist ihre Wartung. Da Pumpen häufig extremen Bedingungen wie hohen Temperaturen, hohem Druck und Korrosion ausgesetzt sind, müssen sie regelmäßig gewartet werden, um ihre Leistung zu optimieren und Störungen zu vermeiden. Das reicht von regelmäßigen Inspektionen bis zum Austausch von Ersatzteilen oder ganzen Pumpen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "33672824cb56",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "38cd396278db",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/segmenten-gasolie-2.webp",
+                  "alt": "Pumpen in der Öl- und Gasindustrie | Industrial Pump Group",
+                  "width": 1000,
+                  "height": 496
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "c10e4542077b",
         "component": "rich_text",
         "content": {
           "type": "doc",
@@ -349,227 +497,308 @@
         }
       },
       {
-        "_uid": "4110d010625f",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-aeb.webp",
-          "alt": "Kundenlogo AEB",
-          "width": 387,
-          "height": 241
-        }
+        "_uid": "92f060438d1f",
+        "component": "logo_carousel",
+        "logos": [
+          {
+            "_uid": "44960fd2a715",
+            "component": "logo_item",
+            "name": "AEB Amsterdam",
+            "image": {
+              "filename": "/img/clients/aeb-amsterdam.webp",
+              "alt": "AEB Amsterdam",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "3a1e5e4f858a",
+            "component": "logo_item",
+            "name": "AkzoNobel",
+            "image": {
+              "filename": "/img/clients/akzonobel.webp",
+              "alt": "AkzoNobel",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "e93cc1a8d406",
+            "component": "logo_item",
+            "name": "HVC",
+            "image": {
+              "filename": "/img/clients/hvc.webp",
+              "alt": "HVC",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "430485e98537",
+            "component": "logo_item",
+            "name": "Petrogas",
+            "image": {
+              "filename": "/img/clients/petrogas.webp",
+              "alt": "Petrogas",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "2157197e56cc",
+            "component": "logo_item",
+            "name": "Tata Steel",
+            "image": {
+              "filename": "/img/clients/tata-steel.webp",
+              "alt": "Tata Steel",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "6f530c397281",
+            "component": "logo_item",
+            "name": "Waternet",
+            "image": {
+              "filename": "/img/clients/waternet.webp",
+              "alt": "Waternet",
+              "width": 280,
+              "height": 140
+            }
+          }
+        ]
       },
       {
-        "_uid": "b0370452533c",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-akzonobel.webp",
-          "alt": "Kundenlogo AkzoNobel",
-          "width": 387,
-          "height": 241
-        }
+        "_uid": "309c2ad4785d",
+        "component": "section_row",
+        "layout": "carousel",
+        "columns": [
+          {
+            "_uid": "3bf714aa90cf",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "8440a6cb23a1",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Zuverlässige und robuste Lösungen für kritische Prozesse!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG liefert uns zuverlässige Pumpen, die den harten Bedingungen in unserer Branche standhalten. Die Produkte sind von hoher Qualität und tragen zu einem stabilen und sicheren Produktionsprozess bei."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Operations Manager bei einem Öl- und Gasunternehmen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "4c3e75d659b9",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "2d96cae12afb",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Schnell und wirksam bei technischen Herausforderungen!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "In der Öl- und Gasindustrie können technische Probleme große Auswirkungen haben, doch IPG bietet stets schnelle und wirksame Lösungen. Der Support ist für unsere Kontinuität entscheidend."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Technischer Supervisor bei einer Raffinerie in den Niederlanden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "fb7e78def549",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "f4e3ce546794",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Hervorragender Partner mit Spezialwissen und Erfahrung!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG versteht unsere komplexen Anforderungen und liefert Spezialprodukte, die unseren Spezifikationen genau entsprechen. Das Team ist fachkundig und denkt bei Risiken und Sicherheitsmaßnahmen mit."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Verfahrensingenieur"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "fbfc7afd3bd2",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ff78cf308e74",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Qualität und Compliance ohne Kompromisse!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Pumpen von IPG erfüllen die strengen Sicherheits- und Umweltnormen der Öl- und Gasindustrie. Die Produkte sind zuverlässig, und der Service ist stets schnell und effizient."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Compliance Manager in der Öl- und Gasbranche."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "67367af77ae8",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-hvc.webp",
-          "alt": "Kundenlogo HVC",
-          "width": 387,
-          "height": 241
-        }
+        "_uid": "7fd395f9385c",
+        "component": "cta_band",
+        "heading": "Unverbindlich Kontakt aufnehmen",
+        "text": "Wir beraten Sie gern zu Auswahl, Ersatz und Revision Ihrer Pumpe.",
+        "button_label": "Kontakt aufnehmen",
+        "button_link": {
+          "fieldtype": "multilink",
+          "linktype": "url",
+          "url": "/kontakt",
+          "cached_url": "/kontakt"
+        },
+        "variant": "primary"
       },
       {
-        "_uid": "d7df55d88848",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-petrogas.webp",
-          "alt": "Kundenlogo Petrogas",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "53fdfb212fe3",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-tatasteel.webp",
-          "alt": "Kundenlogo Tata Steel",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "625b39512345",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-waternet.webp",
-          "alt": "Kundenlogo Waternet",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "c329ad27d895",
+        "_uid": "e3fc0b4494be",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zuverlässige und robuste Lösungen für kritische Prozesse!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG liefert uns zuverlässige Pumpen, die den harten Bedingungen in unserer Branche standhalten. Die Produkte sind von hoher Qualität und tragen zu einem stabilen und sicheren Produktionsprozess bei."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Operations Manager bei einem Öl- und Gasunternehmen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Schnell und wirksam bei technischen Herausforderungen!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "In der Öl- und Gasindustrie können technische Probleme große Auswirkungen haben, doch IPG bietet stets schnelle und wirksame Lösungen. Der Support ist für unsere Kontinuität entscheidend."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Technischer Supervisor bei einer Raffinerie in den Niederlanden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Hervorragender Partner mit Spezialwissen und Erfahrung!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG versteht unsere komplexen Anforderungen und liefert Spezialprodukte, die unseren Spezifikationen genau entsprechen. Das Team ist fachkundig und denkt bei Risiken und Sicherheitsmaßnahmen mit."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Verfahrensingenieur"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Qualität und Compliance ohne Kompromisse!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Pumpen von IPG erfüllen die strengen Sicherheits- und Umweltnormen der Öl- und Gasindustrie. Die Produkte sind zuverlässig, und der Service ist stets schnell und effizient."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Compliance Manager in der Öl- und Gasbranche."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 4
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Unverbindlich Kontakt aufnehmen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -715,126 +944,166 @@
         }
       },
       {
-        "_uid": "e6794f3d9ac7",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-wormpompen.webp",
-          "alt": "Exzenterschneckenpumpen für die Öl- und Gasindustrie | Industrial Pump Group",
-          "width": 243,
-          "height": 141
-        }
+        "_uid": "0655f8c9adb5",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "4a6df9a1a40c",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "bc994ad509e3",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-wormpompen.webp",
+                  "alt": "Exzenterschneckenpumpen für die Öl- und Gasindustrie | Industrial Pump Group",
+                  "width": 243,
+                  "height": 141
+                }
+              },
+              {
+                "_uid": "a0381161017d",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Exzenterschneckenpumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "7748f5d9e6f6",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "7a1b53c3760d",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/homepage-product4-2.webp",
+                  "alt": "Kühlwasserpumpen für die Öl- und Gasindustrie | Industrial Pump Group",
+                  "width": 219,
+                  "height": 152
+                }
+              },
+              {
+                "_uid": "4ca082e67157",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Kühlwasserpumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "4aa7f5885699",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "1a01b202dc7e",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/logos-iso-logo-kleur.webp",
+                  "alt": "ISO-Pumpen für die Öl- und Gasindustrie | Industrial Pump Group",
+                  "width": 300,
+                  "height": 188
+                }
+              },
+              {
+                "_uid": "5896a7271003",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über ISO-Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "8ddcf459313c",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "e70c27793d43",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/logos-api-logo-kleur.webp",
+                  "alt": "API-Pumpen für die Öl- und Gasindustrie | Industrial Pump Group",
+                  "width": 300,
+                  "height": 188
+                }
+              },
+              {
+                "_uid": "3fdcd92f1371",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über API-Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "2738b05c37f7",
+        "_uid": "16d605c7b107",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Exzenterschneckenpumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "9e428ca28c8d",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-product4-2.webp",
-          "alt": "Kühlwasserpumpen für die Öl- und Gasindustrie | Industrial Pump Group",
-          "width": 219,
-          "height": 152
-        }
-      },
-      {
-        "_uid": "2addcf873615",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Kühlwasserpumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "60efd4a747e6",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/logos-iso-logo-kleur.webp",
-          "alt": "ISO-Pumpen für die Öl- und Gasindustrie | Industrial Pump Group",
-          "width": 300,
-          "height": 188
-        }
-      },
-      {
-        "_uid": "58bcc9fc1138",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über ISO-Pumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "e52514601d88",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/logos-api-logo-kleur.webp",
-          "alt": "API-Pumpen für die Öl- und Gasindustrie | Industrial Pump Group",
-          "width": 300,
-          "height": 188
-        }
-      },
-      {
-        "_uid": "0df785dcd8da",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über API-Pumpen lesen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -890,43 +1159,62 @@
         }
       },
       {
-        "_uid": "91cb4bd7299b",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/segmenten-gasolie-3.webp",
-          "alt": "Pumpen für die Öl- und Gasindustrie | Industrial Pump Group",
-          "width": 1000,
-          "height": 667
-        }
-      },
-      {
-        "_uid": "60d8ff94c854",
-        "component": "faq",
-        "heading": "Häufige Fragen",
-        "items": [
+        "_uid": "9404bc8edf33",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
           {
-            "_uid": "cdc7b9509e99",
-            "component": "faq_item",
-            "question": "Was sind Pumpen für die Öl- und Gasindustrie?",
-            "answer": "Pumpen für die Öl- und Gasindustrie sind Geräte, die Flüssigkeiten oder Gase von einem Punkt zu einem anderen bewegen. In der Öl- und Gasindustrie dienen sie dazu, Öl, Gas, Wasser und andere Flüssigkeiten zwischen verschiedenen Standorten zu fördern, zum Beispiel von einem Bohrloch zu einem Lagertank."
+            "_uid": "d61a800affdd",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "1b9b5d976d97",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/segmenten-gasolie-3.webp",
+                  "alt": "Pumpen für die Öl- und Gasindustrie | Industrial Pump Group",
+                  "width": 1000,
+                  "height": 667
+                }
+              }
+            ]
           },
           {
-            "_uid": "d7c84e37c9aa",
-            "component": "faq_item",
-            "question": "Welche Pumpentypen werden in der Öl- und Gasindustrie hauptsächlich eingesetzt?",
-            "answer": "In der Öl- und Gasindustrie werden hauptsächlich Kreiselpumpen, Verdrängerpumpen und Kühlwasserpumpen eingesetzt. Kreiselpumpen sind am gebräuchlichsten und dienen häufig zum Fördern großer Flüssigkeitsmengen mit niedriger bis mittlerer Viskosität. Verdrängerpumpen eignen sich besser zum Fördern von Flüssigkeiten mit hoher Viskosität."
-          },
-          {
-            "_uid": "bf802df2a179",
-            "component": "faq_item",
-            "question": "Welche Sicherheitsrisiken bestehen bei Pumpen für die Öl- und Gasindustrie?",
-            "answer": "Mit Pumpen in der Öl- und Gasindustrie sind verschiedene Sicherheitsrisiken verbunden, etwa das Risiko von Brand und Explosion, von Kontakt mit giftigen Stoffen sowie von mechanischen Unfällen. Um diese Risiken zu begrenzen, müssen Pumpen nach den geltenden Sicherheitsvorschriften installiert und betrieben werden."
-          },
-          {
-            "_uid": "58b1c989c49b",
-            "component": "faq_item",
-            "question": "Wofür werden Pumpen in der Öl- und Gasindustrie typischerweise eingesetzt?",
-            "answer": "Pumpen werden in der Öl- und Gasindustrie für verschiedene Anwendungen eingesetzt, etwa zum Fördern von Öl und Gas von einem Bohrloch zu einem Lagertank, zum Einpressen von Wasser oder Chemikalien in ein Bohrloch, um die Förderung zu steigern, und zum Fördern von Abwasser zu einer Aufbereitungsanlage."
+            "_uid": "c5cab3a965ca",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "850820e2e04f",
+                "component": "faq",
+                "heading": "Häufige Fragen",
+                "items": [
+                  {
+                    "_uid": "c45058396579",
+                    "component": "faq_item",
+                    "question": "Was sind Pumpen für die Öl- und Gasindustrie?",
+                    "answer": "Pumpen für die Öl- und Gasindustrie sind Geräte, die Flüssigkeiten oder Gase von einem Punkt zu einem anderen bewegen. In der Öl- und Gasindustrie dienen sie dazu, Öl, Gas, Wasser und andere Flüssigkeiten zwischen verschiedenen Standorten zu fördern, zum Beispiel von einem Bohrloch zu einem Lagertank."
+                  },
+                  {
+                    "_uid": "6b0c840fb7cf",
+                    "component": "faq_item",
+                    "question": "Welche Pumpentypen werden in der Öl- und Gasindustrie hauptsächlich eingesetzt?",
+                    "answer": "In der Öl- und Gasindustrie werden hauptsächlich Kreiselpumpen, Verdrängerpumpen und Kühlwasserpumpen eingesetzt. Kreiselpumpen sind am gebräuchlichsten und dienen häufig zum Fördern großer Flüssigkeitsmengen mit niedriger bis mittlerer Viskosität. Verdrängerpumpen eignen sich besser zum Fördern von Flüssigkeiten mit hoher Viskosität."
+                  },
+                  {
+                    "_uid": "fbd27593bbf7",
+                    "component": "faq_item",
+                    "question": "Welche Sicherheitsrisiken bestehen bei Pumpen für die Öl- und Gasindustrie?",
+                    "answer": "Mit Pumpen in der Öl- und Gasindustrie sind verschiedene Sicherheitsrisiken verbunden, etwa das Risiko von Brand und Explosion, von Kontakt mit giftigen Stoffen sowie von mechanischen Unfällen. Um diese Risiken zu begrenzen, müssen Pumpen nach den geltenden Sicherheitsvorschriften installiert und betrieben werden."
+                  },
+                  {
+                    "_uid": "f9bfc5fcc2bb",
+                    "component": "faq_item",
+                    "question": "Wofür werden Pumpen in der Öl- und Gasindustrie typischerweise eingesetzt?",
+                    "answer": "Pumpen werden in der Öl- und Gasindustrie für verschiedene Anwendungen eingesetzt, etwa zum Fördern von Öl und Gas von einem Bohrloch zu einem Lagertank, zum Einpressen von Wasser oder Chemikalien in ein Bohrloch, um die Förderung zu steigern, und zum Fördern von Abwasser zu einer Aufbereitungsanlage."
+                  }
+                ]
+              }
+            ]
           }
         ]
       }

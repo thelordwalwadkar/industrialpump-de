@@ -14,557 +14,805 @@
     "topic_kind": "pumpentyp",
     "body": [
       {
-        "_uid": "3f09cca357a3",
+        "_uid": "8c8a5cfa7b74",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "9d637c5ed7d2",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "222305d9e5d0",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Normpumpen (Waternorm-Pumpen) sind nach internationalen Normen ausgelegt, um die Anforderungen von Trinkwasseranwendungen und Hygienevorschriften zu erfüllen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "2edf10241b9c",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "5df5d2c7955f",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Wasseraufbereitung",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/branchen/wasseraufbereitung",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Lebensmittelindustrie",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/branchen/lebensmittelindustrie",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Haushalt",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/branchen/haushalt",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Prozesswasser",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/anwendungen/prozesswasser",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Trinkwasser",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/anwendungen/trinkwasser",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "HLK (Heizung, Lüftung, Klima)",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/branchen/gebaeudetechnik-hvac",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "6a8de9cf226f",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "fe5602ff0e43",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "040b8aed3f84",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Normpumpen nach den geltenden Normen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "0dc1bc9803b6",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "917973ac4ad2",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Normpumpen sind wichtige Hilfsmittel zum Fördern von Wasser aus Brunnen, Behältern und anderen Wasserquellen. Diese Pumpen sind so ausgelegt, dass sie bestimmte Normen und Vorschriften erfüllen, um Wasser sicher und effizient zu fördern. Dieser Abschnitt geht ausführlich auf die verschiedenen Arten von Normpumpen ein, darunter Kreiselpumpen, Tauchmotorpumpen und Strahlpumpen. Außerdem werden die wichtigsten Merkmale und Vorteile von Normpumpen behandelt sowie die Faktoren, die die Leistung dieser Pumpen beeinflussen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ob Sie eine zuverlässige Normpumpe für einen privaten Brunnen oder eine professionelle Pumpe für eine größere Wasserquelle suchen: Dieser Abschnitt liefert die Informationen, die Sie für eine fundierte Entscheidung benötigen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "786871f03b76",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "15709913958b",
+            "component": "section_column",
+            "icon": "fa-check",
+            "content": [
+              {
+                "_uid": "43643f4cb9c5",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Erfüllt strenge Normen und Vorschriften",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Normpumpen sind so ausgelegt, dass sie strenge Normen und Vorschriften erfüllen, was ein sicheres und effizientes Pumpen von Wasser gewährleistet."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "62692d8d0327",
+            "component": "section_column",
+            "icon": "fa-tint",
+            "content": [
+              {
+                "_uid": "ccbbe410057c",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Geeignet für vielfältige Anwendungen",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Geeignet sowohl für private Wasserbrunnen als auch für professionelle Wasserquellen und erfüllt die Anforderungen unterschiedlicher Wasserbedarfe."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "43c91b12ef4e",
+            "component": "section_column",
+            "icon": "fa-wrench",
+            "content": [
+              {
+                "_uid": "225f9cf42c97",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Hochwertige Werkstoffe",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Gefertigt aus hochwertigen Werkstoffen, die den einschlägigen Wassernormen entsprechen, was die Zuverlässigkeit und Lebensdauer der Pumpe erhöht."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "94b0fe56a167",
+            "component": "section_column",
+            "icon": "fa-bolt",
+            "content": [
+              {
+                "_uid": "55d374baa6bb",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Energieeffizient und leise",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ausgelegt für Energieeffizienz und geringe Geräuschentwicklung, damit auch für den Einsatz in der Nähe von Wohnräumen geeignet."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "e3752dfa7fcb",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "2c97308c2776",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "17b455e881dc",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Wann kommen Kreiselpumpen für die Normung nach Wassernorm in Betracht?"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kreiselpumpen gehören zu den am häufigsten eingesetzten Normpumpen und werden für ein breites Spektrum an Anwendungen verwendet. Um für die Normung nach Wassernorm in Betracht zu kommen, müssen Kreiselpumpen eine Reihe spezifischer Anforderungen und Normen in Bezug auf Werkstoffe, Abmessungen, Leistung und Sicherheit erfüllen. Dazu gehören zum Beispiel die maximale Förderhöhe, die Durchflussgeschwindigkeit und der Wirkungsgrad der Pumpe. Durch die Erfüllung dieser Anforderungen können Kreiselpumpen zertifiziert werden und für den Einsatz in Trinkwasserinstallationen und anderen Anwendungen in Betracht kommen, bei denen die Wasserqualität von wesentlicher Bedeutung ist. Es ist daher wichtig, bei der Wahl einer Kreiselpumpe auf diese Normung zu achten und sicherzustellen, dass sie für die gewünschte Anwendung geeignet ist."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Worauf sollten Sie bei der Wahl einer Normpumpe für den Hausgebrauch achten?"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Es gibt mehrere wichtige Faktoren, die Sie berücksichtigen sollten, damit Sie die richtige Pumpe wählen. Zunächst ist zu bestimmen, wie viel Wasser Sie benötigen und wie tief Ihr Brunnen oder Behälter ist. Das ist wichtig, weil nicht jede Pumpe für jede Tiefe und jeden Wasserbedarf geeignet ist."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Außerdem ist die Wasserqualität zu beachten, und ob die Pumpe zum Beispiel für die Förderung von Brackwasser oder Wasser mit hohem Eisengehalt geeignet ist. Sinnvoll ist auch ein Blick auf den Energieverbrauch der Pumpe und darauf, ob sie die Energieeffizienznormen erfüllt. Zudem ist die Geräuschentwicklung der Pumpe ein wichtiger Aspekt, wenn sie in der Nähe von Wohnräumen installiert wird."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "87eb0e33bc11",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "fb9029d7125a",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-blokpompen-bg.webp",
+                  "alt": "Kreiselpumpengehäuse mit Laufradschaufeln für Normpumpen",
+                  "width": 1280,
+                  "height": 720
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "e5fd0bf526ad",
+        "component": "section_row",
+        "layout": "carousel",
+        "columns": [
+          {
+            "_uid": "4170f644e822",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "8c8fb107b72b",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Robert von IPG: unverzichtbare Unterstützung für Wasseraufbereitungsprojekte."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Projektleiter schätze ich die fachkundige Unterstützung von Robert von IPG. Sein Einsatz für Wasseraufbereitungsprojekte und seine schnelle Reaktion bei Störungen sind von unschätzbarem Wert. Mit Robert haben wir einen Experten für Pumpentechnik und einen verlässlichen Berater für unseren Betrieb."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Projektleiter bei einer Wasseraufbereitungsanlage."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "15b8b3e8e03d",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "a9269056a7d3",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG: ein zuverlässiger Partner bei Einkauf und Optimierung!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Einkaufsleiter schätze ich IPG als Partner, der unseren Bedarf versteht und schnell liefert. Fachwissen und Beratung von IPG haben unsere Prozesse optimiert."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Einkaufsleiter bei einem Lebensmittelhersteller."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "067c17a6ee70",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "d94048470997",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG ist ein unverzichtbarer Partner für Produktionseffizienz!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Produktionsleiter schätze ich IPG als unverzichtbaren Partner für Effizienz und Verfügbarkeit. Das fachkundige Team hat uns mit den passenden Pumpen und mit Service für eine gleichbleibende Produktion unterstützt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Projektleiter bei einer Papierfabrik."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "83a6596f7de0",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "5d41068c1254",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Zuverlässige und langlebige Normpumpen für den intensiven Einsatz!",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Normpumpen von IPG erfüllen alle erforderlichen Normen und arbeiten in unserem Wassermanagementsystem hervorragend. Sie sind langlebig und halten hohen Belastungen gut stand, was für unsere Betriebskontinuität wesentlich ist."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Operations Manager bei einem Wasseraufbereitungsunternehmen in den Niederlanden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "516e518b3474",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "067939f03fe9",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Einfache Wartung und niedrige Betriebskosten!",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG liefert Normpumpen, die nicht nur die Industriestandards erfüllen, sondern auch wenig Wartung erfordern. Das hilft uns, die Betriebskosten niedrig zu halten und die Effizienz zu steigern."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Technischer Betriebsleiter bei einem Trinkwasserunternehmen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "bc245f5dff29",
+        "component": "cta_band",
+        "heading": "Unverbindlich Kontakt aufnehmen",
+        "text": "Wir beraten Sie gern zu Auswahl, Ersatz und Revision Ihrer Pumpe.",
+        "button_label": "Kontakt aufnehmen",
+        "button_link": {
+          "fieldtype": "multilink",
+          "linktype": "url",
+          "url": "/kontakt",
+          "cached_url": "/kontakt"
+        },
+        "variant": "primary"
+      },
+      {
+        "_uid": "a93581316bdf",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Normpumpen (Waternorm-Pumpen) sind nach internationalen Normen ausgelegt, um die Anforderungen von Trinkwasseranwendungen und Hygienevorschriften zu erfüllen."
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Wasseraufbereitung",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/branchen/wasseraufbereitung",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Lebensmittelindustrie",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/branchen/lebensmittelindustrie",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Haushalt",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/branchen/haushalt",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Prozesswasser",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/anwendungen/prozesswasser",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Trinkwasser",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/anwendungen/trinkwasser",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "HLK (Heizung, Lüftung, Klima)",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/branchen/gebaeudetechnik-hvac",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Normpumpen nach den geltenden Normen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Normpumpen sind wichtige Hilfsmittel zum Fördern von Wasser aus Brunnen, Behältern und anderen Wasserquellen. Diese Pumpen sind so ausgelegt, dass sie bestimmte Normen und Vorschriften erfüllen, um Wasser sicher und effizient zu fördern. Dieser Abschnitt geht ausführlich auf die verschiedenen Arten von Normpumpen ein, darunter Kreiselpumpen, Tauchmotorpumpen und Strahlpumpen. Außerdem werden die wichtigsten Merkmale und Vorteile von Normpumpen behandelt sowie die Faktoren, die die Leistung dieser Pumpen beeinflussen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ob Sie eine zuverlässige Normpumpe für einen privaten Brunnen oder eine professionelle Pumpe für eine größere Wasserquelle suchen: Dieser Abschnitt liefert die Informationen, die Sie für eine fundierte Entscheidung benötigen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Erfüllt strenge Normen und Vorschriften",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Normpumpen sind so ausgelegt, dass sie strenge Normen und Vorschriften erfüllen, was ein sicheres und effizientes Pumpen von Wasser gewährleistet."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Geeignet für vielfältige Anwendungen",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Geeignet sowohl für private Wasserbrunnen als auch für professionelle Wasserquellen und erfüllt die Anforderungen unterschiedlicher Wasserbedarfe."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Hochwertige Werkstoffe",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Gefertigt aus hochwertigen Werkstoffen, die den einschlägigen Wassernormen entsprechen, was die Zuverlässigkeit und Lebensdauer der Pumpe erhöht."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Energieeffizient und leise",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ausgelegt für Energieeffizienz und geringe Geräuschentwicklung, damit auch für den Einsatz in der Nähe von Wohnräumen geeignet."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Wann kommen Kreiselpumpen für die Normung nach Wassernorm in Betracht?"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kreiselpumpen gehören zu den am häufigsten eingesetzten Normpumpen und werden für ein breites Spektrum an Anwendungen verwendet. Um für die Normung nach Wassernorm in Betracht zu kommen, müssen Kreiselpumpen eine Reihe spezifischer Anforderungen und Normen in Bezug auf Werkstoffe, Abmessungen, Leistung und Sicherheit erfüllen. Dazu gehören zum Beispiel die maximale Förderhöhe, die Durchflussgeschwindigkeit und der Wirkungsgrad der Pumpe. Durch die Erfüllung dieser Anforderungen können Kreiselpumpen zertifiziert werden und für den Einsatz in Trinkwasserinstallationen und anderen Anwendungen in Betracht kommen, bei denen die Wasserqualität von wesentlicher Bedeutung ist. Es ist daher wichtig, bei der Wahl einer Kreiselpumpe auf diese Normung zu achten und sicherzustellen, dass sie für die gewünschte Anwendung geeignet ist."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Worauf sollten Sie bei der Wahl einer Normpumpe für den Hausgebrauch achten?"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Es gibt mehrere wichtige Faktoren, die Sie berücksichtigen sollten, damit Sie die richtige Pumpe wählen. Zunächst ist zu bestimmen, wie viel Wasser Sie benötigen und wie tief Ihr Brunnen oder Behälter ist. Das ist wichtig, weil nicht jede Pumpe für jede Tiefe und jeden Wasserbedarf geeignet ist."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Außerdem ist die Wasserqualität zu beachten, und ob die Pumpe zum Beispiel für die Förderung von Brackwasser oder Wasser mit hohem Eisengehalt geeignet ist. Sinnvoll ist auch ein Blick auf den Energieverbrauch der Pumpe und darauf, ob sie die Energieeffizienznormen erfüllt. Zudem ist die Geräuschentwicklung der Pumpe ein wichtiger Aspekt, wenn sie in der Nähe von Wohnräumen installiert wird."
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "5af1d0a6ed00",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-blokpompen-bg.webp",
-          "alt": "Kreiselpumpengehäuse mit Laufradschaufeln für Normpumpen",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      {
-        "_uid": "c4bf22faec3f",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Robert von IPG: unverzichtbare Unterstützung für Wasseraufbereitungsprojekte."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Projektleiter schätze ich die fachkundige Unterstützung von Robert von IPG. Sein Einsatz für Wasseraufbereitungsprojekte und seine schnelle Reaktion bei Störungen sind von unschätzbarem Wert. Mit Robert haben wir einen Experten für Pumpentechnik und einen verlässlichen Berater für unseren Betrieb."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Projektleiter bei einer Wasseraufbereitungsanlage."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG: ein zuverlässiger Partner bei Einkauf und Optimierung!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Einkaufsleiter schätze ich IPG als Partner, der unseren Bedarf versteht und schnell liefert. Fachwissen und Beratung von IPG haben unsere Prozesse optimiert."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Einkaufsleiter bei einem Lebensmittelhersteller."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG ist ein unverzichtbarer Partner für Produktionseffizienz!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Produktionsleiter schätze ich IPG als unverzichtbaren Partner für Effizienz und Verfügbarkeit. Das fachkundige Team hat uns mit den passenden Pumpen und mit Service für eine gleichbleibende Produktion unterstützt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Projektleiter bei einer Papierfabrik."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zuverlässige und langlebige Normpumpen für den intensiven Einsatz!",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Normpumpen von IPG erfüllen alle erforderlichen Normen und arbeiten in unserem Wassermanagementsystem hervorragend. Sie sind langlebig und halten hohen Belastungen gut stand, was für unsere Betriebskontinuität wesentlich ist."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Operations Manager bei einem Wasseraufbereitungsunternehmen in den Niederlanden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Einfache Wartung und niedrige Betriebskosten!",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG liefert Normpumpen, die nicht nur die Industriestandards erfüllen, sondern auch wenig Wartung erfordern. Das hilft uns, die Betriebskosten niedrig zu halten und die Effizienz zu steigern."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Technischer Betriebsleiter bei einem Trinkwasserunternehmen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Unverbindlich Kontakt aufnehmen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -608,126 +856,166 @@
         }
       },
       {
-        "_uid": "39390fc31cc4",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-saer-saer-irx.webp",
-          "alt": "Kompakte SAER-Kreiselpumpe aus dem Sortiment führender Marken",
-          "width": 1024,
-          "height": 1024
-        }
+        "_uid": "e7de9d870da9",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "8c926c6f499a",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "cadbf1b0f0fe",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-saer-saer-irx.webp",
+                  "alt": "Kompakte SAER-Kreiselpumpe aus dem Sortiment führender Marken",
+                  "width": 1024,
+                  "height": 1024
+                }
+              },
+              {
+                "_uid": "65f85fe735d3",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über SAER-Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "601b92f1168b",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "8ec48c3bfce8",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-lowara-lowara-she.webp",
+                  "alt": "Blaue Lowara-Normpumpe für hygienische Anwendungen",
+                  "width": 300,
+                  "height": 253
+                }
+              },
+              {
+                "_uid": "0fe843e8e576",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Lowara-Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "e6177dc08e56",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "7326a21b4902",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-grundfos-grundfos-blokpomp.webp",
+                  "alt": "Schwarze Grundfos-Kreiselpumpe aus der Chemienormpumpen- und Normpumpen-Baureihe",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "5b62731183e3",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Grundfos-Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "db29d4e2b507",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "27818cce622d",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-sulzer-sulzer-iso.webp",
+                  "alt": "Robuste Sulzer-Normpumpe mit ISO/DIN-Kompatibilität",
+                  "width": 827,
+                  "height": 827
+                }
+              },
+              {
+                "_uid": "e0fe1da63b65",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Sulzer-Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "cfbef6e17ecd",
+        "_uid": "94ff00b5d5cd",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über SAER-Pumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "fbe1004f2ede",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-lowara-lowara-she.webp",
-          "alt": "Blaue Lowara-Normpumpe für hygienische Anwendungen",
-          "width": 300,
-          "height": 253
-        }
-      },
-      {
-        "_uid": "afd561915b57",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Lowara-Pumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "37c27b89372c",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-grundfos-grundfos-blokpomp.webp",
-          "alt": "Schwarze Grundfos-Kreiselpumpe aus der Chemienormpumpen- und Normpumpen-Baureihe",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "de36f2dca81d",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Grundfos-Pumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "19c4ec2ff0f1",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-sulzer-sulzer-iso.webp",
-          "alt": "Robuste Sulzer-Normpumpe mit ISO/DIN-Kompatibilität",
-          "width": 827,
-          "height": 827
-        }
-      },
-      {
-        "_uid": "361cf3d0b86a",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Sulzer-Pumpen lesen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -784,7 +1072,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Sie benötigen Hilfe bei der Auswahl der passenden Pumpe? Die Experten von IPG stehen Ihnen zur Verfügung. Nehmen Sie unverbindlich Kontakt auf unter [[PLATZHALTER: Telefon]] oder [[PLATZHALTER: E-Mail]]."
+                  "text": "Sie benötigen Hilfe bei der Auswahl der passenden Pumpe? Die Experten von IPG stehen Ihnen zur Verfügung. Nehmen Sie unverbindlich Kontakt auf unter +31 251 222 566 oder info@industrialpumps.nl."
                 }
               ]
             }
@@ -792,55 +1080,74 @@
         }
       },
       {
-        "_uid": "76f05900ee54",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-end-suction-3.webp",
-          "alt": "Industrielle Normkreiselpumpe, installiert in einer Pumpenanlage",
-          "width": 1280,
-          "height": 853
-        }
-      },
-      {
-        "_uid": "609f6a4aa488",
-        "component": "faq",
-        "heading": "Häufige Fragen",
-        "items": [
+        "_uid": "2193322b42a7",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
           {
-            "_uid": "31eccdd4d1ea",
-            "component": "faq_item",
-            "question": "Was ist eine Normpumpe (Waternormpumpe)?",
-            "answer": "Eine Normpumpe ist eine Kreiselpumpe, die der Norm DIN 24255 / EN 733 entspricht. Diese Norm legt Abmessungen, Leistungsdaten und Anschlussmaße fest, sodass Normpumpen unabhängig von der Marke austauschbar sind. Das macht sie sehr geeignet für Standardanwendungen im Wassertransport und in industriellen Prozessen."
+            "_uid": "eaa25b3e7768",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "e9dfd1da6f83",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-end-suction-3.webp",
+                  "alt": "Industrielle Normkreiselpumpe, installiert in einer Pumpenanlage",
+                  "width": 1280,
+                  "height": 853
+                }
+              }
+            ]
           },
           {
-            "_uid": "a4e31b00ec21",
-            "component": "faq_item",
-            "question": "Wofür werden Normpumpen eingesetzt?",
-            "answer": "Normpumpen werden häufig in Anlagen für Trinkwasser, Bewässerung, Heizungssysteme, Kühlsysteme und in industriellen Anwendungen eingesetzt, in denen eine zuverlässige und genormte Pumpenlösung benötigt wird."
-          },
-          {
-            "_uid": "f2f02aa953da",
-            "component": "faq_item",
-            "question": "Welche Vorteile haben Normpumpen?",
-            "answer": "Normpumpen sind so ausgelegt, dass sie bestimmte Normen für Trinkwasserinstallationen erfüllen, was bedeutet, dass sie für den Einsatz mit Trinkwasser sicher und zuverlässig sind. Außerdem sind Normpumpen häufig energieeffizienter und haben eine höhere Lebensdauer als nicht genormte Pumpen."
-          },
-          {
-            "_uid": "07ac46870fdc",
-            "component": "faq_item",
-            "question": "Welche Vorteile hat eine genormte Pumpe wie die Normpumpe?",
-            "answer": "Der große Vorteil ist die Austauschbarkeit: Bei einem Defekt oder Austausch kann einfach eine Pumpe einer anderen Marke eingebaut werden, ohne Rohrleitungen oder Fundament anzupassen. Auch die Verfügbarkeit von Ersatzteilen ist oft besser, was Stillstandszeiten auf ein Minimum begrenzt."
-          },
-          {
-            "_uid": "0fcd5388c021",
-            "component": "faq_item",
-            "question": "Wie wähle ich die richtige Normpumpe aus?",
-            "answer": "Die Wahl hängt von Faktoren wie Förderstrom, Förderhöhe, Fördermedium (zum Beispiel sauberes Wasser oder leicht verunreinigte Flüssigkeit) und Betriebstemperatur ab. Ein Fachmann kann bei der Auswahl der passenden Ausführung und der Werkstoffe helfen."
-          },
-          {
-            "_uid": "86919184ecf8",
-            "component": "faq_item",
-            "question": "Was ist der Unterschied zwischen einer Normpumpe und einer normalen Kreiselpumpe?",
-            "answer": "Beide arbeiten nach demselben Funktionsprinzip, doch Normpumpen sind speziell nach genormten Abmessungen ausgelegt. Das bedeutet, dass sie sich einfacher austauschen lassen und mit anderen genormten Systemen kompatibel sind."
+            "_uid": "5fd031fe9075",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ce4371c49a5f",
+                "component": "faq",
+                "heading": "Häufige Fragen",
+                "items": [
+                  {
+                    "_uid": "00ad2d13cec8",
+                    "component": "faq_item",
+                    "question": "Was ist eine Normpumpe (Waternormpumpe)?",
+                    "answer": "Eine Normpumpe ist eine Kreiselpumpe, die der Norm DIN 24255 / EN 733 entspricht. Diese Norm legt Abmessungen, Leistungsdaten und Anschlussmaße fest, sodass Normpumpen unabhängig von der Marke austauschbar sind. Das macht sie sehr geeignet für Standardanwendungen im Wassertransport und in industriellen Prozessen."
+                  },
+                  {
+                    "_uid": "f38a82a547ba",
+                    "component": "faq_item",
+                    "question": "Wofür werden Normpumpen eingesetzt?",
+                    "answer": "Normpumpen werden häufig in Anlagen für Trinkwasser, Bewässerung, Heizungssysteme, Kühlsysteme und in industriellen Anwendungen eingesetzt, in denen eine zuverlässige und genormte Pumpenlösung benötigt wird."
+                  },
+                  {
+                    "_uid": "b0ea932eccc0",
+                    "component": "faq_item",
+                    "question": "Welche Vorteile haben Normpumpen?",
+                    "answer": "Normpumpen sind so ausgelegt, dass sie bestimmte Normen für Trinkwasserinstallationen erfüllen, was bedeutet, dass sie für den Einsatz mit Trinkwasser sicher und zuverlässig sind. Außerdem sind Normpumpen häufig energieeffizienter und haben eine höhere Lebensdauer als nicht genormte Pumpen."
+                  },
+                  {
+                    "_uid": "9202eab9f631",
+                    "component": "faq_item",
+                    "question": "Welche Vorteile hat eine genormte Pumpe wie die Normpumpe?",
+                    "answer": "Der große Vorteil ist die Austauschbarkeit: Bei einem Defekt oder Austausch kann einfach eine Pumpe einer anderen Marke eingebaut werden, ohne Rohrleitungen oder Fundament anzupassen. Auch die Verfügbarkeit von Ersatzteilen ist oft besser, was Stillstandszeiten auf ein Minimum begrenzt."
+                  },
+                  {
+                    "_uid": "ae33e664375c",
+                    "component": "faq_item",
+                    "question": "Wie wähle ich die richtige Normpumpe aus?",
+                    "answer": "Die Wahl hängt von Faktoren wie Förderstrom, Förderhöhe, Fördermedium (zum Beispiel sauberes Wasser oder leicht verunreinigte Flüssigkeit) und Betriebstemperatur ab. Ein Fachmann kann bei der Auswahl der passenden Ausführung und der Werkstoffe helfen."
+                  },
+                  {
+                    "_uid": "133487079bfd",
+                    "component": "faq_item",
+                    "question": "Was ist der Unterschied zwischen einer Normpumpe und einer normalen Kreiselpumpe?",
+                    "answer": "Beide arbeiten nach demselben Funktionsprinzip, doch Normpumpen sind speziell nach genormten Abmessungen ausgelegt. Das bedeutet, dass sie sich einfacher austauschen lassen und mit anderen genormten Systemen kompatibel sind."
+                  }
+                ]
+              }
+            ]
           }
         ]
       }

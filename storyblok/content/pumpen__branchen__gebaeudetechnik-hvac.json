@@ -15,247 +15,395 @@
     "topic_kind": "pumpentyp",
     "body": [
       {
-        "_uid": "f8171a60c059",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "HVAC-Pumpen werden eingesetzt, um Wasser oder Kühlflüssigkeit in Heizungs-, Lüftungs- und Klimaanlagen zu bewegen. Sie sind je nach Anwendung in verschiedenen Arten und Größen erhältlich."
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
+        "_uid": "e30d14279e2e",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "89254dbff753",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "116abbcd11ef",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "Inlinepumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/pumpentypen/inlinepumpen",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
+                          "text": "HVAC-Pumpen werden eingesetzt, um Wasser oder Kühlflüssigkeit in Heizungs-, Lüftungs- und Klimaanlagen zu bewegen. Sie sind je nach Anwendung in verschiedenen Arten und Größen erhältlich."
                         }
                       ]
                     }
                   ]
-                },
-                {
-                  "type": "list_item",
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "862cf49a1a7e",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "c8fb9dd60a51",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
                     {
-                      "type": "paragraph",
+                      "type": "bullet_list",
                       "content": [
                         {
-                          "type": "text",
-                          "text": "Druckerhöhungsanlagen",
-                          "marks": [
+                          "type": "list_item",
+                          "content": [
                             {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/pumpentypen/druckerhoehungsanlagen",
-                                "linktype": "url"
-                              }
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Inlinepumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/pumpentypen/inlinepumpen",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Druckerhöhungsanlagen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/pumpentypen/druckerhoehungsanlagen",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Trinkwasserpumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/anwendungen/trinkwasser",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
                             }
                           ]
                         }
                       ]
                     }
                   ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Trinkwasserpumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/anwendungen/trinkwasser",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
                 }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Heating, Ventilation and Air Conditioning: Pumpen im HVAC-System"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "HVAC steht für Heating, Ventilation and Air Conditioning (Heizung, Lüftung und Klimatisierung) und ist ein Sammelbegriff für Systeme, die für Heizung, Lüftung und Klimatisierung eines Gebäudes zuständig sind. Ziel von HVAC-Systemen ist es, das Raumklima eines Gebäudes für die Nutzer angenehm und gesund zu halten."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Das Heizungssystem des HVAC nutzt Heizelemente wie Heizkörper oder Fußbodenheizung, um Wärme zu erzeugen und zu verteilen. Das Lüftungssystem sorgt für den Austausch der Raumluft, indem verbrauchte Luft abgeführt und frische Luft zugeführt wird. Das Klimatisierungssystem regelt Temperatur und Luftfeuchtigkeit der Raumluft."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Eine zentrale Rolle für die Funktion des HVAC-Systems spielen die dabei eingesetzten Pumpen. Sie werden benötigt, um das Wasser im Heizungssystem umzuwälzen, den Druckunterschied zwischen Heizung und Leitungssystem zu regeln, den Druck im Leitungssystem zu erhöhen und Wärme zu transportieren."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Gleichmäßige Wärmeverteilung",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Umwälzpumpen in HVAC-Systemen sorgen für eine effiziente und gleichmäßige Verteilung der Wärme im gesamten Gebäude und tragen so zu einem angenehmen Raumklima bei."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zuverlässige Druckregelung",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Druckhalte- und Druckerhöhungspumpen regeln und erhöhen den Druck im Leitungssystem. Damit wird ein stabiler und wirksamer Betrieb des Heizungssystems unterstützt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Energieeffizienz",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Wärmepumpen nutzen Umgebungsluft oder Erdwärme, um Wasser zu erwärmen. Das ist eine nachhaltige und kosteneffiziente Lösung sowohl für Heizung als auch für Klimatisierung."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Pumpenarten für HVAC"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Für HVAC kommen verschiedene Pumpenarten in Frage, darunter Umwälzpumpen, Druckhaltepumpen, Druckerhöhungspumpen und Wärmepumpen. Umwälzpumpen sorgen für die Zirkulation des Wassers im Heizungssystem, sodass die Wärme der Heizelemente gut verteilt wird. Druckhaltepumpen regeln den Druckunterschied zwischen Heizung und Leitungssystem."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Druckerhöhungspumpen erhöhen den Druck im Leitungssystem, sodass das Wasser mit mehr Kraft durch das System strömen kann. Wärmepumpen sind eine energieeffiziente Lösung für Heizung und Klimatisierung: Sie entnehmen Wärme aus der Umgebungsluft oder dem Erdreich und nutzen sie, um das Wasser im Heizungssystem zu erwärmen."
-                }
-              ]
-            }
-          ]
-        }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "2b2c92f6a8d5",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/segmenten-hvac-3.webp",
-          "alt": "HVAC-Pumpen | Industrial Pump Group",
-          "width": 1000,
-          "height": 667
-        }
+        "_uid": "b004d44da013",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "84cf1d0f28c8",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "83e4b3135f8b",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Heating, Ventilation and Air Conditioning: Pumpen im HVAC-System"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "4d1c57c566f9",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "baee173c60c4",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "HVAC steht für Heating, Ventilation and Air Conditioning (Heizung, Lüftung und Klimatisierung) und ist ein Sammelbegriff für Systeme, die für Heizung, Lüftung und Klimatisierung eines Gebäudes zuständig sind. Ziel von HVAC-Systemen ist es, das Raumklima eines Gebäudes für die Nutzer angenehm und gesund zu halten."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Das Heizungssystem des HVAC nutzt Heizelemente wie Heizkörper oder Fußbodenheizung, um Wärme zu erzeugen und zu verteilen. Das Lüftungssystem sorgt für den Austausch der Raumluft, indem verbrauchte Luft abgeführt und frische Luft zugeführt wird. Das Klimatisierungssystem regelt Temperatur und Luftfeuchtigkeit der Raumluft."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Eine zentrale Rolle für die Funktion des HVAC-Systems spielen die dabei eingesetzten Pumpen. Sie werden benötigt, um das Wasser im Heizungssystem umzuwälzen, den Druckunterschied zwischen Heizung und Leitungssystem zu regeln, den Druck im Leitungssystem zu erhöhen und Wärme zu transportieren."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "6ea36b132438",
+        "_uid": "0e0ac5a04ddf",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "37a6cc845a13",
+            "component": "section_column",
+            "icon": "fa-building",
+            "content": [
+              {
+                "_uid": "f38da4fa9e7d",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Gleichmäßige Wärmeverteilung",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Umwälzpumpen in HVAC-Systemen sorgen für eine effiziente und gleichmäßige Verteilung der Wärme im gesamten Gebäude und tragen so zu einem angenehmen Raumklima bei."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "522c3c64f48f",
+            "component": "section_column",
+            "icon": "fa-tire-pressure-warning",
+            "content": [
+              {
+                "_uid": "32004845ae7b",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Zuverlässige Druckregelung",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Druckhalte- und Druckerhöhungspumpen regeln und erhöhen den Druck im Leitungssystem. Damit wird ein stabiler und wirksamer Betrieb des Heizungssystems unterstützt."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "5054fa6d0f49",
+            "component": "section_column",
+            "icon": "fa-chart-network",
+            "content": [
+              {
+                "_uid": "4303559aa47b",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Energieeffizienz",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Wärmepumpen nutzen Umgebungsluft oder Erdwärme, um Wasser zu erwärmen. Das ist eine nachhaltige und kosteneffiziente Lösung sowohl für Heizung als auch für Klimatisierung."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "7b1ad54653ee",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "fd355fef748a",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "5559e265a433",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Pumpenarten für HVAC"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Für HVAC kommen verschiedene Pumpenarten in Frage, darunter Umwälzpumpen, Druckhaltepumpen, Druckerhöhungspumpen und Wärmepumpen. Umwälzpumpen sorgen für die Zirkulation des Wassers im Heizungssystem, sodass die Wärme der Heizelemente gut verteilt wird. Druckhaltepumpen regeln den Druckunterschied zwischen Heizung und Leitungssystem."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Druckerhöhungspumpen erhöhen den Druck im Leitungssystem, sodass das Wasser mit mehr Kraft durch das System strömen kann. Wärmepumpen sind eine energieeffiziente Lösung für Heizung und Klimatisierung: Sie entnehmen Wärme aus der Umgebungsluft oder dem Erdreich und nutzen sie, um das Wasser im Heizungssystem zu erwärmen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "3232d43cae1c",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "6900e2566e3f",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/segmenten-hvac-3.webp",
+                  "alt": "HVAC-Pumpen | Industrial Pump Group",
+                  "width": 1000,
+                  "height": 667
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "96f63d64e5da",
         "component": "rich_text",
         "content": {
           "type": "doc",
@@ -276,227 +424,308 @@
         }
       },
       {
-        "_uid": "abbf0081ff24",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-aeb.webp",
-          "alt": "Kundenlogo AEB",
-          "width": 387,
-          "height": 241
-        }
+        "_uid": "7d22a951aa25",
+        "component": "logo_carousel",
+        "logos": [
+          {
+            "_uid": "fd282a702d80",
+            "component": "logo_item",
+            "name": "AEB Amsterdam",
+            "image": {
+              "filename": "/img/clients/aeb-amsterdam.webp",
+              "alt": "AEB Amsterdam",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "9aa1b2d47919",
+            "component": "logo_item",
+            "name": "AkzoNobel",
+            "image": {
+              "filename": "/img/clients/akzonobel.webp",
+              "alt": "AkzoNobel",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "48d3751b2afc",
+            "component": "logo_item",
+            "name": "HVC",
+            "image": {
+              "filename": "/img/clients/hvc.webp",
+              "alt": "HVC",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "d308dbb3e17f",
+            "component": "logo_item",
+            "name": "Petrogas",
+            "image": {
+              "filename": "/img/clients/petrogas.webp",
+              "alt": "Petrogas",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "13504c08015f",
+            "component": "logo_item",
+            "name": "Tata Steel",
+            "image": {
+              "filename": "/img/clients/tata-steel.webp",
+              "alt": "Tata Steel",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "da40352ade6c",
+            "component": "logo_item",
+            "name": "Waternet",
+            "image": {
+              "filename": "/img/clients/waternet.webp",
+              "alt": "Waternet",
+              "width": 280,
+              "height": 140
+            }
+          }
+        ]
       },
       {
-        "_uid": "5c66ad14e92c",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-akzonobel.webp",
-          "alt": "Kundenlogo AkzoNobel",
-          "width": 387,
-          "height": 241
-        }
+        "_uid": "05d624302a59",
+        "component": "section_row",
+        "layout": "carousel",
+        "columns": [
+          {
+            "_uid": "fc12d26551ce",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ea4761800941",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Zuverlässiger Partner für HVAC-Lösungen in hoher Qualität!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Pumpen von IPG sind von ausgezeichneter Qualität und eignen sich gut für HVAC-Anwendungen. Der Service ist schnell und professionell, was für unsere Anlagen wesentlich ist."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Technischer Verwalter."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "7a0c7f209237",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "462107f74f44",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Hervorragende Leistung und Energieeffizienz!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG liefert uns energiesparende Pumpen, die gut zu unseren HVAC-Systemen passen. Das Team denkt bei den besten Lösungen mit und sorgt für einen effizienten und reibungslosen Ablauf."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Projektleiter HVAC bei einem Facility-Services-Dienstleister."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "400bb51d9a35",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "72c943e6538a",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Professionelle Beratung und hohe Produktqualität!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG bietet fachkundige Beratung und zuverlässige Produkte, die unsere technischen Anforderungen erfüllen. Die Pumpen lassen sich einfach in unsere Systeme integrieren und verbessern die Leistung deutlich."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Leiter Technischer Dienst."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "14936d27c2d7",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "48047816f675",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Schnelle Abstimmung und hervorragende Unterstützung!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Zusammenarbeit mit IPG verläuft sehr reibungslos. Die Pumpen sind zuverlässig, und die technische Unterstützung ist stets erreichbar und effizient, auch bei dringenden Projekten."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Operations Manager bei einem Unternehmen für Klimatechnik."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "b7d71b6a792c",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-hvc.webp",
-          "alt": "Kundenlogo HVC",
-          "width": 387,
-          "height": 241
-        }
+        "_uid": "a70580dc1af2",
+        "component": "cta_band",
+        "heading": "Unverbindlich Kontakt aufnehmen",
+        "text": "Wir beraten Sie gern zu Auswahl, Ersatz und Revision Ihrer Pumpe.",
+        "button_label": "Kontakt aufnehmen",
+        "button_link": {
+          "fieldtype": "multilink",
+          "linktype": "url",
+          "url": "/kontakt",
+          "cached_url": "/kontakt"
+        },
+        "variant": "primary"
       },
       {
-        "_uid": "f43c3e7ab393",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-petrogas.webp",
-          "alt": "Kundenlogo Petrogas",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "056832876a65",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-tatasteel.webp",
-          "alt": "Kundenlogo Tata Steel",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "fda6408f2241",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-waternet.webp",
-          "alt": "Kundenlogo Waternet",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "5d281cc820d5",
+        "_uid": "a3bb3717a07d",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zuverlässiger Partner für HVAC-Lösungen in hoher Qualität!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Pumpen von IPG sind von ausgezeichneter Qualität und eignen sich gut für HVAC-Anwendungen. Der Service ist schnell und professionell, was für unsere Anlagen wesentlich ist."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Technischer Verwalter."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Hervorragende Leistung und Energieeffizienz!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG liefert uns energiesparende Pumpen, die gut zu unseren HVAC-Systemen passen. Das Team denkt bei den besten Lösungen mit und sorgt für einen effizienten und reibungslosen Ablauf."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Projektleiter HVAC bei einem Facility-Services-Dienstleister."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Professionelle Beratung und hohe Produktqualität!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG bietet fachkundige Beratung und zuverlässige Produkte, die unsere technischen Anforderungen erfüllen. Die Pumpen lassen sich einfach in unsere Systeme integrieren und verbessern die Leistung deutlich."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Leiter Technischer Dienst."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Schnelle Abstimmung und hervorragende Unterstützung!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Zusammenarbeit mit IPG verläuft sehr reibungslos. Die Pumpen sind zuverlässig, und die technische Unterstützung ist stets erreichbar und effizient, auch bei dringenden Projekten."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Operations Manager bei einem Unternehmen für Klimatechnik."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 4
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Unverbindlich Kontakt aufnehmen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -674,95 +903,129 @@
         }
       },
       {
-        "_uid": "f829cceae2ec",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-inline.webp",
-          "alt": "Inlinepumpen für HVAC | Industrial Pump Group",
-          "width": 200,
-          "height": 500
-        }
+        "_uid": "46b45bc989d4",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "b3db2436f4a3",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "7626cd51ea2d",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-inline.webp",
+                  "alt": "Inlinepumpen für HVAC | Industrial Pump Group",
+                  "width": 200,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "26613acae893",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Inlinepumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "33f390b1c8f7",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "f16305a0c78f",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-hydrofoor-unit.webp",
+                  "alt": "Druckerhöhungsanlagen für HVAC | Industrial Pump Group",
+                  "width": 424,
+                  "height": 416
+                }
+              },
+              {
+                "_uid": "0ec5de397e96",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Druckerhöhungsanlagen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "d8d59f3c5117",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "11e046c94d7f",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/toepassingen-drinkwater.webp",
+                  "alt": "Trinkwasseranwendungen für HVAC | Industrial Pump Group",
+                  "width": 424,
+                  "height": 416
+                }
+              },
+              {
+                "_uid": "dbf3270950fc",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Trinkwasseranwendungen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "87408a2e7aeb",
+        "_uid": "1aceca2f619d",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Inlinepumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "ab4543e66043",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-hydrofoor-unit.webp",
-          "alt": "Druckerhöhungsanlagen für HVAC | Industrial Pump Group",
-          "width": 424,
-          "height": 416
-        }
-      },
-      {
-        "_uid": "13254d0ee844",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Druckerhöhungsanlagen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "a869bc9d41bd",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/toepassingen-drinkwater.webp",
-          "alt": "Trinkwasseranwendungen für HVAC | Industrial Pump Group",
-          "width": 424,
-          "height": 416
-        }
-      },
-      {
-        "_uid": "84b93150bdde",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Trinkwasseranwendungen lesen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -819,7 +1082,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Bei Fragen zu Pumpenanwendungen im HVAC-Bereich oder für ein Angebot können Sie unverbindlich Kontakt mit IPG aufnehmen: [[PLATZHALTER: Telefon]] oder [[PLATZHALTER: E-Mail]]."
+                  "text": "Bei Fragen zu Pumpenanwendungen im HVAC-Bereich oder für ein Angebot können Sie unverbindlich Kontakt mit IPG aufnehmen: +31 251 222 566 oder info@industrialpumps.nl."
                 }
               ]
             }
@@ -827,43 +1090,62 @@
         }
       },
       {
-        "_uid": "931e27db80c3",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/segmenten-hvac-2.webp",
-          "alt": "Häufig gestellte Fragen zu HVAC-Pumpen | Industrial Pump Group",
-          "width": 1000,
-          "height": 631
-        }
-      },
-      {
-        "_uid": "c20c77d3f3a9",
-        "component": "faq",
-        "heading": "Häufige Fragen",
-        "items": [
+        "_uid": "03ade4f02b85",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
           {
-            "_uid": "363b72aef711",
-            "component": "faq_item",
-            "question": "Welche Pumpenarten werden für HVAC eingesetzt?",
-            "answer": "Für HVAC werden verschiedene Pumpenarten eingesetzt, darunter Umwälzpumpen, Druckpumpen, Wärmepumpen und Membranpumpen. Jede Pumpe hat bestimmte Eigenschaften und Einsatzgebiete, und die Wahl der richtigen Pumpe hängt von den Anforderungen des jeweiligen HVAC-Systems ab."
+            "_uid": "7346c10255b4",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "482ad2485246",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/segmenten-hvac-2.webp",
+                  "alt": "Häufig gestellte Fragen zu HVAC-Pumpen | Industrial Pump Group",
+                  "width": 1000,
+                  "height": 631
+                }
+              }
+            ]
           },
           {
-            "_uid": "6e0e7db9ff0f",
-            "component": "faq_item",
-            "question": "Warum ist die Wahl der richtigen Pumpen für HVAC wichtig?",
-            "answer": "Die Wahl der richtigen Pumpen für HVAC ist wichtig, weil sie für die Funktion des Systems eine wichtige Rolle spielen. Eine falsche Pumpenwahl kann zu Problemen führen, etwa zu unangenehmen Temperaturen, schlechter Luftqualität und hohen Energiekosten. Außerdem kann eine ungeeignete Pumpe das HVAC-System schneller verschleißen und zu Austausch oder Reparatur führen."
-          },
-          {
-            "_uid": "0a14cf7620e4",
-            "component": "faq_item",
-            "question": "Wie beeinflussen die Pumpen die Energieeffizienz des HVAC-Systems?",
-            "answer": "Die für HVAC eingesetzten Pumpen wirken sich direkt auf die Energieeffizienz des Systems aus. Sie sorgen dafür, dass das Wasser im Heizungssystem zirkuliert, und regeln den Druckunterschied im Leitungssystem. Eine effiziente Pumpe verbraucht weniger Energie und erhöht damit die Energieeffizienz des HVAC-Systems."
-          },
-          {
-            "_uid": "c242324c5947",
-            "component": "faq_item",
-            "question": "Wie oft müssen die Pumpen des HVAC-Systems gewartet werden?",
-            "answer": "Das hängt von den jeweiligen Pumpen und dem HVAC-System ab, in dem sie eingesetzt werden. Im Allgemeinen wird empfohlen, die Pumpen jährlich zu warten. Bei der Wartung können eventuelle Probleme erkannt und behoben werden, und die Pumpen lassen sich für einen möglichst effizienten und wirksamen Betrieb optimieren."
+            "_uid": "973236dd2032",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "348ffed88029",
+                "component": "faq",
+                "heading": "Häufige Fragen",
+                "items": [
+                  {
+                    "_uid": "93794c11487b",
+                    "component": "faq_item",
+                    "question": "Welche Pumpenarten werden für HVAC eingesetzt?",
+                    "answer": "Für HVAC werden verschiedene Pumpenarten eingesetzt, darunter Umwälzpumpen, Druckpumpen, Wärmepumpen und Membranpumpen. Jede Pumpe hat bestimmte Eigenschaften und Einsatzgebiete, und die Wahl der richtigen Pumpe hängt von den Anforderungen des jeweiligen HVAC-Systems ab."
+                  },
+                  {
+                    "_uid": "7e4a90f850ab",
+                    "component": "faq_item",
+                    "question": "Warum ist die Wahl der richtigen Pumpen für HVAC wichtig?",
+                    "answer": "Die Wahl der richtigen Pumpen für HVAC ist wichtig, weil sie für die Funktion des Systems eine wichtige Rolle spielen. Eine falsche Pumpenwahl kann zu Problemen führen, etwa zu unangenehmen Temperaturen, schlechter Luftqualität und hohen Energiekosten. Außerdem kann eine ungeeignete Pumpe das HVAC-System schneller verschleißen und zu Austausch oder Reparatur führen."
+                  },
+                  {
+                    "_uid": "a15f21397a93",
+                    "component": "faq_item",
+                    "question": "Wie beeinflussen die Pumpen die Energieeffizienz des HVAC-Systems?",
+                    "answer": "Die für HVAC eingesetzten Pumpen wirken sich direkt auf die Energieeffizienz des Systems aus. Sie sorgen dafür, dass das Wasser im Heizungssystem zirkuliert, und regeln den Druckunterschied im Leitungssystem. Eine effiziente Pumpe verbraucht weniger Energie und erhöht damit die Energieeffizienz des HVAC-Systems."
+                  },
+                  {
+                    "_uid": "5172c7c05307",
+                    "component": "faq_item",
+                    "question": "Wie oft müssen die Pumpen des HVAC-Systems gewartet werden?",
+                    "answer": "Das hängt von den jeweiligen Pumpen und dem HVAC-System ab, in dem sie eingesetzt werden. Im Allgemeinen wird empfohlen, die Pumpen jährlich zu warten. Bei der Wartung können eventuelle Probleme erkannt und behoben werden, und die Pumpen lassen sich für einen möglichst effizienten und wirksamen Betrieb optimieren."
+                  }
+                ]
+              }
+            ]
           }
         ]
       }

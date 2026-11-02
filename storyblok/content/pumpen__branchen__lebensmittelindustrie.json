@@ -15,341 +15,489 @@
     "topic_kind": "pumpentyp",
     "body": [
       {
-        "_uid": "76706bc8f90b",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Industriepumpen für die Lebensmittelindustrie werden zum Fördern flüssiger und zähflüssiger Lebensmittel wie Milchprodukten, Saucen und Getränken eingesetzt. Hygiene und Genauigkeit sind dabei von großer Bedeutung."
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
+        "_uid": "af173fdaa8f2",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "8e9b654be592",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "eabffc027ef6",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "Kreiselpumpen",
-                          "marks": [
+                          "text": "Industriepumpen für die Lebensmittelindustrie werden zum Fördern flüssiger und zähflüssiger Lebensmittel wie Milchprodukten, Saucen und Getränken eingesetzt. Hygiene und Genauigkeit sind dabei von großer Bedeutung."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "a00febe7c697",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "cef0dac45ce7",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
                             {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/pumpentypen/kreiselpumpen",
-                                "linktype": "url"
-                              }
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Kreiselpumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/pumpentypen/kreiselpumpen",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Exzenterschneckenpumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/pumpentypen/exzenterschneckenpumpen",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Membranpumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/pumpentypen/membranpumpen",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Netzsch-Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/marken/netzsch",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Debem-Pumpen"
+                                }
+                              ]
                             }
                           ]
                         }
                       ]
                     }
                   ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Exzenterschneckenpumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/pumpentypen/exzenterschneckenpumpen",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Membranpumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/pumpentypen/membranpumpen",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Netzsch-Pumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/marken/netzsch",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Debem-Pumpen"
-                        }
-                      ]
-                    }
-                  ]
                 }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Hygienische Pumpen: Pumpen für die Lebensmittelindustrie"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Lebensmittel- und Getränkeindustrie nutzt eine große Vielfalt an Pumpentypen für verschiedene Verarbeitungsanwendungen. Industriepumpen für die Lebensmittelindustrie unterliegen verschiedenen nationalen und internationalen Produktions- und Hygienenormen. Ein bekanntes Beispiel ist die FDA (Food and Drug Administration) in den Vereinigten Staaten, die Normen für Pumpenwerkstoffe festlegt, zum Beispiel hochwertigen Edelstahl, sowie für lebensmitteltaugliche Schmiermittel zur Schmierung von Industriepumpen für die Lebensmittelindustrie. In Europa werden die Anforderungen von der EHEDG festgelegt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Anpassung an die Viskosität der Flüssigkeit",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kreiselpumpen eignen sich für weniger zähflüssige Flüssigkeiten wie Milch, während Verdrängerpumpen wie Drehkolbenpumpen für hochviskose Flüssigkeiten wie Fruchtjoghurt geeignet sind, wodurch die Produktkonsistenz erhalten bleibt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Effiziente Raumnutzung und Reinigung",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Drehkolbenpumpen benötigen weniger Platz und bieten sehr gute Eigenschaften für Cleaning in Place (CIP) und Steam in Place (SIP), was eine effiziente Reinigung ohne Demontage ermöglicht."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Flexibilität bei den Druckanforderungen",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Exzenterschneckenpumpen sind für Anwendungen ausgelegt, die hohe Förderdrücke erfordern, und eignen sich daher zum Fördern von Produkten unter höherem Druck."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die passende Pumpe für diese Anwendung"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Je nach Größe der Anlage und den Anwendungen kommen für Industriepumpen in der Lebensmittelindustrie die folgenden Typen zum Einsatz:"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kreiselpumpen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Sie werden zum Fördern weniger zähflüssiger Flüssigkeiten eingesetzt, wenn hohe Förderströme erforderlich sind, meist um Milch von einem Ort zum anderen zu fördern. Es ist der in der Milchindustrie am häufigsten verwendete Pumpentyp. Für die Behandlung hochviskoser Flüssigkeiten, bei denen die Produktkonsistenz Vorrang hat, wie bei Fruchtjoghurt, werden Verdrängerpumpen für Flüssigkeiten mit Fruchtstücken bevorzugt."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Drehkolbenpumpen / Exzenterschneckenpumpen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Dieser Typ von Industriepumpen für die Lebensmittelindustrie übt nicht zu viel Kraft auf das geförderte Produkt aus und ist daher am besten geeignet, wenn die Produktkonsistenz erhalten bleiben muss, wo eine Kreiselpumpe wegen ihrer hohen Drehzahl die Konsistenz des Produkts verändern würde. Drehkolbenpumpen benötigen weniger Platz und bieten für Reinigungszwecke zudem bessere Cleaning-in-Place- und Steam-in-Place-Eigenschaften als Exzenterschneckenpumpen. Exzenterschneckenpumpen werden jedoch eingesetzt, wenn hohe Förderdrücke erforderlich sind und höhere Drücke bewältigt werden müssen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Einige weitere Typen von Industriepumpen für die Lebensmittelindustrie sind:"
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Druckluftbetriebene Doppelmembranpumpen"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Verdrängerpumpen"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "f2f802c80c08",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/segmenten-voedingsindustrie-2.webp",
-          "alt": "Pumpen in der Lebensmittelindustrie",
-          "width": 1000,
-          "height": 807
-        }
+        "_uid": "d301851c76dc",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "f3464ee39238",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "7c0711993ca1",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Hygienische Pumpen: Pumpen für die Lebensmittelindustrie"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "089715901e85",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "bb0e18889d45",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Lebensmittel- und Getränkeindustrie nutzt eine große Vielfalt an Pumpentypen für verschiedene Verarbeitungsanwendungen. Industriepumpen für die Lebensmittelindustrie unterliegen verschiedenen nationalen und internationalen Produktions- und Hygienenormen. Ein bekanntes Beispiel ist die FDA (Food and Drug Administration) in den Vereinigten Staaten, die Normen für Pumpenwerkstoffe festlegt, zum Beispiel hochwertigen Edelstahl, sowie für lebensmitteltaugliche Schmiermittel zur Schmierung von Industriepumpen für die Lebensmittelindustrie. In Europa werden die Anforderungen von der EHEDG festgelegt."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "03b6eb3caad8",
+        "_uid": "1e051af05f16",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "e8c505c24b21",
+            "component": "section_column",
+            "icon": "fa-tint",
+            "content": [
+              {
+                "_uid": "ffbcecd99cf0",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Anpassung an die Viskosität der Flüssigkeit",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kreiselpumpen eignen sich für weniger zähflüssige Flüssigkeiten wie Milch, während Verdrängerpumpen wie Drehkolbenpumpen für hochviskose Flüssigkeiten wie Fruchtjoghurt geeignet sind, wodurch die Produktkonsistenz erhalten bleibt."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "9b3cce1ae168",
+            "component": "section_column",
+            "icon": "fa-faucet",
+            "content": [
+              {
+                "_uid": "4abe7de3ad49",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Effiziente Raumnutzung und Reinigung",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Drehkolbenpumpen benötigen weniger Platz und bieten sehr gute Eigenschaften für Cleaning in Place (CIP) und Steam in Place (SIP), was eine effiziente Reinigung ohne Demontage ermöglicht."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "1c0159b27cdb",
+            "component": "section_column",
+            "icon": "fa-tire-pressure-warning",
+            "content": [
+              {
+                "_uid": "7358b6256fdd",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flexibilität bei den Druckanforderungen",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Exzenterschneckenpumpen sind für Anwendungen ausgelegt, die hohe Förderdrücke erfordern, und eignen sich daher zum Fördern von Produkten unter höherem Druck."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "dc25ea30e189",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "cc0d639dc105",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "2fd5dd1cf884",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die passende Pumpe für diese Anwendung"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Je nach Größe der Anlage und den Anwendungen kommen für Industriepumpen in der Lebensmittelindustrie die folgenden Typen zum Einsatz:"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kreiselpumpen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Sie werden zum Fördern weniger zähflüssiger Flüssigkeiten eingesetzt, wenn hohe Förderströme erforderlich sind, meist um Milch von einem Ort zum anderen zu fördern. Es ist der in der Milchindustrie am häufigsten verwendete Pumpentyp. Für die Behandlung hochviskoser Flüssigkeiten, bei denen die Produktkonsistenz Vorrang hat, wie bei Fruchtjoghurt, werden Verdrängerpumpen für Flüssigkeiten mit Fruchtstücken bevorzugt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Drehkolbenpumpen / Exzenterschneckenpumpen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Dieser Typ von Industriepumpen für die Lebensmittelindustrie übt nicht zu viel Kraft auf das geförderte Produkt aus und ist daher am besten geeignet, wenn die Produktkonsistenz erhalten bleiben muss, wo eine Kreiselpumpe wegen ihrer hohen Drehzahl die Konsistenz des Produkts verändern würde. Drehkolbenpumpen benötigen weniger Platz und bieten für Reinigungszwecke zudem bessere Cleaning-in-Place- und Steam-in-Place-Eigenschaften als Exzenterschneckenpumpen. Exzenterschneckenpumpen werden jedoch eingesetzt, wenn hohe Förderdrücke erforderlich sind und höhere Drücke bewältigt werden müssen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Einige weitere Typen von Industriepumpen für die Lebensmittelindustrie sind:"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Druckluftbetriebene Doppelmembranpumpen"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Verdrängerpumpen"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "34b482ed0a38",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "4fd3a91e86ae",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/segmenten-voedingsindustrie-2.webp",
+                  "alt": "Pumpen in der Lebensmittelindustrie",
+                  "width": 1000,
+                  "height": 807
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "861f2e3ada32",
         "component": "rich_text",
         "content": {
           "type": "doc",
@@ -370,502 +518,645 @@
         }
       },
       {
-        "_uid": "adebc9484679",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-aeb.webp",
-          "alt": "Kundenlogo AEB",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "4beadc7c372f",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-akzonobel.webp",
-          "alt": "Kundenlogo AkzoNobel",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "502dbb4e562f",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-hvc.webp",
-          "alt": "Kundenlogo HVC",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "c1aac8cc2a26",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-petrogas.webp",
-          "alt": "Kundenlogo Petrogas",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "91d43473656e",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-tatasteel.webp",
-          "alt": "Kundenlogo Tata Steel",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "b2272d83f435",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-waternet.webp",
-          "alt": "Kundenlogo Waternet",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "a3cb80d79574",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zuverlässiger Partner mit Fokus auf Hygiene und Sicherheit!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG liefert Lösungen, die genau zu den hohen Hygieneanforderungen in unserer Branche passen. Die Produkte sind zuverlässig, und das Team bietet bei jedem Schritt hervorragende Unterstützung."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Qualitätsmanager bei einem Lebensmittelhersteller."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Hervorragender Service und immer bereit mitzudenken!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Wissen und Flexibilität von IPG machen das Unternehmen zu einem geeigneten Partner. Das Team versteht unsere Prozesse und bietet stets eine Lösung, die zu der Produktionssicherheit passt, die wir benötigen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Verfahrensingenieur bei einer Molkerei."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Erstklassige Qualität und fachkundige Beratung für kritische Anwendungen!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG hat sich als Partner bewährt, der Qualität großschreibt. Die Pumpen sind langlebig und einfach zu warten, was für uns wesentlich ist, um Stillstände zu minimieren."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Produktionsleiter in der Lebensmittelindustrie."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Schnell und proaktiv bei der technischen Unterstützung!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Unterstützung von IPG ist stets schnell und fachkundig, auch bei dringenden Fragen. Produkte und Service machen den Unterschied für unsere Produktionseffizienz."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Arbeitsvorbereiter Technischer Dienst bei einem Verarbeitungsbetrieb."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 4
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Unverbindlich Kontakt aufnehmen"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Anforderungen an Industriepumpen für die Lebensmittelindustrie"
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Muss für den sterilen und hygienischen Einsatz geeignet sein"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Aus chemisch beständigem Werkstoff gefertigt"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Kann sehr zähflüssige Medien verarbeiten"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Wartungsfreundlich"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Typen von Industriepumpen für die Lebensmittelindustrie"
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Kreiselpumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/pumpentypen/kreiselpumpen",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Drehkolbenpumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/pumpentypen/drehkolbenpumpen",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Membranpumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/pumpentypen/membranpumpen",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Exzenterschneckenpumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/pumpentypen/exzenterschneckenpumpen",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
+        "_uid": "a959a6cc69f0",
+        "component": "logo_carousel",
+        "logos": [
+          {
+            "_uid": "a2e441cd3a28",
+            "component": "logo_item",
+            "name": "AEB Amsterdam",
+            "image": {
+              "filename": "/img/clients/aeb-amsterdam.webp",
+              "alt": "AEB Amsterdam",
+              "width": 280,
+              "height": 140
             }
-          ]
-        }
-      },
-      {
-        "_uid": "befee9f89adb",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-product2-2.webp",
-          "alt": "Kreiselpumpen für die Lebensmittelindustrie",
-          "width": 242,
-          "height": 168
-        }
-      },
-      {
-        "_uid": "6add5ee9fed1",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Kreiselpumpen lesen"
-                }
-              ]
+          },
+          {
+            "_uid": "9a4ecc9c4b1b",
+            "component": "logo_item",
+            "name": "AkzoNobel",
+            "image": {
+              "filename": "/img/clients/akzonobel.webp",
+              "alt": "AkzoNobel",
+              "width": 280,
+              "height": 140
             }
-          ]
-        }
-      },
-      {
-        "_uid": "ca9654960004",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-membraanpomp.webp",
-          "alt": "Membranpumpen für die Lebensmittelindustrie",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "c57e1fa76d90",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Membranpumpen lesen"
-                }
-              ]
+          },
+          {
+            "_uid": "bdad36ac8e6b",
+            "component": "logo_item",
+            "name": "HVC",
+            "image": {
+              "filename": "/img/clients/hvc.webp",
+              "alt": "HVC",
+              "width": 280,
+              "height": 140
             }
-          ]
-        }
+          },
+          {
+            "_uid": "ecb5d48bedf5",
+            "component": "logo_item",
+            "name": "Petrogas",
+            "image": {
+              "filename": "/img/clients/petrogas.webp",
+              "alt": "Petrogas",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "e873fd869612",
+            "component": "logo_item",
+            "name": "Tata Steel",
+            "image": {
+              "filename": "/img/clients/tata-steel.webp",
+              "alt": "Tata Steel",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "15d947af0966",
+            "component": "logo_item",
+            "name": "Waternet",
+            "image": {
+              "filename": "/img/clients/waternet.webp",
+              "alt": "Waternet",
+              "width": 280,
+              "height": 140
+            }
+          }
+        ]
       },
       {
-        "_uid": "95ea29d623db",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-wormpompen.webp",
-          "alt": "Exzenterschneckenpumpen für die Lebensmittelindustrie",
-          "width": 243,
-          "height": 141
-        }
+        "_uid": "c954f28bcfbb",
+        "component": "section_row",
+        "layout": "carousel",
+        "columns": [
+          {
+            "_uid": "0fdf322964e1",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "b445519296a6",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Zuverlässiger Partner mit Fokus auf Hygiene und Sicherheit!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG liefert Lösungen, die genau zu den hohen Hygieneanforderungen in unserer Branche passen. Die Produkte sind zuverlässig, und das Team bietet bei jedem Schritt hervorragende Unterstützung."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Qualitätsmanager bei einem Lebensmittelhersteller."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "0c0115d2c62e",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "04a961acc53d",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Hervorragender Service und immer bereit mitzudenken!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Wissen und Flexibilität von IPG machen das Unternehmen zu einem geeigneten Partner. Das Team versteht unsere Prozesse und bietet stets eine Lösung, die zu der Produktionssicherheit passt, die wir benötigen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Verfahrensingenieur bei einer Molkerei."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "b2efcbd620d2",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ace2906db4bd",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Erstklassige Qualität und fachkundige Beratung für kritische Anwendungen!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG hat sich als Partner bewährt, der Qualität großschreibt. Die Pumpen sind langlebig und einfach zu warten, was für uns wesentlich ist, um Stillstände zu minimieren."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Produktionsleiter in der Lebensmittelindustrie."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "9c84c33c3df7",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ee71f30fd37a",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Schnell und proaktiv bei der technischen Unterstützung!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Unterstützung von IPG ist stets schnell und fachkundig, auch bei dringenden Fragen. Produkte und Service machen den Unterschied für unsere Produktionseffizienz."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Arbeitsvorbereiter Technischer Dienst bei einem Verarbeitungsbetrieb."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "2bfe27a42209",
+        "_uid": "28a6c0c5ea18",
+        "component": "cta_band",
+        "heading": "Unverbindlich Kontakt aufnehmen",
+        "text": "Wir beraten Sie gern zu Auswahl, Ersatz und Revision Ihrer Pumpe.",
+        "button_label": "Kontakt aufnehmen",
+        "button_link": {
+          "fieldtype": "multilink",
+          "linktype": "url",
+          "url": "/kontakt",
+          "cached_url": "/kontakt"
+        },
+        "variant": "primary"
+      },
+      {
+        "_uid": "6a227281ac2b",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "a778c4cdec06",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "8b65a955fd31",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Anforderungen an Industriepumpen für die Lebensmittelindustrie"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Muss für den sterilen und hygienischen Einsatz geeignet sein"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Aus chemisch beständigem Werkstoff gefertigt"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Kann sehr zähflüssige Medien verarbeiten"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Wartungsfreundlich"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "8dc3f7749b33",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "7aae0935480c",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Typen von Industriepumpen für die Lebensmittelindustrie"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Kreiselpumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/pumpentypen/kreiselpumpen",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Drehkolbenpumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/pumpentypen/drehkolbenpumpen",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Membranpumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/pumpentypen/membranpumpen",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Exzenterschneckenpumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/pumpentypen/exzenterschneckenpumpen",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "cd8243efcb46",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "48d8bf2d8b87",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ae07c3d0d488",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/homepage-product2-2.webp",
+                  "alt": "Kreiselpumpen für die Lebensmittelindustrie",
+                  "width": 242,
+                  "height": 168
+                }
+              },
+              {
+                "_uid": "1dc30e4db465",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Kreiselpumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "518f3537eed6",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "b44ec943de88",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-membraanpomp.webp",
+                  "alt": "Membranpumpen für die Lebensmittelindustrie",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "af7a7bffa20e",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Membranpumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "ff902828c8dd",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "d61cba088373",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-wormpompen.webp",
+                  "alt": "Exzenterschneckenpumpen für die Lebensmittelindustrie",
+                  "width": 243,
+                  "height": 141
+                }
+              },
+              {
+                "_uid": "d7d37923455b",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Exzenterschneckenpumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "4ed41443a09e",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Exzenterschneckenpumpen lesen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -922,7 +1213,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Bei Fragen zu Pumpenanwendungen in der Lebensmittel- und Getränkeindustrie oder für ein Angebot können Sie unverbindlich Kontakt mit IPG aufnehmen unter: [[PLATZHALTER: Telefon]] oder [[PLATZHALTER: E-Mail]]."
+                  "text": "Bei Fragen zu Pumpenanwendungen in der Lebensmittel- und Getränkeindustrie oder für ein Angebot können Sie unverbindlich Kontakt mit IPG aufnehmen unter: +31 251 222 566 oder info@industrialpumps.nl."
                 }
               ]
             }
@@ -930,43 +1221,62 @@
         }
       },
       {
-        "_uid": "fc00782e8752",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/segmenten-voedingsindustrie-3.webp",
-          "alt": "Pumpen in der Lebensmittelindustrie",
-          "width": 1000,
-          "height": 667
-        }
-      },
-      {
-        "_uid": "a559c4a1bebe",
-        "component": "faq",
-        "heading": "Häufige Fragen",
-        "items": [
+        "_uid": "3f60b42a5de7",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
           {
-            "_uid": "7f0de2008e3d",
-            "component": "faq_item",
-            "question": "Was sind Industriepumpen für die Lebensmittelindustrie?",
-            "answer": "Industriepumpen für die Lebensmittelindustrie sind mechanische Geräte, die in der Lebensmittel- und Getränkeindustrie Flüssigkeiten wie Wasser, Öl, Sirupe usw. bewegen. Sie sind für die Produktionsprozesse wesentlich und werden für verschiedene Anwendungen eingesetzt, etwa zum Fördern von Zutaten, zum Bewegen von Endprodukten, zum Regeln des Drucks und zum Behandeln von Abwasser."
+            "_uid": "e14874254460",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "8841e206b06b",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/segmenten-voedingsindustrie-3.webp",
+                  "alt": "Pumpen in der Lebensmittelindustrie",
+                  "width": 1000,
+                  "height": 667
+                }
+              }
+            ]
           },
           {
-            "_uid": "464d712c7102",
-            "component": "faq_item",
-            "question": "Welche Pumpentypen werden in der Lebensmittel- und Getränkeindustrie eingesetzt?",
-            "answer": "Für die Lebensmittelindustrie gibt es verschiedene Typen von Industriepumpen, darunter Kreiselpumpen, Drehkolbenpumpen, Zahnradpumpen, Schlauchpumpen (Peristaltikpumpen) und Membranpumpen. Die Wahl der passenden Industriepumpen für die Lebensmittelindustrie hängt von der Anwendung und den Eigenschaften der geförderten Flüssigkeit ab."
-          },
-          {
-            "_uid": "78651254eb9a",
-            "component": "faq_item",
-            "question": "Warum müssen Pumpen in der Lebensmittel- und Getränkeindustrie von hoher Qualität sein?",
-            "answer": "Pumpen in der Lebensmittel- und Getränkeindustrie müssen von hoher Qualität sein, weil sie mit Lebensmitteln in Kontakt kommen. Pumpen minderer Qualität können Verunreinigungen in den Lebensmitteln verursachen und die Qualität des Endprodukts verringern. Außerdem müssen Pumpen in der Lebensmittel- und Getränkeindustrie bestimmte Hygiene- und Sicherheitsvorschriften erfüllen."
-          },
-          {
-            "_uid": "51eaf7a880c6",
-            "component": "faq_item",
-            "question": "Wie werden Pumpen in der Lebensmittel- und Getränkeindustrie gereinigt und gewartet?",
-            "answer": "Pumpen in der Lebensmittel- und Getränkeindustrie müssen regelmäßig gereinigt und gewartet werden, um Hygiene und Leistung zu erhalten. Das geschieht nach den Verfahren, die der Pumpenhersteller und/oder die Lebensmittelsicherheitsvorschriften festlegen. Meist umfasst dies das Demontieren der Pumpe, das Entfernen von Rückständen und das Reinigen der Bauteile mit speziellen Reinigungsmitteln und Wasser."
+            "_uid": "e26d9e2a1cd1",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "4be69ba24bce",
+                "component": "faq",
+                "heading": "Häufige Fragen",
+                "items": [
+                  {
+                    "_uid": "a3f644415770",
+                    "component": "faq_item",
+                    "question": "Was sind Industriepumpen für die Lebensmittelindustrie?",
+                    "answer": "Industriepumpen für die Lebensmittelindustrie sind mechanische Geräte, die in der Lebensmittel- und Getränkeindustrie Flüssigkeiten wie Wasser, Öl, Sirupe usw. bewegen. Sie sind für die Produktionsprozesse wesentlich und werden für verschiedene Anwendungen eingesetzt, etwa zum Fördern von Zutaten, zum Bewegen von Endprodukten, zum Regeln des Drucks und zum Behandeln von Abwasser."
+                  },
+                  {
+                    "_uid": "1000b4239132",
+                    "component": "faq_item",
+                    "question": "Welche Pumpentypen werden in der Lebensmittel- und Getränkeindustrie eingesetzt?",
+                    "answer": "Für die Lebensmittelindustrie gibt es verschiedene Typen von Industriepumpen, darunter Kreiselpumpen, Drehkolbenpumpen, Zahnradpumpen, Schlauchpumpen (Peristaltikpumpen) und Membranpumpen. Die Wahl der passenden Industriepumpen für die Lebensmittelindustrie hängt von der Anwendung und den Eigenschaften der geförderten Flüssigkeit ab."
+                  },
+                  {
+                    "_uid": "e8f6d2c29534",
+                    "component": "faq_item",
+                    "question": "Warum müssen Pumpen in der Lebensmittel- und Getränkeindustrie von hoher Qualität sein?",
+                    "answer": "Pumpen in der Lebensmittel- und Getränkeindustrie müssen von hoher Qualität sein, weil sie mit Lebensmitteln in Kontakt kommen. Pumpen minderer Qualität können Verunreinigungen in den Lebensmitteln verursachen und die Qualität des Endprodukts verringern. Außerdem müssen Pumpen in der Lebensmittel- und Getränkeindustrie bestimmte Hygiene- und Sicherheitsvorschriften erfüllen."
+                  },
+                  {
+                    "_uid": "ecbfc893d59f",
+                    "component": "faq_item",
+                    "question": "Wie werden Pumpen in der Lebensmittel- und Getränkeindustrie gereinigt und gewartet?",
+                    "answer": "Pumpen in der Lebensmittel- und Getränkeindustrie müssen regelmäßig gereinigt und gewartet werden, um Hygiene und Leistung zu erhalten. Das geschieht nach den Verfahren, die der Pumpenhersteller und/oder die Lebensmittelsicherheitsvorschriften festlegen. Meist umfasst dies das Demontieren der Pumpe, das Entfernen von Rückständen und das Reinigen der Bauteile mit speziellen Reinigungsmitteln und Wasser."
+                  }
+                ]
+              }
+            ]
           }
         ]
       }

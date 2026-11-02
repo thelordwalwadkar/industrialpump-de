@@ -23,53 +23,61 @@
         "description": "Kurzname für Brotkrumen, Navigation und Karten (z. B. „DIWA-Serie“).",
         "pos": 2
       },
+      "hero_image": {
+        "type": "asset",
+        "filetypes": [
+          "images"
+        ],
+        "description": "Kopfbild (optional): ersetzt das Standardbild hinter Überschrift und Einleitung.",
+        "pos": 3
+      },
       "seo_title": {
         "type": "text",
         "description": "Seitentitel für Google, höchstens 60 Zeichen.",
         "max_length": 60,
         "required": true,
-        "pos": 3
+        "pos": 4
       },
       "seo_description": {
         "type": "textarea",
         "description": "Meta-Beschreibung, höchstens 155 Zeichen.",
         "max_length": 155,
         "required": true,
-        "pos": 4
+        "pos": 5
       },
       "noindex": {
         "type": "boolean",
         "description": "Nur für Sonderfälle: Seite von der Suche ausschließen. Rechtstexte bleiben indexierbar.",
         "default_value": false,
-        "pos": 5
+        "pos": 6
       },
       "publication_date": {
         "type": "text",
         "description": "Veröffentlichungsdatum (JJJJ-MM-TT), falls bekannt.",
-        "pos": 6
+        "pos": 7
       },
       "customer": {
         "type": "text",
         "description": "Kunde – nur mit Freigabe.",
-        "pos": 7
+        "pos": 8
       },
       "situation": {
         "type": "richtext",
         "description": "Ausgangslage.",
         "rich_markdown": false,
-        "pos": 8
+        "pos": 9
       },
       "solution": {
         "type": "richtext",
         "description": "Lösung.",
         "rich_markdown": false,
-        "pos": 9
+        "pos": 10
       },
       "result": {
         "type": "richtext",
         "description": "Ergebnis – nur belegte Zahlen.",
         "rich_markdown": false,
-        "pos": 10
+        "pos": 11
       },
       "products": {
         "type": "bloks",
@@ -79,7 +87,7 @@
         ],
         "description": "Eingesetzte Produkte (Links).",
         "maximum": 1,
-        "pos": 11
+        "pos": 12
       },
       "body": {
         "type": "bloks",
@@ -99,10 +107,11 @@
           "button_row",
           "pump_finder",
           "logo_carousel",
-          "usp_grid"
+          "usp_grid",
+          "section_row"
         ],
         "description": "Optionale Zusatz-Bausteine. Die Pflicht-Abschnitte sind im Template fest eingebaut.",
-        "pos": 12
+        "pos": 13
       },
       "tab-seo": {
         "type": "tab",

@@ -15,291 +15,439 @@
     "topic_kind": "pumpentyp",
     "body": [
       {
-        "_uid": "3acb5b6f6202",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Pumpen für die Energieversorgung sind für den Betrieb eines Kraftwerks wesentlich und dienen dazu, Wasser, Dampf und Kühlmittel zu bewegen und zu zirkulieren. Beispiele sind Kondensatpumpen, Speisewasserpumpen und Umwälzpumpen."
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
+        "_uid": "5dd8d20b311d",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "54beba82fc42",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "a0719f7ba6b2",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "End-Suction-Pumpen"
+                          "text": "Pumpen für die Energieversorgung sind für den Betrieb eines Kraftwerks wesentlich und dienen dazu, Wasser, Dampf und Kühlmittel zu bewegen und zu zirkulieren. Beispiele sind Kondensatpumpen, Speisewasserpumpen und Umwälzpumpen."
                         }
                       ]
                     }
                   ]
-                },
-                {
-                  "type": "list_item",
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "0c9edae6a1f3",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "0f166cd651e5",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
                     {
-                      "type": "paragraph",
+                      "type": "bullet_list",
                       "content": [
                         {
-                          "type": "text",
-                          "text": "Mehrstufige Pumpen",
-                          "marks": [
+                          "type": "list_item",
+                          "content": [
                             {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/pumpentypen/mehrstufige-pumpen",
-                                "linktype": "url"
-                              }
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "End-Suction-Pumpen"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Mehrstufige Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/pumpentypen/mehrstufige-pumpen",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Kesselspeisepumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/anwendungen/kesselspeisung",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Kühlwasserpumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/anwendungen/kuehlwasser",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
                             }
                           ]
                         }
                       ]
                     }
                   ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Kesselspeisepumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/anwendungen/kesselspeisung",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Kühlwasserpumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/anwendungen/kuehlwasser",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
                 }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Alles Wissenswerte zu Energieversorgung und Pumpen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ein Kraftwerk ist eine komplexe Anlage, in der verschiedene Prozesse zur Stromerzeugung genutzt werden. Pumpen gehören zu den wichtigsten Komponenten im Produktionsprozess. Pumpen in einem Kraftwerk sind dafür zuständig, Flüssigkeiten und Gase durch die verschiedenen Systeme zu bewegen, damit Energie möglichst effizient erzeugt wird."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "In einem Kraftwerk werden verschiedene Pumpentypen eingesetzt, darunter Kreiselpumpen, Axialpumpen und Zahnradpumpen. Jeder Pumpentyp hat je nach Art der geförderten Flüssigkeit oder des Gases eigene Anwendungen und Vorteile."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Wesentliche Kühllösungen",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Pumpen spielen in Wärmetauschersystemen eine zentrale Rolle. Dort zirkulieren sie Kühlwasser, um die Wärme von Anlagenteilen effizient abzuführen. Das ist wesentlich, um geeignete Betriebstemperaturen zu halten und Überhitzung zu vermeiden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Brennstoff- und Abfallmanagement",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Diese Pumpen sind für den Transport von Brennstoffen und Abfallstoffen innerhalb des Kraftwerks unverzichtbar und sorgen für einen reibungslosen, kontinuierlichen Ablauf der Energieerzeugung."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zuverlässigkeit und moderne Technik",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Moderne Kraftwerke setzen auf robuste, korrosionsbeständige Pumpen, die hohen Temperaturen und Drücken standhalten. Intelligente Pumpen mit Sensoren und Automatisierung erhöhen die Effizienz und verringern die Energieverschwendung, indem sie ihren Betrieb an den aktuellen Bedarf anpassen."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Anwendungen in der Energieversorgung"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Eine der wichtigsten Anwendungen von Pumpen in einem Kraftwerk ist die Kühlung der Anlagen. Wärmetauschersysteme nutzen Pumpen, um Kühlwasser durch das System zu zirkulieren und die Wärme von den Anlagen abzuführen. Weitere Anwendungen von Pumpen in einem Kraftwerk sind unter anderem der Transport von Brennstoff und Abfallstoffen, das Fördern von Dampf durch Turbinen und das Einspeisen von Chemikalien in das Wasser, um Korrosion zu verhindern."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Rolle von Pumpen bei der effizienten und nachhaltigen Stromerzeugung in Kraftwerken"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Neben ihrer Rolle bei der Stromerzeugung spielen Pumpen auch eine wichtige Rolle beim Management der Umweltauswirkungen von Kraftwerken. Mit Pumpen können Kraftwerke beispielsweise effizienter kühlen und so die für die Kühlung benötigte Wassermenge verringern. Dadurch sinken der Verbrauch von Wasserressourcen und das Risiko von Umweltschäden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kraftwerke nutzen Pumpen außerdem, um CO2-Emissionen zu steuern und zu verringern. CO2 ist ein Treibhausgas, das zum Klimawandel beiträgt. Pumpen werden eingesetzt, um CO2 abzuscheiden und zu Speicheranlagen zu fördern, wo es gelagert werden kann, damit es nicht in die Atmosphäre gelangt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bei Auslegung und Auswahl von Pumpen für Kraftwerke werden verschiedene Faktoren berücksichtigt. So ist wichtig, dass die Pumpen zuverlässig sind, da der Ausfall einer Pumpe zum Stillstand der gesamten Anlage führen kann. Außerdem müssen die Pumpen korrosionsbeständig sein, hohen Temperaturen und Drücken standhalten und strenge Sicherheits- und Umweltvorschriften erfüllen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Moderne Kraftwerke nutzen die neuesten Technologien, um die Effizienz zu erhöhen und die Umweltauswirkungen zu verringern. So werden intelligente Pumpen eingesetzt, um Energie zu sparen und die Zuverlässigkeit zu verbessern. Diese Pumpen nutzen Sensoren und Automatisierungstechnik, um den Betrieb der Pumpe an den Bedarf anzupassen, wodurch Energieverschwendung verringert wird."
-                }
-              ]
-            }
-          ]
-        }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "7ef37a80c3db",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/segmenten-powersupply-2.webp",
-          "alt": "Pumpenanwendung in der Energieversorgung | Industrial Pump Group",
-          "width": 1000,
-          "height": 667
-        }
+        "_uid": "472152daa7a6",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "8360ac75ad2f",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "76c7464f997d",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Alles Wissenswerte zu Energieversorgung und Pumpen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "ab92ff91a06c",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "bbf7089f18cb",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ein Kraftwerk ist eine komplexe Anlage, in der verschiedene Prozesse zur Stromerzeugung genutzt werden. Pumpen gehören zu den wichtigsten Komponenten im Produktionsprozess. Pumpen in einem Kraftwerk sind dafür zuständig, Flüssigkeiten und Gase durch die verschiedenen Systeme zu bewegen, damit Energie möglichst effizient erzeugt wird."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "In einem Kraftwerk werden verschiedene Pumpentypen eingesetzt, darunter Kreiselpumpen, Axialpumpen und Zahnradpumpen. Jeder Pumpentyp hat je nach Art der geförderten Flüssigkeit oder des Gases eigene Anwendungen und Vorteile."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "8681e1bf3bf0",
+        "_uid": "ef9f7ce2eb83",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "70639a7534a5",
+            "component": "section_column",
+            "icon": "fa-temperature-low",
+            "content": [
+              {
+                "_uid": "503a88e140dc",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Wesentliche Kühllösungen",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Pumpen spielen in Wärmetauschersystemen eine zentrale Rolle. Dort zirkulieren sie Kühlwasser, um die Wärme von Anlagenteilen effizient abzuführen. Das ist wesentlich, um geeignete Betriebstemperaturen zu halten und Überhitzung zu vermeiden."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "ca80d225d700",
+            "component": "section_column",
+            "icon": "fa-industry",
+            "content": [
+              {
+                "_uid": "da54df605e17",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Brennstoff- und Abfallmanagement",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Diese Pumpen sind für den Transport von Brennstoffen und Abfallstoffen innerhalb des Kraftwerks unverzichtbar und sorgen für einen reibungslosen, kontinuierlichen Ablauf der Energieerzeugung."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "fa343709b46a",
+            "component": "section_column",
+            "icon": "fa-user-shield",
+            "content": [
+              {
+                "_uid": "c02db897427b",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Zuverlässigkeit und moderne Technik",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Moderne Kraftwerke setzen auf robuste, korrosionsbeständige Pumpen, die hohen Temperaturen und Drücken standhalten. Intelligente Pumpen mit Sensoren und Automatisierung erhöhen die Effizienz und verringern die Energieverschwendung, indem sie ihren Betrieb an den aktuellen Bedarf anpassen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "73d24ca6e5ca",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "091efc19b20c",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "59819765165c",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Anwendungen in der Energieversorgung"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Eine der wichtigsten Anwendungen von Pumpen in einem Kraftwerk ist die Kühlung der Anlagen. Wärmetauschersysteme nutzen Pumpen, um Kühlwasser durch das System zu zirkulieren und die Wärme von den Anlagen abzuführen. Weitere Anwendungen von Pumpen in einem Kraftwerk sind unter anderem der Transport von Brennstoff und Abfallstoffen, das Fördern von Dampf durch Turbinen und das Einspeisen von Chemikalien in das Wasser, um Korrosion zu verhindern."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Rolle von Pumpen bei der effizienten und nachhaltigen Stromerzeugung in Kraftwerken"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Neben ihrer Rolle bei der Stromerzeugung spielen Pumpen auch eine wichtige Rolle beim Management der Umweltauswirkungen von Kraftwerken. Mit Pumpen können Kraftwerke beispielsweise effizienter kühlen und so die für die Kühlung benötigte Wassermenge verringern. Dadurch sinken der Verbrauch von Wasserressourcen und das Risiko von Umweltschäden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kraftwerke nutzen Pumpen außerdem, um CO2-Emissionen zu steuern und zu verringern. CO2 ist ein Treibhausgas, das zum Klimawandel beiträgt. Pumpen werden eingesetzt, um CO2 abzuscheiden und zu Speicheranlagen zu fördern, wo es gelagert werden kann, damit es nicht in die Atmosphäre gelangt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bei Auslegung und Auswahl von Pumpen für Kraftwerke werden verschiedene Faktoren berücksichtigt. So ist wichtig, dass die Pumpen zuverlässig sind, da der Ausfall einer Pumpe zum Stillstand der gesamten Anlage führen kann. Außerdem müssen die Pumpen korrosionsbeständig sein, hohen Temperaturen und Drücken standhalten und strenge Sicherheits- und Umweltvorschriften erfüllen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Moderne Kraftwerke nutzen die neuesten Technologien, um die Effizienz zu erhöhen und die Umweltauswirkungen zu verringern. So werden intelligente Pumpen eingesetzt, um Energie zu sparen und die Zuverlässigkeit zu verbessern. Diese Pumpen nutzen Sensoren und Automatisierungstechnik, um den Betrieb der Pumpe an den Bedarf anzupassen, wodurch Energieverschwendung verringert wird."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "c5863d1abb7a",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "77cb9828e2ab",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/segmenten-powersupply-2.webp",
+                  "alt": "Pumpenanwendung in der Energieversorgung | Industrial Pump Group",
+                  "width": 1000,
+                  "height": 667
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "bd383ead71ad",
         "component": "rich_text",
         "content": {
           "type": "doc",
@@ -320,227 +468,308 @@
         }
       },
       {
-        "_uid": "4a7d72ef8395",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-aeb.webp",
-          "alt": "Kundenlogo AEB",
-          "width": 387,
-          "height": 241
-        }
+        "_uid": "0e9bd0d56741",
+        "component": "logo_carousel",
+        "logos": [
+          {
+            "_uid": "38e26d6570ee",
+            "component": "logo_item",
+            "name": "AEB Amsterdam",
+            "image": {
+              "filename": "/img/clients/aeb-amsterdam.webp",
+              "alt": "AEB Amsterdam",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "be95d1181107",
+            "component": "logo_item",
+            "name": "AkzoNobel",
+            "image": {
+              "filename": "/img/clients/akzonobel.webp",
+              "alt": "AkzoNobel",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "50f1ed67059b",
+            "component": "logo_item",
+            "name": "HVC",
+            "image": {
+              "filename": "/img/clients/hvc.webp",
+              "alt": "HVC",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "c213ce671504",
+            "component": "logo_item",
+            "name": "Petrogas",
+            "image": {
+              "filename": "/img/clients/petrogas.webp",
+              "alt": "Petrogas",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "b3a657c78ae2",
+            "component": "logo_item",
+            "name": "Tata Steel",
+            "image": {
+              "filename": "/img/clients/tata-steel.webp",
+              "alt": "Tata Steel",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "5632aecc661a",
+            "component": "logo_item",
+            "name": "Waternet",
+            "image": {
+              "filename": "/img/clients/waternet.webp",
+              "alt": "Waternet",
+              "width": 280,
+              "height": 140
+            }
+          }
+        ]
       },
       {
-        "_uid": "b7d5abe01250",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-akzonobel.webp",
-          "alt": "Kundenlogo AkzoNobel",
-          "width": 387,
-          "height": 241
-        }
+        "_uid": "b4c3f434458a",
+        "component": "section_row",
+        "layout": "carousel",
+        "columns": [
+          {
+            "_uid": "c60dbb4f7424",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "618486672e8e",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Zuverlässiger Partner mit hochwertigen Pumpen für kritische Anwendungen!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Pumpen von IPG erfüllen die höchsten Anforderungen in unserer Energieerzeugung. Sie sind robust und zuverlässig, was für unsere Kontinuität und Betriebssicherheit wesentlich ist."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Operations Manager bei einem Kraftwerk in den Niederlanden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "42882e026220",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "e3157a89c8c1",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Hervorragende Unterstützung und tiefes Branchenwissen!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG bietet nicht nur qualitativ gute Produkte, sondern auch spezialisierte Unterstützung bei technischen Herausforderungen in der Energieverteilung. Das Team steht jederzeit für Beratung zur Verfügung."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Technischer Berater bei einem Energieversorger."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "f2cbbf4030c0",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "92ee9a4f75f1",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Effizienz und Zuverlässigkeit, passend für unseren Energiebedarf!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Pumpen von IPG haben unsere betriebliche Effizienz erhöht, und die energiesparenden Modelle helfen uns, unsere Umweltziele zu erreichen. Die Lösungen entsprechen genau unseren hohen Anforderungen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Projektleiter Nachhaltigkeit bei einem Elektrizitätsunternehmen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "ade58d2c61c3",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "4ba62ceb5562",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Schnelle Abstimmung und ein Partner, der immer bereitsteht!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Zusammenarbeit mit IPG verläuft reibungslos und zuverlässig. Die Pumpen sind von hervorragender Qualität, und der Service ist schnell, auch bei Eilaufträgen. Das gibt uns Sicherheit im Produktionsprozess."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Maintenance Manager bei einem Versorgungsunternehmen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "7e13d8d2e345",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-hvc.webp",
-          "alt": "Kundenlogo HVC",
-          "width": 387,
-          "height": 241
-        }
+        "_uid": "adbcc2785870",
+        "component": "cta_band",
+        "heading": "Unverbindlich Kontakt aufnehmen",
+        "text": "Wir beraten Sie gern zu Auswahl, Ersatz und Revision Ihrer Pumpe.",
+        "button_label": "Kontakt aufnehmen",
+        "button_link": {
+          "fieldtype": "multilink",
+          "linktype": "url",
+          "url": "/kontakt",
+          "cached_url": "/kontakt"
+        },
+        "variant": "primary"
       },
       {
-        "_uid": "53468af51279",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-petrogas.webp",
-          "alt": "Kundenlogo Petrogas",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "7feedd9c7888",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-tatasteel.webp",
-          "alt": "Kundenlogo Tata Steel",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "1471559f04b9",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-waternet.webp",
-          "alt": "Kundenlogo Waternet",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "4280509f9ac0",
+        "_uid": "aa6a0c921807",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zuverlässiger Partner mit hochwertigen Pumpen für kritische Anwendungen!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Pumpen von IPG erfüllen die höchsten Anforderungen in unserer Energieerzeugung. Sie sind robust und zuverlässig, was für unsere Kontinuität und Betriebssicherheit wesentlich ist."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Operations Manager bei einem Kraftwerk in den Niederlanden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Hervorragende Unterstützung und tiefes Branchenwissen!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG bietet nicht nur qualitativ gute Produkte, sondern auch spezialisierte Unterstützung bei technischen Herausforderungen in der Energieverteilung. Das Team steht jederzeit für Beratung zur Verfügung."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Technischer Berater bei einem Energieversorger."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Effizienz und Zuverlässigkeit, passend für unseren Energiebedarf!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Pumpen von IPG haben unsere betriebliche Effizienz erhöht, und die energiesparenden Modelle helfen uns, unsere Umweltziele zu erreichen. Die Lösungen entsprechen genau unseren hohen Anforderungen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Projektleiter Nachhaltigkeit bei einem Elektrizitätsunternehmen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Schnelle Abstimmung und ein Partner, der immer bereitsteht!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Zusammenarbeit mit IPG verläuft reibungslos und zuverlässig. Die Pumpen sind von hervorragender Qualität, und der Service ist schnell, auch bei Eilaufträgen. Das gibt uns Sicherheit im Produktionsprozess."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Maintenance Manager bei einem Versorgungsunternehmen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 4
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Unverbindlich Kontakt aufnehmen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -584,126 +813,166 @@
         }
       },
       {
-        "_uid": "93dac119af2c",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-boilerfeedpomp.webp",
-          "alt": "Kesselspeisepumpen in der Energieversorgung | Industrial Pump Group",
-          "width": 605,
-          "height": 454
-        }
+        "_uid": "82cabb538258",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "a671356d1607",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "d59dbf0bf1a8",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-boilerfeedpomp.webp",
+                  "alt": "Kesselspeisepumpen in der Energieversorgung | Industrial Pump Group",
+                  "width": 605,
+                  "height": 454
+                }
+              },
+              {
+                "_uid": "1a5aff6b2c27",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Zum Sortiment Kesselspeisepumpen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "1533aa780a9b",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "913da0a8f395",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-koelwaterpompen.webp",
+                  "alt": "Kühlwasserpumpen in der Energieversorgung | Industrial Pump Group",
+                  "width": 600,
+                  "height": 600
+                }
+              },
+              {
+                "_uid": "3c1185d2b492",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Zum Sortiment Kühlwasserpumpen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "770d3798cc91",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "e5d7c4232f54",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/homepage-product2.webp",
+                  "alt": "End-Suction-Pumpen in der Energieversorgung | Industrial Pump Group",
+                  "width": 242,
+                  "height": 168
+                }
+              },
+              {
+                "_uid": "56bd9fe7195b",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Zum Sortiment End-Suction-Pumpen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "5ff3f6aa2fa2",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "450a1aa66f40",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/homepage-product4.webp",
+                  "alt": "Mehrstufige Pumpen in der Energieversorgung | Industrial Pump Group",
+                  "width": 219,
+                  "height": 152
+                }
+              },
+              {
+                "_uid": "df1e28d15796",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Zum Sortiment mehrstufige Pumpen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "9cbe56179ed8",
+        "_uid": "cd2f0db02eb3",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zum Sortiment Kesselspeisepumpen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "c3389c9e4310",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-koelwaterpompen.webp",
-          "alt": "Kühlwasserpumpen in der Energieversorgung | Industrial Pump Group",
-          "width": 600,
-          "height": 600
-        }
-      },
-      {
-        "_uid": "9c98496e08f5",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zum Sortiment Kühlwasserpumpen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "2ee12b6a4aae",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-product2.webp",
-          "alt": "End-Suction-Pumpen in der Energieversorgung | Industrial Pump Group",
-          "width": 242,
-          "height": 168
-        }
-      },
-      {
-        "_uid": "a89eec757138",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zum Sortiment End-Suction-Pumpen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "3205173be71e",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-product4.webp",
-          "alt": "Mehrstufige Pumpen in der Energieversorgung | Industrial Pump Group",
-          "width": 219,
-          "height": 152
-        }
-      },
-      {
-        "_uid": "01a414431032",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zum Sortiment mehrstufige Pumpen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -760,7 +1029,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Bei Fragen zu dieser Anwendung oder für ein Angebot können Sie unverbindlich Kontakt mit IPG aufnehmen unter: [[PLATZHALTER: Telefon]] oder [[PLATZHALTER: E-Mail]]."
+                  "text": "Bei Fragen zu dieser Anwendung oder für ein Angebot können Sie unverbindlich Kontakt mit IPG aufnehmen unter: +31 251 222 566 oder info@industrialpumps.nl."
                 }
               ]
             }
@@ -768,49 +1037,68 @@
         }
       },
       {
-        "_uid": "4eb934d827dc",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/segmenten-powersupply-3.webp",
-          "alt": "Häufig gestellte Fragen zur Energieversorgung | Industrial Pump Group",
-          "width": 1000,
-          "height": 668
-        }
-      },
-      {
-        "_uid": "c2456bae2951",
-        "component": "faq",
-        "heading": "Häufige Fragen",
-        "items": [
+        "_uid": "fa6563978419",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
           {
-            "_uid": "02f3f47de4c3",
-            "component": "faq_item",
-            "question": "Welche Funktion haben Pumpen in einem Kraftwerk?",
-            "answer": "Pumpen haben eine zentrale Funktion beim Fördern von Flüssigkeiten und Gasen durch die verschiedenen Systeme eines Kraftwerks, darunter Kühl- und Heizsysteme, Brennstoffzufuhrsysteme sowie CO2-Abscheidungs- und Speichersysteme."
+            "_uid": "9d2589fe05a1",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "165e803bc4ac",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/segmenten-powersupply-3.webp",
+                  "alt": "Häufig gestellte Fragen zur Energieversorgung | Industrial Pump Group",
+                  "width": 1000,
+                  "height": 668
+                }
+              }
+            ]
           },
           {
-            "_uid": "c72bcf1c705f",
-            "component": "faq_item",
-            "question": "Warum sind Pumpen für die Effizienz von Kraftwerken wichtig?",
-            "answer": "Effiziente Pumpen tragen dazu bei, mit weniger Energie mehr Energie zu erzeugen. Dadurch können Kraftwerke ihren ökologischen Fußabdruck verringern und ihre Betriebskosten senken."
-          },
-          {
-            "_uid": "e2be776887ab",
-            "component": "faq_item",
-            "question": "Welche Rolle spielen Pumpen bei der Verringerung der Umweltauswirkungen von Kraftwerken?",
-            "answer": "Pumpen können dazu beitragen, die Umweltauswirkungen von Kraftwerken zu verringern, indem sie die Anlage effizient kühlen und die für die Kühlung benötigte Wassermenge reduzieren. Außerdem können Pumpen eingesetzt werden, um CO2 abzuscheiden und zu Speicheranlagen zu fördern, damit weniger Treibhausgase ausgestoßen werden."
-          },
-          {
-            "_uid": "7a7e04811c9b",
-            "component": "faq_item",
-            "question": "Welche Herausforderungen gibt es bei der Auslegung von Pumpen für Kraftwerke?",
-            "answer": "Pumpen für Kraftwerke müssen korrosionsbeständig sein, hohen Temperaturen und Drücken standhalten und strenge Sicherheits- und Umweltvorschriften erfüllen. Pumpen auszulegen, die all diese Anforderungen erfüllen, kann eine Herausforderung sein."
-          },
-          {
-            "_uid": "e981a53c9e13",
-            "component": "faq_item",
-            "question": "Was sind intelligente Pumpen?",
-            "answer": "Intelligente Pumpen nutzen Sensoren und Automatisierungstechnik, um den Betrieb der Pumpe an den Bedarf anzupassen. Dadurch können Kraftwerke den Energieverbrauch optimieren und die Betriebskosten senken. Intelligente Pumpen sind eine wichtige Entwicklung in der Pumpentechnik für Kraftwerke."
+            "_uid": "730bc73f5a06",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "8fa5491b7bdc",
+                "component": "faq",
+                "heading": "Häufige Fragen",
+                "items": [
+                  {
+                    "_uid": "73349ab5d083",
+                    "component": "faq_item",
+                    "question": "Welche Funktion haben Pumpen in einem Kraftwerk?",
+                    "answer": "Pumpen haben eine zentrale Funktion beim Fördern von Flüssigkeiten und Gasen durch die verschiedenen Systeme eines Kraftwerks, darunter Kühl- und Heizsysteme, Brennstoffzufuhrsysteme sowie CO2-Abscheidungs- und Speichersysteme."
+                  },
+                  {
+                    "_uid": "550e277a2e2a",
+                    "component": "faq_item",
+                    "question": "Warum sind Pumpen für die Effizienz von Kraftwerken wichtig?",
+                    "answer": "Effiziente Pumpen tragen dazu bei, mit weniger Energie mehr Energie zu erzeugen. Dadurch können Kraftwerke ihren ökologischen Fußabdruck verringern und ihre Betriebskosten senken."
+                  },
+                  {
+                    "_uid": "be107877b29d",
+                    "component": "faq_item",
+                    "question": "Welche Rolle spielen Pumpen bei der Verringerung der Umweltauswirkungen von Kraftwerken?",
+                    "answer": "Pumpen können dazu beitragen, die Umweltauswirkungen von Kraftwerken zu verringern, indem sie die Anlage effizient kühlen und die für die Kühlung benötigte Wassermenge reduzieren. Außerdem können Pumpen eingesetzt werden, um CO2 abzuscheiden und zu Speicheranlagen zu fördern, damit weniger Treibhausgase ausgestoßen werden."
+                  },
+                  {
+                    "_uid": "14cb3442252b",
+                    "component": "faq_item",
+                    "question": "Welche Herausforderungen gibt es bei der Auslegung von Pumpen für Kraftwerke?",
+                    "answer": "Pumpen für Kraftwerke müssen korrosionsbeständig sein, hohen Temperaturen und Drücken standhalten und strenge Sicherheits- und Umweltvorschriften erfüllen. Pumpen auszulegen, die all diese Anforderungen erfüllen, kann eine Herausforderung sein."
+                  },
+                  {
+                    "_uid": "5a55edbf70b0",
+                    "component": "faq_item",
+                    "question": "Was sind intelligente Pumpen?",
+                    "answer": "Intelligente Pumpen nutzen Sensoren und Automatisierungstechnik, um den Betrieb der Pumpe an den Bedarf anzupassen. Dadurch können Kraftwerke den Energieverbrauch optimieren und die Betriebskosten senken. Intelligente Pumpen sind eine wichtige Entwicklung in der Pumpentechnik für Kraftwerke."
+                  }
+                ]
+              }
+            ]
           }
         ]
       }

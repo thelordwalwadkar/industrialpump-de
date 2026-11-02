@@ -7,8 +7,11 @@ import Breadcrumbs from './Breadcrumbs.astro';
 interface Props { h1: string; intro?: string; story?: PageStory; site?: Site; accent?: boolean }
 const { h1, intro, story, site } = Astro.props;
 const crumbs = story && site ? crumbsFor(site, story) : undefined;
+// page-specific header photo (hero_image); a darker overlay keeps the white text readable on any photo
+const photo = (story?.content as { hero_image?: { filename?: string } } | undefined)?.hero_image?.filename;
+const style = photo ? `background-image: linear-gradient(90deg, rgb(19 91 145 / .9) 0%, rgb(19 91 145 / .72) 55%, rgb(19 91 145 / .35) 100%), url('${photo}')` : undefined;
 ---
-<header class="band page-head">
+<header class="band page-head" style={style}>
   <div class="wrap">
     {crumbs && crumbs.length > 1 && <Breadcrumbs crumbs={crumbs} />}
     <h1>{h1}</h1>

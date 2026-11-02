@@ -12,402 +12,490 @@
     "seo_description": "SAER NCB endsaugende Kreiselpumpen nach EN 733 für Heizung, Kühlung, Wasserversorgung und Industrie: bis 675 m³/h. Jetzt Angebot anfordern.",
     "intro": "Die SAER NCB ist eine endsaugende Kreiselpumpe mit Abmessungen und Leistungen nach EN 733 für Brandbekämpfung, Heiz- und Kühlsysteme, Wasserversorgung, Bewässerung und Industrie. Sie erreicht bis zu 675 m³/h bei 1.450 min⁻¹.",
     "series_name": "NCB",
+    "image": {
+      "filename": "/img/nl/pomptypes-merk-saer-saer-ncb.webp",
+      "alt": "SAER NCB: genormte Pumpen mit freiem Wellenende",
+      "width": 500,
+      "height": 500
+    },
     "pump_type": "kreiselpumpen",
     "use_case_line": "genormte Pumpen mit freiem Wellenende",
     "body": [
       {
-        "_uid": "82941f5bbdd4",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-saer-saer-ncb.webp",
-          "alt": "Grüne SAER NCB Kreiselpumpe mit Flanschansaugung für HVAC und industrielle Anwendungen",
-          "width": 500,
-          "height": 500
-        }
+        "_uid": "250ad9151676",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "4723d6d3f9f6",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "9cb5e78318ee",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-saer-saer-ncb.webp",
+                  "alt": "Grüne SAER NCB Kreiselpumpe mit Flanschansaugung für HVAC und industrielle Anwendungen",
+                  "width": 500,
+                  "height": 500
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "059830dcb79f",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "5b75e37051a0",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Für verschiedene Anwendungen einsetzbar"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die SAER NCB ist eine Kreiselpumpe, die sich für Brandbekämpfung, Heiz- und Kühlsysteme, Wasserversorgung, Bewässerung, Industrie sowie den Schiffbau- und Bergbausektor eignet. Je nach gewünschter Anwendung sind verschiedene Arten von Gleitringdichtungen oder Weichpackungen und Spaltringen erhältlich. Die Pumpe kann auch zur Kopplung an einen Dieselmotor geliefert werden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Konstruktive Merkmale"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "NCB",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ": endsaugende Kreiselpumpen,"
+                        },
+                        {
+                          "type": "hard_break"
+                        },
+                        {
+                          "type": "text",
+                          "text": "NCBZ",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ": endsaugende Kreiselpumpen mit Elektromotor auf einer Grundplatte."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Der Motor und der rotierende Teil der Pumpe können ausgebaut werden, ohne das Pumpengehäuse von den Anlagenleitungen zu entfernen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "90fd3cf466a5",
+        "_uid": "df922786c704",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "34863f70e8a0",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "e6bee95be9a6",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Hydraulik"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Pumpengehäuse mit Abmessungen und Leistungen nach EN 733."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Geschlossenes Laufrad, dynamisch ausgewuchtet und mit Entlastungsbohrungen zum Ausgleich des Axialschubs."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Welle vollständig aus Edelstahl."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Fett- oder ölbadgeschmierte Kugellager."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Flansche (UNI EN 1092-2): bis DN 150: PN 16, ab DN 200: PN 10."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Gleitringdichtung genormt nach UNI EN 12756"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "2bff5972e3d9",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "2dd1fd65a221",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Motor, Baureihe NCBZ"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Asynchron mit Fremdbelüftung (TEFC)"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Schutzart: IP55"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Isolation: Klasse F"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Standardspannungen, Frequenz 50 Hz, 220-240 V bis 4 kW, 380-415 V / 660-720 V ab 5,5 kW."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Motoren mit Effizienzklasse IE2 nach IEC 60034-30"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "f9cab208ea64",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "bae7a9f16061",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Anwendungen der SAER NCB"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Umwälzanlagen"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Heizung"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Klimatisierung"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Wärmerückgewinnung"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Wasserversorgungsanlagen"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Druckerhöhungsanlagen"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "31af74fb35b6",
+        "component": "cta_band",
+        "heading": "Unverbindlich Kontakt aufnehmen",
+        "text": "Wir beraten Sie gern zu Auswahl, Ersatz und Revision Ihrer Pumpe.",
+        "button_label": "Kontakt aufnehmen",
+        "button_link": {
+          "fieldtype": "multilink",
+          "linktype": "url",
+          "url": "/kontakt",
+          "cached_url": "/kontakt"
+        },
+        "variant": "primary"
+      },
+      {
+        "_uid": "9c0adf8fef5e",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Für verschiedene Anwendungen einsetzbar"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die SAER NCB ist eine Kreiselpumpe, die sich für Brandbekämpfung, Heiz- und Kühlsysteme, Wasserversorgung, Bewässerung, Industrie sowie den Schiffbau- und Bergbausektor eignet. Je nach gewünschter Anwendung sind verschiedene Arten von Gleitringdichtungen oder Weichpackungen und Spaltringen erhältlich. Die Pumpe kann auch zur Kopplung an einen Dieselmotor geliefert werden."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Konstruktive Merkmale"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "NCB",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": ": endsaugende Kreiselpumpen,"
-                },
-                {
-                  "type": "hard_break"
-                },
-                {
-                  "type": "text",
-                  "text": "NCBZ",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": ": endsaugende Kreiselpumpen mit Elektromotor auf einer Grundplatte."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Der Motor und der rotierende Teil der Pumpe können ausgebaut werden, ohne das Pumpengehäuse von den Anlagenleitungen zu entfernen."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Hydraulik"
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Pumpengehäuse mit Abmessungen und Leistungen nach EN 733."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Geschlossenes Laufrad, dynamisch ausgewuchtet und mit Entlastungsbohrungen zum Ausgleich des Axialschubs."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Welle vollständig aus Edelstahl."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Fett- oder ölbadgeschmierte Kugellager."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Flansche (UNI EN 1092-2): bis DN 150: PN 16, ab DN 200: PN 10."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Gleitringdichtung genormt nach UNI EN 12756"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Motor, Baureihe NCBZ"
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Asynchron mit Fremdbelüftung (TEFC)"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Schutzart: IP55"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Isolation: Klasse F"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Standardspannungen, Frequenz 50 Hz, 220-240 V bis 4 kW, 380-415 V / 660-720 V ab 5,5 kW."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Motoren mit Effizienzklasse IE2 nach IEC 60034-30"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Anwendungen der SAER NCB"
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Umwälzanlagen"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Heizung"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Klimatisierung"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Wärmerückgewinnung"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Wasserversorgungsanlagen"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Druckerhöhungsanlagen"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Unverbindlich Kontakt aufnehmen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -456,7 +544,7 @@
         }
       },
       {
-        "_uid": "c8f8adeb3061",
+        "_uid": "2b0f13feeb9b",
         "component": "image_block",
         "image": {
           "filename": "/img/nl/merken-0025-saer.webp",
@@ -466,7 +554,7 @@
         }
       },
       {
-        "_uid": "1b90f0b457dd",
+        "_uid": "f668b4960cd6",
         "component": "rich_text",
         "content": {
           "type": "doc",

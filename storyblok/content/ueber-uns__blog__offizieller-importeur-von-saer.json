@@ -19,160 +19,235 @@
     },
     "body": [
       {
-        "_uid": "d4e8cae2c688",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 4
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Niederländischer Importeur: IPG und SAER"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Seit fast zehn Jahren ist die Industrial Pump Group stolzer niederländischer Importeur von SAER Elettropompe, einem renommierten Pumpenhersteller mit einer langen Geschichte, die bis 1951 zurückreicht. Diese langjährige Zusammenarbeit unterstreicht nicht nur die Qualität der SAER-Pumpen, sondern auch das Engagement von IPG, dem niederländischen Markt hochwertige Pumpenlösungen zu liefern."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Rolle als Importeur"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Industrial Pump Group fungiert als wichtige Schnittstelle zwischen SAER und den niederländischen Kunden. Sie liefert nicht nur hochwertige Pumpen, sondern dient auch als verlässliche Quelle für Fachwissen und Unterstützung. IPG kennt die besonderen Anforderungen des niederländischen Marktes und arbeitet eng mit SAER zusammen, um maßgeschneiderte Lösungen für verschiedene Anwendungen zu bieten, etwa für industrielle, "
-                },
-                {
-                  "type": "text",
-                  "text": "landwirtschaftliche",
-                  "marks": [
+        "_uid": "eac744df5efe",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "fc13aa031a4d",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "082f54f1af27",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
                     {
-                      "type": "link",
+                      "type": "heading",
                       "attrs": {
-                        "href": "/pumpen/branchen/landwirtschaft",
-                        "linktype": "url"
-                      }
+                        "level": 4
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Niederländischer Importeur: IPG und SAER"
+                        }
+                      ]
                     }
                   ]
-                },
-                {
-                  "type": "text",
-                  "text": " und "
-                },
-                {
-                  "type": "text",
-                  "text": "häusliche",
-                  "marks": [
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "5ba9b110c7d8",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "743ab719d08f",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
                     {
-                      "type": "link",
-                      "attrs": {
-                        "href": "/pumpen/branchen/haushalt",
-                        "linktype": "url"
-                      }
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Seit fast zehn Jahren ist die Industrial Pump Group stolzer niederländischer Importeur von SAER Elettropompe, einem renommierten Pumpenhersteller mit einer langen Geschichte, die bis 1951 zurückreicht. Diese langjährige Zusammenarbeit unterstreicht nicht nur die Qualität der SAER-Pumpen, sondern auch das Engagement von IPG, dem niederländischen Markt hochwertige Pumpenlösungen zu liefern."
+                        }
+                      ]
                     }
                   ]
-                },
-                {
-                  "type": "text",
-                  "text": " Anforderungen."
                 }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Anspruch an Qualität"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG hat sich im Laufe der Jahre einen Ruf als verlässlicher Partner aufgebaut, der für Qualität und Langlebigkeit steht. Wer sich über IPG für SAER-Pumpen entscheidet, erhält nicht nur hochwertige Produkte, sondern auch einen verlässlichen Lieferanten, der sich für die Zufriedenheit seiner Kunden einsetzt."
-                }
-              ]
-            }
-          ]
-        }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "5b90c803b1d5",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/nieuws-ipg-saer-beursstand.webp",
-          "alt": "Messestand von IPG und SAER",
-          "width": 1024,
-          "height": 767
-        }
+        "_uid": "938fc7f00dfd",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "8af5b098a46d",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "1f1d720f16b8",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Rolle als Importeur"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Industrial Pump Group fungiert als wichtige Schnittstelle zwischen SAER und den niederländischen Kunden. Sie liefert nicht nur hochwertige Pumpen, sondern dient auch als verlässliche Quelle für Fachwissen und Unterstützung. IPG kennt die besonderen Anforderungen des niederländischen Marktes und arbeitet eng mit SAER zusammen, um maßgeschneiderte Lösungen für verschiedene Anwendungen zu bieten, etwa für industrielle, "
+                        },
+                        {
+                          "type": "text",
+                          "text": "landwirtschaftliche",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/branchen/landwirtschaft",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " und "
+                        },
+                        {
+                          "type": "text",
+                          "text": "häusliche",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/branchen/haushalt",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Anforderungen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Anspruch an Qualität"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG hat sich im Laufe der Jahre einen Ruf als verlässlicher Partner aufgebaut, der für Qualität und Langlebigkeit steht. Wer sich über IPG für SAER-Pumpen entscheidet, erhält nicht nur hochwertige Produkte, sondern auch einen verlässlichen Lieferanten, der sich für die Zufriedenheit seiner Kunden einsetzt."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "8eec7e9255b9",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "0fd9159fe37d",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/nieuws-ipg-saer-beursstand.webp",
+                  "alt": "Messestand von IPG und SAER",
+                  "width": 1024,
+                  "height": 767
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "c60615a7ecfe",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/14-mei.webp",
-          "alt": "Grafik zur Zusammenarbeit von IPG und SAER",
-          "width": 1200,
-          "height": 627
-        }
-      },
-      {
-        "_uid": "5ce1b41580ea",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ihr Partner für SAER-Pumpen und Originalersatzteile in den Niederlanden"
+        "_uid": "abfa1121e78e",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "700114558cec",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "8e35af6f3d8e",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/14-mei.webp",
+                  "alt": "Grafik zur Zusammenarbeit von IPG und SAER",
+                  "width": 1200,
+                  "height": 627
                 }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bei IPG gehen wir über die Lieferung von SAER-Pumpen hinaus; wir sind Ihr Komplettanbieter für Pumpenlösungen in den Niederlanden. Neben hochwertigen SAER-Pumpen bieten wir auch ein umfangreiches Sortiment an Originalersatzteilen, damit Kunden Effizienz und Zuverlässigkeit erhalten. Ob Neuanschaffung, Upgrade oder routinemäßige Wartung: IPG steht für fachkundige Beratung, technische Unterstützung und ein breites Angebot an SAER-Ersatzteilen, die Ihren spezifischen Anforderungen entsprechen."
+              }
+            ]
+          },
+          {
+            "_uid": "8a5e1e3441e8",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ce07da7d868f",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ihr Partner für SAER-Pumpen und Originalersatzteile in den Niederlanden"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bei IPG gehen wir über die Lieferung von SAER-Pumpen hinaus; wir sind Ihr Komplettanbieter für Pumpenlösungen in den Niederlanden. Neben hochwertigen SAER-Pumpen bieten wir auch ein umfangreiches Sortiment an Originalersatzteilen, damit Kunden Effizienz und Zuverlässigkeit erhalten. Ob Neuanschaffung, Upgrade oder routinemäßige Wartung: IPG steht für fachkundige Beratung, technische Unterstützung und ein breites Angebot an SAER-Ersatzteilen, die Ihren spezifischen Anforderungen entsprechen."
+                        }
+                      ]
+                    }
+                  ]
                 }
-              ]
-            }
-          ]
-        }
+              }
+            ]
+          }
+        ]
       }
     ],
     "image": {

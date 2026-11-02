@@ -9,153 +9,287 @@
     "component": "page_course",
     "h1": "Kurs Grundlagen Pumpen",
     "nav_title": "Kurs Grundlagen Pumpen",
+    "hero_image": {
+      "filename": "/img/nl/sfeer-fotos-shutterstock-160393526.webp",
+      "alt": "",
+      "width": 1280,
+      "height": 853
+    },
     "seo_title": "Kurs Grundlagen Pumpen: Funktion, Kennlinie, Wartung",
     "seo_description": "Kurs Grundlagen Pumpen für Monteure, Operatoren und Einkäufer: Pumpenfunktion, Pumpenkennlinie, Wartung und Reparatur. Jetzt Kurs vor Ort anfragen.",
     "intro": "Der Kurs Grundlagen Pumpen der IPG Pumpenschule erklärt, wie eine Pumpe funktioniert, wie man eine Pumpenkennlinie liest und was bei Wartung und Reparatur möglich ist. Er richtet sich an Personen ohne Vorkenntnisse, die in der Industrie mit Pumpen arbeiten.",
     "body": [
       {
-        "_uid": "ea36cb59ba31",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/sfeer-fotos-shutterstock-160393526.webp",
-          "alt": "Teilnehmer im Kurs Grundlagen Pumpen",
-          "width": 1280,
-          "height": 853
-        }
-      },
-      {
-        "_uid": "6f72b22d667f",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 4
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kurs Grundlagen Pumpen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Nach dem Kurs „Grundlagen Pumpen“ wissen Sie, wie eine Pumpe funktioniert, wie Sie eine Pumpenkennlinie ablesen und was bei Wartung und Reparatur möglich ist und was nicht. Dieses Wissen ist hilfreich, wenn Sie in der Industrie tätig sind."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Dieser überwiegend theoretische Kurs soll die Teilnehmer korrekt über die Grundlagen der Pumpe informieren und beraten. Im Kurs werden viele Pumpentypen behandelt, von Exzenterschneckenpumpen bis zu Kreiselpumpen. Dabei werden verschiedene Tipps und Tricks weitergegeben."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Behandelt werden außerdem die Bedeutung von Wartung und der richtigen Werkstoffe sowie die Punkte, auf die zu achten ist."
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "1fba282b64be",
-        "component": "faq",
-        "heading": "Häufige Fragen",
-        "items": [
+        "_uid": "4ced74e483da",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
           {
-            "_uid": "817ec2c63b66",
-            "component": "faq_item",
-            "question": "Welche Inhalte vermittelt der Kurs Grundlagen Pumpen?",
-            "answer": "Was ist eine Pumpe und wie funktioniert sie?\nVerschiedene Pumpentypen, unter anderem Kreiselpumpen und Verdrängerpumpen\nAufbau einer Kreiselpumpe\nDie Pumpenkennlinie und Grundbegriffe\nVerschiedene Arten von Wellendichtungen bei Pumpen\nGrundbegriffe zu Wartung und Reparatur"
+            "_uid": "0972f2438396",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "f719925fd58c",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 4
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kurs Grundlagen Pumpen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
           },
           {
-            "_uid": "f43965423288",
-            "component": "faq_item",
-            "question": "Für wen ist der Kurs Grundlagen Pumpen gedacht?",
-            "answer": "Der Kurs richtet sich an Personen, die keine Kenntnisse über Pumpen haben, aber damit in Berührung kommen. Er eignet sich besonders für Monteure, Operatoren, Verkäufer, Konstrukteure, Einkäufer und ähnliche Funktionen, die Wissen über Pumpen oder Pumpenwartung aufbauen möchten."
+            "_uid": "f276f4869729",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "4116661f6f6e",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Nach dem Kurs „Grundlagen Pumpen“ wissen Sie, wie eine Pumpe funktioniert, wie Sie eine Pumpenkennlinie ablesen und was bei Wartung und Reparatur möglich ist und was nicht. Dieses Wissen ist hilfreich, wenn Sie in der Industrie tätig sind."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
           }
         ]
       },
       {
-        "_uid": "fbed45db17f2",
+        "_uid": "529a262f0c51",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "892affccb5d0",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "d92d4e8a7eef",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Dieser überwiegend theoretische Kurs soll die Teilnehmer korrekt über die Grundlagen der Pumpe informieren und beraten. Im Kurs werden viele Pumpentypen behandelt, von Exzenterschneckenpumpen bis zu Kreiselpumpen. Dabei werden verschiedene Tipps und Tricks weitergegeben."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Behandelt werden außerdem die Bedeutung von Wartung und der richtigen Werkstoffe sowie die Punkte, auf die zu achten ist."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "9a4b819f33f4",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "fe1c3a389387",
+                "component": "faq",
+                "heading": "Häufige Fragen",
+                "items": [
+                  {
+                    "_uid": "8cf1c7a20561",
+                    "component": "faq_item",
+                    "question": "Welche Inhalte vermittelt der Kurs Grundlagen Pumpen?",
+                    "answer": "Was ist eine Pumpe und wie funktioniert sie?\nVerschiedene Pumpentypen, unter anderem Kreiselpumpen und Verdrängerpumpen\nAufbau einer Kreiselpumpe\nDie Pumpenkennlinie und Grundbegriffe\nVerschiedene Arten von Wellendichtungen bei Pumpen\nGrundbegriffe zu Wartung und Reparatur"
+                  },
+                  {
+                    "_uid": "129e97d641cb",
+                    "component": "faq_item",
+                    "question": "Für wen ist der Kurs Grundlagen Pumpen gedacht?",
+                    "answer": "Der Kurs richtet sich an Personen, die keine Kenntnisse über Pumpen haben, aber damit in Berührung kommen. Er eignet sich besonders für Monteure, Operatoren, Verkäufer, Konstrukteure, Einkäufer und ähnliche Funktionen, die Wissen über Pumpen oder Pumpenwartung aufbauen möchten."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "2a506e7aa409",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "13801b78151d",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "7ac9f4401c72",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kurs Grundlagen Pumpen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "9d5172a2b1a2",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "f48ab38e1deb",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kurs Inspektion und Wartung"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "0429470ccaeb",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "1dd5fd3e3a8d",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kurs Gleitringdichtungen / Mechanical Seals"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "862d9caf2b9d",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "06440184a30f",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kurs Armaturen und Ventile"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "392aac4aef44",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "cef88c32da86",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kurs Wellen und Lager"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "932343ced0fc",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kurs Grundlagen Pumpen"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kurs Inspektion und Wartung"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kurs Gleitringdichtungen / Mechanical Seals"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kurs Armaturen und Ventile"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kurs Wellen und Lager"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -215,7 +349,7 @@
                 },
                 {
                   "type": "text",
-                  "text": "Tel. [[PLATZHALTER: Telefon]]",
+                  "text": "Tel. +31 251 222 566",
                   "marks": [
                     {
                       "type": "bold"

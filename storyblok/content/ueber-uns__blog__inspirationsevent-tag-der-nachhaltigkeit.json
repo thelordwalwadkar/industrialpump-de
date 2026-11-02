@@ -8,6 +8,12 @@
   "content": {
     "component": "page_blog_post",
     "h1": "Tag der Nachhaltigkeit bei IPG: Rückblick auf das Inspirationsevent",
+    "hero_image": {
+      "filename": "/img/nl/open-dag-header-nieuwsbericht.webp",
+      "alt": "",
+      "width": 1280,
+      "height": 128
+    },
     "seo_title": "Tag der Nachhaltigkeit bei IPG: Rückblick auf das Event",
     "seo_description": "Rückblick auf den Tag der Nachhaltigkeit bei IPG mit Führungen, Vortrag von André Kuipers und Ausstellern wie Xylem und EagleBurgmann.",
     "intro": "Der Tag der Nachhaltigkeit der Industrial Pump Group, veranstaltet gemeinsam mit Microtechniek und WorldEmp, zog Besucher aus Industrie und Wasserverbänden an. Der Rückblick fasst Führungen, den Vortrag von André Kuipers, die Aussteller und das Netzwerken zusammen.",
@@ -19,262 +25,346 @@
     },
     "body": [
       {
-        "_uid": "4ef775c630d9",
+        "_uid": "33b773647d04",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "a57b90bc7f87",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "3236b54bfac0",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 4
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Tag der Nachhaltigkeit bei IPG: ein gelungenes Inspirationsevent"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "ca144e7d2acf",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "941c2ba9ec07",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Der "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Tag der Nachhaltigkeit",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ", veranstaltet von der "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Industrial Pump Group (IPG)",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " in Zusammenarbeit mit Microtechniek und WorldEmp, war ein großer Erfolg. Das Event zog Besucher aus verschiedenen Branchen an, etwa aus der Industrie und von Wasserverbänden. Das Interesse war groß, und die Führungen durch das energieneutrale Gebäude von IPG kamen gut an."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "13171ef55401",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "8f004f3b3a64",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "a008ada0b70e",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Führungen und der Vortrag von André Kuipers"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Wegen der großen Nachfrage wurden mehrere Führungen durch die nachhaltigen Einrichtungen von IPG und Microtechniek angeboten. Die Teilnehmer schätzten die einmalige Gelegenheit, hinter die Kulissen der neuesten Innovationen bei Pumpenlösungen und nachhaltigen Technologien zu blicken. Einer der Höhepunkte war der Vortrag des Astronauten "
+                        },
+                        {
+                          "type": "text",
+                          "text": "André Kuipers",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ", der das Publikum mit seinen Einsichten zur Verletzlichkeit unseres Planeten und zur Notwendigkeit von Nachhaltigkeit fesselte, gesehen durch die Linse der Raumfahrt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Geselliges Beisammensein und viel Networking"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Neben den inhaltlichen Teilen des Tages war das Networking ein großer Erfolg. Geschäftspartner von IPG, WorldEmp und Microtechniek kamen zusammen und tauschten Wissen und Ideen aus. Die Vielfalt der Branchen sorgte für interessante Gespräche, und das Event bot die ideale Gelegenheit, neue Kontakte zu knüpfen. Der informelle Charakter des Empfangs mit Livemusik und Snacks sorgte für eine entspannte Atmosphäre, in der die Besucher sichtlich genossen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "8f42cdb58d74",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "7e2a882dad50",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/andrekuipers-dagvanddeduurzaamheid.webp",
+                  "alt": "André Kuipers hält seinen Vortrag beim Tag der Nachhaltigkeit",
+                  "width": 1280,
+                  "height": 720
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "47eb4bdad656",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "1df2850175b8",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "0f3cdd5de7ad",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/dagvdduurzaamheid-avond.webp",
+                  "alt": "Netzwerkempfang am Abend des Tags der Nachhaltigkeit",
+                  "width": 1000,
+                  "height": 524
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "78cedd2539b0",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "973f0a024ec1",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Innovationen und nachhaltige Lösungen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Das Event bot außerdem reichlich Gelegenheit, Kontakte zu knüpfen und innovative Lösungen kennenzulernen. Es gab Stände von "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Xylem",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ", "
+                        },
+                        {
+                          "type": "text",
+                          "text": "EagleBurgmann",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ", "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Gerjac",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ", "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Watrmeln",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ", "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Bruin Aandrijftechniek",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " und "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Bennex",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ", die ihre neuesten nachhaltigen und innovativen Technologien präsentierten. Die Anwesenden zeigten großes Interesse an diesen Produkten, was zu fruchtbaren Gesprächen und neuen Kooperationsmöglichkeiten führte."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Positive Reaktionen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die begeisterten Reaktionen auf das Event gingen in den Tagen danach über soziale Medien und Telefongespräche ein. Es war klar, dass der Tag der Nachhaltigkeit nicht nur inhaltlich Eindruck gemacht hatte, sondern auch gesellschaftlich als großer Erfolg gesehen wurde."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "0cf2dc4e6690",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 4
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Tag der Nachhaltigkeit bei IPG: ein gelungenes Inspirationsevent"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Der "
-                },
-                {
-                  "type": "text",
-                  "text": "Tag der Nachhaltigkeit",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": ", veranstaltet von der "
-                },
-                {
-                  "type": "text",
-                  "text": "Industrial Pump Group (IPG)",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " in Zusammenarbeit mit Microtechniek und WorldEmp, war ein großer Erfolg. Das Event zog Besucher aus verschiedenen Branchen an, etwa aus der Industrie und von Wasserverbänden. Das Interesse war groß, und die Führungen durch das energieneutrale Gebäude von IPG kamen gut an."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Führungen und der Vortrag von André Kuipers"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Wegen der großen Nachfrage wurden mehrere Führungen durch die nachhaltigen Einrichtungen von IPG und Microtechniek angeboten. Die Teilnehmer schätzten die einmalige Gelegenheit, hinter die Kulissen der neuesten Innovationen bei Pumpenlösungen und nachhaltigen Technologien zu blicken. Einer der Höhepunkte war der Vortrag des Astronauten "
-                },
-                {
-                  "type": "text",
-                  "text": "André Kuipers",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": ", der das Publikum mit seinen Einsichten zur Verletzlichkeit unseres Planeten und zur Notwendigkeit von Nachhaltigkeit fesselte, gesehen durch die Linse der Raumfahrt."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Geselliges Beisammensein und viel Networking"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Neben den inhaltlichen Teilen des Tages war das Networking ein großer Erfolg. Geschäftspartner von IPG, WorldEmp und Microtechniek kamen zusammen und tauschten Wissen und Ideen aus. Die Vielfalt der Branchen sorgte für interessante Gespräche, und das Event bot die ideale Gelegenheit, neue Kontakte zu knüpfen. Der informelle Charakter des Empfangs mit Livemusik und Snacks sorgte für eine entspannte Atmosphäre, in der die Besucher sichtlich genossen."
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "b1bbb31a97a9",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/andrekuipers-dagvanddeduurzaamheid.webp",
-          "alt": "André Kuipers hält seinen Vortrag beim Tag der Nachhaltigkeit",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      {
-        "_uid": "b74eba82115e",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/dagvdduurzaamheid-avond.webp",
-          "alt": "Netzwerkempfang am Abend des Tags der Nachhaltigkeit",
-          "width": 1000,
-          "height": 524
-        }
-      },
-      {
-        "_uid": "1883d506db05",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Innovationen und nachhaltige Lösungen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Das Event bot außerdem reichlich Gelegenheit, Kontakte zu knüpfen und innovative Lösungen kennenzulernen. Es gab Stände von "
-                },
-                {
-                  "type": "text",
-                  "text": "Xylem",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": ", "
-                },
-                {
-                  "type": "text",
-                  "text": "EagleBurgmann",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": ", "
-                },
-                {
-                  "type": "text",
-                  "text": "Gerjac",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": ", "
-                },
-                {
-                  "type": "text",
-                  "text": "Watrmeln",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": ", "
-                },
-                {
-                  "type": "text",
-                  "text": "Bruin Aandrijftechniek",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " und "
-                },
-                {
-                  "type": "text",
-                  "text": "Bennex",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": ", die ihre neuesten nachhaltigen und innovativen Technologien präsentierten. Die Anwesenden zeigten großes Interesse an diesen Produkten, was zu fruchtbaren Gesprächen und neuen Kooperationsmöglichkeiten führte."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Positive Reaktionen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die begeisterten Reaktionen auf das Event gingen in den Tagen danach über soziale Medien und Telefongespräche ein. Es war klar, dass der Tag der Nachhaltigkeit nicht nur inhaltlich Eindruck gemacht hatte, sondern auch gesellschaftlich als großer Erfolg gesehen wurde."
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -300,41 +390,60 @@
         }
       },
       {
-        "_uid": "32f8b993a08b",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/rondleiding.webp",
-          "alt": "Führung durch das Gebäude von IPG und Microtechniek",
-          "width": 528,
-          "height": 379
-        }
-      },
-      {
-        "_uid": "9dc3fcbbb492",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/foodcourt-dagvandeduurzaamheid.webp",
-          "alt": "Verpflegungsbereich beim Tag der Nachhaltigkeit",
-          "width": 528,
-          "height": 379
-        }
-      },
-      {
-        "_uid": "b700a94f3ac5",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/xylem-dagvandeduurzaamheid.webp",
-          "alt": "Stand von Xylem beim Tag der Nachhaltigkeit",
-          "width": 528,
-          "height": 379
-        }
+        "_uid": "6a8ac66ce85b",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "f8ddcf62e06f",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "705e7335d84f",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/rondleiding.webp",
+                  "alt": "Führung durch das Gebäude von IPG und Microtechniek",
+                  "width": 528,
+                  "height": 379
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "9c92eafabe02",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "0544613a23ef",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/foodcourt-dagvandeduurzaamheid.webp",
+                  "alt": "Verpflegungsbereich beim Tag der Nachhaltigkeit",
+                  "width": 528,
+                  "height": 379
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "548dadfabb0c",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "c3ccfb10660a",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/xylem-dagvandeduurzaamheid.webp",
+                  "alt": "Stand von Xylem beim Tag der Nachhaltigkeit",
+                  "width": 528,
+                  "height": 379
+                }
+              }
+            ]
+          }
+        ]
       }
-    ],
-    "image": {
-      "filename": "/img/nl/open-dag-header-nieuwsbericht.webp",
-      "alt": "Tag der Nachhaltigkeit bei IPG: Rückblick auf das Inspirationsevent",
-      "width": 1280,
-      "height": 128
-    }
+    ]
   }
 }

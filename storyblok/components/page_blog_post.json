@@ -23,41 +23,49 @@
         "description": "Kurzname für Brotkrumen, Navigation und Karten (z. B. „DIWA-Serie“).",
         "pos": 2
       },
+      "hero_image": {
+        "type": "asset",
+        "filetypes": [
+          "images"
+        ],
+        "description": "Kopfbild (optional): ersetzt das Standardbild hinter Überschrift und Einleitung.",
+        "pos": 3
+      },
       "seo_title": {
         "type": "text",
         "description": "Seitentitel für Google, höchstens 60 Zeichen.",
         "max_length": 60,
         "required": true,
-        "pos": 3
+        "pos": 4
       },
       "seo_description": {
         "type": "textarea",
         "description": "Meta-Beschreibung, höchstens 155 Zeichen.",
         "max_length": 155,
         "required": true,
-        "pos": 4
+        "pos": 5
       },
       "noindex": {
         "type": "boolean",
         "description": "Nur für Sonderfälle: Seite von der Suche ausschließen. Rechtstexte bleiben indexierbar.",
         "default_value": false,
-        "pos": 5
+        "pos": 6
       },
       "publication_date": {
         "type": "text",
         "description": "Veröffentlichungsdatum (JJJJ-MM-TT). Wird für das BlogPosting-Schema genutzt.",
-        "pos": 6
+        "pos": 7
       },
       "article": {
         "type": "richtext",
         "description": "Beitragstext.",
         "rich_markdown": false,
-        "pos": 7
+        "pos": 8
       },
       "author": {
         "type": "text",
         "description": "Autor (optional, sonst Organisation).",
-        "pos": 8
+        "pos": 9
       },
       "image": {
         "type": "asset",
@@ -65,7 +73,7 @@
           "images"
         ],
         "description": "Titelbild.",
-        "pos": 9
+        "pos": 10
       },
       "related": {
         "type": "bloks",
@@ -75,7 +83,7 @@
         ],
         "description": "Verwandte Beiträge.",
         "maximum": 1,
-        "pos": 10
+        "pos": 11
       },
       "body": {
         "type": "bloks",
@@ -95,10 +103,11 @@
           "button_row",
           "pump_finder",
           "logo_carousel",
-          "usp_grid"
+          "usp_grid",
+          "section_row"
         ],
         "description": "Optionale Zusatz-Bausteine. Die Pflicht-Abschnitte sind im Template fest eingebaut.",
-        "pos": 11
+        "pos": 12
       },
       "tab-seo": {
         "type": "tab",

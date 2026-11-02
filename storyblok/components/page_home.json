@@ -23,30 +23,38 @@
         "description": "Kurzname für Brotkrumen, Navigation und Karten (z. B. „DIWA-Serie“).",
         "pos": 2
       },
+      "hero_image": {
+        "type": "asset",
+        "filetypes": [
+          "images"
+        ],
+        "description": "Kopfbild (optional): ersetzt das Standardbild hinter Überschrift und Einleitung.",
+        "pos": 3
+      },
       "seo_title": {
         "type": "text",
         "description": "Seitentitel für Google, höchstens 60 Zeichen.",
         "max_length": 60,
         "required": true,
-        "pos": 3
+        "pos": 4
       },
       "seo_description": {
         "type": "textarea",
         "description": "Meta-Beschreibung, höchstens 155 Zeichen.",
         "max_length": 155,
         "required": true,
-        "pos": 4
+        "pos": 5
       },
       "noindex": {
         "type": "boolean",
         "description": "Nur für Sonderfälle: Seite von der Suche ausschließen. Rechtstexte bleiben indexierbar.",
         "default_value": false,
-        "pos": 5
+        "pos": 6
       },
       "service_type": {
         "type": "text",
         "description": "Leistungsart für das Service-Schema der Startseite.",
-        "pos": 6
+        "pos": 7
       },
       "hero": {
         "type": "bloks",
@@ -56,7 +64,7 @@
         ],
         "description": "Hero mit Kernaussage und zwei Buttons (Pumpe finden / Angebot anfordern).",
         "maximum": 1,
-        "pos": 7
+        "pos": 8
       },
       "tiles": {
         "type": "bloks",
@@ -66,7 +74,7 @@
         ],
         "description": "Einstiegs-Kacheln: Pumpentypen, Branchen, Anwendungen, Marken.",
         "maximum": 1,
-        "pos": 8
+        "pos": 9
       },
       "revision": {
         "type": "bloks",
@@ -76,7 +84,7 @@
         ],
         "description": "Revision-Teaser (Overhaul-Farbe).",
         "maximum": 1,
-        "pos": 9
+        "pos": 10
       },
       "brands": {
         "type": "bloks",
@@ -86,7 +94,7 @@
         ],
         "description": "Marken-Leiste (wird automatisch aus den Marken-Seiten gebaut).",
         "maximum": 1,
-        "pos": 10
+        "pos": 11
       },
       "references": {
         "type": "bloks",
@@ -96,7 +104,7 @@
         ],
         "description": "Referenzen-Teaser.",
         "maximum": 1,
-        "pos": 11
+        "pos": 12
       },
       "school": {
         "type": "bloks",
@@ -106,7 +114,7 @@
         ],
         "description": "Pumpenschule-Teaser.",
         "maximum": 1,
-        "pos": 12
+        "pos": 13
       },
       "contact": {
         "type": "bloks",
@@ -116,7 +124,7 @@
         ],
         "description": "Kontakt-CTA.",
         "maximum": 1,
-        "pos": 13
+        "pos": 14
       },
       "body": {
         "type": "bloks",
@@ -136,10 +144,11 @@
           "button_row",
           "pump_finder",
           "logo_carousel",
-          "usp_grid"
+          "usp_grid",
+          "section_row"
         ],
         "description": "Optionale Zusatz-Bausteine.",
-        "pos": 14
+        "pos": 15
       },
       "tab-seo": {
         "type": "tab",

@@ -1,0 +1,32 @@
+---
+/**
+ * Abschnitt mit Spalten (wie die Zeilen von industrialpumps.nl): 2–4 Spalten nebeneinander, auf dem Handy untereinander.
+ * Spalten mit Symbol werden als Vorteils-Kachel gezeigt; „Karussell“ zeigt die Spalten als waagerecht scrollbare Karten.
+ * Eine Spalte, die nur ein Bild enthält, steht neben dem Text und füllt ihre Spalte.
+ */
+import type { SectionRow } from '../lib/types';
+import type { Site } from '../lib/storyblok';
+import Bloks from '../components/Bloks.astro';
+interface Props { blok: SectionRow; site: Site }
+const { blok, site } = Astro.props;
+const cols = (blok.columns ?? []).filter((c) => (c.content ?? []).length);
+const carousel = blok.layout === 'carousel';
+const onlyImage = (c: (typeof cols)[number]) => (c.content ?? []).every((b) => b.component === 'image_block');
+// a row of image-only columns is a logo grid (e.g. the brands of industrialpumps.nl/pompen/merken)
+const logos = !carousel && cols.length > 1 && cols.every(onlyImage);
+---
+{cols.length > 0 && (
+  <section class={`section row-section${carousel ? ' row-section--carousel' : ''}`}>
+    <div class="wrap">
+      {blok.heading && <h2>{blok.heading}</h2>}
+      <div class={carousel ? 'row-track' : `row-cols${logos ? ' row-cols--logos' : ''}`} style={`--cols:${Math.min(cols.length, logos ? 6 : 4)}`} tabindex={carousel ? 0 : undefined}>
+        {cols.map((c) => (
+          <div class={`col${c.icon ? ' col--feature' : ''}${onlyImage(c) ? ' col--media' : ''}`}>
+            {c.icon && <span class="col-icon" aria-hidden="true"></span>}
+            <Bloks bloks={c.content as never} site={site} bare />
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+)}

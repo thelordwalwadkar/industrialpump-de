@@ -8,6 +8,7 @@ import PageHead from '../components/PageHead.astro';
 import RelatedLinks from '../storyblok/RelatedLinks.astro';
 import DownloadList from '../storyblok/DownloadList.astro';
 import QuoteCta from '../components/QuoteCta.astro';
+import { hasOwnCta } from '../lib/page-cta';
 import Bloks from '../components/Bloks.astro';
 interface Props { story: PageStory<PageKnowledge>; site: Site }
 const { story, site } = Astro.props;
@@ -23,13 +24,13 @@ const html = raw.replace(/<h2>(.*?)<\/h2>/g, (_m, inner: string) => {
 });
 ---
 <PageHead story={story} site={site} h1={c.h1 || story.name} intro={c.intro} />
-<section class="section">
+{html && <section class="section">
   <div class="wrap">
     {toc.length > 1 && <nav class="toc" aria-label="Inhaltsverzeichnis"><strong>Inhalt</strong><ol>{toc.map((t) => <li><a href={`#${t.id}`}>{t.text}</a></li>)}</ol></nav>}
     {html && <div class="prose" set:html={html} />}
   </div>
-</section>
+</section>}
 {c.downloads?.map((b) => <DownloadList blok={b} />)}
 <Bloks bloks={c.body} site={site} />
 {c.related?.map((b) => <RelatedLinks blok={b} site={site} />)}
-<div class="wrap"><QuoteCta heading="Fragen zur Auslegung?" text="Senden Sie uns Ihre Betriebsdaten, wir prüfen die passende Pumpe." label="Angebot anfordern" href="/angebot" /></div>
+{!hasOwnCta(c) && <div class="wrap"><QuoteCta heading="Fragen zur Auslegung?" text="Senden Sie uns Ihre Betriebsdaten, wir prüfen die passende Pumpe." label="Angebot anfordern" href="/angebot" /></div>}

@@ -5,9 +5,9 @@ Every internal link on the site is derived from the folder tree and the shared t
 | Level | Pages | Avg. outbound body links | Avg. inbound links |
 |---|---|---|---|
 | Startseite | 1 | 35.0 | 217.0 |
-| 1 | 12 | 12.4 | 183.8 |
+| 1 | 12 | 11.2 | 183.8 |
 | 2 | 34 | 16.8 | 54.0 |
-| 3 | 109 | 8.1 | 20.2 |
+| 3 | 109 | 8.2 | 20.1 |
 | 4 | 40 | 15.4 | 10.6 |
 | 5 | 21 | 10.9 | 1.0 |
 

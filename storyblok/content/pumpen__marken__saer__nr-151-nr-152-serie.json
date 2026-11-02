@@ -12,46 +12,107 @@
     "seo_description": "SAER NR-151 und NR-152: verschleißfeste Brunnenpumpen für Bohrbrunnen ab 156 mm. Daten, Werkstoffe und Kennwerte. Jetzt Angebot anfordern.",
     "intro": "Die SAER NR-151 und NR-152 sind mehrstufige Unterwasser-Brunnenpumpen für 4-Zoll- und 6-Zoll-Motoren, die Wasser aus Bohrbrunnen mit mindestens 156 mm Durchmesser fördern. Sie richten sich an Betreiber von Bewässerungs-, Industrie- und kommunalen Anlagen.",
     "series_name": "NR-151-NR-152",
+    "image": {
+      "filename": "/img/nl/pomptypes-merk-saer-saer-nr151.webp",
+      "alt": "Verschleißfeste Brunnenpumpen SAER NR-151 / NR-152",
+      "width": 500,
+      "height": 500
+    },
     "pump_type": "tauchmotorpumpen",
     "use_case_line": "Die SAER NR-151 und NR-152 sind mehrstufige Unterwasser-Brunnenpumpen für 4-Zoll- und 6-Zoll-Motoren, die Wasser aus Boh",
     "body": [
       {
-        "_uid": "1182d9fee74d",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-saer-saer-nr151.webp",
-          "alt": "SAER NR 151 Brunnenpumpe aus Edelstahl für Unterwasserinstallationen in industriellen Anwendungen",
-          "width": 500,
-          "height": 500
-        }
+        "_uid": "4ee0bcdf67f9",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "b58b3a724544",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "75183f7599c0",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-saer-saer-nr151.webp",
+                  "alt": "SAER NR 151 Brunnenpumpe aus Edelstahl für Unterwasserinstallationen in industriellen Anwendungen",
+                  "width": 500,
+                  "height": 500
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "3b204296edad",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "25b351f06526",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Wirkungsgrad der SAER NR-151 / NR-152"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die SAER NR-151 und NR-152 zeichnen sich durch hohe Verschleißfestigkeit, einen guten Wirkungsgrad und Zuverlässigkeit aus. Die NR-Baureihe eignet sich für die Wasserförderung aus Bohrbrunnen mit einem Mindestdurchmesser von 156 mm, für Waschanlagen, Landwirtschaft, Industrie und kommunale Anwendungen. Das Rückschlagventil ist im Pumpengehäuse integriert."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "✓ Komplett mit Elektromotor"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "✓ Verschleißfeste Pumpe"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "✓ Anschluss 4″ oder 6″"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "d0aa8319a48f",
+        "_uid": "92623918d3a3",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Wirkungsgrad der SAER NR-151 / NR-152"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die SAER NR-151 und NR-152 zeichnen sich durch hohe Verschleißfestigkeit, einen guten Wirkungsgrad und Zuverlässigkeit aus. Die NR-Baureihe eignet sich für die Wasserförderung aus Bohrbrunnen mit einem Mindestdurchmesser von 156 mm, für Waschanlagen, Landwirtschaft, Industrie und kommunale Anwendungen. Das Rückschlagventil ist im Pumpengehäuse integriert."
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -170,457 +231,572 @@
                   ]
                 }
               ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 4
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Unverbindlich Kontakt aufnehmen"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Werkstoffe"
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "ec9ae0c8e3ee",
+        "component": "cta_band",
+        "heading": "Unverbindlich Kontakt aufnehmen",
+        "text": "Wir beraten Sie gern zu Auswahl, Ersatz und Revision Ihrer Pumpe.",
+        "button_label": "Kontakt aufnehmen",
+        "button_link": {
+          "fieldtype": "multilink",
+          "linktype": "url",
+          "url": "/kontakt",
+          "cached_url": "/kontakt"
+        },
+        "variant": "primary"
+      },
+      {
+        "_uid": "0ffe6b11f059",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "a9b122684806",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "31b1d2ad88b7",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
                     {
-                      "type": "paragraph",
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
                       "content": [
                         {
                           "type": "text",
-                          "text": "Laufräder: Polycarbonat, glasfaserverstärkt."
+                          "text": "Werkstoffe"
                         }
                       ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
+                    },
                     {
-                      "type": "paragraph",
+                      "type": "bullet_list",
                       "content": [
                         {
-                          "type": "text",
-                          "text": "Leiträder: Noryl (Technopolymer), glasfaserverstärkt."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Laufräder: Polycarbonat, glasfaserverstärkt."
+                                }
+                              ]
+                            }
+                          ]
+                        },
                         {
-                          "type": "text",
-                          "text": "Welle aus Edelstahl AISI431 mit Nutprofil."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Leiträder: Noryl (Technopolymer), glasfaserverstärkt."
+                                }
+                              ]
+                            }
+                          ]
+                        },
                         {
-                          "type": "text",
-                          "text": "Druck- und Saugteil: Grauguss EN-GJL-250 (auf Anfrage Edelstahl AISI304)."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Welle aus Edelstahl AISI431 mit Nutprofil."
+                                }
+                              ]
+                            }
+                          ]
+                        },
                         {
-                          "type": "text",
-                          "text": "Außenmantel: Edelstahl AISI304."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Druck- und Saugteil: Grauguss EN-GJL-250 (auf Anfrage Edelstahl AISI304)."
+                                }
+                              ]
+                            }
+                          ]
+                        },
                         {
-                          "type": "text",
-                          "text": "Abmessungen und Art des Druckanschlusses: Gewindeanschluss 2 1/2″ G (NR151 A-B-C-D-F) oder 3″ G (NR151 E)."
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Leistungsdaten"
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Außenmantel: Edelstahl AISI304."
+                                }
+                              ]
+                            }
+                          ]
+                        },
                         {
-                          "type": "text",
-                          "text": "Fördermedium: chemisch und mechanisch nicht aggressiv, ohne Feststoffe oder abrasive Bestandteile."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Feststoffdurchgang: max. 4 mm."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Temperatur des Fördermediums: min. 0 °C, max. 35 °C (CL95) bzw. max. 30 °C (MS152)."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Maximaler Betriebsdruck: 38 bar."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Maximale Eintauchtiefe: 300 m unter dem Flüssigkeitsspiegel."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Drehrichtung: im Uhrzeigersinn, vom Druckstutzen aus gesehen."
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Abmessungen und Art des Druckanschlusses: Gewindeanschluss 2 1/2″ G (NR151 A-B-C-D-F) oder 3″ G (NR151 E)."
+                                }
+                              ]
+                            }
+                          ]
                         }
                       ]
                     }
                   ]
                 }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Anwendungen"
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
+              }
+            ]
+          },
+          {
+            "_uid": "d1fb9e781424",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "cd89d00bccab",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
                     {
-                      "type": "paragraph",
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
                       "content": [
                         {
                           "type": "text",
-                          "text": "Kommunale und industrielle Anlagen"
+                          "text": "Leistungsdaten"
                         }
                       ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
+                    },
                     {
-                      "type": "paragraph",
+                      "type": "bullet_list",
                       "content": [
                         {
-                          "type": "text",
-                          "text": "Speisung von Autoklaven und Behältern"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Fördermedium: chemisch und mechanisch nicht aggressiv, ohne Feststoffe oder abrasive Bestandteile."
+                                }
+                              ]
+                            }
+                          ]
+                        },
                         {
-                          "type": "text",
-                          "text": "Waschanlagen"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Feststoffdurchgang: max. 4 mm."
+                                }
+                              ]
+                            }
+                          ]
+                        },
                         {
-                          "type": "text",
-                          "text": "Bewässerungssysteme."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Temperatur des Fördermediums: min. 0 °C, max. 35 °C (CL95) bzw. max. 30 °C (MS152)."
+                                }
+                              ]
+                            }
+                          ]
+                        },
                         {
-                          "type": "text",
-                          "text": "Förderung aus Brunnen mit einem Mindestdurchmesser von 156 mm, aus Tanks oder natürlichen Becken."
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Installation"
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Maximaler Betriebsdruck: 38 bar."
+                                }
+                              ]
+                            }
+                          ]
+                        },
                         {
-                          "type": "text",
-                          "text": "Vertikal oder horizontal, abhängig von der Leistung."
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Normen"
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Maximale Eintauchtiefe: 300 m unter dem Flüssigkeitsspiegel."
+                                }
+                              ]
+                            }
+                          ]
+                        },
                         {
-                          "type": "text",
-                          "text": "Pumpe: UNI EN ISO 9906."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Motor: IEC 60034-1."
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Drehrichtung: im Uhrzeigersinn, vom Druckstutzen aus gesehen."
+                                }
+                              ]
+                            }
+                          ]
                         }
                       ]
                     }
                   ]
                 }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Sonderausführungen"
+              }
+            ]
+          },
+          {
+            "_uid": "e79b3203cec7",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "82a31c7a9076",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Anwendungen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Kommunale und industrielle Anlagen"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Speisung von Autoklaven und Behältern"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Waschanlagen"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Bewässerungssysteme."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Förderung aus Brunnen mit einem Mindestdurchmesser von 156 mm, aus Tanks oder natürlichen Becken."
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
                 }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "bbdaeac10f09",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "194433a203d8",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "4acc47abde36",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
                     {
-                      "type": "paragraph",
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
                       "content": [
                         {
                           "type": "text",
-                          "text": "SAER Baureihe XNR151 mit Saug- und Druckteil aus Edelstahl AISI304 im Feinguss."
+                          "text": "Installation"
                         }
                       ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
+                    },
                     {
-                      "type": "paragraph",
+                      "type": "bullet_list",
                       "content": [
                         {
-                          "type": "text",
-                          "text": "Ausführung mit gepressten Edelstahl-Laufrädern AISI304 (NR151 A-B-C-D)."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Ausführung mit Messing-Laufrädern."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Verschiedene Spannungen."
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Vertikal oder horizontal, abhängig von der Leistung."
+                                }
+                              ]
+                            }
+                          ]
                         }
                       ]
                     }
                   ]
                 }
-              ]
-            },
+              }
+            ]
+          },
+          {
+            "_uid": "426bc6368140",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "7cf55500926f",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Normen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Pumpe: UNI EN ISO 9906."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Motor: IEC 60034-1."
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "36ec5524e5c2",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "9f51af459cf3",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Sonderausführungen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "SAER Baureihe XNR151 mit Saug- und Druckteil aus Edelstahl AISI304 im Feinguss."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Ausführung mit gepressten Edelstahl-Laufrädern AISI304 (NR151 A-B-C-D)."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Ausführung mit Messing-Laufrädern."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Verschiedene Spannungen."
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "ba15a0e63093",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
             {
               "type": "heading",
               "attrs": {
@@ -726,7 +902,7 @@
         }
       },
       {
-        "_uid": "bb0e69f65906",
+        "_uid": "241dec139004",
         "component": "image_block",
         "image": {
           "filename": "/img/nl/merken-0025-saer.webp",
@@ -736,7 +912,7 @@
         }
       },
       {
-        "_uid": "80538ed092d9",
+        "_uid": "48fb8a5df1ad",
         "component": "rich_text",
         "content": {
           "type": "doc",

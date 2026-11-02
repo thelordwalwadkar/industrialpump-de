@@ -15,492 +15,740 @@
     "topic_kind": "pumpentyp",
     "body": [
       {
-        "_uid": "34a5f56f2740",
+        "_uid": "882925114fc5",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "21d2c70d27e1",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ebb61f46ea86",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kunststoffpumpen werden in der Industrie wegen ihrer Korrosionsbeständigkeit und chemischen Inertheit vielfach eingesetzt, was sie für ein breites Spektrum an Anwendungen geeignet macht."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "1b8bf56d7157",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "052c8b5077a0",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Chemische Industrie",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/branchen/chemische-industrie",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Pharmaindustrie",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/branchen/pharmaindustrie",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Lebensmittelindustrie",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/branchen/lebensmittelindustrie",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Debem-Pumpen"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "dd2ecde705a4",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "c2b09367db86",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "be9821b1c27c",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Vorteile und Anwendungen von Kunststoffpumpen in der Industrie"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "4406c567a88f",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "44288ea06604",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kunststoffpumpen sind für korrosive und abrasive Anwendungen in der Industrie ausgelegt. Sie bestehen aus chemisch resistenten Werkstoffen wie Polypropylen, PVC, PVDF, Teflon und anderen Polymeren und sind dadurch beständig gegen Korrosion, Hitze und chemische Angriffe."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Außerdem sind sie leicht, einfach zu installieren und wartungsarm. Kunststoffpumpen kommen häufig in der chemischen, pharmazeutischen und Lebensmittelindustrie sowie in der Wasseraufbereitung und in der Galvanikindustrie zum Einsatz. Dank ihrer Zuverlässigkeit, Effizienz und Langlebigkeit sind Kunststoffpumpen in vielen industriellen Anwendungen ein wichtiges Bauteil."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "b5e94d04f97e",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "3ffb32c06540",
+            "component": "section_column",
+            "icon": "fa-shield-check",
+            "content": [
+              {
+                "_uid": "a9935642d7b9",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Korrosionsbeständigkeit und chemische Beständigkeit",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kunststoffpumpen bestehen aus chemisch resistenten Werkstoffen wie Polypropylen, PVC, PVDF, Teflon und anderen Polymeren und sind dadurch beständig gegen Korrosion und chemische Angriffe. Sie eignen sich daher für Anwendungen mit aggressiven Chemikalien."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "6bec802581af",
+            "component": "section_column",
+            "icon": "fa-wrench",
+            "content": [
+              {
+                "_uid": "cd492ed5e554",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Geringes Gewicht und einfache Installation",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Pumpen sind leicht, was Installation und Handhabung erleichtert. Das spart bei Installation und Wartung Zeit und Aufwand."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "b934a05f3f54",
+            "component": "section_column",
+            "icon": "fa-cog",
+            "content": [
+              {
+                "_uid": "6a875fc7ea80",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Geringer Wartungsbedarf",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kunststoffpumpen benötigen dank ihrer langlebigen Bauweise und ihrer Verschleißfestigkeit wenig Wartung. Das führt zu niedrigeren Wartungskosten und weniger Stillstandszeiten."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "b82a3c62c176",
+            "component": "section_column",
+            "icon": "fa-tools",
+            "content": [
+              {
+                "_uid": "7ecfa81cacec",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Zuverlässigkeit und Langlebigkeit",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Dank ihrer robusten Werkstoffe und Konstruktion bieten Kunststoffpumpen in industriellen Anwendungen zuverlässige und langlebige Leistung, auch unter sehr anspruchsvollen Bedingungen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "1d72b1be4922",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "65df4d605074",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "b3bce483cacc",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Alles, was Sie über industrielle Kunststoffpumpen wissen sollten"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Industrielle Kunststoffpumpen sind für Anwendungen ausgelegt, bei denen Korrosion und Verschleiß eine große Rolle spielen. Sie bestehen aus langlebigen, chemisch resistenten Werkstoffen wie Polypropylen, PVC, PVDF, Teflon und anderen Polymeren. Diese Werkstoffe bieten eine hohe Beständigkeit gegen Korrosion, hohe Temperaturen und chemische Angriffe. Außerdem sind Kunststoffpumpen leicht, einfach zu installieren und wartungsarm."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kunststoffpumpen werden vielfach in der chemischen, pharmazeutischen und Lebensmittelindustrie sowie in der Wasseraufbereitung, der Galvanikindustrie und in anderen Branchen eingesetzt, in denen korrosive Flüssigkeiten gefördert werden. In diesen Anwendungen bieten Kunststoffpumpen zuverlässige, effiziente und langlebige Leistung. Wichtig ist jedoch, die richtige Kunststoffpumpe für die jeweilige Anwendung zu wählen und die Pumpe regelmäßig zu warten, um Lebensdauer und Leistung zu optimieren."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Wartung"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Um die Leistung von Kunststoffpumpen zu optimieren, ist regelmäßige Wartung erforderlich. Dazu gehört, die Pumpe zu inspizieren, zu reinigen und eventuellen Verschleiß oder Beschädigungen zu beheben. Durch regelmäßige Wartung lässt sich die Lebensdauer der Pumpe verlängern und Störungen können vermieden werden."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "2041c5df1d55",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "233ea425a7b7",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-kunststofpompen-1.webp",
+                  "alt": "Kunststoff-Kreiselpumpe für industrielle Anwendungen zum sicheren Fördern korrosiver und chemischer Flüssigkeiten",
+                  "width": 935,
+                  "height": 526
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "184b60560d1d",
+        "component": "section_row",
+        "layout": "carousel",
+        "columns": [
+          {
+            "_uid": "83b2a4a47551",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "9b84b64036cb",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Zuverlässiger und proaktiver Service von IPG!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Leiter Technischer Dienst schätze ich die Zuverlässigkeit der Herstellerunabhängigkeit von IPG und die proaktive Vorgehensweise. Der schnelle Service ist in unserer Branche entscheidend, in der jede Minute Stillstand zählt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Leiter Technischer Dienst bei einem Chemiewerk."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "a949727157a7",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "f30ea3effac0",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG: ein zuverlässiger Partner bei Beschaffung und Optimierung!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Einkaufsleiter schätze ich IPG als Partner, der unsere Anforderungen versteht und schnell liefert. Fachwissen und Beratung haben unsere Prozesse optimiert."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Einkaufsleiter bei einem Lebensmittelhersteller."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "781e6f0d7f43",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "cf5f9cce44c5",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG ist ein unverzichtbarer Partner für Produktionseffizienz!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Produktionsleiter schätze ich IPG als unverzichtbaren Partner für Effizienz und Verfügbarkeit. Das fachkundige Team hat uns bei der Auswahl der passenden Pumpen und beim Service für eine gleichbleibende Produktion unterstützt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Projektleiter bei einer Papierfabrik."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "3b9ca765a7cc",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "5b964d0b3d3b",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Leichte, langlebige Pumpen mit niedrigen Wartungskosten!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG liefert Kunststoffpumpen, die leicht und dennoch robust sind. Dadurch lassen sie sich gut handhaben und warten, was uns hilft, die Betriebskosten niedrig zu halten."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Technischer Verwalter bei einem Wasseraufbereitungsunternehmen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "48e5750d587b",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "c5226b7ac944",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Hervorragende chemische Beständigkeit für anspruchsvolle Anwendungen!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Kunststoffpumpen von IPG passen sehr gut zu unseren chemischen Prozessen, in denen die Beständigkeit gegen aggressive Stoffe wesentlich ist. Sie sind zuverlässig und liefern gleichbleibende Leistung, auch unter schwierigen Bedingungen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Operations Manager bei einem chemischen Produktionsbetrieb in den Niederlanden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "a304c0825de9",
+        "component": "cta_band",
+        "heading": "Unverbindlich Kontakt aufnehmen",
+        "text": "Wir beraten Sie gern zu Auswahl, Ersatz und Revision Ihrer Pumpe.",
+        "button_label": "Kontakt aufnehmen",
+        "button_link": {
+          "fieldtype": "multilink",
+          "linktype": "url",
+          "url": "/kontakt",
+          "cached_url": "/kontakt"
+        },
+        "variant": "primary"
+      },
+      {
+        "_uid": "a1544a30a9fe",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kunststoffpumpen werden in der Industrie wegen ihrer Korrosionsbeständigkeit und chemischen Inertheit vielfach eingesetzt, was sie für ein breites Spektrum an Anwendungen geeignet macht."
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Chemische Industrie",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/branchen/chemische-industrie",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Pharmaindustrie",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/branchen/pharmaindustrie",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Lebensmittelindustrie",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/branchen/lebensmittelindustrie",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Debem-Pumpen"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Vorteile und Anwendungen von Kunststoffpumpen in der Industrie"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kunststoffpumpen sind für korrosive und abrasive Anwendungen in der Industrie ausgelegt. Sie bestehen aus chemisch resistenten Werkstoffen wie Polypropylen, PVC, PVDF, Teflon und anderen Polymeren und sind dadurch beständig gegen Korrosion, Hitze und chemische Angriffe."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Außerdem sind sie leicht, einfach zu installieren und wartungsarm. Kunststoffpumpen kommen häufig in der chemischen, pharmazeutischen und Lebensmittelindustrie sowie in der Wasseraufbereitung und in der Galvanikindustrie zum Einsatz. Dank ihrer Zuverlässigkeit, Effizienz und Langlebigkeit sind Kunststoffpumpen in vielen industriellen Anwendungen ein wichtiges Bauteil."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Korrosionsbeständigkeit und chemische Beständigkeit",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kunststoffpumpen bestehen aus chemisch resistenten Werkstoffen wie Polypropylen, PVC, PVDF, Teflon und anderen Polymeren und sind dadurch beständig gegen Korrosion und chemische Angriffe. Sie eignen sich daher für Anwendungen mit aggressiven Chemikalien."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Geringes Gewicht und einfache Installation",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Pumpen sind leicht, was Installation und Handhabung erleichtert. Das spart bei Installation und Wartung Zeit und Aufwand."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Geringer Wartungsbedarf",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kunststoffpumpen benötigen dank ihrer langlebigen Bauweise und ihrer Verschleißfestigkeit wenig Wartung. Das führt zu niedrigeren Wartungskosten und weniger Stillstandszeiten."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zuverlässigkeit und Langlebigkeit",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Dank ihrer robusten Werkstoffe und Konstruktion bieten Kunststoffpumpen in industriellen Anwendungen zuverlässige und langlebige Leistung, auch unter sehr anspruchsvollen Bedingungen."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Alles, was Sie über industrielle Kunststoffpumpen wissen sollten"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Industrielle Kunststoffpumpen sind für Anwendungen ausgelegt, bei denen Korrosion und Verschleiß eine große Rolle spielen. Sie bestehen aus langlebigen, chemisch resistenten Werkstoffen wie Polypropylen, PVC, PVDF, Teflon und anderen Polymeren. Diese Werkstoffe bieten eine hohe Beständigkeit gegen Korrosion, hohe Temperaturen und chemische Angriffe. Außerdem sind Kunststoffpumpen leicht, einfach zu installieren und wartungsarm."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kunststoffpumpen werden vielfach in der chemischen, pharmazeutischen und Lebensmittelindustrie sowie in der Wasseraufbereitung, der Galvanikindustrie und in anderen Branchen eingesetzt, in denen korrosive Flüssigkeiten gefördert werden. In diesen Anwendungen bieten Kunststoffpumpen zuverlässige, effiziente und langlebige Leistung. Wichtig ist jedoch, die richtige Kunststoffpumpe für die jeweilige Anwendung zu wählen und die Pumpe regelmäßig zu warten, um Lebensdauer und Leistung zu optimieren."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Wartung"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Um die Leistung von Kunststoffpumpen zu optimieren, ist regelmäßige Wartung erforderlich. Dazu gehört, die Pumpe zu inspizieren, zu reinigen und eventuellen Verschleiß oder Beschädigungen zu beheben. Durch regelmäßige Wartung lässt sich die Lebensdauer der Pumpe verlängern und Störungen können vermieden werden."
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "b37c7271f128",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-kunststofpompen-1.webp",
-          "alt": "Kunststoff-Kreiselpumpe für industrielle Anwendungen zum sicheren Fördern korrosiver und chemischer Flüssigkeiten",
-          "width": 935,
-          "height": 526
-        }
-      },
-      {
-        "_uid": "b6f97cee0fcb",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zuverlässiger und proaktiver Service von IPG!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Leiter Technischer Dienst schätze ich die Zuverlässigkeit der Herstellerunabhängigkeit von IPG und die proaktive Vorgehensweise. Der schnelle Service ist in unserer Branche entscheidend, in der jede Minute Stillstand zählt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Leiter Technischer Dienst bei einem Chemiewerk."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG: ein zuverlässiger Partner bei Beschaffung und Optimierung!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Einkaufsleiter schätze ich IPG als Partner, der unsere Anforderungen versteht und schnell liefert. Fachwissen und Beratung haben unsere Prozesse optimiert."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Einkaufsleiter bei einem Lebensmittelhersteller."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG ist ein unverzichtbarer Partner für Produktionseffizienz!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Produktionsleiter schätze ich IPG als unverzichtbaren Partner für Effizienz und Verfügbarkeit. Das fachkundige Team hat uns bei der Auswahl der passenden Pumpen und beim Service für eine gleichbleibende Produktion unterstützt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Projektleiter bei einer Papierfabrik."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Leichte, langlebige Pumpen mit niedrigen Wartungskosten!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG liefert Kunststoffpumpen, die leicht und dennoch robust sind. Dadurch lassen sie sich gut handhaben und warten, was uns hilft, die Betriebskosten niedrig zu halten."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Technischer Verwalter bei einem Wasseraufbereitungsunternehmen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Hervorragende chemische Beständigkeit für anspruchsvolle Anwendungen!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Kunststoffpumpen von IPG passen sehr gut zu unseren chemischen Prozessen, in denen die Beständigkeit gegen aggressive Stoffe wesentlich ist. Sie sind zuverlässig und liefern gleichbleibende Leistung, auch unter schwierigen Bedingungen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Operations Manager bei einem chemischen Produktionsbetrieb in den Niederlanden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 4
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Unverbindlich Kontakt aufnehmen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -586,37 +834,56 @@
         }
       },
       {
-        "_uid": "d56968aea555",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-kunststofpompen-2.webp",
-          "alt": "Vertikale Tauchmotorpumpe und Kunststoff-Membranpumpe für die chemische Industrie und Abwasserbehandlung zum Fördern aggressiver Flüssigkeiten",
-          "width": 935,
-          "height": 526
-        }
-      },
-      {
-        "_uid": "28fc00d24f18",
-        "component": "faq",
-        "heading": "Häufige Fragen",
-        "items": [
+        "_uid": "9dc4d928e4a2",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
           {
-            "_uid": "b528b9dde2ec",
-            "component": "faq_item",
-            "question": "Was ist eine Kunststoffpumpe?",
-            "answer": "Eine Kunststoffpumpe ist eine Kreiselpumpe, die zum Fördern korrosiver und chemisch aggressiver Flüssigkeiten ausgelegt ist. Der Werkstoff der Pumpe ist beständig gegen Chemikalien und Korrosion."
+            "_uid": "82367caadc3b",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "04d294a4d125",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-kunststofpompen-2.webp",
+                  "alt": "Vertikale Tauchmotorpumpe und Kunststoff-Membranpumpe für die chemische Industrie und Abwasserbehandlung zum Fördern aggressiver Flüssigkeiten",
+                  "width": 935,
+                  "height": 526
+                }
+              }
+            ]
           },
           {
-            "_uid": "d5bfccdfcab1",
-            "component": "faq_item",
-            "question": "Welche Werkstoffe werden für Kunststoffpumpen verwendet?",
-            "answer": "Die am häufigsten verwendeten Werkstoffe für Kunststoffpumpen sind Polypropylen, PVC, PVDF und Teflon."
-          },
-          {
-            "_uid": "08d0c5326357",
-            "component": "faq_item",
-            "question": "Wo werden Kunststoffpumpen eingesetzt?",
-            "answer": "Kunststoffpumpen werden vielfach in der chemischen, pharmazeutischen und Lebensmittelindustrie sowie in der Wasseraufbereitung, der Galvanikindustrie und in anderen Branchen eingesetzt, in denen korrosive Flüssigkeiten gefördert werden."
+            "_uid": "5f7ce534f13f",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "63036200e882",
+                "component": "faq",
+                "heading": "Häufige Fragen",
+                "items": [
+                  {
+                    "_uid": "6fbfb5ee5e9e",
+                    "component": "faq_item",
+                    "question": "Was ist eine Kunststoffpumpe?",
+                    "answer": "Eine Kunststoffpumpe ist eine Kreiselpumpe, die zum Fördern korrosiver und chemisch aggressiver Flüssigkeiten ausgelegt ist. Der Werkstoff der Pumpe ist beständig gegen Chemikalien und Korrosion."
+                  },
+                  {
+                    "_uid": "b67b08f8b4cd",
+                    "component": "faq_item",
+                    "question": "Welche Werkstoffe werden für Kunststoffpumpen verwendet?",
+                    "answer": "Die am häufigsten verwendeten Werkstoffe für Kunststoffpumpen sind Polypropylen, PVC, PVDF und Teflon."
+                  },
+                  {
+                    "_uid": "88a74f01c2b2",
+                    "component": "faq_item",
+                    "question": "Wo werden Kunststoffpumpen eingesetzt?",
+                    "answer": "Kunststoffpumpen werden vielfach in der chemischen, pharmazeutischen und Lebensmittelindustrie sowie in der Wasseraufbereitung, der Galvanikindustrie und in anderen Branchen eingesetzt, in denen korrosive Flüssigkeiten gefördert werden."
+                  }
+                ]
+              }
+            ]
           }
         ]
       }

@@ -4,6 +4,7 @@ import type { PageAbout, PageStory } from '../lib/types';
 import type { Site } from '../lib/storyblok';
 import PageHead from '../components/PageHead.astro';
 import QuoteCta from '../components/QuoteCta.astro';
+import { hasOwnCta } from '../lib/page-cta';
 import Bloks from '../components/Bloks.astro';
 interface Props { story: PageStory<PageAbout>; site: Site }
 const { story, site } = Astro.props;
@@ -11,5 +12,5 @@ const c = story.content;
 ---
 <PageHead story={story} site={site} h1={c.h1 || story.name} intro={c.intro} />
 <Bloks bloks={c.body} site={site} />
-<div class="wrap"><QuoteCta heading="Sprechen Sie mit uns" text="Wir beraten zu Auswahl, Ersatz und Revision Ihrer Pumpen." label="Kontakt aufnehmen" href="/kontakt" /></div>
+{!hasOwnCta(c) && <div class="wrap"><QuoteCta heading="Sprechen Sie mit uns" text="Wir beraten zu Auswahl, Ersatz und Revision Ihrer Pumpen." label="Kontakt aufnehmen" href="/kontakt" /></div>}
 <Bloks bloks={c.cta} site={site} />

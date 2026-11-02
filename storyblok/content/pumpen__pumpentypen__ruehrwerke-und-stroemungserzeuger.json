@@ -15,515 +15,748 @@
     "topic_kind": "pumpentyp",
     "body": [
       {
-        "_uid": "e53f7b98aab6",
+        "_uid": "b164d87f6d89",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "72a2f01b59f0",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "89341fda6112",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Rührwerke und Strömungserzeuger sind wesentliche Komponenten der Wasseraufbereitung: Rührwerke sorgen für eine gleichmäßige Verteilung von Chemikalien, Strömungserzeuger entfernen Sedimente und tragen so zu Wasserqualität und Effizienz des Behandlungsprozesses bei."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "6e2316634d6a",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "33c735837901",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Flygt",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/marken/flygt",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Grundfos",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/marken/grundfos",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Sulzer",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/marken/sulzer",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Wasseraufbereitung",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/branchen/wasseraufbereitung",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Abwasser",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/anwendungen/abwasser",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "6e7c9eeb3ea8",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "a4a703a28d7d",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "463317df6809",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Wichtige Elemente der Wasseraufbereitung"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "2fadef8b6b6b",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "33ec322a011a",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Wasseraufbereitung ist ein entscheidender Prozess, um sauberes und sicheres Trinkwasser bereitzustellen. Rührwerke und Strömungserzeuger spielen dabei eine zentrale Rolle. Rührwerke sorgen dafür, dass Chemikalien wie Chlor zur Desinfektion und Kalk zur pH-Regelung gleichmäßig im Wasser verteilt werden. Eine gute Durchmischung sorgt dafür, dass diese Chemikalien effizient wirken und gleichmäßig im Wasser verteilt sind."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Strömungserzeuger wiederum sind wesentlich, um Sedimente wie Sand und Schlamm zu entfernen, bevor das Wasser weiter gereinigt wird. Indem sie Sedimente wirksam entfernen, verringern Strömungserzeuger die Belastung der Filter und erhöhen die Gesamteffizienz des Reinigungsprozesses."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Durch den kombinierten Einsatz von Rührwerken und Strömungserzeugern wird die Wasseraufbereitung nachhaltiger und effizienter, was zur Bereitstellung von sauberem und sicherem Trinkwasser für Verbraucher beiträgt."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "cf740cba41bb",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "b5b9c11c3d20",
+            "component": "section_column",
+            "icon": "fa-tint",
+            "content": [
+              {
+                "_uid": "5d1571152733",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Gleichmäßige Verteilung von Chemikalien",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Rührwerke sorgen für eine optimale Verteilung von Chemikalien wie Chlor und Kalk im Wasser, was zu einer effizienteren Wasseraufbereitung und besserer Wasserqualität führt."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "7a519b058f51",
+            "component": "section_column",
+            "icon": "fa-faucet",
+            "content": [
+              {
+                "_uid": "51eb0951c4a4",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Effiziente Sedimententfernung",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Strömungserzeuger entfernen Sedimente wie Sand und Schlamm wirksam aus dem Wasser, was die Belastung der Filter verringert und die Effizienz des Behandlungsprozesses erhöht."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "9b243b730174",
+            "component": "section_column",
+            "icon": "fa-lightbulb",
+            "content": [
+              {
+                "_uid": "ee6b6b1dd2dd",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Energie- und Kosteneinsparung",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Indem sie die Effizienz des Wasseraufbereitungsprozesses verbessern, helfen Rührwerke und Strömungserzeuger, Energieverbrauch und Betriebskosten zu senken."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "a3ba0b7ae198",
+            "component": "section_column",
+            "icon": "fa-globe-europe",
+            "content": [
+              {
+                "_uid": "b67ef9d452d0",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Nachhaltigkeit und Umweltverträglichkeit",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Rührwerke und Strömungserzeuger tragen zu einer nachhaltigeren Wasseraufbereitung bei, indem sie chemische Abfälle und Energieverbrauch verringern, was die Umweltbelastung senkt."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "d5656cf19cc0",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "5e6c02a6318f",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "55525a5034eb",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Wie Rührwerke und Strömungserzeuger zu einer nachhaltigen Wasseraufbereitung beitragen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Wasseraufbereitung ist nicht nur entscheidend für die Bereitstellung von sauberem und sicherem Trinkwasser, sondern auch ein wichtiger Faktor für den Schutz der Umwelt und des Planeten. Rührwerke und Strömungserzeuger spielen eine wesentliche Rolle dabei, die Nachhaltigkeit des Wasseraufbereitungsprozesses zu verbessern."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Rührwerke sorgen für eine gleichmäßige Verteilung von Chemikalien im Wasser und verbessern dadurch die Effizienz des Behandlungsprozesses. Das führt zu weniger Energieverbrauch und weniger Abfallstoffen. Außerdem sorgen Rührwerke dafür, dass Chemikalien im richtigen Verhältnis zugegeben werden, wodurch Verschwendung vermieden wird."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Strömungserzeuger verringern die Menge an Sedimenten im Wasser, was zu einer geringeren Belastung der Filter und weniger Energieverbrauch führt. Strömungserzeuger sind auch wirksam, um den Chemikalieneinsatz zu verringern: Wenn Sedimente aus dem Wasser entfernt sind, werden weniger Chemikalien zur Reinigung des Wassers benötigt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kurz gesagt: Rührwerke und Strömungserzeuger sind wesentliche Komponenten für eine nachhaltige Wasseraufbereitung. Indem sie die Effizienz verbessern und die Umweltbelastung verringern, tragen sie zu einer nachhaltigeren Zukunft für uns alle bei."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Entwicklung von Rührwerken und Strömungserzeugern in der Wasseraufbereitung"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Rührwerke und Strömungserzeuger sind seit Jahrzehnten ein wichtiger Bestandteil der Wasseraufbereitung, doch auch diese Technologien haben sich weiterentwickelt, um den veränderten Bedürfnissen und Anforderungen der Branche gerecht zu werden. Die neuesten Rührwerke und Strömungserzeuger nutzen fortschrittliche Technologien wie computergesteuerte Systeme und verbesserte Werkstoffe, um einen noch effizienteren und nachhaltigeren Wasseraufbereitungsprozess zu ermöglichen. Außerdem sind die neuesten Rührwerke und Strömungserzeuger so konstruiert, dass sie sich leichter installieren und warten lassen, wodurch die Gesamtkosten für den Einsatz dieser Technologien gesunken sind. Diese Entwicklung zeigt, wie die Branche weiter innoviert, um den sich ständig ändernden Bedürfnissen der Gesellschaft und des Planeten gerecht zu werden."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "2cec721d86c4",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "7f5284ed1a19",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/segmenten-waterbehandeling-3.webp",
+                  "alt": "Wasseraufbereitungsanlage mit großen Becken, unterstützt durch industrielle Rührwerke und Strömungserzeuger zum effizienten Mischen und Entfernen von Sedimenten",
+                  "width": 1000,
+                  "height": 540
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "f4c932ad0c9d",
+        "component": "section_row",
+        "layout": "carousel",
+        "columns": [
+          {
+            "_uid": "a2de73bb9e1a",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "b49c8fc2736b",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Zuverlässiger und proaktiver Service von IPG!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Leiter Technischer Dienst schätze ich die Zuverlässigkeit der Herstellerunabhängigkeit von IPG und die proaktive Vorgehensweise. Der schnelle Service ist in unserer Branche entscheidend, in der jede Minute Stillstand zählt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Leiter Technischer Dienst bei einem Chemiewerk."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "d2f0c0877949",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "3000ddbab1df",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG ist ein zuverlässiger Partner bei Beschaffung und Optimierung!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Einkaufsleiter schätze ich IPG als Partner, der unsere Anforderungen versteht und schnell liefert. Fachwissen und Beratung haben unsere Prozesse optimiert."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Einkaufsleiter bei einem Lebensmittelhersteller."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "f73a5620fdd3",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "198243fb96bb",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG ist ein unverzichtbarer Partner für Produktionseffizienz!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Produktionsleiter schätze ich IPG als unverzichtbaren Partner für Effizienz und Verfügbarkeit. Das fachkundige Team hat uns bei der Auswahl der passenden Pumpen und beim Service für eine gleichbleibende Produktion unterstützt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Projektleiter bei einer Papierfabrik."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "ac74c84de2d6",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "f3a5dcb3564f",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Zuverlässige und effiziente Strömungserzeuger für große Volumen!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Strömungserzeuger von IPG sind effizient und können große Flüssigkeitsmengen problemlos bewegen. Das Team beriet uns hervorragend, und die Produkte sind optimal auf unseren Bedarf abgestimmt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Technischer Verwalter bei einem Wasseraufbereitungsunternehmen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "2cfac0c13189",
+        "component": "cta_band",
+        "heading": "Unverbindlich Kontakt aufnehmen",
+        "text": "Wir beraten Sie gern zu Auswahl, Ersatz und Revision Ihrer Pumpe.",
+        "button_label": "Kontakt aufnehmen",
+        "button_link": {
+          "fieldtype": "multilink",
+          "linktype": "url",
+          "url": "/kontakt",
+          "cached_url": "/kontakt"
+        },
+        "variant": "primary"
+      },
+      {
+        "_uid": "b8a16274748b",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Rührwerke und Strömungserzeuger sind wesentliche Komponenten der Wasseraufbereitung: Rührwerke sorgen für eine gleichmäßige Verteilung von Chemikalien, Strömungserzeuger entfernen Sedimente und tragen so zu Wasserqualität und Effizienz des Behandlungsprozesses bei."
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Flygt",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/marken/flygt",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Grundfos",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/marken/grundfos",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Sulzer",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/marken/sulzer",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Wasseraufbereitung",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/branchen/wasseraufbereitung",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Abwasser",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/anwendungen/abwasser",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Wichtige Elemente der Wasseraufbereitung"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Wasseraufbereitung ist ein entscheidender Prozess, um sauberes und sicheres Trinkwasser bereitzustellen. Rührwerke und Strömungserzeuger spielen dabei eine zentrale Rolle. Rührwerke sorgen dafür, dass Chemikalien wie Chlor zur Desinfektion und Kalk zur pH-Regelung gleichmäßig im Wasser verteilt werden. Eine gute Durchmischung sorgt dafür, dass diese Chemikalien effizient wirken und gleichmäßig im Wasser verteilt sind."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Strömungserzeuger wiederum sind wesentlich, um Sedimente wie Sand und Schlamm zu entfernen, bevor das Wasser weiter gereinigt wird. Indem sie Sedimente wirksam entfernen, verringern Strömungserzeuger die Belastung der Filter und erhöhen die Gesamteffizienz des Reinigungsprozesses."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Durch den kombinierten Einsatz von Rührwerken und Strömungserzeugern wird die Wasseraufbereitung nachhaltiger und effizienter, was zur Bereitstellung von sauberem und sicherem Trinkwasser für Verbraucher beiträgt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Gleichmäßige Verteilung von Chemikalien",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Rührwerke sorgen für eine optimale Verteilung von Chemikalien wie Chlor und Kalk im Wasser, was zu einer effizienteren Wasseraufbereitung und besserer Wasserqualität führt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Effiziente Sedimententfernung",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Strömungserzeuger entfernen Sedimente wie Sand und Schlamm wirksam aus dem Wasser, was die Belastung der Filter verringert und die Effizienz des Behandlungsprozesses erhöht."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Energie- und Kosteneinsparung",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Indem sie die Effizienz des Wasseraufbereitungsprozesses verbessern, helfen Rührwerke und Strömungserzeuger, Energieverbrauch und Betriebskosten zu senken."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Nachhaltigkeit und Umweltverträglichkeit",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Rührwerke und Strömungserzeuger tragen zu einer nachhaltigeren Wasseraufbereitung bei, indem sie chemische Abfälle und Energieverbrauch verringern, was die Umweltbelastung senkt."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Wie Rührwerke und Strömungserzeuger zu einer nachhaltigen Wasseraufbereitung beitragen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Wasseraufbereitung ist nicht nur entscheidend für die Bereitstellung von sauberem und sicherem Trinkwasser, sondern auch ein wichtiger Faktor für den Schutz der Umwelt und des Planeten. Rührwerke und Strömungserzeuger spielen eine wesentliche Rolle dabei, die Nachhaltigkeit des Wasseraufbereitungsprozesses zu verbessern."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Rührwerke sorgen für eine gleichmäßige Verteilung von Chemikalien im Wasser und verbessern dadurch die Effizienz des Behandlungsprozesses. Das führt zu weniger Energieverbrauch und weniger Abfallstoffen. Außerdem sorgen Rührwerke dafür, dass Chemikalien im richtigen Verhältnis zugegeben werden, wodurch Verschwendung vermieden wird."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Strömungserzeuger verringern die Menge an Sedimenten im Wasser, was zu einer geringeren Belastung der Filter und weniger Energieverbrauch führt. Strömungserzeuger sind auch wirksam, um den Chemikalieneinsatz zu verringern: Wenn Sedimente aus dem Wasser entfernt sind, werden weniger Chemikalien zur Reinigung des Wassers benötigt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kurz gesagt: Rührwerke und Strömungserzeuger sind wesentliche Komponenten für eine nachhaltige Wasseraufbereitung. Indem sie die Effizienz verbessern und die Umweltbelastung verringern, tragen sie zu einer nachhaltigeren Zukunft für uns alle bei."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Entwicklung von Rührwerken und Strömungserzeugern in der Wasseraufbereitung"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Rührwerke und Strömungserzeuger sind seit Jahrzehnten ein wichtiger Bestandteil der Wasseraufbereitung, doch auch diese Technologien haben sich weiterentwickelt, um den veränderten Bedürfnissen und Anforderungen der Branche gerecht zu werden. Die neuesten Rührwerke und Strömungserzeuger nutzen fortschrittliche Technologien wie computergesteuerte Systeme und verbesserte Werkstoffe, um einen noch effizienteren und nachhaltigeren Wasseraufbereitungsprozess zu ermöglichen. Außerdem sind die neuesten Rührwerke und Strömungserzeuger so konstruiert, dass sie sich leichter installieren und warten lassen, wodurch die Gesamtkosten für den Einsatz dieser Technologien gesunken sind. Diese Entwicklung zeigt, wie die Branche weiter innoviert, um den sich ständig ändernden Bedürfnissen der Gesellschaft und des Planeten gerecht zu werden."
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "df05eb3c246b",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/segmenten-waterbehandeling-3.webp",
-          "alt": "Wasseraufbereitungsanlage mit großen Becken, unterstützt durch industrielle Rührwerke und Strömungserzeuger zum effizienten Mischen und Entfernen von Sedimenten",
-          "width": 1000,
-          "height": 540
-        }
-      },
-      {
-        "_uid": "306b40824529",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zuverlässiger und proaktiver Service von IPG!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Leiter Technischer Dienst schätze ich die Zuverlässigkeit der Herstellerunabhängigkeit von IPG und die proaktive Vorgehensweise. Der schnelle Service ist in unserer Branche entscheidend, in der jede Minute Stillstand zählt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Leiter Technischer Dienst bei einem Chemiewerk."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG ist ein zuverlässiger Partner bei Beschaffung und Optimierung!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Einkaufsleiter schätze ich IPG als Partner, der unsere Anforderungen versteht und schnell liefert. Fachwissen und Beratung haben unsere Prozesse optimiert."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Einkaufsleiter bei einem Lebensmittelhersteller."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG ist ein unverzichtbarer Partner für Produktionseffizienz!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Produktionsleiter schätze ich IPG als unverzichtbaren Partner für Effizienz und Verfügbarkeit. Das fachkundige Team hat uns bei der Auswahl der passenden Pumpen und beim Service für eine gleichbleibende Produktion unterstützt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Projektleiter bei einer Papierfabrik."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zuverlässige und effiziente Strömungserzeuger für große Volumen!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Strömungserzeuger von IPG sind effizient und können große Flüssigkeitsmengen problemlos bewegen. Das Team beriet uns hervorragend, und die Produkte sind optimal auf unseren Bedarf abgestimmt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Technischer Verwalter bei einem Wasseraufbereitungsunternehmen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 4
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Unverbindlich Kontakt aufnehmen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -591,95 +824,129 @@
         }
       },
       {
-        "_uid": "be5b9cb51923",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-flygt-flygt-4640.webp",
-          "alt": "Flygt Strömungserzeuger für industrielle Rührwerke, ausgelegt für energiesparende Durchmischung großer Wasserströme in Kläranlagen",
-          "width": 465,
-          "height": 465
-        }
+        "_uid": "4c302cdb27d0",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "50b5f40fdf2b",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "1e0cd55a39d8",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-flygt-flygt-4640.webp",
+                  "alt": "Flygt Strömungserzeuger für industrielle Rührwerke, ausgelegt für energiesparende Durchmischung großer Wasserströme in Kläranlagen",
+                  "width": 465,
+                  "height": 465
+                }
+              },
+              {
+                "_uid": "4a8d9e724bf0",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Flygt-Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "1d89ad48589d",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "8a6c1ab0d956",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-grundfos-grundfos-amg.webp",
+                  "alt": "Grundfos AMG industrielles Rührwerk für optimale Wasseraufbereitung und Effizienz in Abwasserreinigungsprozessen",
+                  "width": 1000,
+                  "height": 750
+                }
+              },
+              {
+                "_uid": "234cb7ffbdc8",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Grundfos-Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "342e09e4da0b",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "6fff132aad2e",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-sulzer-sulzer-abs.webp",
+                  "alt": "Sulzer Strömungserzeuger und Rührwerk für die industrielle Wasserreinigung, ausgelegt für effiziente Durchmischung und energiesparenden Betrieb in Abwasserbehandlungssystemen",
+                  "width": 300,
+                  "height": 243
+                }
+              },
+              {
+                "_uid": "8e9001562d33",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Sulzer-Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "20844820ba64",
+        "_uid": "36586f60bbc6",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Flygt-Pumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "5ac24f2f1d8c",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-grundfos-grundfos-amg.webp",
-          "alt": "Grundfos AMG industrielles Rührwerk für optimale Wasseraufbereitung und Effizienz in Abwasserreinigungsprozessen",
-          "width": 1000,
-          "height": 750
-        }
-      },
-      {
-        "_uid": "b401a30a6f1c",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Grundfos-Pumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "eef543b2d149",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-sulzer-sulzer-abs.webp",
-          "alt": "Sulzer Strömungserzeuger und Rührwerk für die industrielle Wasserreinigung, ausgelegt für effiziente Durchmischung und energiesparenden Betrieb in Abwasserbehandlungssystemen",
-          "width": 300,
-          "height": 243
-        }
-      },
-      {
-        "_uid": "d0a675752802",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Sulzer-Pumpen lesen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -745,7 +1012,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Benötigen Sie Hilfe bei der Auswahl der passenden Maschine? Die Experten von IPG stehen Ihnen zur Verfügung. Nehmen Sie unverbindlich Kontakt auf unter [[PLATZHALTER: Telefon]] oder [[PLATZHALTER: E-Mail]]."
+                  "text": "Benötigen Sie Hilfe bei der Auswahl der passenden Maschine? Die Experten von IPG stehen Ihnen zur Verfügung. Nehmen Sie unverbindlich Kontakt auf unter +31 251 222 566 oder info@industrialpumps.nl."
                 }
               ]
             }
@@ -753,43 +1020,62 @@
         }
       },
       {
-        "_uid": "b5b7da11e006",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-mixer-voortstuwer.webp",
-          "alt": "Strömungserzeuger-Motor mit gelbem Propeller, eingesetzt in industriellen Rührwerken und Strömungserzeugern für die Wasseraufbereitung",
-          "width": 395,
-          "height": 416
-        }
-      },
-      {
-        "_uid": "98b974f4d53c",
-        "component": "faq",
-        "heading": "Häufige Fragen",
-        "items": [
+        "_uid": "c1047dfc1855",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
           {
-            "_uid": "6a4464299dd3",
-            "component": "faq_item",
-            "question": "Was sind Rührwerke und Strömungserzeuger?",
-            "answer": "Rührwerke und Strömungserzeuger sind Geräte, die in Wasseraufbereitungssystemen eingesetzt werden, um Flüssigkeiten zu mischen und Verunreinigungen zu entfernen. Rührwerke verbessern den biologischen Reinigungsprozess, indem sie das Abwasser richtig mit Bakterien und anderen Mikroorganismen durchmischen. Strömungserzeuger sorgen für eine wirksame Wasserströmung im Behandlungssystem, wodurch Sedimente entfernt werden und die Effizienz des Filtrationsprozesses steigt."
+            "_uid": "22c7d755e1fd",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "e45ea6b13667",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-mixer-voortstuwer.webp",
+                  "alt": "Strömungserzeuger-Motor mit gelbem Propeller, eingesetzt in industriellen Rührwerken und Strömungserzeugern für die Wasseraufbereitung",
+                  "width": 395,
+                  "height": 416
+                }
+              }
+            ]
           },
           {
-            "_uid": "db5be270eba4",
-            "component": "faq_item",
-            "question": "Welche Vorteile hat der Einsatz von Rührwerken und Strömungserzeugern in der Wasseraufbereitung?",
-            "answer": "Der Einsatz von Rührwerken und Strömungserzeugern in der Wasseraufbereitung hat mehrere Vorteile. Er verbessert die Effizienz des Behandlungssystems, verringert die Umweltbelastung, senkt die Energiekosten und verbessert die Qualität des aufbereiteten Wassers."
-          },
-          {
-            "_uid": "da931859aa0d",
-            "component": "faq_item",
-            "question": "Welche Arten von Rührwerken und Strömungserzeugern gibt es?",
-            "answer": "Es sind verschiedene Arten von Rührwerken und Strömungserzeugern erhältlich, darunter statische Mischer, mechanische Rührwerke, Propeller und Turbinen. Jede Art hat ihre eigenen Anwendungen und Vorteile."
-          },
-          {
-            "_uid": "ade4d0f882d2",
-            "component": "faq_item",
-            "question": "Wie kann IPG bei der Auswahl der passenden Rührwerke und Strömungserzeuger für meine Anwendung helfen?",
-            "answer": "IPG hat langjährige Erfahrung bei Auswahl und Lieferung maßgeschneiderter Rührwerke und Strömungserzeuger für Wasseraufbereitungsanwendungen. Unsere Experten unterstützen Sie bei der Auswahl der passenden Rührwerke und Strömungserzeuger für Ihren individuellen Bedarf. Wir bieten außerdem technische Unterstützung und Schulungen, damit Sie das Beste aus Ihren Rührwerken und Strömungserzeugern herausholen."
+            "_uid": "66d110c10a2d",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "50756bb884c4",
+                "component": "faq",
+                "heading": "Häufige Fragen",
+                "items": [
+                  {
+                    "_uid": "b12096a63f68",
+                    "component": "faq_item",
+                    "question": "Was sind Rührwerke und Strömungserzeuger?",
+                    "answer": "Rührwerke und Strömungserzeuger sind Geräte, die in Wasseraufbereitungssystemen eingesetzt werden, um Flüssigkeiten zu mischen und Verunreinigungen zu entfernen. Rührwerke verbessern den biologischen Reinigungsprozess, indem sie das Abwasser richtig mit Bakterien und anderen Mikroorganismen durchmischen. Strömungserzeuger sorgen für eine wirksame Wasserströmung im Behandlungssystem, wodurch Sedimente entfernt werden und die Effizienz des Filtrationsprozesses steigt."
+                  },
+                  {
+                    "_uid": "bfdb370a87d3",
+                    "component": "faq_item",
+                    "question": "Welche Vorteile hat der Einsatz von Rührwerken und Strömungserzeugern in der Wasseraufbereitung?",
+                    "answer": "Der Einsatz von Rührwerken und Strömungserzeugern in der Wasseraufbereitung hat mehrere Vorteile. Er verbessert die Effizienz des Behandlungssystems, verringert die Umweltbelastung, senkt die Energiekosten und verbessert die Qualität des aufbereiteten Wassers."
+                  },
+                  {
+                    "_uid": "ee48cfd385eb",
+                    "component": "faq_item",
+                    "question": "Welche Arten von Rührwerken und Strömungserzeugern gibt es?",
+                    "answer": "Es sind verschiedene Arten von Rührwerken und Strömungserzeugern erhältlich, darunter statische Mischer, mechanische Rührwerke, Propeller und Turbinen. Jede Art hat ihre eigenen Anwendungen und Vorteile."
+                  },
+                  {
+                    "_uid": "2ed7f109b88a",
+                    "component": "faq_item",
+                    "question": "Wie kann IPG bei der Auswahl der passenden Rührwerke und Strömungserzeuger für meine Anwendung helfen?",
+                    "answer": "IPG hat langjährige Erfahrung bei Auswahl und Lieferung maßgeschneiderter Rührwerke und Strömungserzeuger für Wasseraufbereitungsanwendungen. Unsere Experten unterstützen Sie bei der Auswahl der passenden Rührwerke und Strömungserzeuger für Ihren individuellen Bedarf. Wir bieten außerdem technische Unterstützung und Schulungen, damit Sie das Beste aus Ihren Rührwerken und Strömungserzeugern herausholen."
+                  }
+                ]
+              }
+            ]
           }
         ]
       }

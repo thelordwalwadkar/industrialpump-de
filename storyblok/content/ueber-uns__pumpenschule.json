@@ -9,105 +9,157 @@
     "component": "page_hub",
     "h1": "Pumpenschule der Industrial Pump Group",
     "nav_title": "Pumpenschule der Industrial Pump Group",
+    "hero_image": {
+      "filename": "/img/nl/pompschool-pompschool.webp",
+      "alt": "",
+      "width": 1280,
+      "height": 581
+    },
     "seo_title": "Pumpenschule: Pumpenkurse für Monteure und Betreiber",
     "seo_description": "Die Pumpenschule der Industrial Pump Group vermittelt Wissen zu Industriepumpen, auch als Kurs vor Ort. Jetzt Kurs für Ihr Unternehmen anfragen.",
     "intro": "Die Pumpenschule der Industrial Pump Group (IPG) vermittelt praktisches und technisches Wissen zu Industriepumpen. Sie richtet sich an Unternehmen und Einzelpersonen, etwa Monteure, Operatoren und Einkäufer, und kann als Kurs bei Ihnen vor Ort stattfinden.",
     "body": [
       {
-        "_uid": "d11236dceb7b",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pompschool-pompschool.webp",
-          "alt": "Logo der Pumpenschule der Industrial Pump Group",
-          "width": 1280,
-          "height": 581
-        }
+        "_uid": "29a23ec1f647",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "9d79f2439d70",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "40043aee2d46",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 4
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Pumpenschule der Industrial Pump Group"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "70698b724ef8",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "c8a7a0cb42d7",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Pumpenschule der Industrial Pump Group ist eine Schulung, in der Unternehmen und Einzelpersonen das Wissen und die Fertigkeiten erwerben können, die für die Arbeit mit Industriepumpen nötig sind. Sie soll den Teilnehmern praktisches und technisches Wissen vermitteln, damit sie Probleme in der Praxis besser lösen und Herausforderungen besser bewältigen können."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "541658a54876",
+        "_uid": "fcef040bb197",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "1473d4a9dc08",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "129b0425816f",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pompschool-klaslokaal.webp",
+                  "alt": "Schulungsraum der Pumpenschule",
+                  "width": 1000,
+                  "height": 667
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "6ba062998c59",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "3debdb4d2d72",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Wissen über Industriepumpen aufbauen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Pumpenschule bietet ein umfassendes Curriculum zu den Grundlagen der industriellen Pumpentechnik, einschließlich Themen wie Pumpenauslegung, Auswahl, Installation, Bedienung und Wartung. Die Schulungen werden von erfahrenen Fachleuten gehalten, die langjährige Erfahrung in der Industrie haben."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Pumpenschule der Industrial Pump Group zielt nicht nur darauf, Wissen und Fertigkeiten der Teilnehmer zu verbessern, sondern bietet auch die Gelegenheit, sich mit anderen Fachleuten der Branche zu vernetzen und auszutauschen. So entsteht ein lehrreiches und unterstützendes Umfeld, in dem Teilnehmer Ideen teilen und neue Erkenntnisse gewinnen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kurz gesagt: Die Pumpenschule der Industrial Pump Group richtet sich an Unternehmen und Einzelpersonen, die ihr Wissen und ihre Fertigkeiten rund um Industriepumpen erweitern möchten. Die Schulung ist eine Investition in die Zukunft, die zu mehr Effizienz und Erfolg in der Industrie beitragen soll."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "2ce94475f82d",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 4
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Pumpenschule der Industrial Pump Group"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Pumpenschule der Industrial Pump Group ist eine Schulung, in der Unternehmen und Einzelpersonen das Wissen und die Fertigkeiten erwerben können, die für die Arbeit mit Industriepumpen nötig sind. Sie soll den Teilnehmern praktisches und technisches Wissen vermitteln, damit sie Probleme in der Praxis besser lösen und Herausforderungen besser bewältigen können."
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "291b09c6a788",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pompschool-klaslokaal.webp",
-          "alt": "Schulungsraum der Pumpenschule",
-          "width": 1000,
-          "height": 667
-        }
-      },
-      {
-        "_uid": "2031194ef1a1",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Wissen über Industriepumpen aufbauen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Pumpenschule bietet ein umfassendes Curriculum zu den Grundlagen der industriellen Pumpentechnik, einschließlich Themen wie Pumpenauslegung, Auswahl, Installation, Bedienung und Wartung. Die Schulungen werden von erfahrenen Fachleuten gehalten, die langjährige Erfahrung in der Industrie haben."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Pumpenschule der Industrial Pump Group zielt nicht nur darauf, Wissen und Fertigkeiten der Teilnehmer zu verbessern, sondern bietet auch die Gelegenheit, sich mit anderen Fachleuten der Branche zu vernetzen und auszutauschen. So entsteht ein lehrreiches und unterstützendes Umfeld, in dem Teilnehmer Ideen teilen und neue Erkenntnisse gewinnen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kurz gesagt: Die Pumpenschule der Industrial Pump Group richtet sich an Unternehmen und Einzelpersonen, die ihr Wissen und ihre Fertigkeiten rund um Industriepumpen erweitern möchten. Die Schulung ist eine Investition in die Zukunft, die zu mehr Effizienz und Erfolg in der Industrie beitragen soll."
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -167,7 +219,7 @@
                 },
                 {
                   "type": "text",
-                  "text": "Tel. [[PLATZHALTER: Telefon]]",
+                  "text": "Tel. +31 251 222 566",
                   "marks": [
                     {
                       "type": "bold"
@@ -214,69 +266,151 @@
                   "text": "Außerdem wird ein Grundlagenkurs Pumpen angeboten. Er vermittelt Kenntnisse über die verschiedenen Pumpenarten, ihre Einsatzbereiche und die Grundprinzipien ihrer Funktionsweise. Dieser Kurs bietet eine gute Grundlage für alle, die neu in der Branche sind und die wesentlichen Aspekte von Industriepumpen verstehen möchten."
                 }
               ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kurs Grundlagen Pumpen"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kurs Inspektion und Wartung"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kurs Gleitringdichtungen"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kurs Armaturen und Ventile"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kurs Wellen und Lager"
-                }
-              ]
             }
           ]
         }
+      },
+      {
+        "_uid": "e7f8e0c8def1",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "4e37de45a2a9",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ff638a6808b5",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kurs Grundlagen Pumpen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "e24ea846c3ab",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "f537b3f36ca7",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kurs Inspektion und Wartung"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "718b4d574628",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "29263ab12dc5",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kurs Gleitringdichtungen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "7908e9077031",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "b2096a21e4bd",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kurs Armaturen und Ventile"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "4251550b1742",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "aae97db3baf4",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kurs Wellen und Lager"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       }
     ]
   }

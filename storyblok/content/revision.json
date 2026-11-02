@@ -15,229 +15,322 @@
     "service_kind": "revision-typ",
     "body": [
       {
-        "_uid": "8a769907c506",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Pumpenrevisionen der IPG-Experten werden auf hohem Niveau und mit modernen Technologien und Methoden ausgeführt. Die IPG-Experten analysieren die Leistung der Pumpen, erkennen mögliche Probleme und bieten Lösungen, um Effizienz und Zuverlässigkeit des Systems zu verbessern."
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
+        "_uid": "45e687dff354",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "e4ba850adabf",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "895ff812f306",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "Nachhaltige / zirkuläre Wartung",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/revision/nachhaltig-und-zirkulaer",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
+                          "text": "Die Pumpenrevisionen der IPG-Experten werden auf hohem Niveau und mit modernen Technologien und Methoden ausgeführt. Die IPG-Experten analysieren die Leistung der Pumpen, erkennen mögliche Probleme und bieten Lösungen, um Effizienz und Zuverlässigkeit des Systems zu verbessern."
                         }
                       ]
                     }
                   ]
-                },
-                {
-                  "type": "list_item",
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "52837deac585",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "2247e014210e",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
                     {
-                      "type": "paragraph",
+                      "type": "bullet_list",
                       "content": [
                         {
-                          "type": "text",
-                          "text": "Vorbeugende Wartung",
-                          "marks": [
+                          "type": "list_item",
+                          "content": [
                             {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/revision/vorbeugende-wartung",
-                                "linktype": "url"
-                              }
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Nachhaltige / zirkuläre Wartung",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/revision/nachhaltig-und-zirkulaer",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Vorbeugende Wartung",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/revision/vorbeugende-wartung",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Service vor Ort",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/revision/inspektion-vor-ort",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Pumpenrevisionen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/revision/pumpenrevision",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
                             }
                           ]
                         }
                       ]
                     }
                   ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Service vor Ort",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/revision/inspektion-vor-ort",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Pumpenrevisionen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/revision/pumpenrevision",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
                 }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Pumpenrevision durch unsere Spezialisten"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Das Revisionsteam von IPG besteht aus Spezialisten mit mehr als 30 Jahren Erfahrung. Diese Spezialisten wissen, wie sie Ihr Problem lösen. Die meisten Revisionen finden in einer unserer Werkstätten statt, doch auch die Revision vor Ort gehört zu den umfangreichen Revisionsmöglichkeiten von IPG."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Monteure der Industrial Pump Group haben nicht nur viele Jahre Erfahrung, sondern kennen auch die neuesten Entwicklungen der Branche. Damit dieses Wissen aktuell bleibt, arbeitet IPG eng mit verschiedenen Herstellern zusammen, um das Wissen der Monteure regelmäßig aufzufrischen und zu erweitern."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Möglichkeiten der Pumpenrevision"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Dank der Flexibilität von IPG ist bei der Revision vieles möglich. Ob komplette Revision, Austausch mehrerer Bauteile oder (Neu-)Wickeln eines Motors: IPG hat stets eine passende Lösung."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Möchten Sie mehr über die Möglichkeiten der Pumpenrevision erfahren und darüber, was wir für Ihre Revision tun können? Nehmen Sie gern Kontakt mit uns auf."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ein möglicher Revisionsablauf für Pumpen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Pumpenrevisionen sind nie gleich."
-                },
-                {
-                  "type": "hard_break"
-                },
-                {
-                  "type": "text",
-                  "text": "Im Rahmen der flexiblen Arbeitsweise von IPG sind viele Optionen möglich."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Um Ihnen dennoch einen Eindruck von unserem Vorgehen zu geben, haben wir den folgenden Ablauf für Sie dargestellt."
-                }
-              ]
-            }
-          ]
-        }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "1643af54c7f5",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/revisie-revisie-result.webp",
-          "alt": "Revidierte Industriepumpe in einer Fabrikhalle, nach der Pumpenrevision bereit zur Wiederverwendung",
-          "width": 1280,
-          "height": 857
-        }
+        "_uid": "635e6208e761",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "a521b2cc4622",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "7e3c5a3c35ee",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Pumpenrevision durch unsere Spezialisten"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "a63c844bf4ab",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "dd6842558cdc",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Das Revisionsteam von IPG besteht aus Spezialisten mit mehr als 30 Jahren Erfahrung. Diese Spezialisten wissen, wie sie Ihr Problem lösen. Die meisten Revisionen finden in einer unserer Werkstätten statt, doch auch die Revision vor Ort gehört zu den umfangreichen Revisionsmöglichkeiten von IPG."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Monteure der Industrial Pump Group haben nicht nur viele Jahre Erfahrung, sondern kennen auch die neuesten Entwicklungen der Branche. Damit dieses Wissen aktuell bleibt, arbeitet IPG eng mit verschiedenen Herstellern zusammen, um das Wissen der Monteure regelmäßig aufzufrischen und zu erweitern."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "e9ca7184e694",
+        "_uid": "60f4db05ea0f",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "6715fd2fd480",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "86eb7682fa93",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Möglichkeiten der Pumpenrevision"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Dank der Flexibilität von IPG ist bei der Revision vieles möglich. Ob komplette Revision, Austausch mehrerer Bauteile oder (Neu-)Wickeln eines Motors: IPG hat stets eine passende Lösung."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Möchten Sie mehr über die Möglichkeiten der Pumpenrevision erfahren und darüber, was wir für Ihre Revision tun können? Nehmen Sie gern Kontakt mit uns auf."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ein möglicher Revisionsablauf für Pumpen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Pumpenrevisionen sind nie gleich."
+                        },
+                        {
+                          "type": "hard_break"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Im Rahmen der flexiblen Arbeitsweise von IPG sind viele Optionen möglich."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Um Ihnen dennoch einen Eindruck von unserem Vorgehen zu geben, haben wir den folgenden Ablauf für Sie dargestellt."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "5bbcd6a2690d",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "c039b96f0630",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/revisie-revisie-result.webp",
+                  "alt": "Revidierte Industriepumpe in einer Fabrikhalle, nach der Pumpenrevision bereit zur Wiederverwendung",
+                  "width": 1280,
+                  "height": 857
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "485844a9bd21",
         "component": "rich_text",
         "content": {
           "type": "doc",
@@ -262,245 +355,338 @@
                   "text": "Die Vielfalt der Pumpentypen ist enorm. Die genannten Spezialisten des IPG-Revisionsteams verfügen über ausreichend Wissen, Mittel und starke Beziehungen zu verschiedenen Pumpenmarken, um eine große Zahl unterschiedlicher Pumpentypen revidieren zu können. IPG revidiert unter anderem Kreiselpumpen, mehrstufige Pumpen, axial geteilte Pumpen und Exzenterschneckenpumpen und vielleicht bald auch Ihre Pumpe?"
                 }
               ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Optimierung der Pumpenleistung"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Pumpenrevisionen sind Analysen, die ausgeführt werden, um die Leistung von Pumpen zu messen und zu verbessern. Das kann verschiedene Aspekte der Pumpe betreffen, etwa Wirkungsgrad, Strömungsgeschwindigkeit, Druck und Zuverlässigkeit. Pumpenrevisionen sind für Unternehmen von entscheidender Bedeutung, die Pumpen in ihren Prozessen einsetzen, zum Beispiel in der chemischen Industrie, der Öl- und Gasindustrie, der Lebensmittel- und Getränkeindustrie und der Pharmaindustrie."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Industrial Pump Group (IPG) ist auf die Lieferung von Pumpenlösungen für verschiedene Industrien spezialisiert. IPG bietet auch Pumpenrevision an, um die Leistung von Pumpen zu verbessern. Diese Dienstleistung umfasst unter anderem das Prüfen der Pumpen auf verschiedene Leistungskennwerte wie Förderhöhe, Förderstrom und Wirkungsgrad."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Warum IPG als Revisionspartner infrage kommt"
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Mehr als 30 Jahre Erfahrung"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Herstellerunabhängig"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Flexibel"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Revisionsbericht und Angebot nach Maß"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "VCA**-zertifiziert"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "ISO-9001-zertifiziert"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 4
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Diese Kunden haben sich bereits für IPG entschieden:"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Pumpenrevision: nachhaltige und zirkuläre Wartung von Pumpen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Pumpenrevision ist eine nachhaltige und zirkuläre Lösung für die Wartung Ihrer Pumpen. Statt neue Pumpen zu beschaffen, werden Ihre vorhandenen Pumpen revidiert und weiterverwendet. Dieses Vorgehen verringert die Abfallmenge und den CO2-Ausstoß erheblich, weil Werkstoffe und Bauteile wiederverwendet werden. Außerdem führt der Einsatz revidierter Pumpen zu besserer Leistung und Effizienz Ihres Produktionsprozesses. Mit der Entscheidung für eine Pumpenrevision tragen Sie zu einer nachhaltigeren Zukunft bei und verkleinern den ökologischen Fußabdruck Ihres Unternehmens."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kostensparende und effiziente Pumpenrevision für Ihr Unternehmen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Das Revidieren von Pumpen ist nicht nur umweltfreundlich, sondern auch kostensparend. Revidierte Pumpen verbessern Leistung und Effizienz Ihres Produktionsprozesses, was zu geringerem Energieverbrauch und längerer Lebensdauer Ihrer Anlagen führt. Das senkt die Betriebskosten und erhöht die Nachhaltigkeit Ihres Betriebs. Mit Investitionen in die Pumpenrevision sparen Sie langfristig erheblich bei Wartungs- und Ersatzkosten und verbessern zugleich Zuverlässigkeit und Effizienz Ihrer Produktionsprozesse."
-                }
-              ]
             }
           ]
         }
       },
       {
-        "_uid": "104eea61e61b",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/revisie-revisie-2.webp",
-          "alt": "Monteur der Industrial Pump Group vor dem Servicefahrzeug, spezialisiert auf Pumpenrevision vor Ort",
-          "width": 1280,
-          "height": 854
-        }
+        "_uid": "7d5cb9b08a36",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "1c79a972413a",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "4369e124214c",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Optimierung der Pumpenleistung"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Pumpenrevisionen sind Analysen, die ausgeführt werden, um die Leistung von Pumpen zu messen und zu verbessern. Das kann verschiedene Aspekte der Pumpe betreffen, etwa Wirkungsgrad, Strömungsgeschwindigkeit, Druck und Zuverlässigkeit. Pumpenrevisionen sind für Unternehmen von entscheidender Bedeutung, die Pumpen in ihren Prozessen einsetzen, zum Beispiel in der chemischen Industrie, der Öl- und Gasindustrie, der Lebensmittel- und Getränkeindustrie und der Pharmaindustrie."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Industrial Pump Group (IPG) ist auf die Lieferung von Pumpenlösungen für verschiedene Industrien spezialisiert. IPG bietet auch Pumpenrevision an, um die Leistung von Pumpen zu verbessern. Diese Dienstleistung umfasst unter anderem das Prüfen der Pumpen auf verschiedene Leistungskennwerte wie Förderhöhe, Förderstrom und Wirkungsgrad."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "a084f1288f18",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "678da22c7321",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Warum IPG als Revisionspartner infrage kommt"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Mehr als 30 Jahre Erfahrung"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Herstellerunabhängig"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Flexibel"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Revisionsbericht und Angebot nach Maß"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "VCA**-zertifiziert"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "ISO-9001-zertifiziert"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 4
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Diese Kunden haben sich bereits für IPG entschieden:"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "b07835dae7ff",
-        "component": "faq",
-        "heading": "Häufige Fragen",
-        "items": [
+        "_uid": "4b97821b9baf",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
           {
-            "_uid": "ce2884dbcf10",
-            "component": "faq_item",
-            "question": "Was ist eine Pumpenrevision und warum ist sie wichtig?",
-            "answer": "Eine Pumpenrevision beginnt mit einer Analyse, die ausgeführt wird, um die Leistung einer Pumpe zu messen und zu verbessern. Die Verbesserung erfolgt durch den Austausch verschlissener Teile und die Instandsetzung der Pumpe in den ursprünglichen Zustand. Sie ist wichtig, weil sie zu höherer Effizienz, Zuverlässigkeit und geringeren Wartungs- und Energiekosten führen kann."
+            "_uid": "4d5ea18e340a",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "92e41cdaddc9",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Pumpenrevision: nachhaltige und zirkuläre Wartung von Pumpen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Pumpenrevision ist eine nachhaltige und zirkuläre Lösung für die Wartung Ihrer Pumpen. Statt neue Pumpen zu beschaffen, werden Ihre vorhandenen Pumpen revidiert und weiterverwendet. Dieses Vorgehen verringert die Abfallmenge und den CO2-Ausstoß erheblich, weil Werkstoffe und Bauteile wiederverwendet werden. Außerdem führt der Einsatz revidierter Pumpen zu besserer Leistung und Effizienz Ihres Produktionsprozesses. Mit der Entscheidung für eine Pumpenrevision tragen Sie zu einer nachhaltigeren Zukunft bei und verkleinern den ökologischen Fußabdruck Ihres Unternehmens."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
           },
           {
-            "_uid": "e4cd8c207fab",
-            "component": "faq_item",
-            "question": "Welche Pumpentypen kann IPG revidieren?",
-            "answer": "IPG kann verschiedene Pumpentypen revidieren, von großen bis zu kleinen. Dazu gehören Kreiselpumpen, Zahnradpumpen, Membranpumpen und Drehkolbenpumpen, aber auch API-Pumpen, Kesselspeisepumpen und Kühlwasserpumpen."
+            "_uid": "0e9e439eede9",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "6b622075ab2d",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kostensparende und effiziente Pumpenrevision für Ihr Unternehmen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Das Revidieren von Pumpen ist nicht nur umweltfreundlich, sondern auch kostensparend. Revidierte Pumpen verbessern Leistung und Effizienz Ihres Produktionsprozesses, was zu geringerem Energieverbrauch und längerer Lebensdauer Ihrer Anlagen führt. Das senkt die Betriebskosten und erhöht die Nachhaltigkeit Ihres Betriebs. Mit Investitionen in die Pumpenrevision sparen Sie langfristig erheblich bei Wartungs- und Ersatzkosten und verbessern zugleich Zuverlässigkeit und Effizienz Ihrer Produktionsprozesse."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "e9ecae3b09c3",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "ed10944d591f",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "5694e4827be1",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/revisie-revisie-2.webp",
+                  "alt": "Monteur der Industrial Pump Group vor dem Servicefahrzeug, spezialisiert auf Pumpenrevision vor Ort",
+                  "width": 1280,
+                  "height": 854
+                }
+              }
+            ]
           },
           {
-            "_uid": "8aac6a975117",
-            "component": "faq_item",
-            "question": "Kann IPG Pumpenrevisionen vor Ort durchführen?",
-            "answer": "Ja, IPG kann Pumpenrevisionen vor Ort durchführen. IPG verfügt über ein Team fachkundiger Monteure, die vor Ort kommen können, um die Pumpe zu inspizieren. Ist eine Revision erforderlich, führen wir sie jedoch bevorzugt in unseren eigenen Werkstätten aus."
-          },
-          {
-            "_uid": "694cb1e2faa6",
-            "component": "faq_item",
-            "question": "Wie lange dauert eine Pumpenrevision?",
-            "answer": "Die Dauer einer Pumpenrevision hängt von mehreren Faktoren ab, etwa vom Pumpentyp, vom Umfang der Revision und von den erforderlichen Verbesserungen. IPG kann Ihnen jedoch eine Schätzung der für die Revision erforderlichen Zeit geben."
-          },
-          {
-            "_uid": "2e654191ae30",
-            "component": "faq_item",
-            "question": "Woran erkenne ich, dass eine Pumpe revidiert werden muss?",
-            "answer": "Eine Pumpe kann revisionsbedürftig sein, wenn Anzeichen für nachlassende Leistung auftreten, etwa Leckagen, ungewöhnliche Geräusche, Überhitzung oder ein sinkender Wirkungsgrad. Regelmäßige Inspektion und Überwachung helfen, Verschleiß frühzeitig zu erkennen."
-          },
-          {
-            "_uid": "1c3861fafb92",
-            "component": "faq_item",
-            "question": "Was kostet eine Pumpenrevision bei IPG?",
-            "answer": "Die Kosten einer Pumpenrevision hängen vom Pumpentyp, vom Grad des Verschleißes und von den erforderlichen Ersatzteilen ab. Nach der Inspektion erhalten Sie von uns ein klares Angebot, damit Sie keine Überraschungen erleben."
+            "_uid": "c742651a651f",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "5cefed0e9cf4",
+                "component": "faq",
+                "heading": "Häufige Fragen",
+                "items": [
+                  {
+                    "_uid": "f2f450273887",
+                    "component": "faq_item",
+                    "question": "Was ist eine Pumpenrevision und warum ist sie wichtig?",
+                    "answer": "Eine Pumpenrevision beginnt mit einer Analyse, die ausgeführt wird, um die Leistung einer Pumpe zu messen und zu verbessern. Die Verbesserung erfolgt durch den Austausch verschlissener Teile und die Instandsetzung der Pumpe in den ursprünglichen Zustand. Sie ist wichtig, weil sie zu höherer Effizienz, Zuverlässigkeit und geringeren Wartungs- und Energiekosten führen kann."
+                  },
+                  {
+                    "_uid": "de308438ca82",
+                    "component": "faq_item",
+                    "question": "Welche Pumpentypen kann IPG revidieren?",
+                    "answer": "IPG kann verschiedene Pumpentypen revidieren, von großen bis zu kleinen. Dazu gehören Kreiselpumpen, Zahnradpumpen, Membranpumpen und Drehkolbenpumpen, aber auch API-Pumpen, Kesselspeisepumpen und Kühlwasserpumpen."
+                  },
+                  {
+                    "_uid": "7ad0a61654a2",
+                    "component": "faq_item",
+                    "question": "Kann IPG Pumpenrevisionen vor Ort durchführen?",
+                    "answer": "Ja, IPG kann Pumpenrevisionen vor Ort durchführen. IPG verfügt über ein Team fachkundiger Monteure, die vor Ort kommen können, um die Pumpe zu inspizieren. Ist eine Revision erforderlich, führen wir sie jedoch bevorzugt in unseren eigenen Werkstätten aus."
+                  },
+                  {
+                    "_uid": "26fa7586890b",
+                    "component": "faq_item",
+                    "question": "Wie lange dauert eine Pumpenrevision?",
+                    "answer": "Die Dauer einer Pumpenrevision hängt von mehreren Faktoren ab, etwa vom Pumpentyp, vom Umfang der Revision und von den erforderlichen Verbesserungen. IPG kann Ihnen jedoch eine Schätzung der für die Revision erforderlichen Zeit geben."
+                  },
+                  {
+                    "_uid": "5927d4a033af",
+                    "component": "faq_item",
+                    "question": "Woran erkenne ich, dass eine Pumpe revidiert werden muss?",
+                    "answer": "Eine Pumpe kann revisionsbedürftig sein, wenn Anzeichen für nachlassende Leistung auftreten, etwa Leckagen, ungewöhnliche Geräusche, Überhitzung oder ein sinkender Wirkungsgrad. Regelmäßige Inspektion und Überwachung helfen, Verschleiß frühzeitig zu erkennen."
+                  },
+                  {
+                    "_uid": "a6977a3f1fe2",
+                    "component": "faq_item",
+                    "question": "Was kostet eine Pumpenrevision bei IPG?",
+                    "answer": "Die Kosten einer Pumpenrevision hängen vom Pumpentyp, vom Grad des Verschleißes und von den erforderlichen Ersatzteilen ab. Nach der Inspektion erhalten Sie von uns ein klares Angebot, damit Sie keine Überraschungen erleben."
+                  }
+                ]
+              }
+            ]
           }
         ]
       }

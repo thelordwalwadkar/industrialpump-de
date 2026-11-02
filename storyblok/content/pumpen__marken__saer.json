@@ -50,116 +50,126 @@
       "alt": "SAER"
     },
     "revision_text": "Eine Revision kann je nach Zustand der Pumpe den Austausch von Verschleißteilen wie Gleitringdichtungen und Lagern umfassen. Den genauen Umfang legen wir nach Prüfung der Pumpe mit Ihnen fest. Welche Teile im Einzelfall verfügbar sind, hängt von Serie, Baujahr und Ausführung ab.",
-    "faq": [
-      {
-        "_uid": "dc0ea84db144",
-        "component": "faq",
-        "heading": "Häufige Fragen zu SAER-Pumpen",
-        "items": [
-          {
-            "_uid": "9dfdd3843c2a",
-            "component": "faq_item",
-            "question": "Sind Ersatzteile für SAER-Pumpen verfügbar?",
-            "answer": "Das hängt von Serie, Baujahr und Ausführung ab. Senden Sie uns Typenschild oder ein Foto der Pumpe, dann prüfen wir die Verfügbarkeit."
-          },
-          {
-            "_uid": "921046f3fdfc",
-            "component": "faq_item",
-            "question": "Kann ich eine ältere SAER-Serie durch ein aktuelles Modell ersetzen?",
-            "answer": "Das ist je nach Serie möglich. Entscheidend sind Förderstrom, Förderhöhe, Anschlussmaße und Motordaten der vorhandenen Pumpe. Anhand des Typenschilds prüfen wir, welches Modell passt."
-          },
-          {
-            "_uid": "927c76e232ae",
-            "component": "faq_item",
-            "question": "Wie lang ist die Lieferzeit für SAER-Pumpen?",
-            "answer": "[[PLATZHALTER: Lieferzeit SAER]]"
-          }
-        ]
-      }
-    ],
     "body": [
       {
-        "_uid": "ffad6f92ecf5",
+        "_uid": "5ea41f933645",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "d5de4e9722a8",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "2eb846444f09",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Niederländischer Importeur von Saer Elettropompe"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "02fc33917285",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ce2727e6ce5c",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ihr zuverlässiger Partner für SAER-Pumpen und Ersatzteile"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "SAER fertigt seit 1951 viele Pumpentypen in vier verschiedenen Werken, alle in Italien. Das breite Sortiment von SAER reicht von kleinen Beregnungspumpen bis zu großen axial geteilten Pumpen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Für unter anderem industrielle, "
+                        },
+                        {
+                          "type": "text",
+                          "text": "landwirtschaftliche",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/branchen/landwirtschaft",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " und "
+                        },
+                        {
+                          "type": "text",
+                          "text": "häusliche",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/branchen/haushalt",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Anwendungen hat SAER verschiedene Pumpentypen im Programm, die eine passende Lösung bieten können. Als niederländischer Importeur von SAER Elettropompe bietet die Industrial Pump Group (IPG) eine umfangreiche Auswahl dieser hochwertigen Pumpen sowie Original-Ersatzteile."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "891baa67d623",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Niederländischer Importeur von Saer Elettropompe"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ihr zuverlässiger Partner für SAER-Pumpen und Ersatzteile"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "SAER fertigt seit 1951 viele Pumpentypen in vier verschiedenen Werken, alle in Italien. Das breite Sortiment von SAER reicht von kleinen Beregnungspumpen bis zu großen axial geteilten Pumpen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Für unter anderem industrielle, "
-                },
-                {
-                  "type": "text",
-                  "text": "landwirtschaftliche",
-                  "marks": [
-                    {
-                      "type": "link",
-                      "attrs": {
-                        "href": "/pumpen/branchen/landwirtschaft",
-                        "linktype": "url"
-                      }
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " und "
-                },
-                {
-                  "type": "text",
-                  "text": "häusliche",
-                  "marks": [
-                    {
-                      "type": "link",
-                      "attrs": {
-                        "href": "/pumpen/branchen/haushalt",
-                        "linktype": "url"
-                      }
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Anwendungen hat SAER verschiedene Pumpentypen im Programm, die eine passende Lösung bieten können. Als niederländischer Importeur von SAER Elettropompe bietet die Industrial Pump Group (IPG) eine umfangreiche Auswahl dieser hochwertigen Pumpen sowie Original-Ersatzteile."
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -185,162 +195,202 @@
         }
       },
       {
-        "_uid": "56a1041c6ef8",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/ipg-ecom-saer-saer-m-50-60-70-80.webp",
-          "alt": "SAER M50, M60, M70, M80 selbstansaugende Pumpe",
-          "width": 1024,
-          "height": 1024
-        }
+        "_uid": "e540e411f242",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "ba9d92f553db",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "3893ed078681",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/ipg-ecom-saer-saer-m-50-60-70-80.webp",
+                  "alt": "SAER M50, M60, M70, M80 selbstansaugende Pumpe",
+                  "width": 1024,
+                  "height": 1024
+                }
+              },
+              {
+                "_uid": "854db290a347",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Saer Baureihe M50, 60, 70, 80"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Selbstansaugende Pumpe"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "052de2e6d530",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "5f621942105d",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/ipg-ecom-saer-saer-ir.webp",
+                  "alt": "SAER IR Pumpe in kurzgekuppelter Bauweise",
+                  "width": 1024,
+                  "height": 1024
+                }
+              },
+              {
+                "_uid": "2e368a49ddc5",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Saer Baureihe IR"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Hochwertige Pumpe in kurzgekuppelter Bauweise"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "5a94c52dd0be",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "4db4e2e49b9d",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/ipg-ecom-saer-saer-m150-m200.webp",
+                  "alt": "SAER M150/M200 Kreiselpumpe mit doppeltem Messing-Laufrad",
+                  "width": 600,
+                  "height": 267
+                }
+              },
+              {
+                "_uid": "6fb7c2d204ec",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Saer Baureihe M150/200"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kreiselpumpe mit doppeltem Messing-Laufrad"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "c5787b947e1b",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "5a97c9e67908",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/ipg-ecom-saer-saer-tr.webp",
+                  "alt": "SAER TR Druckerhöhungsanlage",
+                  "width": 700,
+                  "height": 700
+                }
+              },
+              {
+                "_uid": "379e91bba7f3",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Saer Baureihe TR"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Druckerhöhungsanlage"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "64929461d2eb",
+        "_uid": "203d2bf93599",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Saer Baureihe M50, 60, 70, 80"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Selbstansaugende Pumpe"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "912eb3c00bb9",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/ipg-ecom-saer-saer-ir.webp",
-          "alt": "SAER IR Pumpe in kurzgekuppelter Bauweise",
-          "width": 1024,
-          "height": 1024
-        }
-      },
-      {
-        "_uid": "0c8b6cebe63d",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Saer Baureihe IR"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Hochwertige Pumpe in kurzgekuppelter Bauweise"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "391e22309a8a",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/ipg-ecom-saer-saer-m150-m200.webp",
-          "alt": "SAER M150/M200 Kreiselpumpe mit doppeltem Messing-Laufrad",
-          "width": 600,
-          "height": 267
-        }
-      },
-      {
-        "_uid": "c2b4eaa5cee1",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Saer Baureihe M150/200"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kreiselpumpe mit doppeltem Messing-Laufrad"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "80c78705f48e",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/ipg-ecom-saer-saer-tr.webp",
-          "alt": "SAER TR Druckerhöhungsanlage",
-          "width": 700,
-          "height": 700
-        }
-      },
-      {
-        "_uid": "433aaeb2eee7",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Saer Baureihe TR"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Druckerhöhungsanlage"
-                }
-              ]
-            },
             {
               "type": "paragraph",
               "content": [
@@ -354,982 +404,1132 @@
         }
       },
       {
-        "_uid": "c7ed5c949ca7",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-saer-saer-cm-cmp.webp",
-          "alt": "SAER CM/CMP einstufige Pumpe aus Gusseisen",
-          "width": 500,
-          "height": 500
-        }
+        "_uid": "a407159f73a6",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "e14db6cd767d",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "5b1d5032cfdc",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-saer-saer-cm-cmp.webp",
+                  "alt": "SAER CM/CMP einstufige Pumpe aus Gusseisen",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "d5ddb53558bb",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "SAER "
+                        },
+                        {
+                          "type": "text",
+                          "text": "CM/CMP Baureihe",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ": hochwertige einstufige Pumpe aus Gusseisen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "89e3839c9b33",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "f1a813a3becc",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-saer-saer-fs98.webp",
+                  "alt": "SAER FS-98 Brunnenpumpe",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "7370515b0ff1",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "SAER "
+                        },
+                        {
+                          "type": "text",
+                          "text": "FS-98 Baureihe",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ": Brunnenpumpe mit dynamischem Laufradpaket"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "6568d82a4766",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "8d379ab8c019",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-saer-saer-l.webp",
+                  "alt": "SAER L IN-LINE Inlinepumpe",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "edea46ed0cff",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "SAER "
+                        },
+                        {
+                          "type": "text",
+                          "text": "L IN-LINE Baureihe",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ": die Inlinepumpen von SAER"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "2c38005f4dbf",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "cd0e645f1f0c",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-saer-saer-mbsh.webp",
+                  "alt": "SAER MBSH vertikale mehrstufige Pumpe",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "7a6bbfa0eaa7",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "SAER "
+                        },
+                        {
+                          "type": "text",
+                          "text": "MBSH Baureihe",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ": vertikale mehrstufige Pumpe für verschiedene Anwendungen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "8e75863f8963",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "35489ce5ad51",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-saer-saer-mk.webp",
+                  "alt": "SAER MK kompakte vertikale mehrstufige Pumpe",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "619ac6d884bc",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "SAER "
+                        },
+                        {
+                          "type": "text",
+                          "text": "MK Baureihe",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ": kompakte vertikale mehrstufige Pumpen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "7c3e534d4b41",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "e4bf1fb8ddd0",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-saer-saer-nca.webp",
+                  "alt": "SAER NCA trocken aufgestellte Elektropumpe für Entwässerung und Abwasser",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "282b42eeecc6",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "SAER "
+                        },
+                        {
+                          "type": "text",
+                          "text": "NCA Baureihe",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ": trocken aufgestellte Elektropumpen für Entwässerung und Abwasser"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "cf9c53d82239",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "cccc6e055ae1",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-saer-saer-ncb.webp",
+                  "alt": "SAER NCB Normpumpe mit freiem Wellenende",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "33e23d9a88b8",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "SAER "
+                        },
+                        {
+                          "type": "text",
+                          "text": "NCB Baureihe",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ": genormte Pumpen mit freiem Wellenende"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "93df00020f8e",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "238074727c66",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-saer-saer-ncbk.webp",
+                  "alt": "SAER NCBK Hochdruckpumpe mit freiem Wellenende",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "c16c16264c0a",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "SAER "
+                        },
+                        {
+                          "type": "text",
+                          "text": "NCBK Baureihe",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ": Hochdruckpumpen mit freiem Wellenende"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "e80bd79975e6",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "dd14c35a663c",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-saer-saer-nr151.webp",
+                  "alt": "SAER NR-151 Brunnenpumpe mit integriertem Rückschlagventil",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "5ff0b7055a5f",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "SAER "
+                        },
+                        {
+                          "type": "text",
+                          "text": "NR-151 / NR-152 Baureihe",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ": Brunnenpumpe mit integriertem Rückschlagventil"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "ebf83a24acb4",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "b056bafb24fc",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-saer-saer-nr201.webp",
+                  "alt": "SAER NR-201 Brunnenpumpe aus Edelstahl",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "9d580067e163",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "SAER "
+                        },
+                        {
+                          "type": "text",
+                          "text": "NR-201 Baureihe",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ": Brunnenpumpe aus Edelstahl"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "0b5325c5ae2c",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "f01bd598b1ff",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-saer-saer-nr250.webp",
+                  "alt": "SAER NR-250 Edelstahl-Brunnenpumpe mit integriertem Rückschlagventil",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "6e80fd0e52a0",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "SAER "
+                        },
+                        {
+                          "type": "text",
+                          "text": "NR-250 Baureihe",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ": Edelstahl-Brunnenpumpe mit integriertem Rückschlagventil"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "2d148f4589ee",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "5b1713442965",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-saer-saer-ns95.webp",
+                  "alt": "SAER NS-95 Brunnenpumpe",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "3e756fd1fbe8",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "SAER "
+                        },
+                        {
+                          "type": "text",
+                          "text": "NS-95 / NS-96 Baureihe",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ": Brunnenpumpe mit hoher Leistung und Effizienz"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "d040f4746fc0",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "01951d3a248c",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-saer-saer-op.webp",
+                  "alt": "SAER OP horizontale mehrstufige Pumpe",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "9a5ba54c4da4",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "SAER "
+                        },
+                        {
+                          "type": "text",
+                          "text": "OP Baureihe",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ": horizontale mehrstufige Pumpen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "af01f4148c4d",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "725c4069240f",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-saer-saer-s151.webp",
+                  "alt": "SAER S-151 Brunnenpumpe für Bergbau und Offshore",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "40b284e638b4",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "SAER "
+                        },
+                        {
+                          "type": "text",
+                          "text": "S-151 Baureihe",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ": Brunnenpumpe für schwere Anwendungen, etwa Bergbau und Offshore"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "e0c53d2afb08",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "b62eba0d4618",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-saer-saer-s252.webp",
+                  "alt": "SAER S-252 Brunnenpumpe",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "709b9aaf1e6c",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "SAER "
+                        },
+                        {
+                          "type": "text",
+                          "text": "S-252 / S-253 Baureihe",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ": effiziente Brunnenpumpe"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "83feb9464da9",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "41ef08da0225",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-saer-saer-s350.webp",
+                  "alt": "SAER S-350 Brunnenpumpe in verschiedenen Werkstoffen",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "f4d9575d2e8a",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "SAER "
+                        },
+                        {
+                          "type": "text",
+                          "text": "S-350 Baureihe",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ": zuverlässige Brunnenpumpe in verschiedenen Werkstoffen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "f135212f708b",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "a0ed3cb0ceb3",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-saer-saer-skd.webp",
+                  "alt": "SAER SKD axial geteilte Pumpe",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "30fef1c48e72",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "SAER "
+                        },
+                        {
+                          "type": "text",
+                          "text": "SKD Baureihe",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ": axial geteilte Pumpe mit hohem Förderstrom"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "23630ed05ba7",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ae35324af5fd",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-saer-saer-sm252.webp",
+                  "alt": "SAER SM 252 Pumpe",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "3d4221d29235",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "SAER "
+                        },
+                        {
+                          "type": "text",
+                          "text": "SM 252 Baureihe",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ": Baureihe"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "59d159819c81",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "21c31fe4e264",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-saer-saer-tm-tmb.webp",
+                  "alt": "SAER TM-TMB horizontale mehrstufige Pumpe",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "d93165566cba",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "SAER "
+                        },
+                        {
+                          "type": "text",
+                          "text": "TM-TMB Baureihe",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ": horizontale mehrstufige Pumpen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "3de8317c1165",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "28d29a04d90b",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-saer-saer-tmv.webp",
+                  "alt": "SAER TMV vertikale mehrstufige Pumpe",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "0f4e5713e5f1",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "SAER "
+                        },
+                        {
+                          "type": "text",
+                          "text": "TMV Baureihe",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ": vertikale mehrstufige Pumpen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "bf5755213d81",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "5bf5205c6f19",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-saer-saer-t-one.webp",
+                  "alt": "SAER T-ONE Druckerhöhungssystem",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "9807467f9b71",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "SAER "
+                        },
+                        {
+                          "type": "text",
+                          "text": "T-ONE Baureihe",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ": Druckerhöhungssystem"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "d014846be5a4",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "478b38871ac2",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-missende-pomp.webp",
+                  "alt": "SAER-Pumpen",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "0ba147a4b038",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ihre "
+                        },
+                        {
+                          "type": "text",
+                          "text": "SAER",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "-Pumpe ist nicht dabei? Unsere Pumpenexperten helfen Ihnen gern beim Finden und Liefern der benötigten Pumpe oder von Ersatzteilen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "7c11c7a4147c",
+        "_uid": "75a30820f383",
+        "component": "cta_band",
+        "heading": "Unverbindlich Kontakt aufnehmen",
+        "text": "Wir beraten Sie gern zu Auswahl, Ersatz und Revision Ihrer Pumpe.",
+        "button_label": "Kontakt aufnehmen",
+        "button_link": {
+          "fieldtype": "multilink",
+          "linktype": "url",
+          "url": "/kontakt",
+          "cached_url": "/kontakt"
+        },
+        "variant": "primary"
+      },
+      {
+        "_uid": "0421fa692681",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "SAER "
-                },
-                {
-                  "type": "text",
-                  "text": "CM/CMP Baureihe",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": ": hochwertige einstufige Pumpe aus Gusseisen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "51acf8763185",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-saer-saer-fs98.webp",
-          "alt": "SAER FS-98 Brunnenpumpe",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "75124d4bbf87",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "SAER "
-                },
-                {
-                  "type": "text",
-                  "text": "FS-98 Baureihe",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": ": Brunnenpumpe mit dynamischem Laufradpaket"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "0eed9c6f9f11",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-saer-saer-l.webp",
-          "alt": "SAER L IN-LINE Inlinepumpe",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "422230a1121d",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "SAER "
-                },
-                {
-                  "type": "text",
-                  "text": "L IN-LINE Baureihe",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": ": die Inlinepumpen von SAER"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "4290fa9d65ab",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-saer-saer-mbsh.webp",
-          "alt": "SAER MBSH vertikale mehrstufige Pumpe",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "3964563acfcd",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "SAER "
-                },
-                {
-                  "type": "text",
-                  "text": "MBSH Baureihe",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": ": vertikale mehrstufige Pumpe für verschiedene Anwendungen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "0d4dbad33bc2",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-saer-saer-mk.webp",
-          "alt": "SAER MK kompakte vertikale mehrstufige Pumpe",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "7dbf46e90d89",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "SAER "
-                },
-                {
-                  "type": "text",
-                  "text": "MK Baureihe",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": ": kompakte vertikale mehrstufige Pumpen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "aab6ae525d8b",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-saer-saer-nca.webp",
-          "alt": "SAER NCA trocken aufgestellte Elektropumpe für Entwässerung und Abwasser",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "3053917f6aa7",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "SAER "
-                },
-                {
-                  "type": "text",
-                  "text": "NCA Baureihe",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": ": trocken aufgestellte Elektropumpen für Entwässerung und Abwasser"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "8ed3c275d7b6",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-saer-saer-ncb.webp",
-          "alt": "SAER NCB Normpumpe mit freiem Wellenende",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "361944fcb9e9",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "SAER "
-                },
-                {
-                  "type": "text",
-                  "text": "NCB Baureihe",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": ": genormte Pumpen mit freiem Wellenende"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "156b880c6b29",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-saer-saer-ncbk.webp",
-          "alt": "SAER NCBK Hochdruckpumpe mit freiem Wellenende",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "cdbd9c10a827",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "SAER "
-                },
-                {
-                  "type": "text",
-                  "text": "NCBK Baureihe",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": ": Hochdruckpumpen mit freiem Wellenende"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "50a868edb07a",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-saer-saer-nr151.webp",
-          "alt": "SAER NR-151 Brunnenpumpe mit integriertem Rückschlagventil",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "68578747dcc5",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "SAER "
-                },
-                {
-                  "type": "text",
-                  "text": "NR-151 / NR-152 Baureihe",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": ": Brunnenpumpe mit integriertem Rückschlagventil"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "a970d7235bbd",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-saer-saer-nr201.webp",
-          "alt": "SAER NR-201 Brunnenpumpe aus Edelstahl",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "cb72f8ed9355",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "SAER "
-                },
-                {
-                  "type": "text",
-                  "text": "NR-201 Baureihe",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": ": Brunnenpumpe aus Edelstahl"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "8f0853b84c2e",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-saer-saer-nr250.webp",
-          "alt": "SAER NR-250 Edelstahl-Brunnenpumpe mit integriertem Rückschlagventil",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "154db521924c",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "SAER "
-                },
-                {
-                  "type": "text",
-                  "text": "NR-250 Baureihe",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": ": Edelstahl-Brunnenpumpe mit integriertem Rückschlagventil"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "af6ede883837",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-saer-saer-ns95.webp",
-          "alt": "SAER NS-95 Brunnenpumpe",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "7ff7d1d8c3ad",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "SAER "
-                },
-                {
-                  "type": "text",
-                  "text": "NS-95 / NS-96 Baureihe",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": ": Brunnenpumpe mit hoher Leistung und Effizienz"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "8aeea4c49632",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-saer-saer-op.webp",
-          "alt": "SAER OP horizontale mehrstufige Pumpe",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "8591935f5950",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "SAER "
-                },
-                {
-                  "type": "text",
-                  "text": "OP Baureihe",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": ": horizontale mehrstufige Pumpen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "24646800ba7f",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-saer-saer-s151.webp",
-          "alt": "SAER S-151 Brunnenpumpe für Bergbau und Offshore",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "34d3e5b49a5c",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "SAER "
-                },
-                {
-                  "type": "text",
-                  "text": "S-151 Baureihe",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": ": Brunnenpumpe für schwere Anwendungen, etwa Bergbau und Offshore"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "f3a6bd9c8254",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-saer-saer-s252.webp",
-          "alt": "SAER S-252 Brunnenpumpe",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "b35c4d2ec2b1",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "SAER "
-                },
-                {
-                  "type": "text",
-                  "text": "S-252 / S-253 Baureihe",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": ": effiziente Brunnenpumpe"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "1417a876de62",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-saer-saer-s350.webp",
-          "alt": "SAER S-350 Brunnenpumpe in verschiedenen Werkstoffen",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "5b4af7297029",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "SAER "
-                },
-                {
-                  "type": "text",
-                  "text": "S-350 Baureihe",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": ": zuverlässige Brunnenpumpe in verschiedenen Werkstoffen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "f267cb63dadd",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-saer-saer-skd.webp",
-          "alt": "SAER SKD axial geteilte Pumpe",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "06c6a8575865",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "SAER "
-                },
-                {
-                  "type": "text",
-                  "text": "SKD Baureihe",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": ": axial geteilte Pumpe mit hohem Förderstrom"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "f5d3ab7266e6",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-saer-saer-sm252.webp",
-          "alt": "SAER SM 252 Pumpe",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "f8ded78f61eb",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "SAER "
-                },
-                {
-                  "type": "text",
-                  "text": "SM 252 Baureihe",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": ": Baureihe"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "b4302ae27ef6",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-saer-saer-tm-tmb.webp",
-          "alt": "SAER TM-TMB horizontale mehrstufige Pumpe",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "f3796c397de4",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "SAER "
-                },
-                {
-                  "type": "text",
-                  "text": "TM-TMB Baureihe",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": ": horizontale mehrstufige Pumpen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "67fb47002431",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-saer-saer-tmv.webp",
-          "alt": "SAER TMV vertikale mehrstufige Pumpe",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "bcd17de0b129",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "SAER "
-                },
-                {
-                  "type": "text",
-                  "text": "TMV Baureihe",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": ": vertikale mehrstufige Pumpen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "fd62ba5c5cc7",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-saer-saer-t-one.webp",
-          "alt": "SAER T-ONE Druckerhöhungssystem",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "e8b7ed74a05d",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "SAER "
-                },
-                {
-                  "type": "text",
-                  "text": "T-ONE Baureihe",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": ": Druckerhöhungssystem"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "ff65d43a5412",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-missende-pomp.webp",
-          "alt": "SAER-Pumpen",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "7207a2e0b52b",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ihre "
-                },
-                {
-                  "type": "text",
-                  "text": "SAER",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": "-Pumpe ist nicht dabei? Unsere Pumpenexperten helfen Ihnen gern beim Finden und Liefern der benötigten Pumpe oder von Ersatzteilen."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Unverbindlich Kontakt aufnehmen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -1346,134 +1546,183 @@
         }
       },
       {
-        "_uid": "156d49ff9bdb",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-aeb.webp",
-          "alt": "AEB Amsterdam: Werk in der Dämmerung mit Logo, Kunde für industrielle SAER-Pumpen",
-          "width": 387,
-          "height": 241
-        }
+        "_uid": "79a0731ab2c1",
+        "component": "logo_carousel",
+        "logos": [
+          {
+            "_uid": "f73d1f053b88",
+            "component": "logo_item",
+            "name": "AEB Amsterdam",
+            "image": {
+              "filename": "/img/clients/aeb-amsterdam.webp",
+              "alt": "AEB Amsterdam",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "99d0d01b6252",
+            "component": "logo_item",
+            "name": "AkzoNobel",
+            "image": {
+              "filename": "/img/clients/akzonobel.webp",
+              "alt": "AkzoNobel",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "52306f5bd84a",
+            "component": "logo_item",
+            "name": "HVC",
+            "image": {
+              "filename": "/img/clients/hvc.webp",
+              "alt": "HVC",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "d52a925e4b8f",
+            "component": "logo_item",
+            "name": "Petrogas",
+            "image": {
+              "filename": "/img/clients/petrogas.webp",
+              "alt": "Petrogas",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "5be090d27b03",
+            "component": "logo_item",
+            "name": "Tata Steel",
+            "image": {
+              "filename": "/img/clients/tata-steel.webp",
+              "alt": "Tata Steel",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "3d49d8f1d22d",
+            "component": "logo_item",
+            "name": "Waternet",
+            "image": {
+              "filename": "/img/clients/waternet.webp",
+              "alt": "Waternet",
+              "width": 280,
+              "height": 140
+            }
+          }
+        ]
       },
       {
-        "_uid": "b3d818e6378a",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-akzonobel.webp",
-          "alt": "AkzoNobel Hauptsitz mit Glasfassade, Anwender von SAER-Kreiselpumpen",
-          "width": 387,
-          "height": 241
-        }
+        "_uid": "07fa027c2f7a",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "92f0cd836c63",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ba0bef9decb4",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Pumpen in verschiedenen Werkstoffen: kurze Lieferzeiten"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "SAER-Pumpen sind schnell lieferbar, da das Werk in Italien sehr viele Pumpen auf Lager hat. Nur der Transport von Italien in die Niederlande oder der Zusammenbau der Pumpe nimmt etwas Zeit in Anspruch, doch SAER-Pumpen sind im Allgemeinen schnell bei Ihnen vor Ort."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "223c544ee645",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "86d447be17de",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Pumpen in (Super-)Duplex"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Viele der SAER-Pumpen können in verschiedenen Werkstoffen ausgeführt werden, etwa in Gusseisen, Edelstahl und Bronze. Es ist auch möglich, eine Pumpe mit Edelstahlgehäuse und Bronzelaufrad zu erhalten. Neben diesen Werkstoffen sind verschiedene Pumpentypen auch in (Super-)Duplex erhältlich. Diese Stahlsorte zeichnet sich durch hohe Qualität und Festigkeit aus. Bei SAER gibt es verschiedene Möglichkeiten für eine Pumpe in diesem Werkstoff. Möchten Sie mehr wissen? Dann nehmen Sie unverbindlich Kontakt mit uns auf."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Anwendungen und Lösungen in allen Branchen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "SAER bietet fortschrittliche Pumpenlösungen für ein breites Spektrum an Anwendungen, von industriellen und landwirtschaftlichen bis zu häuslichen Anforderungen. Ob Bewässerung von Kulturen, Förderung von Industrieabwasser oder Wasserversorgung von Haushalten: SAER hat für jede Situation Pumpen im Programm. Dank innovativer Konstruktionen und hochwertiger Werkstoffe eignen sich SAER-Pumpen für den Einsatz in anspruchsvollen Umgebungen, in denen Zuverlässigkeit und Effizienz entscheidend sind."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "1dd66b838625",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-hvc.webp",
-          "alt": "HVC Energiezentrale in roten Gebäuden, eingesetzt in industriellen Pumpenanlagen von SAER",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "866fba44cdd0",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-petrogas.webp",
-          "alt": "Offshore-Plattform von Petrogas E&P mit Kran, SAER-Pumpen in der Öl- und Gasindustrie",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "b94628ad4317",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-tatasteel.webp",
-          "alt": "Tata Steel Produktionslinie mit Stahlrollen und Techniker, SAER-Pumpen in der Schwerindustrie",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "1fc94120ef73",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-waternet.webp",
-          "alt": "Waternet Bürogebäude am Wasser, Einsatz von SAER-Pumpen im Wassermanagement",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "9e5209c0cfc3",
+        "_uid": "389f42a42e73",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Pumpen in verschiedenen Werkstoffen: kurze Lieferzeiten"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "SAER-Pumpen sind schnell lieferbar, da das Werk in Italien sehr viele Pumpen auf Lager hat. Nur der Transport von Italien in die Niederlande oder der Zusammenbau der Pumpe nimmt etwas Zeit in Anspruch, doch SAER-Pumpen sind im Allgemeinen schnell bei Ihnen vor Ort."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Pumpen in (Super-)Duplex"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Viele der SAER-Pumpen können in verschiedenen Werkstoffen ausgeführt werden, etwa in Gusseisen, Edelstahl und Bronze. Es ist auch möglich, eine Pumpe mit Edelstahlgehäuse und Bronzelaufrad zu erhalten. Neben diesen Werkstoffen sind verschiedene Pumpentypen auch in (Super-)Duplex erhältlich. Diese Stahlsorte zeichnet sich durch hohe Qualität und Festigkeit aus. Bei SAER gibt es verschiedene Möglichkeiten für eine Pumpe in diesem Werkstoff. Möchten Sie mehr wissen? Dann nehmen Sie unverbindlich Kontakt mit uns auf."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Anwendungen und Lösungen in allen Branchen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "SAER bietet fortschrittliche Pumpenlösungen für ein breites Spektrum an Anwendungen, von industriellen und landwirtschaftlichen bis zu häuslichen Anforderungen. Ob Bewässerung von Kulturen, Förderung von Industrieabwasser oder Wasserversorgung von Haushalten: SAER hat für jede Situation Pumpen im Programm. Dank innovativer Konstruktionen und hochwertiger Werkstoffe eignen sich SAER-Pumpen für den Einsatz in anspruchsvollen Umgebungen, in denen Zuverlässigkeit und Effizienz entscheidend sind."
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -1541,37 +1790,56 @@
         }
       },
       {
-        "_uid": "f829fb05e22d",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-blokpompen-bg.webp",
-          "alt": "SAER-Pumpen",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      {
-        "_uid": "918d3c0d56b9",
-        "component": "faq",
-        "heading": "Häufige Fragen",
-        "items": [
+        "_uid": "88379774b02c",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
           {
-            "_uid": "cc2d9afe0bfb",
-            "component": "faq_item",
-            "question": "Was ist eine SAER-Pumpe?",
-            "answer": "Eine SAER-Pumpe ist ein Qualitätsprodukt des italienischen Herstellers SAER Elettropompe, der auf Wasserpumpen für industrielle und gewerbliche Anwendungen spezialisiert ist. SAER ist für solide Konstruktion, hohe Effizienz und zuverlässige Leistung bekannt. Die Pumpen werden überwiegend aus Gusseisen oder Edelstahl gefertigt und für langen, intensiven Einsatz ausgelegt. Durch die Kombination aus italienischem Handwerk und moderner Fertigungstechnik sind SAER-Pumpen vielseitig einsetzbar."
+            "_uid": "26e89f793e8f",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "9d3b7fdad9c6",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-blokpompen-bg.webp",
+                  "alt": "SAER-Pumpen",
+                  "width": 1280,
+                  "height": 720
+                }
+              }
+            ]
           },
           {
-            "_uid": "ad253dbd0e82",
-            "component": "faq_item",
-            "question": "Welche Arten von SAER-Pumpen gibt es?",
-            "answer": "SAER hat ein umfangreiches Sortiment, darunter:\nKreiselpumpen für Wasserförderung und Prozessanwendungen\nMehrstufige Pumpen für Druckerhöhung und Wasserversorgung\nBrunnen- und Tiefbrunnenpumpen für die Grundwasserförderung\nSelbstansaugende Pumpen für industrielle Anlagen\nPumpen aus Edelstahl oder Sonderwerkstoffen für korrosive Medien\nInnerhalb dieser Kategorien sind verschiedene Ausführungen erhältlich, abgestimmt auf Förderleistung, Förderhöhe und Einsatzbereich."
-          },
-          {
-            "_uid": "20e764378114",
-            "component": "faq_item",
-            "question": "Wofür wird eine SAER-Pumpe eingesetzt?",
-            "answer": "SAER-Pumpen werden dort eingesetzt, wo Zuverlässigkeit und effiziente Wasserförderung im Mittelpunkt stehen, zum Beispiel:\nIndustrielle Prozesse und Anlagen\nWasserversorgung und Druckerhöhungssysteme\nBewässerung und Landwirtschaft\nGrundwasserförderung und Brunnenanlagen\nGewerbebau und technische Installationen\nDank des breiten Programms und der soliden Bauqualität eignen sich SAER-Pumpen sowohl für Standard- als auch für Spezialanwendungen in Industrie und Infrastruktur."
+            "_uid": "41f61c1587fc",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "84aacf15e761",
+                "component": "faq",
+                "heading": "Häufige Fragen",
+                "items": [
+                  {
+                    "_uid": "94d1c92cd85b",
+                    "component": "faq_item",
+                    "question": "Was ist eine SAER-Pumpe?",
+                    "answer": "Eine SAER-Pumpe ist ein Qualitätsprodukt des italienischen Herstellers SAER Elettropompe, der auf Wasserpumpen für industrielle und gewerbliche Anwendungen spezialisiert ist. SAER ist für solide Konstruktion, hohe Effizienz und zuverlässige Leistung bekannt. Die Pumpen werden überwiegend aus Gusseisen oder Edelstahl gefertigt und für langen, intensiven Einsatz ausgelegt. Durch die Kombination aus italienischem Handwerk und moderner Fertigungstechnik sind SAER-Pumpen vielseitig einsetzbar."
+                  },
+                  {
+                    "_uid": "30a7ec7209a5",
+                    "component": "faq_item",
+                    "question": "Welche Arten von SAER-Pumpen gibt es?",
+                    "answer": "SAER hat ein umfangreiches Sortiment, darunter:\nKreiselpumpen für Wasserförderung und Prozessanwendungen\nMehrstufige Pumpen für Druckerhöhung und Wasserversorgung\nBrunnen- und Tiefbrunnenpumpen für die Grundwasserförderung\nSelbstansaugende Pumpen für industrielle Anlagen\nPumpen aus Edelstahl oder Sonderwerkstoffen für korrosive Medien\nInnerhalb dieser Kategorien sind verschiedene Ausführungen erhältlich, abgestimmt auf Förderleistung, Förderhöhe und Einsatzbereich."
+                  },
+                  {
+                    "_uid": "793e47ff470f",
+                    "component": "faq_item",
+                    "question": "Wofür wird eine SAER-Pumpe eingesetzt?",
+                    "answer": "SAER-Pumpen werden dort eingesetzt, wo Zuverlässigkeit und effiziente Wasserförderung im Mittelpunkt stehen, zum Beispiel:\nIndustrielle Prozesse und Anlagen\nWasserversorgung und Druckerhöhungssysteme\nBewässerung und Landwirtschaft\nGrundwasserförderung und Brunnenanlagen\nGewerbebau und technische Installationen\nDank des breiten Programms und der soliden Bauqualität eignen sich SAER-Pumpen sowohl für Standard- als auch für Spezialanwendungen in Industrie und Infrastruktur."
+                  }
+                ]
+              }
+            ]
           }
         ]
       }

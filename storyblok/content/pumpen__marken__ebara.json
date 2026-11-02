@@ -50,36 +50,9 @@
       "alt": "Ebara"
     },
     "revision_text": "Eine Revision kann je nach Zustand der Pumpe den Austausch von Verschleißteilen wie Gleitringdichtungen und Lagern umfassen. Den genauen Umfang legen wir nach Prüfung der Pumpe mit Ihnen fest. Welche Teile im Einzelfall verfügbar sind, hängt von Serie, Baujahr und Ausführung ab.",
-    "faq": [
-      {
-        "_uid": "020c5fb62ad3",
-        "component": "faq",
-        "heading": "Häufige Fragen zu Ebara-Pumpen",
-        "items": [
-          {
-            "_uid": "073351011dd2",
-            "component": "faq_item",
-            "question": "Sind Ersatzteile für Ebara-Pumpen verfügbar?",
-            "answer": "Das hängt von Serie, Baujahr und Ausführung ab. Senden Sie uns Typenschild oder ein Foto der Pumpe, dann prüfen wir die Verfügbarkeit."
-          },
-          {
-            "_uid": "dd7c1b6486cf",
-            "component": "faq_item",
-            "question": "Kann ich eine ältere Ebara-Serie durch ein aktuelles Modell ersetzen?",
-            "answer": "Das ist je nach Serie möglich. Entscheidend sind Förderstrom, Förderhöhe, Anschlussmaße und Motordaten der vorhandenen Pumpe. Anhand des Typenschilds prüfen wir, welches Modell passt."
-          },
-          {
-            "_uid": "eebc0a8a6af2",
-            "component": "faq_item",
-            "question": "Wie lang ist die Lieferzeit für Ebara-Pumpen?",
-            "answer": "[[PLATZHALTER: Lieferzeit Ebara]]"
-          }
-        ]
-      }
-    ],
     "body": [
       {
-        "_uid": "712bb2573fb4",
+        "_uid": "75ac499578cd",
         "component": "rich_text",
         "content": {
           "type": "doc",
@@ -130,162 +103,202 @@
         }
       },
       {
-        "_uid": "a06ad7111c18",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/ipg-ecom-ebara-ebara-best-one-vox-a.webp",
-          "alt": "Ebara Tauchmotorpumpe der Baureihe Best",
-          "width": 520,
-          "height": 520
-        }
+        "_uid": "5c2e840a6062",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "9252272b5f13",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "f77850efdbf2",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/ipg-ecom-ebara-ebara-best-one-vox-a.webp",
+                  "alt": "Ebara Tauchmotorpumpe der Baureihe Best",
+                  "width": 520,
+                  "height": 520
+                }
+              },
+              {
+                "_uid": "4e52fcae502d",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ebara Baureihe Best"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Tauchmotorpumpe für sauberes und leicht verschmutztes Wasser"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "b52d38d90441",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "428af29bbf5c",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/ipg-ecom-ebara-ebara-aga-agc-series.webp",
+                  "alt": "Ebara Blockpumpe der Baureihe AGA-AGC",
+                  "width": 520,
+                  "height": 520
+                }
+              },
+              {
+                "_uid": "d024349d10f5",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ebara Baureihe AGA-AGC"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Effiziente Blockpumpe"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "3db5044baf0f",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "904bdc404b21",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/ipg-ecom-ebara-ebara-dw-series.webp",
+                  "alt": "Ebara Tauchmotorpumpe der Baureihe DW",
+                  "width": 520,
+                  "height": 520
+                }
+              },
+              {
+                "_uid": "89321f73678b",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ebara Baureihe DW"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Tauchmotorpumpe für sauberes und leicht verschmutztes Wasser"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "05c44a056342",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "0836bb488a46",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/ipg-ecom-ebara-ebara-cdx.webp",
+                  "alt": "Ebara Blockpumpe der Baureihe CDX",
+                  "width": 520,
+                  "height": 520
+                }
+              },
+              {
+                "_uid": "af11d68b6774",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ebara Baureihe CDX"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Effiziente Blockpumpe"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "993f88d62a77",
+        "_uid": "373d70633f92",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ebara Baureihe Best"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Tauchmotorpumpe für sauberes und leicht verschmutztes Wasser"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "63035c7ef2a8",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/ipg-ecom-ebara-ebara-aga-agc-series.webp",
-          "alt": "Ebara Blockpumpe der Baureihe AGA-AGC",
-          "width": 520,
-          "height": 520
-        }
-      },
-      {
-        "_uid": "4fc19f0699eb",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ebara Baureihe AGA-AGC"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Effiziente Blockpumpe"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "2c3e52e6d4e8",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/ipg-ecom-ebara-ebara-dw-series.webp",
-          "alt": "Ebara Tauchmotorpumpe der Baureihe DW",
-          "width": 520,
-          "height": 520
-        }
-      },
-      {
-        "_uid": "b26a4a79dd15",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ebara Baureihe DW"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Tauchmotorpumpe für sauberes und leicht verschmutztes Wasser"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "46f5416b11c9",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/ipg-ecom-ebara-ebara-cdx.webp",
-          "alt": "Ebara Blockpumpe der Baureihe CDX",
-          "width": 520,
-          "height": 520
-        }
-      },
-      {
-        "_uid": "a5a6f69cb235",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ebara Baureihe CDX"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Effiziente Blockpumpe"
-                }
-              ]
-            },
             {
               "type": "paragraph",
               "content": [
@@ -299,459 +312,550 @@
         }
       },
       {
-        "_uid": "38eb42727534",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-ebara-ebara-3.webp",
-          "alt": "Ebara Kreiselpumpe der Baureihe 3 aus Edelstahl",
-          "width": 500,
-          "height": 500
-        }
+        "_uid": "7f03a0f9dde4",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "a9d9da522a07",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "09b502b122fe",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-ebara-ebara-3.webp",
+                  "alt": "Ebara Kreiselpumpe der Baureihe 3 aus Edelstahl",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "66a19b1c1fbc",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ebara "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Baureihe 3: 3M, 3L, 3S, 3P",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Normalsaugende Kreiselpumpe in Edelstahlausführung, auch als selbstansaugende Pumpe erhältlich."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "955fb51d2dc7",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "573d00825f56",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-ebara-ebara-3d.webp",
+                  "alt": "Ebara Kreiselpumpe der Baureihe 3D",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "f8f9f4e242ea",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ebara "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Baureihe 3D",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Kreiselpumpe aus Gusseisen mit Edelstahl-Laufrad, dadurch auch für den Dauerbetrieb geeignet"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "5872ff662c2d",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "a836bf3f2563",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-ebara-ebara-dumper.webp",
+                  "alt": "Ebara Schmutzwasser-Tauchmotorpumpe der Baureihe Dumper",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "7121a52f4985",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ebara "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Baureihe Dumper",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Schmutzwasser-Tauchmotorpumpen sind in Edelstahl 316 oder Aluminium/Stahl lieferbar"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "e52534978fbd",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "0f5992c52490",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-ebara-ebara-optima.webp",
+                  "alt": "Ebara Tauchmotorpumpe der Baureihe Optima",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "7ed820153168",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ebara "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Baureihe Optima",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Korrosionsfreie und leichte Pumpe, besonders geeignet zum Leerpumpen von Brunnenschächten, Kellern und Kriechkellern"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "1e96da3e72ad",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "478636f1aad2",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-ebara-ebara-sb3.webp",
+                  "alt": "Ebara Brunnenpumpe der Baureihe SB3",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "e6ff2c0ac95e",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ebara "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Baureihe SB3",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " 3-Zoll-Brunnenpumpen aus Edelstahl mit genormten NEMA-Motoren"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "ae40d9fe4e18",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "fa4f8b6d8075",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-missende-pomp.webp",
+                  "alt": "Platzhalter für nicht aufgeführte Pumpen",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "0b52057b3eea",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ihre "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Ebara",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Pumpe ist nicht dabei? Unsere Pumpenexperten helfen Ihnen gern, die benötigte Pumpe oder Ersatzteile zu finden und zu liefern"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "0b4a8b5fa879",
+        "_uid": "a9fbad0a4a0a",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "997a68918032",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "bbad83ce4f2b",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Vielfältige Anwendungen von Ebara Pumpen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ebara Pumpen eignen sich für ein breites Spektrum an Anwendungen, darunter:"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "• "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Industrielle Anwendungen",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ": Ebara Pumpen werden wegen ihrer Zuverlässigkeit und effizienten Leistung in verschiedenen industriellen Prozessen eingesetzt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "• "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Wasseraufbereitung",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ": Diese Pumpen eignen sich zum Fördern und Aufbereiten von Wasser in verschiedenen Anwendungen, darunter Trinkwasser- und Abwasserbehandlung."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "• "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Heizung und Klimatechnik",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ": Ebara Pumpen werden wegen ihres energiesparenden und zuverlässigen Betriebs häufig in HVAC-Systemen eingesetzt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "• "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Bewässerung",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ": Die Pumpen eignen sich auch für Bewässerungsanwendungen, in denen sie für eine effiziente Wasserverteilung sorgen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "79fd3de76d9b",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "0392abb39ac9",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Effiziente Kreiselpumpen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ebara hat eine besondere Stärke in der Fertigung kleiner Kreiselpumpen aus Edelstahl. Die Normpumpen im Sortiment sind als Blockpumpen, mit verlängerter Motorwelle oder mit Aufsteckwelle lieferbar."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Außerdem liefert Ebara Pumpen mit halboffenem Laufrad, wenn Flüssigkeiten mit Feststoffen gefördert werden müssen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ersatzteile und Unterstützung"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Industrial Pump Group ist Händler von Ebara Pumpen und Ersatzteilen und berät und unterstützt Sie jederzeit bei einer eventuellen Revision. Wir liefern Originalersatzteile und bieten fachkundige Beratung, damit Ihre Pumpenanlagen dauerhaft optimal arbeiten."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Umweltfreundliche Produktionsprozesse bei Ebara"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ebara setzt sich für umweltfreundliche Produktionsprozesse ein, um den ökologischen Fußabdruck zu minimieren. Die Ebara Pumpen werden in modernen Anlagen gefertigt, die energieeffiziente Verfahren und nachhaltige Werkstoffe nutzen. Ebara investiert fortlaufend in Forschung und Entwicklung, um die Prozesse zu optimieren und die Umweltbelastung zu verringern. Das bedeutet: Sie erhalten nicht nur hochwertige und zuverlässige Pumpen, sondern tragen mit der Entscheidung für Produkte von Ebara auch zu einer nachhaltigeren Zukunft bei."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "d500cd33d278",
+        "component": "cta_band",
+        "heading": "Unverbindlich Kontakt aufnehmen",
+        "text": "Wir beraten Sie gern zu Auswahl, Ersatz und Revision Ihrer Pumpe.",
+        "button_label": "Kontakt aufnehmen",
+        "button_link": {
+          "fieldtype": "multilink",
+          "linktype": "url",
+          "url": "/kontakt",
+          "cached_url": "/kontakt"
+        },
+        "variant": "primary"
+      },
+      {
+        "_uid": "8aacc2bae364",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ebara "
-                },
-                {
-                  "type": "text",
-                  "text": "Baureihe 3: 3M, 3L, 3S, 3P",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Normalsaugende Kreiselpumpe in Edelstahlausführung, auch als selbstansaugende Pumpe erhältlich."
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "801dfccbc9a5",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-ebara-ebara-3d.webp",
-          "alt": "Ebara Kreiselpumpe der Baureihe 3D",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "67961e8ec32a",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ebara "
-                },
-                {
-                  "type": "text",
-                  "text": "Baureihe 3D",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Kreiselpumpe aus Gusseisen mit Edelstahl-Laufrad, dadurch auch für den Dauerbetrieb geeignet"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "2e31588eec65",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-ebara-ebara-dumper.webp",
-          "alt": "Ebara Schmutzwasser-Tauchmotorpumpe der Baureihe Dumper",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "dbcce63b587d",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ebara "
-                },
-                {
-                  "type": "text",
-                  "text": "Baureihe Dumper",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Schmutzwasser-Tauchmotorpumpen sind in Edelstahl 316 oder Aluminium/Stahl lieferbar"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "7b720571cfb1",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-ebara-ebara-optima.webp",
-          "alt": "Ebara Tauchmotorpumpe der Baureihe Optima",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "cb17fcb56fdb",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ebara "
-                },
-                {
-                  "type": "text",
-                  "text": "Baureihe Optima",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Korrosionsfreie und leichte Pumpe, besonders geeignet zum Leerpumpen von Brunnenschächten, Kellern und Kriechkellern"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "02adf45892b9",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-ebara-ebara-sb3.webp",
-          "alt": "Ebara Brunnenpumpe der Baureihe SB3",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "cce6105202a3",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ebara "
-                },
-                {
-                  "type": "text",
-                  "text": "Baureihe SB3",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " 3-Zoll-Brunnenpumpen aus Edelstahl mit genormten NEMA-Motoren"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "09c4ab7167d0",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-missende-pomp.webp",
-          "alt": "Platzhalter für nicht aufgeführte Pumpen",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "953a2219e593",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ihre "
-                },
-                {
-                  "type": "text",
-                  "text": "Ebara",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Pumpe ist nicht dabei? Unsere Pumpenexperten helfen Ihnen gern, die benötigte Pumpe oder Ersatzteile zu finden und zu liefern"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Vielfältige Anwendungen von Ebara Pumpen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ebara Pumpen eignen sich für ein breites Spektrum an Anwendungen, darunter:"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "• "
-                },
-                {
-                  "type": "text",
-                  "text": "Industrielle Anwendungen",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": ": Ebara Pumpen werden wegen ihrer Zuverlässigkeit und effizienten Leistung in verschiedenen industriellen Prozessen eingesetzt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "• "
-                },
-                {
-                  "type": "text",
-                  "text": "Wasseraufbereitung",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": ": Diese Pumpen eignen sich zum Fördern und Aufbereiten von Wasser in verschiedenen Anwendungen, darunter Trinkwasser- und Abwasserbehandlung."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "• "
-                },
-                {
-                  "type": "text",
-                  "text": "Heizung und Klimatechnik",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": ": Ebara Pumpen werden wegen ihres energiesparenden und zuverlässigen Betriebs häufig in HVAC-Systemen eingesetzt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "• "
-                },
-                {
-                  "type": "text",
-                  "text": "Bewässerung",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": ": Die Pumpen eignen sich auch für Bewässerungsanwendungen, in denen sie für eine effiziente Wasserverteilung sorgen."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Effiziente Kreiselpumpen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ebara hat eine besondere Stärke in der Fertigung kleiner Kreiselpumpen aus Edelstahl. Die Normpumpen im Sortiment sind als Blockpumpen, mit verlängerter Motorwelle oder mit Aufsteckwelle lieferbar."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Außerdem liefert Ebara Pumpen mit halboffenem Laufrad, wenn Flüssigkeiten mit Feststoffen gefördert werden müssen."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ersatzteile und Unterstützung"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Industrial Pump Group ist Händler von Ebara Pumpen und Ersatzteilen und berät und unterstützt Sie jederzeit bei einer eventuellen Revision. Wir liefern Originalersatzteile und bieten fachkundige Beratung, damit Ihre Pumpenanlagen dauerhaft optimal arbeiten."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Umweltfreundliche Produktionsprozesse bei Ebara"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ebara setzt sich für umweltfreundliche Produktionsprozesse ein, um den ökologischen Fußabdruck zu minimieren. Die Ebara Pumpen werden in modernen Anlagen gefertigt, die energieeffiziente Verfahren und nachhaltige Werkstoffe nutzen. Ebara investiert fortlaufend in Forschung und Entwicklung, um die Prozesse zu optimieren und die Umweltbelastung zu verringern. Das bedeutet: Sie erhalten nicht nur hochwertige und zuverlässige Pumpen, sondern tragen mit der Entscheidung für Produkte von Ebara auch zu einer nachhaltigeren Zukunft bei."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Unverbindlich Kontakt aufnehmen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -886,37 +990,56 @@
         }
       },
       {
-        "_uid": "c89c056cba13",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/ebara-factory.webp",
-          "alt": "Produktionsstandort von Ebara",
-          "width": 1024,
-          "height": 575
-        }
-      },
-      {
-        "_uid": "3ff1972de07c",
-        "component": "faq",
-        "heading": "Häufige Fragen",
-        "items": [
+        "_uid": "c36d646b8d39",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
           {
-            "_uid": "a57060ed5690",
-            "component": "faq_item",
-            "question": "Was sind Ebara Pumpen?",
-            "answer": "Ebara Pumpen sind qualitativ hochwertige Pumpen des italienischen Zweigs von Ebara, einem international bekannten Pumpenhersteller. Ebara ist für den starken Fokus auf Qualität, Effizienz und Nachhaltigkeit bekannt. Die Pumpen werden überwiegend aus Edelstahl gefertigt und sind für zuverlässige Leistung in industriellen wie gewerblichen Anwendungen ausgelegt. Durch die Kombination aus solider Konstruktion und energiesparender Technik sind Ebara Pumpen vielseitig einsetzbar."
+            "_uid": "fb632f77fb67",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "9aee922f0b76",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/ebara-factory.webp",
+                  "alt": "Produktionsstandort von Ebara",
+                  "width": 1024,
+                  "height": 575
+                }
+              }
+            ]
           },
           {
-            "_uid": "a4a47c318f4f",
-            "component": "faq_item",
-            "question": "Welche Arten von Ebara Pumpen gibt es?",
-            "answer": "Ebara hat ein umfangreiches Sortiment, unter anderem:\n- Kreiselpumpen für Wasser- und Prozessanwendungen\n- Mehrstufige Pumpen für höhere Drücke und Förderströme\n- Tauchmotorpumpen für sauberes und leicht verschmutztes Wasser\n- Inlinepumpen für Gebäudetechnik und Gewerbe\n- Edelstahlpumpen für korrosive oder hygienische Umgebungen\nDie meisten Ebara Pumpen sind in verschiedenen Werkstoffen und Ausführungen lieferbar, abgestimmt auf Druck, Leistung und Medium."
-          },
-          {
-            "_uid": "930660b20cec",
-            "component": "faq_item",
-            "question": "Wofür werden Ebara Pumpen eingesetzt?",
-            "answer": "Ebara Pumpen werden in unterschiedlichen Branchen eingesetzt, in denen Zuverlässigkeit und Effizienz wichtig sind, zum Beispiel:\n- Industrielle Prozesse und Wasserumwälzung\n- Gebäudetechnik und HVAC-Systeme\n- Wasserversorgung und Druckerhöhung\n- Bewässerung und Landwirtschaft\n- Gewerbe- und Zweckbauten\nDank des breiten Programms und des Fokus auf Qualität sind Ebara Pumpen eine verlässliche Wahl für Standard- wie Sonderanwendungen in industriellen und technischen Anlagen."
+            "_uid": "eae51a8cbdde",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "4eb74bd5cc07",
+                "component": "faq",
+                "heading": "Häufige Fragen",
+                "items": [
+                  {
+                    "_uid": "5c1dedcd11e7",
+                    "component": "faq_item",
+                    "question": "Was sind Ebara Pumpen?",
+                    "answer": "Ebara Pumpen sind qualitativ hochwertige Pumpen des italienischen Zweigs von Ebara, einem international bekannten Pumpenhersteller. Ebara ist für den starken Fokus auf Qualität, Effizienz und Nachhaltigkeit bekannt. Die Pumpen werden überwiegend aus Edelstahl gefertigt und sind für zuverlässige Leistung in industriellen wie gewerblichen Anwendungen ausgelegt. Durch die Kombination aus solider Konstruktion und energiesparender Technik sind Ebara Pumpen vielseitig einsetzbar."
+                  },
+                  {
+                    "_uid": "1c06f048b436",
+                    "component": "faq_item",
+                    "question": "Welche Arten von Ebara Pumpen gibt es?",
+                    "answer": "Ebara hat ein umfangreiches Sortiment, unter anderem:\n- Kreiselpumpen für Wasser- und Prozessanwendungen\n- Mehrstufige Pumpen für höhere Drücke und Förderströme\n- Tauchmotorpumpen für sauberes und leicht verschmutztes Wasser\n- Inlinepumpen für Gebäudetechnik und Gewerbe\n- Edelstahlpumpen für korrosive oder hygienische Umgebungen\nDie meisten Ebara Pumpen sind in verschiedenen Werkstoffen und Ausführungen lieferbar, abgestimmt auf Druck, Leistung und Medium."
+                  },
+                  {
+                    "_uid": "72db76ae2a8e",
+                    "component": "faq_item",
+                    "question": "Wofür werden Ebara Pumpen eingesetzt?",
+                    "answer": "Ebara Pumpen werden in unterschiedlichen Branchen eingesetzt, in denen Zuverlässigkeit und Effizienz wichtig sind, zum Beispiel:\n- Industrielle Prozesse und Wasserumwälzung\n- Gebäudetechnik und HVAC-Systeme\n- Wasserversorgung und Druckerhöhung\n- Bewässerung und Landwirtschaft\n- Gewerbe- und Zweckbauten\nDank des breiten Programms und des Fokus auf Qualität sind Ebara Pumpen eine verlässliche Wahl für Standard- wie Sonderanwendungen in industriellen und technischen Anlagen."
+                  }
+                ]
+              }
+            ]
           }
         ]
       }

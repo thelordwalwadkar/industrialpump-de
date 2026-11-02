@@ -15,1047 +15,1363 @@
     "topic_kind": "pumpentyp",
     "body": [
       {
-        "_uid": "c687e1b76f20",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Tauchmotorpumpen dienen dazu, Wasser aus Schächten, Teichen und anderen Behältern zu fördern, und werden auch im Bauwesen eingesetzt. Sie lassen sich ebenfalls bei Überschwemmungen oder Kanalisationsproblemen einsetzen."
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
+        "_uid": "370b985f1999",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "05d889c3a674",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "bb6f92567c1c",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "Abwasser",
-                          "marks": [
+                          "text": "Tauchmotorpumpen dienen dazu, Wasser aus Schächten, Teichen und anderen Behältern zu fördern, und werden auch im Bauwesen eingesetzt. Sie lassen sich ebenfalls bei Überschwemmungen oder Kanalisationsproblemen einsetzen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "41d02a7c9321",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "69816d374d30",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
                             {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/branchen/wassertransport",
-                                "linktype": "url"
-                              }
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Abwasser",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/branchen/wassertransport",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Entwässerung",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/anwendungen/entwaesserung",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Lowara-Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/marken/lowara",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Ebara-Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/marken/ebara",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Flygt-Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/marken/flygt",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Grindex-Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/marken/grindex",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Homa-Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/marken/homa",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
                             }
                           ]
                         }
                       ]
                     }
                   ]
-                },
-                {
-                  "type": "list_item",
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "29e9361644ad",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "5fc28b053242",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "4695b840eb0d",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Tauchmotorpumpen: zuverlässige und vielseitige Lösungen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "3de5bec8b585",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "3c47142f69ad",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "Entwässerung",
+                          "text": "Tauchmotorpumpen sind leistungsfähige Pumpen, die zum effizienten Fördern in Wasser eingetaucht werden. Sie werden häufig zum Fördern von Abwasser und Schmutzwasser eingesetzt, eignen sich aber auch für den Hausgebrauch, etwa zum Leerpumpen eines Kellers oder Schwimmbeckens. Tauchmotorpumpen sind in verschiedenen Ausführungen und Leistungen erhältlich, je nach Anwendung und Art des zu fördernden Wassers. Sie arbeiten in der Regel sehr zuverlässig und können große Wassermengen in kurzer Zeit fördern."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bei der Wahl einer Tauchmotorpumpe sind Faktoren wie die zu fördernde Wassermenge, die maximale Förderhöhe und die gewünschte Fördergeschwindigkeit zu berücksichtigen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "d399131003d6",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "98f2711c8864",
+            "component": "section_column",
+            "icon": "fa-ban",
+            "content": [
+              {
+                "_uid": "a9b38e773428",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Verstopfungsfreier Betrieb",
                           "marks": [
                             {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/anwendungen/entwaesserung",
-                                "linktype": "url"
-                              }
+                              "type": "bold"
                             }
                           ]
                         }
                       ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Tauchmotorpumpen sind mit Schneidvorrichtungen und Verschleißplatten mit Schneidnuten ausgestattet, die feste und langfaserige Stoffe zu förderbaren Teilen zerkleinern. Das beugt Verstopfungen vor und sorgt für zuverlässigen Betrieb."
+                        }
+                      ]
                     }
                   ]
-                },
-                {
-                  "type": "list_item",
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "70884b6887bb",
+            "component": "section_column",
+            "icon": "fa-sync-alt",
+            "content": [
+              {
+                "_uid": "4b4bef02e6e4",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "Lowara-Pumpen",
+                          "text": "Breit einsetzbar",
                           "marks": [
                             {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/marken/lowara",
-                                "linktype": "url"
-                              }
+                              "type": "bold"
                             }
                           ]
                         }
                       ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Geeignet für verschiedene Anwendungen, vom Hausgebrauch bis zur industriellen Abwasserbehandlung, dank unterschiedlicher Ausführungen und Leistungen, die an saubere wie an verschmutzte Flüssigkeiten angepasst werden können."
+                        }
+                      ]
                     }
                   ]
-                },
-                {
-                  "type": "list_item",
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "42d698df9e76",
+            "component": "section_column",
+            "icon": "fa-exclamation-triangle",
+            "content": [
+              {
+                "_uid": "1a9d94d48f7f",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "Ebara-Pumpen",
+                          "text": "ATEX-zertifiziert",
                           "marks": [
                             {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/marken/ebara",
-                                "linktype": "url"
-                              }
+                              "type": "bold"
                             }
                           ]
                         }
                       ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Tauchmotorpumpen können mit ATEX-Zertifizierung geliefert werden. Damit eignen sie sich für den Einsatz in explosionsgefährdeten Bereichen, sowohl bei Gas- als auch bei Staubexplosionen, in denen die Sicherheit Vorrang hat."
+                        }
+                      ]
                     }
                   ]
-                },
-                {
-                  "type": "list_item",
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "578b0ec021e6",
+            "component": "section_column",
+            "icon": "fa-tools",
+            "content": [
+              {
+                "_uid": "62f2729c7390",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "Flygt-Pumpen",
+                          "text": "Einfache und flexible Installation",
                           "marks": [
                             {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/marken/flygt",
-                                "linktype": "url"
-                              }
+                              "type": "bold"
                             }
                           ]
                         }
                       ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
+                    },
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "Grindex-Pumpen",
-                          "marks": [
+                          "text": "Die Pumpen lassen sich auf verschiedene Arten installieren, zum Beispiel nass, transportabel, senkrecht trocken oder waagerecht trocken, mit Optionen für automatisches Schalten über Schwimmerschalter, was Installation und Wartung vereinfacht."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "926594c4ad2c",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "7939c56a7565",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "cd02631567f3",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Warum eine Tauchmotorpumpe?"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
                             {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/marken/grindex",
-                                "linktype": "url"
-                              }
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Keine Probleme beim Ansaugen"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Geräuscharm"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Einfache Installation"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Verstopfungsfrei"
+                                }
+                              ]
                             }
                           ]
                         }
                       ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Tauchmotorpumpen für saubere und verschmutzte Flüssigkeiten"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Neben der Beratung kann Industrial Pump Group Nederland Sie auch mit verschiedenen Tauchmotorpumpen beliefern: von Pumpen für saubere Flüssigkeiten wie (Trink-)Wasser, Brauchwasser und Effluent bis zu verschmutzten Flüssigkeiten wie Influent und Fäkalien. Die Ausführung der Pumpen und Laufräder reicht von geschlossenen Laufrädern über halboffene und offene Laufräder bis zu Vortex-Laufrädern sowie Ein- oder Mehrkanallaufrädern."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bei der Auswahl des passenden Laufrads berücksichtigen wir Ihre Anwendung, damit die am besten geeignete Laufradform eingesetzt wird. Das gilt sowohl für einen verstopfungsfreien Betrieb als auch für eine Installation mit maximalem Pumpenwirkungsgrad. Außerdem kann die Zusammensetzung des Mediums dazu führen, dass spezielle Werkstoffe zu prüfen sind."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bei chemisch verunreinigtem Wasser muss der Werkstoff korrosionsbeständig sein, und die Wahl fällt auf Edelstahl 316 oder Duplex. Ist das Medium abrasiv (verschleißend), wird eine verschleißfeste Werkstofflegierung gewählt, sodass die Standzeit der Pumpe entsprechend lang ist. Eine richtige Wahl gewährleistet einen störungsfreien Betrieb bei möglichst niedrigen Energiekosten."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Aufstellung der Tauchmotorpumpe"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kleinere Varianten können direkt auf dem Boden aufgestellt werden. Industrielle Tauchmotorpumpen versehen wir mit einem „Dreibein“ oder einer „Fußkrümmerkupplung“."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "a",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ". Nassaufstellung"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "b",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ". Transportable Aufstellung"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "c",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ". Senkrechte Trockenaufstellung"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "d",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ". Waagerechte Trockenaufstellung"
+                        }
+                      ]
                     }
                   ]
-                },
-                {
-                  "type": "list_item",
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "122d54645ca3",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "c463a1818d14",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-flygt-installatie.webp",
+                  "alt": "Schema von Flygt-Tauchmotorpumpen in verschiedenen Aufstellungsarten in Wasserumgebung",
+                  "width": 850,
+                  "height": 838
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "837c833bcfa7",
+        "component": "section_row",
+        "layout": "carousel",
+        "columns": [
+          {
+            "_uid": "8f1593c67360",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "66dd1f9b681c",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "Homa-Pumpen",
-                          "marks": [
+                          "text": "Hervorragende und zugängliche Kundenbetreuung bei jedem Kontakt!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Der Einsatz ist perfekt und sehr serviceorientiert, sowohl telefonisch als auch bei geplanter Umsetzung und bei ungeplanten Störungen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Projektleiter RGR bei einem Abfallentsorger in den Niederlanden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "66f3651249a5",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "aa70e1672287",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Hervorragende Erfahrung mit IPG: Professionalität, Qualität und proaktive Problemlösung!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Arbeitsvorbereiter erlebe ich IPG als sehr professionell. Das Unternehmen strebt nach Qualität, denkt bei Verbesserungen mit und behebt Störungen schnell, um Stillstand zu minimieren."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Arbeitsvorbereiter Störungen bei einem Wasserverband."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "4b838b688688",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "1804852d8167",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ein zuverlässiger Partner mit hervorragendem Service und kundenorientierter Beratung!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ich erlebe IPG als sehr guten Partner, ein Unternehmen, das Service großschreibt und mit den Kunden mitdenkt und berät."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Arbeitsvorbereiter Technischer Dienst bei einem Abfallverwerter in den Niederlanden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "311cf9ce452a",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "acbf98bd50c8",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Zuverlässige und leistungsstarke Tauchmotorpumpen für schwere Anwendungen!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Tauchmotorpumpen von IPG sind robust und kommen problemlos mit schweren Bedingungen zurecht. Für unsere industriellen Anwendungen, bei denen Zuverlässigkeit wesentlich ist, gut geeignet."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Operations Manager bei einem Wasseraufbereitungsbetrieb in den Niederlanden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "83520101c6b3",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "aa89be13472b",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flexibel und vielseitig für unterschiedliche Entwässerungsprojekte!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Tauchmotorpumpen von IPG sind in einem breiten Spektrum von Anwendungen einsetzbar. Das Team bietet schnelle Unterstützung, und die Pumpen halten intensiver Nutzung stand, was sie sehr zuverlässig macht."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Projektleiter bei einem industriellen Bauunternehmen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "bd2694819776",
+        "component": "cta_band",
+        "heading": "Unverbindlich Kontakt aufnehmen",
+        "text": "Wir beraten Sie gern zu Auswahl, Ersatz und Revision Ihrer Pumpe.",
+        "button_label": "Kontakt aufnehmen",
+        "button_link": {
+          "fieldtype": "multilink",
+          "linktype": "url",
+          "url": "/kontakt",
+          "cached_url": "/kontakt"
+        },
+        "variant": "primary"
+      },
+      {
+        "_uid": "65ba704ee81a",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "295598f5734e",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "629b4137e82c",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Weitere Informationen: Was ist eine Tauchmotorpumpe?"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Eine Tauchmotorpumpe ist eine Pumpe, die im zu fördernden Medium eingetaucht arbeitet und dazu dient, sauberes oder verschmutztes Wasser wegzupumpen. Tauchmotorpumpen gehören zu den am häufigsten eingesetzten Pumpen, und das Angebot ist sehr groß. Daher ist es wichtig, die Auswahlkriterien, die Ihre Pumpe erfüllen muss, gut zu erfassen. Die wichtigsten Punkte haben wir für Sie zusammengestellt:"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Handelt es sich beim zu fördernden Medium um sauberes oder verschmutztes Wasser? Muss ein Anteil Sand oder andere Feststoffe gefördert werden?"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
                             {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/marken/homa",
-                                "linktype": "url"
-                              }
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Welcher Förderstrom ist für Ihre Anwendung erforderlich: Wie viele m³/h oder l/s sollen gefördert werden?"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Wie hoch ist die Förderhöhe, auch Druck genannt: Das ist die maximale Höhe in Metern, auf die die Pumpe fördern muss. Befindet sich die Pumpe in einem 2 Meter tiefen Schacht und liegt der Auslaufpunkt 6 Meter höher, benötigen Sie eine Pumpe, die mindestens 8 Meter hoch fördern kann."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Wie lang ist die Druckleitung, welchen Durchmesser hat sie, und ist bekannt, wie viele Bögen eingebaut sind?"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Wie möchten Sie die Pumpe installieren und schalten? Über einen Schwimmerschalter lässt sich die Pumpe automatisch schalten, was als zusätzlichen Vorteil hat, dass die Pumpe nicht trockenlaufen kann."
+                                }
+                              ]
                             }
                           ]
                         }
                       ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Tauchmotorpumpen: zuverlässige und vielseitige Lösungen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Tauchmotorpumpen sind leistungsfähige Pumpen, die zum effizienten Fördern in Wasser eingetaucht werden. Sie werden häufig zum Fördern von Abwasser und Schmutzwasser eingesetzt, eignen sich aber auch für den Hausgebrauch, etwa zum Leerpumpen eines Kellers oder Schwimmbeckens. Tauchmotorpumpen sind in verschiedenen Ausführungen und Leistungen erhältlich, je nach Anwendung und Art des zu fördernden Wassers. Sie arbeiten in der Regel sehr zuverlässig und können große Wassermengen in kurzer Zeit fördern."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bei der Wahl einer Tauchmotorpumpe sind Faktoren wie die zu fördernde Wassermenge, die maximale Förderhöhe und die gewünschte Fördergeschwindigkeit zu berücksichtigen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Verstopfungsfreier Betrieb",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Tauchmotorpumpen sind mit Schneidvorrichtungen und Verschleißplatten mit Schneidnuten ausgestattet, die feste und langfaserige Stoffe zu förderbaren Teilen zerkleinern. Das beugt Verstopfungen vor und sorgt für zuverlässigen Betrieb."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Breit einsetzbar",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Geeignet für verschiedene Anwendungen, vom Hausgebrauch bis zur industriellen Abwasserbehandlung, dank unterschiedlicher Ausführungen und Leistungen, die an saubere wie an verschmutzte Flüssigkeiten angepasst werden können."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "ATEX-zertifiziert",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Tauchmotorpumpen können mit ATEX-Zertifizierung geliefert werden. Damit eignen sie sich für den Einsatz in explosionsgefährdeten Bereichen, sowohl bei Gas- als auch bei Staubexplosionen, in denen die Sicherheit Vorrang hat."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Einfache und flexible Installation",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Pumpen lassen sich auf verschiedene Arten installieren, zum Beispiel nass, transportabel, senkrecht trocken oder waagerecht trocken, mit Optionen für automatisches Schalten über Schwimmerschalter, was Installation und Wartung vereinfacht."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Warum eine Tauchmotorpumpe?"
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
+                    },
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "Keine Probleme beim Ansaugen"
+                          "text": "Bei Installation und Aufstellung gibt es zahlreiche Möglichkeiten, etwa trockene Aufstellung mit Kühlmantel, freistehend auf einem Standring an einer starren oder flexiblen Druckleitung oder konventionell an einer Führungsrohr-Installation. Zu all diesen Möglichkeiten beraten wir Sie gern."
                         }
                       ]
                     }
                   ]
-                },
-                {
-                  "type": "list_item",
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "824225d3a771",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "de17cd6c41a9",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Tauchmotorpumpe mit Schneidwerk"
+                        }
+                      ]
+                    },
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "Geräuscharm"
+                          "text": "Enthält das Medium feste und langfaserige Stoffe (Papier, Stroh, Blätter), kann eine Pumpe mit Schneidwerk eingesetzt werden. Die Pumpen sind dann vor dem Eintrittsflansch (Saugflansch) mit einer Schneidvorrichtung ausgestattet. Sie zerkleinert alle Feststoffe zu förderbaren Teilen."
                         }
                       ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
+                    },
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "Einfache Installation"
+                          "text": "Einige Schmutzwasserpumpen sind serienmäßig mit einer Schneidvorrichtung an beiden Dichtringen ausgestattet, an der Vorder- und an der Rückseite des Laufrads. Bei offenen Laufrädern haben manche Pumpen eine Verschleißplatte mit serienmäßigen Schneidnuten, die für einen verstopfungsfreien Betrieb sorgen."
                         }
                       ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
+                    },
                     {
-                      "type": "paragraph",
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
                       "content": [
                         {
                           "type": "text",
                           "text": "Verstopfungsfrei"
                         }
                       ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Tauchmotorpumpen für saubere und verschmutzte Flüssigkeiten"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Neben der Beratung kann Industrial Pump Group Nederland Sie auch mit verschiedenen Tauchmotorpumpen beliefern: von Pumpen für saubere Flüssigkeiten wie (Trink-)Wasser, Brauchwasser und Effluent bis zu verschmutzten Flüssigkeiten wie Influent und Fäkalien. Die Ausführung der Pumpen und Laufräder reicht von geschlossenen Laufrädern über halboffene und offene Laufräder bis zu Vortex-Laufrädern sowie Ein- oder Mehrkanallaufrädern."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bei der Auswahl des passenden Laufrads berücksichtigen wir Ihre Anwendung, damit die am besten geeignete Laufradform eingesetzt wird. Das gilt sowohl für einen verstopfungsfreien Betrieb als auch für eine Installation mit maximalem Pumpenwirkungsgrad. Außerdem kann die Zusammensetzung des Mediums dazu führen, dass spezielle Werkstoffe zu prüfen sind."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bei chemisch verunreinigtem Wasser muss der Werkstoff korrosionsbeständig sein, und die Wahl fällt auf Edelstahl 316 oder Duplex. Ist das Medium abrasiv (verschleißend), wird eine verschleißfeste Werkstofflegierung gewählt, sodass die Standzeit der Pumpe entsprechend lang ist. Eine richtige Wahl gewährleistet einen störungsfreien Betrieb bei möglichst niedrigen Energiekosten."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Aufstellung der Tauchmotorpumpe"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kleinere Varianten können direkt auf dem Boden aufgestellt werden. Industrielle Tauchmotorpumpen versehen wir mit einem „Dreibein“ oder einer „Fußkrümmerkupplung“."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "a",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": ". Nassaufstellung"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "b",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": ". Transportable Aufstellung"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "c",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": ". Senkrechte Trockenaufstellung"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "d",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": ". Waagerechte Trockenaufstellung"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "e19d3501043b",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-flygt-installatie.webp",
-          "alt": "Schema von Flygt-Tauchmotorpumpen in verschiedenen Aufstellungsarten in Wasserumgebung",
-          "width": 850,
-          "height": 838
-        }
-      },
-      {
-        "_uid": "6937908edc45",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Hervorragende und zugängliche Kundenbetreuung bei jedem Kontakt!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Der Einsatz ist perfekt und sehr serviceorientiert, sowohl telefonisch als auch bei geplanter Umsetzung und bei ungeplanten Störungen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Projektleiter RGR bei einem Abfallentsorger in den Niederlanden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Hervorragende Erfahrung mit IPG: Professionalität, Qualität und proaktive Problemlösung!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Arbeitsvorbereiter erlebe ich IPG als sehr professionell. Das Unternehmen strebt nach Qualität, denkt bei Verbesserungen mit und behebt Störungen schnell, um Stillstand zu minimieren."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Arbeitsvorbereiter Störungen bei einem Wasserverband."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ein zuverlässiger Partner mit hervorragendem Service und kundenorientierter Beratung!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ich erlebe IPG als sehr guten Partner, ein Unternehmen, das Service großschreibt und mit den Kunden mitdenkt und berät."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Arbeitsvorbereiter Technischer Dienst bei einem Abfallverwerter in den Niederlanden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zuverlässige und leistungsstarke Tauchmotorpumpen für schwere Anwendungen!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Tauchmotorpumpen von IPG sind robust und kommen problemlos mit schweren Bedingungen zurecht. Für unsere industriellen Anwendungen, bei denen Zuverlässigkeit wesentlich ist, gut geeignet."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Operations Manager bei einem Wasseraufbereitungsbetrieb in den Niederlanden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Flexibel und vielseitig für unterschiedliche Entwässerungsprojekte!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Tauchmotorpumpen von IPG sind in einem breiten Spektrum von Anwendungen einsetzbar. Das Team bietet schnelle Unterstützung, und die Pumpen halten intensiver Nutzung stand, was sie sehr zuverlässig macht."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Projektleiter bei einem industriellen Bauunternehmen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 4
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Unverbindlich Kontakt aufnehmen"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Weitere Informationen: Was ist eine Tauchmotorpumpe?"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Eine Tauchmotorpumpe ist eine Pumpe, die im zu fördernden Medium eingetaucht arbeitet und dazu dient, sauberes oder verschmutztes Wasser wegzupumpen. Tauchmotorpumpen gehören zu den am häufigsten eingesetzten Pumpen, und das Angebot ist sehr groß. Daher ist es wichtig, die Auswahlkriterien, die Ihre Pumpe erfüllen muss, gut zu erfassen. Die wichtigsten Punkte haben wir für Sie zusammengestellt:"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Handelt es sich beim zu fördernden Medium um sauberes oder verschmutztes Wasser? Muss ein Anteil Sand oder andere Feststoffe gefördert werden?"
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
+                    },
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "Welcher Förderstrom ist für Ihre Anwendung erforderlich: Wie viele m³/h oder l/s sollen gefördert werden?"
+                          "text": "Unsere Pumpen sind vor dem Eintrittsflansch (Saugflansch) mit einer Schneidvorrichtung ausgestattet. Sie zerkleinert alle Feststoffe zu förderbaren Teilen. Einige Schmutzwasserpumpen sind serienmäßig mit einer Schneidvorrichtung an beiden Dichtringen ausgestattet, an der Vorder- und an der Rückseite des Laufrads. Bei offenen Laufrädern haben manche Pumpen eine Verschleißplatte mit serienmäßigen Schneidnuten, die für einen verstopfungsfreien Betrieb sorgen."
                         }
                       ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "ATEX"
+                        }
+                      ]
+                    },
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "Wie hoch ist die Förderhöhe, auch Druck genannt: Das ist die maximale Höhe in Metern, auf die die Pumpe fördern muss. Befindet sich die Pumpe in einem 2 Meter tiefen Schacht und liegt der Auslaufpunkt 6 Meter höher, benötigen Sie eine Pumpe, die mindestens 8 Meter hoch fördern kann."
+                          "text": "Die ATEX-Richtlinie gilt überall dort, wo Explosionsgefahr herrschen kann. Die Richtlinie hat einen weiten Geltungsbereich und umfasst neben der Gasexplosion auch die Gefahr von Staubexplosionen. ATEX steht für ATmosphères EXplosives."
                         }
                       ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
+                    },
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "Wie lang ist die Druckleitung, welchen Durchmesser hat sie, und ist bekannt, wie viele Bögen eingebaut sind?"
+                          "text": "Die ATEX-Zertifizierung von Pumpen gilt für die gesamte Pumpeneinheit, also sowohl für die ATEX-Tauchmotorpumpe als auch für den ATEX-Motor. Die Tauchmotorpumpen können mit ATEX-Zertifizierung geliefert werden."
                         }
                       ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
+                    },
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "Wie möchten Sie die Pumpe installieren und schalten? Über einen Schwimmerschalter lässt sich die Pumpe automatisch schalten, was als zusätzlichen Vorteil hat, dass die Pumpe nicht trockenlaufen kann."
+                          "text": "Je nach Zone, in der die Pumpen aufgestellt werden, können wir Sie über die Beherrschung der Explosionsgefahr informieren."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Für die Bearbeitung einer ATEX-Anfrage fragen wir Sie stets, für welche Zone die Pumpe geeignet sein muss und welches Medium gefördert werden soll."
                         }
                       ]
                     }
                   ]
                 }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bei Installation und Aufstellung gibt es zahlreiche Möglichkeiten, etwa trockene Aufstellung mit Kühlmantel, freistehend auf einem Standring an einer starren oder flexiblen Druckleitung oder konventionell an einer Führungsrohr-Installation. Zu all diesen Möglichkeiten beraten wir Sie gern."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Tauchmotorpumpe mit Schneidwerk"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Enthält das Medium feste und langfaserige Stoffe (Papier, Stroh, Blätter), kann eine Pumpe mit Schneidwerk eingesetzt werden. Die Pumpen sind dann vor dem Eintrittsflansch (Saugflansch) mit einer Schneidvorrichtung ausgestattet. Sie zerkleinert alle Feststoffe zu förderbaren Teilen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Einige Schmutzwasserpumpen sind serienmäßig mit einer Schneidvorrichtung an beiden Dichtringen ausgestattet, an der Vorder- und an der Rückseite des Laufrads. Bei offenen Laufrädern haben manche Pumpen eine Verschleißplatte mit serienmäßigen Schneidnuten, die für einen verstopfungsfreien Betrieb sorgen."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Verstopfungsfrei"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Unsere Pumpen sind vor dem Eintrittsflansch (Saugflansch) mit einer Schneidvorrichtung ausgestattet. Sie zerkleinert alle Feststoffe zu förderbaren Teilen. Einige Schmutzwasserpumpen sind serienmäßig mit einer Schneidvorrichtung an beiden Dichtringen ausgestattet, an der Vorder- und an der Rückseite des Laufrads. Bei offenen Laufrädern haben manche Pumpen eine Verschleißplatte mit serienmäßigen Schneidnuten, die für einen verstopfungsfreien Betrieb sorgen."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "ATEX"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die ATEX-Richtlinie gilt überall dort, wo Explosionsgefahr herrschen kann. Die Richtlinie hat einen weiten Geltungsbereich und umfasst neben der Gasexplosion auch die Gefahr von Staubexplosionen. ATEX steht für ATmosphères EXplosives."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die ATEX-Zertifizierung von Pumpen gilt für die gesamte Pumpeneinheit, also sowohl für die ATEX-Tauchmotorpumpe als auch für den ATEX-Motor. Die Tauchmotorpumpen können mit ATEX-Zertifizierung geliefert werden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Je nach Zone, in der die Pumpen aufgestellt werden, können wir Sie über die Beherrschung der Explosionsgefahr informieren."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Für die Bearbeitung einer ATEX-Anfrage fragen wir Sie stets, für welche Zone die Pumpe geeignet sein muss und welches Medium gefördert werden soll."
-                }
-              ]
-            }
-          ]
-        }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "183098390dfd",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-lowara-lowara-dompelpomp.webp",
-          "alt": "Lowara-Tauchmotorpumpe für Wasserabfuhr und Entwässerung",
-          "width": 310,
-          "height": 310
-        }
+        "_uid": "4403240b06bb",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "f015c74fb1eb",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "1763385fb190",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-lowara-lowara-dompelpomp.webp",
+                  "alt": "Lowara-Tauchmotorpumpe für Wasserabfuhr und Entwässerung",
+                  "width": 310,
+                  "height": 310
+                }
+              },
+              {
+                "_uid": "a5374acf6c87",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Lowara-Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "c982ef4def37",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "19bd5a0e1872",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-dompelpomp2.webp",
+                  "alt": "Flygt-Tauchmotorpumpe für industrielle und gewerbliche Wasserabfuhr",
+                  "width": 318,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "add98ffa4e95",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Flygt-Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "f1fffb87995f",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "6b135e939b6e",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-grindex-grindex.webp",
+                  "alt": "Grindex-Tauchmotorpumpe für schwere Einsatzbedingungen",
+                  "width": 300,
+                  "height": 300
+                }
+              },
+              {
+                "_uid": "7572af0271b3",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Grindex-Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "663e0a0479ad",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "8653e32ff22a",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/homepage-product-2.webp",
+                  "alt": "Homa-Tauchmotorpumpen für effiziente Wasserabfuhr und Entwässerung",
+                  "width": 168,
+                  "height": 184
+                }
+              },
+              {
+                "_uid": "6273eb783476",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Homa-Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "9c08c03e48d0",
+        "_uid": "eff6dc9ba663",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Lowara-Pumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "a0c73a3d3ae7",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-dompelpomp2.webp",
-          "alt": "Flygt-Tauchmotorpumpe für industrielle und gewerbliche Wasserabfuhr",
-          "width": 318,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "b073bdcfb23d",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Flygt-Pumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "d86fa327f91f",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-grindex-grindex.webp",
-          "alt": "Grindex-Tauchmotorpumpe für schwere Einsatzbedingungen",
-          "width": 300,
-          "height": 300
-        }
-      },
-      {
-        "_uid": "9a7d85dd44d1",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Grindex-Pumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "017538777e0e",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-product-2.webp",
-          "alt": "Homa-Tauchmotorpumpen für effiziente Wasserabfuhr und Entwässerung",
-          "width": 168,
-          "height": 184
-        }
-      },
-      {
-        "_uid": "e96752db30c6",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Homa-Pumpen lesen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -1085,79 +1401,125 @@
                   "text": "IPG pflegt zu mehreren Pumpenherstellern enge Beziehungen und kann Sie daher bei der Beschaffung vieler Pumpentypen und Marken gut beraten. So ist die Industrial Pump Group der niederländische Importeur von SAER und offizieller Händler unter anderem von Lowara, Grundfos und Seepex."
                 }
               ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Anwendungen"
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "fb41746b3df5",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "d815c35c40ea",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "064aaa7fb6b8",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Anwendungen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Eine Tauchmotorpumpe ist vielseitig einsetzbar. Ist die Pumpe mit einem Schwimmer ausgestattet, ist sie zugleich gegen Trockenlauf geschützt. Tauchmotorpumpen werden häufig als Bau- oder Abwasserpumpen eingesetzt, weil sie (je nach Pumpentyp) im Allgemeinen verschleißfest und verstopfungsfrei sind. Außerdem wird die Tauchmotorpumpe häufig im Haushalt zum Leerpumpen eines Kellers verwendet, weil die Pumpen kompakt sind."
+                        }
+                      ]
+                    }
+                  ]
                 }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Eine Tauchmotorpumpe ist vielseitig einsetzbar. Ist die Pumpe mit einem Schwimmer ausgestattet, ist sie zugleich gegen Trockenlauf geschützt. Tauchmotorpumpen werden häufig als Bau- oder Abwasserpumpen eingesetzt, weil sie (je nach Pumpentyp) im Allgemeinen verschleißfest und verstopfungsfrei sind. Außerdem wird die Tauchmotorpumpe häufig im Haushalt zum Leerpumpen eines Kellers verwendet, weil die Pumpen kompakt sind."
+              }
+            ]
+          },
+          {
+            "_uid": "68788e84d588",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ba69b27ec1ba",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bau- und Abwasserpumpe"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Tauchmotorpumpen gibt es in vielen Arten und Größen und damit für verschiedene Anwendungen. Im Bauwesen wird zum Beispiel häufig eine robuste Tauchmotorpumpe mit größerem freiem Durchgang eingesetzt. Diese Pumpen können oft Sand oder sogar Schlamm fördern. Gute Beispiele für solche Pumpen sind die von Grindex und Flygt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flygt stellt außerdem verschiedene Tauchmotorpumpen her, die für Anwendungen geeignet sind, in denen Abwasser gefördert werden muss."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Hausgebrauch"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "In manchen Fällen werden Tauchmotorpumpen im Haushalt verwendet, zum Beispiel zum Leerpumpen eines Kellers. Soll die Pumpe bei einem bestimmten Wasserstand anspringen, kann ein Schwimmer verwendet werden. Solche Tauchmotorpumpen verkaufen unter anderem Lowara und Ebara."
+                        }
+                      ]
+                    }
+                  ]
                 }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bau- und Abwasserpumpe"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Tauchmotorpumpen gibt es in vielen Arten und Größen und damit für verschiedene Anwendungen. Im Bauwesen wird zum Beispiel häufig eine robuste Tauchmotorpumpe mit größerem freiem Durchgang eingesetzt. Diese Pumpen können oft Sand oder sogar Schlamm fördern. Gute Beispiele für solche Pumpen sind die von Grindex und Flygt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Flygt stellt außerdem verschiedene Tauchmotorpumpen her, die für Anwendungen geeignet sind, in denen Abwasser gefördert werden muss."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Hausgebrauch"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "In manchen Fällen werden Tauchmotorpumpen im Haushalt verwendet, zum Beispiel zum Leerpumpen eines Kellers. Soll die Pumpe bei einem bestimmten Wasserstand anspringen, kann ein Schwimmer verwendet werden. Solche Tauchmotorpumpen verkaufen unter anderem Lowara und Ebara."
-                }
-              ]
-            },
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "9091b84c9a3f",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
             {
               "type": "heading",
               "attrs": {
@@ -1183,37 +1545,56 @@
         }
       },
       {
-        "_uid": "fae7d7e79d1c",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/segmenten-drainage-bg.webp",
-          "alt": "Techniker setzt eine Tauchmotorpumpe auf einer Baustelle zur Wasserabfuhr ein",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      {
-        "_uid": "da2ee2843c73",
-        "component": "faq",
-        "heading": "Häufige Fragen",
-        "items": [
+        "_uid": "d30103455a83",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
           {
-            "_uid": "c878492edb0c",
-            "component": "faq_item",
-            "question": "Worauf ist beim Kauf einer Tauchmotorpumpe zu achten?",
-            "answer": "Wie bei jeder Pumpe muss die Auswahl unter anderem Folgendes berücksichtigen:\n- Den erforderlichen Förderstrom\n- Die Förderhöhe\n- Das zu fördernde Medium\nFür die Auswahl der Pumpen können Sie völlig unverbindlich ein Angebot anfordern."
+            "_uid": "2119cc1b4dfd",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "771f7c202cf3",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/segmenten-drainage-bg.webp",
+                  "alt": "Techniker setzt eine Tauchmotorpumpe auf einer Baustelle zur Wasserabfuhr ein",
+                  "width": 1280,
+                  "height": 720
+                }
+              }
+            ]
           },
           {
-            "_uid": "f1e5df871bca",
-            "component": "faq_item",
-            "question": "Welcher Typ Tauchmotorpumpe ist für Sie geeignet?",
-            "answer": "Auch der Typ der Tauchmotorpumpe hängt von der späteren Anwendung der Pumpe ab. Deshalb ist es wichtig, das zu fördernde Medium genau zu kennen. Es ist natürlich ein Unterschied, ob eine Tauchmotorpumpe zum Leerpumpen eines Kellers oder zum Fördern von Schlamm (Slurry) eingesetzt wird.\nUm herauszufinden, welcher Typ Tauchmotorpumpe genau für Ihre Anwendung geeignet ist, können Sie unverbindlich Kontakt aufnehmen."
-          },
-          {
-            "_uid": "b432aea1eb66",
-            "component": "faq_item",
-            "question": "Welches Zubehör ist empfehlenswert?",
-            "answer": "Je nach Wunsch sind die meisten Tauchmotorpumpen mit verschiedenem Zubehör erhältlich, zum Beispiel Fußkrümmer, Flachsauger oder Schwimmer."
+            "_uid": "42a124802541",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "bf00d2414102",
+                "component": "faq",
+                "heading": "Häufige Fragen",
+                "items": [
+                  {
+                    "_uid": "1d77f0aa0724",
+                    "component": "faq_item",
+                    "question": "Worauf ist beim Kauf einer Tauchmotorpumpe zu achten?",
+                    "answer": "Wie bei jeder Pumpe muss die Auswahl unter anderem Folgendes berücksichtigen:\n- Den erforderlichen Förderstrom\n- Die Förderhöhe\n- Das zu fördernde Medium\nFür die Auswahl der Pumpen können Sie völlig unverbindlich ein Angebot anfordern."
+                  },
+                  {
+                    "_uid": "8dee7e760b0d",
+                    "component": "faq_item",
+                    "question": "Welcher Typ Tauchmotorpumpe ist für Sie geeignet?",
+                    "answer": "Auch der Typ der Tauchmotorpumpe hängt von der späteren Anwendung der Pumpe ab. Deshalb ist es wichtig, das zu fördernde Medium genau zu kennen. Es ist natürlich ein Unterschied, ob eine Tauchmotorpumpe zum Leerpumpen eines Kellers oder zum Fördern von Schlamm (Slurry) eingesetzt wird.\nUm herauszufinden, welcher Typ Tauchmotorpumpe genau für Ihre Anwendung geeignet ist, können Sie unverbindlich Kontakt aufnehmen."
+                  },
+                  {
+                    "_uid": "fe62f1e38e97",
+                    "component": "faq_item",
+                    "question": "Welches Zubehör ist empfehlenswert?",
+                    "answer": "Je nach Wunsch sind die meisten Tauchmotorpumpen mit verschiedenem Zubehör erhältlich, zum Beispiel Fußkrümmer, Flachsauger oder Schwimmer."
+                  }
+                ]
+              }
+            ]
           }
         ]
       }

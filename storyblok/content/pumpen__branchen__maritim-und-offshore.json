@@ -15,294 +15,442 @@
     "topic_kind": "pumpentyp",
     "body": [
       {
-        "_uid": "c4b7baef7cb5",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Im maritimen und Offshore-Sektor sind Zuverlässigkeit und Effizienz von zentraler Bedeutung. Industriepumpen spielen dabei eine Schlüsselrolle, vom Fördern von Ballastwasser über die Behandlung von Abwasser bis zum Kraftstofftransport. IPG liefert hochwertige Pumpenlösungen, die den hohen Anforderungen in diesen anspruchsvollen Umgebungen entsprechen."
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
+        "_uid": "32fac1bafd61",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "d6cb678217fe",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "0214a8ed3028",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "Kühlwasserpumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/anwendungen/kuehlwasser",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
+                          "text": "Im maritimen und Offshore-Sektor sind Zuverlässigkeit und Effizienz von zentraler Bedeutung. Industriepumpen spielen dabei eine Schlüsselrolle, vom Fördern von Ballastwasser über die Behandlung von Abwasser bis zum Kraftstofftransport. IPG liefert hochwertige Pumpenlösungen, die den hohen Anforderungen in diesen anspruchsvollen Umgebungen entsprechen."
                         }
                       ]
                     }
                   ]
-                },
-                {
-                  "type": "list_item",
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "d7c3998adef5",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "1eaf515e3530",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
                     {
-                      "type": "paragraph",
+                      "type": "bullet_list",
                       "content": [
                         {
-                          "type": "text",
-                          "text": "Vertikale Turbinenpumpen",
-                          "marks": [
+                          "type": "list_item",
+                          "content": [
                             {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/pumpentypen/vertikale-turbinenpumpen",
-                                "linktype": "url"
-                              }
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Kühlwasserpumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/anwendungen/kuehlwasser",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Vertikale Turbinenpumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/pumpentypen/vertikale-turbinenpumpen",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Axial geteilte Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/pumpentypen/axial-geteilte-pumpen",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Baggerpumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/anwendungen/nassbaggerei",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
                             }
                           ]
                         }
                       ]
                     }
                   ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Axial geteilte Pumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/pumpentypen/axial-geteilte-pumpen",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Baggerpumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/anwendungen/nassbaggerei",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
                 }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Offshore oder maritim: maritime Pumpen"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Robuste und zuverlässige Pumpen für extreme Einsatzbedingungen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Maritime und Offshore-Umgebungen stellen außergewöhnliche Anforderungen an Ausrüstung, weil sie Salzwasser, hohem Druck, korrosiven Einflüssen, wechselnden Temperaturen und ständigen Vibrationen ausgesetzt ist. Die Pumpen von IPG sind darauf ausgelegt, unter diesen anspruchsvollen Bedingungen langfristig gute Leistung zu erbringen. Mit speziellen Werkstoffen und Technologien reduzieren Sie Stillstandzeiten, vermeiden ungeplante Wartungsstopps und steigern die Betriebsleistung."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Effiziente und leistungsstarke Förderung",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Unsere Pumpen bieten gute Leistung für verschiedene Anwendungen wie Ballastwassermanagement, Kraftstofftransport und Kühlwasserzirkulation. Dank energiesparender Technologien und intelligenter Regelungen helfen sie, Betriebskosten zu senken und Nachhaltigkeit zu fördern."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Für extreme maritime Bedingungen ausgelegt",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Maritime und Offshore-Pumpen müssen gegen Salzwasser, Vibrationen und hohen Druck beständig sein. Unsere Pumpen sind speziell mit korrosionsbeständigen Werkstoffen und robusten Technologien ausgelegt, um auch in den anspruchsvollsten Umgebungen zuverlässig zu arbeiten."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zuverlässigkeit unter allen Bedingungen",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Im maritimen und Offshore-Sektor ist Betriebskontinuität von zentraler Bedeutung. Pumpen müssen Tag und Nacht funktionieren, unabhängig von extremen Wetterbedingungen, hoher Belastung oder rauer See. Dank robuster Konstruktionen und hochwertiger Komponenten bleiben unsere Pumpen auch in den anspruchsvollsten Umgebungen leistungsfähig."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Sicherheit und Zuverlässigkeit bei maritimen Pumpen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "In der maritimen und Offshore-Industrie steht die Sicherheit an erster Stelle. Pumpen spielen in kritischen Prozessen wie Brandbekämpfung, Ballastwassermanagement und Kraftstoffverteilung eine wesentliche Rolle. Eine ausfallende Pumpe kann nicht nur zu einem Betriebsstillstand führen, sondern auch zu ernsten Sicherheitsrisiken für Besatzung und Ausrüstung. Deshalb ist es wichtig, in Pumpen zu investieren, die auf langfristige Zuverlässigkeit ausgelegt sind und strenge internationale maritime Sicherheitsnormen wie IMO und SOLAS erfüllen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Durch vorbeugende Wartung und den Einsatz hochwertiger Werkstoffe können Unternehmen die Ausfallwahrscheinlichkeit verringern und die Betriebskontinuität sichern. Darüber hinaus können moderne Überwachungssysteme helfen, Verschleiß und Leistungsabweichungen frühzeitig zu erkennen, sodass eingegriffen werden kann, bevor ein Problem auftritt."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die passende maritime und Offshore-Pumpe"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bei der Wahl der richtigen Pumpen für den maritimen und Offshore-Sektor sind die spezifischen Bedingungen zu berücksichtigen, unter denen sie arbeiten müssen. Pumpen in diesem Sektor sind Salzwasser, hohem Druck, Vibrationen und extremen Wetterbedingungen ausgesetzt. Deshalb sollten Pumpen gewählt werden, die gegen Korrosion, Verschleiß und mechanische Belastung beständig sind und die strengsten maritimen und Offshore-Sicherheitsnormen erfüllen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "In der maritimen und Offshore-Industrie sind Zuverlässigkeit und Effizienz von großer Bedeutung. Mit Investitionen in hochwertige und energiesparende Pumpen können Schifffahrts- und Offshore-Unternehmen ihre Betriebsleistung optimieren, die Wartungskosten senken und die Lebensdauer kritischer Systeme verlängern. Eine richtige Pumpenwahl trägt nicht nur zu einem effizienteren Betrieb bei, sondern auch zu höherer Sicherheit und zur Einhaltung internationaler Vorschriften."
-                }
-              ]
-            }
-          ]
-        }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "79f1577030d8",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/segmenten-zachary-theodore-guadzpf9pdi-unsplash.webp",
-          "alt": "Öl- und Gasplattform auf offener See, ausgestattet mit Industriepumpen für Offshore-Anwendungen",
-          "width": 1280,
-          "height": 853
-        }
+        "_uid": "0416ded450b4",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "722c3f7ad932",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "80074e049a3a",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Offshore oder maritim: maritime Pumpen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "63dbaf43f4fd",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "9d38f64e8c62",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Robuste und zuverlässige Pumpen für extreme Einsatzbedingungen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Maritime und Offshore-Umgebungen stellen außergewöhnliche Anforderungen an Ausrüstung, weil sie Salzwasser, hohem Druck, korrosiven Einflüssen, wechselnden Temperaturen und ständigen Vibrationen ausgesetzt ist. Die Pumpen von IPG sind darauf ausgelegt, unter diesen anspruchsvollen Bedingungen langfristig gute Leistung zu erbringen. Mit speziellen Werkstoffen und Technologien reduzieren Sie Stillstandzeiten, vermeiden ungeplante Wartungsstopps und steigern die Betriebsleistung."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "293e5647f2f8",
+        "_uid": "9828678aa68a",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "712a48b66ea1",
+            "component": "section_column",
+            "icon": "fa-cogs",
+            "content": [
+              {
+                "_uid": "d11fb53a8789",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Effiziente und leistungsstarke Förderung",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Unsere Pumpen bieten gute Leistung für verschiedene Anwendungen wie Ballastwassermanagement, Kraftstofftransport und Kühlwasserzirkulation. Dank energiesparender Technologien und intelligenter Regelungen helfen sie, Betriebskosten zu senken und Nachhaltigkeit zu fördern."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "1755ac46beb1",
+            "component": "section_column",
+            "icon": "fa-water",
+            "content": [
+              {
+                "_uid": "d44256a669ab",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Für extreme maritime Bedingungen ausgelegt",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Maritime und Offshore-Pumpen müssen gegen Salzwasser, Vibrationen und hohen Druck beständig sein. Unsere Pumpen sind speziell mit korrosionsbeständigen Werkstoffen und robusten Technologien ausgelegt, um auch in den anspruchsvollsten Umgebungen zuverlässig zu arbeiten."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "d1d76cb63fd3",
+            "component": "section_column",
+            "icon": "fa-shield-alt",
+            "content": [
+              {
+                "_uid": "54f5d6e58537",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Zuverlässigkeit unter allen Bedingungen",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Im maritimen und Offshore-Sektor ist Betriebskontinuität von zentraler Bedeutung. Pumpen müssen Tag und Nacht funktionieren, unabhängig von extremen Wetterbedingungen, hoher Belastung oder rauer See. Dank robuster Konstruktionen und hochwertiger Komponenten bleiben unsere Pumpen auch in den anspruchsvollsten Umgebungen leistungsfähig."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "7ddbc77096c8",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "5eb3e4835429",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "2a490b948c28",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Sicherheit und Zuverlässigkeit bei maritimen Pumpen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "In der maritimen und Offshore-Industrie steht die Sicherheit an erster Stelle. Pumpen spielen in kritischen Prozessen wie Brandbekämpfung, Ballastwassermanagement und Kraftstoffverteilung eine wesentliche Rolle. Eine ausfallende Pumpe kann nicht nur zu einem Betriebsstillstand führen, sondern auch zu ernsten Sicherheitsrisiken für Besatzung und Ausrüstung. Deshalb ist es wichtig, in Pumpen zu investieren, die auf langfristige Zuverlässigkeit ausgelegt sind und strenge internationale maritime Sicherheitsnormen wie IMO und SOLAS erfüllen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Durch vorbeugende Wartung und den Einsatz hochwertiger Werkstoffe können Unternehmen die Ausfallwahrscheinlichkeit verringern und die Betriebskontinuität sichern. Darüber hinaus können moderne Überwachungssysteme helfen, Verschleiß und Leistungsabweichungen frühzeitig zu erkennen, sodass eingegriffen werden kann, bevor ein Problem auftritt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die passende maritime und Offshore-Pumpe"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bei der Wahl der richtigen Pumpen für den maritimen und Offshore-Sektor sind die spezifischen Bedingungen zu berücksichtigen, unter denen sie arbeiten müssen. Pumpen in diesem Sektor sind Salzwasser, hohem Druck, Vibrationen und extremen Wetterbedingungen ausgesetzt. Deshalb sollten Pumpen gewählt werden, die gegen Korrosion, Verschleiß und mechanische Belastung beständig sind und die strengsten maritimen und Offshore-Sicherheitsnormen erfüllen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "In der maritimen und Offshore-Industrie sind Zuverlässigkeit und Effizienz von großer Bedeutung. Mit Investitionen in hochwertige und energiesparende Pumpen können Schifffahrts- und Offshore-Unternehmen ihre Betriebsleistung optimieren, die Wartungskosten senken und die Lebensdauer kritischer Systeme verlängern. Eine richtige Pumpenwahl trägt nicht nur zu einem effizienteren Betrieb bei, sondern auch zu höherer Sicherheit und zur Einhaltung internationaler Vorschriften."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "c9f57c585d51",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "25fcf5aae9ad",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/segmenten-zachary-theodore-guadzpf9pdi-unsplash.webp",
+                  "alt": "Öl- und Gasplattform auf offener See, ausgestattet mit Industriepumpen für Offshore-Anwendungen",
+                  "width": 1280,
+                  "height": 853
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "18724583fe44",
         "component": "rich_text",
         "content": {
           "type": "doc",
@@ -323,83 +471,97 @@
         }
       },
       {
-        "_uid": "eaa2ff0f988f",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-aeb.webp",
-          "alt": "Kundenlogo AEB",
-          "width": 387,
-          "height": 241
-        }
+        "_uid": "66953e712441",
+        "component": "logo_carousel",
+        "logos": [
+          {
+            "_uid": "042a2fbef4f4",
+            "component": "logo_item",
+            "name": "AEB Amsterdam",
+            "image": {
+              "filename": "/img/clients/aeb-amsterdam.webp",
+              "alt": "AEB Amsterdam",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "5978fccbcdd1",
+            "component": "logo_item",
+            "name": "AkzoNobel",
+            "image": {
+              "filename": "/img/clients/akzonobel.webp",
+              "alt": "AkzoNobel",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "75b9cbbfcf98",
+            "component": "logo_item",
+            "name": "HVC",
+            "image": {
+              "filename": "/img/clients/hvc.webp",
+              "alt": "HVC",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "9ce2c38a9220",
+            "component": "logo_item",
+            "name": "Petrogas",
+            "image": {
+              "filename": "/img/clients/petrogas.webp",
+              "alt": "Petrogas",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "e9d92a57705c",
+            "component": "logo_item",
+            "name": "Tata Steel",
+            "image": {
+              "filename": "/img/clients/tata-steel.webp",
+              "alt": "Tata Steel",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "1bc47968ece1",
+            "component": "logo_item",
+            "name": "Waternet",
+            "image": {
+              "filename": "/img/clients/waternet.webp",
+              "alt": "Waternet",
+              "width": 280,
+              "height": 140
+            }
+          }
+        ]
       },
       {
-        "_uid": "3e8d68f59c5f",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-akzonobel.webp",
-          "alt": "Kundenlogo AkzoNobel",
-          "width": 387,
-          "height": 241
-        }
+        "_uid": "5bd59b2a0794",
+        "component": "cta_band",
+        "heading": "Unverbindlich Kontakt aufnehmen",
+        "text": "Wir beraten Sie gern zu Auswahl, Ersatz und Revision Ihrer Pumpe.",
+        "button_label": "Kontakt aufnehmen",
+        "button_link": {
+          "fieldtype": "multilink",
+          "linktype": "url",
+          "url": "/kontakt",
+          "cached_url": "/kontakt"
+        },
+        "variant": "primary"
       },
       {
-        "_uid": "33bfa87e6a64",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-hvc.webp",
-          "alt": "Kundenlogo HVC",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "a60d9363c375",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-petrogas.webp",
-          "alt": "Kundenlogo Petrogas",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "5017c68bad8c",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-tatasteel.webp",
-          "alt": "Kundenlogo Tata Steel",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "355b0ed00b52",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-waternet.webp",
-          "alt": "Kundenlogo Waternet",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "fbfb8f66b82e",
+        "_uid": "e9b9f702b81a",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Unverbindlich Kontakt aufnehmen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -512,126 +674,166 @@
         }
       },
       {
-        "_uid": "dbf5ca15a0e9",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-koelwaterpompen.webp",
-          "alt": "Schwere industrielle Kühlwasserpumpe für maritime und Offshore-Anwendungen, ausgelegt für effizientes Wärmemanagement",
-          "width": 600,
-          "height": 600
-        }
+        "_uid": "9c488bfac5cc",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "7cae6bda5c0a",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "98bd4389e2c1",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-koelwaterpompen.webp",
+                  "alt": "Schwere industrielle Kühlwasserpumpe für maritime und Offshore-Anwendungen, ausgelegt für effizientes Wärmemanagement",
+                  "width": 600,
+                  "height": 600
+                }
+              },
+              {
+                "_uid": "f37a97adc035",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Kühlwasserpumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "284c512f9b7c",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "51c86c220176",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-verticale-turbine.webp",
+                  "alt": "Vertikale Turbinenpumpe für die maritime und Offshore-Industrie, geeignet für Tiefwasseranlagen und Ballastwassersysteme",
+                  "width": 429,
+                  "height": 1222
+                }
+              },
+              {
+                "_uid": "5064bbae8064",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über vertikale Turbinenpumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "9a8fcf0f85c8",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "da1d2906befe",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-brandblus-splitcase.webp",
+                  "alt": "Robuste axial geteilte Pumpe für hohe Förderströme und effizientes Fördern von Flüssigkeiten in Schifffahrt und auf Offshore-Plattformen",
+                  "width": 170,
+                  "height": 172
+                }
+              },
+              {
+                "_uid": "82877a6c0ced",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über axial geteilte Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "0a33e3fa57dc",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "79e8a7beb573",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-bagger-dompel.webp",
+                  "alt": "Leistungsstarke Baggerpumpe zum Fördern von Sand, Schlamm und Sediment in maritimen und Offshore-Projekten",
+                  "width": 270,
+                  "height": 270
+                }
+              },
+              {
+                "_uid": "8c377f8e6ef4",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Baggerpumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "c8c4eea94eac",
+        "_uid": "1106c73c6751",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Kühlwasserpumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "7acac4eb7179",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-verticale-turbine.webp",
-          "alt": "Vertikale Turbinenpumpe für die maritime und Offshore-Industrie, geeignet für Tiefwasseranlagen und Ballastwassersysteme",
-          "width": 429,
-          "height": 1222
-        }
-      },
-      {
-        "_uid": "01349a87f86f",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über vertikale Turbinenpumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "d610b77f1abd",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-brandblus-splitcase.webp",
-          "alt": "Robuste axial geteilte Pumpe für hohe Förderströme und effizientes Fördern von Flüssigkeiten in Schifffahrt und auf Offshore-Plattformen",
-          "width": 170,
-          "height": 172
-        }
-      },
-      {
-        "_uid": "519ab4858496",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über axial geteilte Pumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "f19b42509300",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-bagger-dompel.webp",
-          "alt": "Leistungsstarke Baggerpumpe zum Fördern von Sand, Schlamm und Sediment in maritimen und Offshore-Projekten",
-          "width": 270,
-          "height": 270
-        }
-      },
-      {
-        "_uid": "d207338d65c9",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Baggerpumpen lesen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -696,43 +898,62 @@
         }
       },
       {
-        "_uid": "33814c437b04",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/segmenten-qihang-fan-0isjyozkwdi-unsplash.webp",
-          "alt": "Großes Containerschiff auf offener See, unterstützt durch spezielle maritime Pumpen zur effizienten Flüssigkeitsverarbeitung und Schiffskühlung",
-          "width": 640,
-          "height": 427
-        }
-      },
-      {
-        "_uid": "1c8e3b03284a",
-        "component": "faq",
-        "heading": "Häufige Fragen",
-        "items": [
+        "_uid": "4524a1123e1f",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
           {
-            "_uid": "bebdd646319f",
-            "component": "faq_item",
-            "question": "Welche Pumpen eignen sich für maritime und Offshore-Anwendungen?",
-            "answer": "Maritime und Offshore-Pumpen müssen gegen Salzwasser, hohen Druck und extreme Wetterbedingungen beständig sein. Häufig eingesetzte Typen sind Ballastwasserpumpen, Kraftstoffpumpen, Kühlwasserpumpen und Bilgenpumpen."
+            "_uid": "422bdd751008",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "87ba8c93ef9e",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/segmenten-qihang-fan-0isjyozkwdi-unsplash.webp",
+                  "alt": "Großes Containerschiff auf offener See, unterstützt durch spezielle maritime Pumpen zur effizienten Flüssigkeitsverarbeitung und Schiffskühlung",
+                  "width": 640,
+                  "height": 427
+                }
+              }
+            ]
           },
           {
-            "_uid": "74aa379ad82e",
-            "component": "faq_item",
-            "question": "Wie wähle ich die richtige Pumpe für meine maritime Anwendung?",
-            "answer": "Die Wahl hängt von Faktoren wie Flüssigkeitsart, Förderstrom, Druck, Korrosionsbeständigkeit und Zertifizierungsanforderungen ab. Unsere Spezialisten unterstützen Sie gern bei der Suche nach der passenden Lösung."
-          },
-          {
-            "_uid": "52bd707b8fd0",
-            "component": "faq_item",
-            "question": "Welche Zertifizierungen sind für Pumpen im maritimen Sektor erforderlich?",
-            "answer": "Pumpen müssen häufig internationale Normen wie IMO, SOLAS, ABS und DNV-GL erfüllen. Das dient der Sicherheit, der Zuverlässigkeit und der Einhaltung von Vorschriften."
-          },
-          {
-            "_uid": "9b44c24d9c35",
-            "component": "faq_item",
-            "question": "Was sind die häufigsten Probleme bei maritimen Pumpen und wie lassen sie sich vermeiden?",
-            "answer": "Häufige Probleme sind Kavitation, Verschleiß durch Korrosion und Verstopfung durch Schmutz oder Salzablagerungen. Sie lassen sich vermeiden, indem das richtige Pumpendesign gewählt, regelmäßig gewartet und mit Filtersystemen gearbeitet wird."
+            "_uid": "e27db2f52ba7",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "a171becee033",
+                "component": "faq",
+                "heading": "Häufige Fragen",
+                "items": [
+                  {
+                    "_uid": "1186b43095c1",
+                    "component": "faq_item",
+                    "question": "Welche Pumpen eignen sich für maritime und Offshore-Anwendungen?",
+                    "answer": "Maritime und Offshore-Pumpen müssen gegen Salzwasser, hohen Druck und extreme Wetterbedingungen beständig sein. Häufig eingesetzte Typen sind Ballastwasserpumpen, Kraftstoffpumpen, Kühlwasserpumpen und Bilgenpumpen."
+                  },
+                  {
+                    "_uid": "343c30c60503",
+                    "component": "faq_item",
+                    "question": "Wie wähle ich die richtige Pumpe für meine maritime Anwendung?",
+                    "answer": "Die Wahl hängt von Faktoren wie Flüssigkeitsart, Förderstrom, Druck, Korrosionsbeständigkeit und Zertifizierungsanforderungen ab. Unsere Spezialisten unterstützen Sie gern bei der Suche nach der passenden Lösung."
+                  },
+                  {
+                    "_uid": "0e3c2ae5962f",
+                    "component": "faq_item",
+                    "question": "Welche Zertifizierungen sind für Pumpen im maritimen Sektor erforderlich?",
+                    "answer": "Pumpen müssen häufig internationale Normen wie IMO, SOLAS, ABS und DNV-GL erfüllen. Das dient der Sicherheit, der Zuverlässigkeit und der Einhaltung von Vorschriften."
+                  },
+                  {
+                    "_uid": "b3816a6cea85",
+                    "component": "faq_item",
+                    "question": "Was sind die häufigsten Probleme bei maritimen Pumpen und wie lassen sie sich vermeiden?",
+                    "answer": "Häufige Probleme sind Kavitation, Verschleiß durch Korrosion und Verstopfung durch Schmutz oder Salzablagerungen. Sie lassen sich vermeiden, indem das richtige Pumpendesign gewählt, regelmäßig gewartet und mit Filtersystemen gearbeitet wird."
+                  }
+                ]
+              }
+            ]
           }
         ]
       }

@@ -9,111 +9,163 @@
     "component": "page_service",
     "h1": "Revision von Exzenterschneckenpumpen",
     "nav_title": "Revision von Exzenterschneckenpumpen",
+    "hero_image": {
+      "filename": "/img/nl/pomptypes-wormpompen-bg.webp",
+      "alt": "",
+      "width": 1280,
+      "height": 720
+    },
     "seo_title": "Exzenterschneckenpumpe revidieren: Revision durch IPG",
     "seo_description": "Revision von Exzenterschneckenpumpen durch geschulte Monteure: Inspektion, Austausch von Verschleißteilen, Test. Jetzt Revision anfragen.",
     "intro": "IPG revidiert Exzenterschneckenpumpen mit geschulten Monteuren: Teile werden geprüft, verschlissene Komponenten ersetzt und die Pumpe wird getestet. Das Angebot richtet sich an Betreiber, die Lebensdauer und Zuverlässigkeit ihrer Pumpe verbessern wollen.",
     "service_kind": "revision-typ",
     "body": [
       {
-        "_uid": "0ae4b079491e",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-wormpompen-bg.webp",
-          "alt": "Exzenterschneckenpumpe zur Revision",
-          "width": 1280,
-          "height": 720
-        }
+        "_uid": "68b4f33eda68",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "00da8c1e178f",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "6a20c3b87728",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG revidiert Exzenterschneckenpumpen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "6cf220ede83c",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "2fc43caaa6c5",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Exzenterschneckenpumpen werden häufig zum Fördern viskoser Flüssigkeiten wie Öl, Seife und Klebstoff eingesetzt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG hat mehr als 30 Jahre Erfahrung in der Revision verschiedener Pumpentypen, darunter auch Exzenterschneckenpumpen. Die Monteure von IPG haben verschiedene Schulungen zu Exzenterschneckenpumpen absolviert. Damit verfügen sie über das Wissen und Können, eine gründliche Revision auszuführen und die Exzenterschneckenpumpen wieder in einen einwandfreien Betriebszustand zu bringen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "49263af36bba",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG revidiert Exzenterschneckenpumpen"
+        "_uid": "6f4c17fe058c",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "bcf5cfcb037c",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "de9dc0346ecb",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Zuverlässige Revision von Exzenterschneckenpumpen durch IPG mit erfahrenen und geschulten Monteuren"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG hat mehr als 30 Jahre Erfahrung in der Revision verschiedener Pumpentypen, darunter Exzenterschneckenpumpen. Unsere Monteure verfügen über umfangreiches Wissen und Fachkenntnis bei der Revision von Exzenterschneckenpumpen. Sie haben verschiedene Schulungen und Trainings absolviert, darunter ein spezielles Training von Seepex selbst."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bei der Revision von Exzenterschneckenpumpen prüfen wir jedes Bauteil gründlich, um die Ursache möglicher Probleme zu finden. Anschließend ersetzen wir verschlissene oder beschädigte Teile und testen die Pumpe, damit sie wieder einwandfrei arbeitet. Darüber hinaus beraten wir Sie zur vorbeugenden Wartung, um künftigen Problemen vorzubeugen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Kunde können Sie darauf vertrauen, dass wir Ihre Exzenterschneckenpumpe sorgfältig und fachgerecht revidieren, mit dem Ziel, die Lebensdauer zu verlängern und die Zuverlässigkeit zu verbessern. Wir bieten außerdem eine kurze Durchlaufzeit und einen zuverlässigen Kundenservice, damit Ihre Stillstandszeiten so gering wie möglich bleiben."
+                        }
+                      ]
+                    }
+                  ]
                 }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Exzenterschneckenpumpen werden häufig zum Fördern viskoser Flüssigkeiten wie Öl, Seife und Klebstoff eingesetzt."
+              }
+            ]
+          },
+          {
+            "_uid": "8d09fc17edbd",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "8e8c6970b6d2",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/revisie-monteurs-seepex-cursus.webp",
+                  "alt": "IPG-Monteure bei einer Seepex-Schulung zu Exzenterschneckenpumpen",
+                  "width": 1172,
+                  "height": 716
                 }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG hat mehr als 30 Jahre Erfahrung in der Revision verschiedener Pumpentypen, darunter auch Exzenterschneckenpumpen. Die Monteure von IPG haben verschiedene Schulungen zu Exzenterschneckenpumpen absolviert. Damit verfügen sie über das Wissen und Können, eine gründliche Revision auszuführen und die Exzenterschneckenpumpen wieder in einen einwandfreien Betriebszustand zu bringen."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zuverlässige Revision von Exzenterschneckenpumpen durch IPG mit erfahrenen und geschulten Monteuren"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG hat mehr als 30 Jahre Erfahrung in der Revision verschiedener Pumpentypen, darunter Exzenterschneckenpumpen. Unsere Monteure verfügen über umfangreiches Wissen und Fachkenntnis bei der Revision von Exzenterschneckenpumpen. Sie haben verschiedene Schulungen und Trainings absolviert, darunter ein spezielles Training von Seepex selbst."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bei der Revision von Exzenterschneckenpumpen prüfen wir jedes Bauteil gründlich, um die Ursache möglicher Probleme zu finden. Anschließend ersetzen wir verschlissene oder beschädigte Teile und testen die Pumpe, damit sie wieder einwandfrei arbeitet. Darüber hinaus beraten wir Sie zur vorbeugenden Wartung, um künftigen Problemen vorzubeugen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Kunde können Sie darauf vertrauen, dass wir Ihre Exzenterschneckenpumpe sorgfältig und fachgerecht revidieren, mit dem Ziel, die Lebensdauer zu verlängern und die Zuverlässigkeit zu verbessern. Wir bieten außerdem eine kurze Durchlaufzeit und einen zuverlässigen Kundenservice, damit Ihre Stillstandszeiten so gering wie möglich bleiben."
-                }
-              ]
-            }
-          ]
-        }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "fe7be786703e",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/revisie-monteurs-seepex-cursus.webp",
-          "alt": "IPG-Monteure bei einer Seepex-Schulung zu Exzenterschneckenpumpen",
-          "width": 1172,
-          "height": 716
-        }
-      },
-      {
-        "_uid": "2b1c5b36f5c7",
+        "_uid": "f5c4cb5246c4",
         "component": "rich_text",
         "content": {
           "type": "doc",
@@ -155,37 +207,56 @@
         }
       },
       {
-        "_uid": "212dfd6b3100",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/revisie-team-seepex-cursus.webp",
-          "alt": "Das IPG-Revisionsteam nach der Seepex-Schulung",
-          "width": 1024,
-          "height": 768
-        }
-      },
-      {
-        "_uid": "846306624d86",
-        "component": "faq",
-        "heading": "Häufige Fragen",
-        "items": [
+        "_uid": "7e87f5530c3d",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
           {
-            "_uid": "26c17e97f43c",
-            "component": "faq_item",
-            "question": "Warum ist eine Revision bei Exzenterschneckenpumpen nötig?",
-            "answer": "Im Laufe der Zeit können Exzenterschneckenpumpen verschleißen und Defekte entwickeln. Das kann zu Leistungsverlusten führen, etwa zu geringerem Förderstrom, höherem Energieverbrauch, Leckage und Geräuschen. Um die Lebensdauer der Exzenterschneckenpumpe zu verlängern und die Leistung zu erhalten, ist regelmäßige Wartung nötig und, wenn erforderlich, eine Revision der Pumpe."
+            "_uid": "64f0226c5c65",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "2e1cedb4fde7",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/revisie-team-seepex-cursus.webp",
+                  "alt": "Das IPG-Revisionsteam nach der Seepex-Schulung",
+                  "width": 1024,
+                  "height": 768
+                }
+              }
+            ]
           },
           {
-            "_uid": "00a3f0616e8f",
-            "component": "faq_item",
-            "question": "Was umfasst die Revision einer Exzenterschneckenpumpe?",
-            "answer": "Die Revision einer Exzenterschneckenpumpe umfasst das Zerlegen der Pumpe, die Prüfung der Bauteile auf Verschleiß und Beschädigung, den Austausch verschlissener oder beschädigter Teile sowie das erneute Zusammenbauen und Testen der Pumpe. Welche Schritte im Einzelnen nötig sind, hängt vom Zustand der Pumpe und von der Art der zu behebenden Probleme ab."
-          },
-          {
-            "_uid": "6a1618c7beef",
-            "component": "faq_item",
-            "question": "Woran erkenne ich, dass eine Exzenterschneckenpumpe revidiert werden muss?",
-            "answer": "Folgende Anzeichen können darauf hinweisen, dass eine Exzenterschneckenpumpe revidiert werden muss:\nGeringerer Förderstrom der Pumpe\nHöherer Energieverbrauch\nLeckage an der Pumpe\nGeräusche der Pumpe\nÜbermäßige Vibrationen oder Bewegungen der Pumpe"
+            "_uid": "6dab05dc70e4",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "792e4e9e70e3",
+                "component": "faq",
+                "heading": "Häufige Fragen",
+                "items": [
+                  {
+                    "_uid": "7aae11d28513",
+                    "component": "faq_item",
+                    "question": "Warum ist eine Revision bei Exzenterschneckenpumpen nötig?",
+                    "answer": "Im Laufe der Zeit können Exzenterschneckenpumpen verschleißen und Defekte entwickeln. Das kann zu Leistungsverlusten führen, etwa zu geringerem Förderstrom, höherem Energieverbrauch, Leckage und Geräuschen. Um die Lebensdauer der Exzenterschneckenpumpe zu verlängern und die Leistung zu erhalten, ist regelmäßige Wartung nötig und, wenn erforderlich, eine Revision der Pumpe."
+                  },
+                  {
+                    "_uid": "979825fd1f0e",
+                    "component": "faq_item",
+                    "question": "Was umfasst die Revision einer Exzenterschneckenpumpe?",
+                    "answer": "Die Revision einer Exzenterschneckenpumpe umfasst das Zerlegen der Pumpe, die Prüfung der Bauteile auf Verschleiß und Beschädigung, den Austausch verschlissener oder beschädigter Teile sowie das erneute Zusammenbauen und Testen der Pumpe. Welche Schritte im Einzelnen nötig sind, hängt vom Zustand der Pumpe und von der Art der zu behebenden Probleme ab."
+                  },
+                  {
+                    "_uid": "c63b65f0eeb1",
+                    "component": "faq_item",
+                    "question": "Woran erkenne ich, dass eine Exzenterschneckenpumpe revidiert werden muss?",
+                    "answer": "Folgende Anzeichen können darauf hinweisen, dass eine Exzenterschneckenpumpe revidiert werden muss:\nGeringerer Förderstrom der Pumpe\nHöherer Energieverbrauch\nLeckage an der Pumpe\nGeräusche der Pumpe\nÜbermäßige Vibrationen oder Bewegungen der Pumpe"
+                  }
+                ]
+              }
+            ]
           }
         ]
       }

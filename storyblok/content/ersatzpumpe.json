@@ -16,249 +16,286 @@
     "service_kind": "revision-typ",
     "body": [
       {
-        "_uid": "3cb130cfdd40",
+        "_uid": "c2dec8b90a91",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "b9715d0ff81c",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "83aea11b71bc",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Daten hinterlassen, wir nehmen Kontakt auf: Ersatzpumpe anfragen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Suchen Sie eine "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Industriepumpe",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/branchen",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ", eine "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Revision",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/revision",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " oder "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Ersatzteile",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/revision/ersatzteile",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "? Oder haben Sie eine technische Frage?"
+                        },
+                        {
+                          "type": "hard_break"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Mit mehr als 30 Jahren Erfahrung bietet IPG fachkundige Beratung und maßgeschneiderte Lösungen für verschiedene Branchen, darunter die "
+                        },
+                        {
+                          "type": "text",
+                          "text": "chemische Industrie",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/branchen/chemische-industrie",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ", die "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Lebensmittelindustrie",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/branchen/lebensmittelindustrie",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ", die "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Wasseraufbereitung",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/branchen/wasseraufbereitung",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " und "
+                        },
+                        {
+                          "type": "text",
+                          "text": "weitere",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/branchen",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "7d390be532d7",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "1089622166ca",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Lieber direkt Kontakt aufnehmen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Haben Sie Fragen oder möchten Sie lieber direkt mailen oder anrufen? Kein Problem, das IPG-Team engagierter Pumpenexperten steht für Sie bereit."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "+31 251 222 566",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "hard_break"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Erreichbar an Werktagen"
+                        },
+                        {
+                          "type": "hard_break"
+                        },
+                        {
+                          "type": "text",
+                          "text": "von 08:00 bis 17:00 Uhr"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "info@industrialpumps.nl",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "hard_break"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Tipp: Fügen Sie unsere E-Mail-Adresse Ihren Kontakten hinzu, damit unsere Antwort nicht im Spam-Ordner landet."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Besuchsadresse",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "hard_break"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Concordiastraat 30, 1951 AS Velsen-Noord"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "107bacb7d0c5",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Daten hinterlassen, wir nehmen Kontakt auf: Ersatzpumpe anfragen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Suchen Sie eine "
-                },
-                {
-                  "type": "text",
-                  "text": "Industriepumpe",
-                  "marks": [
-                    {
-                      "type": "link",
-                      "attrs": {
-                        "href": "/pumpen/branchen",
-                        "linktype": "url"
-                      }
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": ", eine "
-                },
-                {
-                  "type": "text",
-                  "text": "Revision",
-                  "marks": [
-                    {
-                      "type": "link",
-                      "attrs": {
-                        "href": "/revision",
-                        "linktype": "url"
-                      }
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " oder "
-                },
-                {
-                  "type": "text",
-                  "text": "Ersatzteile",
-                  "marks": [
-                    {
-                      "type": "link",
-                      "attrs": {
-                        "href": "/revision/ersatzteile",
-                        "linktype": "url"
-                      }
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": "? Oder haben Sie eine technische Frage?"
-                },
-                {
-                  "type": "hard_break"
-                },
-                {
-                  "type": "text",
-                  "text": "Mit mehr als 30 Jahren Erfahrung bietet IPG fachkundige Beratung und maßgeschneiderte Lösungen für verschiedene Branchen, darunter die "
-                },
-                {
-                  "type": "text",
-                  "text": "chemische Industrie",
-                  "marks": [
-                    {
-                      "type": "link",
-                      "attrs": {
-                        "href": "/pumpen/branchen/chemische-industrie",
-                        "linktype": "url"
-                      }
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": ", die "
-                },
-                {
-                  "type": "text",
-                  "text": "Lebensmittelindustrie",
-                  "marks": [
-                    {
-                      "type": "link",
-                      "attrs": {
-                        "href": "/pumpen/branchen/lebensmittelindustrie",
-                        "linktype": "url"
-                      }
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": ", die "
-                },
-                {
-                  "type": "text",
-                  "text": "Wasseraufbereitung",
-                  "marks": [
-                    {
-                      "type": "link",
-                      "attrs": {
-                        "href": "/pumpen/branchen/wasseraufbereitung",
-                        "linktype": "url"
-                      }
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " und "
-                },
-                {
-                  "type": "text",
-                  "text": "weitere",
-                  "marks": [
-                    {
-                      "type": "link",
-                      "attrs": {
-                        "href": "/pumpen/branchen",
-                        "linktype": "url"
-                      }
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": "."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Lieber direkt Kontakt aufnehmen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Haben Sie Fragen oder möchten Sie lieber direkt mailen oder anrufen? Kein Problem, das IPG-Team engagierter Pumpenexperten steht für Sie bereit."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "[[PLATZHALTER: Telefon]]",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "hard_break"
-                },
-                {
-                  "type": "text",
-                  "text": "Erreichbar an Werktagen"
-                },
-                {
-                  "type": "hard_break"
-                },
-                {
-                  "type": "text",
-                  "text": "von 08:00 bis 17:00 Uhr"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "[[PLATZHALTER: E-Mail]]",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "hard_break"
-                },
-                {
-                  "type": "text",
-                  "text": "Tipp: Fügen Sie unsere E-Mail-Adresse Ihren Kontakten hinzu, damit unsere Antwort nicht im Spam-Ordner landet."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Besuchsadresse",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "hard_break"
-                },
-                {
-                  "type": "text",
-                  "text": "[[PLATZHALTER: Anschrift]]"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -270,48 +307,100 @@
                   "text": "Warum Kunden sich für uns entscheiden"
                 }
               ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Persönliche Beratung"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Klare Preise, keine Überraschungen"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Schnelle Antwort innerhalb von 24 Stunden"
-                }
-              ]
             }
           ]
         }
       },
       {
-        "_uid": "8197d6a493da",
+        "_uid": "8cf1fca4a715",
+        "component": "section_row",
+        "layout": "carousel",
+        "columns": [
+          {
+            "_uid": "78ad62ac422d",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "18dbcffb01c8",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Persönliche Beratung"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "149ca683b421",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "8c97e258ed97",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Klare Preise, keine Überraschungen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "3709edbeeba3",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "2d2db48a1edf",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Schnelle Antwort innerhalb von 24 Stunden"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "96a052f57831",
         "component": "image_block",
         "image": {
           "filename": "/img/nl/cmf-service.webp",
@@ -321,7 +410,7 @@
         }
       },
       {
-        "_uid": "9f04c736eb3c",
+        "_uid": "5be38490430c",
         "component": "rich_text",
         "content": {
           "type": "doc",
@@ -360,7 +449,7 @@
         }
       },
       {
-        "_uid": "1666ff30d98b",
+        "_uid": "ba46b4ee9127",
         "component": "image_block",
         "image": {
           "filename": "/img/nl/dael-video-ipg.webp",
@@ -370,7 +459,7 @@
         }
       },
       {
-        "_uid": "10e5857d3888",
+        "_uid": "a7ede4b4f317",
         "component": "rich_text",
         "content": {
           "type": "doc",
@@ -409,7 +498,7 @@
         }
       },
       {
-        "_uid": "23a78c8841e5",
+        "_uid": "e13a49b437f5",
         "component": "image_block",
         "image": {
           "filename": "/img/nl/cases-svitzer-nederland-ipg.webp",
@@ -419,7 +508,7 @@
         }
       },
       {
-        "_uid": "0630b11a06e3",
+        "_uid": "406b241234ad",
         "component": "rich_text",
         "content": {
           "type": "doc",
@@ -488,7 +577,7 @@
         }
       },
       {
-        "_uid": "357c4d2c4476",
+        "_uid": "24664c49017a",
         "component": "image_block",
         "image": {
           "filename": "/img/nl/cases-rietlanden-ipg.webp",
@@ -498,7 +587,7 @@
         }
       },
       {
-        "_uid": "fdfbe6c437ed",
+        "_uid": "2c09fdd5c423",
         "component": "rich_text",
         "content": {
           "type": "doc",
@@ -537,7 +626,7 @@
         }
       },
       {
-        "_uid": "fb1095880334",
+        "_uid": "a2251c9b516c",
         "component": "image_block",
         "image": {
           "filename": "/img/nl/cases-kesbeke-header.webp",
@@ -547,7 +636,7 @@
         }
       },
       {
-        "_uid": "36b798a4a568",
+        "_uid": "e130dd526684",
         "component": "rich_text",
         "content": {
           "type": "doc",
@@ -586,7 +675,7 @@
         }
       },
       {
-        "_uid": "19e7bf172510",
+        "_uid": "b9f6cb2f9e00",
         "component": "image_block",
         "image": {
           "filename": "/img/nl/cases-waternet-header.webp",
@@ -596,7 +685,7 @@
         }
       },
       {
-        "_uid": "346abcf02196",
+        "_uid": "6af6c5f797eb",
         "component": "rich_text",
         "content": {
           "type": "doc",
@@ -635,7 +724,7 @@
         }
       },
       {
-        "_uid": "3a277c41c74f",
+        "_uid": "27178a2ca9c9",
         "component": "image_block",
         "image": {
           "filename": "/img/nl/nieuws-aeb-amsterdam.webp",
@@ -645,7 +734,7 @@
         }
       },
       {
-        "_uid": "5b542159a31a",
+        "_uid": "610b64872971",
         "component": "rich_text",
         "content": {
           "type": "doc",

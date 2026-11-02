@@ -1,0 +1,27 @@
+{
+ "path": "/privacy-en-cookieverklaring",
+ "same": true,
+ "blocks": [
+  {
+   "t": "h",
+   "l": 2,
+   "text": "Privacy– en cookieverklaring"
+  }
+ ],
+ "lay": [
+  {
+   "r": 1,
+   "c": 1
+  }
+ ],
+ "rows": {
+  "1": {
+   "kind": "row",
+   "cls": "multicolumn bg-RK-Type-01-V1 no-repeat center-center bg-contain no-gutter padding-large",
+   "cols": {
+    "1": {}
+   }
+  }
+ },
+ "missing": []
+}

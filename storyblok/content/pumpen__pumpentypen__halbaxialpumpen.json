@@ -15,335 +15,501 @@
     "topic_kind": "pumpentyp",
     "body": [
       {
-        "_uid": "1c57b8da12bf",
+        "_uid": "1129b8118a55",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "0cb66d5f2634",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "dedbbcc07ab9",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Halbaxialpumpen (Mixed-Flow-Pumpen) fördern große Wassermengen bei relativ niedrigen Drücken und werden häufig in Situationen wie Bewässerung, Entwässerung, Wasseraufbereitung, HVAC und Löschwassersystemen eingesetzt."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "cdb9ebd43e42",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "557398ac49dd",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Agrar",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/branchen/landwirtschaft",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Löschwasserpumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/anwendungen/loeschwasser",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Entwässerung",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/anwendungen/entwaesserung",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "HVAC",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/branchen/gebaeudetechnik-hvac",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Wasseraufbereitung",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/branchen/wasseraufbereitung",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "d706b04747a0",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "2891c78fcfc4",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "bb297610e059",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Anwendungen von Halbaxialpumpen: effiziente Wasserförderung"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "81f9a24021a3",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "e11e3c33e021",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Halbaxialpumpen sind dafür ausgelegt, große Wassermengen bei relativ niedrigen Drücken zu fördern. Diese Pumpen werden in verschiedenen Branchen eingesetzt, darunter Landwirtschaft, Bauwesen, Wasseraufbereitung, HVAC und Brandschutz. Aufgrund ihrer besonderen Bauweise verbinden Halbaxialpumpen hohen Wirkungsgrad mit guter Leistung und sind damit eine wirtschaftliche und langlebige Lösung für die Wasserförderung."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Von der Bewässerung bis zu Entwässerungssystemen lassen sich diese Pumpen auf verschiedene Anwendungen abstimmen und bieten zuverlässige und effiziente Leistung. Die Wahl der richtigen Halbaxialpumpe für eine bestimmte Anwendung ist wichtig, um optimale Leistung sicherzustellen und Energiekosten zu minimieren."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "70ce4d9a36f7",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "fa70dbeda1ce",
+            "component": "section_column",
+            "icon": "fa-tools",
+            "content": [
+              {
+                "_uid": "3adde0c9cdb6",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Zuverlässigkeit",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Diese Pumpen bieten dank ihrer robusten Bauweise und langlebigen Werkstoffe zuverlässige Leistung in verschiedenen Branchen, darunter Landwirtschaft, Bauwesen, Wasseraufbereitung, HVAC und Brandschutz."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "9092fbb6bfd6",
+            "component": "section_column",
+            "icon": "fa-bolt",
+            "content": [
+              {
+                "_uid": "26e172d228ea",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Hoher Wirkungsgrad",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Halbaxialpumpen sind dafür ausgelegt, große Wassermengen bei relativ niedrigen Drücken zu fördern, was zu hohem Wirkungsgrad und niedrigeren Energiekosten führt."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "7294b20f62eb",
+            "component": "section_column",
+            "icon": "fa-cogs",
+            "content": [
+              {
+                "_uid": "9a56fe686e95",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kompakt und leicht",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Halbaxialpumpen sind meist kompakter und leichter als andere Pumpentypen, was Installation und Wartung vereinfacht und Platz spart."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "fce4b3d26a12",
+            "component": "section_column",
+            "icon": "fa-sync-alt",
+            "content": [
+              {
+                "_uid": "0214576a307e",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Vielseitigkeit",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Für ein breites Spektrum an Anwendungen geeignet, von der Bewässerung bis zum Brandschutz, bieten Halbaxialpumpen flexible und wirtschaftliche Lösungen für die Wasserförderung."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "9a3df9713564",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "3a36d9028f5b",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "8f946cc53060",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Effizienz und Zuverlässigkeit in Kombination"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Halbaxialpumpen sind dafür ausgelegt, große Wassermengen bei relativ niedrigen Drücken zu fördern, was zu hohem Wirkungsgrad und hoher Zuverlässigkeit führt. Sie verbinden die Merkmale von Kreiselpumpen und Axialpumpen und werden häufig in Landwirtschaft, Bauwesen, Wasseraufbereitung, HVAC und Brandschutz eingesetzt. Dank ihrer Leistung und Langlebigkeit sind Halbaxialpumpen eine gute Wahl für Anwendungen, in denen große Wassermengen bei niedrigen Drücken gefördert werden müssen. Wichtig ist jedoch, die richtige Pumpe für Ihre Anwendung zu wählen und sich von einem Pumpenexperten wie IPG beraten zu lassen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Vorteile von Halbaxialpumpen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Halbaxialpumpen bieten gegenüber anderen Pumpentypen einige Vorteile. Sie sind dafür ausgelegt, große Wassermengen bei relativ niedrigen Drücken zu fördern, was zu hohem Wirkungsgrad und hoher Zuverlässigkeit führt. Außerdem sind Halbaxialpumpen meist kompakter und leichter als andere Pumpentypen, was Installation und Wartung vereinfacht. Dank ihrer Leistung und Langlebigkeit werden Halbaxialpumpen häufig in einem breiten Spektrum von Anwendungen eingesetzt, von der Bewässerung bis zum Brandschutz. Erwägen Sie eine Halbaxialpumpe für Ihre Anwendung? Lassen Sie sich von einem Fachmann bei der Auswahl der passenden Pumpe beraten und zu Wartung und Betriebskosten informieren."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "4f607fcbcbd7",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "f9bc51ae6f37",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-end-suction-3.webp",
+                  "alt": "Halbaxialpumpe für die Förderung großer Wassermengen bei niedrigem Druck",
+                  "width": 1280,
+                  "height": 853
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "95501bb04f04",
+        "component": "cta_band",
+        "heading": "Unverbindlich Kontakt aufnehmen",
+        "text": "Wir beraten Sie gern zu Auswahl, Ersatz und Revision Ihrer Pumpe.",
+        "button_label": "Kontakt aufnehmen",
+        "button_link": {
+          "fieldtype": "multilink",
+          "linktype": "url",
+          "url": "/kontakt",
+          "cached_url": "/kontakt"
+        },
+        "variant": "primary"
+      },
+      {
+        "_uid": "5cd342d248eb",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Halbaxialpumpen (Mixed-Flow-Pumpen) fördern große Wassermengen bei relativ niedrigen Drücken und werden häufig in Situationen wie Bewässerung, Entwässerung, Wasseraufbereitung, HVAC und Löschwassersystemen eingesetzt."
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Agrar",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/branchen/landwirtschaft",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Löschwasserpumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/anwendungen/loeschwasser",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Entwässerung",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/anwendungen/entwaesserung",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "HVAC",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/branchen/gebaeudetechnik-hvac",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Wasseraufbereitung",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/branchen/wasseraufbereitung",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Anwendungen von Halbaxialpumpen: effiziente Wasserförderung"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Halbaxialpumpen sind dafür ausgelegt, große Wassermengen bei relativ niedrigen Drücken zu fördern. Diese Pumpen werden in verschiedenen Branchen eingesetzt, darunter Landwirtschaft, Bauwesen, Wasseraufbereitung, HVAC und Brandschutz. Aufgrund ihrer besonderen Bauweise verbinden Halbaxialpumpen hohen Wirkungsgrad mit guter Leistung und sind damit eine wirtschaftliche und langlebige Lösung für die Wasserförderung."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Von der Bewässerung bis zu Entwässerungssystemen lassen sich diese Pumpen auf verschiedene Anwendungen abstimmen und bieten zuverlässige und effiziente Leistung. Die Wahl der richtigen Halbaxialpumpe für eine bestimmte Anwendung ist wichtig, um optimale Leistung sicherzustellen und Energiekosten zu minimieren."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zuverlässigkeit",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Diese Pumpen bieten dank ihrer robusten Bauweise und langlebigen Werkstoffe zuverlässige Leistung in verschiedenen Branchen, darunter Landwirtschaft, Bauwesen, Wasseraufbereitung, HVAC und Brandschutz."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Hoher Wirkungsgrad",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Halbaxialpumpen sind dafür ausgelegt, große Wassermengen bei relativ niedrigen Drücken zu fördern, was zu hohem Wirkungsgrad und niedrigeren Energiekosten führt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kompakt und leicht",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Halbaxialpumpen sind meist kompakter und leichter als andere Pumpentypen, was Installation und Wartung vereinfacht und Platz spart."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Vielseitigkeit",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Für ein breites Spektrum an Anwendungen geeignet, von der Bewässerung bis zum Brandschutz, bieten Halbaxialpumpen flexible und wirtschaftliche Lösungen für die Wasserförderung."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Effizienz und Zuverlässigkeit in Kombination"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Halbaxialpumpen sind dafür ausgelegt, große Wassermengen bei relativ niedrigen Drücken zu fördern, was zu hohem Wirkungsgrad und hoher Zuverlässigkeit führt. Sie verbinden die Merkmale von Kreiselpumpen und Axialpumpen und werden häufig in Landwirtschaft, Bauwesen, Wasseraufbereitung, HVAC und Brandschutz eingesetzt. Dank ihrer Leistung und Langlebigkeit sind Halbaxialpumpen eine gute Wahl für Anwendungen, in denen große Wassermengen bei niedrigen Drücken gefördert werden müssen. Wichtig ist jedoch, die richtige Pumpe für Ihre Anwendung zu wählen und sich von einem Pumpenexperten wie IPG beraten zu lassen."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Vorteile von Halbaxialpumpen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Halbaxialpumpen bieten gegenüber anderen Pumpentypen einige Vorteile. Sie sind dafür ausgelegt, große Wassermengen bei relativ niedrigen Drücken zu fördern, was zu hohem Wirkungsgrad und hoher Zuverlässigkeit führt. Außerdem sind Halbaxialpumpen meist kompakter und leichter als andere Pumpentypen, was Installation und Wartung vereinfacht. Dank ihrer Leistung und Langlebigkeit werden Halbaxialpumpen häufig in einem breiten Spektrum von Anwendungen eingesetzt, von der Bewässerung bis zum Brandschutz. Erwägen Sie eine Halbaxialpumpe für Ihre Anwendung? Lassen Sie sich von einem Fachmann bei der Auswahl der passenden Pumpe beraten und zu Wartung und Betriebskosten informieren."
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "0fee69484618",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-end-suction-3.webp",
-          "alt": "Halbaxialpumpe für die Förderung großer Wassermengen bei niedrigem Druck",
-          "width": 1280,
-          "height": 853
-        }
-      },
-      {
-        "_uid": "0a8dae36363f",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 4
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Unverbindlich Kontakt aufnehmen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -360,251 +526,345 @@
         }
       },
       {
-        "_uid": "a62185a87580",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-aeb.webp",
-          "alt": "Kundenlogo AEB",
-          "width": 387,
-          "height": 241
-        }
+        "_uid": "407a7e393734",
+        "component": "logo_carousel",
+        "logos": [
+          {
+            "_uid": "88f8b6dd5b6e",
+            "component": "logo_item",
+            "name": "AEB Amsterdam",
+            "image": {
+              "filename": "/img/clients/aeb-amsterdam.webp",
+              "alt": "AEB Amsterdam",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "8de2e9f93038",
+            "component": "logo_item",
+            "name": "AkzoNobel",
+            "image": {
+              "filename": "/img/clients/akzonobel.webp",
+              "alt": "AkzoNobel",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "9befdae2da2d",
+            "component": "logo_item",
+            "name": "HVC",
+            "image": {
+              "filename": "/img/clients/hvc.webp",
+              "alt": "HVC",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "b80c8bd35905",
+            "component": "logo_item",
+            "name": "Petrogas",
+            "image": {
+              "filename": "/img/clients/petrogas.webp",
+              "alt": "Petrogas",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "7c1431a18aee",
+            "component": "logo_item",
+            "name": "Tata Steel",
+            "image": {
+              "filename": "/img/clients/tata-steel.webp",
+              "alt": "Tata Steel",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "3e719bd4c58a",
+            "component": "logo_item",
+            "name": "Waternet",
+            "image": {
+              "filename": "/img/clients/waternet.webp",
+              "alt": "Waternet",
+              "width": 280,
+              "height": 140
+            }
+          }
+        ]
       },
       {
-        "_uid": "10893699dddc",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-akzonobel.webp",
-          "alt": "Kundenlogo AkzoNobel",
-          "width": 387,
-          "height": 241
-        }
+        "_uid": "5af14e05923a",
+        "component": "section_row",
+        "layout": "carousel",
+        "columns": [
+          {
+            "_uid": "2d33478cf4d3",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "64206367dca1",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Hervorragende und zugängliche Kundenbetreuung bei jedem Kontakt!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Der Einsatz ist perfekt und sehr serviceorientiert, sowohl telefonisch als auch bei geplanter Umsetzung und bei ungeplanten Störungen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Projektleiter RGR bei einem Abfallentsorger in den Niederlanden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "f5c389720ee3",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "9248e7235ad8",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Hervorragende Leistung und energiesparende Auslegung!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG liefert Halbaxialpumpen, die energiesparend sind und uns helfen, die Betriebskosten zu senken. Das Team beriet uns fachkundig bei der Wahl der passenden Konfiguration."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Technischer Verwalter bei einem Landwirtschaftsbetrieb."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "6a6d507598c7",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "7adf46f2d9cf",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Leistungsstarke Pumpen mit gleichmäßigem Durchfluss!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Halbaxialpumpen von IPG sorgen auch bei intensiver Nutzung für einen stabilen Durchfluss. Die Installation verlief dank der Unterstützung des IPG-Teams reibungslos, was den Ablauf effizient und störungsfrei machte."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Projektleiter bei einem chemischen Produktionsbetrieb."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "4f60db5024f1",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "efd5f7eed0e3",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Langlebige und flexible Lösungen für unser Wassermanagement!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Halbaxialpumpen von IPG sind langlebig und zuverlässig. Sie arbeiten in unseren Wassermanagementsystemen sehr gut, und das IPG-Team unterstützte uns während des gesamten Ablaufs professionell und schnell."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Maintenance Engineer bei einem industriellen Installationsbetrieb."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "ee96127aedbd",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "42c10a8447e0",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Zuverlässige und effiziente Strömungserzeuger für große Volumen!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Strömungserzeuger von IPG sind effizient und können große Flüssigkeitsmengen problemlos bewegen. Das Team beriet uns hervorragend, und die Produkte sind optimal auf unseren Bedarf abgestimmt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Technischer Verwalter bei einem Wasseraufbereitungsunternehmen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "c28e0ed48121",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-hvc.webp",
-          "alt": "Kundenlogo HVC",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "3a311cff3f74",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-petrogas.webp",
-          "alt": "Kundenlogo Petrogas",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "c11dfd4e801e",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-tatasteel.webp",
-          "alt": "Kundenlogo Tata Steel",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "302f85f04774",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-waternet.webp",
-          "alt": "Kundenlogo Waternet",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "512d7991a6a0",
+        "_uid": "27fe77ac8d1c",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Hervorragende und zugängliche Kundenbetreuung bei jedem Kontakt!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Der Einsatz ist perfekt und sehr serviceorientiert, sowohl telefonisch als auch bei geplanter Umsetzung und bei ungeplanten Störungen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Projektleiter RGR bei einem Abfallentsorger in den Niederlanden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Hervorragende Leistung und energiesparende Auslegung!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG liefert Halbaxialpumpen, die energiesparend sind und uns helfen, die Betriebskosten zu senken. Das Team beriet uns fachkundig bei der Wahl der passenden Konfiguration."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Technischer Verwalter bei einem Landwirtschaftsbetrieb."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Leistungsstarke Pumpen mit gleichmäßigem Durchfluss!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Halbaxialpumpen von IPG sorgen auch bei intensiver Nutzung für einen stabilen Durchfluss. Die Installation verlief dank der Unterstützung des IPG-Teams reibungslos, was den Ablauf effizient und störungsfrei machte."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Projektleiter bei einem chemischen Produktionsbetrieb."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Langlebige und flexible Lösungen für unser Wassermanagement!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Halbaxialpumpen von IPG sind langlebig und zuverlässig. Sie arbeiten in unseren Wassermanagementsystemen sehr gut, und das IPG-Team unterstützte uns während des gesamten Ablaufs professionell und schnell."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Maintenance Engineer bei einem industriellen Installationsbetrieb."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zuverlässige und effiziente Strömungserzeuger für große Volumen!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Strömungserzeuger von IPG sind effizient und können große Flüssigkeitsmengen problemlos bewegen. Das Team beriet uns hervorragend, und die Produkte sind optimal auf unseren Bedarf abgestimmt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Technischer Verwalter bei einem Wasseraufbereitungsunternehmen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -690,43 +950,62 @@
         }
       },
       {
-        "_uid": "fc03ae00859f",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-end-suction-2.webp",
-          "alt": "Pumpe zur Instandsetzung in der Werkstatt",
-          "width": 1280,
-          "height": 853
-        }
-      },
-      {
-        "_uid": "d2cca536924e",
-        "component": "faq",
-        "heading": "Häufige Fragen",
-        "items": [
+        "_uid": "b8ae6c18a52a",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
           {
-            "_uid": "b480f99e5818",
-            "component": "faq_item",
-            "question": "Was sind Halbaxialpumpen?",
-            "answer": "Halbaxialpumpen (Mixed-Flow-Pumpen) sind Pumpen, die dafür ausgelegt sind, große Wassermengen bei relativ niedrigen Drücken zu fördern. Sie verbinden die Merkmale von Kreiselpumpen und Axialpumpen und können in einem breiten Spektrum von Anwendungen eingesetzt werden."
+            "_uid": "d53a4a902a05",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "aa7dd3492019",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-end-suction-2.webp",
+                  "alt": "Pumpe zur Instandsetzung in der Werkstatt",
+                  "width": 1280,
+                  "height": 853
+                }
+              }
+            ]
           },
           {
-            "_uid": "3856afb28ec5",
-            "component": "faq_item",
-            "question": "Welche Vorteile haben Halbaxialpumpen?",
-            "answer": "Halbaxialpumpen bieten hohen Wirkungsgrad und hohe Zuverlässigkeit und sind meist kompakter und leichter als andere Pumpentypen. Sie eignen sich außerdem für ein breites Spektrum an Anwendungen, von der Bewässerung bis zum Brandschutz."
-          },
-          {
-            "_uid": "d58ce29c2a0f",
-            "component": "faq_item",
-            "question": "Wo werden Halbaxialpumpen eingesetzt?",
-            "answer": "Halbaxialpumpen werden häufig in Landwirtschaft, Bauwesen, Wasseraufbereitung, HVAC und Brandschutz eingesetzt. Sie eignen sich für Anwendungen, in denen große Wassermengen bei niedrigen Drücken gefördert werden müssen."
-          },
-          {
-            "_uid": "a35ff1de9a04",
-            "component": "faq_item",
-            "question": "Welche Faktoren sind bei der Auswahl einer Halbaxialpumpe wichtig?",
-            "answer": "Wichtige Faktoren sind unter anderem der erforderliche Förderstrom und Druck, die Viskosität der Flüssigkeit, die Umgebungsbedingungen und die Betriebskosten der Pumpe. Es empfiehlt sich, einen professionellen Pumpenhersteller oder -lieferanten um Rat zu fragen, um die passende Pumpe für Ihre Anwendung zu wählen."
+            "_uid": "11df5a8214be",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "6bc12363952b",
+                "component": "faq",
+                "heading": "Häufige Fragen",
+                "items": [
+                  {
+                    "_uid": "9b97b52789df",
+                    "component": "faq_item",
+                    "question": "Was sind Halbaxialpumpen?",
+                    "answer": "Halbaxialpumpen (Mixed-Flow-Pumpen) sind Pumpen, die dafür ausgelegt sind, große Wassermengen bei relativ niedrigen Drücken zu fördern. Sie verbinden die Merkmale von Kreiselpumpen und Axialpumpen und können in einem breiten Spektrum von Anwendungen eingesetzt werden."
+                  },
+                  {
+                    "_uid": "6b6c82fb823c",
+                    "component": "faq_item",
+                    "question": "Welche Vorteile haben Halbaxialpumpen?",
+                    "answer": "Halbaxialpumpen bieten hohen Wirkungsgrad und hohe Zuverlässigkeit und sind meist kompakter und leichter als andere Pumpentypen. Sie eignen sich außerdem für ein breites Spektrum an Anwendungen, von der Bewässerung bis zum Brandschutz."
+                  },
+                  {
+                    "_uid": "9c1851ded547",
+                    "component": "faq_item",
+                    "question": "Wo werden Halbaxialpumpen eingesetzt?",
+                    "answer": "Halbaxialpumpen werden häufig in Landwirtschaft, Bauwesen, Wasseraufbereitung, HVAC und Brandschutz eingesetzt. Sie eignen sich für Anwendungen, in denen große Wassermengen bei niedrigen Drücken gefördert werden müssen."
+                  },
+                  {
+                    "_uid": "79a7b9ab4153",
+                    "component": "faq_item",
+                    "question": "Welche Faktoren sind bei der Auswahl einer Halbaxialpumpe wichtig?",
+                    "answer": "Wichtige Faktoren sind unter anderem der erforderliche Förderstrom und Druck, die Viskosität der Flüssigkeit, die Umgebungsbedingungen und die Betriebskosten der Pumpe. Es empfiehlt sich, einen professionellen Pumpenhersteller oder -lieferanten um Rat zu fragen, um die passende Pumpe für Ihre Anwendung zu wählen."
+                  }
+                ]
+              }
+            ]
           }
         ]
       }

@@ -1,0 +1,97 @@
+{
+ "path": "/pompen/toepassingen",
+ "same": false,
+ "blocks": [
+  {
+   "t": "img",
+   "src": "/Files/Images/sfeer_fotos/shutterstock_160393526.jpg",
+   "alt": ""
+  },
+  {
+   "t": "h",
+   "l": 3,
+   "text": "Bekijk al onze Toepassingen"
+  },
+  {
+   "t": "p",
+   "text": "Industriële pompen kunnen binnen hun [segment](/pompen/segmenten) voor diverse toepassingen worden toegepast."
+  },
+  {
+   "t": "p",
+   "text": "De Industrial Pump Group (IPG) is uw merkonafhankelijke partner op het gebied van industriële pompen. Wij hebben meer dan 30 jaar ervaring en zijn sterk in vele segmenten en heel wat toepassingen. Enkele van deze toepassingen zijn terug te vinden op deze pagina."
+  },
+  {
+   "t": "list",
+   "ordered": false,
+   "items": [
+    "[Afvalwater](/pompen/toepassingen/afvalwater)",
+    "[Bagger](/pompen/toepassingen/bagger)",
+    "[Boiler feed](/pompen/toepassingen/boiler-feed)",
+    "[Brand blussen](/pompen/toepassingen/brandblus)",
+    "[Desalinatie](/pompen/toepassingen/desalinatie)",
+    "[Drainage](/pompen/toepassingen/drainage)",
+    "[Drinkwater](/pompen/toepassingen/drinkwater)",
+    "[Koelwater](/pompen/toepassingen/koelwater)",
+    "[Proceswater](/pompen/toepassingen/proceswater)"
+   ]
+  },
+  {
+   "t": "h",
+   "l": 4,
+   "text": "Vrijblijvend Contact opnemen"
+  }
+ ],
+ "lay": [
+  {
+   "r": null,
+   "c": null
+  },
+  {
+   "r": 1,
+   "c": 1
+  },
+  {
+   "r": 1,
+   "c": 1
+  },
+  {
+   "r": 1,
+   "c": 1
+  },
+  {
+   "r": 1,
+   "c": 2
+  },
+  {
+   "r": 2,
+   "c": 4
+  }
+ ],
+ "rows": {
+  "1": {
+   "kind": "grid",
+   "cls": "AdvancedGrid container",
+   "cols": {
+    "1": {},
+    "2": {}
+   }
+  },
+  "2": {
+   "kind": "grid",
+   "cls": "AdvancedGrid contactdetailIPG",
+   "cols": {
+    "3": {},
+    "4": {},
+    "5": {}
+   }
+  },
+  "3": {
+   "kind": "row",
+   "cls": "multicolumn no-repeat center-center bg-cover no-gutter no-padding",
+   "cols": {
+    "6": {}
+   }
+  }
+ },
+ "missing": []
+}

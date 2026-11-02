@@ -1,0 +1,40 @@
+{
+  "component": {
+    "name": "section_row",
+    "display_name": "Abschnitt mit Spalten",
+    "is_root": false,
+    "is_nestable": true,
+    "schema": {
+      "heading": {
+        "type": "text",
+        "description": "Überschrift über den Spalten (optional).",
+        "pos": 0
+      },
+      "layout": {
+        "type": "option",
+        "source": "self",
+        "options": [
+          {
+            "name": "Spalten nebeneinander",
+            "value": "columns"
+          },
+          {
+            "name": "Karussell",
+            "value": "carousel"
+          }
+        ],
+        "description": "Darstellung.",
+        "pos": 1
+      },
+      "columns": {
+        "type": "bloks",
+        "restrict_components": true,
+        "component_whitelist": [
+          "section_column"
+        ],
+        "description": "Spalten (2–4 nebeneinander, auf dem Handy untereinander).",
+        "pos": 2
+      }
+    }
+  }
+}

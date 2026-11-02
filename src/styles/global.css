@@ -305,3 +305,29 @@ form.finder-form fieldset[hidden] { display: none; }
 .usp-grid li::before { content: '✓'; position: absolute; left: 1.1rem; top: 1.05rem; width: 1.7rem; height: 1.7rem; border-radius: 50%; background: var(--color-primary); color: #fff; display: grid; place-items: center; font-weight: 800; }
 .usp-grid h3 { margin: 0; font-size: 1.15rem; }
 .usp-grid p { margin: .4rem 0 0; color: var(--color-text-muted); }
+
+/* ---------- rows with columns (layout of industrialpumps.nl) ---------- */
+.row-cols { display: grid; gap: 2rem 2.5rem; align-items: start; }
+@media (min-width: 48rem) { .row-cols { grid-template-columns: repeat(var(--cols), minmax(0, 1fr)); } }
+.row-cols .col > :first-child, .row-track .col > :first-child { margin-top: 0; }
+.row-section .prose { max-width: none; }
+.row-section .prose :where(ul, ol) { max-width: none; }
+.col-figure { margin: 0 0 1rem; }
+.col-figure img { width: 100%; height: auto; max-height: 26rem; object-fit: contain; }
+.col--media .col-figure img { max-height: 30rem; }
+.col-figure figcaption { color: var(--color-text-muted); font-size: .95rem; margin-top: .4rem; }
+.col--feature { background: var(--color-surface); padding: 1.3rem 1.3rem 1.1rem; border-top: 6px solid var(--color-overhaul); height: 100%; }
+.col-icon { display: block; width: 2.4rem; height: 2.4rem; border-radius: 50%; background: var(--color-primary) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M5 12.5l4.2 4.2L19 7' fill='none' stroke='%23FCC137' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") center / 60% no-repeat; margin-bottom: .8rem; }
+.row-track { display: grid; grid-auto-flow: column; grid-auto-columns: minmax(16rem, calc((100% - 2 * 1.5rem) / 3)); gap: 1.5rem; overflow-x: auto; scroll-snap-type: x mandatory; padding-bottom: .8rem; }
+.row-track .col { scroll-snap-align: start; background: var(--color-surface); padding: 1.3rem; border-left: 6px solid var(--color-overhaul); }
+@media (max-width: 40rem) { .row-track { grid-auto-columns: 85%; } }
+.row-cols h2, .row-track h2 { font-size: clamp(1.2rem, 1rem + .6vw, 1.5rem); line-height: 1.2; }
+.row-cols h3, .row-track h3, .row-cols h4 { font-size: 1.12rem; line-height: 1.25; }
+.row-cols .col > .prose > :first-child { margin-top: 0; }
+.row-cols h2, .row-cols h3, .row-cols h4, .row-track h2, .row-track h3 { text-transform: none; }
+
+.row-cols--logos { align-items: center; gap: 1.5rem 2rem; }
+@media (max-width: 47.99rem) { .row-cols--logos { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+.row-cols--logos .col-figure { margin: 0; }
+.row-cols--logos .col-figure img { max-height: 4.2rem; width: auto; max-width: 100%; margin-inline: auto; display: block; }
+.row-section:has(.row-cols--logos) + .row-section:has(.row-cols--logos) { border-top: 0; padding-top: 0; }

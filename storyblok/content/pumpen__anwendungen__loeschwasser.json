@@ -15,284 +15,448 @@
     "topic_kind": "pumpentyp",
     "body": [
       {
-        "_uid": "e6846ffda3c1",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Feuerlöschpumpen sind in der Industrie wesentlich, um Brände schnell und wirksam zu löschen und die Sicherheit der Beschäftigten zu gewährleisten."
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
+        "_uid": "7f3220b680f3",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "5d74d13ab8f9",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "e29a0b97acf1",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "End-Suction-Pumpen"
+                          "text": "Feuerlöschpumpen sind in der Industrie wesentlich, um Brände schnell und wirksam zu löschen und die Sicherheit der Beschäftigten zu gewährleisten."
                         }
                       ]
                     }
                   ]
-                },
-                {
-                  "type": "list_item",
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "8817f7a7cb30",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "2d7061ff7c9f",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
                     {
-                      "type": "paragraph",
+                      "type": "bullet_list",
                       "content": [
                         {
-                          "type": "text",
-                          "text": "Mehrstufige Pumpen",
-                          "marks": [
+                          "type": "list_item",
+                          "content": [
                             {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/pumpentypen/mehrstufige-pumpen",
-                                "linktype": "url"
-                              }
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "End-Suction-Pumpen"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Mehrstufige Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/pumpentypen/mehrstufige-pumpen",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Axial geteilte Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/pumpentypen/axial-geteilte-pumpen",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Vertikale Turbinenpumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/pumpentypen/vertikale-turbinenpumpen",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
                             }
                           ]
                         }
                       ]
                     }
                   ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Axial geteilte Pumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/pumpentypen/axial-geteilte-pumpen",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Vertikale Turbinenpumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/pumpentypen/vertikale-turbinenpumpen",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
                 }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zuverlässige Wasserversorgung: Pumpen für die Brandbekämpfung"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Feuerlöschpumpen sind wichtige Komponenten in Industrieumgebungen mit hohem Brandrisiko. Diese Pumpen sind dafür ausgelegt, große Mengen Wasser, Schaum oder andere Löschmittel zu liefern, um einen Brand schnell löschen zu können. Die Pumpen werden in strategisch wichtigen Bereichen installiert und häufig an Brandmeldesysteme gekoppelt. Die meisten industriellen Feuerlöschpumpen werden mit Diesel oder Strom betrieben und haben eine hohe Leistung, um große Mengen Wasser oder Schaum zu fördern. Diese Pumpen müssen regelmäßig gewartet und getestet werden, damit sie im Notfall zuverlässig funktionieren."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Schnelle und wirksame Brandbekämpfung",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Liefert im Notfall schnell Wasser, Schaum oder andere Löschmittel, wesentlich für den Brandschutz in Industrieumgebungen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Flexible Installation",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Geeignet für verschiedene Standorte wie Gebäude, Fabriken und Flughäfen; ausgelegt, um große Mengen Löschmittel über weite Strecken und Höhenunterschiede zu fördern."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Automatische Aktivierung",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Kopplung an Brandmeldesysteme ermöglicht die automatische Aktivierung im Notfall und sorgt für eine sofortige Reaktion bei einem Brand."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Einfache Wartung",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Dank gut zugänglicher Bauteile und einer anwenderfreundlichen Konstruktion lassen sie sich leicht warten."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Feuerlöschpumpensets: wichtige Komponenten für eine wirksame Brandbekämpfung"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Feuerlöschpumpensets sind wesentliche Komponenten des Brandschutzes in verschiedenen Industrieumgebungen. Sie bestehen aus einem Motor, einer Pumpe, einem Steuerungssystem und einer Saugleitung. Aufgabe eines Feuerlöschpumpensets ist es, im Brandfall schnell und wirksam Wasser, Schaum oder andere Löschmittel zu liefern."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Feuerlöschpumpensets werden in Gebäuden, Fabriken, Lagerhallen, Ölraffinerien, Flughäfen, Schiffen und an anderen Standorten mit hohem Brandrisiko installiert. Sie sind dafür ausgelegt, große Mengen Wasser oder Schaum über weite Strecken und Höhenunterschiede zu fördern. Die Pumpen können außerdem an Brandmeldesysteme gekoppelt werden, sodass sie im Notfall automatisch aktiviert werden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Wartung und Inspektionen von Feuerlöschpumpensets sollten regelmäßig durchgeführt werden, damit sie im Notfall zuverlässig funktionieren. Zu den Wartungsarbeiten gehören das Prüfen der Pumpe, der Austausch von Teilen bei Bedarf und die Sicherstellung der ordnungsgemäßen Funktion des Steuerungssystems."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Wichtig ist außerdem, das passende Feuerlöschpumpenset für den jeweiligen Standort und die jeweiligen Risiken zu wählen. Bei der Wahl sind Faktoren wie die Größe des Gebäudes, das Vorhandensein brennbarer Stoffe und die Entfernung zur nächsten Feuerwache zu berücksichtigen."
-                }
-              ]
-            }
-          ]
-        }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "06c28c1d943e",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/segmenten-brandblus-2.webp",
-          "alt": "Feuerlöschpumpen | Industrial Pump Group",
-          "width": 500,
-          "height": 334
-        }
+        "_uid": "1db25da63753",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "80a20543d9d7",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "8e52f8fda734",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Zuverlässige Wasserversorgung: Pumpen für die Brandbekämpfung"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "dca184a5b9df",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "e28bc67671e2",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Feuerlöschpumpen sind wichtige Komponenten in Industrieumgebungen mit hohem Brandrisiko. Diese Pumpen sind dafür ausgelegt, große Mengen Wasser, Schaum oder andere Löschmittel zu liefern, um einen Brand schnell löschen zu können. Die Pumpen werden in strategisch wichtigen Bereichen installiert und häufig an Brandmeldesysteme gekoppelt. Die meisten industriellen Feuerlöschpumpen werden mit Diesel oder Strom betrieben und haben eine hohe Leistung, um große Mengen Wasser oder Schaum zu fördern. Diese Pumpen müssen regelmäßig gewartet und getestet werden, damit sie im Notfall zuverlässig funktionieren."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "93f26a8f1b35",
+        "_uid": "fb4330f2beb9",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "a50fb66c54af",
+            "component": "section_column",
+            "icon": "fa-sprinkler",
+            "content": [
+              {
+                "_uid": "05a605bb0508",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Schnelle und wirksame Brandbekämpfung",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Liefert im Notfall schnell Wasser, Schaum oder andere Löschmittel, wesentlich für den Brandschutz in Industrieumgebungen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "40b444970da0",
+            "component": "section_column",
+            "icon": "fa-warehouse-alt",
+            "content": [
+              {
+                "_uid": "3640352a1352",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flexible Installation",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Geeignet für verschiedene Standorte wie Gebäude, Fabriken und Flughäfen; ausgelegt, um große Mengen Löschmittel über weite Strecken und Höhenunterschiede zu fördern."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "2eeb039a6fa1",
+            "component": "section_column",
+            "icon": "fa-bell-on",
+            "content": [
+              {
+                "_uid": "1e496c7b26a5",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Automatische Aktivierung",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Kopplung an Brandmeldesysteme ermöglicht die automatische Aktivierung im Notfall und sorgt für eine sofortige Reaktion bei einem Brand."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "8d601f7b4911",
+            "component": "section_column",
+            "icon": "fa-tools",
+            "content": [
+              {
+                "_uid": "caf5d25ec8e9",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Einfache Wartung",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Dank gut zugänglicher Bauteile und einer anwenderfreundlichen Konstruktion lassen sie sich leicht warten."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "a58dc6a18502",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "bd5f4b71ecb7",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "06e3f812e517",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Feuerlöschpumpensets: wichtige Komponenten für eine wirksame Brandbekämpfung"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Feuerlöschpumpensets sind wesentliche Komponenten des Brandschutzes in verschiedenen Industrieumgebungen. Sie bestehen aus einem Motor, einer Pumpe, einem Steuerungssystem und einer Saugleitung. Aufgabe eines Feuerlöschpumpensets ist es, im Brandfall schnell und wirksam Wasser, Schaum oder andere Löschmittel zu liefern."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Feuerlöschpumpensets werden in Gebäuden, Fabriken, Lagerhallen, Ölraffinerien, Flughäfen, Schiffen und an anderen Standorten mit hohem Brandrisiko installiert. Sie sind dafür ausgelegt, große Mengen Wasser oder Schaum über weite Strecken und Höhenunterschiede zu fördern. Die Pumpen können außerdem an Brandmeldesysteme gekoppelt werden, sodass sie im Notfall automatisch aktiviert werden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Wartung und Inspektionen von Feuerlöschpumpensets sollten regelmäßig durchgeführt werden, damit sie im Notfall zuverlässig funktionieren. Zu den Wartungsarbeiten gehören das Prüfen der Pumpe, der Austausch von Teilen bei Bedarf und die Sicherstellung der ordnungsgemäßen Funktion des Steuerungssystems."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Wichtig ist außerdem, das passende Feuerlöschpumpenset für den jeweiligen Standort und die jeweiligen Risiken zu wählen. Bei der Wahl sind Faktoren wie die Größe des Gebäudes, das Vorhandensein brennbarer Stoffe und die Entfernung zur nächsten Feuerwache zu berücksichtigen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "34058846ce4c",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "7bd99cf20dd0",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/segmenten-brandblus-2.webp",
+                  "alt": "Feuerlöschpumpen | Industrial Pump Group",
+                  "width": 500,
+                  "height": 334
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "619076ede442",
         "component": "rich_text",
         "content": {
           "type": "doc",
@@ -313,305 +477,401 @@
         }
       },
       {
-        "_uid": "4122781013e6",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-aeb.webp",
-          "alt": "Kundenlogo AEB",
-          "width": 387,
-          "height": 241
-        }
+        "_uid": "4479f0da6488",
+        "component": "logo_carousel",
+        "logos": [
+          {
+            "_uid": "69571f342452",
+            "component": "logo_item",
+            "name": "AEB Amsterdam",
+            "image": {
+              "filename": "/img/clients/aeb-amsterdam.webp",
+              "alt": "AEB Amsterdam",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "9fbd2fc7e187",
+            "component": "logo_item",
+            "name": "AkzoNobel",
+            "image": {
+              "filename": "/img/clients/akzonobel.webp",
+              "alt": "AkzoNobel",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "fe7b1dcf164a",
+            "component": "logo_item",
+            "name": "HVC",
+            "image": {
+              "filename": "/img/clients/hvc.webp",
+              "alt": "HVC",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "76c2fa88e8c8",
+            "component": "logo_item",
+            "name": "Petrogas",
+            "image": {
+              "filename": "/img/clients/petrogas.webp",
+              "alt": "Petrogas",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "bfc67b81eb35",
+            "component": "logo_item",
+            "name": "Tata Steel",
+            "image": {
+              "filename": "/img/clients/tata-steel.webp",
+              "alt": "Tata Steel",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "72073a150a74",
+            "component": "logo_item",
+            "name": "Waternet",
+            "image": {
+              "filename": "/img/clients/waternet.webp",
+              "alt": "Waternet",
+              "width": 280,
+              "height": 140
+            }
+          }
+        ]
       },
       {
-        "_uid": "dfb848e6b02f",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-akzonobel.webp",
-          "alt": "Kundenlogo AkzoNobel",
-          "width": 387,
-          "height": 241
-        }
+        "_uid": "ac6106a988d9",
+        "component": "section_row",
+        "layout": "carousel",
+        "columns": [
+          {
+            "_uid": "11a2b1ed09eb",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "83adcdbbbab5",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Hervorragende und zugängliche Kundenbetreuung bei jedem Kontakt!",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Der Einsatz ist perfekt und sehr serviceorientiert, sowohl telefonisch als auch bei geplanter Umsetzung und bei ungeplanten Störungen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Projektleiter RGR",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " bei einem Abfallentsorger in den Niederlanden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "f952bb70be4a",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "27ed58880619",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Hervorragende Erfahrung mit IPG: Professionalität, Qualität und proaktive Problemlösung!",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Arbeitsvorbereiter erlebe ich IPG als sehr professionell. Das Unternehmen strebt nach Qualität, denkt bei Verbesserungen mit und behebt Störungen schnell, um Stillstand zu minimieren."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Arbeitsvorbereiter Störungen",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " bei einem Wasserverband."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "c2919aa46f12",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "a2508f7f6396",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ein zuverlässiger Partner mit hervorragendem Service und kundenorientierter Beratung!",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ich erlebe IPG als sehr guten Partner, ein Unternehmen, das Service großschreibt und mit den Kunden mitdenkt und berät."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Arbeitsvorbereiter Technischer Dienst",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " bei einem Abfallverwerter in den Niederlanden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "8d35b834893e",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "776f1b7b630d",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Zuverlässige Pumpen für sicherheitskritische Anwendungen!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG liefert Feuerlöschpumpen in hoher Qualität, die im Notfall zuverlässig arbeiten. Die Produkte erfüllen alle Sicherheitsanforderungen und geben uns die Sicherheit, die wir brauchen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Leiter Sicherheit bei einem industriellen Produktionsstandort in den Niederlanden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "9a11a5ea8332",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "9ec157a79f3d",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Hervorragende Qualität und schnelle Reaktionszeit!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Feuerlöschpumpen von IPG sind sehr zuverlässig und erfüllen die strengen Anforderungen unserer Branche. Das Team von IPG unterstützt uns stets schnell, was für unsere Sicherheitsstandards wesentlich ist."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Sicherheitskoordinator bei einem Chemieunternehmen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "3c1ff22c634b",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-hvc.webp",
-          "alt": "Kundenlogo HVC",
-          "width": 387,
-          "height": 241
-        }
+        "_uid": "2ce25eef37c7",
+        "component": "cta_band",
+        "heading": "Unverbindlich Kontakt aufnehmen",
+        "text": "Wir beraten Sie gern zu Auswahl, Ersatz und Revision Ihrer Pumpe.",
+        "button_label": "Kontakt aufnehmen",
+        "button_link": {
+          "fieldtype": "multilink",
+          "linktype": "url",
+          "url": "/kontakt",
+          "cached_url": "/kontakt"
+        },
+        "variant": "primary"
       },
       {
-        "_uid": "0a1484cde77f",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-petrogas.webp",
-          "alt": "Kundenlogo Petrogas",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "a7f89093ede4",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-tatasteel.webp",
-          "alt": "Kundenlogo Tata Steel",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "305064537120",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-waternet.webp",
-          "alt": "Kundenlogo Waternet",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "3d6e1e873b97",
+        "_uid": "f07cf15d5bc7",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Hervorragende und zugängliche Kundenbetreuung bei jedem Kontakt!",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Der Einsatz ist perfekt und sehr serviceorientiert, sowohl telefonisch als auch bei geplanter Umsetzung und bei ungeplanten Störungen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Projektleiter RGR",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " bei einem Abfallentsorger in den Niederlanden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Hervorragende Erfahrung mit IPG: Professionalität, Qualität und proaktive Problemlösung!",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Arbeitsvorbereiter erlebe ich IPG als sehr professionell. Das Unternehmen strebt nach Qualität, denkt bei Verbesserungen mit und behebt Störungen schnell, um Stillstand zu minimieren."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Arbeitsvorbereiter Störungen",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " bei einem Wasserverband."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ein zuverlässiger Partner mit hervorragendem Service und kundenorientierter Beratung!",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ich erlebe IPG als sehr guten Partner, ein Unternehmen, das Service großschreibt und mit den Kunden mitdenkt und berät."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Arbeitsvorbereiter Technischer Dienst",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " bei einem Abfallverwerter in den Niederlanden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zuverlässige Pumpen für sicherheitskritische Anwendungen!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG liefert Feuerlöschpumpen in hoher Qualität, die im Notfall zuverlässig arbeiten. Die Produkte erfüllen alle Sicherheitsanforderungen und geben uns die Sicherheit, die wir brauchen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Leiter Sicherheit bei einem industriellen Produktionsstandort in den Niederlanden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Hervorragende Qualität und schnelle Reaktionszeit!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Feuerlöschpumpen von IPG sind sehr zuverlässig und erfüllen die strengen Anforderungen unserer Branche. Das Team von IPG unterstützt uns stets schnell, was für unsere Sicherheitsstandards wesentlich ist."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Sicherheitskoordinator bei einem Chemieunternehmen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 4
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Unverbindlich Kontakt aufnehmen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -646,126 +906,166 @@
         }
       },
       {
-        "_uid": "4b7e3b46f7bf",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-brandblus-endsuction.webp",
-          "alt": "End-Suction-Pumpe für die Löschwasserversorgung",
-          "width": 170,
-          "height": 107
-        }
+        "_uid": "2080b732e6a5",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "732e9b5bced7",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "af3901bb54a1",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-brandblus-endsuction.webp",
+                  "alt": "End-Suction-Pumpe für die Löschwasserversorgung",
+                  "width": 170,
+                  "height": 107
+                }
+              },
+              {
+                "_uid": "e37081c5c9d0",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über End-Suction-Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "eac5919bfe2c",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "2cfd8ee13378",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-brandblus-splitcase.webp",
+                  "alt": "Axial geteilte Pumpe für die Löschwasserversorgung",
+                  "width": 170,
+                  "height": 172
+                }
+              },
+              {
+                "_uid": "9f8fadd60021",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über axial geteilte Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "064859648900",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "e1abaaf6191a",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-brandblus-meertraps.webp",
+                  "alt": "Mehrstufige Pumpe für die Löschwasserversorgung",
+                  "width": 760,
+                  "height": 475
+                }
+              },
+              {
+                "_uid": "c299aec99516",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über mehrstufige Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "bd9f621ba52e",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "d264cc9eb025",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/homepage-brandblus-verticaleturbine.webp",
+                  "alt": "Vertikale Turbinenpumpe für die Löschwasserversorgung",
+                  "width": 55,
+                  "height": 271
+                }
+              },
+              {
+                "_uid": "ed7b62dd5e2f",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über vertikale Turbinenpumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "9e094493cd91",
+        "_uid": "0efebfc4d902",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über End-Suction-Pumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "81d5f023b5c1",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-brandblus-splitcase.webp",
-          "alt": "Axial geteilte Pumpe für die Löschwasserversorgung",
-          "width": 170,
-          "height": 172
-        }
-      },
-      {
-        "_uid": "bab4e83aa59a",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über axial geteilte Pumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "f263bf1dc8e2",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-brandblus-meertraps.webp",
-          "alt": "Mehrstufige Pumpe für die Löschwasserversorgung",
-          "width": 760,
-          "height": 475
-        }
-      },
-      {
-        "_uid": "840da5824e91",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über mehrstufige Pumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "f0b6368f2227",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-brandblus-verticaleturbine.webp",
-          "alt": "Vertikale Turbinenpumpe für die Löschwasserversorgung",
-          "width": 55,
-          "height": 271
-        }
-      },
-      {
-        "_uid": "e4676d768fd0",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über vertikale Turbinenpumpen lesen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -822,7 +1122,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Brauchen Sie Hilfe bei der Auswahl der richtigen Pumpe? Die Experten von IPG stehen Ihnen zur Verfügung. Rufen Sie uns unverbindlich an unter [[PLATZHALTER: Telefon]] oder schreiben Sie an [[PLATZHALTER: E-Mail]]."
+                  "text": "Brauchen Sie Hilfe bei der Auswahl der richtigen Pumpe? Die Experten von IPG stehen Ihnen zur Verfügung. Rufen Sie uns unverbindlich an unter +31 251 222 566 oder schreiben Sie an info@industrialpumps.nl."
                 }
               ]
             }
@@ -830,49 +1130,68 @@
         }
       },
       {
-        "_uid": "47fa11bf221c",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/segmenten-brandblus-3.webp",
-          "alt": "Häufig gestellte Fragen zu Feuerlöschpumpen | Industrial Pump Group",
-          "width": 500,
-          "height": 334
-        }
-      },
-      {
-        "_uid": "d344fa1234a0",
-        "component": "faq",
-        "heading": "Häufige Fragen",
-        "items": [
+        "_uid": "fb448627fe41",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
           {
-            "_uid": "915b25c71692",
-            "component": "faq_item",
-            "question": "Was ist eine Feuerlöschpumpe?",
-            "answer": "Eine Feuerlöschpumpe ist ein Gerät, das Wasser zu einem Feuerwehrschlauch oder einer Sprinkleranlage fördert, um einen Brand zu löschen."
+            "_uid": "8a5fb473d058",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "4930753b3281",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/segmenten-brandblus-3.webp",
+                  "alt": "Häufig gestellte Fragen zu Feuerlöschpumpen | Industrial Pump Group",
+                  "width": 500,
+                  "height": 334
+                }
+              }
+            ]
           },
           {
-            "_uid": "b2f1e6ae26ed",
-            "component": "faq_item",
-            "question": "Welche Arten von Feuerlöschpumpen gibt es?",
-            "answer": "Es gibt verschiedene Arten von Feuerlöschpumpen, darunter Kreiselpumpen, Verdrängerpumpen und Vakuumpumpen. Die Wahl der Pumpe hängt von der Anwendung und den Bedingungen ab."
-          },
-          {
-            "_uid": "d4c0456e0288",
-            "component": "faq_item",
-            "question": "Wofür wird eine Feuerlöschpumpe eingesetzt?",
-            "answer": "Feuerlöschpumpen werden dort eingesetzt, wo eine feste und gesicherte Löschwasserversorgung erforderlich ist. Typische Anwendungen sind:\nIndustrieanlagen und Fabriken\nLagerstandorte, Distributionszentren und Lagerhallen\nZweckbauten und Hochhäuser\nChemische und petrochemische Umgebungen\nInfrastruktur wie Tunnel und Parkhäuser\nEine Feuerlöschpumpe ist ein wesentlicher Bestandteil des gesamten Brandschutzsystems."
-          },
-          {
-            "_uid": "634427feb7a3",
-            "component": "faq_item",
-            "question": "Welche Faktoren sind bei der Auswahl einer Feuerlöschpumpe zu berücksichtigen?",
-            "answer": "Bei der Auswahl einer Feuerlöschpumpe sind Faktoren wie Größe und Art des Brandes, der Standort, die verfügbaren Wasserquellen und die gewünschte Löschleistung zu berücksichtigen."
-          },
-          {
-            "_uid": "6a96b7a028d4",
-            "component": "faq_item",
-            "question": "Brauche ich eine Genehmigung, um eine Feuerlöschpumpe zu installieren?",
-            "answer": "Die Anforderungen an Genehmigungen für die Installation von Feuerlöschpumpen unterscheiden sich je nach Standort und Gebäudetyp. Wenden Sie sich an die örtlichen Behörden, um zu klären, welche Genehmigungen erforderlich sind, bevor Sie eine Feuerlöschpumpe installieren."
+            "_uid": "bbec8b9e592d",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "fe9f0dee6762",
+                "component": "faq",
+                "heading": "Häufige Fragen",
+                "items": [
+                  {
+                    "_uid": "5935acc0577c",
+                    "component": "faq_item",
+                    "question": "Was ist eine Feuerlöschpumpe?",
+                    "answer": "Eine Feuerlöschpumpe ist ein Gerät, das Wasser zu einem Feuerwehrschlauch oder einer Sprinkleranlage fördert, um einen Brand zu löschen."
+                  },
+                  {
+                    "_uid": "e5559634f83f",
+                    "component": "faq_item",
+                    "question": "Welche Arten von Feuerlöschpumpen gibt es?",
+                    "answer": "Es gibt verschiedene Arten von Feuerlöschpumpen, darunter Kreiselpumpen, Verdrängerpumpen und Vakuumpumpen. Die Wahl der Pumpe hängt von der Anwendung und den Bedingungen ab."
+                  },
+                  {
+                    "_uid": "7d901d9dc65e",
+                    "component": "faq_item",
+                    "question": "Wofür wird eine Feuerlöschpumpe eingesetzt?",
+                    "answer": "Feuerlöschpumpen werden dort eingesetzt, wo eine feste und gesicherte Löschwasserversorgung erforderlich ist. Typische Anwendungen sind:\nIndustrieanlagen und Fabriken\nLagerstandorte, Distributionszentren und Lagerhallen\nZweckbauten und Hochhäuser\nChemische und petrochemische Umgebungen\nInfrastruktur wie Tunnel und Parkhäuser\nEine Feuerlöschpumpe ist ein wesentlicher Bestandteil des gesamten Brandschutzsystems."
+                  },
+                  {
+                    "_uid": "f12290d96135",
+                    "component": "faq_item",
+                    "question": "Welche Faktoren sind bei der Auswahl einer Feuerlöschpumpe zu berücksichtigen?",
+                    "answer": "Bei der Auswahl einer Feuerlöschpumpe sind Faktoren wie Größe und Art des Brandes, der Standort, die verfügbaren Wasserquellen und die gewünschte Löschleistung zu berücksichtigen."
+                  },
+                  {
+                    "_uid": "835e2f8053ad",
+                    "component": "faq_item",
+                    "question": "Brauche ich eine Genehmigung, um eine Feuerlöschpumpe zu installieren?",
+                    "answer": "Die Anforderungen an Genehmigungen für die Installation von Feuerlöschpumpen unterscheiden sich je nach Standort und Gebäudetyp. Wenden Sie sich an die örtlichen Behörden, um zu klären, welche Genehmigungen erforderlich sind, bevor Sie eine Feuerlöschpumpe installieren."
+                  }
+                ]
+              }
+            ]
           }
         ]
       }

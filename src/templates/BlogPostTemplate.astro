@@ -7,6 +7,7 @@ import PageHead from '../components/PageHead.astro';
 import RichTextHtml from '../components/RichTextHtml.astro';
 import RelatedLinks from '../storyblok/RelatedLinks.astro';
 import QuoteCta from '../components/QuoteCta.astro';
+import { hasOwnCta } from '../lib/page-cta';
 import Bloks from '../components/Bloks.astro';
 interface Props { story: PageStory<PageBlogPost>; site: Site }
 const { story, site } = Astro.props;
@@ -16,7 +17,7 @@ const date = fmtDate(story.first_published_at ?? story.created_at);
 <PageHead story={story} site={site} h1={c.h1 || story.name} intro={c.intro}>
   <p class="muted" style="margin-top:1rem">{c.author ? `Von ${c.author}` : ''}{c.author && date ? ' · ' : ''}{date && <time datetime={story.first_published_at ?? story.created_at}>{date}</time>}</p>
 </PageHead>
-<section class="section"><div class="wrap"><RichTextHtml doc={c.article} /></div></section>
+{c.article?.content?.length ? <section class="section"><div class="wrap"><RichTextHtml doc={c.article} /></div></section> : null}
 <Bloks bloks={c.body} site={site} />
 {c.related?.map((b) => <RelatedLinks blok={b} site={site} />)}
-<div class="wrap"><QuoteCta heading="Pumpe auslegen lassen" text="Senden Sie uns Typenschild oder Betriebsdaten." label="Angebot anfordern" href="/angebot" /></div>
+{!hasOwnCta(c) && <div class="wrap"><QuoteCta heading="Pumpe auslegen lassen" text="Senden Sie uns Typenschild oder Betriebsdaten." label="Angebot anfordern" href="/angebot" /></div>}

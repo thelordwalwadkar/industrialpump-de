@@ -15,314 +15,478 @@
     "topic_kind": "pumpentyp",
     "body": [
       {
-        "_uid": "81a5f45123be",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Drehkolbenpumpen sind Verdrängerpumpen, die Flüssigkeit mithilfe rotierender Kolben in einem Gehäuse fördern."
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
+        "_uid": "a58cc4e6a67e",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "606ee6571292",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "db5eb82a9660",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "Pharmaindustrie",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/branchen/pharmaindustrie",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
+                          "text": "Drehkolbenpumpen sind Verdrängerpumpen, die Flüssigkeit mithilfe rotierender Kolben in einem Gehäuse fördern."
                         }
                       ]
                     }
                   ]
-                },
-                {
-                  "type": "list_item",
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "f7f6e736fc5d",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "fcd6aa5082ea",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
                     {
-                      "type": "paragraph",
+                      "type": "bullet_list",
                       "content": [
                         {
-                          "type": "text",
-                          "text": "Lebensmittelindustrie",
-                          "marks": [
+                          "type": "list_item",
+                          "content": [
                             {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/branchen/lebensmittelindustrie",
-                                "linktype": "url"
-                              }
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Pharmaindustrie",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/branchen/pharmaindustrie",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Lebensmittelindustrie",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/branchen/lebensmittelindustrie",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Papierindustrie",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/branchen/papierindustrie",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Netzsch-Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/marken/netzsch",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
                             }
                           ]
                         }
                       ]
                     }
                   ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Papierindustrie",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/branchen/papierindustrie",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Netzsch-Pumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/marken/netzsch",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
                 }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Vorteile und Anwendungen von Drehkolbenpumpen: Effizienz, Vielseitigkeit und Eignung für viskose und verunreinigte Medien"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Drehkolbenpumpen sind eine Bauart der Verdrängerpumpe zum Fördern von Flüssigkeiten. Sie werden häufig wegen ihrer Leistungsfähigkeit in einer Vielzahl von Anwendungen gewählt. Ihre besondere Konstruktion macht sie geeignet zum Fördern von Flüssigkeiten mit hoher Viskosität und von Flüssigkeiten, die mit Klumpen oder Partikeln verunreinigt sind."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Drehkolbenpumpen sind in verschiedenen Größen und Bauformen erhältlich, darunter ein- oder mehrstufige Ausführungen, mit oder ohne internen Antrieb. Sie können in verschiedenen Branchen eingesetzt werden, zum Beispiel in der Öl- und Gasförderung, der Petrochemie, der Lebensmittel- und Getränkeindustrie sowie der Papier- und Zellstoffindustrie."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ein Vorteil von Drehkolbenpumpen ist ihr hoher Wirkungsgrad bei geringem Energieverbrauch und langer Lebensdauer. Außerdem sind sie leicht zu warten, da die wichtigsten Bauteile für Inspektion und Wartung einfach und schnell zugänglich sind."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Geeignet für hohe Viskosität und Verunreinigungen",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Gut geeignet für Flüssigkeiten mit hoher Viskosität und Partikeln, dank der Konstruktion mit rotierenden Kolben, die die Flüssigkeit effizient fördern."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Energieeffizienz",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Sehr effizient bei geringem Energieverbrauch, was zu niedrigeren Betriebskosten und mehr Nachhaltigkeit führt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Lange Lebensdauer und Zuverlässigkeit",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Langlebige Bauweise mit einfacher Wartung, die in verschiedenen industriellen Anwendungen lange Lebensdauer und Zuverlässigkeit bietet."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Vielseitige Einsatzmöglichkeiten",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Breit einsetzbar in Branchen wie Öl und Gas, Petrochemie, Lebensmittel und Getränke sowie Papier und Zellstoff, dank unterschiedlicher Bauformen und Leistungsklassen."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Leistungsfähige und vielseitige Verdrängerpumpen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Drehkolbenpumpen bestehen aus einem Gehäuse und zwei oder mehr rotierenden Kolben, die die Flüssigkeit durch die Pumpe bewegen. Sie eignen sich gut zum Fördern von Flüssigkeiten mit hoher Viskosität und von Flüssigkeiten, die mit Klumpen oder Partikeln verunreinigt sind. Der Grund: Die Kolben drehen sich im Gehäuse und bewegen die Flüssigkeit so, ohne dass zwischen Pumpe und Flüssigkeit Reibung entsteht."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Pumpen sind in verschiedenen Größen und Bauformen erhältlich und können von einem internen oder externen Motor angetrieben werden. Sie werden häufig in der Öl- und Gasförderung, der Petrochemie, der Lebensmittel- und Getränkeindustrie sowie der Papier- und Zellstoffindustrie eingesetzt. Drehkolbenpumpen haben eine lange Lebensdauer und benötigen wenig Wartung, was sie sehr wirtschaftlich macht. Sie sind außerdem sehr effizient und verbrauchen wenig Energie, sodass sie eine nachhaltige Option zum Fördern von Flüssigkeiten darstellen."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Funktionsweise und Vorteile von Drehkolbenpumpen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Drehkolbenpumpen sind eine Bauart der Verdrängerpumpe, die Flüssigkeiten mit rotierenden Kolben in einem Gehäuse fördert. Sie eignen sich besonders zum Fördern von Flüssigkeiten mit hoher Viskosität und Verunreinigungen und werden in verschiedenen Branchen eingesetzt. Ein Vorteil von Drehkolbenpumpen ist ihr hoher Wirkungsgrad bei geringem Energieverbrauch. Außerdem sind sie langlebig und haben eine lange Lebensdauer. Drehkolbenpumpen sind zudem leicht zu warten, da wichtige Bauteile für Inspektion und Wartung schnell zugänglich sind. Ihre Vielseitigkeit und Effizienz machen Drehkolbenpumpen zu einer verbreiteten Wahl zum Fördern von Flüssigkeiten in verschiedenen Anwendungen."
-                }
-              ]
-            }
-          ]
-        }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "e6ccdac66f3d",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-lobbenpompen-2.webp",
-          "alt": "Drehkolbenpumpe mit Edelstahlgehäuse zum sicheren Fördern viskoser Flüssigkeiten in industriellen Anwendungen",
-          "width": 1000,
-          "height": 667
-        }
+        "_uid": "a551f020924b",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "56b8dbe0c9f9",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "7911583f45e5",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Vorteile und Anwendungen von Drehkolbenpumpen: Effizienz, Vielseitigkeit und Eignung für viskose und verunreinigte Medien"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "d52631c58d9f",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "830e30b3310b",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Drehkolbenpumpen sind eine Bauart der Verdrängerpumpe zum Fördern von Flüssigkeiten. Sie werden häufig wegen ihrer Leistungsfähigkeit in einer Vielzahl von Anwendungen gewählt. Ihre besondere Konstruktion macht sie geeignet zum Fördern von Flüssigkeiten mit hoher Viskosität und von Flüssigkeiten, die mit Klumpen oder Partikeln verunreinigt sind."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Drehkolbenpumpen sind in verschiedenen Größen und Bauformen erhältlich, darunter ein- oder mehrstufige Ausführungen, mit oder ohne internen Antrieb. Sie können in verschiedenen Branchen eingesetzt werden, zum Beispiel in der Öl- und Gasförderung, der Petrochemie, der Lebensmittel- und Getränkeindustrie sowie der Papier- und Zellstoffindustrie."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ein Vorteil von Drehkolbenpumpen ist ihr hoher Wirkungsgrad bei geringem Energieverbrauch und langer Lebensdauer. Außerdem sind sie leicht zu warten, da die wichtigsten Bauteile für Inspektion und Wartung einfach und schnell zugänglich sind."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "0044a3b3e494",
+        "_uid": "fa68a80acf8d",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "1f2e021e109e",
+            "component": "section_column",
+            "icon": "fa-tint",
+            "content": [
+              {
+                "_uid": "c25aac22f269",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Geeignet für hohe Viskosität und Verunreinigungen",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Gut geeignet für Flüssigkeiten mit hoher Viskosität und Partikeln, dank der Konstruktion mit rotierenden Kolben, die die Flüssigkeit effizient fördern."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "cbc0cf654afa",
+            "component": "section_column",
+            "icon": "fa-bolt",
+            "content": [
+              {
+                "_uid": "7eedc1711398",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Energieeffizienz",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Sehr effizient bei geringem Energieverbrauch, was zu niedrigeren Betriebskosten und mehr Nachhaltigkeit führt."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "dc81f3dbc243",
+            "component": "section_column",
+            "icon": "fa-tools",
+            "content": [
+              {
+                "_uid": "f6ad8906b38d",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Lange Lebensdauer und Zuverlässigkeit",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Langlebige Bauweise mit einfacher Wartung, die in verschiedenen industriellen Anwendungen lange Lebensdauer und Zuverlässigkeit bietet."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "35664d061658",
+            "component": "section_column",
+            "icon": "fa-industry-alt",
+            "content": [
+              {
+                "_uid": "e386614f2926",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Vielseitige Einsatzmöglichkeiten",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Breit einsetzbar in Branchen wie Öl und Gas, Petrochemie, Lebensmittel und Getränke sowie Papier und Zellstoff, dank unterschiedlicher Bauformen und Leistungsklassen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "5067f05e123e",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "23a054f5c985",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "acb06be9d4f3",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Leistungsfähige und vielseitige Verdrängerpumpen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Drehkolbenpumpen bestehen aus einem Gehäuse und zwei oder mehr rotierenden Kolben, die die Flüssigkeit durch die Pumpe bewegen. Sie eignen sich gut zum Fördern von Flüssigkeiten mit hoher Viskosität und von Flüssigkeiten, die mit Klumpen oder Partikeln verunreinigt sind. Der Grund: Die Kolben drehen sich im Gehäuse und bewegen die Flüssigkeit so, ohne dass zwischen Pumpe und Flüssigkeit Reibung entsteht."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Pumpen sind in verschiedenen Größen und Bauformen erhältlich und können von einem internen oder externen Motor angetrieben werden. Sie werden häufig in der Öl- und Gasförderung, der Petrochemie, der Lebensmittel- und Getränkeindustrie sowie der Papier- und Zellstoffindustrie eingesetzt. Drehkolbenpumpen haben eine lange Lebensdauer und benötigen wenig Wartung, was sie sehr wirtschaftlich macht. Sie sind außerdem sehr effizient und verbrauchen wenig Energie, sodass sie eine nachhaltige Option zum Fördern von Flüssigkeiten darstellen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Funktionsweise und Vorteile von Drehkolbenpumpen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Drehkolbenpumpen sind eine Bauart der Verdrängerpumpe, die Flüssigkeiten mit rotierenden Kolben in einem Gehäuse fördert. Sie eignen sich besonders zum Fördern von Flüssigkeiten mit hoher Viskosität und Verunreinigungen und werden in verschiedenen Branchen eingesetzt. Ein Vorteil von Drehkolbenpumpen ist ihr hoher Wirkungsgrad bei geringem Energieverbrauch. Außerdem sind sie langlebig und haben eine lange Lebensdauer. Drehkolbenpumpen sind zudem leicht zu warten, da wichtige Bauteile für Inspektion und Wartung schnell zugänglich sind. Ihre Vielseitigkeit und Effizienz machen Drehkolbenpumpen zu einer verbreiteten Wahl zum Fördern von Flüssigkeiten in verschiedenen Anwendungen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "f7c83ce68e01",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "8904d563f346",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-lobbenpompen-2.webp",
+                  "alt": "Drehkolbenpumpe mit Edelstahlgehäuse zum sicheren Fördern viskoser Flüssigkeiten in industriellen Anwendungen",
+                  "width": 1000,
+                  "height": 667
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "5ca62a54dace",
         "component": "rich_text",
         "content": {
           "type": "doc",
@@ -343,263 +507,359 @@
         }
       },
       {
-        "_uid": "bd424ee757e2",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-aeb.webp",
-          "alt": "Kundenlogo AEB",
-          "width": 387,
-          "height": 241
-        }
+        "_uid": "393a6cc3bbe8",
+        "component": "logo_carousel",
+        "logos": [
+          {
+            "_uid": "f47b7f88076c",
+            "component": "logo_item",
+            "name": "AEB Amsterdam",
+            "image": {
+              "filename": "/img/clients/aeb-amsterdam.webp",
+              "alt": "AEB Amsterdam",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "7e0ab9109215",
+            "component": "logo_item",
+            "name": "AkzoNobel",
+            "image": {
+              "filename": "/img/clients/akzonobel.webp",
+              "alt": "AkzoNobel",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "87a290e43ef8",
+            "component": "logo_item",
+            "name": "HVC",
+            "image": {
+              "filename": "/img/clients/hvc.webp",
+              "alt": "HVC",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "a3cdf3be0608",
+            "component": "logo_item",
+            "name": "Petrogas",
+            "image": {
+              "filename": "/img/clients/petrogas.webp",
+              "alt": "Petrogas",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "cb47c88b9ebc",
+            "component": "logo_item",
+            "name": "Tata Steel",
+            "image": {
+              "filename": "/img/clients/tata-steel.webp",
+              "alt": "Tata Steel",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "4e339d0d8996",
+            "component": "logo_item",
+            "name": "Waternet",
+            "image": {
+              "filename": "/img/clients/waternet.webp",
+              "alt": "Waternet",
+              "width": 280,
+              "height": 140
+            }
+          }
+        ]
       },
       {
-        "_uid": "3d9780494557",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-akzonobel.webp",
-          "alt": "Kundenlogo AkzoNobel",
-          "width": 387,
-          "height": 241
-        }
+        "_uid": "389578d69437",
+        "component": "section_row",
+        "layout": "carousel",
+        "columns": [
+          {
+            "_uid": "544d6f94e771",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "a7d7be86c24e",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Hervorragende und zugängliche Kundenbetreuung bei jedem Kontakt!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Der Einsatz ist perfekt und sehr serviceorientiert, sowohl telefonisch als auch bei geplanter Umsetzung und bei ungeplanten Störungen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Projektleiter RGR bei einem Abfallentsorger in den Niederlanden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "0bb0ca5bdc6d",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "4be70e1bbeed",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Hervorragende Erfahrung mit IPG: Professionalität, Qualität und proaktive Problemlösung!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Arbeitsvorbereiter erlebe ich IPG als sehr professionell. Das Unternehmen strebt nach Qualität, denkt bei Verbesserungen mit und behebt Störungen schnell, um Stillstand zu minimieren."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Arbeitsvorbereiter Störungen bei einem Wasserverband."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "d4fdc4e5e5c5",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "b20ddfbb038e",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ein zuverlässiger Partner mit hervorragendem Service und kundenorientierter Beratung!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ich erlebe IPG als sehr guten Partner, ein Unternehmen, das Service großschreibt und mit den Kunden mitdenkt und berät."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Arbeitsvorbereiter Technischer Dienst bei einem Abfallverwerter in den Niederlanden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "d3e97231969b",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "e049f744aaa6",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Zuverlässige und effiziente Drehkolbenpumpen für hygienische Prozesse!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Drehkolbenpumpen von IPG passen sehr gut zu unseren Anwendungen in der Lebensmittelindustrie. Sie sind effizient, hygienisch und einfach zu reinigen, was für unseren Produktionsprozess wesentlich ist."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Operations Manager bei einem Lebensmittelunternehmen in den Niederlanden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "bd11dc4eea43",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "844900a73965",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Robuste Bauweise und vielseitige Einsatzmöglichkeiten!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Drehkolbenpumpen von IPG sind sehr vielseitig und liefern in verschiedenen Prozessen gute Leistung. Ihre robuste Bauweise macht sie auch bei intensivem Einsatz zuverlässig."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Projektleiter bei einem chemischen Produktionsbetrieb."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "6c4e80c148ed",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-hvc.webp",
-          "alt": "Kundenlogo HVC",
-          "width": 387,
-          "height": 241
-        }
+        "_uid": "d43ed18350bf",
+        "component": "cta_band",
+        "heading": "Unverbindlich Kontakt aufnehmen",
+        "text": "Wir beraten Sie gern zu Auswahl, Ersatz und Revision Ihrer Pumpe.",
+        "button_label": "Kontakt aufnehmen",
+        "button_link": {
+          "fieldtype": "multilink",
+          "linktype": "url",
+          "url": "/kontakt",
+          "cached_url": "/kontakt"
+        },
+        "variant": "primary"
       },
       {
-        "_uid": "a4e447e6c0b2",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-petrogas.webp",
-          "alt": "Kundenlogo Petrogas",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "c4b64af5aa4a",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-tatasteel.webp",
-          "alt": "Kundenlogo Tata Steel",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "526fda4371d8",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-waternet.webp",
-          "alt": "Kundenlogo Waternet",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "0ab79cc5298b",
+        "_uid": "348cd41b4450",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Hervorragende und zugängliche Kundenbetreuung bei jedem Kontakt!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Der Einsatz ist perfekt und sehr serviceorientiert, sowohl telefonisch als auch bei geplanter Umsetzung und bei ungeplanten Störungen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Projektleiter RGR bei einem Abfallentsorger in den Niederlanden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Hervorragende Erfahrung mit IPG: Professionalität, Qualität und proaktive Problemlösung!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Arbeitsvorbereiter erlebe ich IPG als sehr professionell. Das Unternehmen strebt nach Qualität, denkt bei Verbesserungen mit und behebt Störungen schnell, um Stillstand zu minimieren."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Arbeitsvorbereiter Störungen bei einem Wasserverband."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ein zuverlässiger Partner mit hervorragendem Service und kundenorientierter Beratung!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ich erlebe IPG als sehr guten Partner, ein Unternehmen, das Service großschreibt und mit den Kunden mitdenkt und berät."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Arbeitsvorbereiter Technischer Dienst bei einem Abfallverwerter in den Niederlanden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zuverlässige und effiziente Drehkolbenpumpen für hygienische Prozesse!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Drehkolbenpumpen von IPG passen sehr gut zu unseren Anwendungen in der Lebensmittelindustrie. Sie sind effizient, hygienisch und einfach zu reinigen, was für unseren Produktionsprozess wesentlich ist."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Operations Manager bei einem Lebensmittelunternehmen in den Niederlanden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Robuste Bauweise und vielseitige Einsatzmöglichkeiten!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Drehkolbenpumpen von IPG sind sehr vielseitig und liefern in verschiedenen Prozessen gute Leistung. Ihre robuste Bauweise macht sie auch bei intensivem Einsatz zuverlässig."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Projektleiter bei einem chemischen Produktionsbetrieb."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 4
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Unverbindlich Kontakt aufnehmen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -718,43 +978,62 @@
         }
       },
       {
-        "_uid": "76b922fb75a4",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-lobbenpompen-3.webp",
-          "alt": "Drehkolbenpumpenanlage zum Fördern dickflüssiger und empfindlicher Flüssigkeiten ohne Schädigung des Mediums",
-          "width": 1000,
-          "height": 667
-        }
-      },
-      {
-        "_uid": "385b6b1ba06e",
-        "component": "faq",
-        "heading": "Häufige Fragen",
-        "items": [
+        "_uid": "9e007b26b718",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
           {
-            "_uid": "30ba086cdd10",
-            "component": "faq_item",
-            "question": "Wofür werden Drehkolbenpumpen eingesetzt?",
-            "answer": "Drehkolbenpumpen werden zum Fördern von Flüssigkeiten in einer Vielzahl industrieller Anwendungen eingesetzt, etwa in der Öl- und Gasförderung, der Petrochemie, der Lebensmittel- und Getränkeindustrie sowie der Papier- und Zellstoffindustrie."
+            "_uid": "9720f71661ac",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "15b935d23dbd",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-lobbenpompen-3.webp",
+                  "alt": "Drehkolbenpumpenanlage zum Fördern dickflüssiger und empfindlicher Flüssigkeiten ohne Schädigung des Mediums",
+                  "width": 1000,
+                  "height": 667
+                }
+              }
+            ]
           },
           {
-            "_uid": "54bcf10b0e90",
-            "component": "faq_item",
-            "question": "Sind Drehkolbenpumpen zum Fördern von Flüssigkeiten mit hoher Viskosität geeignet?",
-            "answer": "Ja, Drehkolbenpumpen eignen sich gut zum Fördern von Flüssigkeiten mit hoher Viskosität und von Flüssigkeiten, die mit Klumpen oder Partikeln verunreinigt sind."
-          },
-          {
-            "_uid": "e17806c790ac",
-            "component": "faq_item",
-            "question": "Wie viel Wartung benötigen Drehkolbenpumpen?",
-            "answer": "Drehkolbenpumpen benötigen wenig Wartung und sind für Inspektion und Wartung gut zugänglich, wobei die wichtigsten Bauteile einfach und schnell erreichbar sind."
-          },
-          {
-            "_uid": "31c1cd26bc2c",
-            "component": "faq_item",
-            "question": "Wie werden Drehkolbenpumpen angetrieben?",
-            "answer": "Drehkolbenpumpen können mit einem Elektromotor, einem Verbrennungsmotor oder einem anderen Antrieb betrieben werden. Wichtig ist, je nach Anwendung und Umgebung den passenden Antrieb zu wählen."
+            "_uid": "08463ea5a8a4",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "13e0e6543396",
+                "component": "faq",
+                "heading": "Häufige Fragen",
+                "items": [
+                  {
+                    "_uid": "33cef3109256",
+                    "component": "faq_item",
+                    "question": "Wofür werden Drehkolbenpumpen eingesetzt?",
+                    "answer": "Drehkolbenpumpen werden zum Fördern von Flüssigkeiten in einer Vielzahl industrieller Anwendungen eingesetzt, etwa in der Öl- und Gasförderung, der Petrochemie, der Lebensmittel- und Getränkeindustrie sowie der Papier- und Zellstoffindustrie."
+                  },
+                  {
+                    "_uid": "b1a1b1c3a8a4",
+                    "component": "faq_item",
+                    "question": "Sind Drehkolbenpumpen zum Fördern von Flüssigkeiten mit hoher Viskosität geeignet?",
+                    "answer": "Ja, Drehkolbenpumpen eignen sich gut zum Fördern von Flüssigkeiten mit hoher Viskosität und von Flüssigkeiten, die mit Klumpen oder Partikeln verunreinigt sind."
+                  },
+                  {
+                    "_uid": "1a1a29254f53",
+                    "component": "faq_item",
+                    "question": "Wie viel Wartung benötigen Drehkolbenpumpen?",
+                    "answer": "Drehkolbenpumpen benötigen wenig Wartung und sind für Inspektion und Wartung gut zugänglich, wobei die wichtigsten Bauteile einfach und schnell erreichbar sind."
+                  },
+                  {
+                    "_uid": "174ac9c7d640",
+                    "component": "faq_item",
+                    "question": "Wie werden Drehkolbenpumpen angetrieben?",
+                    "answer": "Drehkolbenpumpen können mit einem Elektromotor, einem Verbrennungsmotor oder einem anderen Antrieb betrieben werden. Wichtig ist, je nach Anwendung und Umgebung den passenden Antrieb zu wählen."
+                  }
+                ]
+              }
+            ]
           }
         ]
       }

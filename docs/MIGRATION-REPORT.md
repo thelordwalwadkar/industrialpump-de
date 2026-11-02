@@ -5,12 +5,12 @@
 ## Noch nicht übersetzt
 
 ## An bestehende Seiten angehängt
-- /pumpen (+2 Bloks)
-- /pumpen/marken (+24 Bloks)
-- /pumpen/marken/ebara (+23 Bloks)
-- /pumpen/marken/flygt (+62 Bloks)
-- /pumpen/marken/lowara (+42 Bloks)
-- /pumpen/marken/saer (+62 Bloks)
+- /pumpen (+3 Bloks)
+- /pumpen/marken (+6 Bloks)
+- /pumpen/marken/ebara (+8 Bloks)
+- /pumpen/marken/flygt (+13 Bloks)
+- /pumpen/marken/lowara (+13 Bloks)
+- /pumpen/marken/saer (+11 Bloks)
 
 ## Bestehende Seiten, NL-Text nicht übernommen
 - / (Startseite: Aufbau nach Kundenvorgabe vom 2. Nov 2026, niederländischer Text nicht angehängt)

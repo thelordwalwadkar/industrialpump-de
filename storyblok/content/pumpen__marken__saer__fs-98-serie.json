@@ -12,370 +12,449 @@
     "seo_description": "SAER FS-98 Brunnenpumpe mit dynamischem Laufradpaket: bis 12 m³/h, bis 7,5 kW, für Bohrlöcher ab 104 mm. Jetzt kostenlose Beratung anfordern.",
     "intro": "Die SAER FS-98 ist eine Brunnenpumpe mit dynamischem Laufradpaket, die Sandgehalte bis 300 g/m³ zulässt und in Bohrlöchern ab 104 mm Durchmesser eingesetzt wird. Sie dient dem Heben, der Druckerhöhung und der Verteilung in Bau-, Landwirtschafts- und Industrieanlagen.",
     "series_name": "FS-98",
+    "image": {
+      "filename": "/img/nl/pomptypes-merk-saer-saer-fs98.webp",
+      "alt": "SAER FS-98: Brunnenpumpe mit dynamischem Laufradpaket",
+      "width": 500,
+      "height": 500
+    },
     "pump_type": "tauchmotorpumpen",
     "use_case_line": "Brunnenpumpe mit dynamischem Laufradpaket",
     "body": [
       {
-        "_uid": "e2559029fd47",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 4
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Brunnenpumpe mit dynamischem Laufradpaket SAER FS-98"
+        "_uid": "2e857e91dd97",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "488466c437b4",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "822971e1a989",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 4
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Brunnenpumpe mit dynamischem Laufradpaket SAER FS-98"
+                        }
+                      ]
+                    }
+                  ]
                 }
-              ]
-            }
-          ]
-        }
+              },
+              {
+                "_uid": "a0f2d872135d",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-saer-saer-fs98.webp",
+                  "alt": "SAER FS 98 Unterwasserpumpe in Edelstahlausführung für tiefe Bohrlochanwendungen",
+                  "width": 500,
+                  "height": 500
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "63586e9791a7",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "bd8da8b1fd69",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Robuste SAER FS98 Brunnenpumpe"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die SAER FS98 Brunnenpumpe mit dynamischem Laufradpaket lässt den Durchgang von Sand bis 300 g/m³ zu, ist für Bohrlöcher mit einem Durchmesser ab 104 mm geeignet und dient zum Heben, zur Druckerhöhung und zur Verteilung in Bau-, Landwirtschafts- und Industriesystemen. Auch für horizontalen Betrieb geeignet."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "_uid": "2480a7273a06",
+                "component": "data_table",
+                "table": {
+                  "fieldtype": "table",
+                  "thead": [
+                    {
+                      "_uid": "80e04c3a7c6a",
+                      "component": "_table_head",
+                      "value": "Maximaler Förderstrom"
+                    },
+                    {
+                      "_uid": "6e8dbdbd4adb",
+                      "component": "_table_head",
+                      "value": ""
+                    },
+                    {
+                      "_uid": "b8bd93cdbffc",
+                      "component": "_table_head",
+                      "value": "12"
+                    },
+                    {
+                      "_uid": "b04162cc35e1",
+                      "component": "_table_head",
+                      "value": "m³/h"
+                    }
+                  ],
+                  "tbody": [
+                    {
+                      "_uid": "84de5d094609",
+                      "component": "_table_row",
+                      "body": [
+                        {
+                          "_uid": "0f747fc21197",
+                          "component": "_table_col",
+                          "value": "Maximale Förderhöhe"
+                        },
+                        {
+                          "_uid": "cb123757596f",
+                          "component": "_table_col",
+                          "value": ""
+                        },
+                        {
+                          "_uid": "a85434ffc381",
+                          "component": "_table_col",
+                          "value": "390"
+                        },
+                        {
+                          "_uid": "dac69167f42b",
+                          "component": "_table_col",
+                          "value": "m"
+                        }
+                      ]
+                    },
+                    {
+                      "_uid": "9b859157921a",
+                      "component": "_table_row",
+                      "body": [
+                        {
+                          "_uid": "f2297d614aab",
+                          "component": "_table_col",
+                          "value": "Maximale Leistung"
+                        },
+                        {
+                          "_uid": "772a929b6cd5",
+                          "component": "_table_col",
+                          "value": ""
+                        },
+                        {
+                          "_uid": "34324af6d23c",
+                          "component": "_table_col",
+                          "value": "7,5"
+                        },
+                        {
+                          "_uid": "d638a07a6d9a",
+                          "component": "_table_col",
+                          "value": "kW"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "_uid": "c1eec48938a2",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Wenn Sie Wasser aus einem Brunnen oder einer Quelle mit großer Tiefe fördern möchten, ist eine Pumpe der Baureihe SAER FS98 eine gute Wahl. Diese Pumpe hat nämlich eine Eintauchtiefe von 150 Metern, sodass sie so tief in die zu fördernde Flüssigkeit eintauchen kann, wie Sie es benötigen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Pumpe mit einer Förderleistung von 12.000 Litern pro Stunde eignet sich für industrielle Anwendungen, aber auch zum Leerpumpen eines (überfluteten) Kellers oder zum Fördern von Wasser für Garten oder Springbrunnen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "f5a46cc3e90a",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-saer-saer-fs98.webp",
-          "alt": "SAER FS 98 Unterwasserpumpe in Edelstahlausführung für tiefe Bohrlochanwendungen",
-          "width": 500,
-          "height": 500
-        }
+        "_uid": "082a02faeb08",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "c03668685bab",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "9166e073f626",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ausgelegt für Feststoffpartikel"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Pumpe, Pumpenwelle und Rückschlagventil dieser Baureihe bestehen aus Edelstahl. Laufräder und Diffusoren bestehen aus Technopolymer. Dadurch eignet sich die Pumpe für saubere und nicht explosive Flüssigkeiten, kann bei Bedarf aber einen geringen Sandgehalt fördern."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die maximale Flüssigkeitstemperatur, die die Brunnenpumpe verträgt, beträgt 40 Grad Celsius. Die Pumpe hat eine maximale Förderhöhe von 56 Metern."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "a041aa8742cf",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "65753c9fbcbd",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Werkstoffe"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Stahl G20Mn5 1.6220"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Messing"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Edelstahl AISI 304"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "378667045af8",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "e650a087ded5",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Anwendungen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Bau- und Industrieanlagen"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Zulauf von Autoklaven und Behältern"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Waschanlagen"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Bewässerungssysteme."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Fördert aus Brunnen mit einem Mindestdurchmesser von 104 mm, aus Tanks oder natürlichen Becken."
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "59d027dc4eb4",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Robuste SAER FS98 Brunnenpumpe"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die SAER FS98 Brunnenpumpe mit dynamischem Laufradpaket lässt den Durchgang von Sand bis 300 g/m³ zu, ist für Bohrlöcher mit einem Durchmesser ab 104 mm geeignet und dient zum Heben, zur Druckerhöhung und zur Verteilung in Bau-, Landwirtschafts- und Industriesystemen. Auch für horizontalen Betrieb geeignet."
-                }
-              ]
-            }
-          ]
-        }
+        "_uid": "846ed6176771",
+        "component": "cta_band",
+        "heading": "Unverbindlich Kontakt aufnehmen",
+        "text": "Wir beraten Sie gern zu Auswahl, Ersatz und Revision Ihrer Pumpe.",
+        "button_label": "Kontakt aufnehmen",
+        "button_link": {
+          "fieldtype": "multilink",
+          "linktype": "url",
+          "url": "/kontakt",
+          "cached_url": "/kontakt"
+        },
+        "variant": "primary"
       },
       {
-        "_uid": "2d5db51fe5b5",
-        "component": "data_table",
-        "table": {
-          "fieldtype": "table",
-          "thead": [
-            {
-              "_uid": "af054406d622",
-              "component": "_table_head",
-              "value": "Maximaler Förderstrom"
-            },
-            {
-              "_uid": "fbe415bf5c4e",
-              "component": "_table_head",
-              "value": ""
-            },
-            {
-              "_uid": "84324a9cce1a",
-              "component": "_table_head",
-              "value": "12"
-            },
-            {
-              "_uid": "c9f5e5ee1a1d",
-              "component": "_table_head",
-              "value": "m³/h"
-            }
-          ],
-          "tbody": [
-            {
-              "_uid": "665de9254e65",
-              "component": "_table_row",
-              "body": [
-                {
-                  "_uid": "441576b99af1",
-                  "component": "_table_col",
-                  "value": "Maximale Förderhöhe"
-                },
-                {
-                  "_uid": "72e1d693fbd5",
-                  "component": "_table_col",
-                  "value": ""
-                },
-                {
-                  "_uid": "b5085ab8bab5",
-                  "component": "_table_col",
-                  "value": "390"
-                },
-                {
-                  "_uid": "ab93fac331b8",
-                  "component": "_table_col",
-                  "value": "m"
-                }
-              ]
-            },
-            {
-              "_uid": "ef389407151d",
-              "component": "_table_row",
-              "body": [
-                {
-                  "_uid": "78075c83f151",
-                  "component": "_table_col",
-                  "value": "Maximale Leistung"
-                },
-                {
-                  "_uid": "5dd61120873d",
-                  "component": "_table_col",
-                  "value": ""
-                },
-                {
-                  "_uid": "dfb657f33ba2",
-                  "component": "_table_col",
-                  "value": "7,5"
-                },
-                {
-                  "_uid": "cd734c63f1da",
-                  "component": "_table_col",
-                  "value": "kW"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "11afe57408d4",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Wenn Sie Wasser aus einem Brunnen oder einer Quelle mit großer Tiefe fördern möchten, ist eine Pumpe der Baureihe SAER FS98 eine gute Wahl. Diese Pumpe hat nämlich eine Eintauchtiefe von 150 Metern, sodass sie so tief in die zu fördernde Flüssigkeit eintauchen kann, wie Sie es benötigen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Pumpe mit einer Förderleistung von 12.000 Litern pro Stunde eignet sich für industrielle Anwendungen, aber auch zum Leerpumpen eines (überfluteten) Kellers oder zum Fördern von Wasser für Garten oder Springbrunnen."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ausgelegt für Feststoffpartikel"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Pumpe, Pumpenwelle und Rückschlagventil dieser Baureihe bestehen aus Edelstahl. Laufräder und Diffusoren bestehen aus Technopolymer. Dadurch eignet sich die Pumpe für saubere und nicht explosive Flüssigkeiten, kann bei Bedarf aber einen geringen Sandgehalt fördern."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die maximale Flüssigkeitstemperatur, die die Brunnenpumpe verträgt, beträgt 40 Grad Celsius. Die Pumpe hat eine maximale Förderhöhe von 56 Metern."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Werkstoffe"
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Stahl G20Mn5 1.6220"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Messing"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Edelstahl AISI 304"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Anwendungen"
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Bau- und Industrieanlagen"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Zulauf von Autoklaven und Behältern"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Waschanlagen"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Bewässerungssysteme."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Fördert aus Brunnen mit einem Mindestdurchmesser von 104 mm, aus Tanks oder natürlichen Becken."
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 4
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Unverbindlich Kontakt aufnehmen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "70d30696378e",
+        "_uid": "d9d0a544892e",
         "component": "image_block",
         "image": {
           "filename": "/img/nl/merken-0025-saer.webp",
@@ -385,7 +464,7 @@
         }
       },
       {
-        "_uid": "df5c46d35a14",
+        "_uid": "876df96ec268",
         "component": "rich_text",
         "content": {
           "type": "doc",

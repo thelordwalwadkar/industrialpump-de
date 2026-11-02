@@ -15,339 +15,487 @@
     "topic_kind": "pumpentyp",
     "body": [
       {
-        "_uid": "a5a05c0dd8d9",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Pumpen für den Haushalt werden häufig zum Fördern von Wasser, Abwasser und anderen Flüssigkeiten in und um das Haus eingesetzt, zum Beispiel im Garten."
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
+        "_uid": "c279e00abcd2",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "85ac836242ef",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "8b2eba5cf957",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "Brunnenpumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/pumpentypen/brunnenpumpen",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
+                          "text": "Pumpen für den Haushalt werden häufig zum Fördern von Wasser, Abwasser und anderen Flüssigkeiten in und um das Haus eingesetzt, zum Beispiel im Garten."
                         }
                       ]
                     }
                   ]
-                },
-                {
-                  "type": "list_item",
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "49ae9633afb8",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ffbe8d7f5d1b",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
                     {
-                      "type": "paragraph",
+                      "type": "bullet_list",
                       "content": [
                         {
-                          "type": "text",
-                          "text": "Kreiselpumpen",
-                          "marks": [
+                          "type": "list_item",
+                          "content": [
                             {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/pumpentypen/kreiselpumpen",
-                                "linktype": "url"
-                              }
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Brunnenpumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/pumpentypen/brunnenpumpen",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Kreiselpumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/pumpentypen/kreiselpumpen",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Tauchmotorpumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/pumpentypen/tauchmotorpumpen",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Entwässerung",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/anwendungen/entwaesserung",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
                             }
                           ]
                         }
                       ]
                     }
                   ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Tauchmotorpumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/pumpentypen/tauchmotorpumpen",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Entwässerung",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/anwendungen/entwaesserung",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
                 }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Pumpen für Haushaltsanwendungen: Wasser fördern"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Pumpen für Haushaltsanwendungen sind dafür ausgelegt, verschiedene Arten von Flüssigkeiten in und um das Haus zu fördern. Dazu zählen Wasser für die Bewässerung, Abwasser, Regenwasser und Grundwasser. Diese Pumpen fördern diese Flüssigkeiten effizient und sind daher im Haushalt weit verbreitet."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ein wesentlicher Vorteil von Pumpen für Haushaltsanwendungen ist, dass sie Wasser und andere Flüssigkeiten effizient fördern. Sie sind in verschiedenen Förderströmen und Leistungen erhältlich, um den jeweiligen Anforderungen der Anwender zu entsprechen. Daneben gibt es spezielle Pumpen für besondere Anwendungen, etwa Tauchmotorpumpen zum Abpumpen von Wasser bei Überflutungen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Pumpen für Haushaltsanwendungen können außerdem helfen, Wasser zu sparen und die Lebensdauer von Haushaltsgeräten wie Waschmaschinen und Geschirrspülern zu verlängern. Mit diesen Pumpen lässt sich Wasser effizient bewegen und für andere Anwendungen wiederverwenden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Einfach zu installieren und zu warten",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Tauchmotorpumpen für den Haushalt sind auf einfache Installation und Wartung ausgelegt und verfügen über praktische Funktionen wie automatisches Ein- und Ausschalten. Dadurch sind sie benutzerfreundlich und im täglichen Gebrauch praktisch."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Effiziente Förderung von Flüssigkeiten",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Diese Pumpen fördern verschiedene Flüssigkeiten wie Bewässerungswasser, Abwasser, Regenwasser und Grundwasser zuverlässig und effizient. Damit eignen sie sich für viele Haushaltsanwendungen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Wassereinsparung und Gerätepflege",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mit Haushaltspumpen lässt sich Wasser effizient bewegen und wiederverwenden. Das hilft beim Wassersparen und verlängert die Lebensdauer von Geräten wie Waschmaschinen und Geschirrspülern."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Überflutete Räume leerpumpen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Tauchmotorpumpen sind speziell dafür ausgelegt, in Flüssigkeiten eingetaucht zu werden, und eignen sich daher zum Leerpumpen überfluteter Räume. Dazu zählen Keller, Schwimmbecken, Teiche und andere überflutete Räume."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Tauchmotorpumpen für den Haushalt lassen sich einfach installieren und warten. Sie sind je nach Größe des leerzupumpenden Raums in verschiedenen Förderströmen und Leistungen erhältlich. Zudem verfügen diese Pumpen oft über praktische Funktionen wie automatisches Ein- und Ausschalten, die den Bedienkomfort erhöhen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Tauchmotorpumpen eignen sich auch zum Fördern anderer Flüssigkeiten wie Regenwasser und Abwasser. Sie arbeiten effizient und zuverlässig und werden häufig in Haushaltsanwendungen eingesetzt."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kreiselpumpen für den Haushalt"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kreiselpumpen sind eine häufig verwendete Pumpenart für Haushaltsanwendungen. Sie fördern Flüssigkeiten wie Wasser, Abwasser und Regenwasser zuverlässig und effizient. Kreiselpumpen arbeiten nach dem Prinzip der Fliehkraft: Die Flüssigkeit wird angesaugt, zum äußeren Rand der Pumpe hin beschleunigt und anschließend über den Auslass abgeführt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Diese Pumpen sind je nach Anwendung in verschiedenen Größen und Leistungen erhältlich. Kreiselpumpen für den Haushalt sind auf eine lange Lebensdauer ausgelegt und lassen sich einfach warten und installieren. Zudem sind sie oft energiesparend und arbeiten mit hohem Wirkungsgrad, weshalb sie im Haushalt weit verbreitet sind."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Den Garten aus einem Brunnen bewässern"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Brunnenpumpen sind eine Pumpenart, die speziell dafür ausgelegt ist, Wasser aus einem Brunnen oder Grundwasser zu fördern. Sie eignen sich gut für den Haushalt, zum Beispiel zur Gartenbewässerung oder zur Wasserversorgung des Haushalts."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ein Vorteil von Brunnenpumpen ist, dass sie effizient arbeiten und Wasser auch aus tieferen Brunnen fördern können. Außerdem sind sie langlebig. Brunnenpumpen sind je nach Bedarf des Anwenders in verschiedenen Förderströmen und Leistungen erhältlich."
-                }
-              ]
-            }
-          ]
-        }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "0da2ac8ca6df",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/segmenten-huishoudelijk-2.webp",
-          "alt": "Wasserpumpen für den Haushalt | Industrial Pump Group",
-          "width": 1000,
-          "height": 667
-        }
+        "_uid": "8116d0791ab3",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "6caa5bb2f596",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "bbda717b274d",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Pumpen für Haushaltsanwendungen: Wasser fördern"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "13c44241d955",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "14bc123e9ad8",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Pumpen für Haushaltsanwendungen sind dafür ausgelegt, verschiedene Arten von Flüssigkeiten in und um das Haus zu fördern. Dazu zählen Wasser für die Bewässerung, Abwasser, Regenwasser und Grundwasser. Diese Pumpen fördern diese Flüssigkeiten effizient und sind daher im Haushalt weit verbreitet."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ein wesentlicher Vorteil von Pumpen für Haushaltsanwendungen ist, dass sie Wasser und andere Flüssigkeiten effizient fördern. Sie sind in verschiedenen Förderströmen und Leistungen erhältlich, um den jeweiligen Anforderungen der Anwender zu entsprechen. Daneben gibt es spezielle Pumpen für besondere Anwendungen, etwa Tauchmotorpumpen zum Abpumpen von Wasser bei Überflutungen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Pumpen für Haushaltsanwendungen können außerdem helfen, Wasser zu sparen und die Lebensdauer von Haushaltsgeräten wie Waschmaschinen und Geschirrspülern zu verlängern. Mit diesen Pumpen lässt sich Wasser effizient bewegen und für andere Anwendungen wiederverwenden."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "6cc272bd4dda",
+        "_uid": "0468be9aae16",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "6ca799c2c09a",
+            "component": "section_column",
+            "icon": "fa-tools",
+            "content": [
+              {
+                "_uid": "5c9fdbc4afc3",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Einfach zu installieren und zu warten",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Tauchmotorpumpen für den Haushalt sind auf einfache Installation und Wartung ausgelegt und verfügen über praktische Funktionen wie automatisches Ein- und Ausschalten. Dadurch sind sie benutzerfreundlich und im täglichen Gebrauch praktisch."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "e9155b15b781",
+            "component": "section_column",
+            "icon": "fa-faucet",
+            "content": [
+              {
+                "_uid": "5378eb50322a",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Effiziente Förderung von Flüssigkeiten",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Diese Pumpen fördern verschiedene Flüssigkeiten wie Bewässerungswasser, Abwasser, Regenwasser und Grundwasser zuverlässig und effizient. Damit eignen sie sich für viele Haushaltsanwendungen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "7cced87fd4aa",
+            "component": "section_column",
+            "icon": "fa-chart-network",
+            "content": [
+              {
+                "_uid": "e98a5c7b26d4",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Wassereinsparung und Gerätepflege",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mit Haushaltspumpen lässt sich Wasser effizient bewegen und wiederverwenden. Das hilft beim Wassersparen und verlängert die Lebensdauer von Geräten wie Waschmaschinen und Geschirrspülern."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "efb60a66a52e",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "25989cc4b78b",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ed71abc02bd3",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Überflutete Räume leerpumpen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Tauchmotorpumpen sind speziell dafür ausgelegt, in Flüssigkeiten eingetaucht zu werden, und eignen sich daher zum Leerpumpen überfluteter Räume. Dazu zählen Keller, Schwimmbecken, Teiche und andere überflutete Räume."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Tauchmotorpumpen für den Haushalt lassen sich einfach installieren und warten. Sie sind je nach Größe des leerzupumpenden Raums in verschiedenen Förderströmen und Leistungen erhältlich. Zudem verfügen diese Pumpen oft über praktische Funktionen wie automatisches Ein- und Ausschalten, die den Bedienkomfort erhöhen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Tauchmotorpumpen eignen sich auch zum Fördern anderer Flüssigkeiten wie Regenwasser und Abwasser. Sie arbeiten effizient und zuverlässig und werden häufig in Haushaltsanwendungen eingesetzt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kreiselpumpen für den Haushalt"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kreiselpumpen sind eine häufig verwendete Pumpenart für Haushaltsanwendungen. Sie fördern Flüssigkeiten wie Wasser, Abwasser und Regenwasser zuverlässig und effizient. Kreiselpumpen arbeiten nach dem Prinzip der Fliehkraft: Die Flüssigkeit wird angesaugt, zum äußeren Rand der Pumpe hin beschleunigt und anschließend über den Auslass abgeführt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Diese Pumpen sind je nach Anwendung in verschiedenen Größen und Leistungen erhältlich. Kreiselpumpen für den Haushalt sind auf eine lange Lebensdauer ausgelegt und lassen sich einfach warten und installieren. Zudem sind sie oft energiesparend und arbeiten mit hohem Wirkungsgrad, weshalb sie im Haushalt weit verbreitet sind."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Den Garten aus einem Brunnen bewässern"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Brunnenpumpen sind eine Pumpenart, die speziell dafür ausgelegt ist, Wasser aus einem Brunnen oder Grundwasser zu fördern. Sie eignen sich gut für den Haushalt, zum Beispiel zur Gartenbewässerung oder zur Wasserversorgung des Haushalts."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ein Vorteil von Brunnenpumpen ist, dass sie effizient arbeiten und Wasser auch aus tieferen Brunnen fördern können. Außerdem sind sie langlebig. Brunnenpumpen sind je nach Bedarf des Anwenders in verschiedenen Förderströmen und Leistungen erhältlich."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "31e244f21fc2",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "d57f7b877e9b",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/segmenten-huishoudelijk-2.webp",
+                  "alt": "Wasserpumpen für den Haushalt | Industrial Pump Group",
+                  "width": 1000,
+                  "height": 667
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "eb9f327ead28",
         "component": "rich_text",
         "content": {
           "type": "doc",
@@ -368,227 +516,308 @@
         }
       },
       {
-        "_uid": "d0400738def1",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-aeb.webp",
-          "alt": "Kundenlogo AEB",
-          "width": 387,
-          "height": 241
-        }
+        "_uid": "65fba9a48dbe",
+        "component": "logo_carousel",
+        "logos": [
+          {
+            "_uid": "d0751102a572",
+            "component": "logo_item",
+            "name": "AEB Amsterdam",
+            "image": {
+              "filename": "/img/clients/aeb-amsterdam.webp",
+              "alt": "AEB Amsterdam",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "9b8350a04c70",
+            "component": "logo_item",
+            "name": "AkzoNobel",
+            "image": {
+              "filename": "/img/clients/akzonobel.webp",
+              "alt": "AkzoNobel",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "53ed8ef2dabf",
+            "component": "logo_item",
+            "name": "HVC",
+            "image": {
+              "filename": "/img/clients/hvc.webp",
+              "alt": "HVC",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "cb731745ade9",
+            "component": "logo_item",
+            "name": "Petrogas",
+            "image": {
+              "filename": "/img/clients/petrogas.webp",
+              "alt": "Petrogas",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "4dd83a4c2801",
+            "component": "logo_item",
+            "name": "Tata Steel",
+            "image": {
+              "filename": "/img/clients/tata-steel.webp",
+              "alt": "Tata Steel",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "8ca14bd2caf2",
+            "component": "logo_item",
+            "name": "Waternet",
+            "image": {
+              "filename": "/img/clients/waternet.webp",
+              "alt": "Waternet",
+              "width": 280,
+              "height": 140
+            }
+          }
+        ]
       },
       {
-        "_uid": "4db9fdc47235",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-akzonobel.webp",
-          "alt": "Kundenlogo AkzoNobel",
-          "width": 387,
-          "height": 241
-        }
+        "_uid": "44ebfed5dff9",
+        "component": "section_row",
+        "layout": "carousel",
+        "columns": [
+          {
+            "_uid": "5ae97f33df0b",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "d3232501ff0a",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Guter Service und zuverlässige Produkte für den Dauerbetrieb!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Haushaltspumpen von IPG sind einfach zu installieren und funktionieren einwandfrei. Der Kundenservice war bei jedem Schritt hilfsbereit, sodass alles reibungslos verlief."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Facility Manager bei einer Immobilienverwaltung in den Niederlanden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "7cef1a35ee50",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "edd581288b3f",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Qualität und Benutzerfreundlichkeit in einer Lösung!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Wir waren angenehm überrascht von Qualität und Bedienkomfort der Pumpe. IPG bietet robuste Produkte, die sich für den langfristigen und zuverlässigen Einsatz in unseren Gebäuden eignen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Technischer Verwalter bei einer Wohnungsbaugesellschaft."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "f9c2e06c1557",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "f4faff6bf0c4",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Zuverlässige und leise Pumpe, geeignet für Wohnbauprojekte!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Unsere Pumpe arbeitet einwandfrei und ist sehr leise, was für unsere Kunden sehr angenehm ist. Die Installation war einfach, und die Unterstützung von IPG war professionell und schnell."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Projektleiter Installationstechnik bei einem Immobilienentwickler."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "ce7e371fe5a1",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "a4bb8037ef5b",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Schnelle Lieferung und überzeugende Leistung für unsere Standorte!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG lieferte unsere Pumpe schnell, und sie arbeitet wie zugesagt. Sie ist leistungsstark und effizient, passend für das Wassermanagement in unseren Wohnanlagen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Gebäudeverwalter bei einem Immobilieninvestor."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "b1545faf6db9",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-hvc.webp",
-          "alt": "Kundenlogo HVC",
-          "width": 387,
-          "height": 241
-        }
+        "_uid": "78176eaaf2b6",
+        "component": "cta_band",
+        "heading": "Unverbindlich Kontakt aufnehmen",
+        "text": "Wir beraten Sie gern zu Auswahl, Ersatz und Revision Ihrer Pumpe.",
+        "button_label": "Kontakt aufnehmen",
+        "button_link": {
+          "fieldtype": "multilink",
+          "linktype": "url",
+          "url": "/kontakt",
+          "cached_url": "/kontakt"
+        },
+        "variant": "primary"
       },
       {
-        "_uid": "55a800a067bb",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-petrogas.webp",
-          "alt": "Kundenlogo Petrogas",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "01667b849554",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-tatasteel.webp",
-          "alt": "Kundenlogo Tata Steel",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "4565f86288cd",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-waternet.webp",
-          "alt": "Kundenlogo Waternet",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "110bf17254b9",
+        "_uid": "49ad92dcee83",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Guter Service und zuverlässige Produkte für den Dauerbetrieb!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Haushaltspumpen von IPG sind einfach zu installieren und funktionieren einwandfrei. Der Kundenservice war bei jedem Schritt hilfsbereit, sodass alles reibungslos verlief."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Facility Manager bei einer Immobilienverwaltung in den Niederlanden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Qualität und Benutzerfreundlichkeit in einer Lösung!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Wir waren angenehm überrascht von Qualität und Bedienkomfort der Pumpe. IPG bietet robuste Produkte, die sich für den langfristigen und zuverlässigen Einsatz in unseren Gebäuden eignen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Technischer Verwalter bei einer Wohnungsbaugesellschaft."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zuverlässige und leise Pumpe, geeignet für Wohnbauprojekte!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Unsere Pumpe arbeitet einwandfrei und ist sehr leise, was für unsere Kunden sehr angenehm ist. Die Installation war einfach, und die Unterstützung von IPG war professionell und schnell."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Projektleiter Installationstechnik bei einem Immobilienentwickler."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Schnelle Lieferung und überzeugende Leistung für unsere Standorte!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG lieferte unsere Pumpe schnell, und sie arbeitet wie zugesagt. Sie ist leistungsstark und effizient, passend für das Wassermanagement in unseren Wohnanlagen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Gebäudeverwalter bei einem Immobilieninvestor."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 4
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Unverbindlich Kontakt aufnehmen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -614,126 +843,166 @@
         }
       },
       {
-        "_uid": "fc8662033352",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-saer-m80.webp",
-          "alt": "Kreiselpumpen für den Haushalt | Industrial Pump Group",
-          "width": 1200,
-          "height": 1200
-        }
+        "_uid": "a3dd58794d54",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "a1b7bbd1fd1d",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ef05a7fd04ea",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-saer-m80.webp",
+                  "alt": "Kreiselpumpen für den Haushalt | Industrial Pump Group",
+                  "width": 1200,
+                  "height": 1200
+                }
+              },
+              {
+                "_uid": "feaa698f2fed",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Kreiselpumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "5f91546442a0",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "7fa9b6c876f1",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/homepage-bronpomp-2.webp",
+                  "alt": "Brunnenpumpen für den Haushalt | Industrial Pump Group",
+                  "width": 168,
+                  "height": 184
+                }
+              },
+              {
+                "_uid": "39d6f64e806b",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Brunnenpumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "9681bd7cafbf",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "9226fc04164c",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/homepage-product-2.webp",
+                  "alt": "Tauchmotorpumpen für den Haushalt | Industrial Pump Group",
+                  "width": 168,
+                  "height": 184
+                }
+              },
+              {
+                "_uid": "8ec3a51c4d74",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Tauchmotorpumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "e124427ed0c4",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "da78ae03a438",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/ipg-ecom-flygt-ready4-300x300-1.webp",
+                  "alt": "Entwässerungspumpen für den Haushalt | Industrial Pump Group",
+                  "width": 300,
+                  "height": 300
+                }
+              },
+              {
+                "_uid": "9eeaf3e0d609",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Entwässerung lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "049dde99a27f",
+        "_uid": "416436912e33",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Kreiselpumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "865d6c60bd94",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-bronpomp-2.webp",
-          "alt": "Brunnenpumpen für den Haushalt | Industrial Pump Group",
-          "width": 168,
-          "height": 184
-        }
-      },
-      {
-        "_uid": "0e40a6c3764d",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Brunnenpumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "b18083544d37",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-product-2.webp",
-          "alt": "Tauchmotorpumpen für den Haushalt | Industrial Pump Group",
-          "width": 168,
-          "height": 184
-        }
-      },
-      {
-        "_uid": "ecd751aa16d4",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Tauchmotorpumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "97c1f3232b1d",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/ipg-ecom-flygt-ready4-300x300-1.webp",
-          "alt": "Entwässerungspumpen für den Haushalt | Industrial Pump Group",
-          "width": 300,
-          "height": 300
-        }
-      },
-      {
-        "_uid": "b32ea154f2bd",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Entwässerung lesen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -790,7 +1059,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Sie benötigen Hilfe bei der Auswahl der passenden Pumpe? Die Experten von IPG stehen für Sie bereit. Nehmen Sie unverbindlich Kontakt auf: [[PLATZHALTER: Telefon]] oder [[PLATZHALTER: E-Mail]]."
+                  "text": "Sie benötigen Hilfe bei der Auswahl der passenden Pumpe? Die Experten von IPG stehen für Sie bereit. Nehmen Sie unverbindlich Kontakt auf: +31 251 222 566 oder info@industrialpumps.nl."
                 }
               ]
             }
@@ -798,31 +1067,50 @@
         }
       },
       {
-        "_uid": "d590583f650c",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/segmenten-huishoudelijk-3.webp",
-          "alt": "Haushaltspumpen | Industrial Pump Group",
-          "width": 1000,
-          "height": 667
-        }
-      },
-      {
-        "_uid": "b6d3cbf36a4f",
-        "component": "faq",
-        "heading": "Häufige Fragen",
-        "items": [
+        "_uid": "bdde1e615329",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
           {
-            "_uid": "71e2eea4e1d9",
-            "component": "faq_item",
-            "question": "Was ist eine Haushaltspumpe?",
-            "answer": "Eine Haushaltspumpe ist eine Pumpe, die speziell für den Einsatz im Haus ausgelegt ist. Solche Pumpen können für verschiedene Anwendungen verwendet werden, etwa zur Gartenbewässerung, zum Fördern von Wasser aus einem Brunnen oder zum Fördern von Abwasser."
+            "_uid": "bbfd1843544f",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "307bc614eae6",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/segmenten-huishoudelijk-3.webp",
+                  "alt": "Haushaltspumpen | Industrial Pump Group",
+                  "width": 1000,
+                  "height": 667
+                }
+              }
+            ]
           },
           {
-            "_uid": "da4d494ecf26",
-            "component": "faq_item",
-            "question": "Welche Arten von Haushaltspumpen gibt es?",
-            "answer": "Es gibt verschiedene Arten von Haushaltspumpen, darunter Kreiselpumpen, Tauchmotorpumpen, Brunnenpumpen und weitere. Welche Pumpe Sie benötigen, hängt von der jeweiligen Anwendung und den Anforderungen des Anwenders ab."
+            "_uid": "799254da2120",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "8d3d58d652b1",
+                "component": "faq",
+                "heading": "Häufige Fragen",
+                "items": [
+                  {
+                    "_uid": "60c36c8c8703",
+                    "component": "faq_item",
+                    "question": "Was ist eine Haushaltspumpe?",
+                    "answer": "Eine Haushaltspumpe ist eine Pumpe, die speziell für den Einsatz im Haus ausgelegt ist. Solche Pumpen können für verschiedene Anwendungen verwendet werden, etwa zur Gartenbewässerung, zum Fördern von Wasser aus einem Brunnen oder zum Fördern von Abwasser."
+                  },
+                  {
+                    "_uid": "9a723269c777",
+                    "component": "faq_item",
+                    "question": "Welche Arten von Haushaltspumpen gibt es?",
+                    "answer": "Es gibt verschiedene Arten von Haushaltspumpen, darunter Kreiselpumpen, Tauchmotorpumpen, Brunnenpumpen und weitere. Welche Pumpe Sie benötigen, hängt von der jeweiligen Anwendung und den Anforderungen des Anwenders ab."
+                  }
+                ]
+              }
+            ]
           }
         ]
       }

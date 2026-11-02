@@ -15,695 +15,973 @@
     "topic_kind": "pumpentyp",
     "body": [
       {
-        "_uid": "62a0079ab870",
+        "_uid": "c0d1cec2b8fe",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "90f4997e30a7",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "5483ce65e444",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Trinkwasserpumpen fördern Wasser aus Quellen zu Wohnhäusern, Betrieben und anderen Standorten. Sie sind für die Wasserinfrastruktur von entscheidender Bedeutung."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "573110b124e8",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "389dd0c47d2b",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Kreiselpumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/pumpentypen/kreiselpumpen",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Druckerhöhungsanlagen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/pumpentypen/druckerhoehungsanlagen",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Mehrstufige Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/pumpentypen/mehrstufige-pumpen",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Inlinepumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/pumpentypen/inlinepumpen",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Grundfos-Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/marken/grundfos",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Lowara-Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/marken/lowara",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Wilo-Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/marken/wilo",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "d01af686ec0c",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "4159ff301f1e",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "206480d13f13",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Zuverlässige Wasserversorgung: Pumpen für Trinkwasser"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "f2913ed2baf0",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "082dfd731af7",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Trinkwasserpumpen spielen eine zentrale Rolle bei der Lieferung von sauberem und sicherem Trinkwasser an Wohnhäuser, Betriebe und Gemeinden. Ohne eine wirksame Trinkwasserpumpe können Wasserversorgungssysteme unzuverlässig werden, und es kann zu Problemen mit Qualität und Verfügbarkeit des Trinkwassers kommen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "bf584c198aaf",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "696bc04bb156",
+            "component": "section_column",
+            "icon": "fa-tint",
+            "content": [
+              {
+                "_uid": "19ed2e08a40f",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Sicherheit und Qualität",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Nach internationalen und nationalen Normen für Gesundheit und Sicherheit zertifiziert, sorgen diese Pumpen für sauberes und sicheres Trinkwasser."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "bc9064b3ec09",
+            "component": "section_column",
+            "icon": "fa-globe",
+            "content": [
+              {
+                "_uid": "47b1394f96e1",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Internationale Anerkennung",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Zertifizierungen wie NSF/ANSI 61 und EU DWI bieten weltweite Anerkennung und Vertrauen in die Trinkwasserpumpen und machen sie für internationale Anwendungen geeignet."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "746dddc9d8d4",
+            "component": "section_column",
+            "icon": "fa-tools",
+            "content": [
+              {
+                "_uid": "8415d59c716f",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Zuverlässigkeit",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Auf Zuverlässigkeit geprüft, bieten zertifizierte Pumpen in Trinkwassersystemen dauerhaft stabile Leistung bei minimaler Störungswahrscheinlichkeit."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "1d7deb7991d1",
+            "component": "section_column",
+            "icon": "fa-building",
+            "content": [
+              {
+                "_uid": "55a3023a8412",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Einhaltung nationaler Normen",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Pumpen, die nationale Zertifizierungsprogramme wie KIWA und DVGW erfüllen, genügen den spezifischen Normen für die Trinkwasserqualität in ihrem jeweiligen Land."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "e5d1a02c3940",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "e9b42d6138ab",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "8e08097d5a63",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Zertifizierte Trinkwasserpumpen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Zertifizierung von Trinkwasserpumpen ist für Sicherheit und Qualität unseres Trinkwassers von entscheidender Bedeutung. Trinkwasserpumpen sind dafür verantwortlich, sauberes und sicheres Trinkwasser an Wohnhäuser, Betriebe und öffentliche Einrichtungen zu liefern."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Damit Trinkwasserpumpen hohe Anforderungen erfüllen, stehen verschiedene internationale und nationale Zertifizierungsprogramme zur Verfügung. Diese Programme prüfen und verifizieren Leistung und Sicherheit von Trinkwasserpumpen und bestätigen, dass sie für den Einsatz in Trinkwassersystemen geeignet sind."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ein Beispiel für ein internationales Zertifizierungsprogramm für Trinkwasserpumpen ist die Zertifizierung nach NSF/ANSI 61. Sie wird Trinkwasserpumpen erteilt, die die Normen für Gesundheit und Sicherheit von Trinkwasser in den Vereinigten Staaten erfüllen. Dieses Programm prüft Trinkwasserpumpen darauf, dass sie keine schädlichen Stoffe an das Trinkwasser abgeben, sowie auf ihre Langlebigkeit und Zuverlässigkeit."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ein weiteres wichtiges Zertifizierungsprogramm ist die Europäische Trinkwasserrichtlinie (EU DWI). Diese Richtlinie stellt Anforderungen an Werkstoffe und Chemikalien, die mit Trinkwasser in Kontakt kommen, darunter auch Trinkwasserpumpen. Trinkwasserpumpen, die dieser Richtlinie entsprechen, erhalten die CE-Kennzeichnung, die anzeigt, dass die Pumpen die europäischen Normen für Trinkwasserqualität und -sicherheit erfüllen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Darüber hinaus stehen auch nationale Zertifizierungsprogramme zur Verfügung, etwa die KIWA-Zertifizierung in den Niederlanden und die DVGW-Zertifizierung in Deutschland. Diese Programme prüfen und bewerten Leistung und Sicherheit von Trinkwasserpumpen und verifizieren, dass sie die nationalen Normen für Trinkwasserqualität erfüllen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "964c71fa1912",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "6f6b3ffe94ed",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/segmenten-drinkwater-3.webp",
+                  "alt": "Trinkwasser | Industrial Pump Group",
+                  "width": 1000,
+                  "height": 667
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "8d6780dfcd9a",
+        "component": "section_row",
+        "layout": "carousel",
+        "columns": [
+          {
+            "_uid": "40a0c63c31ab",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "54e2055044fd",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Robert von IPG: unverzichtbare Unterstützung für Wasseraufbereitungsprojekte!",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Projektleiter schätze ich die fachkundige Unterstützung von Robert von IPG; sein Einsatz für Wasseraufbereitungsprojekte und seine schnelle Reaktion bei Störungen sind von unschätzbarem Wert. Mit Robert haben wir einen Experten für Pumpentechnik und einen zuverlässigen Berater für unseren Betrieb."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Projektleiter",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " bei einer Wasseraufbereitungsanlage."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "92fc3145a43a",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "b05ecb8c6497",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG ist ein zuverlässiger Partner bei Einkauf und Optimierung!",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Einkaufsleiter schätze ich IPG als Partner, der unseren Bedarf versteht und schnell liefert. Fachwissen und Beratung von IPG haben unsere Prozesse optimiert."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Einkaufsleiter",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " bei einem Lebensmittelhersteller."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "1b2fa751cb28",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "7fdc8a6ecdb7",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG ist ein unverzichtbarer Partner für Produktionseffizienz!",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Produktionsleiter schätze ich IPG als unverzichtbaren Partner für Effizienz und Verfügbarkeit. Das fachkundige Team hat uns mit den richtigen Pumpen und dem passenden Service für eine gleichbleibende Produktion unterstützt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Projektleiter",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " bei einer Papierfabrik."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "a966efb21d33",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "6140aaba14a6",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Jeroen von IPG ist ein wichtiger Partner für unsere Versorgungsqualität!",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Facility-Manager schätze ich Jeroen von IPG als wichtige Stütze bei der Instandhaltung unserer Pumpensysteme. Das Ergebnis sind funktionale und effiziente Systeme, die die Qualität unserer Versorgung stärken."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Facility-Manager",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " bei einem Krankenhaus."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "4fd21f882f63",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "6b21e4c7d931",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Zuverlässige Pumpen für eine sichere Trinkwasserversorgung!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Pumpen von IPG erfüllen alle Qualitäts- und Sicherheitsanforderungen, die für unsere Trinkwasserversorgung wesentlich sind. Die Produkte sind zuverlässig, und das Team bietet stets fachkundige Unterstützung."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Operations Manager bei einem Trinkwasserversorger in den Niederlanden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "43ec6d24b771",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "5487f2fa4c2f",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Hervorragende Qualität und lange Lebensdauer!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Trinkwasserpumpen von IPG zeigen hervorragende Leistungen und sind sehr langlebig. IPG kennt die strengen Anforderungen unserer Branche und liefert Produkte, die unseren Prozess optimieren und zuverlässig sind."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Technischer Betriebsleiter bei einer kommunalen Wasseraufbereitungsanlage."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "e745813edbd7",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "9f1246dc7309",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flexibilität und proaktiver Service für kritische Anwendungen!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Trinkwasserpumpen von IPG sind von hoher Qualität und arbeiten problemlos. Das Team reagiert schnell auf Fragen und bietet eine flexible Lösung, die genau zu unserem Bedarf passt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Maintenance Engineer bei einem Versorgungsunternehmen für Trinkwasser."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "cc7965f54e24",
+        "component": "cta_band",
+        "heading": "Unverbindlich Kontakt aufnehmen",
+        "text": "Wir beraten Sie gern zu Auswahl, Ersatz und Revision Ihrer Pumpe.",
+        "button_label": "Kontakt aufnehmen",
+        "button_link": {
+          "fieldtype": "multilink",
+          "linktype": "url",
+          "url": "/kontakt",
+          "cached_url": "/kontakt"
+        },
+        "variant": "primary"
+      },
+      {
+        "_uid": "128a5479e4ae",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Trinkwasserpumpen fördern Wasser aus Quellen zu Wohnhäusern, Betrieben und anderen Standorten. Sie sind für die Wasserinfrastruktur von entscheidender Bedeutung."
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Kreiselpumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/pumpentypen/kreiselpumpen",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Druckerhöhungsanlagen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/pumpentypen/druckerhoehungsanlagen",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Mehrstufige Pumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/pumpentypen/mehrstufige-pumpen",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Inlinepumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/pumpentypen/inlinepumpen",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Grundfos-Pumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/marken/grundfos",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Lowara-Pumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/marken/lowara",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Wilo-Pumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/marken/wilo",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zuverlässige Wasserversorgung: Pumpen für Trinkwasser"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Trinkwasserpumpen spielen eine zentrale Rolle bei der Lieferung von sauberem und sicherem Trinkwasser an Wohnhäuser, Betriebe und Gemeinden. Ohne eine wirksame Trinkwasserpumpe können Wasserversorgungssysteme unzuverlässig werden, und es kann zu Problemen mit Qualität und Verfügbarkeit des Trinkwassers kommen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Sicherheit und Qualität",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Nach internationalen und nationalen Normen für Gesundheit und Sicherheit zertifiziert, sorgen diese Pumpen für sauberes und sicheres Trinkwasser."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Internationale Anerkennung",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zertifizierungen wie NSF/ANSI 61 und EU DWI bieten weltweite Anerkennung und Vertrauen in die Trinkwasserpumpen und machen sie für internationale Anwendungen geeignet."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zuverlässigkeit",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Auf Zuverlässigkeit geprüft, bieten zertifizierte Pumpen in Trinkwassersystemen dauerhaft stabile Leistung bei minimaler Störungswahrscheinlichkeit."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Einhaltung nationaler Normen",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Pumpen, die nationale Zertifizierungsprogramme wie KIWA und DVGW erfüllen, genügen den spezifischen Normen für die Trinkwasserqualität in ihrem jeweiligen Land."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zertifizierte Trinkwasserpumpen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Zertifizierung von Trinkwasserpumpen ist für Sicherheit und Qualität unseres Trinkwassers von entscheidender Bedeutung. Trinkwasserpumpen sind dafür verantwortlich, sauberes und sicheres Trinkwasser an Wohnhäuser, Betriebe und öffentliche Einrichtungen zu liefern."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Damit Trinkwasserpumpen hohe Anforderungen erfüllen, stehen verschiedene internationale und nationale Zertifizierungsprogramme zur Verfügung. Diese Programme prüfen und verifizieren Leistung und Sicherheit von Trinkwasserpumpen und bestätigen, dass sie für den Einsatz in Trinkwassersystemen geeignet sind."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ein Beispiel für ein internationales Zertifizierungsprogramm für Trinkwasserpumpen ist die Zertifizierung nach NSF/ANSI 61. Sie wird Trinkwasserpumpen erteilt, die die Normen für Gesundheit und Sicherheit von Trinkwasser in den Vereinigten Staaten erfüllen. Dieses Programm prüft Trinkwasserpumpen darauf, dass sie keine schädlichen Stoffe an das Trinkwasser abgeben, sowie auf ihre Langlebigkeit und Zuverlässigkeit."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ein weiteres wichtiges Zertifizierungsprogramm ist die Europäische Trinkwasserrichtlinie (EU DWI). Diese Richtlinie stellt Anforderungen an Werkstoffe und Chemikalien, die mit Trinkwasser in Kontakt kommen, darunter auch Trinkwasserpumpen. Trinkwasserpumpen, die dieser Richtlinie entsprechen, erhalten die CE-Kennzeichnung, die anzeigt, dass die Pumpen die europäischen Normen für Trinkwasserqualität und -sicherheit erfüllen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Darüber hinaus stehen auch nationale Zertifizierungsprogramme zur Verfügung, etwa die KIWA-Zertifizierung in den Niederlanden und die DVGW-Zertifizierung in Deutschland. Diese Programme prüfen und bewerten Leistung und Sicherheit von Trinkwasserpumpen und verifizieren, dass sie die nationalen Normen für Trinkwasserqualität erfüllen."
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "eede7674c5d1",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/segmenten-drinkwater-3.webp",
-          "alt": "Trinkwasser | Industrial Pump Group",
-          "width": 1000,
-          "height": 667
-        }
-      },
-      {
-        "_uid": "5dbececfde3e",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Robert von IPG: unverzichtbare Unterstützung für Wasseraufbereitungsprojekte!",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Projektleiter schätze ich die fachkundige Unterstützung von Robert von IPG; sein Einsatz für Wasseraufbereitungsprojekte und seine schnelle Reaktion bei Störungen sind von unschätzbarem Wert. Mit Robert haben wir einen Experten für Pumpentechnik und einen zuverlässigen Berater für unseren Betrieb."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Projektleiter",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " bei einer Wasseraufbereitungsanlage."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG ist ein zuverlässiger Partner bei Einkauf und Optimierung!",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Einkaufsleiter schätze ich IPG als Partner, der unseren Bedarf versteht und schnell liefert. Fachwissen und Beratung von IPG haben unsere Prozesse optimiert."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Einkaufsleiter",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " bei einem Lebensmittelhersteller."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG ist ein unverzichtbarer Partner für Produktionseffizienz!",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Produktionsleiter schätze ich IPG als unverzichtbaren Partner für Effizienz und Verfügbarkeit. Das fachkundige Team hat uns mit den richtigen Pumpen und dem passenden Service für eine gleichbleibende Produktion unterstützt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Projektleiter",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " bei einer Papierfabrik."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Jeroen von IPG ist ein wichtiger Partner für unsere Versorgungsqualität!",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Facility-Manager schätze ich Jeroen von IPG als wichtige Stütze bei der Instandhaltung unserer Pumpensysteme. Das Ergebnis sind funktionale und effiziente Systeme, die die Qualität unserer Versorgung stärken."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Facility-Manager",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " bei einem Krankenhaus."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zuverlässige Pumpen für eine sichere Trinkwasserversorgung!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Pumpen von IPG erfüllen alle Qualitäts- und Sicherheitsanforderungen, die für unsere Trinkwasserversorgung wesentlich sind. Die Produkte sind zuverlässig, und das Team bietet stets fachkundige Unterstützung."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Operations Manager bei einem Trinkwasserversorger in den Niederlanden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Hervorragende Qualität und lange Lebensdauer!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Trinkwasserpumpen von IPG zeigen hervorragende Leistungen und sind sehr langlebig. IPG kennt die strengen Anforderungen unserer Branche und liefert Produkte, die unseren Prozess optimieren und zuverlässig sind."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Technischer Betriebsleiter bei einer kommunalen Wasseraufbereitungsanlage."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Flexibilität und proaktiver Service für kritische Anwendungen!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Trinkwasserpumpen von IPG sind von hoher Qualität und arbeiten problemlos. Das Team reagiert schnell auf Fragen und bietet eine flexible Lösung, die genau zu unserem Bedarf passt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Maintenance Engineer bei einem Versorgungsunternehmen für Trinkwasser."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 4
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Unverbindlich Kontakt aufnehmen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -958,126 +1236,166 @@
         }
       },
       {
-        "_uid": "86a7ec7ca977",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-inline.webp",
-          "alt": "Inlinepumpen für Trinkwasser | Industrial Pump Group",
-          "width": 200,
-          "height": 500
-        }
+        "_uid": "19e0f0570022",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "323d5a50a12b",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "c43e7e57ad68",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-inline.webp",
+                  "alt": "Inlinepumpen für Trinkwasser | Industrial Pump Group",
+                  "width": 200,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "e75d9b711ba4",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Inlinepumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "6900804e3f4e",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "c7b0244a7863",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-hydrofoor-unit.webp",
+                  "alt": "Druckerhöhungsanlagen für Trinkwasser | Industrial Pump Group",
+                  "width": 424,
+                  "height": 416
+                }
+              },
+              {
+                "_uid": "dd5a64e7d53d",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Druckerhöhungsanlagen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "b16cc55a442e",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "b079f86586a4",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/homepage-product4.webp",
+                  "alt": "Mehrstufige Pumpen für Trinkwasser | Industrial Pump Group",
+                  "width": 219,
+                  "height": 152
+                }
+              },
+              {
+                "_uid": "41e689f0eb65",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über mehrstufige Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "376a9ab20ffe",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "dcd2002047d1",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/homepage-product2.webp",
+                  "alt": "Kreiselpumpen für Trinkwasser | Industrial Pump Group",
+                  "width": 242,
+                  "height": 168
+                }
+              },
+              {
+                "_uid": "dd772228a35f",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Kreiselpumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "5b47a3e5c0fd",
+        "_uid": "823115f96f5e",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Inlinepumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "e8e2db2d8a81",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-hydrofoor-unit.webp",
-          "alt": "Druckerhöhungsanlagen für Trinkwasser | Industrial Pump Group",
-          "width": 424,
-          "height": 416
-        }
-      },
-      {
-        "_uid": "241a15e369b2",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Druckerhöhungsanlagen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "dcef37330944",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-product4.webp",
-          "alt": "Mehrstufige Pumpen für Trinkwasser | Industrial Pump Group",
-          "width": 219,
-          "height": 152
-        }
-      },
-      {
-        "_uid": "b1503efbb529",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über mehrstufige Pumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "feb3b26bbda7",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-product2.webp",
-          "alt": "Kreiselpumpen für Trinkwasser | Industrial Pump Group",
-          "width": 242,
-          "height": 168
-        }
-      },
-      {
-        "_uid": "1b90121f9f4e",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Kreiselpumpen lesen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -1209,7 +1527,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Brauchen Sie Hilfe bei der Auswahl der richtigen Pumpe? Die Experten von IPG stehen Ihnen zur Verfügung. Rufen Sie uns unverbindlich an unter [[PLATZHALTER: Telefon]] oder schreiben Sie an [[PLATZHALTER: E-Mail]]."
+                  "text": "Brauchen Sie Hilfe bei der Auswahl der richtigen Pumpe? Die Experten von IPG stehen Ihnen zur Verfügung. Rufen Sie uns unverbindlich an unter +31 251 222 566 oder schreiben Sie an info@industrialpumps.nl."
                 }
               ]
             }
@@ -1217,43 +1535,62 @@
         }
       },
       {
-        "_uid": "ada1f7504068",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/segmenten-drinkwater-2.webp",
-          "alt": "Trinkwasser aus der Flasche | Industrial Pump Group",
-          "width": 1000,
-          "height": 667
-        }
-      },
-      {
-        "_uid": "9c0a978fa975",
-        "component": "faq",
-        "heading": "Häufige Fragen",
-        "items": [
+        "_uid": "fed30b5918dc",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
           {
-            "_uid": "3db7e9d5aff8",
-            "component": "faq_item",
-            "question": "Was ist eine Trinkwasserpumpe?",
-            "answer": "Eine Trinkwasserpumpe ist ein spezieller Pumpentyp, der Trinkwasser an Wohnhäuser, Betriebe und andere Einrichtungen liefert. Sie ist speziell dafür ausgelegt, höchste Qualität und Sicherheit sowie eine konstante und zuverlässige Wasserversorgung zu gewährleisten."
+            "_uid": "119e5ae0dea9",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "bc6edd72e8e3",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/segmenten-drinkwater-2.webp",
+                  "alt": "Trinkwasser aus der Flasche | Industrial Pump Group",
+                  "width": 1000,
+                  "height": 667
+                }
+              }
+            ]
           },
           {
-            "_uid": "61efe88b47b3",
-            "component": "faq_item",
-            "question": "Warum ist es wichtig, eine Trinkwasserpumpe einzusetzen?",
-            "answer": "Der Einsatz einer Trinkwasserpumpe ist wichtig, um die Qualität des Trinkwassers zu gewährleisten und zu verbessern. Sie bietet außerdem eine konstante und zuverlässige Wasserversorgung, sodass Sie sich keine Sorgen über Störungen oder Unterbrechungen Ihrer Wasserversorgung machen müssen."
-          },
-          {
-            "_uid": "deeee9e941e9",
-            "component": "faq_item",
-            "question": "Welche Vorteile hat eine Trinkwasserpumpe?",
-            "answer": "Die Vorteile einer Trinkwasserpumpe sind Zuverlässigkeit, Effizienz, Qualität, Komfort und Sicherheit."
-          },
-          {
-            "_uid": "0c0bc4d6174c",
-            "component": "faq_item",
-            "question": "Welche Faktoren sollte ich bei der Auswahl einer Trinkwasserpumpe berücksichtigen?",
-            "answer": "Bei der Auswahl einer Trinkwasserpumpe sollten Sie die Größe des Versorgungsgebiets, die Anforderungen an den Wasserdruck, die gewünschte Leistung und das Budget berücksichtigen. Wichtig ist, eine Pumpe zu wählen, die Ihren spezifischen Anforderungen entspricht."
+            "_uid": "b863e479836a",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "107434583353",
+                "component": "faq",
+                "heading": "Häufige Fragen",
+                "items": [
+                  {
+                    "_uid": "ecf02e509595",
+                    "component": "faq_item",
+                    "question": "Was ist eine Trinkwasserpumpe?",
+                    "answer": "Eine Trinkwasserpumpe ist ein spezieller Pumpentyp, der Trinkwasser an Wohnhäuser, Betriebe und andere Einrichtungen liefert. Sie ist speziell dafür ausgelegt, höchste Qualität und Sicherheit sowie eine konstante und zuverlässige Wasserversorgung zu gewährleisten."
+                  },
+                  {
+                    "_uid": "6d802c6ad8ce",
+                    "component": "faq_item",
+                    "question": "Warum ist es wichtig, eine Trinkwasserpumpe einzusetzen?",
+                    "answer": "Der Einsatz einer Trinkwasserpumpe ist wichtig, um die Qualität des Trinkwassers zu gewährleisten und zu verbessern. Sie bietet außerdem eine konstante und zuverlässige Wasserversorgung, sodass Sie sich keine Sorgen über Störungen oder Unterbrechungen Ihrer Wasserversorgung machen müssen."
+                  },
+                  {
+                    "_uid": "b89f9d7e706b",
+                    "component": "faq_item",
+                    "question": "Welche Vorteile hat eine Trinkwasserpumpe?",
+                    "answer": "Die Vorteile einer Trinkwasserpumpe sind Zuverlässigkeit, Effizienz, Qualität, Komfort und Sicherheit."
+                  },
+                  {
+                    "_uid": "3c04fb0a3cf9",
+                    "component": "faq_item",
+                    "question": "Welche Faktoren sollte ich bei der Auswahl einer Trinkwasserpumpe berücksichtigen?",
+                    "answer": "Bei der Auswahl einer Trinkwasserpumpe sollten Sie die Größe des Versorgungsgebiets, die Anforderungen an den Wasserdruck, die gewünschte Leistung und das Budget berücksichtigen. Wichtig ist, eine Pumpe zu wählen, die Ihren spezifischen Anforderungen entspricht."
+                  }
+                ]
+              }
+            ]
           }
         ]
       }

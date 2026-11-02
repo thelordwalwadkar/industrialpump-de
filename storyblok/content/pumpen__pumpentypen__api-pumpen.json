@@ -15,614 +15,809 @@
     "topic_kind": "pumpentyp",
     "body": [
       {
-        "_uid": "894901016c41",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "API-Pumpen sind Pumpen, die den Normen des American Petroleum Institute (API) entsprechen. Sie sind ausgelegt, um die strengen Anforderungen der Öl- und Gasindustrie zu erfüllen, und bieten Zuverlässigkeit, Sicherheit und Effizienz."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Wir liefern API-Pumpen nach Maß."
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
+        "_uid": "4586e239da28",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "4bc4351c19c9",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "9c39021ee92a",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "**"
-                        },
-                        {
-                          "type": "text",
-                          "text": "API-610-PUMPEN",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/pumpentypen/api-pumpen/api-610-pumpen",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        },
-                        {
-                          "type": "text",
-                          "text": "**"
+                          "text": "API-Pumpen sind Pumpen, die den Normen des American Petroleum Institute (API) entsprechen. Sie sind ausgelegt, um die strengen Anforderungen der Öl- und Gasindustrie zu erfüllen, und bieten Zuverlässigkeit, Sicherheit und Effizienz."
                         }
                       ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Goulds-Pumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/marken/goulds",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Safco-Pumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/marken/safco",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Netzsch-Pumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/marken/netzsch",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Sulzer-Pumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/marken/sulzer",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "API-Spezifikationen: wichtig in der Öl- und Gasindustrie"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "API-Spezifikationen sind für Pumpen in der Öl- und Gasindustrie von entscheidender Bedeutung, wo Zuverlässigkeit, Sicherheit und Leistung im Vordergrund stehen. Das American Petroleum Institute (API) hat eine Reihe von Spezifikationen festgelegt, die Pumpen erfüllen müssen, um für den Einsatz in der "
-                },
-                {
-                  "type": "text",
-                  "text": "Öl- und Gasindustrie",
-                  "marks": [
-                    {
-                      "type": "link",
-                      "attrs": {
-                        "href": "/pumpen/branchen/oel-und-gasindustrie",
-                        "linktype": "url"
-                      }
                     },
                     {
-                      "type": "bold"
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Wir liefern API-Pumpen nach Maß."
+                        }
+                      ]
                     }
                   ]
-                },
-                {
-                  "type": "text",
-                  "text": " geeignet zu sein. Diese Spezifikationen umfassen unter anderem Konstruktion, Werkstoffe, Abmessungen, Leistungskriterien, Prüfanforderungen und Zertifizierungen der Pumpe."
                 }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Durch die Einhaltung der API-Spezifikationen können Pumpen hohe "
-                },
-                {
-                  "type": "text",
-                  "text": "Zuverlässigkeit",
-                  "marks": [
+              }
+            ]
+          },
+          {
+            "_uid": "9d58c06b1edc",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "688d9945707a",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
                     {
-                      "type": "bold"
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "API-610-PUMPEN",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/pumpentypen/api-pumpen/api-610-pumpen",
+                                        "linktype": "url"
+                                      }
+                                    },
+                                    {
+                                      "type": "bold"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Goulds-Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/marken/goulds",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Safco-Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/marken/safco",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Netzsch-Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/marken/netzsch",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Sulzer-Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/marken/sulzer",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
                     }
                   ]
-                },
-                {
-                  "type": "text",
-                  "text": " und "
-                },
-                {
-                  "type": "text",
-                  "text": "Sicherheit",
-                  "marks": [
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "c152d5cd6902",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "6d958da4dc62",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "4fa4c5f1dfe0",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
                     {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " gewährleisten, wodurch Störungen und Sicherheitsrisiken minimiert werden. Außerdem hilft die Einhaltung der API-Spezifikationen, Leistung und Effizienz der Pumpe zu optimieren, wodurch die Betriebskosten sinken und die Lebensdauer der Pumpe steigt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Hohe Zuverlässigkeit",
-                  "marks": [
-                    {
-                      "type": "bold"
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "API-Spezifikationen: wichtig in der Öl- und Gasindustrie"
+                        }
+                      ]
                     }
                   ]
                 }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Pumpen, die den API-Spezifikationen entsprechen, bieten außergewöhnliche Zuverlässigkeit, die in der Öl- und Gasindustrie entscheidend ist, um Störungen und Sicherheitsrisiken zu minimieren."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Optimale Leistung",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "API-Normen helfen, Leistung und Effizienz von Pumpen zu optimieren, wodurch Betriebskosten sinken und die Lebensdauer der Pumpe steigt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Gewährleistete Sicherheit",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Durch die Einhaltung strenger API-Spezifikationen gewährleisten diese Pumpen ein hohes Sicherheitsniveau, das für den Betrieb unter schweren Bedingungen und bei hohen Drücken wesentlich ist."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Branchenstandard",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "API-Normen sind der Branchenstandard in der Öl- und Gasindustrie. Pumpen, die diese Normen erfüllen, sind daher weithin akzeptiert und anerkannt."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "API-Normen tragen zu zuverlässiger Leistung bei"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Das API (American Petroleum Institute) ist eine Organisation, die Normen und Richtlinien für die Öl- und Gasindustrie aufstellt. Die API-Normen sind für Konstruktion, Fertigung und Leistung von Pumpen in der Öl- und Gasindustrie von wesentlicher Bedeutung. Sie sollen die "
-                },
-                {
-                  "type": "text",
-                  "text": "Qualität",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " und "
-                },
-                {
-                  "type": "text",
-                  "text": "Zuverlässigkeit",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " von Pumpen gewährleisten und sicherstellen, dass sie die spezifischen Anforderungen der Branche erfüllen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Einige Beispiele für API-Normen, die für Pumpen gelten:"
-                }
-              ]
-            },
-            {
-              "type": "ordered_list",
-              "content": [
-                {
-                  "type": "list_item",
+              }
+            ]
+          },
+          {
+            "_uid": "47ccd3eb929e",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "fd5334675072",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "**"
+                          "text": "API-Spezifikationen sind für Pumpen in der Öl- und Gasindustrie von entscheidender Bedeutung, wo Zuverlässigkeit, Sicherheit und Leistung im Vordergrund stehen. Das American Petroleum Institute (API) hat eine Reihe von Spezifikationen festgelegt, die Pumpen erfüllen müssen, um für den Einsatz in der "
                         },
                         {
                           "type": "text",
-                          "text": "API 610",
+                          "text": "Öl- und Gasindustrie",
                           "marks": [
                             {
                               "type": "link",
                               "attrs": {
-                                "href": "/pumpen/pumpentypen/api-pumpen/api-610-pumpen",
+                                "href": "/pumpen/branchen/oel-und-gasindustrie",
                                 "linktype": "url"
                               }
+                            },
+                            {
+                              "type": "bold"
                             }
                           ]
                         },
                         {
                           "type": "text",
-                          "text": "**: Diese Norm stellt Anforderungen an die Konstruktions- und Leistungsmerkmale von Kreiselpumpen für die Öl-, Gas- und Petrochemieindustrie. Die Norm umfasst Anforderungen an Werkstoffe, Abmessungen, Leistung, Prüfungen und Inspektionen."
+                          "text": " geeignet zu sein. Diese Spezifikationen umfassen unter anderem Konstruktion, Werkstoffe, Abmessungen, Leistungskriterien, Prüfanforderungen und Zertifizierungen der Pumpe."
                         }
                       ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
+                    },
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "API 674: Diese Norm stellt Anforderungen an die Konstruktions- und Leistungsmerkmale von Kolbenpumpen für die Öl-, Gas- und Petrochemieindustrie. Die Norm umfasst Anforderungen an Werkstoffe, Abmessungen, Leistung, Prüfungen und Inspektionen."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
+                          "text": "Durch die Einhaltung der API-Spezifikationen können Pumpen hohe "
+                        },
                         {
                           "type": "text",
-                          "text": "API 675: Diese Norm stellt Anforderungen an die Konstruktions- und Leistungsmerkmale von Dosierpumpen für die Öl-, Gas- und Petrochemieindustrie. Die Norm umfasst Anforderungen an Werkstoffe, Abmessungen, Leistung, Prüfungen und Inspektionen."
+                          "text": "Zuverlässigkeit",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " und "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Sicherheit",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " gewährleisten, wodurch Störungen und Sicherheitsrisiken minimiert werden. Außerdem hilft die Einhaltung der API-Spezifikationen, Leistung und Effizienz der Pumpe zu optimieren, wodurch die Betriebskosten sinken und die Lebensdauer der Pumpe steigt."
                         }
                       ]
                     }
                   ]
                 }
-              ]
-            }
-          ]
-        }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "fd802ba34af2",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/segmenten-api-2.webp",
-          "alt": "API-Pumpe für industrielle Anwendungen, ausgelegt für präzises Fördern von Flüssigkeiten und hohe Zuverlässigkeit in komplexen Anlagen",
-          "width": 1280,
-          "height": 960
-        }
+        "_uid": "58d48b0a0f41",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "99f91b5c112e",
+            "component": "section_column",
+            "icon": "fa-tools",
+            "content": [
+              {
+                "_uid": "f2b4a80b6345",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Hohe Zuverlässigkeit",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Pumpen, die den API-Spezifikationen entsprechen, bieten außergewöhnliche Zuverlässigkeit, die in der Öl- und Gasindustrie entscheidend ist, um Störungen und Sicherheitsrisiken zu minimieren."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "7673621ad646",
+            "component": "section_column",
+            "icon": "fa-chart-line",
+            "content": [
+              {
+                "_uid": "5ea8d679c385",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Optimale Leistung",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "API-Normen helfen, Leistung und Effizienz von Pumpen zu optimieren, wodurch Betriebskosten sinken und die Lebensdauer der Pumpe steigt."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "ee73b312491b",
+            "component": "section_column",
+            "icon": "fa-shield-check",
+            "content": [
+              {
+                "_uid": "23b51d18f0c4",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Gewährleistete Sicherheit",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Durch die Einhaltung strenger API-Spezifikationen gewährleisten diese Pumpen ein hohes Sicherheitsniveau, das für den Betrieb unter schweren Bedingungen und bei hohen Drücken wesentlich ist."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "71531801c52c",
+            "component": "section_column",
+            "icon": "fa-globe",
+            "content": [
+              {
+                "_uid": "a4efe258dfcf",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Branchenstandard",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "API-Normen sind der Branchenstandard in der Öl- und Gasindustrie. Pumpen, die diese Normen erfüllen, sind daher weithin akzeptiert und anerkannt."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "1f7d293e0070",
+        "_uid": "f22054dfd697",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "faa2b6c97ffd",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "80b4610d697a",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "API-Normen tragen zu zuverlässiger Leistung bei"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Das API (American Petroleum Institute) ist eine Organisation, die Normen und Richtlinien für die Öl- und Gasindustrie aufstellt. Die API-Normen sind für Konstruktion, Fertigung und Leistung von Pumpen in der Öl- und Gasindustrie von wesentlicher Bedeutung. Sie sollen die "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Qualität",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " und "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Zuverlässigkeit",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " von Pumpen gewährleisten und sicherstellen, dass sie die spezifischen Anforderungen der Branche erfüllen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Einige Beispiele für API-Normen, die für Pumpen gelten:"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "ordered_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "API 610",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/pumpentypen/api-pumpen/api-610-pumpen",
+                                        "linktype": "url"
+                                      }
+                                    },
+                                    {
+                                      "type": "bold"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": ": Diese Norm stellt Anforderungen an die Konstruktions- und Leistungsmerkmale von Kreiselpumpen für die Öl-, Gas- und Petrochemieindustrie. Die Norm umfasst Anforderungen an Werkstoffe, Abmessungen, Leistung, Prüfungen und Inspektionen."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "API 674: Diese Norm stellt Anforderungen an die Konstruktions- und Leistungsmerkmale von Kolbenpumpen für die Öl-, Gas- und Petrochemieindustrie. Die Norm umfasst Anforderungen an Werkstoffe, Abmessungen, Leistung, Prüfungen und Inspektionen."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "API 675: Diese Norm stellt Anforderungen an die Konstruktions- und Leistungsmerkmale von Dosierpumpen für die Öl-, Gas- und Petrochemieindustrie. Die Norm umfasst Anforderungen an Werkstoffe, Abmessungen, Leistung, Prüfungen und Inspektionen."
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "22d774f9e868",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "9d18823d3507",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/segmenten-api-2.webp",
+                  "alt": "API-Pumpe für industrielle Anwendungen, ausgelegt für präzises Fördern von Flüssigkeiten und hohe Zuverlässigkeit in komplexen Anlagen",
+                  "width": 1280,
+                  "height": 960
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "f7792a14cad9",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "88606eb90a14",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "e717aa37758e",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 4
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Warum API-Normen entscheidend sind"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "API-Normen sind für die Leistung von Pumpen von entscheidender Bedeutung. Die Einhaltung dieser Normen stellt sicher, dass die Pumpen "
+                        },
+                        {
+                          "type": "text",
+                          "text": "zuverlässig",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " und "
+                        },
+                        {
+                          "type": "text",
+                          "text": "langlebig",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " sind. Das ist in der Öl- und Gasindustrie besonders wichtig, wo Pumpen häufig schweren Bedingungen und hohen Drücken ausgesetzt sind."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Welche Probleme können entstehen?"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Werden die API-Normen nicht eingehalten, können verschiedene Probleme entstehen, etwa Leckage, Korrosion, verminderte Leistung und sogar der Ausfall der Pumpe. Das kann zu Anlagenstillstand, höheren Wartungskosten und sogar zu gefährlichen Situationen für das Personal und die Umwelt führen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "6a45bb381b4a",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "73cee4bf6360",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Deshalb müssen Pumpen regelmäßig inspiziert und geprüft werden, um zu verifizieren, dass sie die API-Normen erfüllen. Diese Inspektionen und Prüfungen sollten von "
+                        },
+                        {
+                          "type": "text",
+                          "text": "qualifiziertem",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " und "
+                        },
+                        {
+                          "type": "text",
+                          "text": "erfahrenem Personal",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " ausgeführt werden, damit die Ergebnisse zuverlässig sind."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Keine verbindlichen Vorschriften"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Es ist wichtig zu erwähnen, dass die API-Normen keine verbindlichen Vorschriften sind. Da sie jedoch in der Öl- und Gasindustrie häufig verwendet werden, gelten sie als "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Branchenstandard.",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Viele Unternehmen entscheiden sich dafür, Pumpen zu kaufen, die "
+                        },
+                        {
+                          "type": "text",
+                          "text": "den API-Normen entsprechen",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ", damit sie zuverlässig sind und die Anforderungen der Branche erfüllen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "bbd4f9cb40e0",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 4
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Warum API-Normen entscheidend sind"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "API-Normen sind für die Leistung von Pumpen von entscheidender Bedeutung. Die Einhaltung dieser Normen stellt sicher, dass die Pumpen "
-                },
-                {
-                  "type": "text",
-                  "text": "zuverlässig",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " und "
-                },
-                {
-                  "type": "text",
-                  "text": "langlebig",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " sind. Das ist in der Öl- und Gasindustrie besonders wichtig, wo Pumpen häufig schweren Bedingungen und hohen Drücken ausgesetzt sind."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Welche Probleme können entstehen?"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Werden die API-Normen nicht eingehalten, können verschiedene Probleme entstehen, etwa Leckage, Korrosion, verminderte Leistung und sogar der Ausfall der Pumpe. Das kann zu Anlagenstillstand, höheren Wartungskosten und sogar zu gefährlichen Situationen für das Personal und die Umwelt führen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Deshalb müssen Pumpen regelmäßig inspiziert und geprüft werden, um zu verifizieren, dass sie die API-Normen erfüllen. Diese Inspektionen und Prüfungen sollten von "
-                },
-                {
-                  "type": "text",
-                  "text": "qualifiziertem",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " und "
-                },
-                {
-                  "type": "text",
-                  "text": "erfahrenem Personal",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " ausgeführt werden, damit die Ergebnisse zuverlässig sind."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Keine verbindlichen Vorschriften"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Es ist wichtig zu erwähnen, dass die API-Normen keine verbindlichen Vorschriften sind. Da sie jedoch in der Öl- und Gasindustrie häufig verwendet werden, gelten sie als "
-                },
-                {
-                  "type": "text",
-                  "text": "Branchenstandard.",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Viele Unternehmen entscheiden sich dafür, Pumpen zu kaufen, die "
-                },
-                {
-                  "type": "text",
-                  "text": "den API-Normen entsprechen",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": ", damit sie zuverlässig sind und die Anforderungen der Branche erfüllen."
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -685,265 +880,359 @@
         }
       },
       {
-        "_uid": "fb96cd7e1c3e",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-aeb.webp",
-          "alt": "Kundenlogo AEB",
-          "width": 387,
-          "height": 241
-        }
+        "_uid": "b8c561e2ce95",
+        "component": "logo_carousel",
+        "logos": [
+          {
+            "_uid": "7c19a75f0591",
+            "component": "logo_item",
+            "name": "AEB Amsterdam",
+            "image": {
+              "filename": "/img/clients/aeb-amsterdam.webp",
+              "alt": "AEB Amsterdam",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "78679086f59d",
+            "component": "logo_item",
+            "name": "AkzoNobel",
+            "image": {
+              "filename": "/img/clients/akzonobel.webp",
+              "alt": "AkzoNobel",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "1ba369a7441a",
+            "component": "logo_item",
+            "name": "HVC",
+            "image": {
+              "filename": "/img/clients/hvc.webp",
+              "alt": "HVC",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "1380e3f1f8cd",
+            "component": "logo_item",
+            "name": "Petrogas",
+            "image": {
+              "filename": "/img/clients/petrogas.webp",
+              "alt": "Petrogas",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "765b0dad6184",
+            "component": "logo_item",
+            "name": "Tata Steel",
+            "image": {
+              "filename": "/img/clients/tata-steel.webp",
+              "alt": "Tata Steel",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "d2324bc16f9d",
+            "component": "logo_item",
+            "name": "Waternet",
+            "image": {
+              "filename": "/img/clients/waternet.webp",
+              "alt": "Waternet",
+              "width": 280,
+              "height": 140
+            }
+          }
+        ]
       },
       {
-        "_uid": "b05b3c953619",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-akzonobel.webp",
-          "alt": "Kundenlogo AkzoNobel",
-          "width": 387,
-          "height": 241
-        }
+        "_uid": "330449845f36",
+        "component": "section_row",
+        "layout": "carousel",
+        "columns": [
+          {
+            "_uid": "a97b502495d1",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "9294f3b69e97",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Zuverlässiger und proaktiver Service von IPG!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Leiter Technischer Dienst schätze ich an IPG die Zuverlässigkeit der Herstellerunabhängigkeit und die proaktive Herangehensweise. Der schnelle Service ist in unserer Branche entscheidend, in der jede Minute Stillstand zählt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Leiter Technischer Dienst bei einem Chemiewerk."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "337c71c109bf",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "f352aa7c40e0",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG: ein zuverlässiger Partner bei Einkauf und Optimierung!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Einkaufsleiter schätze ich IPG als Partner, der unsere Bedürfnisse versteht und schnell liefert. Ihr Fachwissen und ihre Beratung haben unsere Prozesse optimiert."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Einkaufsleiter bei einem Lebensmittelhersteller."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "9bb55db76c6c",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "37b1715d335b",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG ist ein unverzichtbarer Partner für Produktionseffizienz!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Produktionsleiter schätze ich IPG als unverzichtbaren Partner für Effizienz und Verfügbarkeit. Ihr fachkundiges Team hat uns bei den richtigen Pumpen und beim Service für eine gleichbleibende Produktion unterstützt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Projektleiter bei einer Papierfabrik."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "99f4dcb503c0",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "28bd6694dc60",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Zuverlässige und sichere API-Pumpen für anspruchsvolle Umgebungen!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG liefert API-Pumpen, die die strengen Sicherheitsnormen unserer Branche erfüllen. Die Produkte sind zuverlässig und halten den harten Bedingungen in unseren Prozessen stand, was für unsere Sicherheit wesentlich ist."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Operations Manager bei einem Öl- und Gasunternehmen in den Niederlanden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "bb8c64d64e1e",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "817f9876b429",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Hohe Qualität und Einhaltung der API-Standards!",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die API-Pumpen von IPG erfüllen alle erforderlichen Standards, was für unsere Produktionsprozesse entscheidend ist. Das Team bietet fachkundige Unterstützung, von der Installation bis zur Wartung."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Technischer Berater",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " bei einem petrochemischen Unternehmen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "431d815b6c40",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-hvc.webp",
-          "alt": "Kundenlogo HVC",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "2848b5058109",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-petrogas.webp",
-          "alt": "Kundenlogo Petrogas",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "ba2ece12b6b3",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-tatasteel.webp",
-          "alt": "Kundenlogo Tata Steel",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "2d3d6bb63608",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-waternet.webp",
-          "alt": "Kundenlogo Waternet",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "c2886f56252e",
+        "_uid": "5336d8dbf024",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zuverlässiger und proaktiver Service von IPG!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Leiter Technischer Dienst schätze ich an IPG die Zuverlässigkeit der Herstellerunabhängigkeit und die proaktive Herangehensweise. Der schnelle Service ist in unserer Branche entscheidend, in der jede Minute Stillstand zählt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Leiter Technischer Dienst bei einem Chemiewerk."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG: ein zuverlässiger Partner bei Einkauf und Optimierung!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Einkaufsleiter schätze ich IPG als Partner, der unsere Bedürfnisse versteht und schnell liefert. Ihr Fachwissen und ihre Beratung haben unsere Prozesse optimiert."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Einkaufsleiter bei einem Lebensmittelhersteller."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG ist ein unverzichtbarer Partner für Produktionseffizienz!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Produktionsleiter schätze ich IPG als unverzichtbaren Partner für Effizienz und Verfügbarkeit. Ihr fachkundiges Team hat uns bei den richtigen Pumpen und beim Service für eine gleichbleibende Produktion unterstützt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Projektleiter bei einer Papierfabrik."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zuverlässige und sichere API-Pumpen für anspruchsvolle Umgebungen!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG liefert API-Pumpen, die die strengen Sicherheitsnormen unserer Branche erfüllen. Die Produkte sind zuverlässig und halten den harten Bedingungen in unseren Prozessen stand, was für unsere Sicherheit wesentlich ist."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Operations Manager bei einem Öl- und Gasunternehmen in den Niederlanden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Hohe Qualität und Einhaltung der API-Standards!",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die API-Pumpen von IPG erfüllen alle erforderlichen Standards, was für unsere Produktionsprozesse entscheidend ist. Das Team bietet fachkundige Unterstützung, von der Installation bis zur Wartung."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Technischer Berater",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " bei einem petrochemischen Unternehmen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -1017,126 +1306,166 @@
         }
       },
       {
-        "_uid": "10b2169dc0d2",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-goulds-goulds-3175.webp",
-          "alt": "Goulds API-Pumpe, ausgelegt für zuverlässiges Fördern von Flüssigkeiten in schweren industriellen Anwendungen wie der Öl- und Gasindustrie",
-          "width": 250,
-          "height": 170
-        }
+        "_uid": "c8ab8221108d",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "9eaf4414078f",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "3e067f80b571",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-goulds-goulds-3175.webp",
+                  "alt": "Goulds API-Pumpe, ausgelegt für zuverlässiges Fördern von Flüssigkeiten in schweren industriellen Anwendungen wie der Öl- und Gasindustrie",
+                  "width": 250,
+                  "height": 170
+                }
+              },
+              {
+                "_uid": "589c2fc20d16",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Goulds-Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "bdc7700807b4",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "62725267c315",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-handol-handol-btn.webp",
+                  "alt": "Safco-API-Pumpenanlage für industrielle Prozesse mit hoher Förderleistung und Zuverlässigkeit in der chemischen Industrie",
+                  "width": 1239,
+                  "height": 694
+                }
+              },
+              {
+                "_uid": "a9fe37895db7",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Safco-Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "5f9629887197",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "8d11106b42c4",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-netzsch-netzsch-api.webp",
+                  "alt": "Netzsch-API-Pumpensystem, geeignet zum Fördern zähflüssiger Medien in industriellen und petrochemischen Anwendungen",
+                  "width": 265,
+                  "height": 190
+                }
+              },
+              {
+                "_uid": "1d37aaeb05b4",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Netzsch-Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "c13e4f045547",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "5aed2ce9ff4a",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-sulzer-sulzer-api.webp",
+                  "alt": "Sulzer-API-Pumpe für effizientes Fördern von Flüssigkeiten, ausgelegt für die chemische Industrie und andere industrielle Bereiche",
+                  "width": 690,
+                  "height": 460
+                }
+              },
+              {
+                "_uid": "28572de30088",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Sulzer-Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "f26bb3ff4f04",
+        "_uid": "58db18c03671",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Goulds-Pumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "c23ea7f151a2",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-handol-handol-btn.webp",
-          "alt": "Safco-API-Pumpenanlage für industrielle Prozesse mit hoher Förderleistung und Zuverlässigkeit in der chemischen Industrie",
-          "width": 1239,
-          "height": 694
-        }
-      },
-      {
-        "_uid": "6a613a1f119f",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Safco-Pumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "0830d7e81985",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-netzsch-netzsch-api.webp",
-          "alt": "Netzsch-API-Pumpensystem, geeignet zum Fördern zähflüssiger Medien in industriellen und petrochemischen Anwendungen",
-          "width": 265,
-          "height": 190
-        }
-      },
-      {
-        "_uid": "840676c9acfa",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Netzsch-Pumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "21346705c80a",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-sulzer-sulzer-api.webp",
-          "alt": "Sulzer-API-Pumpe für effizientes Fördern von Flüssigkeiten, ausgelegt für die chemische Industrie und andere industrielle Bereiche",
-          "width": 690,
-          "height": 460
-        }
-      },
-      {
-        "_uid": "7370e4b1732c",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Sulzer-Pumpen lesen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -1183,43 +1512,62 @@
         }
       },
       {
-        "_uid": "cdacba3876a2",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/segmenten-api-3.webp",
-          "alt": "Industrielle Rohrleitungen und Armaturen für API-Pumpenanlagen, wesentlich für sichere und effiziente Flüssigkeitsförderung in schweren industriellen Umgebungen",
-          "width": 1000,
-          "height": 667
-        }
-      },
-      {
-        "_uid": "09bcfebc9d53",
-        "component": "faq",
-        "heading": "Häufige Fragen",
-        "items": [
+        "_uid": "8469d5a09574",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
           {
-            "_uid": "b3c39b9cabd6",
-            "component": "faq_item",
-            "question": "Was sind API-Pumpen?",
-            "answer": "API-Pumpen sind Pumpen, die nach den Normen des American Petroleum Institute (API) ausgelegt und gefertigt werden. Diese Pumpen werden häufig in der Öl- und Gasindustrie eingesetzt, um Flüssigkeiten mit hoher Viskosität zu fördern, etwa Rohöl, Benzin, Diesel und Erdgas."
+            "_uid": "8ad1eda5645e",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "fcedd830695d",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/segmenten-api-3.webp",
+                  "alt": "Industrielle Rohrleitungen und Armaturen für API-Pumpenanlagen, wesentlich für sichere und effiziente Flüssigkeitsförderung in schweren industriellen Umgebungen",
+                  "width": 1000,
+                  "height": 667
+                }
+              }
+            ]
           },
           {
-            "_uid": "13e63a58cecf",
-            "component": "faq_item",
-            "question": "Welche Typen von API-Pumpen gibt es?",
-            "answer": "Es gibt verschiedene Typen von API-Pumpen, darunter Kreiselpumpen, Zahnradpumpen und Drehkolbenpumpen. Jede Pumpe hat je nach Anwendung und zu förderndem Medium eigene Merkmale und Vorteile."
-          },
-          {
-            "_uid": "bdba8599fe9d",
-            "component": "faq_item",
-            "question": "Welche Vorteile haben API-Pumpen?",
-            "answer": "API-Pumpen haben verschiedene Vorteile, darunter hohe Effizienz, Zuverlässigkeit und Langlebigkeit. Sie sind speziell für den Einsatz in der Öl- und Gasindustrie ausgelegt, das heißt, sie halten Korrosion, Verschleiß und anderen Umgebungseinflüssen stand, die in dieser Branche häufig auftreten."
-          },
-          {
-            "_uid": "62fde062de35",
-            "component": "faq_item",
-            "question": "Wofür werden API-Pumpen eingesetzt?",
-            "answer": "API-Pumpen werden vor allem in der Öl- und Gasindustrie eingesetzt, um Rohöl, Erdgas und andere Flüssigkeiten mit hoher Viskosität zu fördern. Sie werden auch in anderen Industrien eingesetzt, um Chemikalien, Abwasser und andere korrosive oder zähflüssige Flüssigkeiten zu fördern."
+            "_uid": "e329edfc3dff",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "138a825b2b64",
+                "component": "faq",
+                "heading": "Häufige Fragen",
+                "items": [
+                  {
+                    "_uid": "c66622d9d675",
+                    "component": "faq_item",
+                    "question": "Was sind API-Pumpen?",
+                    "answer": "API-Pumpen sind Pumpen, die nach den Normen des American Petroleum Institute (API) ausgelegt und gefertigt werden. Diese Pumpen werden häufig in der Öl- und Gasindustrie eingesetzt, um Flüssigkeiten mit hoher Viskosität zu fördern, etwa Rohöl, Benzin, Diesel und Erdgas."
+                  },
+                  {
+                    "_uid": "edf8c12c87c8",
+                    "component": "faq_item",
+                    "question": "Welche Typen von API-Pumpen gibt es?",
+                    "answer": "Es gibt verschiedene Typen von API-Pumpen, darunter Kreiselpumpen, Zahnradpumpen und Drehkolbenpumpen. Jede Pumpe hat je nach Anwendung und zu förderndem Medium eigene Merkmale und Vorteile."
+                  },
+                  {
+                    "_uid": "d5d23f891374",
+                    "component": "faq_item",
+                    "question": "Welche Vorteile haben API-Pumpen?",
+                    "answer": "API-Pumpen haben verschiedene Vorteile, darunter hohe Effizienz, Zuverlässigkeit und Langlebigkeit. Sie sind speziell für den Einsatz in der Öl- und Gasindustrie ausgelegt, das heißt, sie halten Korrosion, Verschleiß und anderen Umgebungseinflüssen stand, die in dieser Branche häufig auftreten."
+                  },
+                  {
+                    "_uid": "ac20b9a2b9fb",
+                    "component": "faq_item",
+                    "question": "Wofür werden API-Pumpen eingesetzt?",
+                    "answer": "API-Pumpen werden vor allem in der Öl- und Gasindustrie eingesetzt, um Rohöl, Erdgas und andere Flüssigkeiten mit hoher Viskosität zu fördern. Sie werden auch in anderen Industrien eingesetzt, um Chemikalien, Abwasser und andere korrosive oder zähflüssige Flüssigkeiten zu fördern."
+                  }
+                ]
+              }
+            ]
           }
         ]
       }

@@ -7,363 +7,466 @@
   "position": 1,
   "content": {
     "component": "page_hub",
-    "h1": "Pumpen nach Hersteller",
+    "h1": "Pumpenmarken",
     "nav_title": "Marken",
-    "seo_title": "Pumpen nach Hersteller: Lowara, SAER, Ebara, Flygt",
-    "seo_description": "Pumpenmarken im Katalog: Lowara, SAER, Ebara und Flygt mit Serien, Einsatzbereichen und Hinweisen zur Revision.",
-    "intro": "Wir führen Pumpen von vier Herstellern: Lowara, SAER, Ebara und Flygt. Jede Marke hat eine eigene Seite mit Serien, Einsatzbereichen und Hinweisen zur Revision.",
+    "seo_title": "Pumpenmarken: Lowara, Grundfos, Flygt, Ebara und mehr",
+    "seo_description": "Pumpenmarken im Überblick: Lowara, Grundfos, Flygt, Ebara, Seepex und weitere. Herstellerunabhängige Beratung. Jetzt Pumpe oder Ersatzteile anfragen.",
+    "intro": "Die Industrial Pump Group liefert Pumpen und Ersatzteile zahlreicher Hersteller, auch solcher, die nicht auf der Website aufgeführt sind. Die Beratung erfolgt herstellerunabhängig und richtet sich an Betreiber, Planer und Einkäufer.",
     "child_heading": "Marken",
-    "body_text": {
-      "type": "doc",
-      "content": [
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": "Lowara und Flygt gehören zur Xylem-Gruppe. SAER und Ebara sind eigenständige Hersteller. Innerhalb jeder Marke sind die Pumpen nach Serien geordnet; jede Serie zeigt ihre Kennbereiche und die Artikel des Katalogs."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": "Wenn Sie nicht wissen, welche Marke zu Ihrer Anlage passt, "
-            },
-            {
-              "type": "text",
-              "text": "senden Sie uns das Typenschild",
-              "marks": [
-                {
-                  "type": "link",
-                  "attrs": {
-                    "href": "/angebot",
-                    "linktype": "url"
-                  }
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "text": ". Wir prüfen, welche Serie infrage kommt."
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "attrs": {
-            "level": 2
-          },
-          "content": [
-            {
-              "type": "text",
-              "text": "So ist der Katalog aufgebaut"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": "Der Weg führt von der Marke über die Serie zum einzelnen Artikel. Auf der Markenseite sehen Sie alle Serien mit Einsatzbereichen, auf der Serienseite die Kennbereiche, die Artikel und vergleichbare Serien anderer Marken. Die Artikelseite nennt die technischen Daten und übernimmt Marke, Serie und Artikelnummer in die Angebotsanfrage."
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "attrs": {
-            "level": 2
-          },
-          "content": [
-            {
-              "type": "text",
-              "text": "Ersatzteile und Revision"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "text": "Für jede Marke können Sie Ersatzteile und eine Revision anfragen. Ob und in welchem Umfang das möglich ist, hängt von Serie, Baujahr und Ausführung der Pumpe ab; das Typenschild genügt für eine erste Einschätzung."
-            }
-          ]
-        }
-      ]
-    },
     "body": [
       {
-        "_uid": "3305a5521d0e",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/sfeer-fotos-shutterstock-160393526.webp",
-          "alt": "Pumpenmarken",
-          "width": 1280,
-          "height": 853
-        }
-      },
-      {
-        "_uid": "11570aa075ec",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Herstellerunabhängige Pumpenberatung: offizieller Händler namhafter Marken"
+        "_uid": "90cda5d780ed",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "b40c2a5c78d5",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "adaf22d41589",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Herstellerunabhängige Pumpenberatung: offizieller Händler namhafter Marken"
+                        }
+                      ]
+                    }
+                  ]
                 }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Industrial Pump Group kann Sie mit Pumpen vieler Marken versorgen, auch wenn diese nicht auf der Website angeboten werden."
+              }
+            ]
+          },
+          {
+            "_uid": "4bf28126c751",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "7e809aac2a63",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Industrial Pump Group kann Sie mit Pumpen vieler Marken versorgen, auch wenn diese nicht auf der Website angeboten werden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Suchen Sie etwas Bestimmtes? Dann nehmen Sie jederzeit unverbindlich Kontakt mit dem IPG-Team auf."
+                        }
+                      ]
+                    }
+                  ]
                 }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Suchen Sie etwas Bestimmtes? Dann nehmen Sie jederzeit unverbindlich Kontakt mit dem IPG-Team auf."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "54f27f3fa240",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "39c0d0c75b87",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "d70863d0b73b",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/merken-saer-logo.webp",
+                  "alt": "SAER Elettropompe, Partner der Industrial Pump Group",
+                  "width": 120,
+                  "height": 54
                 }
-              ]
-            }
-          ]
-        }
+              }
+            ]
+          },
+          {
+            "_uid": "8d6526f9849e",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "7b9d91776177",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/merken-lowara-ipg.webp",
+                  "alt": "Lowara, Partner der Industrial Pump Group",
+                  "width": 120,
+                  "height": 54
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "503b23fb68d2",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "6f090ade69dc",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/merken-0015-ipg-01-flygt.webp",
+                  "alt": "Flygt, Partner der Industrial Pump Group",
+                  "width": 120,
+                  "height": 54
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "da8411131907",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "3cb1cb3b84c8",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/merken-0017-ipg-01-ebara.webp",
+                  "alt": "Ebara, Partner der Industrial Pump Group",
+                  "width": 120,
+                  "height": 54
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "3016e6859351",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "5612ec5dc694",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/godwin.webp",
+                  "alt": "Godwin Pumps, Partner der Industrial Pump Group",
+                  "width": 120,
+                  "height": 54
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "a60daa983fcc",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/merken-saer-logo.webp",
-          "alt": "SAER Elettropompe, Partner der Industrial Pump Group",
-          "width": 120,
-          "height": 54
-        }
+        "_uid": "fd060caa7600",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "aed01aad8207",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "546ab5d84cd3",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/grundfos-ipg.webp",
+                  "alt": "Grundfos, Partner der Industrial Pump Group",
+                  "width": 120,
+                  "height": 54
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "a3ed3468cb0b",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "aa2a16598432",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/grindex-logo-ipg.webp",
+                  "alt": "Grindex, Partner der Industrial Pump Group",
+                  "width": 120,
+                  "height": 54
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "77af9a7a8420",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "39b52f5f652a",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/merken-0010-ipg-01-homa.webp",
+                  "alt": "Homa, Partner der Industrial Pump Group",
+                  "width": 110,
+                  "height": 54
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "43e887b0756b",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "280e73354f44",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/merken-seepex.webp",
+                  "alt": "Seepex, Partner der Industrial Pump Group",
+                  "width": 120,
+                  "height": 54
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "f508658a0a40",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "0bd9185e740a",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/merken-0005-ipg-01-netzsch.webp",
+                  "alt": "Netzsch, Partner der Industrial Pump Group",
+                  "width": 120,
+                  "height": 54
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "b40f85103ce9",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/merken-lowara-ipg.webp",
-          "alt": "Lowara, Partner der Industrial Pump Group",
-          "width": 120,
-          "height": 54
-        }
+        "_uid": "ad2b574e8ddb",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "fb8ab79b16f8",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "64e6f630cca3",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/merken-0000-varisco-logo.webp",
+                  "alt": "Varisco, Partner der Industrial Pump Group",
+                  "width": 120,
+                  "height": 54
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "605006a2109e",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ae99ad74497a",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/merken-0024-vogel-ipg.webp",
+                  "alt": "Vogel Pumpen, Partner der Industrial Pump Group",
+                  "width": 120,
+                  "height": 54
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "5c3cdf8952c4",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "08fc464f2e31",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/wilo-ipg.webp",
+                  "alt": "Wilo, Partner der Industrial Pump Group",
+                  "width": 120,
+                  "height": 54
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "7604232fca18",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ebfcc2f688fc",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/merken-balckedurr-ipg.webp",
+                  "alt": "Balcke-Dürr, Partner der Industrial Pump Group",
+                  "width": 120,
+                  "height": 54
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "9f994bebe087",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "dafb3092ba51",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/merken-0019-ipg-01-duchting-logo.webp",
+                  "alt": "Düchting Pumpen, Partner der Industrial Pump Group",
+                  "width": 120,
+                  "height": 54
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "7be0b27c4765",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/merken-0015-ipg-01-flygt.webp",
-          "alt": "Flygt, Partner der Industrial Pump Group",
-          "width": 120,
-          "height": 54
-        }
+        "_uid": "b79cf18b830b",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "ef67ff2025d2",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "e8fc4ef26784",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/merken-sulzer.webp",
+                  "alt": "Sulzer Pumpen, Partner der Industrial Pump Group",
+                  "width": 120,
+                  "height": 54
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "a62b0740d0b1",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "8604c1959237",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/merken-safco.webp",
+                  "alt": "Safco Pumps, Partner der Industrial Pump Group",
+                  "width": 120,
+                  "height": 54
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "c905a3252143",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "b182bb221ad9",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/merken-fybroc-logo.webp",
+                  "alt": "Fybroc Logo",
+                  "width": 120,
+                  "height": 54
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "999f6a693452",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "e2486973941b",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/merken-metso.webp",
+                  "alt": "Metso Logo",
+                  "width": 120,
+                  "height": 54
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "8c08a8e504e2",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "615850664f61",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/samoa.webp",
+                  "alt": "Samoa Logo",
+                  "width": 225,
+                  "height": 107
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "8abc20a3319b",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/merken-0017-ipg-01-ebara.webp",
-          "alt": "Ebara, Partner der Industrial Pump Group",
-          "width": 120,
-          "height": 54
-        }
-      },
-      {
-        "_uid": "18a5d39a85f1",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/godwin.webp",
-          "alt": "Godwin Pumps, Partner der Industrial Pump Group",
-          "width": 120,
-          "height": 54
-        }
-      },
-      {
-        "_uid": "5247688f35b0",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/grundfos-ipg.webp",
-          "alt": "Grundfos, Partner der Industrial Pump Group",
-          "width": 120,
-          "height": 54
-        }
-      },
-      {
-        "_uid": "eb843fc6d420",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/grindex-logo-ipg.webp",
-          "alt": "Grindex, Partner der Industrial Pump Group",
-          "width": 120,
-          "height": 54
-        }
-      },
-      {
-        "_uid": "ec10b8e2ac4e",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/merken-0010-ipg-01-homa.webp",
-          "alt": "Homa, Partner der Industrial Pump Group",
-          "width": 110,
-          "height": 54
-        }
-      },
-      {
-        "_uid": "53fd6763329a",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/merken-seepex.webp",
-          "alt": "Seepex, Partner der Industrial Pump Group",
-          "width": 120,
-          "height": 54
-        }
-      },
-      {
-        "_uid": "26761afe0780",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/merken-0005-ipg-01-netzsch.webp",
-          "alt": "Netzsch, Partner der Industrial Pump Group",
-          "width": 120,
-          "height": 54
-        }
-      },
-      {
-        "_uid": "7b8b66c065a0",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/merken-0000-varisco-logo.webp",
-          "alt": "Varisco, Partner der Industrial Pump Group",
-          "width": 120,
-          "height": 54
-        }
-      },
-      {
-        "_uid": "2997d032acba",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/merken-0024-vogel-ipg.webp",
-          "alt": "Vogel Pumpen, Partner der Industrial Pump Group",
-          "width": 120,
-          "height": 54
-        }
-      },
-      {
-        "_uid": "0143c1cf7433",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/wilo-ipg.webp",
-          "alt": "Wilo, Partner der Industrial Pump Group",
-          "width": 120,
-          "height": 54
-        }
-      },
-      {
-        "_uid": "dbedf578b9b2",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/merken-balckedurr-ipg.webp",
-          "alt": "Balcke-Dürr, Partner der Industrial Pump Group",
-          "width": 120,
-          "height": 54
-        }
-      },
-      {
-        "_uid": "ba1aba4de2b0",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/merken-0019-ipg-01-duchting-logo.webp",
-          "alt": "Düchting Pumpen, Partner der Industrial Pump Group",
-          "width": 120,
-          "height": 54
-        }
-      },
-      {
-        "_uid": "b0fc0ecd4487",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/merken-sulzer.webp",
-          "alt": "Sulzer Pumpen, Partner der Industrial Pump Group",
-          "width": 120,
-          "height": 54
-        }
-      },
-      {
-        "_uid": "2fa77b553846",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/merken-safco.webp",
-          "alt": "Safco Pumps, Partner der Industrial Pump Group",
-          "width": 120,
-          "height": 54
-        }
-      },
-      {
-        "_uid": "3370df617c04",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/merken-fybroc-logo.webp",
-          "alt": "Fybroc Logo",
-          "width": 120,
-          "height": 54
-        }
-      },
-      {
-        "_uid": "9e3aeed4cee6",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/merken-metso.webp",
-          "alt": "Metso Logo",
-          "width": 120,
-          "height": 54
-        }
-      },
-      {
-        "_uid": "28846251a0d6",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/samoa.webp",
-          "alt": "Samoa Logo",
-          "width": 225,
-          "height": 107
-        }
-      },
-      {
-        "_uid": "0a4677ad2e71",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/sterling-sihi-ipg.webp",
-          "alt": "Sterling SIHI, Partner der Industrial Pump Group",
-          "width": 120,
-          "height": 54
-        }
-      },
-      {
-        "_uid": "c9eec9590e15",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/merken-0023-goulds-pumps-logo.webp",
-          "alt": "Goulds Pumps, Partner der Industrial Pump Group",
-          "width": 120,
-          "height": 39
-        }
+        "_uid": "681687608fa4",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "6cd8f1f6f199",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "89937584fbab",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/sterling-sihi-ipg.webp",
+                  "alt": "Sterling SIHI, Partner der Industrial Pump Group",
+                  "width": 120,
+                  "height": 54
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "c06e6a178f88",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "cf0bb4de308f",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/merken-0023-goulds-pumps-logo.webp",
+                  "alt": "Goulds Pumps, Partner der Industrial Pump Group",
+                  "width": 120,
+                  "height": 39
+                }
+              }
+            ]
+          }
+        ]
       }
     ]
   }

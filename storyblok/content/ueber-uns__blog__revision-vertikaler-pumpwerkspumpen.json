@@ -8,6 +8,12 @@
   "content": {
     "component": "page_blog_post",
     "h1": "Revision einer vertikalen Pumpwerkspumpe: vorbeugende Wartung für langjährige Zuverlässigkeit",
+    "hero_image": {
+      "filename": "/img/nl/nieuws-pompgemaal-omslag.webp",
+      "alt": "",
+      "width": 1280,
+      "height": 231
+    },
     "seo_title": "Vertikale Pumpwerkspumpe: vorbeugende Wartung und Revision",
     "seo_description": "Revision einer vertikalen Pumpwerkspumpe: Ausbau vor Ort, Inspektion, Austausch von Lagern und Dichtungen. Jetzt Revision bei IPG anfragen.",
     "intro": "IPG hat für einen langjährigen Kunden erneut eine vertikale Pumpe eines Pumpwerks revidiert, von der Demontage vor Ort über die Revision in der Werkstatt bis zur Inbetriebnahme. Der Beitrag zeigt, wie vorbeugende Wartung die Betriebssicherheit von Pumpwerken sichert.",
@@ -18,89 +24,145 @@
     },
     "body": [
       {
-        "_uid": "2bccb341c218",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Vorbeugende Wartung für jahrelange Zuverlässigkeit: Revision einer vertikalen Pumpwerkspumpe"
+        "_uid": "177967c37c73",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "e77c80444cb0",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "28f89e1b05f0",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Vorbeugende Wartung für jahrelange Zuverlässigkeit: Revision einer vertikalen Pumpwerkspumpe"
+                        }
+                      ]
+                    }
+                  ]
                 }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bei IPG steht die Zuverlässigkeit von Pumpensystemen immer an erster Stelle. Gerade bei Pumpwerken, in denen die Funktion der Pumpe für die Wasserwirtschaft entscheidend ist, ist Stillstand keine Option. Kürzlich haben wir erneut eine Revision an einer vertikalen Pumpwerkspumpe durchgeführt. Diesmal wieder für einen geschätzten Auftraggeber, für dessen Pumpenanlage wir seit Jahren die vorbeugende Wartung übernehmen. Ein gutes Beispiel dafür, wie vorbeugende Wartung zu Kontinuität und Betriebssicherheit beiträgt."
+              }
+            ]
+          },
+          {
+            "_uid": "c907bc5a60f4",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "3c51794e0963",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bei IPG steht die Zuverlässigkeit von Pumpensystemen immer an erster Stelle. Gerade bei Pumpwerken, in denen die Funktion der Pumpe für die Wasserwirtschaft entscheidend ist, ist Stillstand keine Option. Kürzlich haben wir erneut eine Revision an einer vertikalen Pumpwerkspumpe durchgeführt. Diesmal wieder für einen geschätzten Auftraggeber, für dessen Pumpenanlage wir seit Jahren die vorbeugende Wartung übernehmen. Ein gutes Beispiel dafür, wie vorbeugende Wartung zu Kontinuität und Betriebssicherheit beiträgt."
+                        }
+                      ]
+                    }
+                  ]
                 }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Seit Jahren ein vertrauter Wartungspartner"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Zusammenarbeit mit diesem Kunden besteht inzwischen schon längere Zeit. IPG ist für die strukturelle Wartung der Pumpwerkspumpe verantwortlich, wobei vorbeugende Revisionen regelmäßig eingeplant werden. Durch diesen Ansatz wird Verschleiß frühzeitig aufgefangen und werden große unerwartete Störungen verhindert. Dadurch bleibt das Pumpwerk betriebsbereit und kann seine wichtige Aufgabe in der Wasserwirtschaft weiter erfüllen."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Warum vorbeugende Wartung?"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Vorbeugende Wartung ist kein Kostenfaktor, sondern eine Investition in Betriebssicherheit. Durch rechtzeitige Wartung und Inspektionen verhindern wir, dass Bauteile unerwartet ausfallen. Man denke an Lager, die verschleißen, Dichtungen, die nach einiger Zeit ihre Funktion verlieren, oder eine kleine Unwucht im Laufrad, die sich zu einem großen Schaden an Pumpe oder Antrieb ausweiten kann. Durch regelmäßige Revisionen verlängern wir die Lebensdauer der gesamten Anlage deutlich."
-                }
-              ]
-            }
-          ]
-        }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "baa33ea6fc5b",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/nieuws-pompgemaalpomp-in-werkplaats.webp",
-          "alt": "Vertikale Pumpwerkspumpe in der Werkstatt von IPG",
-          "width": 1280,
-          "height": 960
-        }
+        "_uid": "6ed420fbdf21",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "e507acaa88cd",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "31d938b1e4e6",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Seit Jahren ein vertrauter Wartungspartner"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Zusammenarbeit mit diesem Kunden besteht inzwischen schon längere Zeit. IPG ist für die strukturelle Wartung der Pumpwerkspumpe verantwortlich, wobei vorbeugende Revisionen regelmäßig eingeplant werden. Durch diesen Ansatz wird Verschleiß frühzeitig aufgefangen und werden große unerwartete Störungen verhindert. Dadurch bleibt das Pumpwerk betriebsbereit und kann seine wichtige Aufgabe in der Wasserwirtschaft weiter erfüllen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Warum vorbeugende Wartung?"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Vorbeugende Wartung ist kein Kostenfaktor, sondern eine Investition in Betriebssicherheit. Durch rechtzeitige Wartung und Inspektionen verhindern wir, dass Bauteile unerwartet ausfallen. Man denke an Lager, die verschleißen, Dichtungen, die nach einiger Zeit ihre Funktion verlieren, oder eine kleine Unwucht im Laufrad, die sich zu einem großen Schaden an Pumpe oder Antrieb ausweiten kann. Durch regelmäßige Revisionen verlängern wir die Lebensdauer der gesamten Anlage deutlich."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "69624e7aeee2",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ff6c8a4fdae3",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/nieuws-pompgemaalpomp-in-werkplaats.webp",
+                  "alt": "Vertikale Pumpwerkspumpe in der Werkstatt von IPG",
+                  "width": 1280,
+                  "height": 960
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "5cca386401d3",
+        "_uid": "657677c387b8",
         "component": "rich_text",
         "content": {
           "type": "doc",
@@ -125,328 +187,412 @@
                   "text": "Für diese Revision wurde die Pumpe im Feld fachgerecht ausgebaut. Dabei kam spezielles Hebezeug unseres Partners Van Schie zum Einsatz, mit dem die vertikale Pumpenanlage sicher und sorgfältig ausgebaut werden konnte. Dank der Erfahrung unserer Monteure verläuft diese Demontage kontrolliert und mit Blick fürs Detail. Beim Transport in unsere Werkstatt werden alle Bauteile sorgfältig geschützt und erfasst."
                 }
               ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Vollständige Inspektion und Revision in der Werkstatt"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "In unserer Werkstatt wurde die Pumpe vollständig zerlegt und inspiziert. Jedes Bauteil wird sorgfältig auf Verschleiß, Rissbildung, Korrosion und Toleranzen beurteilt. Wo nötig, werden Bauteile ersetzt oder instand gesetzt. Bei dieser Revision wurden unter anderem folgende Arbeiten durchgeführt:"
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Austausch der Lager"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Austausch von Dichtungen und Packungen"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Prüfung und Instandsetzung der Welle"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Revision verschiedener weiterer Bauteile"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Kontrolle und Reinigung des Lagergehäuses"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Austausch der Spaltringe"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Wiederaufarbeitung von Oberflächen"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Dabei werden ausschließlich hochwertige Bauteile und Werkstoffe verwendet, die für einen langfristig zuverlässigen Betrieb sorgen."
-                }
-              ]
             }
           ]
         }
       },
       {
-        "_uid": "fe6a1a8c85e1",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/nieuws-poldergemaalpomp-werkplaats-ontvangst.webp",
-          "alt": "Pumpe eines Pumpwerks bei der Anlieferung in der Werkstatt",
-          "width": 1280,
-          "height": 720
-        }
+        "_uid": "ccf3c33bf62a",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "76067b87565f",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "7e80bd61e9f6",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Vollständige Inspektion und Revision in der Werkstatt"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "In unserer Werkstatt wurde die Pumpe vollständig zerlegt und inspiziert. Jedes Bauteil wird sorgfältig auf Verschleiß, Rissbildung, Korrosion und Toleranzen beurteilt. Wo nötig, werden Bauteile ersetzt oder instand gesetzt. Bei dieser Revision wurden unter anderem folgende Arbeiten durchgeführt:"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Austausch der Lager"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Austausch von Dichtungen und Packungen"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Prüfung und Instandsetzung der Welle"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Revision verschiedener weiterer Bauteile"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Kontrolle und Reinigung des Lagergehäuses"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Austausch der Spaltringe"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Wiederaufarbeitung von Oberflächen"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Dabei werden ausschließlich hochwertige Bauteile und Werkstoffe verwendet, die für einen langfristig zuverlässigen Betrieb sorgen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "9b076ac3648b",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "649b687081ac",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/nieuws-poldergemaalpomp-werkplaats-ontvangst.webp",
+                  "alt": "Pumpe eines Pumpwerks bei der Anlieferung in der Werkstatt",
+                  "width": 1280,
+                  "height": 720
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "81250c44410e",
+        "_uid": "9162b434a0ef",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "f2afbdc1a4c5",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "6890907ac36c",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Fachgerechte Montage und Wiedereinbau"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Nach Abschluss der Revision wurde die Pumpe sorgfältig neu aufgebaut. Alle Bauteile wurden dabei fachgerecht montiert. Anschließend wurde die komplette Einheit zum Standort zurückgebracht und unter Aufsicht unserer Spezialisten wieder in das Pumpwerk eingebaut, und die Pumpe wurde anschließend ausführlich getestet und kontrolliert."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "145401b71da3",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "0c8933cf33b5",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Inbetriebnahme: bereit für die kommenden Jahre"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Nach der Montage wurde die Pumpe wieder in Betrieb genommen. In dieser Anlaufphase werden verschiedene Parameter gemessen und kontrolliert, damit sichergestellt ist, dass die Pumpe optimale Leistungswerte erreicht. Dank der durchgeführten Revision ist die Pumpe wieder bereit, in den kommenden Jahren zuverlässig im Pumpwerk Dienst zu tun."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "8f988efc987c",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "e9b9a7f8f543",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "18ae2d5d1680",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/nieuws-pompgemaalpomp-installatie.webp",
+                  "alt": "Wieder eingebaute vertikale Pumpe im Pumpwerk",
+                  "width": 1280,
+                  "height": 960
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "e8dcac495c3d",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ad5f707222d2",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Erfahrung und Fachkönnen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die erfolgreiche Revision von Pumpen erfordert Fachkönnen, Erfahrung und Blick fürs Detail. Bei IPG verfügen wir über spezialisierte Monteure, moderne Werkstattausstattung und langjährige Erfahrung mit verschiedenen Pumpentypen und -marken. Ob horizontale Kreiselpumpen, Tauchmotorpumpen oder vertikale Pumpwerkspumpen wie diese: Wir liefern immer Maßarbeit."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Vorteile für den Kunden"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Minimale Wahrscheinlichkeit unerwarteter Störungen"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Verlängerung der Lebensdauer der Pumpenanlage"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Kostenersparnis durch Vermeidung von Folgeschäden"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Hohe Verfügbarkeit des Pumpensystems"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Optimale Leistung und Zuverlässigkeit"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "a3abc35e8192",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Fachgerechte Montage und Wiedereinbau"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Nach Abschluss der Revision wurde die Pumpe sorgfältig neu aufgebaut. Alle Bauteile wurden dabei fachgerecht montiert. Anschließend wurde die komplette Einheit zum Standort zurückgebracht und unter Aufsicht unserer Spezialisten wieder in das Pumpwerk eingebaut, und die Pumpe wurde anschließend ausführlich getestet und kontrolliert."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Inbetriebnahme: bereit für die kommenden Jahre"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Nach der Montage wurde die Pumpe wieder in Betrieb genommen. In dieser Anlaufphase werden verschiedene Parameter gemessen und kontrolliert, damit sichergestellt ist, dass die Pumpe optimale Leistungswerte erreicht. Dank der durchgeführten Revision ist die Pumpe wieder bereit, in den kommenden Jahren zuverlässig im Pumpwerk Dienst zu tun."
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "3ddb2784466e",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/nieuws-pompgemaalpomp-installatie.webp",
-          "alt": "Wieder eingebaute vertikale Pumpe im Pumpwerk",
-          "width": 1280,
-          "height": 960
-        }
-      },
-      {
-        "_uid": "d4c240b56c55",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Erfahrung und Fachkönnen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die erfolgreiche Revision von Pumpen erfordert Fachkönnen, Erfahrung und Blick fürs Detail. Bei IPG verfügen wir über spezialisierte Monteure, moderne Werkstattausstattung und langjährige Erfahrung mit verschiedenen Pumpentypen und -marken. Ob horizontale Kreiselpumpen, Tauchmotorpumpen oder vertikale Pumpwerkspumpen wie diese: Wir liefern immer Maßarbeit."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Vorteile für den Kunden"
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Minimale Wahrscheinlichkeit unerwarteter Störungen"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Verlängerung der Lebensdauer der Pumpenanlage"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Kostenersparnis durch Vermeidung von Folgeschäden"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Hohe Verfügbarkeit des Pumpensystems"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Optimale Leistung und Zuverlässigkeit"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -471,12 +617,6 @@
           ]
         }
       }
-    ],
-    "image": {
-      "filename": "/img/nl/nieuws-pompgemaal-omslag.webp",
-      "alt": "Vertikale Pumpe eines Pumpwerks vor der Revision",
-      "width": 1280,
-      "height": 231
-    }
+    ]
   }
 }

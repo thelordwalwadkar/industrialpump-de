@@ -9,6 +9,12 @@
     "component": "page_listing",
     "h1": "Referenzen und Kundenprojekte",
     "nav_title": "Referenzen und Kundenprojekte",
+    "hero_image": {
+      "filename": "/img/nl/cmf-service.webp",
+      "alt": "",
+      "width": 1002,
+      "height": 670
+    },
     "seo_title": "Referenzen: Kundenprojekte der Industrial Pump Group",
     "seo_description": "Referenzen der Industrial Pump Group: Pumpenprojekte bei Waternet, AEB Amsterdam, Svitzer und weiteren Kunden. Jetzt Kundenprojekte lesen und anfragen.",
     "intro": "Diese Übersicht zeigt Kundenprojekte der Industrial Pump Group (IPG) aus Wasserwirtschaft, Abfallverwertung, Schifffahrt und Industrie. Sie beschreibt, wie IPG bei Pumpenauswahl, Lieferung und Revision unterstützt.",
@@ -16,17 +22,7 @@
     "per_page": 12,
     "body": [
       {
-        "_uid": "7907dea7f662",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/cmf-service.webp",
-          "alt": "Kundenprojekt CMF Services",
-          "width": 1002,
-          "height": 670
-        }
-      },
-      {
-        "_uid": "1523be2d86d3",
+        "_uid": "6d0f2cc07b18",
         "component": "rich_text",
         "content": {
           "type": "doc",
@@ -65,7 +61,7 @@
         }
       },
       {
-        "_uid": "a3cc3afc4ba8",
+        "_uid": "5b0e2c3d1a0d",
         "component": "image_block",
         "image": {
           "filename": "/img/nl/dael-video-ipg.webp",
@@ -75,7 +71,7 @@
         }
       },
       {
-        "_uid": "c2c1a618f8b0",
+        "_uid": "0a4b0743d5c7",
         "component": "rich_text",
         "content": {
           "type": "doc",
@@ -114,7 +110,7 @@
         }
       },
       {
-        "_uid": "e75eb354af44",
+        "_uid": "e369fa8c8835",
         "component": "image_block",
         "image": {
           "filename": "/img/nl/cases-svitzer-nederland-ipg.webp",
@@ -124,7 +120,7 @@
         }
       },
       {
-        "_uid": "ae116cf5ad16",
+        "_uid": "37615dcc8a57",
         "component": "rich_text",
         "content": {
           "type": "doc",
@@ -193,7 +189,7 @@
         }
       },
       {
-        "_uid": "cb739b5e9d77",
+        "_uid": "27179d1e34e6",
         "component": "image_block",
         "image": {
           "filename": "/img/nl/cases-rietlanden-ipg.webp",
@@ -203,7 +199,7 @@
         }
       },
       {
-        "_uid": "2aeaee3ca087",
+        "_uid": "66d534e5042b",
         "component": "rich_text",
         "content": {
           "type": "doc",
@@ -242,7 +238,7 @@
         }
       },
       {
-        "_uid": "307d2ba27502",
+        "_uid": "40a9c40eeb71",
         "component": "image_block",
         "image": {
           "filename": "/img/nl/cases-kesbeke-header.webp",
@@ -252,7 +248,7 @@
         }
       },
       {
-        "_uid": "b41936e30ea2",
+        "_uid": "92c0a16b5188",
         "component": "rich_text",
         "content": {
           "type": "doc",
@@ -291,7 +287,7 @@
         }
       },
       {
-        "_uid": "03469cdbad6f",
+        "_uid": "3ca905aa971e",
         "component": "image_block",
         "image": {
           "filename": "/img/nl/cases-waternet-header.webp",
@@ -301,7 +297,7 @@
         }
       },
       {
-        "_uid": "c18e8090bdbf",
+        "_uid": "17319f79c506",
         "component": "rich_text",
         "content": {
           "type": "doc",
@@ -340,7 +336,7 @@
         }
       },
       {
-        "_uid": "1046f3916330",
+        "_uid": "575414d66e44",
         "component": "image_block",
         "image": {
           "filename": "/img/nl/nieuws-aeb-amsterdam.webp",
@@ -350,7 +346,7 @@
         }
       },
       {
-        "_uid": "af62ce06d54e",
+        "_uid": "6a4c5a80478a",
         "component": "rich_text",
         "content": {
           "type": "doc",

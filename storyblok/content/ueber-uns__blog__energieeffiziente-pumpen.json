@@ -8,6 +8,12 @@
   "content": {
     "component": "page_blog_post",
     "h1": "Energieeffiziente Pumpen: Beitrag zu einer nachhaltigen Zukunft",
+    "hero_image": {
+      "filename": "/img/nl/homepage-bg-sky.webp",
+      "alt": "",
+      "width": 1280,
+      "height": 241
+    },
     "seo_title": "Energieeffiziente Pumpen: ErP, MEI und Einsparpotenzial",
     "seo_description": "Energieeffiziente Pumpen senken Energiekosten: Einsparpotenzial, ErP und MEI, intelligente Pumpen und Revision. Jetzt Beratung zu Ihrer Anlage anfragen.",
     "intro": "Pumpen verursachen etwa 10 % des weltweiten Stromverbrauchs, effizientere Pumpen und Systeme können laut Europäischer Kommission 20 bis 30 % davon einsparen. Der Beitrag erläutert für Betreiber und Planer die EU-Vorgaben ErP und MEI, intelligente Pumpen und die Revision als nachhaltige Alternative.",
@@ -18,169 +24,262 @@
     },
     "body": [
       {
-        "_uid": "70b6a9c43c3c",
+        "_uid": "ce04ae5576dd",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "93cd8cc11236",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "4ac8ee687ad9",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 4
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Zukunft der Nachhaltigkeit: energieeffiziente Pumpen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "417b15fb49a9",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "fdbe0ddc92cb",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "In einer Welt, in der Nachhaltigkeit und technologischer Fortschritt Hand in Hand gehen, spielen energieeffiziente Pumpen eine entscheidende Rolle. Je stärker der Fokus auf umweltfreundliche Technologien rückt, desto wichtiger ist es, dass auch die Pumpentechnik zu einer nachhaltigeren Zukunft beiträgt. Pumpen sind ein bedeutender Bestandteil industrieller und häuslicher Systeme und können erhebliche Energieeinsparungen ermöglichen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "4abc039d932b",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "2aa6391c51ec",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "27c2338d9ca4",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Energieverbrauch und Einsparpotenzial von Pumpen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Pumpen verursachen etwa 10 % des weltweiten Stromverbrauchs. In der Europäischen Union verbrauchen Pumpen schätzungsweise rund 160 TWh Strom pro Jahr. Das bedeutet ein enormes Potenzial für Energieeinsparungen. Nach Angaben der Europäischen Kommission können effizientere Pumpen und Systeme zu Energieeinsparungen von 20 bis 30 % führen. Das entspräche einer Einsparung von 32 bis 48 TWh pro Jahr, was der jährlichen Stromerzeugung von etwa 8 bis 12 mittelgroßen Kohlekraftwerken entspricht."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "e3de34eb2428",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "6fd4bc10e2f4",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "ErP und MEI: verpflichtende Vorgaben in der EU"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "In der Europäischen Union sind die Vorgaben ErP (Energy-related Products, energieverbrauchsrelevante Produkte) und MEI (Minimum Efficiency Index, Mindesteffizienzindex) für Pumpen verpflichtend. Diese Regelungen sollen den Energieverbrauch senken und die Effizienz von Pumpen verbessern. Große Hersteller wie "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Xylem",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/marken/lowara",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " und "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Grundfos",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/pumpen/marken/grundfos",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " setzen diese Vorgaben mit innovativen und energieeffizienten Pumpen um. Die ErP-Richtlinie legt Mindestanforderungen an die Effizienz von Pumpen fest und regt Hersteller damit an, in Technologien zu investieren, die den Energieverbrauch senken und die Leistung verbessern."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "ea4fabf67637",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "8bc5363bcafc",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "6fe5398a51ef",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/nieuws-energiezuinige-pompen.webp",
+                  "alt": "Energieeffiziente Pumpen für Industrie und Gebäude",
+                  "width": 1024,
+                  "height": 1024
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "1b6a2fa5bc3c",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "7eefcd0c116b",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Intelligente Pumpen: Effizienz und Innovation"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Intelligente Pumpen werden wegen ihres geringen Energieverbrauchs und ihrer hohen Effizienz immer häufiger eingesetzt. Diese Pumpen arbeiten oft mit niedriger Drehzahl und passen sich automatisch dem Bedarf an, was zu erheblichen Energieeinsparungen führt. Ein gutes Beispiel für eine intelligente Pumpe sind die Pumpen mit Flygt Concertor. Sie enthalten ein vollständig integriertes System, das hohe betriebliche Flexibilität und optimale Leistung sicherstellt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flygt Concertor"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Flygt Concertor ist eine intelligente Pumpe, die mit moderner Technik den Energieverbrauch minimiert. Sie kombiniert ein vollständig integriertes Steuerungssystem mit einem Motorwirkungsgrad der Klasse IE4, moderner N-Hydraulik und intelligenten Funktionen. Dank der eingebauten Intelligenz kann sich die Flygt Concertor automatisch an wechselnde Betriebsbedingungen anpassen, was zu niedrigeren Betriebskosten und weniger Wartung führt. Die Pumpe senkt die Gesamtkosten über die gesamte Lebensdauer der Anlage und bietet zugleich zuverlässige und hochwertige Leistung."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "2f0bee668a8a",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 4
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Zukunft der Nachhaltigkeit: energieeffiziente Pumpen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "In einer Welt, in der Nachhaltigkeit und technologischer Fortschritt Hand in Hand gehen, spielen energieeffiziente Pumpen eine entscheidende Rolle. Je stärker der Fokus auf umweltfreundliche Technologien rückt, desto wichtiger ist es, dass auch die Pumpentechnik zu einer nachhaltigeren Zukunft beiträgt. Pumpen sind ein bedeutender Bestandteil industrieller und häuslicher Systeme und können erhebliche Energieeinsparungen ermöglichen."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Energieverbrauch und Einsparpotenzial von Pumpen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Pumpen verursachen etwa 10 % des weltweiten Stromverbrauchs. In der Europäischen Union verbrauchen Pumpen schätzungsweise rund 160 TWh Strom pro Jahr. Das bedeutet ein enormes Potenzial für Energieeinsparungen. Nach Angaben der Europäischen Kommission können effizientere Pumpen und Systeme zu Energieeinsparungen von 20 bis 30 % führen. Das entspräche einer Einsparung von 32 bis 48 TWh pro Jahr, was der jährlichen Stromerzeugung von etwa 8 bis 12 mittelgroßen Kohlekraftwerken entspricht."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "ErP und MEI: verpflichtende Vorgaben in der EU"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "In der Europäischen Union sind die Vorgaben ErP (Energy-related Products, energieverbrauchsrelevante Produkte) und MEI (Minimum Efficiency Index, Mindesteffizienzindex) für Pumpen verpflichtend. Diese Regelungen sollen den Energieverbrauch senken und die Effizienz von Pumpen verbessern. Große Hersteller wie "
-                },
-                {
-                  "type": "text",
-                  "text": "Xylem",
-                  "marks": [
-                    {
-                      "type": "link",
-                      "attrs": {
-                        "href": "/pumpen/marken/lowara",
-                        "linktype": "url"
-                      }
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " und "
-                },
-                {
-                  "type": "text",
-                  "text": "Grundfos",
-                  "marks": [
-                    {
-                      "type": "link",
-                      "attrs": {
-                        "href": "/pumpen/marken/grundfos",
-                        "linktype": "url"
-                      }
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " setzen diese Vorgaben mit innovativen und energieeffizienten Pumpen um. Die ErP-Richtlinie legt Mindestanforderungen an die Effizienz von Pumpen fest und regt Hersteller damit an, in Technologien zu investieren, die den Energieverbrauch senken und die Leistung verbessern."
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "e4b909314ee1",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/nieuws-energiezuinige-pompen.webp",
-          "alt": "Energieeffiziente Pumpen für Industrie und Gebäude",
-          "width": 1024,
-          "height": 1024
-        }
-      },
-      {
-        "_uid": "ad598a189be5",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Intelligente Pumpen: Effizienz und Innovation"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Intelligente Pumpen werden wegen ihres geringen Energieverbrauchs und ihrer hohen Effizienz immer häufiger eingesetzt. Diese Pumpen arbeiten oft mit niedriger Drehzahl und passen sich automatisch dem Bedarf an, was zu erheblichen Energieeinsparungen führt. Ein gutes Beispiel für eine intelligente Pumpe sind die Pumpen mit Flygt Concertor. Sie enthalten ein vollständig integriertes System, das hohe betriebliche Flexibilität und optimale Leistung sicherstellt."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Flygt Concertor"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Flygt Concertor ist eine intelligente Pumpe, die mit moderner Technik den Energieverbrauch minimiert. Sie kombiniert ein vollständig integriertes Steuerungssystem mit einem Motorwirkungsgrad der Klasse IE4, moderner N-Hydraulik und intelligenten Funktionen. Dank der eingebauten Intelligenz kann sich die Flygt Concertor automatisch an wechselnde Betriebsbedingungen anpassen, was zu niedrigeren Betriebskosten und weniger Wartung führt. Die Pumpe senkt die Gesamtkosten über die gesamte Lebensdauer der Anlage und bietet zugleich zuverlässige und hochwertige Leistung."
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -226,12 +325,6 @@
           ]
         }
       }
-    ],
-    "image": {
-      "filename": "/img/nl/homepage-bg-sky.webp",
-      "alt": "Himmel als Hintergrundbild für den Beitrag zu energieeffizienten Pumpen",
-      "width": 1280,
-      "height": 241
-    }
+    ]
   }
 }

@@ -15,7 +15,7 @@ export function configStory(): SeedStory {
     legal_name: 'Industrial Pump Group Nederland', legal_form: 'B.V.',
     street: 'Concordiastraat 30', postal_code: '1951 AS', city: 'Velsen-Noord', country_code: 'NL',
     postal_address: 'Postbus 403, 1970 AK IJmuiden',
-    phone: '+31 251 222 566', email: 'info@industrialpumps.nl', opening_hours: P('Öffnungszeiten'),
+    phone: '+31 251 222 566', email: 'info@industrialpumps.nl', opening_hours: 'Mo–Fr 08:00–17:00 Uhr', // from the Dutch contact page
     vat_id: 'NL8034.07.798.B01', register_number: '340 89 823',
     social: ['https://www.facebook.com/industrialpumps.nl', 'https://nl.linkedin.com/company/industrial-pump-group-nederland-b-v-', 'https://www.instagram.com/industrialpumps.nl/'].join(String.fromCharCode(10)),
     footer_about: 'Die Industrial Pump Group ist seit 2003 Ihr Partner für passende Lösungen rund um Ihr Fördermedium. Pumpenexperten mit mehr als 30 Jahren Erfahrung beraten, revidieren und verkaufen Pumpen für industrielle Anwendungen.',
@@ -95,7 +95,7 @@ const PUMP_TYPE_CARDS: [string, string, string, string, number, number][] = [
 ];
 
 /** Brand logos as listed on industrialpumps.nl/pompen/merken: [name, image, width, height, brand page slug]. */
-const BRAND_LOGOS: [string, string, number, number, string?][] = [
+export const BRAND_LOGOS: [string, string, number, number, string?][] = [
   ['SAER', '/img/nl/merken-saer-logo.webp', 120, 54, 'saer'], ['Lowara', '/img/nl/merken-lowara-ipg.webp', 120, 54, 'lowara'],
   ['Flygt', '/img/nl/merken-0015-ipg-01-flygt.webp', 120, 54, 'flygt'], ['Ebara', '/img/nl/merken-0017-ipg-01-ebara.webp', 120, 54, 'ebara'],
   ['Godwin', '/img/nl/godwin.webp', 120, 54], ['Grundfos', '/img/nl/grundfos-ipg.webp', 120, 54, 'grundfos'],

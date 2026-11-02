@@ -1,0 +1,29 @@
+{
+  "component": {
+    "name": "section_column",
+    "display_name": "Spalte",
+    "is_root": false,
+    "is_nestable": true,
+    "schema": {
+      "icon": {
+        "type": "text",
+        "description": "Symbol (optional, z. B. „fa-lightbulb“): zeigt einen Vorteil als Kachel.",
+        "pos": 0
+      },
+      "content": {
+        "type": "bloks",
+        "restrict_components": true,
+        "component_whitelist": [
+          "rich_text",
+          "image_block",
+          "button_row",
+          "faq",
+          "data_table",
+          "cta_band"
+        ],
+        "description": "Inhalt der Spalte.",
+        "pos": 1
+      }
+    }
+  }
+}

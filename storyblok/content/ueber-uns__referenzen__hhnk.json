@@ -12,271 +12,345 @@
     "seo_description": "Referenz Hoogheemraadschap Hollands Noorderkwartier: Pumpenverkauf und technische Beratung für Wasserwirtschaft. Jetzt Beratung zu Pumpen anfragen.",
     "intro": "Das Hoogheemraadschap Hollands Noorderkwartier (HHNK), ein Wasserverband in Nordholland, setzt bei Pumpen auf die Industrial Pump Group (IPG). IPG unterstützt den Verband mit Pumpenverkauf, Lieferung und technischer Beratung.",
     "noindex": true,
-    "customer": "Referenz Hollands Noorderkwartier (HHNK): Pumpenlösungen für die Wasserwirtschaft",
     "body": [
       {
-        "_uid": "683711dbc190",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 4
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kundenreferenz: Hollands Noorderkwartier (HHNK)"
+        "_uid": "1cb30b8da82c",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "7dc1c57ea8ed",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "2f8a749fcc31",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 4
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kundenreferenz: Hollands Noorderkwartier (HHNK)"
+                        }
+                      ]
+                    }
+                  ]
                 }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ein zuverlässiger Partner für Pumpenlösungen in der Wasserwirtschaft"
+              }
+            ]
+          },
+          {
+            "_uid": "2b96d24b0a75",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "7b3e9e5f81ac",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ein zuverlässiger Partner für Pumpenlösungen in der Wasserwirtschaft"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Das Hoogheemraadschap Hollands Noorderkwartier (HHNK) spielt eine wichtige Rolle in der Wasserwirtschaft Nordhollands nördlich des Nordseekanals. Um Hochwasserschutz, Wasserqualität und Abwasserreinigung bestmöglich sicherzustellen, benötigt HHNK zuverlässige und effiziente Pumpenlösungen. IPG ist seit geraumer Zeit ein vertrauter Partner von HHNK im Bereich Pumpen. Wir unterstützen den Verband nicht nur mit Verkauf und Lieferung von Pumpen, sondern auch mit maßgeschneiderter Beratung. So helfen wir HHNK mittelbar bei seinem übergeordneten Ziel: einer nachhaltigen und effizienten Wasserwirtschaft."
+                        }
+                      ]
+                    }
+                  ]
                 }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Das Hoogheemraadschap Hollands Noorderkwartier (HHNK) spielt eine wichtige Rolle in der Wasserwirtschaft Nordhollands nördlich des Nordseekanals. Um Hochwasserschutz, Wasserqualität und Abwasserreinigung bestmöglich sicherzustellen, benötigt HHNK zuverlässige und effiziente Pumpenlösungen. IPG ist seit geraumer Zeit ein vertrauter Partner von HHNK im Bereich Pumpen. Wir unterstützen den Verband nicht nur mit Verkauf und Lieferung von Pumpen, sondern auch mit maßgeschneiderter Beratung. So helfen wir HHNK mittelbar bei seinem übergeordneten Ziel: einer nachhaltigen und effizienten Wasserwirtschaft."
-                }
-              ]
-            }
-          ]
-        }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "72a86a2d6819",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/hhnk-logo.webp",
-          "alt": "Logo des Hoogheemraadschap Hollands Noorderkwartier (HHNK)",
-          "width": 470,
-          "height": 292
-        }
+        "_uid": "5b01ab897480",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "d3cc694e6b75",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "4a60eba805aa",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/hhnk-logo.webp",
+                  "alt": "Logo des Hoogheemraadschap Hollands Noorderkwartier (HHNK)",
+                  "width": 470,
+                  "height": 292
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "2f37b6842965",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "49cf99f90f56",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Zusammenarbeit"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "HHNK hat es mit verschiedenen Herausforderungen rund um Pumpen zu tun: von der Wartung bestehender Anlagen bis zur Beschaffung neuer Systeme. Dank unseres breiten Fachwissens und unserer Erfahrung können wir in jeder Phase unterstützen. Unsere Zusammenarbeit umfasst:"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Verkauf von Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "bold"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": ": IPG liefert hochwertige Pumpenlösungen, die auf den speziellen Bedarf von HHNK zugeschnitten sind."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Technische Beratung",
+                                  "marks": [
+                                    {
+                                      "type": "bold"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": ": Unsere Experten beraten HHNK zu geeigneten Pumpenkonfigurationen und energieeffizienten Lösungen."
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "7a56122d9bee",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Zusammenarbeit"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "HHNK hat es mit verschiedenen Herausforderungen rund um Pumpen zu tun: von der Wartung bestehender Anlagen bis zur Beschaffung neuer Systeme. Dank unseres breiten Fachwissens und unserer Erfahrung können wir in jeder Phase unterstützen. Unsere Zusammenarbeit umfasst:"
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
+        "_uid": "6540358f135f",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "41e369d3230c",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "087ac35cb47e",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Das Ergebnis"
+                        }
+                      ]
+                    },
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "Verkauf von Pumpen",
-                          "marks": [
-                            {
-                              "type": "bold"
-                            }
-                          ]
-                        },
-                        {
-                          "type": "text",
-                          "text": ": IPG liefert hochwertige Pumpenlösungen, die auf den speziellen Bedarf von HHNK zugeschnitten sind."
+                          "text": "Dank der Zusammenarbeit mit IPG kann HHNK auf ein effizienteres und nachhaltigeres Vorgehen in der Wasserwirtschaft bauen. Die Vorteile unserer Unterstützung:"
                         }
                       ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
+                    },
                     {
-                      "type": "paragraph",
+                      "type": "bullet_list",
                       "content": [
                         {
-                          "type": "text",
-                          "text": "Technische Beratung",
-                          "marks": [
+                          "type": "list_item",
+                          "content": [
                             {
-                              "type": "bold"
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Geringere Betriebskosten",
+                                  "marks": [
+                                    {
+                                      "type": "bold"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": ": Bessere Pumpenauswahl und effiziente Wartung führen zu weniger Störungen und niedrigeren Kosten."
+                                }
+                              ]
                             }
                           ]
                         },
                         {
-                          "type": "text",
-                          "text": ": Unsere Experten beraten HHNK zu geeigneten Pumpenkonfigurationen und energieeffizienten Lösungen."
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Längere Lebensdauer der Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "bold"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": ": Regelmäßige Revisionen und Wartung sorgen für eine längere Nutzungsdauer und gleichbleibende Leistung."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Verlässliche Unterstützung",
+                                  "marks": [
+                                    {
+                                      "type": "bold"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": ": IPG ist ein flexibler und engagierter Partner, der schnell auf Anfragen reagiert und maßgeschneiderte Lösungen bietet."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Nachhaltige Wasserwirtschaft",
+                                  "marks": [
+                                    {
+                                      "type": "bold"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": ": Unsere Lösungen tragen durch geringeren Energieverbrauch und weniger Verschwendung zu den Nachhaltigkeitszielen von HHNK bei."
+                                }
+                              ]
+                            }
+                          ]
                         }
                       ]
                     }
                   ]
                 }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Das Ergebnis"
+              }
+            ]
+          },
+          {
+            "_uid": "0a5b63f51e9c",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "76f6cb2558e1",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/revisie-revisie-2.webp",
+                  "alt": "Pumpenrevision in der IPG-Werkstatt",
+                  "width": 1280,
+                  "height": 854
                 }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Dank der Zusammenarbeit mit IPG kann HHNK auf ein effizienteres und nachhaltigeres Vorgehen in der Wasserwirtschaft bauen. Die Vorteile unserer Unterstützung:"
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Geringere Betriebskosten",
-                          "marks": [
-                            {
-                              "type": "bold"
-                            }
-                          ]
-                        },
-                        {
-                          "type": "text",
-                          "text": ": Bessere Pumpenauswahl und effiziente Wartung führen zu weniger Störungen und niedrigeren Kosten."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Längere Lebensdauer der Pumpen",
-                          "marks": [
-                            {
-                              "type": "bold"
-                            }
-                          ]
-                        },
-                        {
-                          "type": "text",
-                          "text": ": Regelmäßige Revisionen und Wartung sorgen für eine längere Nutzungsdauer und gleichbleibende Leistung."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Verlässliche Unterstützung",
-                          "marks": [
-                            {
-                              "type": "bold"
-                            }
-                          ]
-                        },
-                        {
-                          "type": "text",
-                          "text": ": IPG ist ein flexibler und engagierter Partner, der schnell auf Anfragen reagiert und maßgeschneiderte Lösungen bietet."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Nachhaltige Wasserwirtschaft",
-                          "marks": [
-                            {
-                              "type": "bold"
-                            }
-                          ]
-                        },
-                        {
-                          "type": "text",
-                          "text": ": Unsere Lösungen tragen durch geringeren Energieverbrauch und weniger Verschwendung zu den Nachhaltigkeitszielen von HHNK bei."
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "59416bc7650e",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/revisie-revisie-2.webp",
-          "alt": "Pumpenrevision in der IPG-Werkstatt",
-          "width": 1280,
-          "height": 854
-        }
-      },
-      {
-        "_uid": "784de93efc5b",
+        "_uid": "657109c11f46",
         "component": "rich_text",
         "content": {
           "type": "doc",

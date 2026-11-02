@@ -15,648 +15,896 @@
     "topic_kind": "pumpentyp",
     "body": [
       {
-        "_uid": "4bdab214379d",
+        "_uid": "ce3218c46021",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "d36190246b6d",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "3208d1b9e1c9",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Prozesswasserpumpen sind Pumpen, die zum Fördern von Wasser in industriellen Prozessen eingesetzt werden, zum Beispiel zur Kühlung oder Reinigung von Maschinen und Anlagen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "97a9c06eea75",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "4601496c5829",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Agrar",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/branchen/landwirtschaft",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Metallindustrie",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/branchen/stahlindustrie",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Papierindustrie",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/branchen/papierindustrie",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Lebensmittelindustrie",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/branchen/lebensmittelindustrie",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Blockpumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/pumpentypen/blockpumpen",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Tauchmotorpumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/pumpentypen/tauchmotorpumpen",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Mehrstufige Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/pumpentypen/mehrstufige-pumpen",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "c0f4c6a3eafb",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "5723bcf7a51d",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "48cf3fc6326f",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Alles Wichtige zu Prozesswasserpumpen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "38483ec1ac36",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "c9945457e1c3",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Prozesswasserpumpen sind Pumpen, die in industriellen Prozessen Wasser für Kühlung, Reinigung und andere Anwendungen fördern. Es gibt verschiedene Bauarten, etwa Kreiselpumpen, Drehkolbenpumpen und Kammerpumpen, die jeweils für bestimmte Anwendungen geeignet sind."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bei der Auswahl der passenden Prozesswasserpumpe sind Faktoren wie Förderstrom, Förderhöhe und erforderlicher Druck zu berücksichtigen. Ebenso wichtig ist die Wahl geeigneter Werkstoffe, um Korrosion zu vermeiden und die Lebensdauer der Pumpe zu verlängern."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "13df67810604",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "8c7c2e911093",
+            "component": "section_column",
+            "icon": "fa-lightbulb",
+            "content": [
+              {
+                "_uid": "3d80f071f210",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Energieeffizient",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Prozesswasserpumpen sind so ausgelegt, dass sie Energie effizient nutzen. Das senkt die Energiekosten und verringert den ökologischen Fußabdruck."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "9a0d98f4474a",
+            "component": "section_column",
+            "icon": "fa-tint",
+            "content": [
+              {
+                "_uid": "5cfd983abdad",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Geeignet für lange Förderstrecken",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Diese Pumpen können Wasser über große Entfernungen transportieren. Das ist sinnvoll für industrielle Prozesse, die Wasser von externen Standorten benötigen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "625a47e7d6ec",
+            "component": "section_column",
+            "icon": "fa-check",
+            "content": [
+              {
+                "_uid": "d0c23a7c63b5",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Hohe Zuverlässigkeit",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Prozesswasserpumpen sind für den Einsatz unter schwierigen Bedingungen gebaut, mit minimalen Stillstandszeiten und geringem Wartungsaufwand. Das erhöht die Zuverlässigkeit industrieller Prozesse."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "4ba57e197624",
+            "component": "section_column",
+            "icon": "fa-tools",
+            "content": [
+              {
+                "_uid": "3cd708743f49",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Verbesserte Produktqualität",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Indem sie einen konstanten Wasserstrom mit passendem Druck und passender Temperatur liefern, tragen diese Pumpen zu gleichbleibender Qualität des Endprodukts bei."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "b23275abcd1b",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "80da1153ef4b",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "2f8dbcf10b0e",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Vorteile von Prozesswasserpumpen für industrielle Anwendungen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Prozesswasserpumpen sind für industrielle Prozesse wesentlich, in denen Wasser für unterschiedliche Zwecke genutzt wird, etwa zur Kühlung, zur Reinigung und zum Transport von Materialien. Diese Pumpen sind für den Einsatz unter schwierigen Bedingungen ausgelegt und können große Wassermengen mit hoher Geschwindigkeit fördern."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ein wichtiger Vorteil von Prozesswasserpumpen ist ihre Energieeffizienz, die eine effiziente Wasseraufbereitung unterstützt. Das spart nicht nur Energiekosten, sondern verringert durch geringeren Wasserverbrauch und weniger Abfall auch die Umweltbelastung."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ein weiterer Vorteil: Prozesswasserpumpen können Wasser über lange Strecken transportieren. So lässt sich Wasser von einem anderen Standort heranführen und im Produktionsprozess nutzen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Darüber hinaus bieten Prozesswasserpumpen eine hohe Zuverlässigkeit und sind für den Betrieb unter schwierigen Bedingungen mit minimalen Stillstandszeiten und geringem Wartungsaufwand ausgelegt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Wie Prozesswasserpumpen die Effizienz Ihrer industriellen Prozesse verbessern können"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Prozesswasserpumpen spielen eine wichtige Rolle bei der Optimierung industrieller Prozesse. Wenn Sie die passende Pumpe auswählen und richtig einsetzen, können Sie die Effizienz Ihres Produktionsprozesses verbessern und Ihre Kosten senken."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mit der passenden Prozesswasserpumpe können Sie die für Ihre Prozesse benötigte Wassermenge verringern, was Wasser und Energie spart. Außerdem können Prozesswasserpumpen Produktionsausfälle verringern, indem sie ungeplante Stillstände durch Störungen und Wartung minimieren."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Darüber hinaus können Prozesswasserpumpen die Qualität des Endprodukts verbessern, indem sie einen konstanten Wasserstrom mit passendem Druck und passender Temperatur sicherstellen. Das führt zu besserer und gleichmäßigerer Produktqualität."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "a7b893eb282a",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "3ed9f8ab3e89",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/segmenten-proceswater-2.webp",
+                  "alt": "Prozesswasserpumpen | Industrial Pump Group",
+                  "width": 1000,
+                  "height": 667
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "39de0429e542",
+        "component": "section_row",
+        "layout": "carousel",
+        "columns": [
+          {
+            "_uid": "50033aa7de0a",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "fa01163427bf",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Robert von IPG: unverzichtbare Unterstützung für Wasseraufbereitungsprojekte.",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Projektleiter schätze ich die fachkundige Unterstützung von Robert von IPG. Sein Einsatz für Wasseraufbereitungsprojekte und seine schnelle Reaktion bei Störungen sind von unschätzbarem Wert. Mit Robert haben wir einen Experten für Pumpentechnik und einen verlässlichen Berater für unseren Betrieb."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Projektleiter",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " in einer Wasseraufbereitungsanlage."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "24b2abe48259",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "9fc54573ba05",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG: ein verlässlicher Partner bei Einkauf und Optimierung!",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Einkaufsleiter schätze ich IPG als Partner, der unsere Anforderungen versteht und schnell liefert. Die Fachkenntnis und die Beratung haben unsere Prozesse optimiert."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Einkaufsleiter",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " bei einem Lebensmittelhersteller."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "ab744e66c800",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "f47078a61797",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG ist ein unverzichtbarer Partner für Produktionseffizienz!",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Produktionsleiter schätze ich IPG als unverzichtbaren Partner für Effizienz und Verfügbarkeit. Das fachkundige Team hat uns mit den passenden Pumpen und mit Service für eine gleichbleibende Produktion unterstützt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Projektleiter",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " in einer Papierfabrik."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "df341badf2c9",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "f920a15e5f60",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Effiziente und robuste Pumpen für Prozesswasser!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Prozesswasserpumpen von IPG sind effizient und zuverlässig, was für unsere Produktionsprozesse wesentlich ist. Die Produkte haben eine lange Lebensdauer und erfordern wenig Wartung, was unsere Kosten senkt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Operations Manager bei einem Lebensmittelhersteller in den Niederlanden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "c5a3cab7e731",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "2243433a90d7",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Hervorragender Service und maßgeschneiderte Lösungen!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG versteht unsere besonderen Anforderungen bei der Prozesswasseraufbereitung. Die Pumpen sind langlebig, und das Team denkt aktiv bei Verbesserungen unserer Prozesse mit."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Verfahrensingenieur bei einem Chemieunternehmen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "47509df4518c",
+        "component": "cta_band",
+        "heading": "Unverbindlich Kontakt aufnehmen",
+        "text": "Wir beraten Sie gern zu Auswahl, Ersatz und Revision Ihrer Pumpe.",
+        "button_label": "Kontakt aufnehmen",
+        "button_link": {
+          "fieldtype": "multilink",
+          "linktype": "url",
+          "url": "/kontakt",
+          "cached_url": "/kontakt"
+        },
+        "variant": "primary"
+      },
+      {
+        "_uid": "3d3e6b006988",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Prozesswasserpumpen sind Pumpen, die zum Fördern von Wasser in industriellen Prozessen eingesetzt werden, zum Beispiel zur Kühlung oder Reinigung von Maschinen und Anlagen."
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Agrar",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/branchen/landwirtschaft",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Metallindustrie",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/branchen/stahlindustrie",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Papierindustrie",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/branchen/papierindustrie",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Lebensmittelindustrie",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/branchen/lebensmittelindustrie",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Blockpumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/pumpentypen/blockpumpen",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Tauchmotorpumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/pumpentypen/tauchmotorpumpen",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Mehrstufige Pumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/pumpentypen/mehrstufige-pumpen",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Alles Wichtige zu Prozesswasserpumpen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Prozesswasserpumpen sind Pumpen, die in industriellen Prozessen Wasser für Kühlung, Reinigung und andere Anwendungen fördern. Es gibt verschiedene Bauarten, etwa Kreiselpumpen, Drehkolbenpumpen und Kammerpumpen, die jeweils für bestimmte Anwendungen geeignet sind."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bei der Auswahl der passenden Prozesswasserpumpe sind Faktoren wie Förderstrom, Förderhöhe und erforderlicher Druck zu berücksichtigen. Ebenso wichtig ist die Wahl geeigneter Werkstoffe, um Korrosion zu vermeiden und die Lebensdauer der Pumpe zu verlängern."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Energieeffizient",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Prozesswasserpumpen sind so ausgelegt, dass sie Energie effizient nutzen. Das senkt die Energiekosten und verringert den ökologischen Fußabdruck."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Geeignet für lange Förderstrecken",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Diese Pumpen können Wasser über große Entfernungen transportieren. Das ist sinnvoll für industrielle Prozesse, die Wasser von externen Standorten benötigen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Hohe Zuverlässigkeit",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Prozesswasserpumpen sind für den Einsatz unter schwierigen Bedingungen gebaut, mit minimalen Stillstandszeiten und geringem Wartungsaufwand. Das erhöht die Zuverlässigkeit industrieller Prozesse."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Verbesserte Produktqualität",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Indem sie einen konstanten Wasserstrom mit passendem Druck und passender Temperatur liefern, tragen diese Pumpen zu gleichbleibender Qualität des Endprodukts bei."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Vorteile von Prozesswasserpumpen für industrielle Anwendungen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Prozesswasserpumpen sind für industrielle Prozesse wesentlich, in denen Wasser für unterschiedliche Zwecke genutzt wird, etwa zur Kühlung, zur Reinigung und zum Transport von Materialien. Diese Pumpen sind für den Einsatz unter schwierigen Bedingungen ausgelegt und können große Wassermengen mit hoher Geschwindigkeit fördern."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ein wichtiger Vorteil von Prozesswasserpumpen ist ihre Energieeffizienz, die eine effiziente Wasseraufbereitung unterstützt. Das spart nicht nur Energiekosten, sondern verringert durch geringeren Wasserverbrauch und weniger Abfall auch die Umweltbelastung."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ein weiterer Vorteil: Prozesswasserpumpen können Wasser über lange Strecken transportieren. So lässt sich Wasser von einem anderen Standort heranführen und im Produktionsprozess nutzen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Darüber hinaus bieten Prozesswasserpumpen eine hohe Zuverlässigkeit und sind für den Betrieb unter schwierigen Bedingungen mit minimalen Stillstandszeiten und geringem Wartungsaufwand ausgelegt."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Wie Prozesswasserpumpen die Effizienz Ihrer industriellen Prozesse verbessern können"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Prozesswasserpumpen spielen eine wichtige Rolle bei der Optimierung industrieller Prozesse. Wenn Sie die passende Pumpe auswählen und richtig einsetzen, können Sie die Effizienz Ihres Produktionsprozesses verbessern und Ihre Kosten senken."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mit der passenden Prozesswasserpumpe können Sie die für Ihre Prozesse benötigte Wassermenge verringern, was Wasser und Energie spart. Außerdem können Prozesswasserpumpen Produktionsausfälle verringern, indem sie ungeplante Stillstände durch Störungen und Wartung minimieren."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Darüber hinaus können Prozesswasserpumpen die Qualität des Endprodukts verbessern, indem sie einen konstanten Wasserstrom mit passendem Druck und passender Temperatur sicherstellen. Das führt zu besserer und gleichmäßigerer Produktqualität."
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "537dccaa80c5",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/segmenten-proceswater-2.webp",
-          "alt": "Prozesswasserpumpen | Industrial Pump Group",
-          "width": 1000,
-          "height": 667
-        }
-      },
-      {
-        "_uid": "1a73181c0d43",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Robert von IPG: unverzichtbare Unterstützung für Wasseraufbereitungsprojekte.",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Projektleiter schätze ich die fachkundige Unterstützung von Robert von IPG. Sein Einsatz für Wasseraufbereitungsprojekte und seine schnelle Reaktion bei Störungen sind von unschätzbarem Wert. Mit Robert haben wir einen Experten für Pumpentechnik und einen verlässlichen Berater für unseren Betrieb."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Projektleiter",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " in einer Wasseraufbereitungsanlage."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG: ein verlässlicher Partner bei Einkauf und Optimierung!",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Einkaufsleiter schätze ich IPG als Partner, der unsere Anforderungen versteht und schnell liefert. Die Fachkenntnis und die Beratung haben unsere Prozesse optimiert."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Einkaufsleiter",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " bei einem Lebensmittelhersteller."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG ist ein unverzichtbarer Partner für Produktionseffizienz!",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Produktionsleiter schätze ich IPG als unverzichtbaren Partner für Effizienz und Verfügbarkeit. Das fachkundige Team hat uns mit den passenden Pumpen und mit Service für eine gleichbleibende Produktion unterstützt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Projektleiter",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " in einer Papierfabrik."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Effiziente und robuste Pumpen für Prozesswasser!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Prozesswasserpumpen von IPG sind effizient und zuverlässig, was für unsere Produktionsprozesse wesentlich ist. Die Produkte haben eine lange Lebensdauer und erfordern wenig Wartung, was unsere Kosten senkt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Operations Manager bei einem Lebensmittelhersteller in den Niederlanden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Hervorragender Service und maßgeschneiderte Lösungen!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG versteht unsere besonderen Anforderungen bei der Prozesswasseraufbereitung. Die Pumpen sind langlebig, und das Team denkt aktiv bei Verbesserungen unserer Prozesse mit."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Verfahrensingenieur bei einem Chemieunternehmen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 4
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Unverbindlich Kontakt aufnehmen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -700,126 +948,166 @@
         }
       },
       {
-        "_uid": "e4f76e48fe1c",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-saer-m80.webp",
-          "alt": "Blockpumpen als Prozesswasserpumpen | Industrial Pump Group",
-          "width": 1200,
-          "height": 1200
-        }
+        "_uid": "ea88d14bbdb1",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "541783828057",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "97b797138703",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-saer-m80.webp",
+                  "alt": "Blockpumpen als Prozesswasserpumpen | Industrial Pump Group",
+                  "width": 1200,
+                  "height": 1200
+                }
+              },
+              {
+                "_uid": "4b4e464d044c",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Blockpumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "92c542a110d5",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "18283a79c0ca",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-dompelpomp2.webp",
+                  "alt": "Tauchmotorpumpen als Prozesswasserpumpen | Industrial Pump Group",
+                  "width": 318,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "4f3050be0ca8",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Tauchmotorpumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "b5ff6eccfd15",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "59225f6b05b7",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/homepage-product4-2.webp",
+                  "alt": "Mehrstufige Pumpen als Prozesswasserpumpen | Industrial Pump Group",
+                  "width": 219,
+                  "height": 152
+                }
+              },
+              {
+                "_uid": "12a367368623",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über mehrstufige Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "e3cd6dea4cb5",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "c9be099c860f",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-koelwaterpompen.webp",
+                  "alt": "Axial geteilte Pumpen als Prozesswasserpumpen | Industrial Pump Group",
+                  "width": 600,
+                  "height": 600
+                }
+              },
+              {
+                "_uid": "07da1309b813",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über axial geteilte Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "b68509c8d68e",
+        "_uid": "99c1d31f602b",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Blockpumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "125bc1dfc249",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-dompelpomp2.webp",
-          "alt": "Tauchmotorpumpen als Prozesswasserpumpen | Industrial Pump Group",
-          "width": 318,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "de4637ec92dc",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Tauchmotorpumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "a3f3e0dbf26b",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-product4-2.webp",
-          "alt": "Mehrstufige Pumpen als Prozesswasserpumpen | Industrial Pump Group",
-          "width": 219,
-          "height": 152
-        }
-      },
-      {
-        "_uid": "0a2f8d7ed4b2",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über mehrstufige Pumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "5b9587d1d211",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-koelwaterpompen.webp",
-          "alt": "Axial geteilte Pumpen als Prozesswasserpumpen | Industrial Pump Group",
-          "width": 600,
-          "height": 600
-        }
-      },
-      {
-        "_uid": "1e9361fddae3",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über axial geteilte Pumpen lesen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -867,7 +1155,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Die Auswahl der passenden Prozesswasserpumpe erfordert Fachwissen und Erfahrung. Ziehen Sie daher immer einen Spezialisten hinzu, damit Sie die richtige Pumpe für Ihre konkrete Anwendung und Ihre Anforderungen wählen. Die Experten von IPG stehen Ihnen zur Verfügung: Nehmen Sie unverbindlich Kontakt auf unter [[PLATZHALTER: Telefon]] oder [[PLATZHALTER: E-Mail]]."
+                  "text": "Die Auswahl der passenden Prozesswasserpumpe erfordert Fachwissen und Erfahrung. Ziehen Sie daher immer einen Spezialisten hinzu, damit Sie die richtige Pumpe für Ihre konkrete Anwendung und Ihre Anforderungen wählen. Die Experten von IPG stehen Ihnen zur Verfügung: Nehmen Sie unverbindlich Kontakt auf unter +31 251 222 566 oder info@industrialpumps.nl."
                 }
               ]
             }
@@ -875,43 +1163,62 @@
         }
       },
       {
-        "_uid": "7490a4372d7b",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/segmenten-proceswater-3.webp",
-          "alt": "Funktionsweise von Prozesswasserpumpen | Industrial Pump Group",
-          "width": 1000,
-          "height": 665
-        }
-      },
-      {
-        "_uid": "15b86e878910",
-        "component": "faq",
-        "heading": "Häufige Fragen",
-        "items": [
+        "_uid": "bb1d4febbb51",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
           {
-            "_uid": "30d01259965a",
-            "component": "faq_item",
-            "question": "Was sind Prozesswasserpumpen?",
-            "answer": "Prozesswasserpumpen sind Pumpen, die in industriellen Prozessen Wasser für verschiedene Anwendungen fördern, etwa für Kühlung, Heizung, Reinigung und Produktion."
+            "_uid": "2913f96ecc32",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "b2417169e2bc",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/segmenten-proceswater-3.webp",
+                  "alt": "Funktionsweise von Prozesswasserpumpen | Industrial Pump Group",
+                  "width": 1000,
+                  "height": 665
+                }
+              }
+            ]
           },
           {
-            "_uid": "d1f5fa6f8aea",
-            "component": "faq_item",
-            "question": "Warum sind Prozesswasserpumpen wichtig?",
-            "answer": "Prozesswasserpumpen sind für die Optimierung industrieller Prozesse entscheidend. Sie sorgen für den richtigen Wasserstrom mit passendem Druck und passender Temperatur, was zu besserer und gleichmäßigerer Produktqualität führt."
-          },
-          {
-            "_uid": "9cb5ec0b89d9",
-            "component": "faq_item",
-            "question": "Welche Arten von Prozesswasserpumpen gibt es?",
-            "answer": "Es gibt verschiedene Bauarten von Prozesswasserpumpen, darunter Kreiselpumpen, Zahnradpumpen, Membranpumpen und Schlauchpumpen. Die Wahl hängt von der konkreten Anwendung und den Anforderungen des Betreibers ab."
-          },
-          {
-            "_uid": "64b38b176daf",
-            "component": "faq_item",
-            "question": "Wie stelle ich sicher, dass meine Prozesswasserpumpe zuverlässig arbeitet?",
-            "answer": "Regelmäßige Wartung Ihrer Prozesswasserpumpe ist wichtig, um einen zuverlässigen Betrieb zu gewährleisten und Probleme zu erkennen, bevor sie auftreten. Das reicht vom Austausch von Ersatzteilen bis zu vorbeugenden Maßnahmen gegen Störungen."
+            "_uid": "632204c08086",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "6ce3c7d7537f",
+                "component": "faq",
+                "heading": "Häufige Fragen",
+                "items": [
+                  {
+                    "_uid": "780da8740238",
+                    "component": "faq_item",
+                    "question": "Was sind Prozesswasserpumpen?",
+                    "answer": "Prozesswasserpumpen sind Pumpen, die in industriellen Prozessen Wasser für verschiedene Anwendungen fördern, etwa für Kühlung, Heizung, Reinigung und Produktion."
+                  },
+                  {
+                    "_uid": "be8c86ecbe3f",
+                    "component": "faq_item",
+                    "question": "Warum sind Prozesswasserpumpen wichtig?",
+                    "answer": "Prozesswasserpumpen sind für die Optimierung industrieller Prozesse entscheidend. Sie sorgen für den richtigen Wasserstrom mit passendem Druck und passender Temperatur, was zu besserer und gleichmäßigerer Produktqualität führt."
+                  },
+                  {
+                    "_uid": "00068882eb1b",
+                    "component": "faq_item",
+                    "question": "Welche Arten von Prozesswasserpumpen gibt es?",
+                    "answer": "Es gibt verschiedene Bauarten von Prozesswasserpumpen, darunter Kreiselpumpen, Zahnradpumpen, Membranpumpen und Schlauchpumpen. Die Wahl hängt von der konkreten Anwendung und den Anforderungen des Betreibers ab."
+                  },
+                  {
+                    "_uid": "7f71d266b3d7",
+                    "component": "faq_item",
+                    "question": "Wie stelle ich sicher, dass meine Prozesswasserpumpe zuverlässig arbeitet?",
+                    "answer": "Regelmäßige Wartung Ihrer Prozesswasserpumpe ist wichtig, um einen zuverlässigen Betrieb zu gewährleisten und Probleme zu erkennen, bevor sie auftreten. Das reicht vom Austausch von Ersatzteilen bis zu vorbeugenden Maßnahmen gegen Störungen."
+                  }
+                ]
+              }
+            ]
           }
         ]
       }

@@ -5,6 +5,7 @@ import type { Site } from '../lib/storyblok';
 import PageHead from '../components/PageHead.astro';
 import RichTextHtml from '../components/RichTextHtml.astro';
 import QuoteCta from '../components/QuoteCta.astro';
+import { hasOwnCta } from '../lib/page-cta';
 import Bloks from '../components/Bloks.astro';
 interface Props { story: PageStory<PageCourse>; site: Site }
 const { story, site } = Astro.props;
@@ -13,7 +14,7 @@ const MODE = { onsite: 'Präsenz', online: 'Online', blended: 'Blended Learning'
 ---
 <PageHead story={story} site={site} h1={c.h1 || story.name} intro={c.intro} />
 {c.goals && <section class="section"><div class="wrap"><h2>Lernziele</h2><RichTextHtml doc={c.goals} /></div></section>}
-<section class="section">
+{(c.audience || c.duration || c.mode || c.level) && <section class="section">
   <div class="wrap">
     <h2>Zielgruppe, Dauer und Format</h2>
     <dl class="kv">
@@ -23,8 +24,8 @@ const MODE = { onsite: 'Präsenz', online: 'Online', blended: 'Blended Learning'
       {c.level && <><dt>Niveau</dt><dd>{c.level}</dd></>}
     </dl>
   </div>
-</section>
+</section>}
 {c.dates && <section class="section"><div class="wrap"><h2>Termine</h2><p>{c.dates}</p></div></section>}
 <Bloks bloks={c.body} site={site} />
-<div class="wrap"><QuoteCta heading="Anmeldung" text="Schreiben Sie uns kurz, an welchem Kurs Sie teilnehmen möchten." label="Kurs anfragen" href="/kontakt" /></div>
+{!hasOwnCta(c) && <div class="wrap"><QuoteCta heading="Anmeldung" text="Schreiben Sie uns kurz, an welchem Kurs Sie teilnehmen möchten." label="Kurs anfragen" href="/kontakt" /></div>}
 <Bloks bloks={c.cta} site={site} />

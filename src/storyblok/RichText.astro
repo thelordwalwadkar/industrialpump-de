@@ -1,7 +1,8 @@
 ---
 import type { RichTextBlok } from '../lib/types';
 import RichTextHtml from '../components/RichTextHtml.astro';
-interface Props { blok: RichTextBlok }
-const { blok } = Astro.props;
+/** bare: inside a column (section_row) the text renders without its own section wrapper. */
+interface Props { blok: RichTextBlok; bare?: boolean }
+const { blok, bare = false } = Astro.props;
 ---
-<section class="section"><div class="wrap"><RichTextHtml doc={blok.content} /></div></section>
+{bare ? <RichTextHtml doc={blok.content} /> : <section class="section"><div class="wrap"><RichTextHtml doc={blok.content} /></div></section>}

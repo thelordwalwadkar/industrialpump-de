@@ -8,6 +8,7 @@ import PageHead from '../components/PageHead.astro';
 import RichTextHtml from '../components/RichTextHtml.astro';
 import FaqList from '../components/FaqList.astro';
 import QuoteCta from '../components/QuoteCta.astro';
+import { hasOwnCta } from '../lib/page-cta';
 import Steps from '../storyblok/Steps.astro';
 import RelatedLinks from '../storyblok/RelatedLinks.astro';
 import Bloks from '../components/Bloks.astro';
@@ -25,5 +26,5 @@ const cta = isRevision ? { heading: 'Revision anfragen', label: 'Revision anfrag
 {c.covered?.map((b) => <RelatedLinks blok={b} site={site} />)}
 <Bloks bloks={c.body} site={site} />
 <div class="wrap"><FaqList faqs={c.faq} /></div>
-<div class="wrap"><QuoteCta heading={cta.heading} label={cta.label} href={cta.href} variant={isRevision ? 'overhaul' : 'primary'} text="Senden Sie uns Typenschild oder Betriebsdaten der Pumpe." /></div>
+{!hasOwnCta(c) && <div class="wrap"><QuoteCta heading={cta.heading} label={cta.label} href={cta.href} variant={isRevision ? 'overhaul' : 'primary'} text="Senden Sie uns Typenschild oder Betriebsdaten der Pumpe." /></div>}
 <Bloks bloks={c.cta} site={site} />

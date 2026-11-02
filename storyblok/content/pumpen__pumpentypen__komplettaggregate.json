@@ -15,608 +15,856 @@
     "topic_kind": "pumpentyp",
     "body": [
       {
-        "_uid": "f109e68c3ce5",
+        "_uid": "5c85386cde12",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "7d1f1283baae",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "6f19ad38f528",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Komplettaggregate (Total Pump Units) sind vollständige Pumpensysteme, die aus Pumpe, Motor, Verrohrung und Regeltechnik bestehen. Sie sind darauf ausgelegt, die Effizienz und Zuverlässigkeit industrieller Prozesse zu verbessern."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "5ef828be6aa3",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "1bab5f883401",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Chemische Industrie",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/branchen/chemische-industrie",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Metallindustrie",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/branchen/stahlindustrie",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Papierindustrie",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/branchen/papierindustrie",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Löschwasser-Sets",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/anwendungen/loeschwasser",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Prozesswasser",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/anwendungen/prozesswasser",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "bc38c36fa842",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "3f5c71e3b531",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "a93a35478a7e",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Vorteile und Anwendungen: komplette Pumpensysteme"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "c404c6d7a2dd",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "e48824f4a5b5",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Komplettaggregate sind eine verbreitete Alternative zu einzelnen Pumpen, weil sie mehrere Vorteile bieten, darunter Effizienz, Zuverlässigkeit und einfache Wartung. Diese kompletten Pumpensysteme sind darauf ausgelegt, die Integrität und Leistung industrieller Prozesse zu verbessern, und bieten eine integrierte Lösung für die Förderung von Flüssigkeiten und Gasen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mit einer Gesamtlösung können Unternehmen Kosten für Beschaffung und Wartung einzelner Komponenten sparen und die betriebliche Effizienz erhöhen. Komplettaggregate eignen sich für ein breites Spektrum an Anwendungen, darunter Wasseraufbereitung, Lebensmittel- und Getränkeindustrie, Petrochemie und weitere."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "c2cc0c0beb84",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "5cd41794593d",
+            "component": "section_column",
+            "icon": "fa-wrench",
+            "content": [
+              {
+                "_uid": "738aa547a877",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Integrale Lösung",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Komplettaggregate enthalten alle Bauteile, die für die direkte Installation und den Betrieb erforderlich sind."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "ec0f0fffc3a0",
+            "component": "section_column",
+            "icon": "fa-faucet",
+            "content": [
+              {
+                "_uid": "189bb4bb1010",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Höhere Effizienz",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die integrierte Auslegung erhöht die betriebliche Effizienz und senkt die Kosten."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "44c0fd97db54",
+            "component": "section_column",
+            "icon": "fa-tools",
+            "content": [
+              {
+                "_uid": "e38ecbce87b4",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Einfache Wartung",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Durch gut aufeinander abgestimmte Komponenten sinkt der Wartungsaufwand, was zu geringeren Wartungskosten führt."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "9f10af3aa5c3",
+            "component": "section_column",
+            "icon": "fa-sync-alt",
+            "content": [
+              {
+                "_uid": "c0068949f0d9",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Anpassbar an Kundenspezifikationen",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Pumpensysteme lassen sich an die spezifischen Anforderungen und die bestehenden Anlagen des Kunden anpassen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "9bdfaedfc55c",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "86ddcc363a04",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ad2e4228f516",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Komplette Pumpensets"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Neben verschiedenen Pumpentypen unterschiedlicher Marken liefert die Industrial Pump Group (IPG) auch komplette Pumpensets."
+                        },
+                        {
+                          "type": "hard_break"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Diese Sets können von einem der Hersteller geliefert werden, mit denen IPG eine gute Beziehung pflegt, oder von den Pumpenexperten in einer unserer Werkstätten zusammengebaut werden. Die Sets werden nach den Wünschen und Spezifikationen ausgewählt und gebaut, die der Kunde vorgibt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Im Unterschied zu einzelnen Pumpen sind Pumpensets komplette Einheiten, die vor Ort nur noch angeschlossen werden müssen. Sie umfassen die Pumpe sowie das gesamte Zubehör und die erforderliche Verrohrung. Wird das Pumpenset kundenspezifisch gefertigt, lässt es sich direkt an die vorhandene Verrohrung anschließen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Der Antrieb ist häufig ebenfalls Teil der Einheit."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Komplette Anlage, mehr als nur eine Pumpe"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Anschließbar an bestehende (oder neu zu bauende) Konstruktionen"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Gebaut nach den Wünschen des Kunden"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Woraus besteht ein Pumpenset?"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Wie oben beschrieben, besteht ein komplettes Pumpenset aus einer Pumpe mit verschiedenem Zubehör. Dazu zählen häufig ein Saug- und Druckverteiler (Manifold), Absperrarmaturen, Rückschlagventile, Kompensatoren, Regeltechnik und Weiteres. Der große Vorteil: Sie erhalten ein komplettes Paket und müssen die Zeichnungen lediglich mit Ihren Konstruktionszeichnungen abgleichen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Sie suchen einen erfahrenen Partner für Ihr Pumpenset?"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Pumpenexperten von IPG verfügen über mehr als 30 Jahre Erfahrung mit Industriepumpen. Sie beraten, was für das Erreichen der gewünschten Spezifikationen erforderlich ist, und unterstützen beim Zusammenbau oder bei der Anpassung des gewünschten Pumpensets. Außerdem lässt sich prüfen, ob einer der Hersteller von IPG das gewünschte Pumpenset liefern kann."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "060e226f3296",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "e95d576196fa",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-varisco-unit.webp",
+                  "alt": "Komplettes Pumpenaggregat mit Pumpe, Motor und Verrohrung auf gemeinsamem Rahmen",
+                  "width": 600,
+                  "height": 500
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "db9da2bd9a98",
+        "component": "section_row",
+        "layout": "carousel",
+        "columns": [
+          {
+            "_uid": "57b39326da21",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "cd9bd125d50d",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Hervorragende und zugängliche Kundenbetreuung bei jedem Kontakt!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Der Einsatz ist perfekt und sehr serviceorientiert, sowohl telefonisch als auch bei geplanter Umsetzung und bei ungeplanten Störungen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Projektleiter RGR bei einem Abfallentsorger in den Niederlanden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "45c7ccca2a5c",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "b0e4446082ff",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Hervorragende Erfahrung mit IPG: Professionalität, Qualität und proaktive Problemlösung!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Arbeitsvorbereiter erlebe ich IPG als sehr professionell. Das Unternehmen strebt nach Qualität, denkt bei Verbesserungen mit und behebt Störungen schnell, um Stillstand zu minimieren."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Arbeitsvorbereiter Störungen bei einem Wasserverband."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "690a1e50d2bd",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "1e43ecde167c",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ein zuverlässiger Partner mit hervorragendem Service und kundenorientierter Beratung!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ich erlebe IPG als sehr guten Partner, ein Unternehmen, das Service großschreibt und mit den Kunden mitdenkt und berät."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Arbeitsvorbereiter Technischer Dienst bei einem Abfallverwerter in den Niederlanden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "d9e35b0315dd",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "36b93029684f",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Komplettlösung mit hervorragender Leistung!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Pumpeneinheiten von IPG sind langlebig und enthalten alle wesentlichen Komponenten, was uns bei Wartung und Installation Zeit und Kosten spart. Das Team hat uns während des gesamten Prozesses hervorragend unterstützt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Projektleiter bei einem chemischen Produktionsbetrieb."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "3efd9f818ed4",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "679856276394",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Einfach zu installieren und effizient im Betrieb!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Total Pump Units von IPG sind Plug-and-play, daher verlief die Installation schnell und problemlos. Sie arbeiten effizient und helfen uns, Prozesse ohne Unterbrechungen am Laufen zu halten."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Technischer Betriebsleiter bei einer Wasseraufbereitungsanlage."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "e853340f74f3",
+        "component": "cta_band",
+        "heading": "Unverbindlich Kontakt aufnehmen",
+        "text": "Wir beraten Sie gern zu Auswahl, Ersatz und Revision Ihrer Pumpe.",
+        "button_label": "Kontakt aufnehmen",
+        "button_link": {
+          "fieldtype": "multilink",
+          "linktype": "url",
+          "url": "/kontakt",
+          "cached_url": "/kontakt"
+        },
+        "variant": "primary"
+      },
+      {
+        "_uid": "1c4cfac9898f",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Komplettaggregate (Total Pump Units) sind vollständige Pumpensysteme, die aus Pumpe, Motor, Verrohrung und Regeltechnik bestehen. Sie sind darauf ausgelegt, die Effizienz und Zuverlässigkeit industrieller Prozesse zu verbessern."
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Chemische Industrie",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/branchen/chemische-industrie",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Metallindustrie",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/branchen/stahlindustrie",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Papierindustrie",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/branchen/papierindustrie",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Löschwasser-Sets",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/anwendungen/loeschwasser",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Prozesswasser",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/anwendungen/prozesswasser",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Vorteile und Anwendungen: komplette Pumpensysteme"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Komplettaggregate sind eine verbreitete Alternative zu einzelnen Pumpen, weil sie mehrere Vorteile bieten, darunter Effizienz, Zuverlässigkeit und einfache Wartung. Diese kompletten Pumpensysteme sind darauf ausgelegt, die Integrität und Leistung industrieller Prozesse zu verbessern, und bieten eine integrierte Lösung für die Förderung von Flüssigkeiten und Gasen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mit einer Gesamtlösung können Unternehmen Kosten für Beschaffung und Wartung einzelner Komponenten sparen und die betriebliche Effizienz erhöhen. Komplettaggregate eignen sich für ein breites Spektrum an Anwendungen, darunter Wasseraufbereitung, Lebensmittel- und Getränkeindustrie, Petrochemie und weitere."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Integrale Lösung",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Komplettaggregate enthalten alle Bauteile, die für die direkte Installation und den Betrieb erforderlich sind."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Höhere Effizienz",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die integrierte Auslegung erhöht die betriebliche Effizienz und senkt die Kosten."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Einfache Wartung",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Durch gut aufeinander abgestimmte Komponenten sinkt der Wartungsaufwand, was zu geringeren Wartungskosten führt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Anpassbar an Kundenspezifikationen",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Pumpensysteme lassen sich an die spezifischen Anforderungen und die bestehenden Anlagen des Kunden anpassen."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Komplette Pumpensets"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Neben verschiedenen Pumpentypen unterschiedlicher Marken liefert die Industrial Pump Group (IPG) auch komplette Pumpensets."
-                },
-                {
-                  "type": "hard_break"
-                },
-                {
-                  "type": "text",
-                  "text": "Diese Sets können von einem der Hersteller geliefert werden, mit denen IPG eine gute Beziehung pflegt, oder von den Pumpenexperten in einer unserer Werkstätten zusammengebaut werden. Die Sets werden nach den Wünschen und Spezifikationen ausgewählt und gebaut, die der Kunde vorgibt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Im Unterschied zu einzelnen Pumpen sind Pumpensets komplette Einheiten, die vor Ort nur noch angeschlossen werden müssen. Sie umfassen die Pumpe sowie das gesamte Zubehör und die erforderliche Verrohrung. Wird das Pumpenset kundenspezifisch gefertigt, lässt es sich direkt an die vorhandene Verrohrung anschließen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Der Antrieb ist häufig ebenfalls Teil der Einheit."
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Komplette Anlage, mehr als nur eine Pumpe"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Anschließbar an bestehende (oder neu zu bauende) Konstruktionen"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Gebaut nach den Wünschen des Kunden"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Woraus besteht ein Pumpenset?"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Wie oben beschrieben, besteht ein komplettes Pumpenset aus einer Pumpe mit verschiedenem Zubehör. Dazu zählen häufig ein Saug- und Druckverteiler (Manifold), Absperrarmaturen, Rückschlagventile, Kompensatoren, Regeltechnik und Weiteres. Der große Vorteil: Sie erhalten ein komplettes Paket und müssen die Zeichnungen lediglich mit Ihren Konstruktionszeichnungen abgleichen."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Sie suchen einen erfahrenen Partner für Ihr Pumpenset?"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Pumpenexperten von IPG verfügen über mehr als 30 Jahre Erfahrung mit Industriepumpen. Sie beraten, was für das Erreichen der gewünschten Spezifikationen erforderlich ist, und unterstützen beim Zusammenbau oder bei der Anpassung des gewünschten Pumpensets. Außerdem lässt sich prüfen, ob einer der Hersteller von IPG das gewünschte Pumpenset liefern kann."
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "03e4e365cae7",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-varisco-unit.webp",
-          "alt": "Komplettes Pumpenaggregat mit Pumpe, Motor und Verrohrung auf gemeinsamem Rahmen",
-          "width": 600,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "7b1422e7a7d4",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Hervorragende und zugängliche Kundenbetreuung bei jedem Kontakt!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Der Einsatz ist perfekt und sehr serviceorientiert, sowohl telefonisch als auch bei geplanter Umsetzung und bei ungeplanten Störungen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Projektleiter RGR bei einem Abfallentsorger in den Niederlanden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Hervorragende Erfahrung mit IPG: Professionalität, Qualität und proaktive Problemlösung!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Arbeitsvorbereiter erlebe ich IPG als sehr professionell. Das Unternehmen strebt nach Qualität, denkt bei Verbesserungen mit und behebt Störungen schnell, um Stillstand zu minimieren."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Arbeitsvorbereiter Störungen bei einem Wasserverband."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ein zuverlässiger Partner mit hervorragendem Service und kundenorientierter Beratung!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ich erlebe IPG als sehr guten Partner, ein Unternehmen, das Service großschreibt und mit den Kunden mitdenkt und berät."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Arbeitsvorbereiter Technischer Dienst bei einem Abfallverwerter in den Niederlanden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Komplettlösung mit hervorragender Leistung!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Pumpeneinheiten von IPG sind langlebig und enthalten alle wesentlichen Komponenten, was uns bei Wartung und Installation Zeit und Kosten spart. Das Team hat uns während des gesamten Prozesses hervorragend unterstützt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Projektleiter bei einem chemischen Produktionsbetrieb."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Einfach zu installieren und effizient im Betrieb!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Total Pump Units von IPG sind Plug-and-play, daher verlief die Installation schnell und problemlos. Sie arbeiten effizient und helfen uns, Prozesse ohne Unterbrechungen am Laufen zu halten."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Technischer Betriebsleiter bei einer Wasseraufbereitungsanlage."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 4
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Unverbindlich Kontakt aufnehmen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -681,37 +929,56 @@
         }
       },
       {
-        "_uid": "a5f2cbd4278e",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-hydrofoor-unit.webp",
-          "alt": "Druckerhöhungsanlage als Komplettaggregat mit mehreren Pumpen",
-          "width": 424,
-          "height": 416
-        }
-      },
-      {
-        "_uid": "cc1217397905",
-        "component": "faq",
-        "heading": "Häufige Fragen",
-        "items": [
+        "_uid": "88896c4f9894",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
           {
-            "_uid": "0f4dea89a419",
-            "component": "faq_item",
-            "question": "Was sind Komplettaggregate (Total Pump Units)?",
-            "answer": "Komplettaggregate sind vollständige Pumpensysteme, die aus Pumpe, Motor, Verrohrung und Regeltechnik bestehen. Sie sind darauf ausgelegt, die Integrität und Leistung industrieller Prozesse zu verbessern."
+            "_uid": "3995b9de9b45",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "cc1ad666556e",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-hydrofoor-unit.webp",
+                  "alt": "Druckerhöhungsanlage als Komplettaggregat mit mehreren Pumpen",
+                  "width": 424,
+                  "height": 416
+                }
+              }
+            ]
           },
           {
-            "_uid": "e6a423753f22",
-            "component": "faq_item",
-            "question": "Welche Vorteile haben Komplettaggregate?",
-            "answer": "Komplettaggregate bieten mehrere Vorteile, darunter Effizienz, Zuverlässigkeit und einfache Wartung. Mit einer Gesamtlösung können Unternehmen Kosten für Beschaffung und Wartung einzelner Komponenten sparen und die betriebliche Effizienz erhöhen."
-          },
-          {
-            "_uid": "bb031e4a0d94",
-            "component": "faq_item",
-            "question": "Für welche Anwendungen eignen sich Komplettaggregate?",
-            "answer": "Komplettaggregate eignen sich für ein breites Spektrum an Anwendungen, darunter Wasseraufbereitung, Lebensmittel- und Getränkeindustrie, Petrochemie und weitere."
+            "_uid": "32716d723312",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "3b1b48fd12d4",
+                "component": "faq",
+                "heading": "Häufige Fragen",
+                "items": [
+                  {
+                    "_uid": "5837b0dfa7ae",
+                    "component": "faq_item",
+                    "question": "Was sind Komplettaggregate (Total Pump Units)?",
+                    "answer": "Komplettaggregate sind vollständige Pumpensysteme, die aus Pumpe, Motor, Verrohrung und Regeltechnik bestehen. Sie sind darauf ausgelegt, die Integrität und Leistung industrieller Prozesse zu verbessern."
+                  },
+                  {
+                    "_uid": "745431ec895d",
+                    "component": "faq_item",
+                    "question": "Welche Vorteile haben Komplettaggregate?",
+                    "answer": "Komplettaggregate bieten mehrere Vorteile, darunter Effizienz, Zuverlässigkeit und einfache Wartung. Mit einer Gesamtlösung können Unternehmen Kosten für Beschaffung und Wartung einzelner Komponenten sparen und die betriebliche Effizienz erhöhen."
+                  },
+                  {
+                    "_uid": "ef36ef857284",
+                    "component": "faq_item",
+                    "question": "Für welche Anwendungen eignen sich Komplettaggregate?",
+                    "answer": "Komplettaggregate eignen sich für ein breites Spektrum an Anwendungen, darunter Wasseraufbereitung, Lebensmittel- und Getränkeindustrie, Petrochemie und weitere."
+                  }
+                ]
+              }
+            ]
           }
         ]
       }

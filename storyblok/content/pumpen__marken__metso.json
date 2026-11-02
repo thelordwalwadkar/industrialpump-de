@@ -13,56 +13,99 @@
     "seo_description": "Metso und SALA Feststoff- und Schlammpumpen für abrasive Medien im Bergbau und in der Mineralaufbereitung. Jetzt Beratung oder Angebot anfordern.",
     "intro": "Metso-Pumpen, darunter die SALA-Baureihen, sind horizontale und vertikale Feststoff- und Schlammpumpen für abrasive Medien in Bergbau, Mineralaufbereitung und Metallraffination. Die Industrial Pump Group ist offizieller Händler und bietet Beratung, Ersatzteile und Revision.",
     "brand_name": "Metso",
+    "logo": {
+      "filename": "/img/nl/merken-metso.webp",
+      "alt": "Metso",
+      "width": 120,
+      "height": 54
+    },
     "revision_text": "Für Metso-Pumpen können Sie Ersatzteile und eine Revision anfragen. Ob und in welchem Umfang das möglich ist, hängt von Serie, Baujahr und Ausführung ab; das Typenschild genügt für eine erste Einschätzung.",
     "body": [
       {
-        "_uid": "99339e467d6e",
+        "_uid": "96a1fad46052",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "fb8f15d3aee7",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "47b9763c41cd",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Händler von Metso-Pumpen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "dc92db5c2b72",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "b64f12a38454",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ihr zuverlässiger Partner für Metso-, Metso-Outotec- und SALA-Pumpen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Metso ist ein Vorreiter für nachhaltige Technologien, End-to-End-Lösungen und Dienstleistungen für die Zuschlagstoff-, Mineralaufbereitungs- und Metallraffinationsindustrie weltweit. Mit unserer Produkt- und Servicekompetenz verbessern wir die Energie- und Wassereffizienz unserer Kunden, steigern deren Produktivität und verringern Umweltrisiken."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Industrial Pump Group (IPG) ist offizieller Händler von Metso-Pumpen, darunter die renommierten SALA-Pumpen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "805f57663b49",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Händler von Metso-Pumpen"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ihr zuverlässiger Partner für Metso-, Metso-Outotec- und SALA-Pumpen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Metso ist ein Vorreiter für nachhaltige Technologien, End-to-End-Lösungen und Dienstleistungen für die Zuschlagstoff-, Mineralaufbereitungs- und Metallraffinationsindustrie weltweit. Mit unserer Produkt- und Servicekompetenz verbessern wir die Energie- und Wassereffizienz unserer Kunden, steigern deren Produktivität und verringern Umweltrisiken."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Industrial Pump Group (IPG) ist offizieller Händler von Metso-Pumpen, darunter die renommierten SALA-Pumpen."
-                }
-              ]
-            },
             {
               "type": "paragraph",
               "content": [
@@ -76,222 +119,268 @@
         }
       },
       {
-        "_uid": "4177d6a39013",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-metso-mesto-sala-vf.webp",
-          "alt": "Metso SALA VF vertikale Schaumpumpe",
-          "width": 700,
-          "height": 700
-        }
+        "_uid": "2e8d19f56d83",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "1db3d9838018",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "1a457d371ae7",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-metso-mesto-sala-vf.webp",
+                  "alt": "Metso SALA VF vertikale Schaumpumpe",
+                  "width": 700,
+                  "height": 700
+                }
+              },
+              {
+                "_uid": "c91174cc154b",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Metso "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Sala VF Baureihe",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ": Diese Pumpen erhöhen die Effizienz beim Fördern schäumender Schlämme. Sie eignen sich für alle Anwendungen, bei denen luftreiche Schlämme verarbeitet werden, etwa Flotationsschaum in Basismetall-Konzentratoren sowie in Phosphat- und Apatit-Waschanlagen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "720fe9e95642",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "d19507c38a18",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/transparant-placeholder.webp",
+                  "alt": "Metso-Pumpen und SALA-Pumpen",
+                  "width": 28,
+                  "height": 43
+                }
+              },
+              {
+                "_uid": "2cab0d873e66",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Metso "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Sala ST Baureihe",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ": Diese vertikalen Induced-Flow-Pumpen sind robuste, universell einsetzbare Feststoff- und Schlammpumpen. Bekannt für ihre Induced-Flow-Laufräder und den geringen Verschleiß der geförderten Partikel, werden diese Pumpen häufig für den Kohlenstofftransport in Goldlaugungsprozessen und in anderen Anwendungen eingesetzt."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "bb25ee0e8d13",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "b6c5f5829643",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-metso-mesto-sala-vs.webp",
+                  "alt": "Metso SALA VS vertikale Sumpfpumpe",
+                  "width": 700,
+                  "height": 700
+                }
+              },
+              {
+                "_uid": "b56d6b2a674d",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Metso "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Sala VS Baureihe",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ": Diese vertikalen Sumpfpumpen sind leistungsstarke Pumpen mit hoher Förderleistung, die weltweit in besonders anspruchsvollen Industrien eingesetzt werden. Bekannt für ihre Robustheit und leichte Wartung, sind diese Pumpen speziell für abrasive Schlämme ausgelegt."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "63a7fde348cf",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "eace5e2c59ee",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-metso-mesto-sala-vt.webp",
+                  "alt": "Metso SALA VT vertikale Tankpumpe",
+                  "width": 700,
+                  "height": 700
+                }
+              },
+              {
+                "_uid": "48602cc50770",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Metso "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Sala VT Baureihe",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ": Diese vertikalen Tankpumpen sind für abrasive Schlämme ausgelegt. Bekannt für ihre robuste Konstruktion und Langlebigkeit, sind diese vertikalen Tankpumpen einfach zu warten und leicht zu installieren."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "175ab268e268",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "07e641d2d252",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-missende-pomp.webp",
+                  "alt": "Metso-Pumpen und SALA-Pumpen",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "27351bba737a",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ihre "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Metso",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "-Pumpe ist nicht dabei? Unsere Pumpenexperten helfen Ihnen gern beim Finden und Liefern der benötigten Pumpe oder von Ersatzteilen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "b0ce4a69556c",
+        "_uid": "54ed698ceb33",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Metso "
-                },
-                {
-                  "type": "text",
-                  "text": "Sala VF Baureihe",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": ": Diese Pumpen erhöhen die Effizienz beim Fördern schäumender Schlämme. Sie eignen sich für alle Anwendungen, bei denen luftreiche Schlämme verarbeitet werden, etwa Flotationsschaum in Basismetall-Konzentratoren sowie in Phosphat- und Apatit-Waschanlagen."
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "2e90005d484c",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/transparant-placeholder.webp",
-          "alt": "Metso-Pumpen und SALA-Pumpen",
-          "width": 28,
-          "height": 43
-        }
-      },
-      {
-        "_uid": "d4688a308724",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Metso "
-                },
-                {
-                  "type": "text",
-                  "text": "Sala ST Baureihe",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": ": Diese vertikalen Induced-Flow-Pumpen sind robuste, universell einsetzbare Feststoff- und Schlammpumpen. Bekannt für ihre Induced-Flow-Laufräder und den geringen Verschleiß der geförderten Partikel, werden diese Pumpen häufig für den Kohlenstofftransport in Goldlaugungsprozessen und in anderen Anwendungen eingesetzt."
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "3a177db40fd0",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-metso-mesto-sala-vs.webp",
-          "alt": "Metso SALA VS vertikale Sumpfpumpe",
-          "width": 700,
-          "height": 700
-        }
-      },
-      {
-        "_uid": "52d4737f19af",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Metso "
-                },
-                {
-                  "type": "text",
-                  "text": "Sala VS Baureihe",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": ": Diese vertikalen Sumpfpumpen sind leistungsstarke Pumpen mit hoher Förderleistung, die weltweit in besonders anspruchsvollen Industrien eingesetzt werden. Bekannt für ihre Robustheit und leichte Wartung, sind diese Pumpen speziell für abrasive Schlämme ausgelegt."
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "77c2ba60b911",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-metso-mesto-sala-vt.webp",
-          "alt": "Metso SALA VT vertikale Tankpumpe",
-          "width": 700,
-          "height": 700
-        }
-      },
-      {
-        "_uid": "7b2bf21b2dc5",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Metso "
-                },
-                {
-                  "type": "text",
-                  "text": "Sala VT Baureihe",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": ": Diese vertikalen Tankpumpen sind für abrasive Schlämme ausgelegt. Bekannt für ihre robuste Konstruktion und Langlebigkeit, sind diese vertikalen Tankpumpen einfach zu warten und leicht zu installieren."
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "3da11893cf29",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-missende-pomp.webp",
-          "alt": "Metso-Pumpen und SALA-Pumpen",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "795f4c6f802f",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ihre "
-                },
-                {
-                  "type": "text",
-                  "text": "Metso",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": "-Pumpe ist nicht dabei? Unsere Pumpenexperten helfen Ihnen gern beim Finden und Liefern der benötigten Pumpe oder von Ersatzteilen."
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -386,61 +475,109 @@
                   ]
                 }
               ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 4
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Unverbindlich Kontakt aufnehmen"
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "50a53276fd9e",
+        "component": "cta_band",
+        "heading": "Unverbindlich Kontakt aufnehmen",
+        "text": "Wir beraten Sie gern zu Auswahl, Ersatz und Revision Ihrer Pumpe.",
+        "button_label": "Kontakt aufnehmen",
+        "button_link": {
+          "fieldtype": "multilink",
+          "linktype": "url",
+          "url": "/kontakt",
+          "cached_url": "/kontakt"
+        },
+        "variant": "primary"
+      },
+      {
+        "_uid": "e7af17ac49ae",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "656778edc479",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "408b739a90f3",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Horizontale Feststoff- und Schlammpumpen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Das Sortiment horizontaler Feststoff- und Schlammpumpen von Metso umfasst Mühlenaustragspumpen, allgemeine Schlammpumpen und Baggerpumpen. Diese Pumpen sind größer und leistungsstärker als vertikale Pumpen und bieten eine höhere Förderleistung. Sie haben verschleißfeste Bauteile aus Hartmetall oder Gummi, was sie für schwere industrielle Anwendungen geeignet macht."
+                        }
+                      ]
+                    }
+                  ]
                 }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Horizontale Feststoff- und Schlammpumpen"
+              }
+            ]
+          },
+          {
+            "_uid": "51659686c5ae",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "8425f3c01087",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Vertikale Feststoff- und Schlammpumpen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die vertikalen Feststoff- und Schlammpumpen von Metso sind sehr gut konfigurierbare Pumpen, die darauf ausgelegt sind, Wartungs- und Betriebskosten zu senken. Sie benötigen weniger Stellfläche als horizontale Pumpen, und verschleißfeste Bauteile sind in Hartmetall oder Gummi erhältlich. Die vertikalen Tankpumpen der Baureihe SALA VT, die vertikalen Sumpfpumpen der Baureihe SALA VS, die vertikalen Induced-Flow-Pumpen der Baureihe SALA ST und die vertikalen Schaumpumpen der Baureihe SALA VF sind für ihre Robustheit und einfache Wartung bekannt."
+                        }
+                      ]
+                    }
+                  ]
                 }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Das Sortiment horizontaler Feststoff- und Schlammpumpen von Metso umfasst Mühlenaustragspumpen, allgemeine Schlammpumpen und Baggerpumpen. Diese Pumpen sind größer und leistungsstärker als vertikale Pumpen und bieten eine höhere Förderleistung. Sie haben verschleißfeste Bauteile aus Hartmetall oder Gummi, was sie für schwere industrielle Anwendungen geeignet macht."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Vertikale Feststoff- und Schlammpumpen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die vertikalen Feststoff- und Schlammpumpen von Metso sind sehr gut konfigurierbare Pumpen, die darauf ausgelegt sind, Wartungs- und Betriebskosten zu senken. Sie benötigen weniger Stellfläche als horizontale Pumpen, und verschleißfeste Bauteile sind in Hartmetall oder Gummi erhältlich. Die vertikalen Tankpumpen der Baureihe SALA VT, die vertikalen Sumpfpumpen der Baureihe SALA VS, die vertikalen Induced-Flow-Pumpen der Baureihe SALA ST und die vertikalen Schaumpumpen der Baureihe SALA VF sind für ihre Robustheit und einfache Wartung bekannt."
-                }
-              ]
-            },
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "bcad69d1d62b",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
             {
               "type": "paragraph",
               "content": [
@@ -466,87 +603,133 @@
                   "text": ", um hohen Druck und hohe Dichte zu bewältigen, und kommen so effizient mit Verschleiß und Verstopfungen zurecht. Sie sind aus hochwertigen Werkstoffen wie Edelstahl und Speziallegierungen gefertigt, die den anspruchsvollen und abrasiven Betriebsbedingungen standhalten."
                 }
               ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Weltweit bekannt für Innovation und Zuverlässigkeit"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Metso, einschließlich der renommierten SALA-Pumpen, hat sich weltweit einen Ruf für innovative und zuverlässige Pumpenlösungen aufgebaut. Unsere umfassende Erfahrung und Kompetenz in der Branche, verbunden mit unserem Engagement für Nachhaltigkeit, machen Metso zu einem Partner für alle Ihre Pumpenanforderungen. Mit Metso und IPG erhalten Sie Lösungen, die Ihre Produktivität steigern und Ihre Betriebskosten senken sollen."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Anwendungen und Lösungen in allen Branchen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Metso bietet fortschrittliche Pumpenlösungen für ein breites Spektrum an Anwendungen, von Bergbau und Mineralaufbereitung bis zur chemischen Industrie und Lebensmittelindustrie. Ob abrasive Schlämme oder viskose Flüssigkeiten: Metso-Pumpen sind darauf ausgelegt, hohe Anforderungen an Zuverlässigkeit und Effizienz zu erfüllen. Dank unseres breiten Produktportfolios finden wir gemeinsam mit Ihnen die passenden Pumpen und Systeme für Ihre spezifischen Anforderungen."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Wartung und Revision von Metso-Pumpen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bei IPG erhalten Sie nicht nur hochwertige Metso-Pumpen, sondern auch spezialisierte Wartungs- und Revisionsleistungen. Unser erfahrenes Team sorgt dafür, dass Ihre Pumpen stets in optimalem Zustand sind, was die Lebensdauer und Effizienz Ihrer Anlage verlängert. Besuchen Sie unsere Seite zur "
-                },
-                {
-                  "type": "text",
-                  "text": "Pumpenrevision",
-                  "marks": [
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "cfb8b2a27482",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "878f74a6d4e1",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "086062bf55b2",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
                     {
-                      "type": "link",
+                      "type": "heading",
                       "attrs": {
-                        "href": "/revision",
-                        "linktype": "url"
-                      }
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Weltweit bekannt für Innovation und Zuverlässigkeit"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Metso, einschließlich der renommierten SALA-Pumpen, hat sich weltweit einen Ruf für innovative und zuverlässige Pumpenlösungen aufgebaut. Unsere umfassende Erfahrung und Kompetenz in der Branche, verbunden mit unserem Engagement für Nachhaltigkeit, machen Metso zu einem Partner für alle Ihre Pumpenanforderungen. Mit Metso und IPG erhalten Sie Lösungen, die Ihre Produktivität steigern und Ihre Betriebskosten senken sollen."
+                        }
+                      ]
                     }
                   ]
-                },
-                {
-                  "type": "text",
-                  "text": ", um mehr über unsere Revisionsleistungen zu erfahren und darüber, wie wir Ihre Metso-Pumpen warten und instand setzen können."
                 }
-              ]
-            },
+              }
+            ]
+          },
+          {
+            "_uid": "f8fc3ac27e66",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "07a42d44bb6d",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Anwendungen und Lösungen in allen Branchen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Metso bietet fortschrittliche Pumpenlösungen für ein breites Spektrum an Anwendungen, von Bergbau und Mineralaufbereitung bis zur chemischen Industrie und Lebensmittelindustrie. Ob abrasive Schlämme oder viskose Flüssigkeiten: Metso-Pumpen sind darauf ausgelegt, hohe Anforderungen an Zuverlässigkeit und Effizienz zu erfüllen. Dank unseres breiten Produktportfolios finden wir gemeinsam mit Ihnen die passenden Pumpen und Systeme für Ihre spezifischen Anforderungen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Wartung und Revision von Metso-Pumpen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bei IPG erhalten Sie nicht nur hochwertige Metso-Pumpen, sondern auch spezialisierte Wartungs- und Revisionsleistungen. Unser erfahrenes Team sorgt dafür, dass Ihre Pumpen stets in optimalem Zustand sind, was die Lebensdauer und Effizienz Ihrer Anlage verlängert. Besuchen Sie unsere Seite zur "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Pumpenrevision",
+                          "marks": [
+                            {
+                              "type": "link",
+                              "attrs": {
+                                "href": "/revision",
+                                "linktype": "url"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ", um mehr über unsere Revisionsleistungen zu erfahren und darüber, wie wir Ihre Metso-Pumpen warten und instand setzen können."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "1569673f7938",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
             {
               "type": "heading",
               "attrs": {

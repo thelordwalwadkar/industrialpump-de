@@ -42,104 +42,114 @@
       "alt": "Flygt"
     },
     "revision_text": "Eine Revision kann je nach Zustand der Pumpe den Austausch von Verschleißteilen wie Gleitringdichtungen und Lagern umfassen. Den genauen Umfang legen wir nach Prüfung der Pumpe mit Ihnen fest. Welche Teile im Einzelfall verfügbar sind, hängt von Serie, Baujahr und Ausführung ab.",
-    "faq": [
-      {
-        "_uid": "40c1f7645f20",
-        "component": "faq",
-        "heading": "Häufige Fragen zu Flygt-Pumpen",
-        "items": [
-          {
-            "_uid": "edfcbd219fd8",
-            "component": "faq_item",
-            "question": "Sind Ersatzteile für Flygt-Pumpen verfügbar?",
-            "answer": "Das hängt von Serie, Baujahr und Ausführung ab. Senden Sie uns Typenschild oder ein Foto der Pumpe, dann prüfen wir die Verfügbarkeit."
-          },
-          {
-            "_uid": "f40dbba837f7",
-            "component": "faq_item",
-            "question": "Kann ich eine ältere Flygt-Serie durch ein aktuelles Modell ersetzen?",
-            "answer": "Das ist je nach Serie möglich. Entscheidend sind Förderstrom, Förderhöhe, Anschlussmaße und Motordaten der vorhandenen Pumpe. Anhand des Typenschilds prüfen wir, welches Modell passt."
-          },
-          {
-            "_uid": "6a71209a15e6",
-            "component": "faq_item",
-            "question": "Wie lang ist die Lieferzeit für Flygt-Pumpen?",
-            "answer": "[[PLATZHALTER: Lieferzeit Flygt]]"
-          }
-        ]
-      }
-    ],
     "body": [
       {
-        "_uid": "8ad1c1a473d7",
+        "_uid": "b52365f68c0a",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "8a174a5b1cd6",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "95b6d1085765",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Offizieller Händler von Flygt Pumpen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "35e638a02c57",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "b6846f1f9292",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ihr verlässlicher Partner für Flygt Pumpen und Ersatzteile"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flygt Pumpen sind für anspruchsvolle Anwendungen in der Wasser- und Abwassertechnik ausgelegt, bei denen Zuverlässigkeit, Effizienz und lange Lebensdauer wichtig sind.",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Als eine der etablierten Marken von Xylem hat Flygt mehr als ein Jahrhundert Erfahrung in der Entwicklung von Pumpenlösungen für Abwasser, Entwässerung und weitere anspruchsvolle Anwendungen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bei der "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Industrial Pump Group Nederland (IPG)",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " vertreten wir Flygt als eine unserer Pumpenmarken. Wir helfen Kunden bei der Auswahl der passenden Flygt-Lösung anhand von Anwendung, Betriebsbedingungen und Leistungsanforderungen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "fe0cd3925247",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Offizieller Händler von Flygt Pumpen"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ihr verlässlicher Partner für Flygt Pumpen und Ersatzteile"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Flygt Pumpen sind für anspruchsvolle Anwendungen in der Wasser- und Abwassertechnik ausgelegt, bei denen Zuverlässigkeit, Effizienz und lange Lebensdauer wichtig sind.",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Als eine der etablierten Marken von Xylem hat Flygt mehr als ein Jahrhundert Erfahrung in der Entwicklung von Pumpenlösungen für Abwasser, Entwässerung und weitere anspruchsvolle Anwendungen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bei der "
-                },
-                {
-                  "type": "text",
-                  "text": "Industrial Pump Group Nederland (IPG)",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " vertreten wir Flygt als eine unserer Pumpenmarken. Wir helfen Kunden bei der Auswahl der passenden Flygt-Lösung anhand von Anwendung, Betriebsbedingungen und Leistungsanforderungen."
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -165,7 +175,7 @@
         }
       },
       {
-        "_uid": "6bac5fa885d7",
+        "_uid": "096ef702cf6a",
         "component": "image_block",
         "image": {
           "filename": "/img/nl/ipg-ecom-flygt-flygt-ready-series.webp",
@@ -175,7 +185,7 @@
         }
       },
       {
-        "_uid": "87ce89bbe2b5",
+        "_uid": "a8dace2d0345",
         "component": "rich_text",
         "content": {
           "type": "doc",
@@ -214,1102 +224,1268 @@
         }
       },
       {
-        "_uid": "888a60b6f48d",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-flygt-flygt-bibo-alpha.webp",
-          "alt": "Flygt Bibo Alpha Entwässerungspumpe",
-          "width": 500,
-          "height": 500
-        }
+        "_uid": "5b371b597370",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "4b95c1ef1072",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "c20e29905d3b",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-flygt-flygt-bibo-alpha.webp",
+                  "alt": "Flygt Bibo Alpha Entwässerungspumpe",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "1089290dc48d",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flygt "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Baureihe Bibo Alpha",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " „Plug-and-play“-Pumpen für robuste Anwendungen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "c2addfe240a2",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "175cb82d9393",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/flygt-2000.webp",
+                  "alt": "Flygt Pumpe der Baureihe 2000",
+                  "width": 1254,
+                  "height": 1254
+                }
+              },
+              {
+                "_uid": "297b4d969d2a",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flygt "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Baureihe 2000",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Leistung für die schwersten Bedingungen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "c7195ece8a98",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "861132365822",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/flygt-2600-1.webp",
+                  "alt": "Flygt Pumpe der Baureihe 2600",
+                  "width": 300,
+                  "height": 300
+                }
+              },
+              {
+                "_uid": "16bb5115a140",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flygt "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Baureihe 2600",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Verschleißfeste Tauchmotorpumpen für schwere Entwässerung"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "21aa4263ed43",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "11f2abb7a015",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/2800-series-1.webp",
+                  "alt": "Flygt Pumpe der Baureihe 2800",
+                  "width": 300,
+                  "height": 300
+                }
+              },
+              {
+                "_uid": "d7fdb7a68d92",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flygt "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Baureihe 2800",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Verschleißfeste Tauchmotorpumpen für zuverlässige Entwässerung unter schwierigen Bedingungen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "d2a6bce747f2",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "0f625a596e6c",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-flygt-flygt-3000.webp",
+                  "alt": "Flygt Tauchmotorpumpe der Baureihe 3000",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "b626611d354e",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flygt "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Baureihe 3000",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Tauchmotorpumpen aus Edelstahl"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "bea4df38e3ca",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ace6e1d27016",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/5000-series.webp",
+                  "alt": "Flygt Pumpe der Baureihe 5000",
+                  "width": 300,
+                  "height": 300
+                }
+              },
+              {
+                "_uid": "1fe11c1b8a95",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flygt "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Baureihe 5000",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Verschleißfeste Tauchmotorpumpen für Schlamm und Feststoffe"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "2e99a132c65d",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "c06b9f612d39",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-flygt-flygt-concertor-dp.webp",
+                  "alt": "Flygt Concertor DP",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "9830466bb669",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flygt "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Baureihe Concertor DP",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Für diese Pumpen wurde ein spezielles Modul mit Algorithmus entwickelt"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "39b43671956c",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "c2a663841ab2",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-flygt-flygt-concertor-6030.webp",
+                  "alt": "Flygt Concertor 6030",
+                  "width": 331,
+                  "height": 444
+                }
+              },
+              {
+                "_uid": "43fe301c0301",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flygt "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Concertor® 6030",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Intelligente Tauchmotorpumpe für zuverlässige Abwasserförderung"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "d3a93ab4aec9",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "488d4ca382de",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-flygt-flygt-d200.webp",
+                  "alt": "Flygt Pumpe der Baureihe D 2000",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "86cc7aaee72a",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flygt "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Baureihe D 2000",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Transportable verschleißfeste Entwässerungspumpen, geeignet für Anwendungen in Wasser mit abrasiven Bestandteilen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "431e6479d9cc",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "3804569551ef",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-flygt-flygt-b2000.webp",
+                  "alt": "Flygt Pumpe der Baureihe B 2000",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "7aa78c926338",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flygt "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Baureihe B 2000",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Transportable verschleißfeste Entwässerungspumpen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "771cb179d0d6",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "abe6d8cffb66",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-flygt-flygt-d8000.webp",
+                  "alt": "Flygt Pumpe der Baureihe D 8000",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "4269391b7c4b",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flygt "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Baureihe D 8000",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Tauchmotorpumpen mit Freistromlaufrad und großem Durchgang, geeignet für Abwasser mit größeren Feststoffen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "6af640a1f9f6",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "cdb62b0ff90b",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-flygt-flygt-c3000.webp",
+                  "alt": "Flygt Pumpe der Baureihe C 3000",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "fc80126d5079",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flygt "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Baureihe C 3000",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Tauchmotorpumpen mit Ein- oder Mehrkanallaufrad und großem Durchgang"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "1dead2bdb638",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "aad2e1c86379",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/flygt-concertor-dp.webp",
+                  "alt": "Flygt Concertor N",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "a21a0d441967",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flygt "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Baureihe Concertor N",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Für diese Pumpen wurde ein spezielles Modul mit Algorithmus entwickelt"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "2c3c8f2a7b82",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "5de948702a7b",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-flygt-flygt-d3000.webp",
+                  "alt": "Flygt Pumpe der Baureihe D 3000",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "cea70c1e8ed6",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flygt "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Baureihe D 3000",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Tauchmotorpumpen mit Freistromlaufrad und großem Durchgang, geeignet für Abwasser mit größeren Feststoffen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "a5899b03df7a",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "c9cdbe0c0f5c",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-flygt-flygt-p7000.webp",
+                  "alt": "Flygt Pumpe der Baureihe P 7000",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "6a9265bda252",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flygt "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Baureihe P 7000",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Pumpenserie für große Förderströme bei niedrigen Förderhöhen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "57c1b521662f",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "26ee70f45d65",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-flygt-flygt-fp4200.webp",
+                  "alt": "Flygt Pumpe der Baureihe FP 4200",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "461a3ab7f1bd",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flygt "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Baureihe FP 4200",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Unterwasserpumpe mit Ultra-Low-Head-Propellern, einstellbarer Drehzahl und integrierter Motorregelung"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "acc229921bec",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "2460b059700b",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-flygt-flygt-fp4600.webp",
+                  "alt": "Flygt Pumpe der Baureihe FP 4600",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "bbc6ffb25cf6",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flygt "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Baureihe FP 4600",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Horizontale Propellerpumpenserie mit drei Flügeln für sehr große Förderströme bei sehr niedrigen Förderhöhen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "30f13ef33baa",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ef40ce0e9b32",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-flygt-flygt-h3000.webp",
+                  "alt": "Flygt Pumpe der Baureihe H 3000",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "e9b092b08467",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flygt "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Baureihe H 3000",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Tauchmotor-Feststoffpumpen, geeignet für Medien mit abrasiven Bestandteilen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "c8909a24710f",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "0a56180ac73f",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-flygt-flygt-h5000.webp",
+                  "alt": "Flygt Pumpe der Baureihe H 5000",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "0075dd2022f3",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flygt "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Baureihe H 5000",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Tauchmotor-Feststoffpumpen, geeignet für Medien mit abrasiven Bestandteilen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "4325aca7bd98",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "5594d1d1955b",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-flygt-flygt-k2000.webp",
+                  "alt": "Flygt Pumpe der Baureihe K 2000",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "94f06050fb27",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flygt "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Baureihe K 2000",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Transportable verschleißfeste Entwässerungspumpen, geeignet für Anwendungen in Wasser mit abrasiven Bestandteilen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "c8d89b7aff74",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ec133257e515",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-flygt-flygt-l3000.webp",
+                  "alt": "Flygt Pumpe der Baureihe L 3000",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "88a84eaaefa6",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flygt "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Baureihe L 3000",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Pumpenserie für Förderströme bei niedrigen Förderhöhen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "ac3e94bcd790",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "8c3ee50e0656",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-flygt-flygt-m3000.webp",
+                  "alt": "Flygt Pumpe der Baureihe M 3000",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "82dbabb8e66f",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flygt "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Baureihe M 3000",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Tauchmotor-Schneidwerkpumpen, speziell für die Druckentwässerung entwickelt"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "5c06ea97cab8",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "348193ea4ab0",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-flygt-flygt-3000.webp",
+                  "alt": "Flygt Pumpe der Baureihe N 3000",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "1218acaf6e0d",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flygt "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Baureihe N 3000",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Tauchmotorpumpen mit verstopfungsunempfindlichem N-Laufrad"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "65b419358651",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "c0c4721c3ecf",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-flygt-flygt-nl3000.webp",
+                  "alt": "Flygt Pumpe der Baureihe NL 3000",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "6ac54584e204",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flygt "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Baureihe NL 3000",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Pumpenserie für Förderströme bei niedrigen Förderhöhen, mit verstopfungsunempfindlichem N-Laufrad"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "078d4e0b8828",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "15266df39221",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-missende-pomp.webp",
+                  "alt": "Platzhalter für nicht aufgeführte Pumpen",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "733917583c03",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ihre "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Flygt",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Pumpe ist nicht dabei? Unsere Pumpenexperten helfen Ihnen gern, die benötigte Pumpe oder Ersatzteile zu finden und zu liefern"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "441ff5d34fe1",
+        "_uid": "03869b5f294e",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Flygt "
-                },
-                {
-                  "type": "text",
-                  "text": "Baureihe Bibo Alpha",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " „Plug-and-play“-Pumpen für robuste Anwendungen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "9fa4e38ed513",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/flygt-2000.webp",
-          "alt": "Flygt Pumpe der Baureihe 2000",
-          "width": 1254,
-          "height": 1254
-        }
-      },
-      {
-        "_uid": "4b1e3483591e",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Flygt "
-                },
-                {
-                  "type": "text",
-                  "text": "Baureihe 2000",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Leistung für die schwersten Bedingungen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "184579606bed",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/flygt-2600-1.webp",
-          "alt": "Flygt Pumpe der Baureihe 2600",
-          "width": 300,
-          "height": 300
-        }
-      },
-      {
-        "_uid": "cbb9b36745be",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Flygt "
-                },
-                {
-                  "type": "text",
-                  "text": "Baureihe 2600",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Verschleißfeste Tauchmotorpumpen für schwere Entwässerung"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "cf130b2369ef",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/2800-series-1.webp",
-          "alt": "Flygt Pumpe der Baureihe 2800",
-          "width": 300,
-          "height": 300
-        }
-      },
-      {
-        "_uid": "04f13ee50049",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Flygt "
-                },
-                {
-                  "type": "text",
-                  "text": "Baureihe 2800",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Verschleißfeste Tauchmotorpumpen für zuverlässige Entwässerung unter schwierigen Bedingungen."
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "b15b62c020d2",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-flygt-flygt-3000.webp",
-          "alt": "Flygt Tauchmotorpumpe der Baureihe 3000",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "8a932be8c75a",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Flygt "
-                },
-                {
-                  "type": "text",
-                  "text": "Baureihe 3000",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Tauchmotorpumpen aus Edelstahl"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "a78840574f1f",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/5000-series.webp",
-          "alt": "Flygt Pumpe der Baureihe 5000",
-          "width": 300,
-          "height": 300
-        }
-      },
-      {
-        "_uid": "5176f269911b",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Flygt "
-                },
-                {
-                  "type": "text",
-                  "text": "Baureihe 5000",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Verschleißfeste Tauchmotorpumpen für Schlamm und Feststoffe"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "dee9358c334b",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-flygt-flygt-concertor-dp.webp",
-          "alt": "Flygt Concertor DP",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "f14f13d5b5a3",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Flygt "
-                },
-                {
-                  "type": "text",
-                  "text": "Baureihe Concertor DP",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Für diese Pumpen wurde ein spezielles Modul mit Algorithmus entwickelt"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "e57e67de7c66",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-flygt-flygt-concertor-6030.webp",
-          "alt": "Flygt Concertor 6030",
-          "width": 331,
-          "height": 444
-        }
-      },
-      {
-        "_uid": "6b53073c82a3",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Flygt "
-                },
-                {
-                  "type": "text",
-                  "text": "Concertor® 6030",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Intelligente Tauchmotorpumpe für zuverlässige Abwasserförderung"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "29d9411bd90c",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-flygt-flygt-d200.webp",
-          "alt": "Flygt Pumpe der Baureihe D 2000",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "d997de2d9ead",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Flygt "
-                },
-                {
-                  "type": "text",
-                  "text": "Baureihe D 2000",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Transportable verschleißfeste Entwässerungspumpen, geeignet für Anwendungen in Wasser mit abrasiven Bestandteilen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "31250b89b43f",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-flygt-flygt-b2000.webp",
-          "alt": "Flygt Pumpe der Baureihe B 2000",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "3e0223ecf4c4",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Flygt "
-                },
-                {
-                  "type": "text",
-                  "text": "Baureihe B 2000",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Transportable verschleißfeste Entwässerungspumpen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "deb243f41a6d",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-flygt-flygt-d8000.webp",
-          "alt": "Flygt Pumpe der Baureihe D 8000",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "625372c13307",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Flygt "
-                },
-                {
-                  "type": "text",
-                  "text": "Baureihe D 8000",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Tauchmotorpumpen mit Freistromlaufrad und großem Durchgang, geeignet für Abwasser mit größeren Feststoffen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "378030c245c2",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-flygt-flygt-c3000.webp",
-          "alt": "Flygt Pumpe der Baureihe C 3000",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "6a1b38271c0f",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Flygt "
-                },
-                {
-                  "type": "text",
-                  "text": "Baureihe C 3000",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Tauchmotorpumpen mit Ein- oder Mehrkanallaufrad und großem Durchgang"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "b2819960dd42",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/flygt-concertor-dp.webp",
-          "alt": "Flygt Concertor N",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "14d95c45c7b6",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Flygt "
-                },
-                {
-                  "type": "text",
-                  "text": "Baureihe Concertor N",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Für diese Pumpen wurde ein spezielles Modul mit Algorithmus entwickelt"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "edc686a8f44f",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-flygt-flygt-d3000.webp",
-          "alt": "Flygt Pumpe der Baureihe D 3000",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "74f0f563b945",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Flygt "
-                },
-                {
-                  "type": "text",
-                  "text": "Baureihe D 3000",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Tauchmotorpumpen mit Freistromlaufrad und großem Durchgang, geeignet für Abwasser mit größeren Feststoffen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "c2b10a56b0fd",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-flygt-flygt-p7000.webp",
-          "alt": "Flygt Pumpe der Baureihe P 7000",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "e2107317e831",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Flygt "
-                },
-                {
-                  "type": "text",
-                  "text": "Baureihe P 7000",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Pumpenserie für große Förderströme bei niedrigen Förderhöhen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "ac9326f1dfab",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-flygt-flygt-fp4200.webp",
-          "alt": "Flygt Pumpe der Baureihe FP 4200",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "08d33864a489",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Flygt "
-                },
-                {
-                  "type": "text",
-                  "text": "Baureihe FP 4200",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Unterwasserpumpe mit Ultra-Low-Head-Propellern, einstellbarer Drehzahl und integrierter Motorregelung"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "2b537cb1c9b8",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-flygt-flygt-fp4600.webp",
-          "alt": "Flygt Pumpe der Baureihe FP 4600",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "ce639779721d",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Flygt "
-                },
-                {
-                  "type": "text",
-                  "text": "Baureihe FP 4600",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Horizontale Propellerpumpenserie mit drei Flügeln für sehr große Förderströme bei sehr niedrigen Förderhöhen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "10882ae91bf9",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-flygt-flygt-h3000.webp",
-          "alt": "Flygt Pumpe der Baureihe H 3000",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "a4bf127146a8",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Flygt "
-                },
-                {
-                  "type": "text",
-                  "text": "Baureihe H 3000",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Tauchmotor-Feststoffpumpen, geeignet für Medien mit abrasiven Bestandteilen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "8b73faa8cf52",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-flygt-flygt-h5000.webp",
-          "alt": "Flygt Pumpe der Baureihe H 5000",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "e694aaea5b4b",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Flygt "
-                },
-                {
-                  "type": "text",
-                  "text": "Baureihe H 5000",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Tauchmotor-Feststoffpumpen, geeignet für Medien mit abrasiven Bestandteilen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "5b963605159d",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-flygt-flygt-k2000.webp",
-          "alt": "Flygt Pumpe der Baureihe K 2000",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "4b8b129567b3",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Flygt "
-                },
-                {
-                  "type": "text",
-                  "text": "Baureihe K 2000",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Transportable verschleißfeste Entwässerungspumpen, geeignet für Anwendungen in Wasser mit abrasiven Bestandteilen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "5d2ffec5c3f8",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-flygt-flygt-l3000.webp",
-          "alt": "Flygt Pumpe der Baureihe L 3000",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "ab8fe7c28304",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Flygt "
-                },
-                {
-                  "type": "text",
-                  "text": "Baureihe L 3000",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Pumpenserie für Förderströme bei niedrigen Förderhöhen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "5f8cc3af3f70",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-flygt-flygt-m3000.webp",
-          "alt": "Flygt Pumpe der Baureihe M 3000",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "69add4737f63",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Flygt "
-                },
-                {
-                  "type": "text",
-                  "text": "Baureihe M 3000",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Tauchmotor-Schneidwerkpumpen, speziell für die Druckentwässerung entwickelt"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "90689c566c28",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-flygt-flygt-3000.webp",
-          "alt": "Flygt Pumpe der Baureihe N 3000",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "deba1b899cc3",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Flygt "
-                },
-                {
-                  "type": "text",
-                  "text": "Baureihe N 3000",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Tauchmotorpumpen mit verstopfungsunempfindlichem N-Laufrad"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "27f457ea7b6b",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-flygt-flygt-nl3000.webp",
-          "alt": "Flygt Pumpe der Baureihe NL 3000",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "c92c3aa7418e",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Flygt "
-                },
-                {
-                  "type": "text",
-                  "text": "Baureihe NL 3000",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Pumpenserie für Förderströme bei niedrigen Förderhöhen, mit verstopfungsunempfindlichem N-Laufrad"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "23e9d4e76eee",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-missende-pomp.webp",
-          "alt": "Platzhalter für nicht aufgeführte Pumpen",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "23cb8265a551",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ihre "
-                },
-                {
-                  "type": "text",
-                  "text": "Flygt",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Pumpe ist nicht dabei? Unsere Pumpenexperten helfen Ihnen gern, die benötigte Pumpe oder Ersatzteile zu finden und zu liefern"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -1348,19 +1524,30 @@
                   "text": "Seit Flygt 2011 Teil von Xylem wurde, hat sich das Sortiment weiterentwickelt, mit stärkerem Fokus auf Energieeffizienz, intelligente Regelung und Komplettlösungen für das Wassermanagement."
                 }
               ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Unverbindlich Kontakt aufnehmen"
-                }
-              ]
-            },
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "39025f2eb130",
+        "component": "cta_band",
+        "heading": "Unverbindlich Kontakt aufnehmen",
+        "text": "Wir beraten Sie gern zu Auswahl, Ersatz und Revision Ihrer Pumpe.",
+        "button_label": "Kontakt aufnehmen",
+        "button_link": {
+          "fieldtype": "multilink",
+          "linktype": "url",
+          "url": "/kontakt",
+          "cached_url": "/kontakt"
+        },
+        "variant": "primary"
+      },
+      {
+        "_uid": "e7ce55a8b722",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
             {
               "type": "heading",
               "attrs": {
@@ -1377,621 +1564,707 @@
         }
       },
       {
-        "_uid": "3df0df8156b9",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-aeb.webp",
-          "alt": "Müllheizkraftwerk von AEB Amsterdam in der Dämmerung, Kunde für Flygt Pumpenlösungen",
-          "width": 387,
-          "height": 241
-        }
+        "_uid": "67554915c76c",
+        "component": "logo_carousel",
+        "logos": [
+          {
+            "_uid": "9bc83120ef3b",
+            "component": "logo_item",
+            "name": "AEB Amsterdam",
+            "image": {
+              "filename": "/img/clients/aeb-amsterdam.webp",
+              "alt": "AEB Amsterdam",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "960e02a22120",
+            "component": "logo_item",
+            "name": "AkzoNobel",
+            "image": {
+              "filename": "/img/clients/akzonobel.webp",
+              "alt": "AkzoNobel",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "8db2e165a920",
+            "component": "logo_item",
+            "name": "HVC",
+            "image": {
+              "filename": "/img/clients/hvc.webp",
+              "alt": "HVC",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "5d35062c3f04",
+            "component": "logo_item",
+            "name": "Petrogas",
+            "image": {
+              "filename": "/img/clients/petrogas.webp",
+              "alt": "Petrogas",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "d609554491db",
+            "component": "logo_item",
+            "name": "Tata Steel",
+            "image": {
+              "filename": "/img/clients/tata-steel.webp",
+              "alt": "Tata Steel",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "35e85a9076f5",
+            "component": "logo_item",
+            "name": "Waternet",
+            "image": {
+              "filename": "/img/clients/waternet.webp",
+              "alt": "Waternet",
+              "width": 280,
+              "height": 140
+            }
+          }
+        ]
       },
       {
-        "_uid": "f06527031a7a",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-akzonobel.webp",
-          "alt": "AkzoNobel Hauptsitz in einem modernen Glasturm, Nutzer von Flygt Industriepumpen",
-          "width": 387,
-          "height": 241
-        }
+        "_uid": "52ed0735b1f8",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "4f55ec6447a9",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "a898c415cea3",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flygt Pumpen für anspruchsvolle Anwendungen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flygt bietet ein breites Sortiment an Pumpen für Anwendungen, bei denen herkömmliche Pumpenlösungen möglicherweise nicht ausreichen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Tauchmotor-Abwasserpumpen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flygt Tauchmotor-Abwasserpumpen sind für das Fördern von Schmutzwasser, Abwasser und Regenwasser ausgelegt. Die robuste Bauweise und die Fähigkeit, Feststoffe zu verarbeiten, machen sie für kommunale, industrielle und gewerbliche Abwasseranlagen geeignet."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Entwässerungspumpen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Für Bau, Bergbau, Industrie und andere Anwendungen, bei denen Wasser schnell und zuverlässig entfernt werden muss, bietet Flygt verschiedene Entwässerungspumpen. Die bekannte BIBO-Serie ist zum Beispiel für anspruchsvolle Entwässerungsanwendungen und häufigen Einsatz ausgelegt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Feststoffpumpen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flygt-Feststoffpumpen sind für Anwendungen mit abrasiven Flüssigkeiten und Feststoffen entwickelt. Sie werden unter anderem in Bergbau, Mineralaufbereitung und Nassbaggerei eingesetzt, wo Pumpen schweren Betriebsbedingungen standhalten müssen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Propellerpumpen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Wenn große Wassermengen bei relativ niedrigen Förderhöhen gefördert werden müssen, bieten Flygt-Propellerpumpen eine geeignete Lösung. Sie werden unter anderem für Wassermanagement, Wassertransport und andere Systeme mit großen Förderströmen eingesetzt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Schneidwerkpumpen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flygt-Schneidwerkpumpen sind für die Druckentwässerung ausgelegt, bei der Feststoffe im Abwasser zerkleinert werden, bevor sie durch Leitungen mit kleinerem Durchmesser transportiert werden."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "2fe62c6c5333",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "c296a7145c61",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flygt Concertor"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flygt N-Technologie: ausgelegt, um Verstopfungen zu verringern"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Eine der bekannten Innovationen von Flygt ist die N-Technologie. Das selbstreinigende Laufrad ist dafür ausgelegt, Feststoffe und faserige Materialien zu verarbeiten und dabei die Verstopfungsgefahr zu verringern."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Das ist vor allem bei Abwasseranwendungen relevant, wo Feuchttücher, Fasern und andere Abfälle zu Verstopfungen, ungeplanter Wartung und Stillstand führen können."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Indem sie einen effizienten Pumpenbetrieb unterstützt, kann die N-Technologie zu weniger Wartung und zu einer zuverlässigeren Abwasserförderung beitragen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flygt Concertor: intelligente Abwasserförderung"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mit Lösungen wie Flygt Concertor geht Flygt über die traditionelle Pumpentechnik hinaus."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Concertor kombiniert Tauchmotorpumpen mit integrierter Sensorik, Regelung und Software. Das System ist darauf ausgelegt, den Pumpenbetrieb zu optimieren, die Energieeffizienz zu verbessern und Probleme wie Verstopfungen zu verringern."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Für Betreiber von Abwassersystemen kann dies zu weniger Eingriffen, niedrigeren Betriebskosten und mehr Kontrolle über die Pumpenleistung führen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bekannte Flygt-Pumpenbaureihen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Das umfangreiche Sortiment von Flygt umfasst mehrere etablierte Pumpenbaureihen für unterschiedliche Anwendungen:"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Flygt Baureihe 3000",
+                                  "marks": [
+                                    {
+                                      "type": "bold"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": ": Tauchmotor-Abwasserpumpen zum zuverlässigen Fördern von Schmutz- und Abwasser."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Flygt N-Pumpen:",
+                                  "marks": [
+                                    {
+                                      "type": "bold"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " Abwasserpumpen mit selbstreinigender N-Technologie, um Verstopfungen zu verringern."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Flygt Concertor:",
+                                  "marks": [
+                                    {
+                                      "type": "bold"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " Integriertes Abwassersystem, das Pumpen, Überwachung und Regelung kombiniert."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Flygt BIBO:",
+                                  "marks": [
+                                    {
+                                      "type": "bold"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " Robuste Entwässerungspumpen für anspruchsvolle Drainage-Anwendungen."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Flygt Baureihe 2000:",
+                                  "marks": [
+                                    {
+                                      "type": "bold"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " Entwässerungspumpen für schwierige Umgebungen, darunter Bergbau und Bau."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Flygt C-Pumpen:",
+                                  "marks": [
+                                    {
+                                      "type": "bold"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " Tauchmotorpumpen für unterschiedliche Wasser- und Abwasseranwendungen."
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "52fa0035e3ab",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-hvc.webp",
-          "alt": "Rotes Kraftwerk von HVC für die Abfallverwertung, Einsatz von Flygt Pumpen",
-          "width": 387,
-          "height": 241
-        }
+        "_uid": "eda64ac713b3",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "081866588382",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "12d81ef64ef7",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flygt in europäischen Wasser- und Abwasseranwendungen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flygt-Technologie wird in ganz Europa in kommunalen, industriellen und infrastrukturellen Projekten eingesetzt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Am "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Flughafen Heathrow im Vereinigten Königreich",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " wurde Flygt Concertor-Technologie eingesetzt, um wiederkehrende Verstopfungen und den Energieverbrauch anzugehen. Dabei wurde eine Energieeinsparung von etwa 50 % gemeldet."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "In einer weiteren britischen Anwendung meldete "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Yorkshire Water",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " nach der Einführung von Flygt Concertor N-Pumpen in ausgewählten Pumpstationen einen deutlichen Rückgang reaktiver Wartungsmeldungen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flygt-Anlagentechnik wurde auch in großen Infrastrukturprojekten eingesetzt, etwa in der "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Meerwasserentsalzungsanlage Alicante II in Spanien",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ", was die Eignung der Technologie für anspruchsvolle Wasseranwendungen unterstreicht."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "1932cec21e71",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ee78184df9bb",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Diese Anwendungen zeigen, wo Flygt-Technologie Nutzen bringen kann: "
+                        },
+                        {
+                          "type": "text",
+                          "text": "zuverlässiger Betrieb, weniger Wartung, Energieeffizienz und effektive Verarbeitung von Feststoffen.",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flygt Pumpen von IPG"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bei der Auswahl einer Pumpe kommt es auf mehr an als nur auf Förderstrom und Druck. Auch Anwendung, Eigenschaften der Flüssigkeit, Feststoffanteil, Einbaubedingungen, Betriebsstunden und Wartungsanforderungen bestimmen, welche Pumpe am besten geeignet ist."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als "
+                        },
+                        {
+                          "type": "text",
+                          "text": "einer der Flygt-Händler von IPG",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " bieten wir Zugang zum umfangreichen Sortiment an Pumpenlösungen von Flygt und helfen Kunden, die passende Ausrüstung für ihre konkrete Anwendung zu finden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ob Sie eine "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Abwasserpumpe, Entwässerungspumpe, Feststoffpumpe, Propellerpumpe oder Schneidwerkpumpe",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " suchen: IPG hilft Ihnen gern, eine geeignete Flygt-Lösung zu finden."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "c4a44970ce67",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-petrogas.webp",
-          "alt": "Offshore-Bohrplattform von Petrogas E&P auf See, Einsatz von Flygt Pumpen in Öl und Gas",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "00672a16887c",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-tatasteel.webp",
-          "alt": "Stahlproduktion bei Tata Steel mit Fördersystem, Einsatz von Flygt Pumpen",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "797e16a87f07",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-waternet.webp",
-          "alt": "Bürogebäude von Waternet am Wasser in Amsterdam, Partner für Flygt Abwasserpumpen",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "03bf9eb82431",
+        "_uid": "298808e7f2a1",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Flygt Pumpen für anspruchsvolle Anwendungen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Flygt bietet ein breites Sortiment an Pumpen für Anwendungen, bei denen herkömmliche Pumpenlösungen möglicherweise nicht ausreichen."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Tauchmotor-Abwasserpumpen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Flygt Tauchmotor-Abwasserpumpen sind für das Fördern von Schmutzwasser, Abwasser und Regenwasser ausgelegt. Die robuste Bauweise und die Fähigkeit, Feststoffe zu verarbeiten, machen sie für kommunale, industrielle und gewerbliche Abwasseranlagen geeignet."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Entwässerungspumpen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Für Bau, Bergbau, Industrie und andere Anwendungen, bei denen Wasser schnell und zuverlässig entfernt werden muss, bietet Flygt verschiedene Entwässerungspumpen. Die bekannte BIBO-Serie ist zum Beispiel für anspruchsvolle Entwässerungsanwendungen und häufigen Einsatz ausgelegt."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Feststoffpumpen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Flygt-Feststoffpumpen sind für Anwendungen mit abrasiven Flüssigkeiten und Feststoffen entwickelt. Sie werden unter anderem in Bergbau, Mineralaufbereitung und Nassbaggerei eingesetzt, wo Pumpen schweren Betriebsbedingungen standhalten müssen."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Propellerpumpen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Wenn große Wassermengen bei relativ niedrigen Förderhöhen gefördert werden müssen, bieten Flygt-Propellerpumpen eine geeignete Lösung. Sie werden unter anderem für Wassermanagement, Wassertransport und andere Systeme mit großen Förderströmen eingesetzt."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Schneidwerkpumpen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Flygt-Schneidwerkpumpen sind für die Druckentwässerung ausgelegt, bei der Feststoffe im Abwasser zerkleinert werden, bevor sie durch Leitungen mit kleinerem Durchmesser transportiert werden."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Flygt Concertor"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Flygt N-Technologie: ausgelegt, um Verstopfungen zu verringern"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Eine der bekannten Innovationen von Flygt ist die N-Technologie. Das selbstreinigende Laufrad ist dafür ausgelegt, Feststoffe und faserige Materialien zu verarbeiten und dabei die Verstopfungsgefahr zu verringern."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Das ist vor allem bei Abwasseranwendungen relevant, wo Feuchttücher, Fasern und andere Abfälle zu Verstopfungen, ungeplanter Wartung und Stillstand führen können."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Indem sie einen effizienten Pumpenbetrieb unterstützt, kann die N-Technologie zu weniger Wartung und zu einer zuverlässigeren Abwasserförderung beitragen."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Flygt Concertor: intelligente Abwasserförderung"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mit Lösungen wie Flygt Concertor geht Flygt über die traditionelle Pumpentechnik hinaus."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Concertor kombiniert Tauchmotorpumpen mit integrierter Sensorik, Regelung und Software. Das System ist darauf ausgelegt, den Pumpenbetrieb zu optimieren, die Energieeffizienz zu verbessern und Probleme wie Verstopfungen zu verringern."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Für Betreiber von Abwassersystemen kann dies zu weniger Eingriffen, niedrigeren Betriebskosten und mehr Kontrolle über die Pumpenleistung führen."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bekannte Flygt-Pumpenbaureihen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Das umfangreiche Sortiment von Flygt umfasst mehrere etablierte Pumpenbaureihen für unterschiedliche Anwendungen:"
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Flygt Baureihe 3000",
-                          "marks": [
-                            {
-                              "type": "bold"
-                            }
-                          ]
-                        },
-                        {
-                          "type": "text",
-                          "text": ": Tauchmotor-Abwasserpumpen zum zuverlässigen Fördern von Schmutz- und Abwasser."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Flygt N-Pumpen:",
-                          "marks": [
-                            {
-                              "type": "bold"
-                            }
-                          ]
-                        },
-                        {
-                          "type": "text",
-                          "text": " Abwasserpumpen mit selbstreinigender N-Technologie, um Verstopfungen zu verringern."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Flygt Concertor:",
-                          "marks": [
-                            {
-                              "type": "bold"
-                            }
-                          ]
-                        },
-                        {
-                          "type": "text",
-                          "text": " Integriertes Abwassersystem, das Pumpen, Überwachung und Regelung kombiniert."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Flygt BIBO:",
-                          "marks": [
-                            {
-                              "type": "bold"
-                            }
-                          ]
-                        },
-                        {
-                          "type": "text",
-                          "text": " Robuste Entwässerungspumpen für anspruchsvolle Drainage-Anwendungen."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Flygt Baureihe 2000:",
-                          "marks": [
-                            {
-                              "type": "bold"
-                            }
-                          ]
-                        },
-                        {
-                          "type": "text",
-                          "text": " Entwässerungspumpen für schwierige Umgebungen, darunter Bergbau und Bau."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Flygt C-Pumpen:",
-                          "marks": [
-                            {
-                              "type": "bold"
-                            }
-                          ]
-                        },
-                        {
-                          "type": "text",
-                          "text": " Tauchmotorpumpen für unterschiedliche Wasser- und Abwasseranwendungen."
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Flygt in europäischen Wasser- und Abwasseranwendungen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Flygt-Technologie wird in ganz Europa in kommunalen, industriellen und infrastrukturellen Projekten eingesetzt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Am "
-                },
-                {
-                  "type": "text",
-                  "text": "Flughafen Heathrow im Vereinigten Königreich",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " wurde Flygt Concertor-Technologie eingesetzt, um wiederkehrende Verstopfungen und den Energieverbrauch anzugehen. Dabei wurde eine Energieeinsparung von etwa 50 % gemeldet."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "In einer weiteren britischen Anwendung meldete "
-                },
-                {
-                  "type": "text",
-                  "text": "Yorkshire Water",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " nach der Einführung von Flygt Concertor N-Pumpen in ausgewählten Pumpstationen einen deutlichen Rückgang reaktiver Wartungsmeldungen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Flygt-Anlagentechnik wurde auch in großen Infrastrukturprojekten eingesetzt, etwa in der "
-                },
-                {
-                  "type": "text",
-                  "text": "Meerwasserentsalzungsanlage Alicante II in Spanien",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": ", was die Eignung der Technologie für anspruchsvolle Wasseranwendungen unterstreicht."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Diese Anwendungen zeigen, wo Flygt-Technologie Nutzen bringen kann: "
-                },
-                {
-                  "type": "text",
-                  "text": "zuverlässiger Betrieb, weniger Wartung, Energieeffizienz und effektive Verarbeitung von Feststoffen.",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Flygt Pumpen von IPG"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bei der Auswahl einer Pumpe kommt es auf mehr an als nur auf Förderstrom und Druck. Auch Anwendung, Eigenschaften der Flüssigkeit, Feststoffanteil, Einbaubedingungen, Betriebsstunden und Wartungsanforderungen bestimmen, welche Pumpe am besten geeignet ist."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als "
-                },
-                {
-                  "type": "text",
-                  "text": "einer der Flygt-Händler von IPG",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " bieten wir Zugang zum umfangreichen Sortiment an Pumpenlösungen von Flygt und helfen Kunden, die passende Ausrüstung für ihre konkrete Anwendung zu finden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ob Sie eine "
-                },
-                {
-                  "type": "text",
-                  "text": "Abwasserpumpe, Entwässerungspumpe, Feststoffpumpe, Propellerpumpe oder Schneidwerkpumpe",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " suchen: IPG hilft Ihnen gern, eine geeignete Flygt-Lösung zu finden."
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -2017,37 +2290,56 @@
         }
       },
       {
-        "_uid": "f8d092f632b7",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-flygt-3000-series-2.webp",
-          "alt": "Flygt Tauchmotorpumpe der Baureihe 3000",
-          "width": 300,
-          "height": 300
-        }
-      },
-      {
-        "_uid": "8d07b94391c8",
-        "component": "faq",
-        "heading": "Häufige Fragen",
-        "items": [
+        "_uid": "66833216481a",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
           {
-            "_uid": "e7ad083c0e39",
-            "component": "faq_item",
-            "question": "Was ist eine Flygt Pumpe?",
-            "answer": "Eine Flygt Pumpe ist eine hochwertige Tauchmotorpumpe der Marke Flygt, die zu Xylem gehört. Flygt ist weltweit als Spezialist für Pumpen in Abwasser-, Kanal- und Wasseraufbereitungsanwendungen bekannt. Die Pumpen sind für Dauerbetrieb und schwere Beanspruchung ausgelegt und zeichnen sich durch robuste Bauweise, hohe Effizienz und lange Lebensdauer aus. Flygt Pumpen werden häufig dort eingesetzt, wo Betriebssicherheit entscheidend ist und ein Ausfall nicht in Frage kommt."
+            "_uid": "f717a5c9fded",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "04dffdb8cbb6",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-flygt-3000-series-2.webp",
+                  "alt": "Flygt Tauchmotorpumpe der Baureihe 3000",
+                  "width": 300,
+                  "height": 300
+                }
+              }
+            ]
           },
           {
-            "_uid": "df7eb1e1ab11",
-            "component": "faq_item",
-            "question": "Wofür werden Flygt Pumpen hauptsächlich eingesetzt?",
-            "answer": "Flygt Pumpen werden vor allem dort eingesetzt, wo verschmutztes Wasser zuverlässig gefördert werden muss. Häufige Anwendungen sind:\n- Kommunale Abwasserpumpwerke und Abwassersysteme\n- Kläranlagen\n- Industrielle Abwasserprozesse\n- Entwässerung von Infrastruktur- und Bauprojekten\n- Wassermanagement in Schöpfwerken und Polderanlagen\nDank ihrer bewährten Zuverlässigkeit werden Flygt Pumpen häufig für kritische und dauerhafte Anlagen gewählt."
-          },
-          {
-            "_uid": "31a58423e4d5",
-            "component": "faq_item",
-            "question": "Was ist der Unterschied zwischen den verschiedenen Arten von Flygt Pumpen?",
-            "answer": "Der Unterschied zwischen Flygt Pumpen liegt vor allem in Ausführung und Einsatzgebiet. Flygt liefert unter anderem:\n- Abwasserpumpen für normal und stark verschmutztes Wasser\n- Pumpen mit selbstreinigender Hydraulik für weniger Verstopfungen\n- Schneidwerkpumpen für faserhaltiges Abwasser\n- Entwässerungspumpen für vorübergehende Entwässerung\n- Intelligente Pumpen mit integrierter Regelung und Überwachung\nJede Baureihe ist für bestimmte Bedingungen entwickelt, etwa Art des Mediums, erforderliche Leistung, Förderhöhe und Betriebsdauer. Dadurch gibt es immer eine Flygt Pumpe, die zu den technischen Anforderungen Ihrer Anlage passt."
+            "_uid": "fa2607f78cd3",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "4cfa2038a4ae",
+                "component": "faq",
+                "heading": "Häufige Fragen",
+                "items": [
+                  {
+                    "_uid": "39209bb75f87",
+                    "component": "faq_item",
+                    "question": "Was ist eine Flygt Pumpe?",
+                    "answer": "Eine Flygt Pumpe ist eine hochwertige Tauchmotorpumpe der Marke Flygt, die zu Xylem gehört. Flygt ist weltweit als Spezialist für Pumpen in Abwasser-, Kanal- und Wasseraufbereitungsanwendungen bekannt. Die Pumpen sind für Dauerbetrieb und schwere Beanspruchung ausgelegt und zeichnen sich durch robuste Bauweise, hohe Effizienz und lange Lebensdauer aus. Flygt Pumpen werden häufig dort eingesetzt, wo Betriebssicherheit entscheidend ist und ein Ausfall nicht in Frage kommt."
+                  },
+                  {
+                    "_uid": "a40da9f4a111",
+                    "component": "faq_item",
+                    "question": "Wofür werden Flygt Pumpen hauptsächlich eingesetzt?",
+                    "answer": "Flygt Pumpen werden vor allem dort eingesetzt, wo verschmutztes Wasser zuverlässig gefördert werden muss. Häufige Anwendungen sind:\n- Kommunale Abwasserpumpwerke und Abwassersysteme\n- Kläranlagen\n- Industrielle Abwasserprozesse\n- Entwässerung von Infrastruktur- und Bauprojekten\n- Wassermanagement in Schöpfwerken und Polderanlagen\nDank ihrer bewährten Zuverlässigkeit werden Flygt Pumpen häufig für kritische und dauerhafte Anlagen gewählt."
+                  },
+                  {
+                    "_uid": "d53242ee54b6",
+                    "component": "faq_item",
+                    "question": "Was ist der Unterschied zwischen den verschiedenen Arten von Flygt Pumpen?",
+                    "answer": "Der Unterschied zwischen Flygt Pumpen liegt vor allem in Ausführung und Einsatzgebiet. Flygt liefert unter anderem:\n- Abwasserpumpen für normal und stark verschmutztes Wasser\n- Pumpen mit selbstreinigender Hydraulik für weniger Verstopfungen\n- Schneidwerkpumpen für faserhaltiges Abwasser\n- Entwässerungspumpen für vorübergehende Entwässerung\n- Intelligente Pumpen mit integrierter Regelung und Überwachung\nJede Baureihe ist für bestimmte Bedingungen entwickelt, etwa Art des Mediums, erforderliche Leistung, Förderhöhe und Betriebsdauer. Dadurch gibt es immer eine Flygt Pumpe, die zu den technischen Anforderungen Ihrer Anlage passt."
+                  }
+                ]
+              }
+            ]
           }
         ]
       }

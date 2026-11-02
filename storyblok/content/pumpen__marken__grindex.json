@@ -13,10 +13,16 @@
     "seo_description": "Grindex Tauchmotorpumpen für Entwässerung, Schlamm und Feststoffe in Industrie, Bergbau und Bau: Baureihen, Ersatzteile, Revision. Jetzt anfragen.",
     "intro": "Grindex ist ein schwedischer Hersteller robuster Tauchmotorpumpen für Industrie, Bau und Bergbau. Die Industrial Pump Group liefert Grindex Pumpen und Ersatzteile und unterstützt Betreiber bei der Revision.",
     "brand_name": "Grindex",
+    "logo": {
+      "filename": "/img/nl/grindex-logo-ipg.webp",
+      "alt": "Grindex",
+      "width": 120,
+      "height": 54
+    },
     "revision_text": "Für Grindex-Pumpen können Sie Ersatzteile und eine Revision anfragen. Ob und in welchem Umfang das möglich ist, hängt von Serie, Baujahr und Ausführung ab; das Typenschild genügt für eine erste Einschätzung.",
     "body": [
       {
-        "_uid": "cb07da0d2fd3",
+        "_uid": "bf7b0b94cf63",
         "component": "rich_text",
         "content": {
           "type": "doc",
@@ -85,816 +91,1011 @@
         }
       },
       {
-        "_uid": "96b26b4de62e",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-grindex-grindex-minex.webp",
-          "alt": "Kompakte Grindex Tauchmotorpumpe MINEX mit Luftventil für verschmutzte industrielle Flüssigkeiten",
-          "width": 300,
-          "height": 300
-        }
-      },
-      {
-        "_uid": "fb1d0c6a9f82",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
+        "_uid": "219461ed08db",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "24ffcada0eed",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "f53f00c4242a",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-grindex-grindex-minex.webp",
+                  "alt": "Kompakte Grindex Tauchmotorpumpe MINEX mit Luftventil für verschmutzte industrielle Flüssigkeiten",
+                  "width": 300,
+                  "height": 300
+                }
               },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Grindex Baureihe MINEX 1F/LITE/3F"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Tauchmotorpumpe mit Luftventil für verschmutzte Flüssigkeiten."
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "72ddbb5dffc6",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-grindex-grindex-minette.webp",
-          "alt": "Grindex MINETTE Tauchmotorpumpe für Dauerbetrieb mit verschmutzten Flüssigkeiten in industriellen Umgebungen",
-          "width": 300,
-          "height": 300
-        }
-      },
-      {
-        "_uid": "1963b09bd916",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Grindex Baureihe MINETTE"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Tauchmotorpumpe, geeignet für Dauerbetrieb und verschmutzte Flüssigkeiten."
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "eb63b5d8dfd6",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-grindex-grindex-mega.webp",
-          "alt": "Rote Grindex MEGA Tauchmotorpumpe für schwere industrielle Anwendungen mit verschmutzten Flüssigkeiten",
-          "width": 465,
-          "height": 465
-        }
-      },
-      {
-        "_uid": "c88fa941dceb",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Grindex Baureihe MEGA N/H"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Tauchmotorpumpe für verschmutzte Flüssigkeiten."
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "9b3f31ddc98d",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-grindex-grindex-salvador.webp",
-          "alt": "Grindex SALVADOR Tauchmotorpumpe für verschmutzte Flüssigkeiten mit freiem Durchgang für Feststoffe bis 50 mm",
-          "width": 400,
-          "height": 300
-        }
-      },
-      {
-        "_uid": "d4863ece354c",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Grindex Baureihe SALVADOR"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Geeignet für verschmutzte Flüssigkeiten und mit freiem Durchgang für Feststoffe bis 50 mm."
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "4d7f31e569d9",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-grindex-grindex-micro.webp",
-          "alt": "Kleine Grindex Micro Tauchmotorpumpe für verschmutzte Flüssigkeiten in kompakten industriellen Anwendungen",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "228756297020",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Grindex "
-                },
-                {
-                  "type": "text",
-                  "text": "Micro",
-                  "marks": [
+              {
+                "_uid": "12469a721eda",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
                     {
-                      "type": "bold"
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Grindex Baureihe MINEX 1F/LITE/3F"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Tauchmotorpumpe mit Luftventil für verschmutzte Flüssigkeiten."
+                        }
+                      ]
                     }
                   ]
-                },
-                {
-                  "type": "text",
-                  "text": " Kleine Tauchmotorpumpe, geeignet für verschmutzte Flüssigkeiten"
                 }
-              ]
-            }
-          ]
-        }
+              }
+            ]
+          },
+          {
+            "_uid": "d9bfd5bfdee8",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ca9fc53e294b",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-grindex-grindex-minette.webp",
+                  "alt": "Grindex MINETTE Tauchmotorpumpe für Dauerbetrieb mit verschmutzten Flüssigkeiten in industriellen Umgebungen",
+                  "width": 300,
+                  "height": 300
+                }
+              },
+              {
+                "_uid": "fa5a38f149fb",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Grindex Baureihe MINETTE"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Tauchmotorpumpe, geeignet für Dauerbetrieb und verschmutzte Flüssigkeiten."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "97fe57ff3b25",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "e92d8b0eb64e",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-grindex-grindex-mega.webp",
+                  "alt": "Rote Grindex MEGA Tauchmotorpumpe für schwere industrielle Anwendungen mit verschmutzten Flüssigkeiten",
+                  "width": 465,
+                  "height": 465
+                }
+              },
+              {
+                "_uid": "98d1e22f2f25",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Grindex Baureihe MEGA N/H"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Tauchmotorpumpe für verschmutzte Flüssigkeiten."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "ea89f331928f",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "f5d1d99daec4",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-grindex-grindex-salvador.webp",
+                  "alt": "Grindex SALVADOR Tauchmotorpumpe für verschmutzte Flüssigkeiten mit freiem Durchgang für Feststoffe bis 50 mm",
+                  "width": 400,
+                  "height": 300
+                }
+              },
+              {
+                "_uid": "409a6d26d8eb",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Grindex Baureihe SALVADOR"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Geeignet für verschmutzte Flüssigkeiten und mit freiem Durchgang für Feststoffe bis 50 mm."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "1204defecd5a",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-grindex-grindex-mini.webp",
-          "alt": "Grindex Mini Tauchmotorpumpe für verschmutzte Flüssigkeiten in leichten industriellen Anwendungen",
-          "width": 500,
-          "height": 500
-        }
+        "_uid": "87eb4718b43a",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "a964961169b1",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "aba88110c97a",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-grindex-grindex-micro.webp",
+                  "alt": "Kleine Grindex Micro Tauchmotorpumpe für verschmutzte Flüssigkeiten in kompakten industriellen Anwendungen",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "64e8378cd700",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Grindex "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Micro",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Kleine Tauchmotorpumpe, geeignet für verschmutzte Flüssigkeiten"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "1d14b884ea80",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "1d615253baeb",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-grindex-grindex-mini.webp",
+                  "alt": "Grindex Mini Tauchmotorpumpe für verschmutzte Flüssigkeiten in leichten industriellen Anwendungen",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "8f94951cb257",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Grindex "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Mini",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Tauchmotorpumpe, geeignet für verschmutzte Flüssigkeiten"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "738512250580",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ca4a4582963b",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-grindex-grindex-minor.webp",
+                  "alt": "Grindex Minor Tauchmotorpumpe mit freiem Durchgang bis 10 mm für verschmutzte Flüssigkeiten",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "ec5cba0f797b",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Grindex "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Minor N/H",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Tauchmotorpumpe mit freiem Durchgang für Feststoffe bis 10 mm"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "0a45c6ceb148",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "0f880fb076df",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-grindex-grindex-maxi.webp",
+                  "alt": "Grindex Maxi Tauchmotorpumpe mit Förderstrom bis 201 m³/h für industrielle verschmutzte Flüssigkeiten",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "64b94bb89f22",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Grindex "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Maxi N/H/L",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Tauchmotorpumpe mit einem Förderstrom bis 201 m³/h"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "abbcd2eda892",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "776551b2a2ce",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-grindex-grindex-matador.webp",
+                  "alt": "Grindex Matador Tauchmotorpumpe mit doppelter Gleitringdichtung für verschmutzte Flüssigkeiten",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "6f0e1f0945d1",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Grindex "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Matador N/H",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Tauchmotorpumpe mit doppelter Gleitringdichtung im Ölbad SiC/SiC-Tun/Tun"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "05d7d1903bf6",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "82abc2998ef8",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-grindex-grindex-master.webp",
+                  "alt": "Grindex Master Tauchmotorpumpe für industrielle Anwendungen mit verschmutzten Flüssigkeiten",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "5291200d87c2",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Grindex "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Master N/H/SH",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Tauchmotorpumpe, geeignet für verschmutzte Flüssigkeiten"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "36befb8b39c7",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "5f21792325f8",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-grindex-grindex-magnum.webp",
+                  "alt": "Grindex Magnum Tauchmotorpumpe mit hohem Förderstrom bis 1.260 m³/h für schwere industrielle Anwendungen",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "43cb54c31c3b",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Grindex "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Magnum N/H/L",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Tauchmotorpumpe mit einem Förderstrom bis 1.260 m³/h"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "0f16eb562bc4",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "efbb781a6656",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-grindex-grindex-solid.webp",
+                  "alt": "Grindex Solid Tauchmotorpumpe mit freiem Durchgang für Feststoffe bis 38 mm in verschmutzten Flüssigkeiten",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "55f54af3e636",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Grindex "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Solid",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Tauchmotorpumpe mit freiem Durchgang für Feststoffe bis 38 mm"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "92d85090ae86",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "33a48c390161",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-grindex-grindex-sandy.webp",
+                  "alt": "Grindex Sandy Tauchmotorpumpe für verschmutzte Flüssigkeiten bis 40 °C, geeignet für industrielle Anwendungen",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "a7363c7fc5a5",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Grindex "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Sandy N/H",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Tauchmotorpumpe für verschmutzte Flüssigkeiten mit einer maximalen Temperatur von 40 °C"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "28e2d0c097c9",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "286f1c12e5a9",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-grindex-grindex-sandy.webp",
+                  "alt": "Grindex Senior Tauchmotorpumpe mit freiem Durchgang bis 80 mm für verschmutzte Flüssigkeiten",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "f84c5aa7a9f4",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Grindex "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Senior",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Geeignet für verschmutzte Flüssigkeiten und mit freiem Durchgang für Feststoffe bis 80 mm"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "8fb420f1b83c",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "66e1351c5885",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-grindex-grindex-bravo.webp",
+                  "alt": "Grindex Bravo Tauchmotorpumpe für verschmutzte Flüssigkeiten und Schlamm in schweren industriellen Anwendungen",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "1f5f603c5734",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Grindex "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Bravo Baureihe N/H",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Tauchmotorpumpe für verschmutzte Flüssigkeiten und für Schlamm mit Feststoffen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "02dc3cb05c8d",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "59aec898945b",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-missende-pomp.webp",
+                  "alt": "Platzhalter für nicht aufgeführte Pumpen",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "67701c19f2e3",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ihre "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Grindex",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Pumpe ist nicht dabei? Unsere Pumpenexperten helfen Ihnen gern, die benötigte Pumpe oder Ersatzteile zu finden und zu liefern"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "d3cd4ac6b5ee",
+        "_uid": "f7a310d2ee0d",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "0be6317e643e",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "03144d53abcf",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Über Grindex"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Grindex ist ein weltweit führender Anbieter von elektrischen Tauchmotorpumpen für anspruchsvolle Anwendungen wie Bau, Bergbau und Schwerindustrie. Seit 1960 widmet sich Grindex vollständig der Entwicklung elektrischer Tauchmotorpumpen höchster Qualität, die kompromisslos für professionelle Anwender weltweit ausgelegt sind. Das Sortiment umfasst Pumpen für jeden Bedarf: Entwässerung, Schlamm und Feststoffe, geeignet für die anspruchsvollsten Umgebungen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Grindex strebt höchste Qualitätsstandards an und ist nach dem Qualitätsstandard ISO 9001 zertifiziert. Diese Zertifizierung stellt sicher, dass alle Prozesse, von der Konstruktion über die Fertigung bis zur Prüfung, bei jeder gefertigten Pumpe unter kontrollierten Qualitätsbedingungen ablaufen. Grindex ist seit Februar 1996 zertifiziert und erfüllt diese Norm seitdem."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "ae8f5153fc30",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ab40acf87e8e",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ersatzteile und Wartung"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "So verschleißfest eine Pumpe auch ist, keine Pumpe kommt ohne Revision aus. Sowohl für einzelne Ersatzteile als auch für eine komplette Revision sind Sie bei der Industrial Pump Group Nederland an der richtigen Adresse. Als offizieller Händler mit enger Beziehung zum Lieferanten können wir Sie bei Ersatzteilen oder der Revision Ihrer Pumpe unterstützen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Warum Grindex Pumpen?"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Pumpen von Grindex werden aus besonders verschleißfesten Werkstoffen gefertigt, für eine längere Lebensdauer. Die Pumpe hat ein montiertes Luftventil und eine elektronische Schutzeinrichtung, sodass sie trockenlaufen kann. Anders als Standard-Tauchmotorpumpen sind diese Pumpen mit einem Freistromlaufrad und einem größeren Pumpengehäuse für einen größeren freien Durchgang ausgestattet. Das macht Grindex Pumpen für anspruchsvolle Anwendungen geeignet, bei denen Zuverlässigkeit und Dauerbetrieb wesentlich sind."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "272f68b03e1e",
+        "component": "cta_band",
+        "heading": "Unverbindlich Kontakt aufnehmen",
+        "text": "Wir beraten Sie gern zu Auswahl, Ersatz und Revision Ihrer Pumpe.",
+        "button_label": "Kontakt aufnehmen",
+        "button_link": {
+          "fieldtype": "multilink",
+          "linktype": "url",
+          "url": "/kontakt",
+          "cached_url": "/kontakt"
+        },
+        "variant": "primary"
+      },
+      {
+        "_uid": "ec373368ef4f",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "ab7e4e9a1f9a",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "5cfec69dba70",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Entwässerungsbaureihe"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Das breite Sortiment an Entwässerungspumpen bietet eine Lösung für alle Anwendungen in Industrie, Bergbau, Bau und kommunalem Bereich. Die Baureihe ist möglichst innovativ entwickelt, um Verschleiß verschiedener Pumpenteile zu verhindern. Diese Pumpen sind darauf ausgelegt, effizient zu arbeiten und eine lange Lebensdauer zu bieten, selbst unter den anspruchsvollsten Bedingungen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "11ff29b0a8ab",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "877495103740",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Feststoff- und Schlammbaureihe"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Neben Entwässerungspumpen fertigt der schwedische Pumpenhersteller auch Pumpen zum Fördern von Schlamm und Feststoffen. Diese Pumpen sind kräftig, robust, effizient und zuverlässig. Auch die Feststoffpumpen sind auf beste Leistung, geringen Verschleiß und lange Lebensdauer ausgelegt. Sie eignen sich für schwere industrielle Anwendungen, bei denen Zuverlässigkeit und Langlebigkeit entscheidend sind."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "dbc24deaf300",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Grindex "
-                },
-                {
-                  "type": "text",
-                  "text": "Mini",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Tauchmotorpumpe, geeignet für verschmutzte Flüssigkeiten"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "01ab1ed2df2c",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-grindex-grindex-minor.webp",
-          "alt": "Grindex Minor Tauchmotorpumpe mit freiem Durchgang bis 10 mm für verschmutzte Flüssigkeiten",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "0046266e6dd7",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Grindex "
-                },
-                {
-                  "type": "text",
-                  "text": "Minor N/H",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Tauchmotorpumpe mit freiem Durchgang für Feststoffe bis 10 mm"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "80b6e00c0de3",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-grindex-grindex-maxi.webp",
-          "alt": "Grindex Maxi Tauchmotorpumpe mit Förderstrom bis 201 m³/h für industrielle verschmutzte Flüssigkeiten",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "821d87802413",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Grindex "
-                },
-                {
-                  "type": "text",
-                  "text": "Maxi N/H/L",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Tauchmotorpumpe mit einem Förderstrom bis 201 m³/h"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "5747f271d070",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-grindex-grindex-matador.webp",
-          "alt": "Grindex Matador Tauchmotorpumpe mit doppelter Gleitringdichtung für verschmutzte Flüssigkeiten",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "5c75f9d562ab",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Grindex "
-                },
-                {
-                  "type": "text",
-                  "text": "Matador N/H",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Tauchmotorpumpe mit doppelter Gleitringdichtung im Ölbad SiC/SiC-Tun/Tun"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "123859dbd488",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-grindex-grindex-master.webp",
-          "alt": "Grindex Master Tauchmotorpumpe für industrielle Anwendungen mit verschmutzten Flüssigkeiten",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "f4a8631ec2b4",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Grindex "
-                },
-                {
-                  "type": "text",
-                  "text": "Master N/H/SH",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Tauchmotorpumpe, geeignet für verschmutzte Flüssigkeiten"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "e47d35dd044a",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-grindex-grindex-magnum.webp",
-          "alt": "Grindex Magnum Tauchmotorpumpe mit hohem Förderstrom bis 1.260 m³/h für schwere industrielle Anwendungen",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "ca75ed05c374",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Grindex "
-                },
-                {
-                  "type": "text",
-                  "text": "Magnum N/H/L",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Tauchmotorpumpe mit einem Förderstrom bis 1.260 m³/h"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "3b70f5290594",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-grindex-grindex-solid.webp",
-          "alt": "Grindex Solid Tauchmotorpumpe mit freiem Durchgang für Feststoffe bis 38 mm in verschmutzten Flüssigkeiten",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "cc1383757b17",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Grindex "
-                },
-                {
-                  "type": "text",
-                  "text": "Solid",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Tauchmotorpumpe mit freiem Durchgang für Feststoffe bis 38 mm"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "6d394018c579",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-grindex-grindex-sandy.webp",
-          "alt": "Grindex Sandy Tauchmotorpumpe für verschmutzte Flüssigkeiten bis 40 °C, geeignet für industrielle Anwendungen",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "8660b8545dfc",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Grindex "
-                },
-                {
-                  "type": "text",
-                  "text": "Sandy N/H",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Tauchmotorpumpe für verschmutzte Flüssigkeiten mit einer maximalen Temperatur von 40 °C"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "70f54b2a68db",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-grindex-grindex-sandy.webp",
-          "alt": "Grindex Senior Tauchmotorpumpe mit freiem Durchgang bis 80 mm für verschmutzte Flüssigkeiten",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "eb3340d1c1e9",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Grindex "
-                },
-                {
-                  "type": "text",
-                  "text": "Senior",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Geeignet für verschmutzte Flüssigkeiten und mit freiem Durchgang für Feststoffe bis 80 mm"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "8f043ebdf6aa",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-grindex-grindex-bravo.webp",
-          "alt": "Grindex Bravo Tauchmotorpumpe für verschmutzte Flüssigkeiten und Schlamm in schweren industriellen Anwendungen",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "828bc3feccbb",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Grindex "
-                },
-                {
-                  "type": "text",
-                  "text": "Bravo Baureihe N/H",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Tauchmotorpumpe für verschmutzte Flüssigkeiten und für Schlamm mit Feststoffen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "b51ddb570dbd",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-missende-pomp.webp",
-          "alt": "Platzhalter für nicht aufgeführte Pumpen",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "6632ba71d753",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ihre "
-                },
-                {
-                  "type": "text",
-                  "text": "Grindex",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " Pumpe ist nicht dabei? Unsere Pumpenexperten helfen Ihnen gern, die benötigte Pumpe oder Ersatzteile zu finden und zu liefern"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Über Grindex"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Grindex ist ein weltweit führender Anbieter von elektrischen Tauchmotorpumpen für anspruchsvolle Anwendungen wie Bau, Bergbau und Schwerindustrie. Seit 1960 widmet sich Grindex vollständig der Entwicklung elektrischer Tauchmotorpumpen höchster Qualität, die kompromisslos für professionelle Anwender weltweit ausgelegt sind. Das Sortiment umfasst Pumpen für jeden Bedarf: Entwässerung, Schlamm und Feststoffe, geeignet für die anspruchsvollsten Umgebungen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Grindex strebt höchste Qualitätsstandards an und ist nach dem Qualitätsstandard ISO 9001 zertifiziert. Diese Zertifizierung stellt sicher, dass alle Prozesse, von der Konstruktion über die Fertigung bis zur Prüfung, bei jeder gefertigten Pumpe unter kontrollierten Qualitätsbedingungen ablaufen. Grindex ist seit Februar 1996 zertifiziert und erfüllt diese Norm seitdem."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ersatzteile und Wartung"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "So verschleißfest eine Pumpe auch ist, keine Pumpe kommt ohne Revision aus. Sowohl für einzelne Ersatzteile als auch für eine komplette Revision sind Sie bei der Industrial Pump Group Nederland an der richtigen Adresse. Als offizieller Händler mit enger Beziehung zum Lieferanten können wir Sie bei Ersatzteilen oder der Revision Ihrer Pumpe unterstützen."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Warum Grindex Pumpen?"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Pumpen von Grindex werden aus besonders verschleißfesten Werkstoffen gefertigt, für eine längere Lebensdauer. Die Pumpe hat ein montiertes Luftventil und eine elektronische Schutzeinrichtung, sodass sie trockenlaufen kann. Anders als Standard-Tauchmotorpumpen sind diese Pumpen mit einem Freistromlaufrad und einem größeren Pumpengehäuse für einen größeren freien Durchgang ausgestattet. Das macht Grindex Pumpen für anspruchsvolle Anwendungen geeignet, bei denen Zuverlässigkeit und Dauerbetrieb wesentlich sind."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Unverbindlich Kontakt aufnehmen"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Entwässerungsbaureihe"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Das breite Sortiment an Entwässerungspumpen bietet eine Lösung für alle Anwendungen in Industrie, Bergbau, Bau und kommunalem Bereich. Die Baureihe ist möglichst innovativ entwickelt, um Verschleiß verschiedener Pumpenteile zu verhindern. Diese Pumpen sind darauf ausgelegt, effizient zu arbeiten und eine lange Lebensdauer zu bieten, selbst unter den anspruchsvollsten Bedingungen."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Feststoff- und Schlammbaureihe"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Neben Entwässerungspumpen fertigt der schwedische Pumpenhersteller auch Pumpen zum Fördern von Schlamm und Feststoffen. Diese Pumpen sind kräftig, robust, effizient und zuverlässig. Auch die Feststoffpumpen sind auf beste Leistung, geringen Verschleiß und lange Lebensdauer ausgelegt. Sie eignen sich für schwere industrielle Anwendungen, bei denen Zuverlässigkeit und Langlebigkeit entscheidend sind."
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -941,37 +1142,56 @@
         }
       },
       {
-        "_uid": "e76afee7554b",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/grindex-faq.webp",
-          "alt": "Grindex Tauchmotorpumpe im Einsatz",
-          "width": 537,
-          "height": 300
-        }
-      },
-      {
-        "_uid": "d8b450bee254",
-        "component": "faq",
-        "heading": "Häufige Fragen",
-        "items": [
+        "_uid": "770a268792cd",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
           {
-            "_uid": "a905b17c5608",
-            "component": "faq_item",
-            "question": "Was sind Grindex Pumpen?",
-            "answer": "Grindex Pumpen sind robuste, professionelle Tauchmotorpumpen schwedischer Herkunft. Die Marke ist weltweit für Zuverlässigkeit, hohe Bauqualität und lange Lebensdauer unter schweren Bedingungen bekannt. Grindex Pumpen sind speziell für Anwendungen entwickelt, in denen Schmutzwasser, Schlamm oder abrasive Partikel gefördert werden müssen. Durch durchdachte Konstruktionen und kräftige Werkstoffe eignen sich diese Pumpen sehr gut für den Dauerbetrieb und intensiven Einsatz."
+            "_uid": "048199b135f7",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "1496575eaa4f",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/grindex-faq.webp",
+                  "alt": "Grindex Tauchmotorpumpe im Einsatz",
+                  "width": 537,
+                  "height": 300
+                }
+              }
+            ]
           },
           {
-            "_uid": "e5f42d957583",
-            "component": "faq_item",
-            "question": "Wofür werden Grindex Pumpen eingesetzt?",
-            "answer": "Grindex Pumpen werden in Umgebungen eingesetzt, in denen andere Pumpen oft an ihre Grenzen stoßen. Typische Anwendungen sind:\n- Entwässerung von Baustellen und Infrastrukturprojekten\n- Bergbau und Steinbrüche\n- Industrie und Prozessumgebungen\n- Vorübergehende und dauerhafte Drainage\n- Notentwässerung bei Überflutung\nDank ihrer Zuverlässigkeit und einfachen Installation sind Grindex Pumpen bei Bauunternehmen, Industrie und Behörden beliebt."
-          },
-          {
-            "_uid": "0dc20385967e",
-            "component": "faq_item",
-            "question": "Welche Arten von Grindex Pumpen gibt es?",
-            "answer": "Das Sortiment an Grindex Pumpen umfasst unter anderem:\n- Entwässerungspumpen für leicht bis mittelschwer verschmutztes Wasser\n- Schlamm- und Schmutzwasserpumpen für abrasive Medien und Feststoffe\n- Hochdruck-Tauchmotorpumpen für große Förderhöhen\n- Edelstahlpumpen für korrosive Umgebungen\n- Verschleißfeste Ausführungen mit speziellen Dichtungen und Beschichtungen\nJede Baureihe ist für bestimmte Bedingungen ausgelegt, sodass Sie stets eine Grindex Pumpe wählen können, die zu Ihrer Anwendung passt."
+            "_uid": "ae999506334e",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "8daeb56c0e7f",
+                "component": "faq",
+                "heading": "Häufige Fragen",
+                "items": [
+                  {
+                    "_uid": "f81f5b51aaf3",
+                    "component": "faq_item",
+                    "question": "Was sind Grindex Pumpen?",
+                    "answer": "Grindex Pumpen sind robuste, professionelle Tauchmotorpumpen schwedischer Herkunft. Die Marke ist weltweit für Zuverlässigkeit, hohe Bauqualität und lange Lebensdauer unter schweren Bedingungen bekannt. Grindex Pumpen sind speziell für Anwendungen entwickelt, in denen Schmutzwasser, Schlamm oder abrasive Partikel gefördert werden müssen. Durch durchdachte Konstruktionen und kräftige Werkstoffe eignen sich diese Pumpen sehr gut für den Dauerbetrieb und intensiven Einsatz."
+                  },
+                  {
+                    "_uid": "91c9167a1fc2",
+                    "component": "faq_item",
+                    "question": "Wofür werden Grindex Pumpen eingesetzt?",
+                    "answer": "Grindex Pumpen werden in Umgebungen eingesetzt, in denen andere Pumpen oft an ihre Grenzen stoßen. Typische Anwendungen sind:\n- Entwässerung von Baustellen und Infrastrukturprojekten\n- Bergbau und Steinbrüche\n- Industrie und Prozessumgebungen\n- Vorübergehende und dauerhafte Drainage\n- Notentwässerung bei Überflutung\nDank ihrer Zuverlässigkeit und einfachen Installation sind Grindex Pumpen bei Bauunternehmen, Industrie und Behörden beliebt."
+                  },
+                  {
+                    "_uid": "c768de61f8b0",
+                    "component": "faq_item",
+                    "question": "Welche Arten von Grindex Pumpen gibt es?",
+                    "answer": "Das Sortiment an Grindex Pumpen umfasst unter anderem:\n- Entwässerungspumpen für leicht bis mittelschwer verschmutztes Wasser\n- Schlamm- und Schmutzwasserpumpen für abrasive Medien und Feststoffe\n- Hochdruck-Tauchmotorpumpen für große Förderhöhen\n- Edelstahlpumpen für korrosive Umgebungen\n- Verschleißfeste Ausführungen mit speziellen Dichtungen und Beschichtungen\nJede Baureihe ist für bestimmte Bedingungen ausgelegt, sodass Sie stets eine Grindex Pumpe wählen können, die zu Ihrer Anwendung passt."
+                  }
+                ]
+              }
+            ]
           }
         ]
       }

@@ -8,105 +8,157 @@
   "content": {
     "component": "page_service",
     "h1": "Getriebe-Revision: eine nachhaltige und zirkuläre Lösung",
+    "hero_image": {
+      "filename": "/img/nl/revisie-tandwielkast-1.webp",
+      "alt": "",
+      "width": 1280,
+      "height": 989
+    },
     "seo_title": "Getriebe Revision: nachhaltige Instandsetzung durch IPG",
     "seo_description": "Revision von Industriegetrieben, Planeten- und Winkelgetrieben: Inspektion, Reparatur, Anpassung. Lebensdauer verlängern, Abfall vermeiden. Jetzt anfragen.",
     "intro": "Die Revision eines Industriegetriebes stellt Leistung und Lebensdauer verschlissener oder beschädigter Getriebe wieder her und vermeidet Neuproduktion und Abfall. Sie richtet sich an Betreiber in Produktion, Bergbau und weiteren Branchen mit Getriebeantrieben.",
     "service_kind": "revision-typ",
     "body": [
       {
-        "_uid": "039d501acd84",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/revisie-tandwielkast-1.webp",
-          "alt": "Getriebe überholen lassen",
-          "width": 1280,
-          "height": 989
-        }
+        "_uid": "5be8b5cd77fc",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "0bed962eda21",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "1dac7f3839fe",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG überholt Getriebe"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "12c606f813de",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "c185ada1f646",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "In der sich schnell verändernden Welt von Industrie und Technologie wird Nachhaltigkeit immer wichtiger. Unternehmen suchen fortwährend nach Wegen, ihren ökologischen Fußabdruck zu verkleinern und zugleich kosteneffiziente Lösungen zu finden. Bei IPG (Industrial Pump Group) kennen wir diesen Bedarf und gehen auf die Nachfrage nach Nachhaltigkeit und Zirkularität im Industriesektor ein. Unsere Leistungen zur Getriebe-Revision stehen für diesen Ansatz: Wir optimieren nicht nur die Leistung Ihrer Industrieanlagen, sondern tragen auch zu einer Kreislaufwirtschaft bei."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "9b7fddeca3e8",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG überholt Getriebe"
+        "_uid": "44c48d109fec",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "0abb9ec1f1ec",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "98df846faf57",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Warum eine Getriebe-Revision?"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Industriegetriebe sind das Rückgrat vieler Produktionsprozesse. Mit der Zeit können sie jedoch Verschleiß zeigen oder beschädigt werden, was zu geringerer Leistung und kürzerer Lebensdauer führen kann. Statt den Weg des Ersatzes zu gehen, bietet die Getriebe-Revision eine nachhaltige Alternative. Die Instandsetzung und Verbesserung vorhandener Getriebe verringert den Bedarf an Neuproduktion und vermindert Verschwendung."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Unsere nachhaltigen Leistungen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Industrial Pump Group verfolgt in allen ihren Tätigkeiten die Prinzipien von Nachhaltigkeit und Zirkularität. Unsere erfahrenen Techniker und Ingenieure führen gründliche Inspektionen durch, um den Zustand Ihrer Getriebe zu beurteilen. Anschließend werden fachgerechte Reparaturen und Anpassungen ausgeführt, damit Ihre Getriebe wieder optimal arbeiten. Unser Ansatz zielt nicht nur darauf, die Funktion wiederherzustellen, sondern auch darauf, Abfall zu minimieren und die Lebensdauer Ihrer Anlagen zu verlängern."
+                        }
+                      ]
+                    }
+                  ]
                 }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "In der sich schnell verändernden Welt von Industrie und Technologie wird Nachhaltigkeit immer wichtiger. Unternehmen suchen fortwährend nach Wegen, ihren ökologischen Fußabdruck zu verkleinern und zugleich kosteneffiziente Lösungen zu finden. Bei IPG (Industrial Pump Group) kennen wir diesen Bedarf und gehen auf die Nachfrage nach Nachhaltigkeit und Zirkularität im Industriesektor ein. Unsere Leistungen zur Getriebe-Revision stehen für diesen Ansatz: Wir optimieren nicht nur die Leistung Ihrer Industrieanlagen, sondern tragen auch zu einer Kreislaufwirtschaft bei."
+              }
+            ]
+          },
+          {
+            "_uid": "d4d119e6960b",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "23639340faff",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/revisie-tandwielkast-3.webp",
+                  "alt": "Warum eine Getriebe-Revision bei Industrial Pump Group",
+                  "width": 1280,
+                  "height": 853
                 }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Warum eine Getriebe-Revision?"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Industriegetriebe sind das Rückgrat vieler Produktionsprozesse. Mit der Zeit können sie jedoch Verschleiß zeigen oder beschädigt werden, was zu geringerer Leistung und kürzerer Lebensdauer führen kann. Statt den Weg des Ersatzes zu gehen, bietet die Getriebe-Revision eine nachhaltige Alternative. Die Instandsetzung und Verbesserung vorhandener Getriebe verringert den Bedarf an Neuproduktion und vermindert Verschwendung."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Unsere nachhaltigen Leistungen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Industrial Pump Group verfolgt in allen ihren Tätigkeiten die Prinzipien von Nachhaltigkeit und Zirkularität. Unsere erfahrenen Techniker und Ingenieure führen gründliche Inspektionen durch, um den Zustand Ihrer Getriebe zu beurteilen. Anschließend werden fachgerechte Reparaturen und Anpassungen ausgeführt, damit Ihre Getriebe wieder optimal arbeiten. Unser Ansatz zielt nicht nur darauf, die Funktion wiederherzustellen, sondern auch darauf, Abfall zu minimieren und die Lebensdauer Ihrer Anlagen zu verlängern."
-                }
-              ]
-            }
-          ]
-        }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "9e4821c38f7b",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/revisie-tandwielkast-3.webp",
-          "alt": "Warum eine Getriebe-Revision bei Industrial Pump Group",
-          "width": 1280,
-          "height": 853
-        }
-      },
-      {
-        "_uid": "8e030f284e03",
+        "_uid": "5ecb72fc9e74",
         "component": "rich_text",
         "content": {
           "type": "doc",
@@ -136,122 +188,150 @@
         }
       },
       {
-        "_uid": "c534d432d49f",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/revisie-tandwielkast-1.webp",
-          "alt": "Vorteile der nachhaltigen Getriebe-Revision durch IPG",
-          "width": 1280,
-          "height": 989
-        }
+        "_uid": "344148a36144",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "c2fd512aaff8",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "a75597084649",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/revisie-tandwielkast-1.webp",
+                  "alt": "Vorteile der nachhaltigen Getriebe-Revision durch IPG",
+                  "width": 1280,
+                  "height": 989
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "30482212afc3",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "eb17478b52b2",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Vorteile der nachhaltigen Getriebe-Revision durch IPG"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "ordered_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Nachhaltigkeit: Die Getriebe-Revision trägt zu einer nachhaltigen Zukunft bei, indem sie die Nachfrage nach neuen Getrieben verringert."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Kostenersparnis: Eine Revision ist kosteneffizienter als die Anschaffung neuer Getriebe und entlastet Ihre Budgets."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Zuverlässigkeit: Unsere Revisionsverfahren verlängern die Lebensdauer Ihrer Getriebe und erhöhen die Zuverlässigkeit Ihrer Anlagen."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Umweltfreundlich: Wir verringern Abfall und ökologische Auswirkungen, was der Umwelt zugutekommt."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Kurze Durchlaufzeit: IPG bietet schnelle und effiziente Revisionsleistungen, um Ihre Stillstandszeit auf ein Minimum zu begrenzen."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Individuelle Lösungen: Unsere Revisionslösungen werden auf Ihren konkreten Bedarf und die Anforderungen Ihrer Branche abgestimmt."
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "8511a83955b7",
+        "_uid": "1bf4117d95e3",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Vorteile der nachhaltigen Getriebe-Revision durch IPG"
-                }
-              ]
-            },
-            {
-              "type": "ordered_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Nachhaltigkeit: Die Getriebe-Revision trägt zu einer nachhaltigen Zukunft bei, indem sie die Nachfrage nach neuen Getrieben verringert."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Kostenersparnis: Eine Revision ist kosteneffizienter als die Anschaffung neuer Getriebe und entlastet Ihre Budgets."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Zuverlässigkeit: Unsere Revisionsverfahren verlängern die Lebensdauer Ihrer Getriebe und erhöhen die Zuverlässigkeit Ihrer Anlagen."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Umweltfreundlich: Wir verringern Abfall und ökologische Auswirkungen, was der Umwelt zugutekommt."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Kurze Durchlaufzeit: IPG bietet schnelle und effiziente Revisionsleistungen, um Ihre Stillstandszeit auf ein Minimum zu begrenzen."
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Individuelle Lösungen: Unsere Revisionslösungen werden auf Ihren konkreten Bedarf und die Anforderungen Ihrer Branche abgestimmt."
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -263,70 +343,131 @@
                   "text": "Weitere wichtige Vorteile"
                 }
               ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Lebensdauer Ihrer Getriebe maximieren"
+            }
+          ]
+        }
+      },
+      {
+        "_uid": "da7e25d9f4d1",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "0506c42477fc",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "4f591b5acf4d",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Lebensdauer Ihrer Getriebe maximieren"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Getriebe spielen eine kritische Rolle für die Leistung industrieller Maschinen. Mit einer Getriebe-Revision verlängern Sie die Lebensdauer dieser kostspieligen Anlagen. Das engagierte Expertenteam von IPG kann verschlissene Getriebe instand setzen und reparieren, sodass Sie nicht nur Geld sparen, sondern auch wertvolle Ressourcen erhalten."
+                        }
+                      ]
+                    }
+                  ]
                 }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Getriebe spielen eine kritische Rolle für die Leistung industrieller Maschinen. Mit einer Getriebe-Revision verlängern Sie die Lebensdauer dieser kostspieligen Anlagen. Das engagierte Expertenteam von IPG kann verschlissene Getriebe instand setzen und reparieren, sodass Sie nicht nur Geld sparen, sondern auch wertvolle Ressourcen erhalten."
+              }
+            ]
+          },
+          {
+            "_uid": "99cf01b49ff9",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "de935fbaeae6",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ein nachhaltiger Beitrag zur Industrie"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Nachhaltigkeit ist der Schlüssel zu einer zukunftsfähigen Industrie. Mit einer Getriebe-Revision tragen Sie zu einem nachhaltigeren Produktionsumfeld bei. Abfall zu verringern und vorhandene Anlagen weiterzuverwenden sind Schritte in Richtung einer grüneren Zukunft für Ihr Unternehmen und den Planeten."
+                        }
+                      ]
+                    }
+                  ]
                 }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ein nachhaltiger Beitrag zur Industrie"
+              }
+            ]
+          },
+          {
+            "_uid": "6ce94fd7c39e",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ec329ad13af1",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Individuelle Lösungen für Ihren Betriebsbedarf"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bei IPG wissen wir, dass keine zwei Getriebe gleich sind. Deshalb bieten wir maßgeschneiderte Revisionslösungen, die auf Ihren konkreten Betriebsbedarf abgestimmt sind. Ob Sie in der Produktion, im Bergbau oder in einer anderen Branche tätig sind: Unsere Revisionsleistungen sind darauf ausgelegt, Ihre besonderen Anforderungen an die Getriebe-Revision zu erfüllen."
+                        }
+                      ]
+                    }
+                  ]
                 }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Nachhaltigkeit ist der Schlüssel zu einer zukunftsfähigen Industrie. Mit einer Getriebe-Revision tragen Sie zu einem nachhaltigeren Produktionsumfeld bei. Abfall zu verringern und vorhandene Anlagen weiterzuverwenden sind Schritte in Richtung einer grüneren Zukunft für Ihr Unternehmen und den Planeten."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Individuelle Lösungen für Ihren Betriebsbedarf"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bei IPG wissen wir, dass keine zwei Getriebe gleich sind. Deshalb bieten wir maßgeschneiderte Revisionslösungen, die auf Ihren konkreten Betriebsbedarf abgestimmt sind. Ob Sie in der Produktion, im Bergbau oder in einer anderen Branche tätig sind: Unsere Revisionsleistungen sind darauf ausgelegt, Ihre besonderen Anforderungen an die Getriebe-Revision zu erfüllen."
-                }
-              ]
-            },
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "0d6e42ce3a5a",
+        "component": "rich_text",
+        "content": {
+          "type": "doc",
+          "content": [
             {
               "type": "heading",
               "attrs": {
@@ -381,55 +522,74 @@
         }
       },
       {
-        "_uid": "ff994f4481ab",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/revisie-tandwielkast-2.webp",
-          "alt": "Häufige Fragen zur Getriebe-Revision",
-          "width": 1280,
-          "height": 853
-        }
-      },
-      {
-        "_uid": "0ff512de7fbc",
-        "component": "faq",
-        "heading": "Häufige Fragen",
-        "items": [
+        "_uid": "9d12453e88a1",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
           {
-            "_uid": "f7ffd78df4bc",
-            "component": "faq_item",
-            "question": "Was ist eine Getriebe-Revision und warum ist sie wichtig?",
-            "answer": "Die Getriebe-Revision ist der Vorgang, verschlissene oder beschädigte Getriebe instand zu setzen und zu optimieren, um ihre Leistung und Lebensdauer zu verlängern. Sie ist wichtig, weil sie gegenüber der Anschaffung neuer Getriebe erhebliche Kosteneinsparungen bringt und durch weniger Abfall zur Nachhaltigkeit beiträgt."
+            "_uid": "3eb993670d22",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "bad152c6d27a",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/revisie-tandwielkast-2.webp",
+                  "alt": "Häufige Fragen zur Getriebe-Revision",
+                  "width": 1280,
+                  "height": 853
+                }
+              }
+            ]
           },
           {
-            "_uid": "71706e627d75",
-            "component": "faq_item",
-            "question": "Welche Vorteile hat die Getriebe-Revision gegenüber dem Ersatz?",
-            "answer": "Die Getriebe-Revision ist kosteneffizienter als die Anschaffung neuer Getriebe und entlastet Ihr Budget. Sie verlängert außerdem die Lebensdauer Ihrer Anlagen und trägt durch Wiederverwendung zur Nachhaltigkeit bei."
-          },
-          {
-            "_uid": "2159109aa062",
-            "component": "faq_item",
-            "question": "Welche Branchen können von einer Getriebe-Revision profitieren?",
-            "answer": "Die Getriebe-Revision ist für ein breites Spektrum an Branchen relevant, darunter Produktion, Bergbau, Energieerzeugung, Transport und weitere. Grundsätzlich kann jede Branche mit Getrieben von Revisionsleistungen profitieren."
-          },
-          {
-            "_uid": "9cad42dc7359",
-            "component": "faq_item",
-            "question": "Woran erkenne ich, dass meine Getriebe überholt werden müssen?",
-            "answer": "Anzeichen von Verschleiß, nachlassende Leistung, Geräusche oder Leckage können auf die Notwendigkeit einer Revision hinweisen. Unsere Techniker können eine gründliche Inspektion durchführen, um den Zustand Ihrer Getriebe zu beurteilen."
-          },
-          {
-            "_uid": "2e2299e900eb",
-            "component": "faq_item",
-            "question": "Wie lang ist die Durchlaufzeit einer Getriebe-Revision bei IPG?",
-            "answer": "Die Durchlaufzeit variiert je nach Komplexität der Revision und den nötigen Reparaturen. Wir bemühen uns jedoch um eine schnelle und effiziente Revision, um Ihre Stillstandszeit auf ein Minimum zu begrenzen."
-          },
-          {
-            "_uid": "a192257bfabf",
-            "component": "faq_item",
-            "question": "Sind die Revisionsleistungen von IPG umweltfreundlich?",
-            "answer": "Ja, unsere Revisionsleistungen tragen zur Nachhaltigkeit bei, indem sie den Bedarf an Neuproduktion verringern und Abfall minimieren."
+            "_uid": "3adb9eafec96",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "19829a45fd94",
+                "component": "faq",
+                "heading": "Häufige Fragen",
+                "items": [
+                  {
+                    "_uid": "eaf906e26702",
+                    "component": "faq_item",
+                    "question": "Was ist eine Getriebe-Revision und warum ist sie wichtig?",
+                    "answer": "Die Getriebe-Revision ist der Vorgang, verschlissene oder beschädigte Getriebe instand zu setzen und zu optimieren, um ihre Leistung und Lebensdauer zu verlängern. Sie ist wichtig, weil sie gegenüber der Anschaffung neuer Getriebe erhebliche Kosteneinsparungen bringt und durch weniger Abfall zur Nachhaltigkeit beiträgt."
+                  },
+                  {
+                    "_uid": "30fb404100b4",
+                    "component": "faq_item",
+                    "question": "Welche Vorteile hat die Getriebe-Revision gegenüber dem Ersatz?",
+                    "answer": "Die Getriebe-Revision ist kosteneffizienter als die Anschaffung neuer Getriebe und entlastet Ihr Budget. Sie verlängert außerdem die Lebensdauer Ihrer Anlagen und trägt durch Wiederverwendung zur Nachhaltigkeit bei."
+                  },
+                  {
+                    "_uid": "ea2483b26701",
+                    "component": "faq_item",
+                    "question": "Welche Branchen können von einer Getriebe-Revision profitieren?",
+                    "answer": "Die Getriebe-Revision ist für ein breites Spektrum an Branchen relevant, darunter Produktion, Bergbau, Energieerzeugung, Transport und weitere. Grundsätzlich kann jede Branche mit Getrieben von Revisionsleistungen profitieren."
+                  },
+                  {
+                    "_uid": "3c29cfe9357b",
+                    "component": "faq_item",
+                    "question": "Woran erkenne ich, dass meine Getriebe überholt werden müssen?",
+                    "answer": "Anzeichen von Verschleiß, nachlassende Leistung, Geräusche oder Leckage können auf die Notwendigkeit einer Revision hinweisen. Unsere Techniker können eine gründliche Inspektion durchführen, um den Zustand Ihrer Getriebe zu beurteilen."
+                  },
+                  {
+                    "_uid": "ca0fc5777af4",
+                    "component": "faq_item",
+                    "question": "Wie lang ist die Durchlaufzeit einer Getriebe-Revision bei IPG?",
+                    "answer": "Die Durchlaufzeit variiert je nach Komplexität der Revision und den nötigen Reparaturen. Wir bemühen uns jedoch um eine schnelle und effiziente Revision, um Ihre Stillstandszeit auf ein Minimum zu begrenzen."
+                  },
+                  {
+                    "_uid": "36984f1f88c7",
+                    "component": "faq_item",
+                    "question": "Sind die Revisionsleistungen von IPG umweltfreundlich?",
+                    "answer": "Ja, unsere Revisionsleistungen tragen zur Nachhaltigkeit bei, indem sie den Bedarf an Neuproduktion verringern und Abfall minimieren."
+                  }
+                ]
+              }
+            ]
           }
         ]
       }

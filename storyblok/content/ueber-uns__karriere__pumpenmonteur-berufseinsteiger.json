@@ -15,7 +15,374 @@
     "job_title": "Stellenanzeige Pumpenmonteur für Berufseinsteiger",
     "body": [
       {
-        "_uid": "df7cede4645c",
+        "_uid": "59918a81f9dc",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "19c9e465f8f9",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "8dc7952f6ada",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 4
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Stellenanzeige Pumpenmonteur für Berufseinsteiger"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "MACHEN SIE IHREN ERSTEN SCHRITT IN DIE TECHNIK!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Lernen Sie den Beruf des Pumpenmonteurs in der Praxis"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Sind Sie handwerklich geschickt und möchten mit Technik arbeiten? Dann haben wir die passende Chance für Sie! Als Pumpenmonteur (Berufseinsteiger) lernen Sie bei uns alle Kniffe des Fachs. Kein Tag ist wie der andere: Sie kümmern sich um Wartung, Reparaturen und Revisionen von Pumpen und Pumpenanlagen. Sie arbeiten abwechselnd vor Ort und in unserer eigenen Werkstatt. Erfahrene Kollegen begleiten Sie und bringen Ihnen Schritt für Schritt alles bei."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bereit für den Einstieg?"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Rufen Sie Kim Jasperse unter +31 251 222 566 an oder bewerben Sie sich direkt über das Formular weiter unten. Nutzen Sie diese Chance!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Initiativ- und Akquiseanfragen auf Basis unserer Stellenanzeigen sind nicht erwünscht.",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "8263a10301de",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "5d0f6109e2e6",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Was sind Ihre Aufgaben?"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Sie lernen, Wartung und Revision von Pumpen auszuführen"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Sie arbeiten mit modernen Techniken und Werkstoffen"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Sie begleiten das Team zu Kunden oder arbeiten in der Werkstatt"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Gemeinsam mit Ihren Kolleginnen und Kollegen sorgen Sie dafür, dass wieder alles einwandfrei läuft"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Wer sind Sie?"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Sie sind handwerklich geschickt und interessieren sich für Technik"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Eine Ausbildung in Richtung Maschinenbau, Mechanik oder Elektrotechnik ist ein Plus, aber keine Voraussetzung"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Sie haben eine positive Einstellung und möchten gern lernen"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Sie sind flexibel und arbeiten gern mit Kolleginnen und Kollegen zusammen"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Sie besitzen den Führerschein Klasse B (oder sind bereit, ihn zu erwerben)"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Warum bei uns?"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Sie erhalten umfassende Einarbeitung und interne Schulungen"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Wir investieren mit Schulungen und Zertifikaten in Ihre Entwicklung"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Entwicklungsmöglichkeiten zum selbstständigen (Service-)Monteur"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Gute Arbeitsbedingungen und ein eng verbundenes Team"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Eine abwechslungsreiche und lehrreiche Tätigkeit in der Region Velsen-Noord"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bitte beachten Sie: Eine technische Ausbildung auf VMBO- oder MBO-Niveau (in Deutschland etwa Haupt- bis Berufsschulabschluss), ein VCA-Zertifikat und der Führerschein Klasse B sind von Vorteil. Haben Sie diese noch nicht? Dann prüfen wir gemeinsam, wie Sie sie erwerben können."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "72bc7ffe1344",
         "component": "rich_text",
         "content": {
           "type": "doc",
@@ -23,315 +390,12 @@
             {
               "type": "heading",
               "attrs": {
-                "level": 4
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Stellenanzeige Pumpenmonteur für Berufseinsteiger"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
                 "level": 3
               },
               "content": [
                 {
                   "type": "text",
-                  "text": "Bereit für den Einstieg?"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Rufen Sie Kim Jasperse unter [[PLATZHALTER: Telefon]] an oder bewerben Sie sich direkt über das Formular weiter unten. Nutzen Sie diese Chance!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Initiativ- und Akquiseanfragen auf Basis unserer Stellenanzeigen sind nicht erwünscht.",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Was sind Ihre Aufgaben?"
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Sie lernen, Wartung und Revision von Pumpen auszuführen"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Sie arbeiten mit modernen Techniken und Werkstoffen"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Sie begleiten das Team zu Kunden oder arbeiten in der Werkstatt"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Gemeinsam mit Ihren Kolleginnen und Kollegen sorgen Sie dafür, dass wieder alles einwandfrei läuft"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Wer sind Sie?"
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Sie sind handwerklich geschickt und interessieren sich für Technik"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Eine Ausbildung in Richtung Maschinenbau, Mechanik oder Elektrotechnik ist ein Plus, aber keine Voraussetzung"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Sie haben eine positive Einstellung und möchten gern lernen"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Sie sind flexibel und arbeiten gern mit Kolleginnen und Kollegen zusammen"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Sie besitzen den Führerschein Klasse B (oder sind bereit, ihn zu erwerben)"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Warum bei uns?"
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Sie erhalten umfassende Einarbeitung und interne Schulungen"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Wir investieren mit Schulungen und Zertifikaten in Ihre Entwicklung"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Entwicklungsmöglichkeiten zum selbstständigen (Service-)Monteur"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Gute Arbeitsbedingungen und ein eng verbundenes Team"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Eine abwechslungsreiche und lehrreiche Tätigkeit in der Region Velsen-Noord"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bitte beachten Sie: Eine technische Ausbildung auf VMBO- oder MBO-Niveau (in Deutschland etwa Haupt- bis Berufsschulabschluss), ein VCA-Zertifikat und der Führerschein Klasse B sind von Vorteil. Haben Sie diese noch nicht? Dann prüfen wir gemeinsam, wie Sie sie erwerben können."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Sie erreichen uns telefonisch unter [[PLATZHALTER: Telefon]] oder über das Formular weiter unten"
+                  "text": "Sie erreichen uns telefonisch unter +31 251 222 566 oder über das Formular weiter unten"
                 }
               ]
             },
@@ -373,7 +437,7 @@
                 },
                 {
                   "type": "text",
-                  "text": "Rufen Sie uns an unter [[PLATZHALTER: Telefon]], werktags zwischen 08:00 und 18:00 Uhr."
+                  "text": "Rufen Sie uns an unter +31 251 222 566, werktags zwischen 08:00 und 18:00 Uhr."
                 }
               ]
             },

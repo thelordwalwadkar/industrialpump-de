@@ -15,443 +15,613 @@
     "topic_kind": "pumpentyp",
     "body": [
       {
-        "_uid": "5699603bb681",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Eine Kesselspeisepumpe ist ein Pumpentyp, der Wasser aus einem Vorratsbehälter zu einem Kessel fördert. Sie sorgt für einen konstanten Wasserstrom zum Kessel und gewährleistet so einen effizienten Betrieb. Diese Pumpen haben häufig eine hohe Druckleistung und sind speziell für den Betrieb bei hohen Temperaturen und Drücken ausgelegt."
+        "_uid": "58319e6a563e",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "cd7a455e01ef",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "cf5aa387b2d3",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Eine Kesselspeisepumpe ist ein Pumpentyp, der Wasser aus einem Vorratsbehälter zu einem Kessel fördert. Sie sorgt für einen konstanten Wasserstrom zum Kessel und gewährleistet so einen effizienten Betrieb. Diese Pumpen haben häufig eine hohe Druckleistung und sind speziell für den Betrieb bei hohen Temperaturen und Drücken ausgelegt."
+                        }
+                      ]
+                    }
+                  ]
                 }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
+              }
+            ]
+          },
+          {
+            "_uid": "5eb430fc28c6",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "b2de6bf1a448",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
                     {
-                      "type": "paragraph",
+                      "type": "bullet_list",
                       "content": [
                         {
-                          "type": "text",
-                          "text": "Chemische Industrie",
-                          "marks": [
+                          "type": "list_item",
+                          "content": [
                             {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/branchen/chemische-industrie",
-                                "linktype": "url"
-                              }
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Chemische Industrie",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/branchen/chemische-industrie",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
                             }
                           ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Metallindustrie",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/branchen/stahlindustrie",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Energieversorgung",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/branchen/energieversorgung",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Mehrstufige Pumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/pumpentypen/mehrstufige-pumpen",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Balcke-Dürr-Pumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/revision/balcke-duerr-pumpen-revision",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Lowara-Pumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/marken/lowara",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "**"
                         },
                         {
-                          "type": "text",
-                          "text": "Funktionsweise einer Kesselspeisepumpe"
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Metallindustrie",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/branchen/stahlindustrie",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
                         },
                         {
-                          "type": "text",
-                          "text": "**"
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Energieversorgung",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/branchen/energieversorgung",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Mehrstufige Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/pumpentypen/mehrstufige-pumpen",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Balcke-Dürr-Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/revision/balcke-duerr-pumpen-revision",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Lowara-Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/marken/lowara",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Funktionsweise einer Kesselspeisepumpe",
+                                  "marks": [
+                                    {
+                                      "type": "bold"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
                         }
                       ]
                     }
                   ]
                 }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Alles über Kesselspeisepumpen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kesselspeisepumpen spielen für den Betrieb einer Kesselanlage eine wesentliche Rolle. Es sind Kreiselpumpen, die Wasser von niedrigem auf höheren Druck bringen, um den Kessel mit Wasser zu speisen. Dieser Vorgang ist für den effizienten Betrieb des Kessels und für eine lange Lebensdauer der Anlagen von zentraler Bedeutung."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Spezifische Druckanwendungen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Einstufige Pumpen für niedrigen Druck und mehrstufige Pumpen für hohen Druck sorgen für die passende Druckerhöhung und den passenden Förderstrom."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Effizienz"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kesselspeisepumpen können Flüssigkeiten sehr effizient fördern."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Vielseitigkeit"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Sie lassen sich zum Fördern unterschiedlicher Flüssigkeiten einsetzen, von Wasser über Chemikalien bis hin zu abrasiven Medien."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Einfache Wartung"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Dank gut zugänglicher Bauteile und einer anwenderfreundlichen Konstruktion lassen sie sich leicht warten."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Der Schlüssel zum effizienten Betrieb von Kesseln"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Es sind verschiedene Arten von Kesselspeisepumpen erhältlich, darunter einstufige und mehrstufige Pumpen. Einstufige Pumpen werden für Anwendungen mit niedrigem Druck eingesetzt, während für höhere Drücke mehrstufige Pumpen erforderlich sind. Wichtig ist, die richtige Pumpe anhand der gewünschten Druckerhöhung und des Förderstroms zu wählen."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bedeutung der Wartung"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ein wichtiger Aspekt beim Einsatz einer Kesselspeisepumpe ist die Wartung der Pumpen und die Überwachung ihrer Leistung. Regelmäßige Wartung ist wesentlich, damit die Pumpe richtig arbeitet und unnötiger Verschleiß vermieden wird. Die Leistungsüberwachung kann mit Verfahren wie Schwingungsanalyse, Thermografie und Ultraschallprüfung erfolgen."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Einsatzbereiche industrieller Kesselspeisepumpen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kesselspeisepumpen werden in verschiedenen Industriezweigen eingesetzt, darunter die Lebensmittelindustrie, die pharmazeutische Industrie und die Energieerzeugung. In diesen Branchen sind Sicherheit und Effizienz von großer Bedeutung, und Kesselspeisepumpen sind für den ordnungsgemäßen Betrieb der Kessel unverzichtbar."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Vorteile von Kesselspeisepumpen"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Lebensdauer Ihrer Kesselanlage verlängern"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kesselspeisepumpen bieten mehrere Vorteile für den effizienten Betrieb von Kesseln. Erstens tragen sie dazu bei, die Lebensdauer der Anlagen zu verlängern, indem sie den Kessel mit Wasser des passenden Drucks und der passenden Temperatur speisen. Das verhindert Überhitzung und Wasserschäden an der Anlage und verringert die Wahrscheinlichkeit unerwarteter Ausfälle."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Effizienz steigern und Energiekosten senken"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ein weiterer Vorteil von Kesselspeisepumpen ist, dass sie die Effizienz des Kessels erhöhen. Die Pumpen speisen Wasser mit passendem Druck und passender Temperatur in den Kessel, sodass dieser weniger Energie benötigt, um das Wasser auf die richtige Temperatur zu bringen. Das spart nicht nur Energie, sondern verringert auch den Ausstoß von Schadstoffen und senkt die Kosten."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Störungen durch regelmäßige Wartung minimieren"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kesselspeisepumpen sind außerdem eine Sicherheitsmaßnahme. Durch regelmäßige Wartung und die Überwachung der Pumpenleistung wird die Wahrscheinlichkeit von Störungen und unerwarteten Ausfällen minimiert. Das ist besonders in den Branchen wichtig, in denen Kesselspeisepumpen eingesetzt werden und in denen Sicherheit und Effizienz von großer Bedeutung sind."
-                }
-              ]
-            }
-          ]
-        }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "3fee16b5bb9d",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/segmenten-boilerfeed-2.webp",
-          "alt": "Kesselspeisepumpe in einer industriellen Kesselanlage",
-          "width": 1280,
-          "height": 853
-        }
+        "_uid": "7960e40885ff",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "ac444e7722a3",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ab51bdf461af",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Alles über Kesselspeisepumpen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "47c26ba04994",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "375eeca2e167",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kesselspeisepumpen spielen für den Betrieb einer Kesselanlage eine wesentliche Rolle. Es sind Kreiselpumpen, die Wasser von niedrigem auf höheren Druck bringen, um den Kessel mit Wasser zu speisen. Dieser Vorgang ist für den effizienten Betrieb des Kessels und für eine lange Lebensdauer der Anlagen von zentraler Bedeutung."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kesselspeisepumpen sind in der Industrie unverzichtbar. Für einen effizienten und sicheren Betrieb der Kesselanlage ist es wichtig, die richtige Pumpe auszuwählen und sie fachgerecht zu warten."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "d54ff5df38a4",
+        "_uid": "50e275d4c7df",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "45349dc7710a",
+            "component": "section_column",
+            "icon": "fa-chimney",
+            "content": [
+              {
+                "_uid": "1205ecded221",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Spezifische Druckanwendungen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Einstufige Pumpen für niedrigen Druck und mehrstufige Pumpen für hohen Druck sorgen für die passende Druckerhöhung und den passenden Förderstrom."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "68b0b0a2909a",
+            "component": "section_column",
+            "icon": "fa-faucet",
+            "content": [
+              {
+                "_uid": "6e0a5328ec39",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Effizienz"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kesselspeisepumpen können Flüssigkeiten sehr effizient fördern."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "9f464c5899b8",
+            "component": "section_column",
+            "icon": "fa-chart-network",
+            "content": [
+              {
+                "_uid": "1a2df85a1b02",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Vielseitigkeit"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Sie lassen sich zum Fördern unterschiedlicher Flüssigkeiten einsetzen, von Wasser über Chemikalien bis hin zu abrasiven Medien."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "cb23e45b7b18",
+            "component": "section_column",
+            "icon": "fa-tools",
+            "content": [
+              {
+                "_uid": "c14c3174de10",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Einfache Wartung"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Dank gut zugänglicher Bauteile und einer anwenderfreundlichen Konstruktion lassen sie sich leicht warten."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "20880045498e",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "f08b964055db",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "98e9a740314e",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Der Schlüssel zum effizienten Betrieb von Kesseln"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Es sind verschiedene Arten von Kesselspeisepumpen erhältlich, darunter einstufige und mehrstufige Pumpen. Einstufige Pumpen werden für Anwendungen mit niedrigem Druck eingesetzt, während für höhere Drücke mehrstufige Pumpen erforderlich sind. Wichtig ist, die richtige Pumpe anhand der gewünschten Druckerhöhung und des Förderstroms zu wählen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bedeutung der Wartung"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ein wichtiger Aspekt beim Einsatz einer Kesselspeisepumpe ist die Wartung der Pumpen und die Überwachung ihrer Leistung. Regelmäßige Wartung ist wesentlich, damit die Pumpe richtig arbeitet und unnötiger Verschleiß vermieden wird. Die Leistungsüberwachung kann mit Verfahren wie Schwingungsanalyse, Thermografie und Ultraschallprüfung erfolgen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Einsatzbereiche industrieller Kesselspeisepumpen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kesselspeisepumpen werden in verschiedenen Industriezweigen eingesetzt, darunter die Lebensmittelindustrie, die pharmazeutische Industrie und die Energieerzeugung. In diesen Branchen sind Sicherheit und Effizienz von großer Bedeutung, und Kesselspeisepumpen sind für den ordnungsgemäßen Betrieb der Kessel unverzichtbar."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Vorteile von Kesselspeisepumpen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Lebensdauer Ihrer Kesselanlage verlängern"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kesselspeisepumpen bieten mehrere Vorteile für den effizienten Betrieb von Kesseln. Erstens tragen sie dazu bei, die Lebensdauer der Anlagen zu verlängern, indem sie den Kessel mit Wasser des passenden Drucks und der passenden Temperatur speisen. Das verhindert Überhitzung und Wasserschäden an der Anlage und verringert die Wahrscheinlichkeit unerwarteter Ausfälle."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Effizienz steigern und Energiekosten senken"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ein weiterer Vorteil von Kesselspeisepumpen ist, dass sie die Effizienz des Kessels erhöhen. Die Pumpen speisen Wasser mit passendem Druck und passender Temperatur in den Kessel, sodass dieser weniger Energie benötigt, um das Wasser auf die richtige Temperatur zu bringen. Das spart nicht nur Energie, sondern verringert auch den Ausstoß von Schadstoffen und senkt die Kosten."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Störungen durch regelmäßige Wartung minimieren"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kesselspeisepumpen sind außerdem eine Sicherheitsmaßnahme. Durch regelmäßige Wartung und die Überwachung der Pumpenleistung wird die Wahrscheinlichkeit von Störungen und unerwarteten Ausfällen minimiert. Das ist besonders in den Branchen wichtig, in denen Kesselspeisepumpen eingesetzt werden und in denen Sicherheit und Effizienz von großer Bedeutung sind."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "c69473b28b53",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "2bba6c629bd6",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/segmenten-boilerfeed-2.webp",
+                  "alt": "Kesselspeisepumpe in einer industriellen Kesselanlage",
+                  "width": 1280,
+                  "height": 853
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "5a5d4ff040eb",
         "component": "rich_text",
         "content": {
           "type": "doc",
@@ -472,333 +642,429 @@
         }
       },
       {
-        "_uid": "5def491ed538",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-aeb.webp",
-          "alt": "Kundenlogo AEB",
-          "width": 387,
-          "height": 241
-        }
+        "_uid": "76774f4c934b",
+        "component": "logo_carousel",
+        "logos": [
+          {
+            "_uid": "b3d6c51c144b",
+            "component": "logo_item",
+            "name": "AEB Amsterdam",
+            "image": {
+              "filename": "/img/clients/aeb-amsterdam.webp",
+              "alt": "AEB Amsterdam",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "db64daaf1e91",
+            "component": "logo_item",
+            "name": "AkzoNobel",
+            "image": {
+              "filename": "/img/clients/akzonobel.webp",
+              "alt": "AkzoNobel",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "3d60bd1a84e3",
+            "component": "logo_item",
+            "name": "HVC",
+            "image": {
+              "filename": "/img/clients/hvc.webp",
+              "alt": "HVC",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "ab2fd712d7a0",
+            "component": "logo_item",
+            "name": "Petrogas",
+            "image": {
+              "filename": "/img/clients/petrogas.webp",
+              "alt": "Petrogas",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "e318f30aed6c",
+            "component": "logo_item",
+            "name": "Tata Steel",
+            "image": {
+              "filename": "/img/clients/tata-steel.webp",
+              "alt": "Tata Steel",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "3156fde5cc55",
+            "component": "logo_item",
+            "name": "Waternet",
+            "image": {
+              "filename": "/img/clients/waternet.webp",
+              "alt": "Waternet",
+              "width": 280,
+              "height": 140
+            }
+          }
+        ]
       },
       {
-        "_uid": "620e29dd1c9a",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-akzonobel.webp",
-          "alt": "Kundenlogo AkzoNobel",
-          "width": 387,
-          "height": 241
-        }
+        "_uid": "b98064a81e05",
+        "component": "section_row",
+        "layout": "carousel",
+        "columns": [
+          {
+            "_uid": "b885f00bf792",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "6680dc99eaf4",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Zuverlässiger und proaktiver Service von IPG!",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Leiter Technischer Dienst schätze ich die Zuverlässigkeit, die Herstellerunabhängigkeit und die proaktive Vorgehensweise von IPG. Der schnelle Service ist in unserer Branche entscheidend, in der jede Minute Stillstand zählt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Leiter Technischer Dienst",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " bei einem Chemiewerk."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "5c76aa6d8815",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "d89ab1811b50",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG ist ein zuverlässiger Partner bei Einkauf und Optimierung!",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Einkaufsleiter schätze ich IPG als Partner, der unseren Bedarf versteht und schnell liefert. Fachwissen und Beratung von IPG haben unsere Prozesse optimiert."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Einkaufsleiter",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " bei einem Lebensmittelhersteller."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "facebf7ac889",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "b8d75073eaa9",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG ist ein unverzichtbarer Partner für Produktionseffizienz!",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Produktionsleiter schätze ich IPG als unverzichtbaren Partner für Effizienz und Verfügbarkeit. Das fachkundige Team hat uns mit den richtigen Pumpen und dem passenden Service für eine gleichbleibende Produktion unterstützt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Projektleiter",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " bei einer Papierfabrik."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "7d3a02c757ac",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "fdfadf374c11",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Jeroen von IPG ist ein wichtiger Partner für unsere Versorgungsqualität!",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Facility-Manager schätze ich Jeroen von IPG als wichtige Stütze bei der Instandhaltung unserer Pumpensysteme. Das Ergebnis sind funktionale und effiziente Systeme, die die Qualität unserer Versorgung stärken."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Facility-Manager",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " bei einem Krankenhaus."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "63308ae7fbbd",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "bfee26191009",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Zuverlässige und effiziente Pumpen für die Kesselspeisung!",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG liefert Pumpen, die für unsere Kesselspeisesysteme bestens geeignet sind. Qualität und Zuverlässigkeit der Produkte sorgen für einen stabilen Betrieb, der für unseren Produktionsprozess wesentlich ist."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Operations Manager",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " bei einem Kraftwerk in den Niederlanden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "e87049add594",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-hvc.webp",
-          "alt": "Kundenlogo HVC",
-          "width": 387,
-          "height": 241
-        }
+        "_uid": "379945709ce7",
+        "component": "cta_band",
+        "heading": "Unverbindlich Kontakt aufnehmen",
+        "text": "Wir beraten Sie gern zu Auswahl, Ersatz und Revision Ihrer Pumpe.",
+        "button_label": "Kontakt aufnehmen",
+        "button_link": {
+          "fieldtype": "multilink",
+          "linktype": "url",
+          "url": "/kontakt",
+          "cached_url": "/kontakt"
+        },
+        "variant": "primary"
       },
       {
-        "_uid": "a4afbde3b7c3",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-petrogas.webp",
-          "alt": "Kundenlogo Petrogas",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "594d1f105523",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-tatasteel.webp",
-          "alt": "Kundenlogo Tata Steel",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "27f06e2afdf9",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-waternet.webp",
-          "alt": "Kundenlogo Waternet",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "2f6efca8bfda",
+        "_uid": "776732f0c377",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zuverlässiger und proaktiver Service von IPG!",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Leiter Technischer Dienst schätze ich die Zuverlässigkeit, die Herstellerunabhängigkeit und die proaktive Vorgehensweise von IPG. Der schnelle Service ist in unserer Branche entscheidend, in der jede Minute Stillstand zählt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Leiter Technischer Dienst",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " bei einem Chemiewerk."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG ist ein zuverlässiger Partner bei Einkauf und Optimierung!",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Einkaufsleiter schätze ich IPG als Partner, der unseren Bedarf versteht und schnell liefert. Fachwissen und Beratung von IPG haben unsere Prozesse optimiert."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Einkaufsleiter",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " bei einem Lebensmittelhersteller."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG ist ein unverzichtbarer Partner für Produktionseffizienz!",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Produktionsleiter schätze ich IPG als unverzichtbaren Partner für Effizienz und Verfügbarkeit. Das fachkundige Team hat uns mit den richtigen Pumpen und dem passenden Service für eine gleichbleibende Produktion unterstützt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Projektleiter",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " bei einer Papierfabrik."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Jeroen von IPG ist ein wichtiger Partner für unsere Versorgungsqualität!",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Facility-Manager schätze ich Jeroen von IPG als wichtige Stütze bei der Instandhaltung unserer Pumpensysteme. Das Ergebnis sind funktionale und effiziente Systeme, die die Qualität unserer Versorgung stärken."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Facility-Manager",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " bei einem Krankenhaus."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zuverlässige und effiziente Pumpen für die Kesselspeisung!",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG liefert Pumpen, die für unsere Kesselspeisesysteme bestens geeignet sind. Qualität und Zuverlässigkeit der Produkte sorgen für einen stabilen Betrieb, der für unseren Produktionsprozess wesentlich ist."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Operations Manager",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " bei einem Kraftwerk in den Niederlanden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Unverbindlich Kontakt aufnehmen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -887,95 +1153,129 @@
         }
       },
       {
-        "_uid": "82751cb21b11",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-boilerfeedpomp.webp",
-          "alt": "Mehrstufige Pumpen als Kesselspeisepumpen | Industrial Pump Group",
-          "width": 605,
-          "height": 454
-        }
+        "_uid": "c7d1133a5a8d",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "17b8321c180a",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "52d82581a1e9",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-boilerfeedpomp.webp",
+                  "alt": "Mehrstufige Pumpen als Kesselspeisepumpen | Industrial Pump Group",
+                  "width": 605,
+                  "height": 454
+                }
+              },
+              {
+                "_uid": "8fb0de2e515c",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über mehrstufige Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "ecb271997c3a",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "143b378f41eb",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/merken-balckedurr.webp",
+                  "alt": "Balcke-Dürr-Pumpen als Kesselspeisepumpen | Industrial Pump Group",
+                  "width": 400,
+                  "height": 200
+                }
+              },
+              {
+                "_uid": "722ed066f07f",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Balcke-Dürr-Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "d8ff9908de39",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ce83c8456078",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/merken-0006-ipg-01-lowara.webp",
+                  "alt": "Lowara-Pumpen als Kesselspeisepumpen | Industrial Pump Group",
+                  "width": 120,
+                  "height": 54
+                }
+              },
+              {
+                "_uid": "fce7344f289e",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Lowara-Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "19538dfe97d0",
+        "_uid": "160264cabd2b",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über mehrstufige Pumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "745eff327aa3",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/merken-balckedurr.webp",
-          "alt": "Balcke-Dürr-Pumpen als Kesselspeisepumpen | Industrial Pump Group",
-          "width": 400,
-          "height": 200
-        }
-      },
-      {
-        "_uid": "62a4e04937b3",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Balcke-Dürr-Pumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "67a8f00d71ca",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/merken-0006-ipg-01-lowara.webp",
-          "alt": "Lowara-Pumpen als Kesselspeisepumpen | Industrial Pump Group",
-          "width": 120,
-          "height": 54
-        }
-      },
-      {
-        "_uid": "1e72da7a719e",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Lowara-Pumpen lesen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -1022,49 +1322,68 @@
         }
       },
       {
-        "_uid": "560d98611b81",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-boilerfeedpomp.webp",
-          "alt": "Häufig gestellte Fragen zu Kesselspeisepumpen | Industrial Pump Group",
-          "width": 605,
-          "height": 454
-        }
-      },
-      {
-        "_uid": "a88f2717d556",
-        "component": "faq",
-        "heading": "Häufige Fragen",
-        "items": [
+        "_uid": "2e4ca66ea67e",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
           {
-            "_uid": "f1ee686132a6",
-            "component": "faq_item",
-            "question": "Was sind Kesselspeisepumpen?",
-            "answer": "Eine Kesselspeisepumpe ist eine Kreiselpumpe, die speziell dafür ausgelegt ist, Wasser bei hohem Druck und hohen Temperaturen zu fördern, um den Kessel mit Wasser zu speisen."
+            "_uid": "1b63668a87dc",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "b9d685db5ded",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-boilerfeedpomp.webp",
+                  "alt": "Häufig gestellte Fragen zu Kesselspeisepumpen | Industrial Pump Group",
+                  "width": 605,
+                  "height": 454
+                }
+              }
+            ]
           },
           {
-            "_uid": "6b7d1cb99370",
-            "component": "faq_item",
-            "question": "Warum ist der Einsatz einer Kesselspeisepumpe wichtig?",
-            "answer": "Der Einsatz einer Kesselspeisepumpe ist wichtig, weil sie sicherstellt, dass dem Kessel stets ausreichend Wasser für den Betrieb zur Verfügung steht, und so die Sicherheit des Prozesses gewährleistet. Außerdem erhöht sie die Effizienz des Kessels und kann die Lebensdauer der Anlagen verlängern."
-          },
-          {
-            "_uid": "979e95d7d8d4",
-            "component": "faq_item",
-            "question": "Aus welchen Werkstoffen werden Kesselspeisepumpen hergestellt?",
-            "answer": "Kesselspeisepumpen werden je nach Anwendung und gefördertem Medium aus verschiedenen Werkstoffen gefertigt. Am häufigsten werden Gusseisen, Stahl, Edelstahl und Bronze verwendet."
-          },
-          {
-            "_uid": "be59713701bb",
-            "component": "faq_item",
-            "question": "Wie funktioniert eine Kesselspeisepumpe?",
-            "answer": "Eine Kesselspeisepumpe fördert Wasser von niedrigem auf hohen Druck, sodass das Wasser mit dem passenden Druck in den Kessel gelangt und ihn speist. Dies geschieht durch Fliehkräfte, die das rotierende Laufrad in der Pumpe erzeugt. Hier erfahren Sie, wie eine Kesselspeisepumpe funktioniert"
-          },
-          {
-            "_uid": "cf61cc6ea413",
-            "component": "faq_item",
-            "question": "Welche Vorteile hat der Einsatz einer Kesselspeisepumpe?",
-            "answer": "Zu den Vorteilen einer Kesselspeisepumpe zählen eine höhere Effizienz und eine längere Lebensdauer der Anlagen, mehr Sicherheit im Prozess und ein Beitrag zur Nachhaltigkeit des Produktionsprozesses."
+            "_uid": "c4907d6279f5",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "05f880c5d1c8",
+                "component": "faq",
+                "heading": "Häufige Fragen",
+                "items": [
+                  {
+                    "_uid": "6f136a13c583",
+                    "component": "faq_item",
+                    "question": "Was sind Kesselspeisepumpen?",
+                    "answer": "Eine Kesselspeisepumpe ist eine Kreiselpumpe, die speziell dafür ausgelegt ist, Wasser bei hohem Druck und hohen Temperaturen zu fördern, um den Kessel mit Wasser zu speisen."
+                  },
+                  {
+                    "_uid": "93f5e89da550",
+                    "component": "faq_item",
+                    "question": "Warum ist der Einsatz einer Kesselspeisepumpe wichtig?",
+                    "answer": "Der Einsatz einer Kesselspeisepumpe ist wichtig, weil sie sicherstellt, dass dem Kessel stets ausreichend Wasser für den Betrieb zur Verfügung steht, und so die Sicherheit des Prozesses gewährleistet. Außerdem erhöht sie die Effizienz des Kessels und kann die Lebensdauer der Anlagen verlängern."
+                  },
+                  {
+                    "_uid": "e6dc9f540a9c",
+                    "component": "faq_item",
+                    "question": "Aus welchen Werkstoffen werden Kesselspeisepumpen hergestellt?",
+                    "answer": "Kesselspeisepumpen werden je nach Anwendung und gefördertem Medium aus verschiedenen Werkstoffen gefertigt. Am häufigsten werden Gusseisen, Stahl, Edelstahl und Bronze verwendet."
+                  },
+                  {
+                    "_uid": "fcedd6f91bc1",
+                    "component": "faq_item",
+                    "question": "Wie funktioniert eine Kesselspeisepumpe?",
+                    "answer": "Eine Kesselspeisepumpe fördert Wasser von niedrigem auf hohen Druck, sodass das Wasser mit dem passenden Druck in den Kessel gelangt und ihn speist. Dies geschieht durch Fliehkräfte, die das rotierende Laufrad in der Pumpe erzeugt. Hier erfahren Sie, wie eine Kesselspeisepumpe funktioniert"
+                  },
+                  {
+                    "_uid": "ef1cae1ed115",
+                    "component": "faq_item",
+                    "question": "Welche Vorteile hat der Einsatz einer Kesselspeisepumpe?",
+                    "answer": "Zu den Vorteilen einer Kesselspeisepumpe zählen eine höhere Effizienz und eine längere Lebensdauer der Anlagen, mehr Sicherheit im Prozess und ein Beitrag zur Nachhaltigkeit des Produktionsprozesses."
+                  }
+                ]
+              }
+            ]
           }
         ]
       }

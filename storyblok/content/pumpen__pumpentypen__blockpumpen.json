@@ -15,330 +15,494 @@
     "topic_kind": "pumpentyp",
     "body": [
       {
-        "_uid": "efe6a6791d14",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Blockpumpen haben einen kompakten Aufbau und eignen sich für Anwendungen in verschiedenen Industrien, etwa der chemischen, petrochemischen und Lebensmittelindustrie."
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
+        "_uid": "8478cb6014fe",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "a45152adf727",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "abcc5dc2e9da",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "SAER-Pumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/marken/saer",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
+                          "text": "Blockpumpen haben einen kompakten Aufbau und eignen sich für Anwendungen in verschiedenen Industrien, etwa der chemischen, petrochemischen und Lebensmittelindustrie."
                         }
                       ]
                     }
                   ]
-                },
-                {
-                  "type": "list_item",
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "00a85f179c7b",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "a04353064324",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
                     {
-                      "type": "paragraph",
+                      "type": "bullet_list",
                       "content": [
                         {
-                          "type": "text",
-                          "text": "Lowara-Pumpen",
-                          "marks": [
+                          "type": "list_item",
+                          "content": [
                             {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/marken/lowara",
-                                "linktype": "url"
-                              }
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "SAER-Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/marken/saer",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Lowara-Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/marken/lowara",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Ebara-Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/marken/ebara",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Grundfos-Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/marken/grundfos",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Varisco-Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/marken/varisco",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Sulzer-Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/marken/sulzer",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
                             }
                           ]
                         }
                       ]
                     }
                   ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Ebara-Pumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/marken/ebara",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Grundfos-Pumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/marken/grundfos",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Varisco-Pumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/marken/varisco",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Sulzer-Pumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/marken/sulzer",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
                 }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Effiziente Wasserförderung mit Blockpumpen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Blockpumpen (auch Close-Coupled-Pumpen genannt) sind eine verbreitete und effiziente Möglichkeit, Wasser zu fördern. Diese Pumpen arbeiten mit einem einzelnen Zylinder und haben einen kompakten Aufbau, sodass sie sich leicht installieren und warten lassen. Außerdem sind sie energiesparender als viele andere Pumpentypen und eignen sich daher für Anwendungen, bei denen Wasser auf große Höhe gefördert werden muss."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Kompakt und einfach zu installieren",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Blockpumpen haben einen kompakten Aufbau, sodass sie sich auch bei beengten Platzverhältnissen leicht installieren und warten lassen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Energiesparend",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Diese Pumpen sind energiesparender als viele andere Pumpentypen, was zu geringeren Betriebskosten und geringerer Umweltbelastung führt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Vielseitigkeit",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Sie eignen sich dank ihres effizienten Aufbaus und hohen Förderstroms für ein breites Spektrum an Anwendungen wie Bewässerung, Wasserversorgung, Brandbekämpfung und industrielle Prozesse."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Lange Lebensdauer",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Dank ihrer robusten Konstruktion und einfachen Wartung haben Blockpumpen eine lange Lebensdauer und sind damit sowohl für Privatpersonen als auch für Unternehmen zuverlässig."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Effizient und vielseitig"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Blockpumpen eignen sich für ein breites Spektrum an Anwendungen, darunter Bewässerung, Wasserversorgung und Brandbekämpfung. Sie können in der Industrie auch zum Fördern von Flüssigkeiten und zum Reinigen von Tanks und Rohrleitungen eingesetzt werden. Aufgrund ihres effizienten Aufbaus und hohen Förderstroms sind Blockpumpen für gewerbliche und industrielle Anwendungen gut geeignet."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bei der Wahl einer Blockpumpe ist es wichtig, die spezifischen Anforderungen Ihrer Anwendung zu berücksichtigen. Es sind verschiedene Arten von Blockpumpen erhältlich, darunter horizontale und vertikale Pumpen, und jeder Typ eignet sich für bestimmte Anwendungen. Außerdem sollten Sie Förderstrom und Druck der Pumpe sowie Anschlüsse und Spannung beachten."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Wenn Sie eine effiziente und zuverlässige Möglichkeit suchen, Wasser zu fördern, ist eine Blockpumpe die richtige Wahl für Sie. Ob Sie einen kleinen Garten bewässern oder eine Industrieanlage versorgen möchten: Es gibt stets eine Blockpumpe, die Ihren Anforderungen entspricht. Außerdem lassen sich Blockpumpen leicht warten und haben eine lange Lebensdauer, sodass sie sowohl für Privatpersonen als auch für Unternehmen gut geeignet sind."
-                }
-              ]
-            }
-          ]
-        }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "cce037eeff2b",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/toepassingen-blokpompen-2.webp",
-          "alt": "Blockpumpenanlage für industrielle Anwendungen, ausgelegt für effizientes Fördern von Flüssigkeiten in offenen Umgebungen",
-          "width": 1000,
-          "height": 375
-        }
+        "_uid": "06e1aa19e85f",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "a6b43f972bfb",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "9addc4454ea4",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Effiziente Wasserförderung mit Blockpumpen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "b17eee2e716a",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "1c482d7e0863",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Blockpumpen (auch Close-Coupled-Pumpen genannt) sind eine verbreitete und effiziente Möglichkeit, Wasser zu fördern. Diese Pumpen arbeiten mit einem einzelnen Zylinder und haben einen kompakten Aufbau, sodass sie sich leicht installieren und warten lassen. Außerdem sind sie energiesparender als viele andere Pumpentypen und eignen sich daher für Anwendungen, bei denen Wasser auf große Höhe gefördert werden muss."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "61004885bc46",
+        "_uid": "0e09612532b4",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "5338b5f2babd",
+            "component": "section_column",
+            "icon": "fa-puzzle-piece",
+            "content": [
+              {
+                "_uid": "81dfed9950fd",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Kompakt und einfach zu installieren",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Blockpumpen haben einen kompakten Aufbau, sodass sie sich auch bei beengten Platzverhältnissen leicht installieren und warten lassen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "e1766fb6eeb7",
+            "component": "section_column",
+            "icon": "fa-lightbulb",
+            "content": [
+              {
+                "_uid": "70af85f71bee",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Energiesparend",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Diese Pumpen sind energiesparender als viele andere Pumpentypen, was zu geringeren Betriebskosten und geringerer Umweltbelastung führt."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "9c62827a4e37",
+            "component": "section_column",
+            "icon": "fa-sync",
+            "content": [
+              {
+                "_uid": "c8890c52f9c0",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Vielseitigkeit",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Sie eignen sich dank ihres effizienten Aufbaus und hohen Förderstroms für ein breites Spektrum an Anwendungen wie Bewässerung, Wasserversorgung, Brandbekämpfung und industrielle Prozesse."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "d065b241edf0",
+            "component": "section_column",
+            "icon": "fa-hourglass",
+            "content": [
+              {
+                "_uid": "695f32e2053b",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Lange Lebensdauer",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Dank ihrer robusten Konstruktion und einfachen Wartung haben Blockpumpen eine lange Lebensdauer und sind damit sowohl für Privatpersonen als auch für Unternehmen zuverlässig."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "7cdfdf729a57",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "e457df6f91f1",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "bddb66b79f6f",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Effizient und vielseitig"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Blockpumpen eignen sich für ein breites Spektrum an Anwendungen, darunter Bewässerung, Wasserversorgung und Brandbekämpfung. Sie können in der Industrie auch zum Fördern von Flüssigkeiten und zum Reinigen von Tanks und Rohrleitungen eingesetzt werden. Aufgrund ihres effizienten Aufbaus und hohen Förderstroms sind Blockpumpen für gewerbliche und industrielle Anwendungen gut geeignet."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bei der Wahl einer Blockpumpe ist es wichtig, die spezifischen Anforderungen Ihrer Anwendung zu berücksichtigen. Es sind verschiedene Arten von Blockpumpen erhältlich, darunter horizontale und vertikale Pumpen, und jeder Typ eignet sich für bestimmte Anwendungen. Außerdem sollten Sie Förderstrom und Druck der Pumpe sowie Anschlüsse und Spannung beachten."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Wenn Sie eine effiziente und zuverlässige Möglichkeit suchen, Wasser zu fördern, ist eine Blockpumpe die richtige Wahl für Sie. Ob Sie einen kleinen Garten bewässern oder eine Industrieanlage versorgen möchten: Es gibt stets eine Blockpumpe, die Ihren Anforderungen entspricht. Außerdem lassen sich Blockpumpen leicht warten und haben eine lange Lebensdauer, sodass sie sowohl für Privatpersonen als auch für Unternehmen gut geeignet sind."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "39b25982f3a5",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "c2bbbdb54b07",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/toepassingen-blokpompen-2.webp",
+                  "alt": "Blockpumpenanlage für industrielle Anwendungen, ausgelegt für effizientes Fördern von Flüssigkeiten in offenen Umgebungen",
+                  "width": 1000,
+                  "height": 375
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "4cd7d66546dd",
         "component": "rich_text",
         "content": {
           "type": "doc",
@@ -359,277 +523,373 @@
         }
       },
       {
-        "_uid": "dbec706249ce",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-aeb.webp",
-          "alt": "Kundenlogo AEB",
-          "width": 387,
-          "height": 241
-        }
+        "_uid": "b7015145c725",
+        "component": "logo_carousel",
+        "logos": [
+          {
+            "_uid": "fc9a174c3c10",
+            "component": "logo_item",
+            "name": "AEB Amsterdam",
+            "image": {
+              "filename": "/img/clients/aeb-amsterdam.webp",
+              "alt": "AEB Amsterdam",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "40b99afbc3bb",
+            "component": "logo_item",
+            "name": "AkzoNobel",
+            "image": {
+              "filename": "/img/clients/akzonobel.webp",
+              "alt": "AkzoNobel",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "1d89ab5864b2",
+            "component": "logo_item",
+            "name": "HVC",
+            "image": {
+              "filename": "/img/clients/hvc.webp",
+              "alt": "HVC",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "6fcf271788f0",
+            "component": "logo_item",
+            "name": "Petrogas",
+            "image": {
+              "filename": "/img/clients/petrogas.webp",
+              "alt": "Petrogas",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "8c43e8c75874",
+            "component": "logo_item",
+            "name": "Tata Steel",
+            "image": {
+              "filename": "/img/clients/tata-steel.webp",
+              "alt": "Tata Steel",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "b290b214f0d6",
+            "component": "logo_item",
+            "name": "Waternet",
+            "image": {
+              "filename": "/img/clients/waternet.webp",
+              "alt": "Waternet",
+              "width": 280,
+              "height": 140
+            }
+          }
+        ]
       },
       {
-        "_uid": "653a4f323e98",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-akzonobel.webp",
-          "alt": "Kundenlogo AkzoNobel",
-          "width": 387,
-          "height": 241
-        }
+        "_uid": "63d1bac95a6a",
+        "component": "section_row",
+        "layout": "carousel",
+        "columns": [
+          {
+            "_uid": "838065a6b8ad",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "1387382bfe93",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Zuverlässiger und proaktiver Service von IPG!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Leiter Technischer Dienst schätze ich an IPG die Zuverlässigkeit der Herstellerunabhängigkeit und die proaktive Herangehensweise. Der schnelle Service ist in unserer Branche entscheidend, in der jede Minute Stillstand zählt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Leiter Technischer Dienst bei einem Chemiewerk."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "2145f6768219",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "15bdd216ff5d",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG ist ein zuverlässiger Partner bei Einkauf und Optimierung!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Einkaufsleiter schätze ich IPG als Partner, der unsere Bedürfnisse versteht und schnell liefert. Ihr Fachwissen und ihre Beratung haben unsere Prozesse optimiert."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Einkaufsleiter bei einem Lebensmittelhersteller."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "92fb3f761b10",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "4d7eeea1fdf8",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG ist ein unverzichtbarer Partner für Produktionseffizienz!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Produktionsleiter schätze ich IPG als unverzichtbaren Partner für Effizienz und Verfügbarkeit. Ihr fachkundiges Team hat uns bei den richtigen Pumpen und beim Service für eine gleichbleibende Produktion unterstützt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Projektleiter bei einer Papierfabrik."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "33552e3f7649",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "ed78c09a6432",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Jeroen von IPG ist ein entscheidender Partner für unsere Versorgungsqualität!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Facility Manager schätze ich Jeroen von IPG als entscheidende Stütze bei der Wartung unserer Pumpensysteme, was zu funktionsfähigen und effizienten Systemen führt, die die Qualität unserer Versorgung stärken."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Facility Manager in einem Krankenhaus."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "c92d4476d8dc",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "5770ed2a1b2b",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Zuverlässige und wartungsarme Pumpen!",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Blockpumpen von IPG sind von hoher Qualität und erfordern wenig Wartung. Genau das brauchen wir, um unsere Anlagen mit minimalem Stillstand zu betreiben."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Technischer Anlagenverwalter",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " bei einem Wasserverband."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "5d122212635c",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-hvc.webp",
-          "alt": "Kundenlogo HVC",
-          "width": 387,
-          "height": 241
-        }
+        "_uid": "56aedb0b331b",
+        "component": "cta_band",
+        "heading": "Unverbindlich Kontakt aufnehmen",
+        "text": "Wir beraten Sie gern zu Auswahl, Ersatz und Revision Ihrer Pumpe.",
+        "button_label": "Kontakt aufnehmen",
+        "button_link": {
+          "fieldtype": "multilink",
+          "linktype": "url",
+          "url": "/kontakt",
+          "cached_url": "/kontakt"
+        },
+        "variant": "primary"
       },
       {
-        "_uid": "cf832c9ecbcd",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-petrogas.webp",
-          "alt": "Kundenlogo Petrogas",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "1bf391e231d3",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-tatasteel.webp",
-          "alt": "Kundenlogo Tata Steel",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "386e533091bb",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-waternet.webp",
-          "alt": "Kundenlogo Waternet",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "2284056c1553",
+        "_uid": "cdda61facedc",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zuverlässiger und proaktiver Service von IPG!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Leiter Technischer Dienst schätze ich an IPG die Zuverlässigkeit der Herstellerunabhängigkeit und die proaktive Herangehensweise. Der schnelle Service ist in unserer Branche entscheidend, in der jede Minute Stillstand zählt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Leiter Technischer Dienst bei einem Chemiewerk."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG ist ein zuverlässiger Partner bei Einkauf und Optimierung!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Einkaufsleiter schätze ich IPG als Partner, der unsere Bedürfnisse versteht und schnell liefert. Ihr Fachwissen und ihre Beratung haben unsere Prozesse optimiert."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Einkaufsleiter bei einem Lebensmittelhersteller."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG ist ein unverzichtbarer Partner für Produktionseffizienz!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Produktionsleiter schätze ich IPG als unverzichtbaren Partner für Effizienz und Verfügbarkeit. Ihr fachkundiges Team hat uns bei den richtigen Pumpen und beim Service für eine gleichbleibende Produktion unterstützt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Projektleiter bei einer Papierfabrik."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Jeroen von IPG ist ein entscheidender Partner für unsere Versorgungsqualität!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Facility Manager schätze ich Jeroen von IPG als entscheidende Stütze bei der Wartung unserer Pumpensysteme, was zu funktionsfähigen und effizienten Systemen führt, die die Qualität unserer Versorgung stärken."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Facility Manager in einem Krankenhaus."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zuverlässige und wartungsarme Pumpen!",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Blockpumpen von IPG sind von hoher Qualität und erfordern wenig Wartung. Genau das brauchen wir, um unsere Anlagen mit minimalem Stillstand zu betreiben."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Technischer Anlagenverwalter",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " bei einem Wasserverband."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 4
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Unverbindlich Kontakt aufnehmen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -739,126 +999,166 @@
         }
       },
       {
-        "_uid": "b4cfccd4586b",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-saer-saer-irx.webp",
-          "alt": "SAER-Blockpumpe, geeignet für verschiedene industrielle Anwendungen, bei denen zuverlässiges Fördern von Flüssigkeiten erforderlich ist",
-          "width": 1024,
-          "height": 1024
-        }
+        "_uid": "def413c39c90",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "d12faf2ed17c",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "596064349641",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-saer-saer-irx.webp",
+                  "alt": "SAER-Blockpumpe, geeignet für verschiedene industrielle Anwendungen, bei denen zuverlässiges Fördern von Flüssigkeiten erforderlich ist",
+                  "width": 1024,
+                  "height": 1024
+                }
+              },
+              {
+                "_uid": "1b73b06470ba",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über SAER-Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "1faf18020a1e",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "88bfc27f822d",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-lowara-lowara-she.webp",
+                  "alt": "Lowara-Blockpumpe für effizientes Fördern von Flüssigkeiten in industriellen und gewerblichen Umgebungen",
+                  "width": 300,
+                  "height": 253
+                }
+              },
+              {
+                "_uid": "74fc5f5987f1",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Lowara-Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "4e8f9c52effc",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "810f1f1228c6",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-ebara-ebara-md.webp",
+                  "alt": "Ebara-Blockpumpe, ausgelegt für hohe Leistung in industriellen Anwendungen des Flüssigkeitstransports",
+                  "width": 520,
+                  "height": 520
+                }
+              },
+              {
+                "_uid": "fdbe4f227bca",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Ebara-Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "8057b1707d6f",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "4e2afd5a4cd7",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-merk-grundfos-grundfos-blokpomp.webp",
+                  "alt": "Grundfos-Blockpumpe für industrielle Anwendungen mit zuverlässiger Leistung und Effizienz",
+                  "width": 500,
+                  "height": 500
+                }
+              },
+              {
+                "_uid": "6f942680483b",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Grundfos-Pumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "2e00178465cf",
+        "_uid": "782499f98788",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über SAER-Pumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "aac72e2e0fdc",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-lowara-lowara-she.webp",
-          "alt": "Lowara-Blockpumpe für effizientes Fördern von Flüssigkeiten in industriellen und gewerblichen Umgebungen",
-          "width": 300,
-          "height": 253
-        }
-      },
-      {
-        "_uid": "7f1f52e9aabc",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Lowara-Pumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "a67379239173",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-ebara-ebara-md.webp",
-          "alt": "Ebara-Blockpumpe, ausgelegt für hohe Leistung in industriellen Anwendungen des Flüssigkeitstransports",
-          "width": 520,
-          "height": 520
-        }
-      },
-      {
-        "_uid": "d9cf18ed12f6",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Ebara-Pumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "df79d52c45aa",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-merk-grundfos-grundfos-blokpomp.webp",
-          "alt": "Grundfos-Blockpumpe für industrielle Anwendungen mit zuverlässiger Leistung und Effizienz",
-          "width": 500,
-          "height": 500
-        }
-      },
-      {
-        "_uid": "1b8a145a71ff",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Grundfos-Pumpen lesen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -915,7 +1215,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Brauchen Sie Hilfe bei der Auswahl der passenden Pumpe? Die Experten von IPG stehen für Sie bereit. Nehmen Sie unverbindlich Kontakt auf unter: [[PLATZHALTER: Telefon]] oder [[PLATZHALTER: E-Mail]]."
+                  "text": "Brauchen Sie Hilfe bei der Auswahl der passenden Pumpe? Die Experten von IPG stehen für Sie bereit. Nehmen Sie unverbindlich Kontakt auf unter: +31 251 222 566 oder info@industrialpumps.nl."
                 }
               ]
             }
@@ -923,43 +1223,62 @@
         }
       },
       {
-        "_uid": "91936ef1c9cf",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/toepassingen-blokpompen-3.webp",
-          "alt": "Industrielle Blockpumpe mit Stahlrohrleitungen für Flüssigkeitsverarbeitung und -transport in Produktionsanlagen",
-          "width": 1000,
-          "height": 667
-        }
-      },
-      {
-        "_uid": "7d8fcaa22309",
-        "component": "faq",
-        "heading": "Häufige Fragen",
-        "items": [
+        "_uid": "626832b0bce4",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
           {
-            "_uid": "e74c56d313bf",
-            "component": "faq_item",
-            "question": "Was sind Blockpumpen?",
-            "answer": "Blockpumpen sind ein Typ von Wasserpumpe, der mit einem einzelnen Zylinder und kompaktem Aufbau arbeitet. Sie sind effizient und energiesparend und werden für verschiedene Anwendungen eingesetzt, etwa Bewässerung, Wasserversorgung und Brandbekämpfung."
+            "_uid": "6023915faa41",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "3a78bbeb99b0",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/toepassingen-blokpompen-3.webp",
+                  "alt": "Industrielle Blockpumpe mit Stahlrohrleitungen für Flüssigkeitsverarbeitung und -transport in Produktionsanlagen",
+                  "width": 1000,
+                  "height": 667
+                }
+              }
+            ]
           },
           {
-            "_uid": "b12ba8a942c6",
-            "component": "faq_item",
-            "question": "Wie funktionieren Blockpumpen?",
-            "answer": "Blockpumpen fördern Wasser mithilfe eines Zylinders und eines Antriebs. Das Wasser wird in den Zylinder gesaugt und zum Ausgang gedrückt, wodurch der Wasserstrom erhöht wird."
-          },
-          {
-            "_uid": "346dfba9c324",
-            "component": "faq_item",
-            "question": "Welche Arten von Blockpumpen sind erhältlich?",
-            "answer": "Es sind verschiedene Arten von Blockpumpen erhältlich, darunter horizontale Blockpumpen, vertikale Blockpumpen, einseitige Blockpumpen, zweiseitige Blockpumpen und integrierte Blockpumpen. Wichtig ist, anhand Ihrer spezifischen Anforderungen und Anwendungen den passenden Typ zu wählen."
-          },
-          {
-            "_uid": "ab7ca1bb54ac",
-            "component": "faq_item",
-            "question": "Wofür werden Blockpumpen eingesetzt?",
-            "answer": "Blockpumpen werden häufig für verschiedene Anwendungen eingesetzt, etwa Wasserversorgung, Bewässerung, Brandbekämpfung, Heizung und Klimatisierung. Sie eignen sich auch für den Einsatz in industriellen Prozessen und in der Schifffahrt."
+            "_uid": "9893c46b13f0",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "3750b90ea1c1",
+                "component": "faq",
+                "heading": "Häufige Fragen",
+                "items": [
+                  {
+                    "_uid": "2b6a188c684b",
+                    "component": "faq_item",
+                    "question": "Was sind Blockpumpen?",
+                    "answer": "Blockpumpen sind ein Typ von Wasserpumpe, der mit einem einzelnen Zylinder und kompaktem Aufbau arbeitet. Sie sind effizient und energiesparend und werden für verschiedene Anwendungen eingesetzt, etwa Bewässerung, Wasserversorgung und Brandbekämpfung."
+                  },
+                  {
+                    "_uid": "e572bac1a0c1",
+                    "component": "faq_item",
+                    "question": "Wie funktionieren Blockpumpen?",
+                    "answer": "Blockpumpen fördern Wasser mithilfe eines Zylinders und eines Antriebs. Das Wasser wird in den Zylinder gesaugt und zum Ausgang gedrückt, wodurch der Wasserstrom erhöht wird."
+                  },
+                  {
+                    "_uid": "5032b8b032e1",
+                    "component": "faq_item",
+                    "question": "Welche Arten von Blockpumpen sind erhältlich?",
+                    "answer": "Es sind verschiedene Arten von Blockpumpen erhältlich, darunter horizontale Blockpumpen, vertikale Blockpumpen, einseitige Blockpumpen, zweiseitige Blockpumpen und integrierte Blockpumpen. Wichtig ist, anhand Ihrer spezifischen Anforderungen und Anwendungen den passenden Typ zu wählen."
+                  },
+                  {
+                    "_uid": "ad5d2e97fd74",
+                    "component": "faq_item",
+                    "question": "Wofür werden Blockpumpen eingesetzt?",
+                    "answer": "Blockpumpen werden häufig für verschiedene Anwendungen eingesetzt, etwa Wasserversorgung, Bewässerung, Brandbekämpfung, Heizung und Klimatisierung. Sie eignen sich auch für den Einsatz in industriellen Prozessen und in der Schifffahrt."
+                  }
+                ]
+              }
+            ]
           }
         ]
       }

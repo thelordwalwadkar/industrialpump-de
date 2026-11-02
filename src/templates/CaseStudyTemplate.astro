@@ -7,6 +7,7 @@ import PageHead from '../components/PageHead.astro';
 import RichTextHtml from '../components/RichTextHtml.astro';
 import RelatedLinks from '../storyblok/RelatedLinks.astro';
 import QuoteCta from '../components/QuoteCta.astro';
+import { hasOwnCta } from '../lib/page-cta';
 import Bloks from '../components/Bloks.astro';
 interface Props { story: PageStory<PageCaseStudy>; site: Site }
 const { story, site } = Astro.props;
@@ -19,4 +20,4 @@ const c = story.content;
 {c.result && <section class="section"><div class="wrap"><h2>Ergebnis</h2><RichTextHtml doc={c.result} /></div></section>}
 {c.products?.map((b) => <RelatedLinks blok={{ ...b, heading: b.heading ?? 'Eingesetzte Produkte' }} site={site} />)}
 <Bloks bloks={c.body} site={site} />
-<div class="wrap"><QuoteCta heading="Ähnliche Aufgabe?" text="Beschreiben Sie uns Ihre Anlage und Ihre Betriebsdaten." label="Angebot anfordern" href="/angebot" /></div>
+{!hasOwnCta(c) && <div class="wrap"><QuoteCta heading="Ähnliche Aufgabe?" text="Beschreiben Sie uns Ihre Anlage und Ihre Betriebsdaten." label="Angebot anfordern" href="/angebot" /></div>}

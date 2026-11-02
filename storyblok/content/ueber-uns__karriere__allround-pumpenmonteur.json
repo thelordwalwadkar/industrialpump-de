@@ -16,7 +16,195 @@
     "job_title": "Stellenanzeige Allround-Pumpenmonteur",
     "body": [
       {
-        "_uid": "33e91cbd3186",
+        "_uid": "330425c776a0",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "ce3b5faa5ef3",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "7b628fdac6fd",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 4
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Stellenanzeige Allround-Pumpenmonteur"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "STARTEN SIE IHRE TECHNISCHE KARRIERE!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Monteur für Pumpen und Pumpenanlagen gesucht"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Starten Sie als Allround-Pumpenmonteur in eine Welt technischer Herausforderungen! Kein gewöhnlicher Bürojob: Hier geht es ums Schrauben, Warten und Weiterentwickeln. Ja, Ihre Hände können schmutzig werden und Ihre Schuhe schlammig, aber das gehört zu diesem Abenteuer dazu."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bereit für den Einstieg?"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Rufen Sie Robert de Brouwer unter +31 251 222 566 an oder bewerben Sie sich direkt über das Formular weiter unten. Nutzen Sie diese Chance!"
+                        },
+                        {
+                          "type": "hard_break"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Initiativ- und Akquiseanfragen auf Basis unserer Stellenanzeigen sind nicht erwünscht.",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "e2b79d5daf10",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "8425438e035b",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Was sind Ihre Aufgaben?"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Sie bringen Pumpwerke und Pumpenanlagen wieder zum Laufen. Wartung und Revision gehören zu Ihren Stärken, und Ihr Werkzeug ist ergänzt durch mechanisches Wissen und Pumpenfachkenntnis. Mal sind Sie im Team unterwegs, mal arbeiten Sie in unserer Werkstatt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Was bringen Sie mit?"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ein Hintergrund in Maschinenbau, Mechanik oder Elektrotechnik ist Ihr Einstieg. Technik liegt Ihnen: Sie erkennen ein Problem und lösen es. Flexibilität, Teamgeist und Kundenorientierung zeichnen Sie aus. Ihr Arbeitstag beginnt um 7:30 Uhr; Überstunden kommen gelegentlich vor, wir achten aber darauf, dass Sie rechtzeitig nach Hause kommen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Warum bei uns?"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Warum bei uns?"
+                        },
+                        {
+                          "type": "hard_break"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Dies ist kein gewöhnliches Unternehmen, sondern eher eine Familie. Wir investieren mit Schulungen und Zertifikaten in Ihre Entwicklung. Wenn Sie wachsen, wachsen wir mit. Schon nach kurzer Zeit können Sie in die Rolle eines selbstständigen (Service-)Monteurs hineinwachsen. Ein gutes Betriebsklima und sehr gute Zusatzleistungen sind inbegriffen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bitte beachten Sie: Eine technische Ausbildung auf VMBO- oder MBO-Niveau (in Deutschland etwa Haupt- bis Berufsschulabschluss), ein VCA-Zertifikat und der Führerschein Klasse B sind Voraussetzung."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "0917e87126a7",
         "component": "rich_text",
         "content": {
           "type": "doc",
@@ -24,136 +212,12 @@
             {
               "type": "heading",
               "attrs": {
-                "level": 4
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Stellenanzeige Allround-Pumpenmonteur"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
                 "level": 3
               },
               "content": [
                 {
                   "type": "text",
-                  "text": "Bereit für den Einstieg?"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Rufen Sie Robert de Brouwer unter [[PLATZHALTER: Telefon]] an oder bewerben Sie sich direkt über das Formular weiter unten. Nutzen Sie diese Chance!"
-                },
-                {
-                  "type": "hard_break"
-                },
-                {
-                  "type": "text",
-                  "text": "Initiativ- und Akquiseanfragen auf Basis unserer Stellenanzeigen sind nicht erwünscht.",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Was sind Ihre Aufgaben?"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Sie bringen Pumpwerke und Pumpenanlagen wieder zum Laufen. Wartung und Revision gehören zu Ihren Stärken, und Ihr Werkzeug ist ergänzt durch mechanisches Wissen und Pumpenfachkenntnis. Mal sind Sie im Team unterwegs, mal arbeiten Sie in unserer Werkstatt."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Was bringen Sie mit?"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ein Hintergrund in Maschinenbau, Mechanik oder Elektrotechnik ist Ihr Einstieg. Technik liegt Ihnen: Sie erkennen ein Problem und lösen es. Flexibilität, Teamgeist und Kundenorientierung zeichnen Sie aus. Ihr Arbeitstag beginnt um 7:30 Uhr; Überstunden kommen gelegentlich vor, wir achten aber darauf, dass Sie rechtzeitig nach Hause kommen."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Warum bei uns?"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Warum bei uns?"
-                },
-                {
-                  "type": "hard_break"
-                },
-                {
-                  "type": "text",
-                  "text": "Dies ist kein gewöhnliches Unternehmen, sondern eher eine Familie. Wir investieren mit Schulungen und Zertifikaten in Ihre Entwicklung. Wenn Sie wachsen, wachsen wir mit. Schon nach kurzer Zeit können Sie in die Rolle eines selbstständigen (Service-)Monteurs hineinwachsen. Ein gutes Betriebsklima und sehr gute Zusatzleistungen sind inbegriffen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bitte beachten Sie: Eine technische Ausbildung auf VMBO- oder MBO-Niveau (in Deutschland etwa Haupt- bis Berufsschulabschluss), ein VCA-Zertifikat und der Führerschein Klasse B sind Voraussetzung."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Sie erreichen uns telefonisch unter [[PLATZHALTER: Telefon]] oder über das Formular weiter unten"
+                  "text": "Sie erreichen uns telefonisch unter +31 251 222 566 oder über das Formular weiter unten"
                 }
               ]
             },
@@ -195,89 +259,126 @@
                 },
                 {
                   "type": "text",
-                  "text": "Rufen Sie uns an unter [[PLATZHALTER: Telefon]], werktags zwischen 08:00 und 18:00 Uhr."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Stellenanzeige Allround-Pumpenmonteur"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "40 Stunden"
-                },
-                {
-                  "type": "hard_break"
-                },
-                {
-                  "type": "text",
-                  "text": "Hauptschul- bis Berufsschulabschluss Technik (VMBO bis MBO)"
-                },
-                {
-                  "type": "hard_break"
-                },
-                {
-                  "type": "text",
-                  "text": "VCA-Zertifikat"
-                },
-                {
-                  "type": "hard_break"
-                },
-                {
-                  "type": "text",
-                  "text": "Führerschein Klasse B"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Stellenanzeige Pumpenmonteur (Berufseinsteiger)"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "40 Stunden"
-                },
-                {
-                  "type": "hard_break"
-                },
-                {
-                  "type": "text",
-                  "text": "Hauptschul- bis Berufsschulabschluss Technik (VMBO bis MBO)"
-                },
-                {
-                  "type": "hard_break"
-                },
-                {
-                  "type": "text",
-                  "text": "Führerschein Klasse B"
+                  "text": "Rufen Sie uns an unter +31 251 222 566, werktags zwischen 08:00 und 18:00 Uhr."
                 }
               ]
             }
           ]
         }
+      },
+      {
+        "_uid": "a6b1175ba98d",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "2ecdd38db19f",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "0b85504dee6f",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Stellenanzeige Allround-Pumpenmonteur"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "40 Stunden"
+                        },
+                        {
+                          "type": "hard_break"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Hauptschul- bis Berufsschulabschluss Technik (VMBO bis MBO)"
+                        },
+                        {
+                          "type": "hard_break"
+                        },
+                        {
+                          "type": "text",
+                          "text": "VCA-Zertifikat"
+                        },
+                        {
+                          "type": "hard_break"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Führerschein Klasse B"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "4be9d413fdac",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "b22c2ce1ef8b",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Stellenanzeige Pumpenmonteur (Berufseinsteiger)"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "40 Stunden"
+                        },
+                        {
+                          "type": "hard_break"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Hauptschul- bis Berufsschulabschluss Technik (VMBO bis MBO)"
+                        },
+                        {
+                          "type": "hard_break"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Führerschein Klasse B"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       }
     ]
   }

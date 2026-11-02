@@ -15,274 +15,421 @@
     "topic_kind": "pumpentyp",
     "body": [
       {
-        "_uid": "c3606300069c",
+        "_uid": "f474287dacaa",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "34e748381150",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "b8e0677c5cb8",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Membranpumpen sind Maschinen, die Flüssigkeiten oder Gase mithilfe einer Membran fördern, die von einem bewegten Bauteil periodisch zusammengedrückt und entspannt wird."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "9e5b708523b9",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "e76178b77952",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "bullet_list",
+                      "content": [
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Debem-Pumpen"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Chemische Industrie",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/branchen/chemische-industrie",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Lebensmittelindustrie",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/branchen/lebensmittelindustrie",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Pharmaindustrie",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/branchen/pharmaindustrie",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Feststoff- und Schlammpumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/anwendungen/nassbaggerei",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "28eae712677a",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "09dee1ceaa95",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "c55e71b9f093",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Alles, was Sie über Membranpumpen wissen sollten: Funktion, Vorteile und Anwendungen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "27a5f5e0c743",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "69a94c5a9ede",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Membranpumpen sind ein wichtiger Bestandteil moderner Wasseraufbereitungssysteme und werden weltweit für ein breites Spektrum an Anwendungen eingesetzt, von der landwirtschaftlichen und industriellen Wasseraufbereitung bis zum Haushaltsgebrauch. Diese Pumpen arbeiten mit Membrantechnologie und sind dafür ausgelegt, Wasser effizient und nachhaltig zu bewegen und zugleich die Wasserqualität zu verbessern."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ein wichtiger Vorteil von Membranpumpen ist ihre sehr genaue Arbeitsweise. Dadurch können sie für jede Anwendung genau die passende Wassermenge liefern. Das macht sie gut geeignet für die Präzisionsbewässerung, bei der die richtige Wassermenge zur richtigen Zeit am richtigen Ort bereitgestellt wird. Außerdem sind Membranpumpen sehr energieeffizient, wodurch sich die Kosten der Wasseraufbereitung deutlich senken lassen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ein weiterer großer Vorteil von Membranpumpen ist ihre Langlebigkeit und Wartungsfreundlichkeit. Die zugrunde liegende Membrantechnologie ist sehr verschleißfest und kann jahrelang störungsfrei arbeiten, ohne dass viel Wartung nötig ist. Membranpumpen sind damit eine lohnende Investition für Unternehmen und Organisationen, die nach nachhaltigen Lösungen für ihre Wasseraufbereitung suchen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "2c798585e34f",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "9433753f5926",
+            "component": "section_column",
+            "icon": "fa-bullseye-arrow",
+            "content": [
+              {
+                "_uid": "f86ee590ce33",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Genaue Wasserförderung",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Membranpumpen können Wasser sehr genau dosieren, gut geeignet für Anwendungen wie die Präzisionsbewässerung, bei der exakte Wassermengen zu bestimmten Zeiten und an bestimmten Orten erforderlich sind."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "1dd69ceefdd6",
+            "component": "section_column",
+            "icon": "fa-lightbulb",
+            "content": [
+              {
+                "_uid": "066ccf82ea3d",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Energieeffizienz",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Diese Pumpen sind sehr energieeffizient, was zu deutlichen Kosteneinsparungen in Wasseraufbereitungsprozessen führt."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "86cc219a97f1",
+            "component": "section_column",
+            "icon": "fa-tools",
+            "content": [
+              {
+                "_uid": "4fa47ee8d96d",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Langlebigkeit und einfache Wartung",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Dank der Verschleißfestigkeit der Membrantechnologie haben diese Pumpen eine lange Lebensdauer und benötigen wenig Wartung, was sie wirtschaftlich und zuverlässig macht."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "233a5f2fa603",
+            "component": "section_column",
+            "icon": "fa-sync-alt",
+            "content": [
+              {
+                "_uid": "816aed54c2dd",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Vielseitige Anwendung",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Membranpumpen eignen sich für ein breites Spektrum an Wasseraufbereitungsanwendungen, darunter landwirtschaftliche, industrielle und häusliche Anwendungen, mit verschiedenen Pumpenarten wie Umkehrosmose, Nanofiltration, Ultrafiltration und Mikrofiltration."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "4d3c9a2e7345",
+        "component": "cta_band",
+        "heading": "Unverbindlich Kontakt aufnehmen",
+        "text": "Wir beraten Sie gern zu Auswahl, Ersatz und Revision Ihrer Pumpe.",
+        "button_label": "Kontakt aufnehmen",
+        "button_link": {
+          "fieldtype": "multilink",
+          "linktype": "url",
+          "url": "/kontakt",
+          "cached_url": "/kontakt"
+        },
+        "variant": "primary"
+      },
+      {
+        "_uid": "c97a407cecc9",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Membranpumpen sind Maschinen, die Flüssigkeiten oder Gase mithilfe einer Membran fördern, die von einem bewegten Bauteil periodisch zusammengedrückt und entspannt wird."
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Debem-Pumpen"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Chemische Industrie",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/branchen/chemische-industrie",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Lebensmittelindustrie",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/branchen/lebensmittelindustrie",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Pharmaindustrie",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/branchen/pharmaindustrie",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Feststoff- und Schlammpumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/anwendungen/nassbaggerei",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Alles, was Sie über Membranpumpen wissen sollten: Funktion, Vorteile und Anwendungen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Membranpumpen sind ein wichtiger Bestandteil moderner Wasseraufbereitungssysteme und werden weltweit für ein breites Spektrum an Anwendungen eingesetzt, von der landwirtschaftlichen und industriellen Wasseraufbereitung bis zum Haushaltsgebrauch. Diese Pumpen arbeiten mit Membrantechnologie und sind dafür ausgelegt, Wasser effizient und nachhaltig zu bewegen und zugleich die Wasserqualität zu verbessern."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ein wichtiger Vorteil von Membranpumpen ist ihre sehr genaue Arbeitsweise. Dadurch können sie für jede Anwendung genau die passende Wassermenge liefern. Das macht sie gut geeignet für die Präzisionsbewässerung, bei der die richtige Wassermenge zur richtigen Zeit am richtigen Ort bereitgestellt wird. Außerdem sind Membranpumpen sehr energieeffizient, wodurch sich die Kosten der Wasseraufbereitung deutlich senken lassen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ein weiterer großer Vorteil von Membranpumpen ist ihre Langlebigkeit und Wartungsfreundlichkeit. Die zugrunde liegende Membrantechnologie ist sehr verschleißfest und kann jahrelang störungsfrei arbeiten, ohne dass viel Wartung nötig ist. Membranpumpen sind damit eine lohnende Investition für Unternehmen und Organisationen, die nach nachhaltigen Lösungen für ihre Wasseraufbereitung suchen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Genaue Wasserförderung",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Membranpumpen können Wasser sehr genau dosieren, gut geeignet für Anwendungen wie die Präzisionsbewässerung, bei der exakte Wassermengen zu bestimmten Zeiten und an bestimmten Orten erforderlich sind."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Energieeffizienz",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Diese Pumpen sind sehr energieeffizient, was zu deutlichen Kosteneinsparungen in Wasseraufbereitungsprozessen führt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Langlebigkeit und einfache Wartung",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Dank der Verschleißfestigkeit der Membrantechnologie haben diese Pumpen eine lange Lebensdauer und benötigen wenig Wartung, was sie wirtschaftlich und zuverlässig macht."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Vielseitige Anwendung",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Membranpumpen eignen sich für ein breites Spektrum an Wasseraufbereitungsanwendungen, darunter landwirtschaftliche, industrielle und häusliche Anwendungen, mit verschiedenen Pumpenarten wie Umkehrosmose, Nanofiltration, Ultrafiltration und Mikrofiltration."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 4
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Unverbindlich Kontakt aufnehmen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -299,305 +446,418 @@
         }
       },
       {
-        "_uid": "3fc3677453a9",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-aeb.webp",
-          "alt": "Kundenlogo AEB",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "d96f9cdab452",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-akzonobel.webp",
-          "alt": "Kundenlogo AkzoNobel",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "c1eaeb2a9cde",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-hvc.webp",
-          "alt": "Kundenlogo HVC",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "b9ffa45ec671",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-petrogas.webp",
-          "alt": "Kundenlogo Petrogas",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "169c3a5b03c1",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-tatasteel.webp",
-          "alt": "Kundenlogo Tata Steel",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "59292485859e",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-waternet.webp",
-          "alt": "Kundenlogo Waternet",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "0ec5a0587145",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Robert von IPG: unverzichtbare Unterstützung bei Wasseraufbereitungsprojekten."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Projektleiter schätze ich die fachkundige Unterstützung von Robert von IPG; sein Einsatz für Wasseraufbereitungsprojekte und die schnelle Reaktion bei Störungen sind von unschätzbarem Wert. Mit Robert haben wir einen Experten für Pumpentechnik und einen verlässlichen Berater für unseren Betrieb."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Projektleiter bei einer Wasseraufbereitungsanlage."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG: ein zuverlässiger Partner bei Beschaffung und Optimierung!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Einkaufsleiter schätze ich IPG als Partner, der unsere Anforderungen versteht und schnell liefert. Fachwissen und Beratung haben unsere Prozesse optimiert."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Einkaufsleiter bei einem Lebensmittelhersteller."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG ist ein unverzichtbarer Partner für Produktionseffizienz!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Produktionsleiter schätze ich IPG als unverzichtbaren Partner für Effizienz und Verfügbarkeit. Das fachkundige Team hat uns bei der Auswahl der passenden Pumpen und beim Service für eine gleichbleibende Produktion unterstützt."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Projektleiter bei einer Papierfabrik."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Hervorragende chemische Beständigkeit und einfache Installation!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG liefert Membranpumpen, die gegen aggressive Chemikalien sehr gut beständig sind. Die Pumpen sind einfach zu installieren, und die Unterstützung von IPG macht den Ablauf störungsfrei und effizient."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Technischer Verwalter bei einem Wasseraufbereitungsunternehmen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zuverlässige und vielseitige Membranpumpen für anspruchsvolle Anwendungen!"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Membranpumpen von IPG sind robust und liefern auch unter anspruchsvollen Bedingungen gleichbleibende Leistung. Sie sind vielseitig einsetzbar und passen gut zu unseren Prozessen, die chemische Beständigkeit erfordern."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Operations Manager bei einem chemischen Produktionsbetrieb in den Niederlanden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Überblick über die verschiedenen Arten von Membranpumpen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Es gibt verschiedene Arten von Membranpumpen, darunter Umkehrosmose-Pumpen, Nanofiltrations-Pumpen, Ultrafiltrations-Pumpen und Mikrofiltrations-Pumpen. Jede Art ist für bestimmte Anwendungen ausgelegt und hat eigene Eigenschaften und Vorteile."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Umkehrosmose-Pumpen werden zum Beispiel häufig zur Aufbereitung von Brackwasser bis stark brackigem Wasser eingesetzt, während Nanofiltrations-Pumpen dafür ausgelegt sind, bestimmte Stoffe aus Wasser zu entfernen. Ultrafiltrations-Pumpen werden häufig zum Entfernen von Bakterien und Viren aus Wasser verwendet, Mikrofiltrations-Pumpen zum Entfernen feinerer Partikel und Verunreinigungen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Membranpumpen werden elektrisch angetrieben, und es sind verschiedene Antriebsarten verfügbar, darunter zentrale und dezentrale Systeme. Außerdem stehen verschiedene Bedienoptionen zur Verfügung, darunter Handbedienung, automatische Bedienung und Bedienung per Telemetrie."
-                }
-              ]
+        "_uid": "39ac46fc5ff9",
+        "component": "logo_carousel",
+        "logos": [
+          {
+            "_uid": "07e663d0eda5",
+            "component": "logo_item",
+            "name": "AEB Amsterdam",
+            "image": {
+              "filename": "/img/clients/aeb-amsterdam.webp",
+              "alt": "AEB Amsterdam",
+              "width": 280,
+              "height": 140
             }
-          ]
-        }
+          },
+          {
+            "_uid": "e7024abf6682",
+            "component": "logo_item",
+            "name": "AkzoNobel",
+            "image": {
+              "filename": "/img/clients/akzonobel.webp",
+              "alt": "AkzoNobel",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "451b81949570",
+            "component": "logo_item",
+            "name": "HVC",
+            "image": {
+              "filename": "/img/clients/hvc.webp",
+              "alt": "HVC",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "6f6655ca12e7",
+            "component": "logo_item",
+            "name": "Petrogas",
+            "image": {
+              "filename": "/img/clients/petrogas.webp",
+              "alt": "Petrogas",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "eea32a3a73ef",
+            "component": "logo_item",
+            "name": "Tata Steel",
+            "image": {
+              "filename": "/img/clients/tata-steel.webp",
+              "alt": "Tata Steel",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "9405b37cc11e",
+            "component": "logo_item",
+            "name": "Waternet",
+            "image": {
+              "filename": "/img/clients/waternet.webp",
+              "alt": "Waternet",
+              "width": 280,
+              "height": 140
+            }
+          }
+        ]
       },
       {
-        "_uid": "6614ae845347",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-membraan-2.webp",
-          "alt": "Membranpumpe | Industrial Pump Group",
-          "width": 1000,
-          "height": 760
-        }
+        "_uid": "3bc0889f94f4",
+        "component": "section_row",
+        "layout": "carousel",
+        "columns": [
+          {
+            "_uid": "6904defc8d93",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "e8ef771e57d6",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Robert von IPG: unverzichtbare Unterstützung bei Wasseraufbereitungsprojekten."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Projektleiter schätze ich die fachkundige Unterstützung von Robert von IPG; sein Einsatz für Wasseraufbereitungsprojekte und die schnelle Reaktion bei Störungen sind von unschätzbarem Wert. Mit Robert haben wir einen Experten für Pumpentechnik und einen verlässlichen Berater für unseren Betrieb."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Projektleiter bei einer Wasseraufbereitungsanlage."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "3f7103baf3e8",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "791751e24616",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG: ein zuverlässiger Partner bei Beschaffung und Optimierung!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Einkaufsleiter schätze ich IPG als Partner, der unsere Anforderungen versteht und schnell liefert. Fachwissen und Beratung haben unsere Prozesse optimiert."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Einkaufsleiter bei einem Lebensmittelhersteller."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "569f80a611f5",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "4a0a854c56b8",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG ist ein unverzichtbarer Partner für Produktionseffizienz!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Produktionsleiter schätze ich IPG als unverzichtbaren Partner für Effizienz und Verfügbarkeit. Das fachkundige Team hat uns bei der Auswahl der passenden Pumpen und beim Service für eine gleichbleibende Produktion unterstützt."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Projektleiter bei einer Papierfabrik."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "6f915a04673b",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "d7e2244bb91d",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Hervorragende chemische Beständigkeit und einfache Installation!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG liefert Membranpumpen, die gegen aggressive Chemikalien sehr gut beständig sind. Die Pumpen sind einfach zu installieren, und die Unterstützung von IPG macht den Ablauf störungsfrei und effizient."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Technischer Verwalter bei einem Wasseraufbereitungsunternehmen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "596138a25a48",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "7c17fea05643",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Zuverlässige und vielseitige Membranpumpen für anspruchsvolle Anwendungen!"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Membranpumpen von IPG sind robust und liefern auch unter anspruchsvollen Bedingungen gleichbleibende Leistung. Sie sind vielseitig einsetzbar und passen gut zu unseren Prozessen, die chemische Beständigkeit erfordern."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Operations Manager bei einem chemischen Produktionsbetrieb in den Niederlanden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "e37cea206ef4",
+        "_uid": "a0210d4aaee2",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "05545afde9d2",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "af36c5a9490c",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Überblick über die verschiedenen Arten von Membranpumpen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Es gibt verschiedene Arten von Membranpumpen, darunter Umkehrosmose-Pumpen, Nanofiltrations-Pumpen, Ultrafiltrations-Pumpen und Mikrofiltrations-Pumpen. Jede Art ist für bestimmte Anwendungen ausgelegt und hat eigene Eigenschaften und Vorteile."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Umkehrosmose-Pumpen werden zum Beispiel häufig zur Aufbereitung von Brackwasser bis stark brackigem Wasser eingesetzt, während Nanofiltrations-Pumpen dafür ausgelegt sind, bestimmte Stoffe aus Wasser zu entfernen. Ultrafiltrations-Pumpen werden häufig zum Entfernen von Bakterien und Viren aus Wasser verwendet, Mikrofiltrations-Pumpen zum Entfernen feinerer Partikel und Verunreinigungen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Membranpumpen werden elektrisch angetrieben, und es sind verschiedene Antriebsarten verfügbar, darunter zentrale und dezentrale Systeme. Außerdem stehen verschiedene Bedienoptionen zur Verfügung, darunter Handbedienung, automatische Bedienung und Bedienung per Telemetrie."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "9d39a4b719b0",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "07039a925d3d",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-membraan-2.webp",
+                  "alt": "Membranpumpe | Industrial Pump Group",
+                  "width": 1000,
+                  "height": 760
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "e55c00d2b0c8",
         "component": "rich_text",
         "content": {
           "type": "doc",
@@ -628,7 +888,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Benötigen Sie Hilfe bei der Auswahl der passenden Pumpe? Die Experten von IPG stehen Ihnen zur Verfügung. Nehmen Sie unverbindlich Kontakt auf unter [[PLATZHALTER: Telefon]] oder [[PLATZHALTER: E-Mail]]."
+                  "text": "Benötigen Sie Hilfe bei der Auswahl der passenden Pumpe? Die Experten von IPG stehen Ihnen zur Verfügung. Nehmen Sie unverbindlich Kontakt auf unter +31 251 222 566 oder info@industrialpumps.nl."
                 }
               ]
             },
@@ -666,43 +926,62 @@
         }
       },
       {
-        "_uid": "52d97b0b645c",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-membraan-3.webp",
-          "alt": "Membranpumpe | Industrial Pump Group",
-          "width": 1000,
-          "height": 634
-        }
-      },
-      {
-        "_uid": "5a965a8959f7",
-        "component": "faq",
-        "heading": "Häufige Fragen",
-        "items": [
+        "_uid": "d40408356cff",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
           {
-            "_uid": "f3336d39f883",
-            "component": "faq_item",
-            "question": "Was ist eine Membranpumpe?",
-            "answer": "Eine Membranpumpe ist ein Pumpentyp, der mithilfe einer Membran Stoffe und Verunreinigungen aus einer Flüssigkeit filtert. Die Membran fungiert als Barriere und hält bestimmte Stoffe zurück, während das gewünschte Produkt weitergefördert wird."
+            "_uid": "d2cd61db0f3f",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "e461e0a9579f",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-membraan-3.webp",
+                  "alt": "Membranpumpe | Industrial Pump Group",
+                  "width": 1000,
+                  "height": 634
+                }
+              }
+            ]
           },
           {
-            "_uid": "57329a79eb60",
-            "component": "faq_item",
-            "question": "Welche Arten von Membranpumpen gibt es?",
-            "answer": "Es gibt verschiedene Arten von Membranpumpen, darunter Umkehrosmose-Pumpen, Nanofiltrations-Pumpen, Ultrafiltrations-Pumpen und Mikrofiltrations-Pumpen. Jede Art ist für bestimmte Anwendungen ausgelegt und hat eigene Eigenschaften und Vorteile."
-          },
-          {
-            "_uid": "49de481c23de",
-            "component": "faq_item",
-            "question": "Wozu dient eine Membranpumpe?",
-            "answer": "Eine Membranpumpe dient dazu, Stoffe und Verunreinigungen aus einer Flüssigkeit zu filtern, sodass das gewünschte Produkt gefördert und gereinigt werden kann."
-          },
-          {
-            "_uid": "ee656b538e07",
-            "component": "faq_item",
-            "question": "Welche Vorteile hat eine Membranpumpe?",
-            "answer": "Zu den Vorteilen einer Membranpumpe gehören unter anderem die Präzision und Wirksamkeit der Filtration, die Möglichkeit, bestimmte Stoffe zu entfernen, und die Tatsache, dass die Membran keine Wartung erfordert."
+            "_uid": "3ab102203b1c",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "1118c1adf2f4",
+                "component": "faq",
+                "heading": "Häufige Fragen",
+                "items": [
+                  {
+                    "_uid": "cc3630ad2744",
+                    "component": "faq_item",
+                    "question": "Was ist eine Membranpumpe?",
+                    "answer": "Eine Membranpumpe ist ein Pumpentyp, der mithilfe einer Membran Stoffe und Verunreinigungen aus einer Flüssigkeit filtert. Die Membran fungiert als Barriere und hält bestimmte Stoffe zurück, während das gewünschte Produkt weitergefördert wird."
+                  },
+                  {
+                    "_uid": "f372b7975a90",
+                    "component": "faq_item",
+                    "question": "Welche Arten von Membranpumpen gibt es?",
+                    "answer": "Es gibt verschiedene Arten von Membranpumpen, darunter Umkehrosmose-Pumpen, Nanofiltrations-Pumpen, Ultrafiltrations-Pumpen und Mikrofiltrations-Pumpen. Jede Art ist für bestimmte Anwendungen ausgelegt und hat eigene Eigenschaften und Vorteile."
+                  },
+                  {
+                    "_uid": "da202b7ce090",
+                    "component": "faq_item",
+                    "question": "Wozu dient eine Membranpumpe?",
+                    "answer": "Eine Membranpumpe dient dazu, Stoffe und Verunreinigungen aus einer Flüssigkeit zu filtern, sodass das gewünschte Produkt gefördert und gereinigt werden kann."
+                  },
+                  {
+                    "_uid": "3d0d4c7da8cf",
+                    "component": "faq_item",
+                    "question": "Welche Vorteile hat eine Membranpumpe?",
+                    "answer": "Zu den Vorteilen einer Membranpumpe gehören unter anderem die Präzision und Wirksamkeit der Filtration, die Möglichkeit, bestimmte Stoffe zu entfernen, und die Tatsache, dass die Membran keine Wartung erfordert."
+                  }
+                ]
+              }
+            ]
           }
         ]
       }

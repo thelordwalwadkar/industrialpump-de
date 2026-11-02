@@ -15,392 +15,556 @@
     "topic_kind": "pumpentyp",
     "body": [
       {
-        "_uid": "490384184299",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Entwässerungspumpen spielen eine wichtige Rolle bei der Beherrschung von Wasserproblemen und beim Schutz von Gebäuden und landwirtschaftlichen Flächen vor Überflutung und Wasserschäden."
-                }
-              ]
-            },
-            {
-              "type": "bullet_list",
-              "content": [
-                {
-                  "type": "list_item",
+        "_uid": "39decaa56615",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "f1f1fa9f8109",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "52127cca6002",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
                     {
                       "type": "paragraph",
                       "content": [
                         {
                           "type": "text",
-                          "text": "Tauchmotorpumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/pumpentypen/tauchmotorpumpen",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
+                          "text": "Entwässerungspumpen spielen eine wichtige Rolle bei der Beherrschung von Wasserproblemen und beim Schutz von Gebäuden und landwirtschaftlichen Flächen vor Überflutung und Wasserschäden."
                         }
                       ]
                     }
                   ]
-                },
-                {
-                  "type": "list_item",
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "997ea4ed8f7f",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "44cc24e0f867",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
                   "content": [
                     {
-                      "type": "paragraph",
+                      "type": "bullet_list",
                       "content": [
                         {
-                          "type": "text",
-                          "text": "Feststoff- und Schlammpumpen",
-                          "marks": [
+                          "type": "list_item",
+                          "content": [
                             {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/pumpentypen/feststoffpumpen",
-                                "linktype": "url"
-                              }
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Tauchmotorpumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/pumpentypen/tauchmotorpumpen",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Feststoff- und Schlammpumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/pumpentypen/feststoffpumpen",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Flygt-Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/marken/flygt",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Grindex-Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/marken/grindex",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Homa-Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/marken/homa",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Ebara-Pumpen",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/marken/ebara",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "content": [
+                            {
+                              "type": "paragraph",
+                              "content": [
+                                {
+                                  "type": "text",
+                                  "text": "Wassertransport",
+                                  "marks": [
+                                    {
+                                      "type": "link",
+                                      "attrs": {
+                                        "href": "/pumpen/branchen/wassertransport",
+                                        "linktype": "url"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
                             }
                           ]
                         }
                       ]
                     }
                   ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Flygt-Pumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/marken/flygt",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Grindex-Pumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/marken/grindex",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Homa-Pumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/marken/homa",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Ebara-Pumpen",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/marken/ebara",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "list_item",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Wassertransport",
-                          "marks": [
-                            {
-                              "type": "link",
-                              "attrs": {
-                                "href": "/pumpen/branchen/wassertransport",
-                                "linktype": "url"
-                              }
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
                 }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Anwendungen und Vorteile: die Bedeutung der Entwässerung"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Entwässerung ist ein wesentlicher Aspekt des Wasserhaushalts und wird in verschiedenen Sektoren eingesetzt, darunter Landwirtschaft, Bauwesen und Stadtplanung. Sie sorgt für das Abführen überschüssigen Wassers, verhindert Staunässe und verbessert die Bodenqualität. In der Landwirtschaft kann die Entwässerung den Ernteertrag steigern, indem sie Staunässe und Bodenverdichtung verringert."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Im Bauwesen hält die Entwässerung Baugruben und Keller trocken und verhindert Schäden an Gebäuden durch Wasser. In städtischen Gebieten trägt die Entwässerung dazu bei, Überflutungsrisiken zu verringern und Wasserschäden an der Infrastruktur zu vermeiden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Vorteile der Entwässerung sind zahlreich und tragen zu einem nachhaltigen und effizienten Wasserhaushalt bei. Daher ist es wichtig, die Entwässerung bei verschiedenen Anwendungen zu berücksichtigen und ihre Möglichkeiten zu nutzen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Verschiedene Pumpentypen",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Eine Vielfalt an Pumpentypen wie Tauchmotorpumpen, Kreiselpumpen und selbstansaugende Pumpen für unterschiedliche Anforderungen und Umgebungen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Effiziente Wasserabführung",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Schnelles und effizientes Fördern von Wasser, um Schäden an Eigentum und Kulturen zu vermeiden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Vielseitigkeit",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Breites Spektrum an Anwendungen in Landwirtschaft, Bauwesen, Industrie und Haushalten für Wasserhaltung und Bewässerung."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Einfache Wartung",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Dank gut zugänglicher Bauteile und einer anwenderfreundlichen Konstruktion lassen sie sich leicht warten."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Vorteile und Anwendungen von Entwässerungspumpen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Entwässerungspumpen sind Geräte, mit denen überschüssiges Wasser aus überfluteten Bereichen gepumpt wird. Sie werden in vielen Anwendungen eingesetzt, darunter Landwirtschaft, Bauwesen, Industrie und Haushalte. Entwässerungspumpen sind dafür ausgelegt, Wasser schnell und effizient zu fördern und so Schäden an Eigentum und Kulturen zu vermeiden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ein Vorteil einer Entwässerungspumpe ist, dass mit ihr der Wasserstand in Bereichen geregelt werden kann, in denen er schnell ansteigen kann, etwa in Kellern und Fundamenten. Durch den Einbau einer Entwässerungspumpe kann Wasser effizient abgeführt werden, sodass die Gefahr von Überflutungen und Wasserschäden sinkt. Außerdem eignen sich Entwässerungspumpen für Landwirtschaft und Bewässerungssysteme, wo sie Wasser aus Quellen fördern und auf dem Land verteilen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Es sind verschiedene Arten von Entwässerungspumpen erhältlich, darunter Tauchmotorpumpen, Kreiselpumpen und selbstansaugende Pumpen. Jede Pumpe hat ihre eigenen Anwendungen und Vorteile. Bei der Wahl einer Entwässerungspumpe sind die zu fördernde Wassermenge, die Größe des zu entwässernden Bereichs und die spezifische Anwendung zu berücksichtigen."
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Die Zukunft der Entwässerungspumpen"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Entwässerungspumpen haben im Lauf der Jahre einen langen Weg zurückgelegt, und es gibt weiterhin Innovationen und Entwicklungen, um sie noch effizienter und nachhaltiger zu machen. Eine dieser Entwicklungen ist das Aufkommen intelligenter Entwässerungspumpen, die aus der Ferne gesteuert und überwacht werden können. Das ermöglicht eine effiziente und praktische Kontrolle der Wasserströme und eine Verbesserung der Pumpenleistung."
-                }
-              ]
-            }
-          ]
-        }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "5edf0076cb61",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/segmenten-drainage-2.webp",
-          "alt": "Anwendung von Entwässerungspumpen | Industrial Pump Group",
-          "width": 1000,
-          "height": 667
-        }
+        "_uid": "57418515a9f7",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "d26efa4a8f87",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "3b0b23fc9d0e",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Anwendungen und Vorteile: die Bedeutung der Entwässerung"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "9d23cecf3091",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "8a70a80cd960",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Entwässerung ist ein wesentlicher Aspekt des Wasserhaushalts und wird in verschiedenen Sektoren eingesetzt, darunter Landwirtschaft, Bauwesen und Stadtplanung. Sie sorgt für das Abführen überschüssigen Wassers, verhindert Staunässe und verbessert die Bodenqualität. In der Landwirtschaft kann die Entwässerung den Ernteertrag steigern, indem sie Staunässe und Bodenverdichtung verringert."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Im Bauwesen hält die Entwässerung Baugruben und Keller trocken und verhindert Schäden an Gebäuden durch Wasser. In städtischen Gebieten trägt die Entwässerung dazu bei, Überflutungsrisiken zu verringern und Wasserschäden an der Infrastruktur zu vermeiden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Vorteile der Entwässerung sind zahlreich und tragen zu einem nachhaltigen und effizienten Wasserhaushalt bei. Daher ist es wichtig, die Entwässerung bei verschiedenen Anwendungen zu berücksichtigen und ihre Möglichkeiten zu nutzen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "a88673a6ac91",
+        "_uid": "348b90abeffe",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "84cb33f99d10",
+            "component": "section_column",
+            "icon": "fa-sync-alt",
+            "content": [
+              {
+                "_uid": "208c1e830827",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Verschiedene Pumpentypen",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Eine Vielfalt an Pumpentypen wie Tauchmotorpumpen, Kreiselpumpen und selbstansaugende Pumpen für unterschiedliche Anforderungen und Umgebungen."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "c9d7d8927361",
+            "component": "section_column",
+            "icon": "fa-tint",
+            "content": [
+              {
+                "_uid": "2a19dc8d1e52",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Effiziente Wasserabführung",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Schnelles und effizientes Fördern von Wasser, um Schäden an Eigentum und Kulturen zu vermeiden."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "02546bf6b91b",
+            "component": "section_column",
+            "icon": "fa-chart-network",
+            "content": [
+              {
+                "_uid": "3b45f92ba217",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Vielseitigkeit",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Breites Spektrum an Anwendungen in Landwirtschaft, Bauwesen, Industrie und Haushalten für Wasserhaltung und Bewässerung."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "b48e3aed8c71",
+            "component": "section_column",
+            "icon": "fa-tools",
+            "content": [
+              {
+                "_uid": "615a7682c711",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Einfache Wartung",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Dank gut zugänglicher Bauteile und einer anwenderfreundlichen Konstruktion lassen sie sich leicht warten."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "2dc9a04d0da9",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "0e743dbaa8c7",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "5c6f9153f66e",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Vorteile und Anwendungen von Entwässerungspumpen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Entwässerungspumpen sind Geräte, mit denen überschüssiges Wasser aus überfluteten Bereichen gepumpt wird. Sie werden in vielen Anwendungen eingesetzt, darunter Landwirtschaft, Bauwesen, Industrie und Haushalte. Entwässerungspumpen sind dafür ausgelegt, Wasser schnell und effizient zu fördern und so Schäden an Eigentum und Kulturen zu vermeiden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ein Vorteil einer Entwässerungspumpe ist, dass mit ihr der Wasserstand in Bereichen geregelt werden kann, in denen er schnell ansteigen kann, etwa in Kellern und Fundamenten. Durch den Einbau einer Entwässerungspumpe kann Wasser effizient abgeführt werden, sodass die Gefahr von Überflutungen und Wasserschäden sinkt. Außerdem eignen sich Entwässerungspumpen für Landwirtschaft und Bewässerungssysteme, wo sie Wasser aus Quellen fördern und auf dem Land verteilen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Es sind verschiedene Arten von Entwässerungspumpen erhältlich, darunter Tauchmotorpumpen, Kreiselpumpen und selbstansaugende Pumpen. Jede Pumpe hat ihre eigenen Anwendungen und Vorteile. Bei der Wahl einer Entwässerungspumpe sind die zu fördernde Wassermenge, die Größe des zu entwässernden Bereichs und die spezifische Anwendung zu berücksichtigen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 3
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Die Zukunft der Entwässerungspumpen"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Entwässerungspumpen haben im Lauf der Jahre einen langen Weg zurückgelegt, und es gibt weiterhin Innovationen und Entwicklungen, um sie noch effizienter und nachhaltiger zu machen. Eine dieser Entwicklungen ist das Aufkommen intelligenter Entwässerungspumpen, die aus der Ferne gesteuert und überwacht werden können. Das ermöglicht eine effiziente und praktische Kontrolle der Wasserströme und eine Verbesserung der Pumpenleistung."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "79f9a7e50242",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "15e0e5bad7e8",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/segmenten-drainage-2.webp",
+                  "alt": "Anwendung von Entwässerungspumpen | Industrial Pump Group",
+                  "width": 1000,
+                  "height": 667
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_uid": "b7e8f9d40bbf",
         "component": "rich_text",
         "content": {
           "type": "doc",
@@ -421,315 +585,411 @@
         }
       },
       {
-        "_uid": "5776793c0ae7",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-aeb.webp",
-          "alt": "Kundenlogo AEB",
-          "width": 387,
-          "height": 241
-        }
+        "_uid": "05e266e129fb",
+        "component": "logo_carousel",
+        "logos": [
+          {
+            "_uid": "6917cfc2bf5d",
+            "component": "logo_item",
+            "name": "AEB Amsterdam",
+            "image": {
+              "filename": "/img/clients/aeb-amsterdam.webp",
+              "alt": "AEB Amsterdam",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "78ed5d4f3d49",
+            "component": "logo_item",
+            "name": "AkzoNobel",
+            "image": {
+              "filename": "/img/clients/akzonobel.webp",
+              "alt": "AkzoNobel",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "10d9efcedc78",
+            "component": "logo_item",
+            "name": "HVC",
+            "image": {
+              "filename": "/img/clients/hvc.webp",
+              "alt": "HVC",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "01fb058ad22d",
+            "component": "logo_item",
+            "name": "Petrogas",
+            "image": {
+              "filename": "/img/clients/petrogas.webp",
+              "alt": "Petrogas",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "6fa03a6714c1",
+            "component": "logo_item",
+            "name": "Tata Steel",
+            "image": {
+              "filename": "/img/clients/tata-steel.webp",
+              "alt": "Tata Steel",
+              "width": 280,
+              "height": 140
+            }
+          },
+          {
+            "_uid": "cbe0e4d578fd",
+            "component": "logo_item",
+            "name": "Waternet",
+            "image": {
+              "filename": "/img/clients/waternet.webp",
+              "alt": "Waternet",
+              "width": 280,
+              "height": 140
+            }
+          }
+        ]
       },
       {
-        "_uid": "9949a6e8b8a8",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-akzonobel.webp",
-          "alt": "Kundenlogo AkzoNobel",
-          "width": 387,
-          "height": 241
-        }
+        "_uid": "164724239be3",
+        "component": "section_row",
+        "layout": "carousel",
+        "columns": [
+          {
+            "_uid": "cf207b29163f",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "d10c39698364",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Hervorragende und zugängliche Kundenbetreuung bei jedem Kontakt!",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Der Einsatz ist perfekt und sehr serviceorientiert, sowohl telefonisch als auch bei geplanter Umsetzung und bei ungeplanten Störungen."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Projektleiter RGR",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " bei einem Abfallentsorger in den Niederlanden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "119993166f2a",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "c1e2ac04b1b7",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Hervorragende Erfahrung mit IPG: Professionalität, Qualität und proaktive Problemlösung!",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Als Arbeitsvorbereiter erlebe ich IPG als sehr professionell. Das Unternehmen strebt nach Qualität, denkt bei Verbesserungen mit und behebt Störungen schnell, um Stillstand zu minimieren."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Arbeitsvorbereiter Störungen",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " bei einem Wasserverband."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "60c3ed6277ab",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "a6f6e1fbe91e",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ein zuverlässiger Partner mit hervorragendem Service und kundenorientierter Beratung!",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Ich erlebe IPG als sehr guten Partner, ein Unternehmen, das Service großschreibt und mit den Kunden mitdenkt und berät."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Arbeitsvorbereiter Technischer Dienst",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " bei einem Abfallverwerter in den Niederlanden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "2203fd236e8a",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "e65eab138b4c",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Zuverlässige Entwässerungspumpen für jede Situation!",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "IPG liefert robuste Entwässerungspumpen, die auch unter schwierigen Bedingungen zuverlässig sind. Qualität und Bedienkomfort der Produkte machen IPG zu einem unverzichtbaren Partner für unsere Projekte."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Projektleiter bei einem Tiefbauunternehmen in den Niederlanden."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "43a4b624f9dd",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "b77470d08791",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Flexible Lösungen und Spitzenservice für kritische Entwässerungsanwendungen!",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mit den Entwässerungspumpen von IPG haben wir eine Lösung, die für verschiedene Situationen flexibel genug ist. Die Produkte sind langlebig, und der Service ist stets schnell und hilfsbereit."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Maintenance Engineer bei einem Bauunternehmen, das auf Wasserabführung spezialisiert ist."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "767828a3554e",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-hvc.webp",
-          "alt": "Kundenlogo HVC",
-          "width": 387,
-          "height": 241
-        }
+        "_uid": "eb2115894d27",
+        "component": "cta_band",
+        "heading": "Unverbindlich Kontakt aufnehmen",
+        "text": "Wir beraten Sie gern zu Auswahl, Ersatz und Revision Ihrer Pumpe.",
+        "button_label": "Kontakt aufnehmen",
+        "button_link": {
+          "fieldtype": "multilink",
+          "linktype": "url",
+          "url": "/kontakt",
+          "cached_url": "/kontakt"
+        },
+        "variant": "primary"
       },
       {
-        "_uid": "20040eeaf014",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-petrogas.webp",
-          "alt": "Kundenlogo Petrogas",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "9e62d925b80a",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-tatasteel.webp",
-          "alt": "Kundenlogo Tata Steel",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "c37343f53b2a",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/homepage-logos-waternet.webp",
-          "alt": "Kundenlogo Waternet",
-          "width": 387,
-          "height": 241
-        }
-      },
-      {
-        "_uid": "3889fa5d7494",
+        "_uid": "17f0ea4f7ab1",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Hervorragende und zugängliche Kundenbetreuung bei jedem Kontakt!",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Der Einsatz ist perfekt und sehr serviceorientiert, sowohl telefonisch als auch bei geplanter Umsetzung und bei ungeplanten Störungen."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Projektleiter RGR",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " bei einem Abfallentsorger in den Niederlanden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Hervorragende Erfahrung mit IPG: Professionalität, Qualität und proaktive Problemlösung!",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Als Arbeitsvorbereiter erlebe ich IPG als sehr professionell. Das Unternehmen strebt nach Qualität, denkt bei Verbesserungen mit und behebt Störungen schnell, um Stillstand zu minimieren."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Arbeitsvorbereiter Störungen",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " bei einem Wasserverband."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ein zuverlässiger Partner mit hervorragendem Service und kundenorientierter Beratung!",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Ich erlebe IPG als sehr guten Partner, ein Unternehmen, das Service großschreibt und mit den Kunden mitdenkt und berät."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Arbeitsvorbereiter Technischer Dienst",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": " bei einem Abfallverwerter in den Niederlanden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Zuverlässige Entwässerungspumpen für jede Situation!",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "IPG liefert robuste Entwässerungspumpen, die auch unter schwierigen Bedingungen zuverlässig sind. Qualität und Bedienkomfort der Produkte machen IPG zu einem unverzichtbaren Partner für unsere Projekte."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Projektleiter bei einem Tiefbauunternehmen in den Niederlanden."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐⭐ 5/5"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Flexible Lösungen und Spitzenservice für kritische Entwässerungsanwendungen!",
-                  "marks": [
-                    {
-                      "type": "bold"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mit den Entwässerungspumpen von IPG haben wir eine Lösung, die für verschiedene Situationen flexibel genug ist. Die Produkte sind langlebig, und der Service ist stets schnell und hilfsbereit."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Maintenance Engineer bei einem Bauunternehmen, das auf Wasserabführung spezialisiert ist."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Bewertung: ⭐⭐⭐⭐ 4/5"
-                }
-              ]
-            },
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 3
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Unverbindlich Kontakt aufnehmen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -773,64 +1033,92 @@
         }
       },
       {
-        "_uid": "f7c766b2678f",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-drainage-dompelpompen.webp",
-          "alt": "Tauchmotorpumpen für die Entwässerung | Industrial Pump Group",
-          "width": 1200,
-          "height": 1143
-        }
+        "_uid": "b516e146b6e9",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
+          {
+            "_uid": "3f123cc91291",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "51e10b7718a6",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-drainage-dompelpompen.webp",
+                  "alt": "Tauchmotorpumpen für die Entwässerung | Industrial Pump Group",
+                  "width": 1200,
+                  "height": 1143
+                }
+              },
+              {
+                "_uid": "f4502ee4a864",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Tauchmotorpumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "_uid": "207c4f23b555",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "10cfc7e5b121",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/pomptypes-slurrypompen.webp",
+                  "alt": "Feststoff- und Schlammpumpen für die Entwässerung | Industrial Pump Group",
+                  "width": 337,
+                  "height": 275
+                }
+              },
+              {
+                "_uid": "7d0ebdb050bf",
+                "component": "rich_text",
+                "content": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "heading",
+                      "attrs": {
+                        "level": 2
+                      },
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Mehr über Feststoff- und Schlammpumpen lesen"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
       },
       {
-        "_uid": "0b2411b0d679",
+        "_uid": "9b9e2d71a0b9",
         "component": "rich_text",
         "content": {
           "type": "doc",
           "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Tauchmotorpumpen lesen"
-                }
-              ]
-            }
-          ]
-        }
-      },
-      {
-        "_uid": "dc6fbf387659",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/pomptypes-slurrypompen.webp",
-          "alt": "Feststoff- und Schlammpumpen für die Entwässerung | Industrial Pump Group",
-          "width": 337,
-          "height": 275
-        }
-      },
-      {
-        "_uid": "bb06b25fa667",
-        "component": "rich_text",
-        "content": {
-          "type": "doc",
-          "content": [
-            {
-              "type": "heading",
-              "attrs": {
-                "level": 2
-              },
-              "content": [
-                {
-                  "type": "text",
-                  "text": "Mehr über Feststoff- und Schlammpumpen lesen"
-                }
-              ]
-            },
             {
               "type": "heading",
               "attrs": {
@@ -887,7 +1175,7 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "Brauchen Sie Hilfe bei der Auswahl der richtigen Pumpe? Die Experten von IPG stehen Ihnen zur Verfügung. Rufen Sie uns unverbindlich an unter [[PLATZHALTER: Telefon]] oder schreiben Sie an [[PLATZHALTER: E-Mail]]."
+                  "text": "Brauchen Sie Hilfe bei der Auswahl der richtigen Pumpe? Die Experten von IPG stehen Ihnen zur Verfügung. Rufen Sie uns unverbindlich an unter +31 251 222 566 oder schreiben Sie an info@industrialpumps.nl."
                 }
               ]
             }
@@ -895,43 +1183,62 @@
         }
       },
       {
-        "_uid": "e9d5cd2f08b8",
-        "component": "image_block",
-        "image": {
-          "filename": "/img/nl/segmenten-drainage-3.webp",
-          "alt": "Einbau von Entwässerungspumpen | Industrial Pump Group",
-          "width": 1000,
-          "height": 667
-        }
-      },
-      {
-        "_uid": "0307493a7bea",
-        "component": "faq",
-        "heading": "Häufige Fragen",
-        "items": [
+        "_uid": "2403e7e636da",
+        "component": "section_row",
+        "layout": "columns",
+        "columns": [
           {
-            "_uid": "726a16723e69",
-            "component": "faq_item",
-            "question": "Was sind Entwässerungspumpen und wofür werden sie eingesetzt?",
-            "answer": "Entwässerungspumpen sind Pumpen, mit denen überschüssiges Wasser zum Beispiel aus Kellern, Kriechkellern oder Baugruben abgepumpt wird. Sie werden auch zum Abführen von Wasser bei Überflutungen oder zum Leeren von Schwimmbädern und Teichen eingesetzt."
+            "_uid": "497284418406",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "1708b738a227",
+                "component": "image_block",
+                "image": {
+                  "filename": "/img/nl/segmenten-drainage-3.webp",
+                  "alt": "Einbau von Entwässerungspumpen | Industrial Pump Group",
+                  "width": 1000,
+                  "height": 667
+                }
+              }
+            ]
           },
           {
-            "_uid": "d6a30da7ef68",
-            "component": "faq_item",
-            "question": "Welche Arten von Entwässerungspumpen gibt es?",
-            "answer": "Es gibt verschiedene Arten von Entwässerungspumpen, darunter Tauchmotorpumpen, Kreiselpumpen und Vakuumpumpen. Tauchmotorpumpen arbeiten unter Wasser und saugen das Wasser von unten an. Kreiselpumpen arbeiten mit einem Laufrad, das das Wasser nach außen drückt. Vakuumpumpen saugen Wasser mithilfe von Unterdruck an."
-          },
-          {
-            "_uid": "96213f9fec3d",
-            "component": "faq_item",
-            "question": "Wie warte ich meine Entwässerungspumpe?",
-            "answer": "Regelmäßige Wartung kann die Lebensdauer der Pumpe verlängern und Störungen vorbeugen. Dazu gehören das Reinigen der Filter, das Prüfen des Pumpenzustands und der Austausch verschlissener Teile."
-          },
-          {
-            "_uid": "03a9863213b5",
-            "component": "faq_item",
-            "question": "Gibt es umweltfreundliche Optionen für Entwässerungspumpen?",
-            "answer": "Ja, es gibt umweltfreundliche Alternativen, etwa mit Solar- oder Windenergie betriebene Pumpen. Außerdem gibt es Pumpen, die das Wasser vor dem Ableiten filtern und reinigen."
+            "_uid": "3cb1168aed76",
+            "component": "section_column",
+            "content": [
+              {
+                "_uid": "944a1b49e25f",
+                "component": "faq",
+                "heading": "Häufige Fragen",
+                "items": [
+                  {
+                    "_uid": "885edb52d0e0",
+                    "component": "faq_item",
+                    "question": "Was sind Entwässerungspumpen und wofür werden sie eingesetzt?",
+                    "answer": "Entwässerungspumpen sind Pumpen, mit denen überschüssiges Wasser zum Beispiel aus Kellern, Kriechkellern oder Baugruben abgepumpt wird. Sie werden auch zum Abführen von Wasser bei Überflutungen oder zum Leeren von Schwimmbädern und Teichen eingesetzt."
+                  },
+                  {
+                    "_uid": "27d7a5d21117",
+                    "component": "faq_item",
+                    "question": "Welche Arten von Entwässerungspumpen gibt es?",
+                    "answer": "Es gibt verschiedene Arten von Entwässerungspumpen, darunter Tauchmotorpumpen, Kreiselpumpen und Vakuumpumpen. Tauchmotorpumpen arbeiten unter Wasser und saugen das Wasser von unten an. Kreiselpumpen arbeiten mit einem Laufrad, das das Wasser nach außen drückt. Vakuumpumpen saugen Wasser mithilfe von Unterdruck an."
+                  },
+                  {
+                    "_uid": "0d2fdc43c960",
+                    "component": "faq_item",
+                    "question": "Wie warte ich meine Entwässerungspumpe?",
+                    "answer": "Regelmäßige Wartung kann die Lebensdauer der Pumpe verlängern und Störungen vorbeugen. Dazu gehören das Reinigen der Filter, das Prüfen des Pumpenzustands und der Austausch verschlissener Teile."
+                  },
+                  {
+                    "_uid": "7a515f024c97",
+                    "component": "faq_item",
+                    "question": "Gibt es umweltfreundliche Optionen für Entwässerungspumpen?",
+                    "answer": "Ja, es gibt umweltfreundliche Alternativen, etwa mit Solar- oder Windenergie betriebene Pumpen. Außerdem gibt es Pumpen, die das Wasser vor dem Ableiten filtern und reinigen."
+                  }
+                ]
+              }
+            ]
           }
         ]
       }
