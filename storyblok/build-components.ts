@@ -25,7 +25,7 @@ const asset = (description: string): Field => ({ type: 'asset', filetypes: ['ima
 const link = (description: string, extra: Field = {}): Field => ({ type: 'multilink', description, email_link_type: true, asset_link_type: true, ...extra });
 const bloks = (description: string, whitelist: string[], extra: Field = {}): Field => ({ type: 'bloks', restrict_components: true, component_whitelist: whitelist, description, ...extra });
 
-const BODY_SLOT = ['rich_text', 'card_grid', 'cta_band', 'faq', 'spec_table', 'download_list', 'steps', 'related_links', 'image_text', 'image_block', 'data_table', 'button_row'];
+const BODY_SLOT = ['rich_text', 'card_grid', 'cta_band', 'faq', 'spec_table', 'download_list', 'steps', 'related_links', 'image_text', 'image_block', 'data_table', 'button_row', 'pump_finder', 'logo_carousel', 'usp_grid'];
 
 /** SEO + common fields shared by every page type. */
 const common = (): Record<string, Field> => ({
@@ -85,7 +85,7 @@ const DEFS: Def[] = [
   { name: 'hero', display_name: 'Hero', nestable: true, fields: { headline: text('Eine klare Kernaussage (H1).', { required: true }), subline: area('Unterzeile.'), primary_label: text('Button 1, z. B. „Pumpe finden“.'), primary_link: link('Ziel Button 1.'), secondary_label: text('Button 2, z. B. „Angebot anfordern“.'), secondary_link: link('Ziel Button 2.'), image: asset('Bild.') } },
   { name: 'rich_text', display_name: 'Text', nestable: true, fields: { content: rich('Fließtext.') } },
   { name: 'card', display_name: 'Karte', nestable: true, fields: { title: text('Titel.', { required: true }), text: area('Kurztext.'), link: link('Ziel.'), meta: text('Zusatzzeile, z. B. Kennwerte.'), image: asset('Bild.') } },
-  { name: 'card_grid', display_name: 'Karten-Raster', nestable: true, fields: { heading: text('Überschrift.'), intro: area('Einleitung.'), cards: bloks('Karten. Karten mit noch nicht vorhandenem Ziel werden automatisch ausgeblendet.', ['card']) } },
+  { name: 'card_grid', display_name: 'Karten-Raster', nestable: true, fields: { heading: text('Überschrift.'), intro: area('Einleitung.'), layout: option('Darstellung.', [{ name: 'Raster', value: 'grid' }, { name: 'Karussell', value: 'carousel' }]), cards: bloks('Karten. Karten mit noch nicht vorhandenem Ziel werden automatisch ausgeblendet.', ['card']) } },
   { name: 'cta_band', display_name: 'CTA-Banner', nestable: true, fields: { heading: text('Überschrift.', { required: true }), text: area('Text.'), button_label: text('Beschriftung sagt, was passiert (z. B. „Angebot anfordern“).', { required: true }), button_link: link('Ziel.'), variant: option('Farbe: Revision-Banner nutzen „overhaul“.', [{ name: 'Primär', value: 'primary' }, { name: 'Overhaul (Revision)', value: 'overhaul' }]) } },
   { name: 'faq_item', display_name: 'FAQ-Frage', nestable: true, fields: { question: text('Frage.', { required: true }), answer: area('Antwort (Klartext).', { required: true }) } },
   { name: 'faq', display_name: 'FAQ', nestable: true, fields: { heading: text('Überschrift.'), items: bloks('3–5 Fragen.', ['faq_item'], { maximum: 8 }) } },
@@ -96,6 +96,11 @@ const DEFS: Def[] = [
   { name: 'download_list', display_name: 'Downloads', nestable: true, fields: { heading: text('Überschrift.'), items: bloks('Dateien.', ['download_item']) } },
   { name: 'step', display_name: 'Schritt', nestable: true, fields: { title: text('Schritt.', { required: true }), text: area('Beschreibung.') } },
   { name: 'steps', display_name: 'Ablauf', nestable: true, fields: { heading: text('Überschrift.'), items: bloks('Nur echte Reihenfolgen (z. B. Revisionsablauf).', ['step']) } },
+  { name: 'pump_finder', display_name: 'Pumpenfinder (Rechner + Registrierung)', nestable: true, fields: { heading: text('Überschrift.', { required: true }), intro: area('Einleitung über dem Rechner.'), result_heading: text('Überschrift über dem Registrierungsformular (Schritt 2).'), result_text: area('Text in Schritt 2: Das Ergebnis wird nicht angezeigt, sondern nach der Registrierung zugesandt.') } },
+  { name: 'logo_item', display_name: 'Logo', nestable: true, fields: { name: text('Name (wird zum Alt-Text).', { required: true }), image: asset('Logo.'), link: link('Ziel (optional, z. B. Markenseite).') } },
+  { name: 'logo_carousel', display_name: 'Logo-Karussell', nestable: true, fields: { heading: text('Überschrift.'), intro: area('Einleitung.'), logos: bloks('Logos. Links auf noch nicht vorhandene Seiten werden ausgeblendet, das Logo bleibt sichtbar.', ['logo_item']) } },
+  { name: 'usp_item', display_name: 'Vorteil', nestable: true, fields: { title: text('Vorteil in wenigen Worten.', { required: true }), text: area('Kurze Erläuterung (optional).') } },
+  { name: 'usp_grid', display_name: 'Vorteile (Warum IPG)', nestable: true, fields: { heading: text('Überschrift.'), intro: area('Einleitung.'), items: bloks('Vorteile.', ['usp_item']) } },
   { name: 'logo_strip', display_name: 'Marken-Leiste', nestable: true, fields: { heading: text('Überschrift. Die Marken kommen automatisch aus den Marken-Seiten.') } },
   { name: 'link_item', display_name: 'Link', nestable: true, fields: { label: text('Sprechender Linktext (kein „hier klicken“).', { required: true }), link: link('Ziel.'), description: text('Kurzbeschreibung.') } },
   { name: 'related_links', display_name: 'Verwandte Links', nestable: true, fields: { heading: text('Überschrift.'), links: bloks('Links. Links auf noch nicht vorhandene Seiten werden automatisch ausgeblendet.', ['link_item']) } },

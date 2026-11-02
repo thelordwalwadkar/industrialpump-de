@@ -43,6 +43,11 @@
         "default_value": false,
         "pos": 5
       },
+      "service_type": {
+        "type": "text",
+        "description": "Leistungsart für das Service-Schema, z. B. „Pumpen für die Trinkwasserversorgung“.",
+        "pos": 6
+      },
       "topic_kind": {
         "type": "option",
         "source": "self",
@@ -62,18 +67,18 @@
         ],
         "description": "Art des Themas.",
         "required": true,
-        "pos": 6
+        "pos": 7
       },
       "tag": {
         "type": "text",
         "description": "Taxonomie-Schlüssel (z. B. „tauchmotorpumpen“). Passende Serien werden automatisch verlinkt.",
-        "pos": 7
+        "pos": 8
       },
       "challenges": {
         "type": "richtext",
         "description": "Typische Herausforderungen.",
         "rich_markdown": false,
-        "pos": 8
+        "pos": 9
       },
       "related": {
         "type": "bloks",
@@ -82,13 +87,13 @@
           "related_links"
         ],
         "description": "Passende Pumpentypen / Anwendungen (Querverweise).",
-        "pos": 9
+        "pos": 10
       },
       "technical_notes": {
         "type": "richtext",
         "description": "Technische Hinweise.",
         "rich_markdown": false,
-        "pos": 10
+        "pos": 11
       },
       "faq": {
         "type": "bloks",
@@ -98,7 +103,7 @@
         ],
         "description": "FAQ-Block (3–5 Fragen). Erzeugt auch FAQPage-Daten.",
         "maximum": 1,
-        "pos": 11
+        "pos": 12
       },
       "body": {
         "type": "bloks",
@@ -115,10 +120,13 @@
           "image_text",
           "image_block",
           "data_table",
-          "button_row"
+          "button_row",
+          "pump_finder",
+          "logo_carousel",
+          "usp_grid"
         ],
         "description": "Optionale Zusatz-Bausteine. Die Pflicht-Abschnitte sind im Template fest eingebaut.",
-        "pos": 12
+        "pos": 13
       },
       "cta": {
         "type": "bloks",
@@ -128,7 +136,7 @@
         ],
         "description": "Optionales Abschluss-Banner. Ohne Eintrag erscheint der Standard-CTA des Templates.",
         "maximum": 1,
-        "pos": 13
+        "pos": 14
       },
       "tab-seo": {
         "type": "tab",

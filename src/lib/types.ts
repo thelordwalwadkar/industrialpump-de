@@ -16,7 +16,12 @@ export interface Blok { _uid?: string; component: string }
 export interface Hero extends Blok { component: 'hero'; headline: string; subline?: string; primary_label?: string; primary_link?: SbLink; secondary_label?: string; secondary_link?: SbLink; image?: SbAsset }
 export interface RichTextBlok extends Blok { component: 'rich_text'; content?: RichTextDoc }
 export interface Card extends Blok { component: 'card'; title: string; text?: string; link?: SbLink; meta?: string; image?: SbAsset }
-export interface CardGrid extends Blok { component: 'card_grid'; heading?: string; intro?: string; cards?: Card[] }
+export interface CardGrid extends Blok { component: 'card_grid'; heading?: string; intro?: string; layout?: 'grid' | 'carousel'; cards?: Card[] }
+export interface PumpFinder extends Blok { component: 'pump_finder'; heading: string; intro?: string; result_heading?: string; result_text?: string }
+export interface LogoItem extends Blok { component: 'logo_item'; name: string; image?: SbAsset; link?: SbLink }
+export interface LogoCarousel extends Blok { component: 'logo_carousel'; heading?: string; intro?: string; logos?: LogoItem[] }
+export interface UspItem extends Blok { component: 'usp_item'; title: string; text?: string }
+export interface UspGrid extends Blok { component: 'usp_grid'; heading?: string; intro?: string; items?: UspItem[] }
 export interface CtaBand extends Blok { component: 'cta_band'; heading: string; text?: string; button_label: string; button_link: SbLink; variant?: 'primary' | 'overhaul' }
 export interface FaqItem extends Blok { component: 'faq_item'; question: string; answer: string }
 export interface Faq extends Blok { component: 'faq'; heading?: string; items?: FaqItem[] }
@@ -38,7 +43,7 @@ export interface NavItem extends Blok { component: 'nav_item'; label: string; li
 export interface NavGroup extends Blok { component: 'nav_group'; label: string; items?: NavItem[] }
 
 /** Optional, editor-added bloks allowed in the `body` slot of every page type. */
-export type BodyBlok = RichTextBlok | CardGrid | CtaBand | Faq | SpecTable | DownloadList | Steps | RelatedLinks | ImageText | ImageBlock | DataTable | ButtonRow;
+export type BodyBlok = RichTextBlok | CardGrid | CtaBand | Faq | SpecTable | DownloadList | Steps | RelatedLinks | ImageText | ImageBlock | DataTable | ButtonRow | PumpFinder | LogoCarousel | UspGrid;
 
 /* ---------- content types ---------- */
 export interface PageBase extends Blok {

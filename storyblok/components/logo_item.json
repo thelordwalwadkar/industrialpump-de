@@ -1,0 +1,31 @@
+{
+  "component": {
+    "name": "logo_item",
+    "display_name": "Logo",
+    "is_root": false,
+    "is_nestable": true,
+    "schema": {
+      "name": {
+        "type": "text",
+        "description": "Name (wird zum Alt-Text).",
+        "required": true,
+        "pos": 0
+      },
+      "image": {
+        "type": "asset",
+        "filetypes": [
+          "images"
+        ],
+        "description": "Logo.",
+        "pos": 1
+      },
+      "link": {
+        "type": "multilink",
+        "description": "Ziel (optional, z. B. Markenseite).",
+        "email_link_type": true,
+        "asset_link_type": true,
+        "pos": 2
+      }
+    }
+  }
+}

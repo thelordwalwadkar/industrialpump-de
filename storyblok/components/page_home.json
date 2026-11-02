@@ -43,6 +43,11 @@
         "default_value": false,
         "pos": 5
       },
+      "service_type": {
+        "type": "text",
+        "description": "Leistungsart für das Service-Schema der Startseite.",
+        "pos": 6
+      },
       "hero": {
         "type": "bloks",
         "restrict_components": true,
@@ -51,7 +56,7 @@
         ],
         "description": "Hero mit Kernaussage und zwei Buttons (Pumpe finden / Angebot anfordern).",
         "maximum": 1,
-        "pos": 6
+        "pos": 7
       },
       "tiles": {
         "type": "bloks",
@@ -61,7 +66,7 @@
         ],
         "description": "Einstiegs-Kacheln: Pumpentypen, Branchen, Anwendungen, Marken.",
         "maximum": 1,
-        "pos": 7
+        "pos": 8
       },
       "revision": {
         "type": "bloks",
@@ -71,7 +76,7 @@
         ],
         "description": "Revision-Teaser (Overhaul-Farbe).",
         "maximum": 1,
-        "pos": 8
+        "pos": 9
       },
       "brands": {
         "type": "bloks",
@@ -81,7 +86,7 @@
         ],
         "description": "Marken-Leiste (wird automatisch aus den Marken-Seiten gebaut).",
         "maximum": 1,
-        "pos": 9
+        "pos": 10
       },
       "references": {
         "type": "bloks",
@@ -91,7 +96,7 @@
         ],
         "description": "Referenzen-Teaser.",
         "maximum": 1,
-        "pos": 10
+        "pos": 11
       },
       "school": {
         "type": "bloks",
@@ -101,7 +106,7 @@
         ],
         "description": "Pumpenschule-Teaser.",
         "maximum": 1,
-        "pos": 11
+        "pos": 12
       },
       "contact": {
         "type": "bloks",
@@ -111,7 +116,7 @@
         ],
         "description": "Kontakt-CTA.",
         "maximum": 1,
-        "pos": 12
+        "pos": 13
       },
       "body": {
         "type": "bloks",
@@ -128,10 +133,13 @@
           "image_text",
           "image_block",
           "data_table",
-          "button_row"
+          "button_row",
+          "pump_finder",
+          "logo_carousel",
+          "usp_grid"
         ],
         "description": "Optionale Zusatz-Bausteine.",
-        "pos": 13
+        "pos": 14
       },
       "tab-seo": {
         "type": "tab",

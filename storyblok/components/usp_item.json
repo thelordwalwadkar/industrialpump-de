@@ -1,0 +1,21 @@
+{
+  "component": {
+    "name": "usp_item",
+    "display_name": "Vorteil",
+    "is_root": false,
+    "is_nestable": true,
+    "schema": {
+      "title": {
+        "type": "text",
+        "description": "Vorteil in wenigen Worten.",
+        "required": true,
+        "pos": 0
+      },
+      "text": {
+        "type": "textarea",
+        "description": "Kurze Erläuterung (optional).",
+        "pos": 1
+      }
+    }
+  }
+}

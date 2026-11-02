@@ -1,0 +1,143 @@
+---
+/**
+ * Pumpenfinder: Schritt 1 nimmt Betriebsdaten auf und rechnet im Browser eine erste Einschätzung (hydraulische Leistung,
+ * geschätzte Motorleistung, Pumpentyp-Vorschlag). Das Ergebnis wird bewusst NICHT angezeigt: Schritt 2 verlangt die
+ * Registrierung, die Werte gehen als versteckte Felder an den Formular-Endpunkt (PUBLIC_FORM_ENDPOINT) und der Vertrieb
+ * sendet die Auswertung zu. Ohne Endpunkt meldet das Formular ehrlich, dass nichts gesendet wurde.
+ */
+import type { PumpFinder } from '../lib/types';
+interface Props { blok: PumpFinder }
+const { blok } = Astro.props;
+const endpoint = (import.meta.env.PUBLIC_FORM_ENDPOINT as string | undefined) ?? '';
+---
+<section class="section finder" aria-labelledby="finder-title">
+  <div class="wrap">
+    <h2 id="finder-title">{blok.heading}</h2>
+    {blok.intro && <p class="lead-in">{blok.intro}</p>}
+    <form class="form finder-form" method="post" novalidate data-finder data-endpoint={endpoint}>
+      <input type="hidden" name="form" value="pumpenfinder" />
+      <label class="visually-hidden" aria-hidden="true">Bitte leer lassen<input type="text" name="website" tabindex="-1" autocomplete="off" /></label>
+
+      <ol class="finder-steps" aria-label="Fortschritt">
+        <li data-step-mark="1" aria-current="step">1. Betriebsdaten</li>
+        <li data-step-mark="2">2. Registrieren und Auswertung erhalten</li>
+      </ol>
+
+      <fieldset data-step="1">
+        <legend class="visually-hidden">Schritt 1: Betriebsdaten</legend>
+        <div class="row">
+          <label>Fördermedium *
+            <select name="medium" required>
+              <option value="">Bitte wählen</option>
+              <option>Sauberes Wasser</option>
+              <option>Abwasser / Schmutzwasser</option>
+              <option>Chemikalien</option>
+              <option>Öl / Kraftstoff</option>
+              <option>Zähflüssige Medien / Schlamm</option>
+              <option>Sonstiges</option>
+            </select>
+          </label>
+          <label>Einsatzbereich *
+            <select name="einsatz" required>
+              <option value="">Bitte wählen</option>
+              <option>Wasserversorgung / Druckerhöhung</option>
+              <option>Entwässerung</option>
+              <option>Industrieller Prozess</option>
+              <option>Gebäudetechnik / HVAC</option>
+              <option>Landwirtschaft / Bewässerung</option>
+              <option>Sonstiges</option>
+            </select>
+          </label>
+        </div>
+        <div class="row">
+          <label>Förderstrom Q (m³/h) *<input name="q_m3h" inputmode="decimal" required pattern="[0-9]+([.,][0-9]+)?" /></label>
+          <label>Förderhöhe H (m) *<input name="h_m" inputmode="decimal" required pattern="[0-9]+([.,][0-9]+)?" /></label>
+          <label>Medientemperatur (°C)<input name="temperatur_c" inputmode="decimal" pattern="-?[0-9]+([.,][0-9]+)?" /></label>
+        </div>
+        <div><button class="btn" type="button" data-calc>Pumpe berechnen</button></div>
+      </fieldset>
+
+      <fieldset data-step="2" hidden>
+        <legend class="visually-hidden">Schritt 2: Registrieren</legend>
+        <div class="finder-gate" role="status" tabindex="-1">
+          <h3>{blok.result_heading ?? 'Ihre Auswertung ist berechnet'}</h3>
+          <p>{blok.result_text ?? 'Registrieren Sie sich kurz. Ein Pumpenexperte prüft das Ergebnis und sendet Ihnen die passende Pumpe mit der berechneten Leistung zu.'}</p>
+        </div>
+        <input type="hidden" name="calc_hydraulische_leistung_kw" />
+        <input type="hidden" name="calc_motorleistung_geschaetzt_kw" />
+        <input type="hidden" name="calc_pumpentyp_vorschlag" />
+        <div class="row">
+          <label>Name *<input name="name" required autocomplete="name" /></label>
+          <label>Firma *<input name="firma" required autocomplete="organization" /></label>
+        </div>
+        <div class="row">
+          <label>E-Mail *<input type="email" name="email" required autocomplete="email" /></label>
+          <label>Telefon<input type="tel" name="telefon" autocomplete="tel" /></label>
+        </div>
+        <label class="check"><input type="checkbox" name="einwilligung" required /> <span>Ich willige in die Verarbeitung meiner Angaben zur Erstellung und Zusendung der Auswertung ein. Hinweise finden Sie in der <a href="/datenschutz">Datenschutzerklärung</a>. *</span></label>
+        <div class="btn-row">
+          <button class="btn" type="submit">Auswertung anfordern</button>
+          <button class="btn btn--ghost" type="button" data-back>Angaben ändern</button>
+        </div>
+      </fieldset>
+      <p class="form-status" role="status" aria-live="polite" hidden></p>
+    </form>
+  </div>
+</section>
+
+<script>
+  for (const form of document.querySelectorAll<HTMLFormElement>('form[data-finder]')) {
+    const step1 = form.querySelector<HTMLFieldSetElement>('[data-step="1"]')!;
+    const step2 = form.querySelector<HTMLFieldSetElement>('[data-step="2"]')!;
+    const marks = form.querySelectorAll<HTMLElement>('[data-step-mark]');
+    const status = form.querySelector<HTMLElement>('.form-status')!;
+    const field = (n: string) => form.elements.namedItem(n) as HTMLInputElement;
+    const num = (n: string) => Number(field(n).value.replace(',', '.'));
+    const show = (msg: string) => { status.textContent = msg; status.hidden = false; };
+    const go = (n: 1 | 2) => {
+      step1.hidden = n !== 1; step2.hidden = n !== 2;
+      marks.forEach((m) => (m.dataset.stepMark === String(n) ? m.setAttribute('aria-current', 'step') : m.removeAttribute('aria-current')));
+    };
+
+    form.querySelector('[data-calc]')!.addEventListener('click', () => {
+      status.hidden = true;
+      const inputs = [...step1.querySelectorAll<HTMLInputElement | HTMLSelectElement>('input,select')];
+      if (!inputs.every((i) => i.checkValidity())) { inputs.find((i) => !i.checkValidity())!.reportValidity(); return; }
+      const q = num('q_m3h'), h = num('h_m');
+      if (!(q > 0 && h > 0)) { show('Bitte geben Sie Förderstrom und Förderhöhe als positive Zahlen ein.'); return; }
+      // P_hyd = ρ·g·Q·H with water density; motor estimate assumes an overall efficiency of 60 % (first orientation only).
+      const hyd = (1000 * 9.81 * (q / 3600) * h) / 1000;
+      const medium = (form.elements.namedItem('medium') as HTMLSelectElement).value;
+      const einsatz = (form.elements.namedItem('einsatz') as HTMLSelectElement).value;
+      const typ = medium.startsWith('Zähflüssig') ? 'Exzenterschneckenpumpe'
+        : medium.startsWith('Abwasser') || einsatz === 'Entwässerung' ? 'Tauchmotorpumpe'
+        : einsatz.startsWith('Wasserversorgung') ? 'Druckerhöhungsanlage'
+        : h > 60 ? 'Mehrstufige Pumpe'
+        : q > 150 ? 'Kreiselpumpe' : 'Blockpumpe';
+      field('calc_hydraulische_leistung_kw').value = hyd.toFixed(2);
+      field('calc_motorleistung_geschaetzt_kw').value = (hyd / 0.6).toFixed(2);
+      field('calc_pumpentyp_vorschlag').value = typ;
+      go(2);
+      form.querySelector<HTMLElement>('.finder-gate')!.focus();
+    });
+    form.querySelector('[data-back]')!.addEventListener('click', () => { status.hidden = true; go(1); });
+
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      status.hidden = true;
+      if (field('website').value) return; // honeypot
+      const inputs = [...step2.querySelectorAll<HTMLInputElement>('input:not([type=hidden])')];
+      if (!inputs.every((i) => i.checkValidity())) { inputs.find((i) => !i.checkValidity())!.reportValidity(); return; }
+      const endpoint = form.dataset.endpoint;
+      if (!endpoint) { show('Dieses Formular ist noch nicht mit einem Empfänger verbunden. Es wurde nichts gesendet.'); return; }
+      try {
+        const res = await fetch(endpoint, { method: 'POST', body: new FormData(form) });
+        if (!res.ok) throw new Error(String(res.status));
+        form.reset(); go(1);
+        show('Vielen Dank. Ihre Angaben sind bei uns eingegangen. Ein Pumpenexperte sendet Ihnen die Auswertung zu.');
+      } catch {
+        show('Die Anfrage konnte nicht gesendet werden. Bitte versuchen Sie es erneut oder kontaktieren Sie uns direkt.');
+      }
+    });
+  }
+</script>

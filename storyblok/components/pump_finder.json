@@ -1,0 +1,31 @@
+{
+  "component": {
+    "name": "pump_finder",
+    "display_name": "Pumpenfinder (Rechner + Registrierung)",
+    "is_root": false,
+    "is_nestable": true,
+    "schema": {
+      "heading": {
+        "type": "text",
+        "description": "Überschrift.",
+        "required": true,
+        "pos": 0
+      },
+      "intro": {
+        "type": "textarea",
+        "description": "Einleitung über dem Rechner.",
+        "pos": 1
+      },
+      "result_heading": {
+        "type": "text",
+        "description": "Überschrift über dem Registrierungsformular (Schritt 2).",
+        "pos": 2
+      },
+      "result_text": {
+        "type": "textarea",
+        "description": "Text in Schritt 2: Das Ergebnis wird nicht angezeigt, sondern nach der Registrierung zugesandt.",
+        "pos": 3
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "component": {
+    "name": "logo_carousel",
+    "display_name": "Logo-Karussell",
+    "is_root": false,
+    "is_nestable": true,
+    "schema": {
+      "heading": {
+        "type": "text",
+        "description": "Überschrift.",
+        "pos": 0
+      },
+      "intro": {
+        "type": "textarea",
+        "description": "Einleitung.",
+        "pos": 1
+      },
+      "logos": {
+        "type": "bloks",
+        "restrict_components": true,
+        "component_whitelist": [
+          "logo_item"
+        ],
+        "description": "Logos. Links auf noch nicht vorhandene Seiten werden ausgeblendet, das Logo bleibt sichtbar.",
+        "pos": 2
+      }
+    }
+  }
+}

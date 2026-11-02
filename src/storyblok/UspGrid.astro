@@ -1,0 +1,18 @@
+---
+/** Vorteile („Warum IPG“): Überschrift, Einleitung, Raster aus kurzen Vorteilen mit Häkchen. */
+import type { UspGrid } from '../lib/types';
+interface Props { blok: UspGrid }
+const { blok } = Astro.props;
+const items = blok.items ?? [];
+---
+{items.length > 0 && (
+  <section class="section section--grey usp">
+    <div class="wrap">
+      {blok.heading && <h2>{blok.heading}</h2>}
+      {blok.intro && <p class="lead-in">{blok.intro}</p>}
+      <ul class="usp-grid">
+        {items.map((i) => <li><h3>{i.title}</h3>{i.text && <p>{i.text}</p>}</li>)}
+      </ul>
+    </div>
+  </section>
+)}

@@ -127,7 +127,10 @@
           "image_text",
           "image_block",
           "data_table",
-          "button_row"
+          "button_row",
+          "pump_finder",
+          "logo_carousel",
+          "usp_grid"
         ],
         "description": "Optionale Zusatz-Bausteine. Die Pflicht-Abschnitte sind im Template fest eingebaut.",
         "pos": 12

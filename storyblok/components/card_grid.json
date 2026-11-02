@@ -15,6 +15,22 @@
         "description": "Einleitung.",
         "pos": 1
       },
+      "layout": {
+        "type": "option",
+        "source": "self",
+        "options": [
+          {
+            "name": "Raster",
+            "value": "grid"
+          },
+          {
+            "name": "Karussell",
+            "value": "carousel"
+          }
+        ],
+        "description": "Darstellung.",
+        "pos": 2
+      },
       "cards": {
         "type": "bloks",
         "restrict_components": true,
@@ -22,7 +38,7 @@
           "card"
         ],
         "description": "Karten. Karten mit noch nicht vorhandenem Ziel werden automatisch ausgeblendet.",
-        "pos": 2
+        "pos": 3
       }
     }
   }

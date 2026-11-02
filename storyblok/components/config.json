@@ -62,33 +62,53 @@
         "description": "USt-IdNr.",
         "pos": 10
       },
+      "register_number": {
+        "type": "text",
+        "description": "Handelsregister-/KvK-Nummer.",
+        "pos": 11
+      },
+      "postal_address": {
+        "type": "text",
+        "description": "Postanschrift, falls abweichend von der Hausanschrift.",
+        "pos": 12
+      },
+      "footer_about": {
+        "type": "textarea",
+        "description": "Kurztext über dem Footer.",
+        "pos": 13
+      },
+      "footer_usps": {
+        "type": "textarea",
+        "description": "Vorteile im Footer, eine Zeile pro Punkt.",
+        "pos": 14
+      },
       "logo": {
         "type": "asset",
         "filetypes": [
           "images"
         ],
         "description": "Logo.",
-        "pos": 11
+        "pos": 15
       },
       "social": {
         "type": "textarea",
         "description": "Social-Profile, eine URL pro Zeile (sameAs).",
-        "pos": 12
+        "pos": 16
       },
       "map_embed_url": {
         "type": "text",
         "description": "Karten-Embed-URL (lädt erst nach Einwilligung).",
-        "pos": 13
+        "pos": 17
       },
       "authorised_dealer_brands": {
         "type": "textarea",
         "description": "Marken, für die offizieller Händlerstatus belegt ist, eine pro Zeile. Ohne Eintrag wird nie ein Händlerstatus behauptet.",
-        "pos": 14
+        "pos": 18
       },
       "default_description": {
         "type": "textarea",
         "description": "Standard-Meta-Beschreibung.",
-        "pos": 15
+        "pos": 19
       },
       "header_nav": {
         "type": "bloks",
@@ -97,7 +117,7 @@
           "nav_item"
         ],
         "description": "Hauptnavigation.",
-        "pos": 16
+        "pos": 20
       },
       "footer_groups": {
         "type": "bloks",
@@ -106,7 +126,7 @@
           "nav_group"
         ],
         "description": "Footer-Spalten.",
-        "pos": 17
+        "pos": 21
       }
     }
   }

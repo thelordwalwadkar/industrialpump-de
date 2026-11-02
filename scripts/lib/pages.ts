@@ -1,6 +1,5 @@
 /** Static pages: global settings, home, hubs, conversion pages and the legal skeletons (all placeholders for client facts). */
-import { BRANDS } from '../../content-src/copy';
-import { bullets, ctaBlok, doc, heading, link, para, story, storyLink, urlLink, type SeedStory } from './stories';
+import { bullets, doc, heading, link, para, story, storyLink, urlLink, type SeedStory } from './stories';
 import { createHash } from 'node:crypto';
 
 const uid = (s: string) => createHash('md5').update(s).digest('hex').slice(0, 12);
@@ -54,18 +53,67 @@ export function homeStory(): SeedStory {
       card('Pumpenschule', 'Grundlagen und Kurse', 'ueber-uns/pumpenschule'),
       card('Angebot', 'Angebot für Pumpe oder Ersatzteil anfordern', 'angebot'),
     ] }],
-    body: [{ _uid: uid('home-services'), component: 'card_grid', heading: 'Wobei wir helfen', cards: [
-      { _uid: uid('sv1'), component: 'card', title: 'Pumpen', text: 'Pumpen nach Marke, Serie und Pumpentyp. Senden Sie uns das Typenschild, wir prüfen die passende Pumpe.', link: storyLink('pumpen'), image: { filename: '/img/services/verkauf.webp', alt: '' } },
-      { _uid: uid('sv2'), component: 'card', title: 'Revision', text: 'Je nach Zustand umfasst eine Revision den Austausch von Verschleißteilen wie Gleitringdichtungen und Lagern.', link: urlLink('/angebot?anliegen=revision'), image: { filename: '/img/services/revision.webp', alt: '' } },
-      { _uid: uid('sv3'), component: 'card', title: 'Ersatzteile', text: 'Ersatzteile für Pumpen der Marken im Katalog. Die Verfügbarkeit hängt von Serie, Baujahr und Ausführung ab.', link: urlLink('/angebot?anliegen=ersatzteile'), image: { filename: '/img/services/ersatzteile.webp', alt: '' } },
-    ] }],
-    revision: [ctaBlok('home-revision', 'Revision statt Neukauf prüfen', 'Eine Revision kann je nach Zustand der Pumpe den Austausch von Verschleißteilen wie Gleitringdichtungen und Lagern umfassen. Senden Sie uns das Typenschild, wir prüfen den Umfang mit Ihnen.', 'Revision anfragen', urlLink('/angebot?anliegen=revision'), 'overhaul')],
-    brands: [{ _uid: uid('brands'), component: 'logo_strip', heading: 'Marken im Katalog' }],
-    references: [ctaBlok('home-referenzen', 'Referenzen', 'Eingesetzte Pumpen und Revisionen aus der Praxis.', 'Referenzen ansehen', storyLink('referenzen'))],
-    school: [ctaBlok('home-schule', 'Pumpenschule', 'Grundlagen, Kurse und Datenblätter rund um Pumpen.', 'Zur Pumpenschule', storyLink('ueber-uns/pumpenschule'))],
-    contact: [ctaBlok('home-kontakt', 'Fragen zu Auswahl oder Ersatz?', 'Schreiben Sie uns. Für ein konkretes Angebot nutzen Sie das Angebotsformular.', 'Kontakt aufnehmen', storyLink('kontakt'))],
+    // Section order as dictated by the client on 2 Nov 2026: finder · pump types · services · brands · why IPG · clients.
+    body: [
+      { _uid: uid('home-finder'), component: 'pump_finder', heading: 'Finden Sie die passende Pumpe',
+        intro: 'Geben Sie Ihre Betriebsdaten ein. Wir berechnen daraus die erforderliche Leistung und ordnen den passenden Pumpentyp zu.',
+        result_heading: 'Ihre Auswertung ist berechnet',
+        result_text: 'Registrieren Sie sich kurz, damit wir Ihnen das Ergebnis zusenden können. Ein Pumpenexperte prüft die Berechnung und nennt Ihnen passende Pumpen und Serien.' },
+      { _uid: uid('home-types'), component: 'card_grid', layout: 'carousel', heading: 'Pumpentypen im Überblick', cards: PUMP_TYPE_CARDS.map(([title, slug, text, file, width, height]) => (
+        { _uid: uid(`type-${slug}`), component: 'card', title, text, link: storyLink(`pumpen/pumpentypen/${slug}`), image: { filename: file, alt: '', width, height } })) },
+      { _uid: uid('home-services'), component: 'card_grid', heading: 'Wobei wir helfen', cards: [
+        { _uid: uid('sv1'), component: 'card', title: 'Pumpen', text: 'Pumpen nach Marke, Serie und Pumpentyp. Senden Sie uns das Typenschild, wir prüfen die passende Pumpe.', link: storyLink('pumpen'), image: { filename: '/img/services/verkauf.webp', alt: '' } },
+        { _uid: uid('sv2'), component: 'card', title: 'Revision', text: 'Je nach Zustand umfasst eine Revision den Austausch von Verschleißteilen wie Gleitringdichtungen und Lagern.', link: urlLink('/angebot?anliegen=revision'), image: { filename: '/img/services/revision.webp', alt: '' } },
+        { _uid: uid('sv3'), component: 'card', title: 'Ersatzteile', text: 'Ersatzteile für Pumpen der Marken im Katalog. Die Verfügbarkeit hängt von Serie, Baujahr und Ausführung ab.', link: urlLink('/angebot?anliegen=ersatzteile'), image: { filename: '/img/services/ersatzteile.webp', alt: '' } },
+      ] },
+      { _uid: uid('home-brands'), component: 'logo_carousel', heading: 'Marken, mit denen wir arbeiten', logos: BRAND_LOGOS.map(([name, file, width, height, slug]) => (
+        { _uid: uid(`brand-logo-${name}`), component: 'logo_item', name, image: { filename: file, alt: name, width, height }, ...(slug ? { link: storyLink(`pumpen/marken/${slug}`) } : {}) })) },
+      { _uid: uid('home-why'), component: 'usp_grid', heading: 'Warum IPG?',
+        intro: 'Pumpen gibt es in vielen Arten und Größen, deshalb ist es nicht einfach, die richtige Pumpe zu finden. Wir legen großen Wert auf unabhängige Beratung nach Maß und bleiben gegenüber den Produkten, die wir liefern, stets kritisch.',
+        items: [
+          ['Herstellerunabhängige Pumpenberatung', 'Wir wählen die Pumpe nach Ihrem Medium und Ihren Betriebsdaten aus, nicht nach einer Marke.'],
+          ['Offizieller Händler führender Marken', ''],
+          ['Schnelle Lieferung', ''],
+          ['Scharf kalkulierte Preise', ''],
+          ['Mehr als 30 Jahre Erfahrung', 'In Verkauf, Revision und Lieferung von Pumpen und Pumpenersatzteilen.'],
+          ['Engagierte Pumpenexperten', 'Unsere Monteure sind geschult und unterstützen Sie auch nach dem Kauf.'],
+        ].map(([title, text], i) => ({ _uid: uid(`usp-${i}`), component: 'usp_item', title, ...(text ? { text } : {}) })) },
+      { _uid: uid('home-clients'), component: 'logo_carousel', heading: 'Diese Kunden haben sich für IPG entschieden', logos: CLIENT_LOGOS.map(([name, file, slug]) => (
+        { _uid: uid(`client-logo-${name}`), component: 'logo_item', name, image: { filename: `/img/clients/${file}.webp`, alt: name, width: 280, height: 140 }, ...(slug ? { link: storyLink(slug) } : {}) })) },
+    ],
   });
 }
+
+/** [title, type slug, short text, image, width, height] for the pump-type carousel on the home page. */
+const PUMP_TYPE_CARDS: [string, string, string, string, number, number][] = [
+  ['Kreiselpumpen', 'kreiselpumpen', 'Fördern Flüssigkeiten über ein Laufrad; der Standard für Wasser bei mittleren Förderhöhen.', '/img/types/kreiselpumpen.webp', 900, 600],
+  ['Tauchmotorpumpen', 'tauchmotorpumpen', 'Arbeiten im Medium selbst und fördern Wasser aus Schächten, Gruben und Behältern.', '/img/types/tauchmotorpumpen.webp', 318, 500],
+  ['Mehrstufige Pumpen', 'mehrstufige-pumpen', 'Mehrere Laufräder hintereinander erzeugen hohe Drücke bei überschaubarem Förderstrom.', '/img/types/mehrstufige-pumpen.webp', 900, 504],
+  ['Exzenterschneckenpumpen', 'exzenterschneckenpumpen', 'Verdrängerpumpen für zähe, abrasive und scherempfindliche Medien.', '/img/nl/pomptypes-wormpompen.webp', 243, 141],
+  ['Blockpumpen', 'blockpumpen', 'Direkt angeflanschter Motor, kompakte Bauweise mit wenig Platzbedarf.', '/img/types/blockpumpen.webp', 900, 506],
+  ['Druckerhöhungsanlagen', 'druckerhoehungsanlagen', 'Pumpen, Behälter und Steuerung in einer Anlage, die den Druck konstant hält.', '/img/types/druckerhoehungsanlagen.webp', 424, 416],
+];
+
+/** Brand logos as listed on industrialpumps.nl/pompen/merken: [name, image, width, height, brand page slug]. */
+const BRAND_LOGOS: [string, string, number, number, string?][] = [
+  ['SAER', '/img/nl/merken-saer-logo.webp', 120, 54, 'saer'], ['Lowara', '/img/nl/merken-lowara-ipg.webp', 120, 54, 'lowara'],
+  ['Flygt', '/img/nl/merken-0015-ipg-01-flygt.webp', 120, 54, 'flygt'], ['Ebara', '/img/nl/merken-0017-ipg-01-ebara.webp', 120, 54, 'ebara'],
+  ['Godwin', '/img/nl/godwin.webp', 120, 54], ['Grundfos', '/img/nl/grundfos-ipg.webp', 120, 54, 'grundfos'],
+  ['Grindex', '/img/nl/grindex-logo-ipg.webp', 120, 54, 'grindex'], ['HOMA', '/img/nl/merken-0010-ipg-01-homa.webp', 110, 54, 'homa'],
+  ['Seepex', '/img/nl/merken-seepex.webp', 120, 54, 'seepex'], ['Netzsch', '/img/nl/merken-0005-ipg-01-netzsch.webp', 120, 54, 'netzsch'],
+  ['Varisco', '/img/nl/merken-0000-varisco-logo.webp', 120, 54, 'varisco'], ['Vogel', '/img/nl/merken-0024-vogel-ipg.webp', 120, 54, 'vogel'],
+  ['Wilo', '/img/nl/wilo-ipg.webp', 120, 54, 'wilo'], ['Balcke-Dürr', '/img/nl/merken-balckedurr-ipg.webp', 120, 54],
+  ['Düchting', '/img/nl/merken-0019-ipg-01-duchting-logo.webp', 120, 54, 'duchting'], ['Sulzer', '/img/nl/merken-sulzer.webp', 120, 54, 'sulzer'],
+  ['Safco', '/img/nl/merken-safco.webp', 120, 54, 'safco'], ['Fybroc', '/img/nl/merken-fybroc-logo.webp', 120, 54, 'fybroc'],
+  ['Metso', '/img/nl/merken-metso.webp', 120, 54, 'metso'], ['Samoa', '/img/nl/samoa.webp', 225, 107],
+  ['Sterling SIHI', '/img/nl/sterling-sihi-ipg.webp', 120, 54, 'sterling-sihi'], ['Goulds', '/img/nl/merken-0023-goulds-pumps-logo.webp', 120, 39, 'goulds'],
+];
+
+/** Client logos supplied by the client (2 Nov 2026), cropped into public/img/clients: [name, file, case-study slug]. */
+const CLIENT_LOGOS: [string, string, string?][] = [
+  ['AEB Amsterdam', 'aeb-amsterdam', 'ueber-uns/referenzen/aeb-amsterdam'], ['Waternet', 'waternet', 'ueber-uns/referenzen/waternet'],
+  ['Wintershall', 'wintershall'], ['HVC', 'hvc'], ['Sonneborn', 'sonneborn'], ['AkzoNobel', 'akzonobel'], ['Tata Steel', 'tata-steel'], ['Petrogas', 'petrogas'],
+];
 
 export function hubStories(): SeedStory[] {
   return [

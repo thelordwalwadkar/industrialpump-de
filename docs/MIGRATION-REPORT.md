@@ -1,11 +1,10 @@
 # Migrationsbericht (automatisch erzeugt)
 
-Übersetzte Seiten als Story: 161, an bestehende Seiten angehängt: 7, bestehende Seiten ohne NL-Text: 4, noch nicht übersetzt: 0.
+Übersetzte Seiten als Story: 161, an bestehende Seiten angehängt: 6, bestehende Seiten ohne NL-Text: 5, noch nicht übersetzt: 0.
 
 ## Noch nicht übersetzt
 
 ## An bestehende Seiten angehängt
-- / (+36 Bloks)
 - /pumpen (+2 Bloks)
 - /pumpen/marken (+24 Bloks)
 - /pumpen/marken/ebara (+23 Bloks)
@@ -14,6 +13,7 @@
 - /pumpen/marken/saer (+62 Bloks)
 
 ## Bestehende Seiten, NL-Text nicht übernommen
+- / (Startseite: Aufbau nach Kundenvorgabe vom 2. Nov 2026, niederländischer Text nicht angehängt)
 - /agb (page_legal: bestehende Seite bleibt, niederländischer Text nicht übernommen)
 - /kontakt (page_contact: bestehende Seite bleibt, niederländischer Text nicht übernommen)
 - /angebot (page_contact: bestehende Seite bleibt, niederländischer Text nicht übernommen)

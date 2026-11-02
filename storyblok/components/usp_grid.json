@@ -1,0 +1,29 @@
+{
+  "component": {
+    "name": "usp_grid",
+    "display_name": "Vorteile (Warum IPG)",
+    "is_root": false,
+    "is_nestable": true,
+    "schema": {
+      "heading": {
+        "type": "text",
+        "description": "Überschrift.",
+        "pos": 0
+      },
+      "intro": {
+        "type": "textarea",
+        "description": "Einleitung.",
+        "pos": 1
+      },
+      "items": {
+        "type": "bloks",
+        "restrict_components": true,
+        "component_whitelist": [
+          "usp_item"
+        ],
+        "description": "Vorteile.",
+        "pos": 2
+      }
+    }
+  }
+}

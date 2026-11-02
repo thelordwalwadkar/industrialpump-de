@@ -226,6 +226,7 @@ export function nlStories(existing: Map<string, SeedStory>): { stories: SeedStor
 
     const present = existing.get(full);
     if (present) {
+      if (full === 'home') { report.skippedExisting.push('/ (Startseite: Aufbau nach Kundenvorgabe vom 2. Nov 2026, niederländischer Text nicht angehängt)'); continue; }
       if (NO_APPEND.has(String(present.content.component))) { report.skippedExisting.push(`${entry.de} (${present.content.component}: bestehende Seite bleibt, niederländischer Text nicht übernommen)`); continue; }
       const c = present.content as Node;
       c.body = [...(c.body ?? []), ...bloks];

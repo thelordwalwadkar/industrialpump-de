@@ -43,16 +43,21 @@
         "default_value": false,
         "pos": 5
       },
+      "service_type": {
+        "type": "text",
+        "description": "Optional: Leistungsart, wenn die Übersicht als Service ausgezeichnet werden soll.",
+        "pos": 6
+      },
       "child_heading": {
         "type": "text",
         "description": "Überschrift über dem Raster der Unterseiten.",
-        "pos": 6
+        "pos": 7
       },
       "body_text": {
         "type": "richtext",
         "description": "Optionaler Text unter dem Raster.",
         "rich_markdown": false,
-        "pos": 7
+        "pos": 8
       },
       "body": {
         "type": "bloks",
@@ -69,10 +74,13 @@
           "image_text",
           "image_block",
           "data_table",
-          "button_row"
+          "button_row",
+          "pump_finder",
+          "logo_carousel",
+          "usp_grid"
         ],
         "description": "Optionale Zusatz-Bausteine. Die Pflicht-Abschnitte sind im Template fest eingebaut.",
-        "pos": 8
+        "pos": 9
       },
       "cta": {
         "type": "bloks",
@@ -82,7 +90,7 @@
         ],
         "description": "Optionales Abschluss-Banner. Ohne Eintrag erscheint der Standard-CTA des Templates.",
         "maximum": 1,
-        "pos": 9
+        "pos": 10
       },
       "tab-seo": {
         "type": "tab",

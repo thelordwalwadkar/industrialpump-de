@@ -4,11 +4,11 @@ Every internal link on the site is derived from the folder tree and the shared t
 
 | Level | Pages | Avg. outbound body links | Avg. inbound links |
 |---|---|---|---|
-| Startseite | 1 | 65.0 | 217.0 |
+| Startseite | 1 | 35.0 | 217.0 |
 | 1 | 12 | 12.4 | 183.8 |
 | 2 | 34 | 16.8 | 54.0 |
 | 3 | 109 | 8.1 | 20.2 |
-| 4 | 40 | 15.4 | 11.5 |
+| 4 | 40 | 15.4 | 10.6 |
 | 5 | 21 | 10.9 | 1.0 |
 
 Orphan pages: **0**. Broken internal links: **0**.

@@ -14,7 +14,36 @@ const cards: LinkCard[] = (blok.cards ?? []).flatMap((c) => {
 });
 const withPhotos = cards.length > 0 && cards.every((c) => c.image?.filename);
 ---
-{cards.length > 0 && (
+{cards.length > 0 && blok.layout === 'carousel' && (
+  <section class="section carousel" aria-roledescription="Karussell" aria-label={blok.heading ?? 'Karussell'}>
+    <div class="wrap">
+      <div class="carousel__head">
+        {blok.heading && <h2>{blok.heading}</h2>}
+        <div class="carousel__nav">
+          <button type="button" class="carousel__btn" data-dir="-1" aria-label="Zurück">‹</button>
+          <button type="button" class="carousel__btn" data-dir="1" aria-label="Weiter">›</button>
+        </div>
+      </div>
+      {blok.intro && <p>{blok.intro}</p>}
+      <ul class="carousel__track" tabindex="0">
+        {cards.map((c) => {
+          const img = c.image ? sbImage(c.image, 400, 300) : undefined;
+          return (
+            <li class="carousel__item">
+              <a href={c.href}>
+                {img && <span class="carousel__img"><img src={img.src} width={img.width} height={img.height} alt="" loading="lazy" decoding="async" /></span>}
+                <h3>{c.title}</h3>
+                {c.text && <p>{c.text}</p>}
+                <span class="go">Mehr erfahren</span>
+              </a>
+            </li>
+          );
+        })}
+      </ul>
+    </div>
+  </section>
+)}
+{cards.length > 0 && blok.layout !== 'carousel' && (
   <section class="section section--grey">
     <div class="wrap">
       {blok.heading && <h2>{blok.heading}</h2>}
@@ -35,3 +64,20 @@ const withPhotos = cards.length > 0 && cards.every((c) => c.image?.filename);
     </div>
   </section>
 )}
+
+<script>
+  // Carousel buttons scroll the track by roughly one card; buttons are disabled at the ends.
+  for (const root of document.querySelectorAll<HTMLElement>('section.carousel')) {
+    const track = root.querySelector<HTMLElement>('.carousel__track')!;
+    const btns = root.querySelectorAll<HTMLButtonElement>('.carousel__btn');
+    const step = () => (track.querySelector<HTMLElement>('.carousel__item')?.offsetWidth ?? 300) + 24;
+    const sync = () => {
+      btns[0]!.disabled = track.scrollLeft <= 2;
+      btns[1]!.disabled = track.scrollLeft + track.clientWidth >= track.scrollWidth - 2;
+    };
+    btns.forEach((b) => b.addEventListener('click', () => track.scrollBy({ left: Number(b.dataset.dir) * step(), behavior: 'smooth' })));
+    track.addEventListener('scroll', sync, { passive: true });
+    window.addEventListener('resize', sync);
+    sync();
+  }
+</script>
